@@ -1,13 +1,16 @@
 = fontist-archive-public
 
-Public archive of Unicode coverage data and open-license WOFF font specimens for the Fontist project.
+Public archive of Unicode coverage data, open-license WOFF specimens,
+ucode Unicode data, and panglyph universal-font releases for the Fontist project.
 
 == Purpose
 
-This is the *public consumer* of `fontist/fontist-archive-private`. It contains:
+This is the *public consumer* of multiple data streams:
 
 * ALL coverage data (metadata is public — even for proprietary fonts)
 * Open-license WOFF specimens ONLY (OFL, Apache, MIT, etc.)
+* ucode Unicode data (per-block codepoint feeds + universal glyph set)
+* panglyph releases (universal Unicode 17 font)
 
 It does NOT contain:
 
@@ -18,30 +21,55 @@ It does NOT contain:
 == Structure
 
 ----
-coverage/{formula_slug}.yaml          Unicode coverage (ALL fonts — public metadata)
-  google/abeezee.yaml
-  manual/inter.yaml
-  macos/font8/akaya.yaml               (coverage IS public even for macOS)
+coverage/{formula_slug}/{PSName}.yaml   ucode audit output (ALL fonts)
+  google/abeezee/ABeeZee-Regular.yaml      one YAML per font face
+  manual/inter/Inter-Bold.yaml             one per TTC face
+  macos/font8/akaya/AkayaKannada.yaml      (coverage IS public even for macOS)
 
-woff/{formula_slug}/{font}.woff       WOFF specimens (open-license ONLY)
-  google/abeezee/esDR31xSG.woff
-  manual/inter/Inter-Regular.woff
+woff/{formula_slug}/{PSName}.woff2     WOFF specimens (open-license ONLY)
+  google/abeezee/ABeeZee-Regular.woff2     named from formula post_script_name
   (NO macos/ directory — proprietary)
 
-fonts.json                            Font registry
+fonts.json                              Font registry (canonical name → formula slugs)
+font-metadata.json                      Per-face metadata (weight, style, etc.)
+
+unicode/                                ucode Unicode-only artifacts
+  block-feed/                           compact per-block feed (consumed by fontist.org)
+    unicode-blocks.json
+    unicode-version.json
+    unicode/blocks/<slug>.json
+  universal-glyph-set/                  one SVG per codepoint
+    manifest.json                       version, counts, generatedAt
+    entries/U+XXXX.json                 per-glyph provenance
+    glyphs/U+XXXX.svg
+  codepoints-{version}.tar.zst          per-codepoint detailed JSONs (release asset)
+  codepoints-index.json                 quick lookup index
+
+panglyph/                               panglyph universal-font releases
+  manifest.json                         latest version + version index
+  v17.0.0/                              per-release directory
+    panglyph-unicode17.ttf
+    panglyph-unicode17.woff2
+    panglyph-unicode17.otf
+    coverage-report.json
+    source-manifest.json                OFL provenance per source font
 ----
 
 == Sync pipeline
 
-This repo syncs from `fontist/fontist-archive-private` periodically:
+Three independent pipelines feed this repo:
 
-1. Clone private repo
-2. Copy `coverage/` (ALL files — metadata is public)
-3. Copy `woff/` excluding `macos/` (proprietary specimens excluded)
-4. Copy `fonts.json`
-5. Commit + push
+[cols="1,2,2", options="header"]
+|===
+|Source |What it syncs |Trigger
 
-No processing happens here. This is a pure consumer.
+|fontist-archive-private |coverage/ + woff/ + fonts.json |per-formula CI runs
+|fontist/ucode |unicode/block-feed + unicode/universal-glyph-set |per-Unicode-version publish workflow
+|fontist/panglyph |panglyph/v{X.Y.Z}/ + manifest.json |per-release tag
+|===
+
+Each pipeline syncs independently to a disjoint directory, so they can
+run concurrently without git conflicts.
 
 == Data separation
 
@@ -52,10 +80,15 @@ No processing happens here. This is a pure consumer.
 |Raw font files |✅ ALL |❌ NEVER |Contains proprietary fonts
 |Coverage YAML |✅ ALL |✅ ALL |Metadata only, no font data
 |WOFF specimens |✅ ALL |✅ Open-only |WOFF is a usable font file
+|ucode Unicode data |(n/a — public source) |✅ ALL |Pure Unicode data, no fonts
+|panglyph universal font |(n/a — assembled from OFL sources) |✅ ALL |OFL
 |Build code |✅ |❌ |Public is consumer only
 |===
 
 == See also
 
-* https://github.com/fontist/fontist-archive-private[fontist-archive-private] — source of truth (private)
+* https://github.com/fontist/fontist-archive-private[fontist-archive-private] — source of truth for per-font data (private)
+* https://github.com/fontist/ucode[fontist/ucode] — Unicode data + audit tool
+* https://github.com/fontist/panglyph[fontist/panglyph] — universal Unicode 17 font assembler
+* https://github.com/fontist/fontisan[fontist/fontisan] — font parsing + WOFF conversion primitives
 * https://github.com/fontist/formulas[fontist/formulas] — formula definitions
