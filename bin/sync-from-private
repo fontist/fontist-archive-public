@@ -15,6 +15,17 @@ for item in coverage/*; do
 done
 cd ..
 
+echo "Syncing details (excluding macos/)..."
+rm -rf details
+mkdir -p details
+cd /tmp/private
+for item in details/*; do
+  [ -e "$item" ] || continue
+  base=$(basename "$item")
+  [ "$base" != "macos" ] && cp -r "$item" "../details/"
+done
+cd ..
+
 echo "Syncing woff (excluding macos/)..."
 rm -rf woff
 mkdir -p woff
@@ -30,4 +41,5 @@ cp /tmp/private/fonts.json . 2>/dev/null || true
 rm -rf /tmp/private
 
 echo "Coverage: $(find coverage -name '*.json' | wc -l)"
+echo "Details: $(find details -name '*.json' | wc -l)"
 echo "Woff: $(find woff -name '*.woff' | wc -l)"

@@ -1,0 +1,46 @@
+name: Sync from fontist/panglyph
+
+# Triggers when panglyph pushes a v* tag (new release).
+# Writes to: panglyph/v{X.Y.Z}/, panglyph/manifest.json
+on:
+  repository_dispatch:
+    types: [panglyph-released]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'panglyph version (e.g. 17.0.0)'
+        required: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      VERSION: ${{ github.event.client_payload.version || github.event.inputs.version }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download panglyph release
+        env:
+          GH_TOKEN: ${{ secrets.ARCHIVE_PUBLIC_BOT_TOKEN }}
+        run: |
+          gh release download "v${VERSION}" \
+            --repo fontist/panglyph \
+            --pattern "panglyph-unicode*.{ttf,woff2,otf}" \
+            --pattern "coverage-report.json" \
+            --pattern "source-manifest.json" \
+            --dir "/tmp/v${VERSION}"
+      - name: Sync panglyph/
+        run: |
+          mkdir -p "panglyph/v${VERSION}"
+          cp /tmp/v${VERSION}/* "panglyph/v${VERSION}/"
+      - name: Update top-level manifest.json
+        run: |
+          ruby bin/update-panglyph-manifest.rb "${VERSION}"
+      - name: Commit + push
+        run: |
+          git config user.email "archive-bot@fontist.org"
+          git config user.name "archive-bot"
+          git add -A panglyph/
+          if ! git diff --quiet HEAD -- panglyph/; then
+            git commit -m "Sync panglyph v${VERSION}"
+            git push
+          fi

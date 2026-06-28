@@ -1,0 +1,62 @@
+name: Sync from fontist/ucode
+
+# Triggers when ucode's publish-unicode-archive workflow completes.
+# Writes to: unicode/block-feed/, unicode/universal-glyph-set/
+on:
+  workflow_run:
+    workflows: [publish-unicode-archive]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    if: github.event.workflow_run.conclusion == 'success'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download ucode artifacts
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runId = context.payload.workflow_run?.id || '${{ github.event.inputs.run_id }}'
+            if (!runId) {
+              core.setFailed('No workflow_run id available')
+              return
+            }
+            const artifacts = await github.rest.actions.listWorkflowRunArtifacts({
+              owner: 'fontist',
+              repo: 'ucode',
+              run_id: parseInt(runId),
+            })
+            for (const artifact of artifacts.data.artifacts) {
+              if (!artifact.name.startsWith('unicode-')) continue
+              core.info(`Downloading ${artifact.name}`)
+              const zip = await github.rest.actions.downloadArtifact({
+                owner: 'fontist',
+                repo: 'ucode',
+                artifact_id: artifact.id,
+                archive_format: 'zip',
+              })
+              const fs = require('fs')
+              fs.writeFileSync(`/tmp/${artifact.name}.zip`, Buffer.from(zip.data))
+            }
+      - name: Sync unicode/
+        run: |
+          rm -rf unicode/block-feed unicode/universal-glyph-set
+          mkdir -p unicode/block-feed unicode/universal-glyph-set
+          for f in /tmp/unicode-*.zip; do
+            case "$f" in
+              *block-feed*) unzip -o "$f" -d unicode/block-feed ;;
+              *universal-glyph-set*) unzip -o "$f" -d unicode/universal-glyph-set ;;
+            esac
+          done
+      - name: Commit + push
+        run: |
+          git config user.email "archive-bot@fontist.org"
+          git config user.name "archive-bot"
+          git add -A unicode/
+          if ! git diff --quiet HEAD -- unicode/; then
+            git commit -m "Sync unicode/ from fontist/ucode @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

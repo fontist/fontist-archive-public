@@ -1,0 +1,49 @@
+name: Sync from fontist-archive-private
+
+# Triggers when fontist-archive-private pushes a new commit (typically
+# via repository_dispatch from the per-formula CI runs).
+# Writes to: coverage/, woff/, fonts.json, font-metadata.json
+on:
+  repository_dispatch:
+    types: [archive-private-updated]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Clone private (read-only deploy key)
+        env:
+          SSH_KEY: ${{ secrets.ARCHIVE_PRIVATE_DEPLOY_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git clone --depth 1 git@github.com:fontist/fontist-archive-private.git /tmp/private
+      - name: Sync coverage/ (all metadata is public)
+        run: |
+          rm -rf coverage
+          cp -r /tmp/private/coverage .
+      - name: Sync woff/ (open-license only)
+        run: |
+          rm -rf woff
+          mkdir -p woff
+          for d in /tmp/private/woff/*; do
+            base=$(basename "$d")
+            [ "$base" != "macos" ] && cp -r "$d" "woff/"
+          done
+      - name: Sync fonts.json + font-metadata.json
+        run: |
+          cp /tmp/private/fonts.json . 2>/dev/null || true
+          cp /tmp/private/font-metadata.json . 2>/dev/null || true
+      - name: Commit + push
+        run: |
+          git config user.email "archive-bot@fontist.org"
+          git config user.name "archive-bot"
+          git add -A
+          if ! git diff --quiet HEAD; then
+            git commit -m "Sync from fontist-archive-private @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
