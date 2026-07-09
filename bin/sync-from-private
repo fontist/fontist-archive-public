@@ -1,45 +1,65 @@
 #!/usr/bin/env bash
+# Canonical sync script. Called by:
+#   - .github/workflows/sync.yml         (cron + repository_dispatch[sync])
+#   - .github/workflows/sync-private.yml (repository_dispatch[archive-private-updated])
+#
+# macos handling per coverage-architecture.md data-separation table:
+#   coverage + details: ALL public (copy macos/)
+#   woff:               skip macos/ (proprietary licenses)
+#
+# See TODO.archives/06-archive-public-sync-unification.md.
+
 set -euo pipefail
 
-echo "Cloning private repo..."
-git clone --depth 1 "https://github.com/fontist/fontist-archive-private.git" /tmp/private
+SRC="${1:-/tmp/private}"
 
-echo "Syncing coverage (excluding macos/)..."
+# If caller did not provide a path, clone archive-private into /tmp/private.
+if [ ! -d "$SRC/coverage" ] && [ ! -d "$SRC/details" ] && [ ! -d "$SRC/woff" ]; then
+  echo "Cloning fontist-archive-private..."
+  rm -rf /tmp/private
+  git clone --depth 1 "https://github.com/fontist/fontist-archive-private.git" /tmp/private
+  SRC="/tmp/private"
+fi
+
+echo "Source: $SRC"
+
+echo "Syncing coverage (ALL including macos/)..."
 rm -rf coverage
 mkdir -p coverage
-cd /tmp/private
-for item in coverage/*; do
-  [ -e "$item" ] || continue
-  base=$(basename "$item")
-  [ "$base" != "macos" ] && cp -r "$item" "../coverage/"
-done
-cd ..
+if [ -d "$SRC/coverage" ]; then
+  cp -r "$SRC/coverage/." coverage/
+else
+  echo "  (no coverage/ on private — site degrades gracefully)"
+fi
 
-echo "Syncing details (excluding macos/)..."
+echo "Syncing details (ALL including macos/)..."
 rm -rf details
 mkdir -p details
-cd /tmp/private
-for item in details/*; do
-  [ -e "$item" ] || continue
-  base=$(basename "$item")
-  [ "$base" != "macos" ] && cp -r "$item" "../details/"
-done
-cd ..
+if [ -d "$SRC/details" ]; then
+  cp -r "$SRC/details/." details/
+else
+  echo "  (no details/ on private — formula pages degrade to summary view)"
+fi
 
-echo "Syncing woff (excluding macos/)..."
+echo "Syncing woff (OPEN LICENSES ONLY — skip macos/)..."
 rm -rf woff
 mkdir -p woff
-cd /tmp/private
-for item in woff/*; do
-  [ -e "$item" ] || continue
-  base=$(basename "$item")
-  [ "$base" != "macos" ] && cp -r "$item" "../woff/"
-done
-cd ..
+if [ -d "$SRC/woff" ]; then
+  for d in "$SRC/woff"/*; do
+    [ -e "$d" ] || continue
+    base=$(basename "$d")
+    if [ "$base" != "macos" ]; then
+      cp -r "$d" "woff/"
+    fi
+  done
+fi
 
-cp /tmp/private/fonts.json . 2>/dev/null || true
-rm -rf /tmp/private
+echo "Syncing registries..."
+cp "$SRC/fonts.json" . 2>/dev/null || echo "  (no fonts.json on private)"
+cp "$SRC/font-metadata.json" . 2>/dev/null || echo "  (no font-metadata.json on private)"
 
-echo "Coverage: $(find coverage -name '*.json' | wc -l)"
-echo "Details: $(find details -name '*.json' | wc -l)"
-echo "Woff: $(find woff -name '*.woff' | wc -l)"
+echo ""
+echo "Counts:"
+printf "  coverage: %s files\n" "$(find coverage -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"
+printf "  details:  %s files\n" "$(find details -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"
+printf "  woff:     %s files\n" "$(find woff -name '*.woff' 2>/dev/null | wc -l | tr -d ' ')"

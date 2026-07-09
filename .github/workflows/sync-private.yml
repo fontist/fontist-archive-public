@@ -1,8 +1,11 @@
-name: Sync from fontist-archive-private
+name: Sync from fontist-archive-private (DEPRECATED — use sync.yml)
 
-# Triggers when fontist-archive-private pushes a new commit (typically
-# via repository_dispatch from the per-formula CI runs).
-# Writes to: coverage/, woff/, fonts.json, font-metadata.json
+# Both this workflow and sync.yml delegate to bin/sync-from-private.
+# This one is kept only to honor repository_dispatch[archive-private-updated]
+# events from the private repo's CI. New triggers should target sync.yml.
+#
+# See TODO.archives/06-archive-public-sync-unification.md.
+
 on:
   repository_dispatch:
     types: [archive-private-updated]
@@ -11,8 +14,11 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+
       - name: Clone private (read-only deploy key)
         env:
           SSH_KEY: ${{ secrets.ARCHIVE_PRIVATE_DEPLOY_KEY }}
@@ -22,23 +28,14 @@ jobs:
           chmod 600 ~/.ssh/id_ed25519
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git clone --depth 1 git@github.com:fontist/fontist-archive-private.git /tmp/private
-      - name: Sync coverage/ (all metadata is public)
+
+      - name: Sync via canonical script
         run: |
-          rm -rf coverage
-          cp -r /tmp/private/coverage .
-      - name: Sync woff/ (open-license only)
-        run: |
-          rm -rf woff
-          mkdir -p woff
-          for d in /tmp/private/woff/*; do
-            base=$(basename "$d")
-            [ "$base" != "macos" ] && cp -r "$d" "woff/"
-          done
-      - name: Sync fonts.json + font-metadata.json
-        run: |
-          cp /tmp/private/fonts.json . 2>/dev/null || true
-          cp /tmp/private/font-metadata.json . 2>/dev/null || true
+          chmod +x bin/sync-from-private
+          ./bin/sync-from-private /tmp/private
+
       - name: Commit + push
+        id: commit
         run: |
           git config user.email "archive-bot@fontist.org"
           git config user.name "archive-bot"
@@ -46,4 +43,14 @@ jobs:
           if ! git diff --quiet HEAD; then
             git commit -m "Sync from fontist-archive-private @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No changes"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger fontist.org rebuild
+        if: steps.commit.outputs.committed == 'true'
+        env:
+          FONTIST_CI_PAT_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: bin/trigger-fontist-org-rebuild
