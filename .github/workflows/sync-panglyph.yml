@@ -36,6 +36,7 @@ jobs:
         run: |
           ruby bin/update-panglyph-manifest.rb "${VERSION}"
       - name: Commit + push
+        id: commit
         run: |
           git config user.email "archive-bot@fontist.org"
           git config user.name "archive-bot"
@@ -43,4 +44,14 @@ jobs:
           if ! git diff --quiet HEAD -- panglyph/; then
             git commit -m "Sync panglyph v${VERSION}"
             git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No changes"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger fontist.org rebuild
+        if: steps.commit.outputs.committed == 'true'
+        env:
+          FONTIST_CI_PAT_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: bin/trigger-fontist-org-rebuild

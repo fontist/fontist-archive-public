@@ -21,6 +21,7 @@ jobs:
           ./bin/sync-from-private
 
       - name: Commit and push
+        id: commit
         run: |
           git config user.name "Fontist Bot"
           git config user.email "bot@fontist.org"
@@ -28,6 +29,14 @@ jobs:
           if ! git diff --cached --quiet; then
             git commit -m "Sync from fontist-archive-private $(date -u +%Y-%m-%dT%H:%M)"
             git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No changes"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger fontist.org rebuild
+        if: steps.commit.outputs.committed == 'true'
+        env:
+          FONTIST_CI_PAT_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: bin/trigger-fontist-org-rebuild

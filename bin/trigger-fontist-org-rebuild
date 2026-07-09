@@ -1,0 +1,28 @@
+#!/usr/bin/env bash
+# Send `repository_dispatch[rebuild]` to fontist/fontist.org.
+#
+# Used by every archive-public sync workflow after a successful commit,
+# so the site rebuilds promptly when its data sources change.
+#
+# Soft-fails when FONTIST_CI_PAT_TOKEN is unset (e.g. during initial
+# secret rollout) — the next scheduled fontist.org rebuild will pick
+# up the change anyway.
+#
+# Requires:
+#   - FONTIST_CI_PAT_TOKEN env var with dispatch scope on fontist/fontist.org
+#
+# See TODO.archives/15-dispatch-link-missing-sync-workflows.md.
+
+set -euo pipefail
+
+if [ -z "${FONTIST_CI_PAT_TOKEN:-}" ]; then
+  echo "FONTIST_CI_PAT_TOKEN not set — skipping fontist.org dispatch"
+  exit 0
+fi
+
+curl -s -X POST \
+  -H "Authorization: token $FONTIST_CI_PAT_TOKEN" \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/repos/fontist/fontist.org/dispatches \
+  -d '{"event_type":"rebuild"}' \
+  -w "fontist.org dispatch HTTP %{http_code}\n"

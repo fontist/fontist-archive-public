@@ -52,6 +52,7 @@ jobs:
             esac
           done
       - name: Commit + push
+        id: commit
         run: |
           git config user.email "archive-bot@fontist.org"
           git config user.name "archive-bot"
@@ -59,4 +60,14 @@ jobs:
           if ! git diff --quiet HEAD -- unicode/; then
             git commit -m "Sync unicode/ from fontist/ucode @ $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "No changes"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Trigger fontist.org rebuild
+        if: steps.commit.outputs.committed == 'true'
+        env:
+          FONTIST_CI_PAT_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: bin/trigger-fontist-org-rebuild
