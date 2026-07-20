@@ -15,17 +15,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Sparse-checkout omits raw/ (4.0 GB of the private repo's 6.1 GB) —
+      # the sync only publishes coverage/, details/ and woff/. Cone mode still
+      # includes top-level files, so fonts.json and font-metadata.json come
+      # along. actions/checkout handles authentication and token masking; do
+      # not replace this with a hand-rolled clone embedding a token in the URL.
+      - name: Check out fontist-archive-private
+        uses: actions/checkout@v4
+        with:
+          repository: fontist/fontist-archive-private
+          token: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+          path: private
+          filter: blob:none
+          sparse-checkout: |
+            coverage
+            details
+            woff
+
       - name: Sync from private repo
         run: |
           chmod +x bin/sync-from-private
-          ./bin/sync-from-private
+          ./bin/sync-from-private private
 
       - name: Commit and push
         id: commit
         run: |
           git config user.name "Fontist Bot"
           git config user.email "bot@fontist.org"
-          git add -A
+          # Stage only the synced artifacts. A bare `git add -A` here would
+          # also stage the private/ checkout as a gitlink.
+          git add -A coverage details woff fonts.json font-metadata.json
           if ! git diff --cached --quiet; then
             git commit -m "Sync from fontist-archive-private $(date -u +%Y-%m-%dT%H:%M)"
             git push
