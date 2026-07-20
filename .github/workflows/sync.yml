@@ -15,12 +15,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # The expensive part of this job is pulling ~2.1 GB of coverage/ and
+      # woff/ out of archive-private. On a 6-hourly cron most runs have nothing
+      # to do, so compare the upstream HEAD against the SHA recorded by the
+      # last successful sync and skip everything when it hasn't moved. One API
+      # call instead of 2.1 GB.
+      #
+      # workflow_dispatch always forces a full run, so there is a way to
+      # recover if the recorded SHA ever gets out of step with the contents.
+      - name: Check whether archive-private has changed
+        id: changed
+        env:
+          GH_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: |
+          upstream="$(gh api repos/fontist/fontist-archive-private/commits/main --jq '.sha')"
+          if [ -z "$upstream" ]; then
+            echo "::error::could not resolve archive-private HEAD"
+            exit 1
+          fi
+          previous="$(cat .last-synced-sha 2>/dev/null || echo none)"
+          echo "  upstream:  $upstream"
+          echo "  last sync: $previous"
+          echo "upstream=$upstream" >> "$GITHUB_OUTPUT"
+          if [ "$upstream" = "$previous" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "archive-private unchanged — skipping the 2.1 GB pull"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       # Sparse-checkout omits raw/ (4.0 GB of the private repo's 6.1 GB) —
       # the sync only publishes coverage/, details/ and woff/. Cone mode still
       # includes top-level files, so fonts.json and font-metadata.json come
       # along. actions/checkout handles authentication and token masking; do
       # not replace this with a hand-rolled clone embedding a token in the URL.
       - name: Check out fontist-archive-private
+        if: steps.changed.outputs.run == 'true'
         uses: actions/checkout@v4
         with:
           repository: fontist/fontist-archive-private
@@ -33,18 +63,23 @@ jobs:
             woff
 
       - name: Sync from private repo
+        if: steps.changed.outputs.run == 'true'
         run: |
           chmod +x bin/sync-from-private
           ./bin/sync-from-private private
 
       - name: Commit and push
         id: commit
+        if: steps.changed.outputs.run == 'true'
         run: |
           git config user.name "Fontist Bot"
           git config user.email "bot@fontist.org"
+          # Record what we synced from, so the next run can skip when the
+          # upstream HEAD has not moved.
+          echo "${{ steps.changed.outputs.upstream }}" > .last-synced-sha
           # Stage only the synced artifacts. A bare `git add -A` here would
           # also stage the private/ checkout as a gitlink.
-          git add -A coverage details woff fonts.json font-metadata.json
+          git add -A coverage details woff fonts.json font-metadata.json .last-synced-sha
           if ! git diff --cached --quiet; then
             git commit -m "Sync from fontist-archive-private $(date -u +%Y-%m-%dT%H:%M)"
             git push
