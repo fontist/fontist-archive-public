@@ -1,0 +1,150 @@
+name: pr-check
+
+# Verifies the sync pipeline on a PR WITHOUT publishing anything: no commit,
+# no push, no repository_dispatch. `permissions: contents: read` makes writing
+# impossible by construction rather than by convention.
+#
+# The expensive part of a real sync is copying ~2.1 GB of coverage/ and woff/.
+# That proves nothing a PR needs to know, so instead this checks the two things
+# that actually break:
+#   1. can FONTIST_CI_PAT_TOKEN read fontist-archive-private, and does that repo
+#      still expose the artifacts the sync expects (the auth failure that had
+#      every scheduled run dead for a month)
+#   2. does bin/sync-from-private behave correctly — exercised against a
+#      fixture, so it is fast and deterministic
+#
+# NOTE: pull_request runs from FORKS do not receive secrets, so the auth job is
+# skipped there. Branch PRs inside this repo get the secret and run it.
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify-private-access:
+    name: PAT can read archive-private
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check secret is available
+        id: secret
+        env:
+          TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::FONTIST_CI_PAT_TOKEN unavailable (fork PR?) — skipping access check"
+          else
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Uses the REST API rather than a clone: proves the token can read the
+      # private repo without transferring gigabytes, and never puts the token
+      # in a URL where it could surface in logs.
+      - name: Verify read access to fontist-archive-private
+        if: steps.secret.outputs.available == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: |
+          if ! gh api repos/fontist/fontist-archive-private --jq '.full_name' > /dev/null; then
+            echo "::error::FONTIST_CI_PAT_TOKEN cannot read fontist/fontist-archive-private — the sync will fail. Grant it read (contents) on that repo."
+            exit 1
+          fi
+          echo "PAT can read fontist/fontist-archive-private"
+
+      # bin/sync-from-private requires all five of these; a missing one is what
+      # currently leaves the site with no specimens.
+      - name: Verify archive-private exposes the expected artifacts
+        if: steps.secret.outputs.available == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: |
+          missing=0
+          for path in coverage details woff fonts.json font-metadata.json; do
+            if gh api "repos/fontist/fontist-archive-private/contents/$path" --jq 'if type=="array" then "dir" else .name end' > /dev/null 2>&1; then
+              echo "  OK      $path"
+            else
+              echo "  MISSING $path"
+              missing=$((missing + 1))
+            fi
+          done
+          if [ "$missing" -gt 0 ]; then
+            echo "::error::$missing expected artifact(s) missing from archive-private — sync would fail"
+            exit 1
+          fi
+
+      - name: Verify dispatch target resolves
+        if: steps.secret.outputs.available == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+        run: |
+          # The site repo was renamed; the old name only 301-redirects, and curl
+          # will not follow a redirect on POST. Confirm the canonical name is
+          # what we dispatch to and that the token can see it.
+          gh api repos/fontist/fontist.github.io --jq '.full_name' \
+            || { echo "::error::PAT cannot reach fontist/fontist.github.io — rebuild dispatch would fail"; exit 1; }
+          grep -q 'fontist/fontist.github.io' bin/trigger-fontist-org-rebuild \
+            || { echo "::error::trigger script does not target fontist/fontist.github.io"; exit 1; }
+
+  verify-sync-script:
+    name: sync script behaviour
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Shell syntax
+        run: bash -n bin/sync-from-private && bash -n bin/trigger-fontist-org-rebuild
+
+      - name: Sync copies the right things, and skips proprietary macOS woff
+        run: |
+          set -euo pipefail
+          fixture="$(mktemp -d)"
+          mkdir -p "$fixture"/{coverage/{google,macos,sil},details/{google,sil},woff/{google,sil,macos}}
+          echo '{}' > "$fixture/coverage/google/a.json"
+          echo '{}' > "$fixture/coverage/macos/m.json"
+          echo '{}' > "$fixture/details/google/a.json"
+          : > "$fixture/woff/google/A.woff"
+          : > "$fixture/woff/sil/S.woff"
+          : > "$fixture/woff/macos/PROPRIETARY.woff"
+          echo '{}' > "$fixture/fonts.json"
+          echo '{}' > "$fixture/font-metadata.json"
+
+          work="$(mktemp -d)"
+          cp bin/sync-from-private "$work/"
+          cd "$work"
+          ./sync-from-private "$fixture"
+
+          # macOS coverage is public; macOS woff is NOT redistributable.
+          test -f coverage/macos/m.json || { echo "::error::macos coverage should be synced"; exit 1; }
+          if find woff -name 'PROPRIETARY*' -o -path '*macos*' | grep -q .; then
+            echo "::error::proprietary macOS woff leaked into the public sync"
+            exit 1
+          fi
+          test -f fonts.json && test -f font-metadata.json
+          echo "sync behaviour OK (macos woff correctly excluded)"
+
+      - name: Fails loudly on a missing artifact
+        run: |
+          set -euo pipefail
+          fixture="$(mktemp -d)"
+          mkdir -p "$fixture"/{coverage,details,woff}
+          echo '{}' > "$fixture/fonts.json"   # font-metadata.json deliberately absent
+          work="$(mktemp -d)"
+          cp bin/sync-from-private "$work/"
+          cd "$work"
+          if ./sync-from-private "$fixture"; then
+            echo "::error::sync succeeded despite a missing artifact — silent-failure regression"
+            exit 1
+          fi
+          echo "correctly refused to sync an incomplete archive"
+
+      - name: Dispatch fails loudly without a token
+        run: |
+          set -euo pipefail
+          if env -u FONTIST_CI_PAT_TOKEN ./bin/trigger-fontist-org-rebuild; then
+            echo "::error::dispatch exited 0 with no token — failure would be silent"
+            exit 1
+          fi
+          echo "correctly failed without a token"
