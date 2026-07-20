@@ -28,6 +28,9 @@ jobs:
     name: PAT can read archive-private
     runs-on: ubuntu-latest
     steps:
+      # Needed by the dispatch-target step below, which greps bin/.
+      - uses: actions/checkout@v4
+
       - name: Check secret is available
         id: secret
         env:
