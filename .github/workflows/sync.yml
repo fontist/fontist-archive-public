@@ -14,6 +14,14 @@ on:
   workflow_dispatch:
   repository_dispatch:
     types: [sync]
+  # Auto-run when sync LOGIC lands on main (a merged PR). Path-filtered to code
+  # ONLY: the sync's own commits (coverage/, woff/, metadata/, fonts.json,
+  # .last-synced-sha) never touch these paths, so it cannot self-trigger a loop.
+  push:
+    branches: [main]
+    paths:
+      - 'bin/**'
+      - '.github/workflows/sync.yml'
 
 permissions:
   contents: write
