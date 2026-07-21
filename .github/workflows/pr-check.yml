@@ -38,16 +38,25 @@ jobs:
       # Needed by the dispatch-target step below, which greps bin/.
       - uses: actions/checkout@v4
 
+      # A missing secret means one of two very different things:
+      #   - a fork PR (forks never receive secrets) — expected, skip cleanly
+      #   - the secret was deleted/misconfigured on a same-repo PR — this is
+      #     EXACTLY the failure this workflow exists to catch, so fail loudly
+      # Distinguish them by whether the PR head is a fork.
       - name: Check secret is available
         id: secret
         env:
           TOKEN: ${{ secrets.FONTIST_CI_PAT_TOKEN }}
+          IS_FORK: ${{ github.event.pull_request.head.repo.fork }}
         run: |
-          if [ -z "$TOKEN" ]; then
-            echo "available=false" >> "$GITHUB_OUTPUT"
-            echo "::warning::FONTIST_CI_PAT_TOKEN unavailable (fork PR?) — skipping access check"
-          else
+          if [ -n "$TOKEN" ]; then
             echo "available=true" >> "$GITHUB_OUTPUT"
+          elif [ "$IS_FORK" = "true" ]; then
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "::warning::FONTIST_CI_PAT_TOKEN unavailable on a fork PR — skipping access check (expected)"
+          else
+            echo "::error::FONTIST_CI_PAT_TOKEN is missing on a same-repo run — the sync will fail. Restore the secret."
+            exit 1
           fi
 
       # Uses the REST API rather than a clone: proves the token can read the

@@ -22,7 +22,13 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
+      # Always operate on main. workflow_dispatch can be launched from any
+      # branch; without pinning, checkout would follow that ref and the plain
+      # `git push` below would publish to it instead of main. The published
+      # data must only ever live on main.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       # The expensive part of this job is pulling ~1 GB of coverage/ and woff/
       # out of archive-private. On a 6-hourly cron most runs have nothing to
@@ -91,7 +97,9 @@ jobs:
           git add -A
           if ! git diff --cached --quiet; then
             git commit -m "Sync from fontist-archive-private $(date -u +%Y-%m-%dT%H:%M)"
-            git push
+            # Explicit target: publish only to main regardless of the ref the
+            # workflow was dispatched from.
+            git push origin HEAD:main
             echo "committed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No changes"
