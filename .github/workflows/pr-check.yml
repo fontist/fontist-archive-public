@@ -18,6 +18,13 @@ name: pr-check
 
 on:
   pull_request:
+    # Only run when something that actually affects the sync changes. A
+    # docs/README PR does not need the pipeline checks. workflow_dispatch below
+    # stays unfiltered so the checks can always be run on demand.
+    paths:
+      - 'bin/**'
+      - '.github/workflows/sync.yml'
+      - '.github/workflows/pr-check.yml'
   workflow_dispatch:
 
 permissions:

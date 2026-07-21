@@ -1,5 +1,13 @@
 name: sync
 
+# Publishes the redistributable slice of fontist-archive-private into THIS
+# repo's main branch: coverage/, details/, woff/ + the two registry JSONs.
+# jsDelivr serves them and the site pins by SHA.
+#
+# Layout follows coverage-architecture.md / TODO.archives/16:
+#   woff/{formula_slug}/{PSName}.woff   (per-face, open-license only)
+# The legacy flat fonts/ tree is removed by bin/sync-from-private.
+
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -7,22 +15,23 @@ on:
   repository_dispatch:
     types: [sync]
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
 
-      # The expensive part of this job is pulling ~2.1 GB of coverage/ and
-      # woff/ out of archive-private. On a 6-hourly cron most runs have nothing
-      # to do, so compare the upstream HEAD against the SHA recorded by the
-      # last successful sync and skip everything when it hasn't moved. One API
-      # call instead of 2.1 GB.
+      # The expensive part of this job is pulling ~1 GB of coverage/ and woff/
+      # out of archive-private. On a 6-hourly cron most runs have nothing to
+      # do, so compare archive-private's HEAD against the SHA recorded by the
+      # last successful sync (committed as .last-synced-sha on main) and skip
+      # everything when it hasn't moved. One API call instead of ~1 GB.
       #
-      # workflow_dispatch always forces a full run, so there is a way to
-      # recover if the recorded SHA ever gets out of step with the contents.
+      # workflow_dispatch always forces a full run, so there is a manual way to
+      # rebuild if the recorded SHA ever drifts from the published contents.
       - name: Check whether archive-private has changed
         id: changed
         env:
@@ -39,16 +48,16 @@ jobs:
           echo "upstream=$upstream" >> "$GITHUB_OUTPUT"
           if [ "$upstream" = "$previous" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "archive-private unchanged — skipping the 2.1 GB pull"
+            echo "archive-private unchanged — skipping the ~1 GB pull"
           else
             echo "run=true" >> "$GITHUB_OUTPUT"
           fi
 
-      # Sparse-checkout omits raw/ (4.0 GB of the private repo's 6.1 GB) —
-      # the sync only publishes coverage/, details/ and woff/. Cone mode still
+      # Sparse-checkout omits raw/ (4.0 GB of the private repo's 6.1 GB) — the
+      # sync only publishes coverage/, details/ and woff/. Cone mode still
       # includes top-level files, so fonts.json and font-metadata.json come
-      # along. actions/checkout handles authentication and token masking; do
-      # not replace this with a hand-rolled clone embedding a token in the URL.
+      # along. actions/checkout handles auth and token masking; do not replace
+      # this with a hand-rolled clone embedding a token in the URL.
       - name: Check out fontist-archive-private
         if: steps.changed.outputs.run == 'true'
         uses: actions/checkout@v4
@@ -74,12 +83,12 @@ jobs:
         run: |
           git config user.name "Fontist Bot"
           git config user.email "bot@fontist.org"
-          # Record what we synced from, so the next run can skip when the
-          # upstream HEAD has not moved.
           echo "${{ steps.changed.outputs.upstream }}" > .last-synced-sha
-          # Stage only the synced artifacts. A bare `git add -A` here would
-          # also stage the private/ checkout as a gitlink.
-          git add -A coverage details woff fonts.json font-metadata.json .last-synced-sha
+          # git add -A stages everything: the synced coverage/details/woff and
+          # registries, the updated .last-synced-sha, AND the removal of the
+          # legacy fonts/ tree that sync-from-private just deleted. The private/
+          # checkout is gitignored, so it is not staged.
+          git add -A
           if ! git diff --cached --quiet; then
             git commit -m "Sync from fontist-archive-private $(date -u +%Y-%m-%dT%H:%M)"
             git push

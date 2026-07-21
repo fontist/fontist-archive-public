@@ -51,7 +51,12 @@ mkdir -p details
 cp -r "$SRC/details/." details/
 
 echo "Syncing woff (OPEN LICENSES ONLY — skip macos/)..."
-rm -rf woff
+# Also remove the legacy flat `fonts/` tree: 2,165 stale per-family woff files
+# from the June snapshot that nothing reads — the site fetches
+# woff/{formula_slug}/{PSName}.woff exclusively (font-metadata.json's woff_file;
+# TODO.archives/16). Deleting it here means the next sync commits the removal,
+# staged by `git add -A` in the workflow.
+rm -rf woff fonts
 mkdir -p woff
 for d in "$SRC/woff"/*; do
   [ -e "$d" ] || continue
