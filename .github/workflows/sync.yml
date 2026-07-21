@@ -1,8 +1,8 @@
 name: sync
 
 # Publishes the redistributable slice of fontist-archive-private into THIS
-# repo's main branch: coverage/, details/, woff/ + the two registry JSONs.
-# jsDelivr serves them and the site pins by SHA.
+# repo's main branch: coverage/, details/, woff/, per-style metadata/ + the
+# fonts.json family registry. jsDelivr serves them and the site pins by SHA.
 #
 # Layout follows coverage-architecture.md / TODO.archives/16:
 #   woff/{formula_slug}/{PSName}.woff   (per-face, open-license only)
@@ -68,10 +68,11 @@ jobs:
           fi
 
       # Sparse-checkout omits raw/ (4.0 GB of the private repo's 6.1 GB) — the
-      # sync only publishes coverage/, details/, woff/ and metadata/. Cone mode still
-      # includes top-level files, so fonts.json and font-metadata.json come
-      # along. actions/checkout handles auth and token masking; do not replace
-      # this with a hand-rolled clone embedding a token in the URL.
+      # sync only publishes coverage/, details/, woff/ and metadata/. Cone mode
+      # still includes top-level files, so fonts.json comes along; the aggregate
+      # font-metadata.json is intentionally NOT published (per-style metadata/
+      # replaced it). actions/checkout handles auth and token masking; do not
+      # replace this with a hand-rolled clone embedding a token in the URL.
       - name: Check out fontist-archive-private
         if: steps.changed.outputs.run == 'true'
         uses: actions/checkout@v4
