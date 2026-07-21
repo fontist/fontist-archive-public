@@ -44,8 +44,11 @@ jobs:
       # last successful sync (committed as .last-synced-sha on main) and skip
       # everything when it hasn't moved. One API call instead of ~1 GB.
       #
-      # workflow_dispatch always forces a full run, so there is a manual way to
-      # rebuild if the recorded SHA ever drifts from the published contents.
+      # workflow_dispatch AND push (a merged change to the sync logic itself)
+      # always force a full run — otherwise a sync-logic change that must be
+      # re-applied would be skipped whenever archive-private hasn't moved. This
+      # is also the manual escape hatch if the recorded SHA ever drifts from the
+      # published contents.
       - name: Check whether archive-private has changed
         id: changed
         env:
@@ -60,7 +63,9 @@ jobs:
           echo "  upstream:  $upstream"
           echo "  last sync: $previous"
           echo "upstream=$upstream" >> "$GITHUB_OUTPUT"
-          if [ "$upstream" = "$previous" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+          if [ "$upstream" = "$previous" ] \
+             && [ "${{ github.event_name }}" != "workflow_dispatch" ] \
+             && [ "${{ github.event_name }}" != "push" ]; then
             echo "run=false" >> "$GITHUB_OUTPUT"
             echo "archive-private unchanged — skipping the ~1 GB pull"
           else
