@@ -31,7 +31,7 @@ SRC="$1"
 # Fail loudly on a missing or wrong-shaped source. Every artifact below is
 # required; treating any of them as optional is what let an empty archive
 # ship to production unnoticed.
-for required in coverage details woff fonts.json font-metadata.json; do
+for required in coverage details woff metadata fonts.json; do
   if [ ! -e "$SRC/$required" ]; then
     echo "error: $SRC/$required not found — is '$SRC' a fontist-archive-private checkout?" >&2
     exit 1
@@ -66,12 +66,24 @@ for d in "$SRC/woff"/*; do
   fi
 done
 
-echo "Syncing registries..."
+echo "Syncing metadata (per-style face files, ALL including macos/)..."
+# The site (gen-font-families) reads these to build the family index. macOS
+# faces are included: their coverage is public and their per-style file carries
+# version/style; the site nulls the (unpublished) macOS woff_file via the
+# manifest, so publishing the metadata is safe and complete.
+rm -rf metadata
+mkdir -p metadata
+cp -r "$SRC/metadata/." metadata/
+
+echo "Syncing registry (fonts.json — the family index)..."
+# font-metadata.json (the per-face aggregate) is intentionally NOT published:
+# the per-style metadata/ files above are the per-face source of truth now, so
+# the aggregate would be dead weight on the CDN.
 cp "$SRC/fonts.json" .
-cp "$SRC/font-metadata.json" .
 
 echo ""
 echo "Counts:"
 printf "  coverage: %s files\n" "$(find coverage -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"
 printf "  details:  %s files\n" "$(find details -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"
 printf "  woff:     %s files\n" "$(find woff -name '*.woff' 2>/dev/null | wc -l | tr -d ' ')"
+printf "  metadata: %s files\n" "$(find metadata -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"

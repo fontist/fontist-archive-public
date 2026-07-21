@@ -60,7 +60,7 @@ jobs:
           fi
 
       # Sparse-checkout omits raw/ (4.0 GB of the private repo's 6.1 GB) — the
-      # sync only publishes coverage/, details/ and woff/. Cone mode still
+      # sync only publishes coverage/, details/, woff/ and metadata/. Cone mode still
       # includes top-level files, so fonts.json and font-metadata.json come
       # along. actions/checkout handles auth and token masking; do not replace
       # this with a hand-rolled clone embedding a token in the URL.
@@ -76,6 +76,7 @@ jobs:
             coverage
             details
             woff
+            metadata
 
       - name: Sync from private repo
         if: steps.changed.outputs.run == 'true'
