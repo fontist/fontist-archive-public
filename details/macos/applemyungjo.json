@@ -1,0 +1,36 @@
+{
+  "slug": "macos/applemyungjo",
+  "name": "applemyungjo",
+  "description": "AppleMyungjo",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1994-2007 Apple, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "AppleMyungjo.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/2cf5c282b5d88a1f1f2322ffef59e5d5e83c1409.zip"
+      ],
+      "sha256": "3e8e2d85cf8fddc4fd99686dc481ef00db3812ba3b45e1932ce07c791974fc2f",
+      "file_size": 7101070
+    }
+  },
+  "fonts": [
+    {
+      "name": "AppleMyungjo",
+      "styles": [
+        {
+          "family_name": "AppleMyungjo",
+          "type": "Regular",
+          "full_name": "AppleMyungjo Regular",
+          "post_script_name": "AppleMyungjo",
+          "version": "13.0d1e6",
+          "copyright": "Copyright (c) 1994-2007 Apple, Inc. All rights reserved.",
+          "font": "AppleMyungjo.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

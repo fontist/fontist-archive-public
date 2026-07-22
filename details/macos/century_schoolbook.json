@@ -1,0 +1,68 @@
+{
+  "slug": "macos/century_schoolbook",
+  "name": "century_schoolbook",
+  "description": "Century Schoolbook",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Century_Schoolbook.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/9e7c4ad79a2623a791064749848a782fe3a32265.zip"
+      ],
+      "sha256": "43a7cfd5745a0c1b6ceafdbc1481f9b95798625d1800c3781c4f7253d3f44048",
+      "file_size": 200759
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "CenturySchoolbook.ttc",
+      "fonts": [
+        {
+          "name": "Century Schoolbook",
+          "styles": [
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Bold",
+              "full_name": "Century Schoolbook Bold",
+              "post_script_name": "CenturySchoolbook-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved.",
+              "description": "Another member of the Century family which was based on Century Expanded. Designed to fulfill the need for a solid, legible face for printing schoolbooks. It is wider and heavier than Century Expanded, there is also less contrast between thick and thin strokes. First cut by Monotype in 1934 and based on versions from ATF and Lanston Monotype. The sturdy nature of this typeface, coupled with its inherent legibility, has made it a popular choice for setting books, newspapers and magazines."
+            },
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Bold Italic",
+              "full_name": "Century Schoolbook Bold Italic",
+              "post_script_name": "CenturySchoolbook-BoldItalic",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved.",
+              "description": "Another member of the Century family which was based on Century Expanded. Designed to fulfill the need for a solid, legible face for printing schoolbooks. It is wider and heavier than Century Expanded, there is also less contrast between thick and thin strokes. First cut by Monotype in 1934 and based on versions from ATF and Lanston Monotype. The sturdy nature of this typeface, coupled with its inherent legibility, has made it a popular choice for setting books, newspapers and magazines."
+            },
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Italic",
+              "full_name": "Century Schoolbook Italic",
+              "post_script_name": "CenturySchoolbook-Italic",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved.",
+              "description": "Another member of the Century family which was based on Century Expanded. Designed to fulfill the need for a solid, legible face for printing schoolbooks. It is wider and heavier than Century Expanded, there is also less contrast between thick and thin strokes. First cut by Monotype in 1934 and based on versions from ATF and Lanston Monotype. The sturdy nature of this typeface, coupled with its inherent legibility, has made it a popular choice for setting books, newspapers and magazines."
+            },
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Regular",
+              "full_name": "Century Schoolbook",
+              "post_script_name": "CenturySchoolbook",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved.",
+              "description": "Another member of the Century family which was based on Century Expanded. Designed to fulfill the need for a solid, legible face for printing schoolbooks. It is wider and heavier than Century Expanded, there is also less contrast between thick and thin strokes. First cut by Monotype in 1934 and based on versions from ATF and Lanston Monotype. The sturdy nature of this typeface, coupled with its inherent legibility, has made it a popular choice for setting books, newspapers and magazines."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

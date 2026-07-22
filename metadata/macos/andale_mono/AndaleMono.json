@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Andale Mono",
   "style": "Regular",
-  "redistributable": false
+  "version": "Version 2.00x",
+  "font_revision": 2.0,
+  "source_sha256": "ca436a8f07f6699107542ebe19dcc9478f12aa666927699e9fa10115e7d2ee95",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/andale_mono/AndaleMono.json"
 }

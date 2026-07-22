@@ -1,0 +1,37 @@
+{
+  "slug": "macos/baloo_paaji",
+  "name": "baloo_paaji",
+  "description": "Baloo Paaji",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Baloo_Paaji.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/a9493193571d657774c2321231271ab122748178.zip"
+      ],
+      "sha256": "20887145e4d16b3577fefbdd55ff4e35e7b533ea96b9a60aa1d360532598a985",
+      "file_size": 110827
+    }
+  },
+  "fonts": [
+    {
+      "name": "Baloo Paaji",
+      "styles": [
+        {
+          "family_name": "Baloo Paaji",
+          "type": "Regular",
+          "full_name": "Baloo Paaji Regular",
+          "post_script_name": "BalooPaaji-Regular",
+          "version": "1.443;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+          "font": "BalooPaajiGurmukhi-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

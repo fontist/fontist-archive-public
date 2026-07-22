@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Apple Braille",
   "style": "Outline 8 Dot",
-  "redistributable": false
+  "version": "13.0d2e27",
+  "font_revision": 1.0,
+  "source_sha256": "42ec4e61ddf37e2f13cac751d5ace0e3a9138a489202652aefe1e8ecd5b34701",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/apple_braille_10m11177/AppleBraille-Outline8Dot.json"
 }

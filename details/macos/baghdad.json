@@ -1,0 +1,40 @@
+{
+  "slug": "macos/baghdad",
+  "name": "baghdad",
+  "description": "Baghdad",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Baghdad designed by Diwan Software Ltd. Copyright Apple Computer, Inc. and its licensors, 1992-1998 all rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Baghdad.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/662c76c3454af7c26fa0e67f18de56e0a227efef.zip"
+      ],
+      "sha256": "d5d8591f3b04e156f855dc8b034825975c58ad10cc84e619a0efd96ef2e784cd",
+      "file_size": 56048
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Baghdad.ttc",
+      "fonts": [
+        {
+          "name": "Baghdad",
+          "styles": [
+            {
+              "family_name": "Baghdad",
+              "type": "Regular",
+              "full_name": "Baghdad Regular",
+              "post_script_name": "Baghdad",
+              "version": "13.0d1e5",
+              "copyright": "Baghdad designed by Diwan Software Ltd. Copyright Apple Computer, Inc. and its licensors, 1992-1998 all rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

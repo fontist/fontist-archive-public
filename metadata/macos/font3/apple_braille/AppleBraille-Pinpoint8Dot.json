@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Apple Braille",
   "style": "Pinpoint 8 Dot",
-  "redistributable": false
+  "version": "1.0d5e1",
+  "font_revision": 1.0,
+  "source_sha256": "c343bfa469cb0d272580030d717cc66bebdfc4b33b39a1d34c377ea6060ed2b1",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/font3/apple_braille/AppleBraille-Pinpoint8Dot.json"
 }

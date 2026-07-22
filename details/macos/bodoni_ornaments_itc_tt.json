@@ -1,0 +1,36 @@
+{
+  "slug": "macos/bodoni_ornaments_itc_tt",
+  "name": "bodoni_ornaments_itc_tt",
+  "description": "Bodoni Ornaments ITC TT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright 1995‐1997 International Typeface Corporation  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Bodoni_Ornaments_ITC_TT.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/9a01c52f0955b94d7f290c8880f87d1d4d0b0d4a.zip"
+      ],
+      "sha256": "b3be5558bb5243c1f4be714e26913ea735c7e7457bd147ec34f380434e215949",
+      "file_size": 40993
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bodoni Ornaments ITC TT",
+      "styles": [
+        {
+          "family_name": "Bodoni Ornaments ITC TT",
+          "type": "Regular",
+          "full_name": "Bodoni Ornaments ITC TT",
+          "post_script_name": "BodoniOrnamentsITCTT",
+          "version": "13.0d2e1",
+          "copyright": "(c) Copyright 1995‐1997 International Typeface Corporation  All rights reserved.",
+          "font": "BodoniOrnamentsITCTT.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/apple_chancery_chancery",
+  "name": "apple_chancery_chancery",
+  "description": "Apple Chancery Chancery",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 1993-1999 Apple Computer, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Apple_Chancery_Chancery.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/960a9a625e450168d6ba4e9d8f3614c252f4fc90.zip"
+      ],
+      "sha256": "c14263408407a2c8efb94228ec55391c2215605bf478a60b1e3412c4694211bf",
+      "file_size": 171793
+    }
+  },
+  "fonts": [
+    {
+      "name": "Apple Chancery",
+      "styles": [
+        {
+          "family_name": "Apple Chancery",
+          "type": "Chancery",
+          "full_name": "Apple Chancery",
+          "post_script_name": "Apple-Chancery",
+          "version": "13.0d1e4",
+          "copyright": "© 1993-1999 Apple Computer, Inc.",
+          "font": "AppleChancery.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

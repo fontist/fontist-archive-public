@@ -1,0 +1,39 @@
+{
+  "slug": "macos/bm_hanna_11yrs_old_otf_10m11177",
+  "name": "BM HANNA 11yrs old OTF",
+  "description": "BM HANNA 11yrs old OTF",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © WOOWA BROTHERS Corporation",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "www.woowahan.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9a4656bb810cc3e6c7acea4e881d4702dcae6223.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/9a4656bb810cc3e6c7acea4e881d4702dcae6223.zip"
+      ],
+      "sha256": "4bb952a3c0d746d6d58ed5dd1d9cf9c246acf8d36fdc5cab591416999c3057cd",
+      "file_size": 250272,
+      "format": "otf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BM HANNA 11yrs old OTF",
+      "styles": [
+        {
+          "family_name": "BM HANNA 11yrs old OTF",
+          "type": "Regular",
+          "full_name": "BM HANNA 11yrs old OTF",
+          "post_script_name": "BMHANNA11yrsoldOTF",
+          "version": "18.0d1e6",
+          "copyright": "Copyright © WOOWA BROTHERS Corporation",
+          "description": "Woowa Brothers Corp.",
+          "font": "BMHanna11yrs-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

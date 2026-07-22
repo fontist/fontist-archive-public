@@ -1,0 +1,725 @@
+{
+  "generated_at": "2026-07-22T11:51:53Z",
+  "ucode_version": "0.3.3",
+  "font": {
+    "source_file": "/var/folders/8j/sfr9qqcj73j4p6nhwcfpr0th0000gn/T/fa-20260722-3149-q05q9b/extracted/archive/AssetData/AdelleSans.ttc",
+    "source_sha256": "72ab5ff350d99df298fe1b21b93327bc9684cae71050ed7c2d3511edca63292f",
+    "source_format": "otc",
+    "font_index": 0,
+    "num_fonts_in_source": 7,
+    "family_name": "Adelle Sans Devanagari",
+    "subfamily_name": "Regular",
+    "full_name": "Adelle Sans Devanagari Regular",
+    "postscript_name": "AdelleSansDevanagari-Regular",
+    "version": "20.0d1e3",
+    "font_revision": 2.0999908447265625,
+    "weight_class": 400,
+    "width_class": 5,
+    "italic": null,
+    "bold": null,
+    "panose": "2 0 5 3 0 0 0 2 0 4",
+    "total_codepoints": 1018,
+    "total_glyphs": 2150,
+    "cmap_subtables": [
+      4
+    ],
+    "codepoint_ranges": [
+      {
+        "first_cp": 13,
+        "last_cp": 13
+      },
+      {
+        "first_cp": 32,
+        "last_cp": 126
+      },
+      {
+        "first_cp": 160,
+        "last_cp": 383
+      },
+      {
+        "first_cp": 402,
+        "last_cp": 402
+      },
+      {
+        "first_cp": 482,
+        "last_cp": 483
+      },
+      {
+        "first_cp": 506,
+        "last_cp": 511
+      },
+      {
+        "first_cp": 536,
+        "last_cp": 539
+      },
+      {
+        "first_cp": 567,
+        "last_cp": 567
+      },
+      {
+        "first_cp": 699,
+        "last_cp": 700
+      },
+      {
+        "first_cp": 710,
+        "last_cp": 711
+      },
+      {
+        "first_cp": 713,
+        "last_cp": 713
+      },
+      {
+        "first_cp": 728,
+        "last_cp": 733
+      },
+      {
+        "first_cp": 768,
+        "last_cp": 772
+      },
+      {
+        "first_cp": 774,
+        "last_cp": 776
+      },
+      {
+        "first_cp": 778,
+        "last_cp": 780
+      },
+      {
+        "first_cp": 784,
+        "last_cp": 784
+      },
+      {
+        "first_cp": 786,
+        "last_cp": 786
+      },
+      {
+        "first_cp": 803,
+        "last_cp": 808
+      },
+      {
+        "first_cp": 816,
+        "last_cp": 818
+      },
+      {
+        "first_cp": 847,
+        "last_cp": 847
+      },
+      {
+        "first_cp": 863,
+        "last_cp": 863
+      },
+      {
+        "first_cp": 916,
+        "last_cp": 916
+      },
+      {
+        "first_cp": 937,
+        "last_cp": 937
+      },
+      {
+        "first_cp": 956,
+        "last_cp": 956
+      },
+      {
+        "first_cp": 960,
+        "last_cp": 960
+      },
+      {
+        "first_cp": 1548,
+        "last_cp": 1548
+      },
+      {
+        "first_cp": 1563,
+        "last_cp": 1563
+      },
+      {
+        "first_cp": 1567,
+        "last_cp": 1567
+      },
+      {
+        "first_cp": 1569,
+        "last_cp": 1594
+      },
+      {
+        "first_cp": 1600,
+        "last_cp": 1622
+      },
+      {
+        "first_cp": 1632,
+        "last_cp": 1642
+      },
+      {
+        "first_cp": 1645,
+        "last_cp": 1649
+      },
+      {
+        "first_cp": 1662,
+        "last_cp": 1662
+      },
+      {
+        "first_cp": 1670,
+        "last_cp": 1670
+      },
+      {
+        "first_cp": 1688,
+        "last_cp": 1688
+      },
+      {
+        "first_cp": 1697,
+        "last_cp": 1697
+      },
+      {
+        "first_cp": 1700,
+        "last_cp": 1700
+      },
+      {
+        "first_cp": 1705,
+        "last_cp": 1705
+      },
+      {
+        "first_cp": 1711,
+        "last_cp": 1711
+      },
+      {
+        "first_cp": 1722,
+        "last_cp": 1722
+      },
+      {
+        "first_cp": 1740,
+        "last_cp": 1740
+      },
+      {
+        "first_cp": 1776,
+        "last_cp": 1785
+      },
+      {
+        "first_cp": 2304,
+        "last_cp": 2431
+      },
+      {
+        "first_cp": 3585,
+        "last_cp": 3642
+      },
+      {
+        "first_cp": 3647,
+        "last_cp": 3675
+      },
+      {
+        "first_cp": 3713,
+        "last_cp": 3714
+      },
+      {
+        "first_cp": 3716,
+        "last_cp": 3716
+      },
+      {
+        "first_cp": 3719,
+        "last_cp": 3720
+      },
+      {
+        "first_cp": 3722,
+        "last_cp": 3722
+      },
+      {
+        "first_cp": 3725,
+        "last_cp": 3725
+      },
+      {
+        "first_cp": 3732,
+        "last_cp": 3735
+      },
+      {
+        "first_cp": 3737,
+        "last_cp": 3743
+      },
+      {
+        "first_cp": 3745,
+        "last_cp": 3747
+      },
+      {
+        "first_cp": 3749,
+        "last_cp": 3749
+      },
+      {
+        "first_cp": 3751,
+        "last_cp": 3751
+      },
+      {
+        "first_cp": 3754,
+        "last_cp": 3755
+      },
+      {
+        "first_cp": 3757,
+        "last_cp": 3769
+      },
+      {
+        "first_cp": 3771,
+        "last_cp": 3773
+      },
+      {
+        "first_cp": 3776,
+        "last_cp": 3780
+      },
+      {
+        "first_cp": 3782,
+        "last_cp": 3782
+      },
+      {
+        "first_cp": 3784,
+        "last_cp": 3789
+      },
+      {
+        "first_cp": 3792,
+        "last_cp": 3801
+      },
+      {
+        "first_cp": 3804,
+        "last_cp": 3807
+      },
+      {
+        "first_cp": 7692,
+        "last_cp": 7693
+      },
+      {
+        "first_cp": 7716,
+        "last_cp": 7717
+      },
+      {
+        "first_cp": 7732,
+        "last_cp": 7735
+      },
+      {
+        "first_cp": 7738,
+        "last_cp": 7739
+      },
+      {
+        "first_cp": 7744,
+        "last_cp": 7753
+      },
+      {
+        "first_cp": 7770,
+        "last_cp": 7775
+      },
+      {
+        "first_cp": 7778,
+        "last_cp": 7779
+      },
+      {
+        "first_cp": 7788,
+        "last_cp": 7791
+      },
+      {
+        "first_cp": 7808,
+        "last_cp": 7813
+      },
+      {
+        "first_cp": 7822,
+        "last_cp": 7823
+      },
+      {
+        "first_cp": 7826,
+        "last_cp": 7830
+      },
+      {
+        "first_cp": 7838,
+        "last_cp": 7838
+      },
+      {
+        "first_cp": 7922,
+        "last_cp": 7923
+      },
+      {
+        "first_cp": 8201,
+        "last_cp": 8201
+      },
+      {
+        "first_cp": 8203,
+        "last_cp": 8205
+      },
+      {
+        "first_cp": 8211,
+        "last_cp": 8212
+      },
+      {
+        "first_cp": 8216,
+        "last_cp": 8218
+      },
+      {
+        "first_cp": 8220,
+        "last_cp": 8222
+      },
+      {
+        "first_cp": 8224,
+        "last_cp": 8226
+      },
+      {
+        "first_cp": 8230,
+        "last_cp": 8230
+      },
+      {
+        "first_cp": 8240,
+        "last_cp": 8240
+      },
+      {
+        "first_cp": 8249,
+        "last_cp": 8250
+      },
+      {
+        "first_cp": 8260,
+        "last_cp": 8260
+      },
+      {
+        "first_cp": 8288,
+        "last_cp": 8288
+      },
+      {
+        "first_cp": 8304,
+        "last_cp": 8304
+      },
+      {
+        "first_cp": 8308,
+        "last_cp": 8318
+      },
+      {
+        "first_cp": 8320,
+        "last_cp": 8329
+      },
+      {
+        "first_cp": 8333,
+        "last_cp": 8334
+      },
+      {
+        "first_cp": 8364,
+        "last_cp": 8365
+      },
+      {
+        "first_cp": 8377,
+        "last_cp": 8378
+      },
+      {
+        "first_cp": 8470,
+        "last_cp": 8470
+      },
+      {
+        "first_cp": 8482,
+        "last_cp": 8482
+      },
+      {
+        "first_cp": 8486,
+        "last_cp": 8486
+      },
+      {
+        "first_cp": 8531,
+        "last_cp": 8532
+      },
+      {
+        "first_cp": 8539,
+        "last_cp": 8542
+      },
+      {
+        "first_cp": 8592,
+        "last_cp": 8595
+      },
+      {
+        "first_cp": 8598,
+        "last_cp": 8601
+      },
+      {
+        "first_cp": 8706,
+        "last_cp": 8706
+      },
+      {
+        "first_cp": 8710,
+        "last_cp": 8710
+      },
+      {
+        "first_cp": 8719,
+        "last_cp": 8719
+      },
+      {
+        "first_cp": 8721,
+        "last_cp": 8722
+      },
+      {
+        "first_cp": 8725,
+        "last_cp": 8725
+      },
+      {
+        "first_cp": 8729,
+        "last_cp": 8730
+      },
+      {
+        "first_cp": 8734,
+        "last_cp": 8734
+      },
+      {
+        "first_cp": 8747,
+        "last_cp": 8747
+      },
+      {
+        "first_cp": 8776,
+        "last_cp": 8776
+      },
+      {
+        "first_cp": 8800,
+        "last_cp": 8800
+      },
+      {
+        "first_cp": 8804,
+        "last_cp": 8805
+      },
+      {
+        "first_cp": 9670,
+        "last_cp": 9670
+      },
+      {
+        "first_cp": 9673,
+        "last_cp": 9676
+      },
+      {
+        "first_cp": 9679,
+        "last_cp": 9679
+      },
+      {
+        "first_cp": 9723,
+        "last_cp": 9724
+      },
+      {
+        "first_cp": 10145,
+        "last_cp": 10145
+      },
+      {
+        "first_cp": 11013,
+        "last_cp": 11019
+      },
+      {
+        "first_cp": 63171,
+        "last_cp": 63171
+      },
+      {
+        "first_cp": 63201,
+        "last_cp": 63202
+      },
+      {
+        "first_cp": 63205,
+        "last_cp": 63208
+      },
+      {
+        "first_cp": 64256,
+        "last_cp": 64258
+      },
+      {
+        "first_cp": 64262,
+        "last_cp": 64262
+      },
+      {
+        "first_cp": 64337,
+        "last_cp": 64337
+      },
+      {
+        "first_cp": 64343,
+        "last_cp": 64345
+      },
+      {
+        "first_cp": 64363,
+        "last_cp": 64365
+      },
+      {
+        "first_cp": 64379,
+        "last_cp": 64381
+      },
+      {
+        "first_cp": 64395,
+        "last_cp": 64395
+      },
+      {
+        "first_cp": 64399,
+        "last_cp": 64401
+      },
+      {
+        "first_cp": 64403,
+        "last_cp": 64405
+      },
+      {
+        "first_cp": 64415,
+        "last_cp": 64415
+      },
+      {
+        "first_cp": 64434,
+        "last_cp": 64439
+      },
+      {
+        "first_cp": 64441,
+        "last_cp": 64441
+      },
+      {
+        "first_cp": 64509,
+        "last_cp": 64511
+      },
+      {
+        "first_cp": 64562,
+        "last_cp": 64562
+      },
+      {
+        "first_cp": 64830,
+        "last_cp": 64831
+      },
+      {
+        "first_cp": 65010,
+        "last_cp": 65010
+      },
+      {
+        "first_cp": 65154,
+        "last_cp": 65154
+      },
+      {
+        "first_cp": 65156,
+        "last_cp": 65156
+      },
+      {
+        "first_cp": 65158,
+        "last_cp": 65158
+      },
+      {
+        "first_cp": 65160,
+        "last_cp": 65160
+      },
+      {
+        "first_cp": 65162,
+        "last_cp": 65164
+      },
+      {
+        "first_cp": 65166,
+        "last_cp": 65166
+      },
+      {
+        "first_cp": 65168,
+        "last_cp": 65170
+      },
+      {
+        "first_cp": 65172,
+        "last_cp": 65172
+      },
+      {
+        "first_cp": 65174,
+        "last_cp": 65176
+      },
+      {
+        "first_cp": 65178,
+        "last_cp": 65180
+      },
+      {
+        "first_cp": 65182,
+        "last_cp": 65184
+      },
+      {
+        "first_cp": 65186,
+        "last_cp": 65188
+      },
+      {
+        "first_cp": 65190,
+        "last_cp": 65192
+      },
+      {
+        "first_cp": 65194,
+        "last_cp": 65194
+      },
+      {
+        "first_cp": 65196,
+        "last_cp": 65196
+      },
+      {
+        "first_cp": 65198,
+        "last_cp": 65198
+      },
+      {
+        "first_cp": 65200,
+        "last_cp": 65200
+      },
+      {
+        "first_cp": 65202,
+        "last_cp": 65204
+      },
+      {
+        "first_cp": 65206,
+        "last_cp": 65208
+      },
+      {
+        "first_cp": 65210,
+        "last_cp": 65212
+      },
+      {
+        "first_cp": 65214,
+        "last_cp": 65216
+      },
+      {
+        "first_cp": 65218,
+        "last_cp": 65220
+      },
+      {
+        "first_cp": 65222,
+        "last_cp": 65224
+      },
+      {
+        "first_cp": 65226,
+        "last_cp": 65228
+      },
+      {
+        "first_cp": 65230,
+        "last_cp": 65232
+      },
+      {
+        "first_cp": 65234,
+        "last_cp": 65236
+      },
+      {
+        "first_cp": 65238,
+        "last_cp": 65240
+      },
+      {
+        "first_cp": 65242,
+        "last_cp": 65244
+      },
+      {
+        "first_cp": 65246,
+        "last_cp": 65248
+      },
+      {
+        "first_cp": 65250,
+        "last_cp": 65252
+      },
+      {
+        "first_cp": 65254,
+        "last_cp": 65256
+      },
+      {
+        "first_cp": 65258,
+        "last_cp": 65260
+      },
+      {
+        "first_cp": 65262,
+        "last_cp": 65262
+      },
+      {
+        "first_cp": 65264,
+        "last_cp": 65264
+      },
+      {
+        "first_cp": 65266,
+        "last_cp": 65276
+      }
+    ]
+  },
+  "totals": {
+    "assigned_codepoints_total": 0,
+    "covered_codepoints_total": 1018,
+    "blocks_touched": 0,
+    "blocks_complete": 0,
+    "blocks_partial": 0,
+    "scripts_touched": 0
+  },
+  "discrepancies": [],
+  "plane_summaries": [],
+  "block_summaries": [],
+  "script_summaries": []
+}

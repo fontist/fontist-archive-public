@@ -1,0 +1,39 @@
+{
+  "slug": "macos/biz_udmincho_10m11177",
+  "name": "BIZ UDMincho",
+  "description": "BIZ UDMincho",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b69ceef46590c8634f01726755f0f39a1b2fdf60.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/b69ceef46590c8634f01726755f0f39a1b2fdf60.zip"
+      ],
+      "sha256": "b62559413d3f6b6ef179b17ba796d6d32b42ead54c64b33d0deb65c6a177f22d",
+      "file_size": 3842190,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BIZ UDMincho",
+      "styles": [
+        {
+          "family_name": "BIZ UDMincho",
+          "type": "Regular",
+          "full_name": "BIZ UDMincho",
+          "post_script_name": "BIZUDMincho-Regular",
+          "version": "18.0d1e2",
+          "copyright": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "BIZ_UDMincho-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

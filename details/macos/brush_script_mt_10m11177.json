@@ -1,0 +1,37 @@
+{
+  "slug": "macos/brush_script_mt_10m11177",
+  "name": "Brush Script MT",
+  "description": "Brush Script MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 1993 , Monotype Typography ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "409879965ac163e68b0f99b8d79280baa113fb61.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/409879965ac163e68b0f99b8d79280baa113fb61.zip"
+      ],
+      "sha256": "f0e16830fafce0154f82f2443005699e3ad42e52718061b184da3207e118b795",
+      "file_size": 125775,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Brush Script MT",
+      "styles": [
+        {
+          "family_name": "Brush Script MT",
+          "type": "Italic",
+          "full_name": "Brush Script MT Italic",
+          "post_script_name": "BrushScriptMT",
+          "version": "1.52x-1",
+          "copyright": "Copyright © 1993 , Monotype Typography ltd.",
+          "font": "Brush Script.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

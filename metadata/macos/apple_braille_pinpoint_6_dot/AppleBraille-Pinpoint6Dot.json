@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Apple Braille",
   "style": "Pinpoint 6 Dot",
-  "redistributable": false
+  "version": "13.0d2e27",
+  "font_revision": 1.0,
+  "source_sha256": "40be69c5d8e6a0dde50f22eb4732bb617dfce91aaee354774274d56e3ee5c492",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/apple_braille_pinpoint_6_dot/AppleBraille-Pinpoint6Dot.json"
 }

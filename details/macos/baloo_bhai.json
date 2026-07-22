@@ -1,0 +1,37 @@
+{
+  "slug": "macos/baloo_bhai",
+  "name": "baloo_bhai",
+  "description": "Baloo Bhai",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Baloo_Bhai.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/e1c398cc51a19115b37de7d5a100f4baff045823.zip"
+      ],
+      "sha256": "2a63f4a88ddd07773b19c4ec58fba5018aec7e153d2d9e96505e5b8f4ed94c4a",
+      "file_size": 164519
+    }
+  },
+  "fonts": [
+    {
+      "name": "Baloo Bhai",
+      "styles": [
+        {
+          "family_name": "Baloo Bhai",
+          "type": "Regular",
+          "full_name": "Baloo Bhai Regular",
+          "post_script_name": "BalooBhai-Regular",
+          "version": "1.443;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+          "font": "BalooBhai-Gujarati.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

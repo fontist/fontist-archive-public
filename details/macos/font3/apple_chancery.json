@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/apple_chancery",
+  "name": "Apple Chancery",
+  "description": "Apple Chancery",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1993-1999 Apple Computer, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "f9e94d3bd07be3cdbfedb150eb303355c85e8602.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/f9e94d3bd07be3cdbfedb150eb303355c85e8602.zip"
+      ],
+      "sha256": "54673780bfcafcb514b6fff7037567efceb2ab34ef3d64dfd2fdc1a1b832ddac",
+      "file_size": 170043
+    }
+  },
+  "fonts": [
+    {
+      "name": "Apple Chancery",
+      "styles": [
+        {
+          "family_name": "Apple Chancery",
+          "type": "Chancery",
+          "full_name": "Apple Chancery",
+          "post_script_name": "Apple-Chancery",
+          "version": "8.0d1e1",
+          "copyright": "� 1993-1999 Apple Computer, Inc.",
+          "font": "Apple Chancery.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

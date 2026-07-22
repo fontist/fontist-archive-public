@@ -1,0 +1,37 @@
+{
+  "slug": "macos/baloo_thambi",
+  "name": "baloo_thambi",
+  "description": "Baloo Thambi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Baloo_Thambi.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/bc1af2ecada8568f934993aa1551add5d41df861.zip"
+      ],
+      "sha256": "484c21e7880754c2ff1790a5f76afbbe96fe08e9c8004dd0b057fa83d70379fe",
+      "file_size": 131913
+    }
+  },
+  "fonts": [
+    {
+      "name": "Baloo Thambi",
+      "styles": [
+        {
+          "family_name": "Baloo Thambi",
+          "type": "Regular",
+          "full_name": "Baloo Thambi Regular",
+          "post_script_name": "BalooThambi-Regular",
+          "version": "1.443;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2015 Ek Type (www.ektype.in)",
+          "font": "BalooThambiTamil-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

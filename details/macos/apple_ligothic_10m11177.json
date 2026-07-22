@@ -1,0 +1,37 @@
+{
+  "slug": "macos/apple_ligothic_10m11177",
+  "name": "Apple LiGothic",
+  "description": "Apple LiGothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Apple Computer, Inc. 1992-1998",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5493cc74bb6e1aa608888bd20e0478960236b554.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/5493cc74bb6e1aa608888bd20e0478960236b554.zip"
+      ],
+      "sha256": "cbed6dffb4b073c7796275a3551bf1a97324d21ea8d3147aa3128894f8c1f349",
+      "file_size": 3680400,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Apple LiGothic",
+      "styles": [
+        {
+          "family_name": "Apple LiGothic",
+          "type": "Medium",
+          "full_name": "Apple LiGothic Medium",
+          "post_script_name": "LiGothicMed",
+          "version": "13.0d2e6",
+          "copyright": "Apple Computer, Inc. 1992-1998",
+          "font": "AppleLiGothic-Medium.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

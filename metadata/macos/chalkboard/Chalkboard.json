@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Chalkboard",
   "style": "Regular",
-  "redistributable": false
+  "version": "13.0d1e2",
+  "font_revision": 1.0,
+  "source_sha256": "9f77308d5714c03d85af74b1b4f5822a113cbee782535607f77916e7ef192266",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/chalkboard/Chalkboard.json"
 }

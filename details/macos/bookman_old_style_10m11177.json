@@ -1,0 +1,64 @@
+{
+  "slug": "macos/bookman_old_style_10m11177",
+  "name": "Bookman Old Style",
+  "description": "Bookman Old Style",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Bookman Old Style™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "49e543cf792dea12fdde40ad10ed481fc225dab1.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/49e543cf792dea12fdde40ad10ed481fc225dab1.zip"
+      ],
+      "sha256": "2d8391545e3dea65acea983ef49a7e5b5ef6aaaaeef6120ffe759c37c9222912",
+      "file_size": 380581
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "BookmanOldStyle.ttc",
+      "fonts": [
+        {
+          "name": "Bookman Old Style",
+          "styles": [
+            {
+              "family_name": "Bookman Old Style",
+              "type": "Bold",
+              "full_name": "Bookman Old Style Bold",
+              "post_script_name": "BookmanOldStyle-Bold",
+              "version": "13.0d1e3",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Bookman Old Style™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Bookman Old Style",
+              "type": "Bold Italic",
+              "full_name": "Bookman Old Style Bold Italic",
+              "post_script_name": "BookmanOldStyle-BoldItalic",
+              "version": "13.0d1e3",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Bookman Old Style™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Bookman Old Style",
+              "type": "Italic",
+              "full_name": "Bookman Old Style Italic",
+              "post_script_name": "BookmanOldStyle-Italic",
+              "version": "13.0d1e3",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Bookman Old Style™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Bookman Old Style",
+              "type": "Regular",
+              "full_name": "Bookman Old Style",
+              "post_script_name": "BookmanOldStyle",
+              "version": "13.0d1e3",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Bookman Old Style™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "slug": "macos/adelle_sans_devanagari",
+  "name": "adelle_sans_devanagari",
+  "description": "Adelle Sans Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.type-together.com/resources/eula/TT-EULA.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Adelle_Sans_Devanagari.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/6119fee9d861a2923569633ebe5af5a5068e73f2.zip"
+      ],
+      "sha256": "50571d1b0bfa2cc3eea719a3e13a9e6ba40fcd4ba71ff5b5616056c2073bc44b",
+      "file_size": 1496582
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AdelleSans.ttc",
+      "fonts": [
+        {
+          "name": "Adelle Sans Devanagari",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari",
+              "type": "Bold",
+              "full_name": "Adelle Sans Devanagari Bold",
+              "post_script_name": "AdelleSansDevanagari-Bold",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            },
+            {
+              "family_name": "Adelle Sans Devanagari",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Regular",
+              "post_script_name": "AdelleSansDevanagari-Regular",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Extrabold",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Extrabold",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Extrabold",
+              "post_script_name": "AdelleSansDevanagari-Extrabold",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Heavy",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Heavy",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Heavy",
+              "post_script_name": "AdelleSansDevanagari-Heavy",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Light",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Light",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Light",
+              "post_script_name": "AdelleSansDevanagari-Light",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Semibold",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Semibold",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Semibold",
+              "post_script_name": "AdelleSansDevanagari-Semibold",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Thin",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Thin",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Thin",
+              "post_script_name": "AdelleSansDevanagari-Thin",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "Concept: Veronika Burian, José Scaglione (Latin & Devanagari)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

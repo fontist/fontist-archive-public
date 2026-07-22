@@ -1,0 +1,93 @@
+{
+  "slug": "macos/baloo_da_2_10m11177",
+  "name": "Baloo Da 2",
+  "description": "Baloo Da 2",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7bcec970f2355a0d2fe5f133daf80647dcc682ef.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/7bcec970f2355a0d2fe5f133daf80647dcc682ef.zip"
+      ],
+      "sha256": "5242c8a4fe3ef377a2760eee2996a18b9bb8eef79b2a2a3c68e7f645d568cf6f",
+      "file_size": 975989
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "BalooDaBangla.ttc",
+      "fonts": [
+        {
+          "name": "Baloo Da 2",
+          "styles": [
+            {
+              "family_name": "Baloo Da 2",
+              "type": "Bold",
+              "full_name": "Baloo Da 2 Bold",
+              "post_script_name": "BalooDa2-Bold",
+              "version": "20.0d1e2 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Baloo Da 2",
+              "type": "Regular",
+              "full_name": "Baloo Da 2 Regular",
+              "post_script_name": "BalooDa2-Regular",
+              "version": "20.0d1e2 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Baloo Da 2 ExtraBold",
+          "styles": [
+            {
+              "family_name": "Baloo Da 2 ExtraBold",
+              "type": "Regular",
+              "full_name": "Baloo Da 2 ExtraBold",
+              "post_script_name": "BalooDa2-ExtraBold",
+              "version": "20.0d1e2 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Baloo Da 2 Medium",
+          "styles": [
+            {
+              "family_name": "Baloo Da 2 Medium",
+              "type": "Regular",
+              "full_name": "Baloo Da 2 Medium",
+              "post_script_name": "BalooDa2-Medium",
+              "version": "20.0d1e2 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Baloo Da 2 SemiBold",
+          "styles": [
+            {
+              "family_name": "Baloo Da 2 SemiBold",
+              "type": "Regular",
+              "full_name": "Baloo Da 2 SemiBold",
+              "post_script_name": "BalooDa2-SemiBold",
+              "version": "20.0d1e2 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

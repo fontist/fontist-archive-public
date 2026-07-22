@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Comic Sans MS",
   "style": "Bold",
-  "redistributable": false
+  "version": "Version 5.00x",
+  "font_revision": 5.0,
+  "source_sha256": "c1d5060ad77da55f2fadfafda4e95bd6d78fbbb3a29178ff1389893d678fb400",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/comic_sans_ms_bold/ComicSansMS-Bold.json"
 }

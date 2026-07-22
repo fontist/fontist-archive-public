@@ -1,0 +1,56 @@
+{
+  "slug": "macos/dash_practice_10m11177",
+  "name": "Dash Practice",
+  "description": "Dash Practice",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2023-2024 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "dfb029fad19942a3dee3ff1b6f1a75bdb2538141.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/dfb029fad19942a3dee3ff1b6f1a75bdb2538141.zip"
+      ],
+      "sha256": "a9954b35d59deeaada0ba4e1446a63fd37d7827ed5d07f595d2c4c2988a20933",
+      "file_size": 331455
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Dash.ttc",
+      "fonts": [
+        {
+          "name": "Dash",
+          "styles": [
+            {
+              "family_name": "Dash",
+              "type": "Regular",
+              "full_name": "Dash Regular",
+              "post_script_name": "Dash-Regular",
+              "version": "20.0d3e1",
+              "copyright": "Copyright 2023-2024 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "Dash Practice",
+          "styles": [
+            {
+              "family_name": "Dash Practice",
+              "type": "Regular",
+              "full_name": "Dash Practice",
+              "post_script_name": "Dash-Practice",
+              "version": "20.0d3e1",
+              "copyright": "Copyright 2023-2024 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

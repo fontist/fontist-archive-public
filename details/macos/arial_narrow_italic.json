@@ -1,0 +1,37 @@
+{
+  "slug": "macos/arial_narrow_italic",
+  "name": "arial_narrow_italic",
+  "description": "Arial Narrow Italic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Arial_Narrow_Italic.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/301978582e2f10098197833a520574cc6e427e10.zip"
+      ],
+      "sha256": "70ac8ece3c18ebbd832d74248593051f1a9bb8ec1458f9b2ac27692f65420937",
+      "file_size": 97248
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial Narrow",
+      "styles": [
+        {
+          "family_name": "Arial Narrow",
+          "type": "Italic",
+          "full_name": "Arial Narrow Italic",
+          "post_script_name": "ArialNarrow-Italic",
+          "version": "2.38.1x",
+          "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+          "description": "Monotype Drawing Office 1982. A contemporary sans serif design, Arial contains more humanist characteristics than many of its predecessors and as such is more in tune with the mood of the last decades of the twentieth century. The overall treatment of curves is softer and fuller than in most industrial-style sans serif faces. Terminal strokes are cut on the diagonal which helps to give the face a less mechanical appearance. Arial is an extremely versatile family of typefaces which can be used with equal success for text setting in reports, presentations, magazines etc, and for display use in newspapers, advertising and promotions.",
+          "font": "ARIALNI.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

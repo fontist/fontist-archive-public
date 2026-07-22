@@ -1,0 +1,37 @@
+{
+  "slug": "macos/arial_narrow_bold",
+  "name": "arial_narrow_bold",
+  "description": "Arial Narrow Bold",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Arial_Narrow_Bold.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/2857cc3f5913cb6666e656a301d3aef2e7f8e7c1.zip"
+      ],
+      "sha256": "e42de674a802b9ec6678c74351560802e920b31236c4f2202e9839730b17e348",
+      "file_size": 94233
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial Narrow",
+      "styles": [
+        {
+          "family_name": "Arial Narrow",
+          "type": "Bold",
+          "full_name": "Arial Narrow Bold",
+          "post_script_name": "ArialNarrow-Bold",
+          "version": "2.38.1x",
+          "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+          "description": "Monotype Drawing Office 1982. A contemporary sans serif design, Arial contains more humanist characteristics than many of its predecessors and as such is more in tune with the mood of the last decades of the twentieth century. The overall treatment of curves is softer and fuller than in most industrial-style sans serif faces. Terminal strokes are cut on the diagonal which helps to give the face a less mechanical appearance. Arial is an extremely versatile family of typefaces which can be used with equal success for text setting in reports, presentations, magazines etc, and for display use in newspapers, advertising and promotions.",
+          "font": "ARIALNB.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

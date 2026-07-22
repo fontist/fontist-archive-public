@@ -1,0 +1,64 @@
+{
+  "slug": "macos/canela_10m11177",
+  "name": "Canela",
+  "description": "Canela",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (C)2016 Commercial Type.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "4c44d8e852bfbdbbbca56fde7d307aac0f254586.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/4c44d8e852bfbdbbbca56fde7d307aac0f254586.zip"
+      ],
+      "sha256": "873230839013bdb3600a84a3e9f31f03defb8abb7bb08b1d520e63b092cc237a",
+      "file_size": 159099
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Canela.ttc",
+      "fonts": [
+        {
+          "name": "Canela",
+          "styles": [
+            {
+              "family_name": "Canela",
+              "type": "Bold",
+              "full_name": "Canela Bold Regular",
+              "post_script_name": "Canela-Bold",
+              "version": "15.0d1e14",
+              "copyright": "Copyright (C)2016 Commercial Type."
+            },
+            {
+              "family_name": "Canela",
+              "type": "Bold Italic",
+              "full_name": "Canela Bold Italic",
+              "post_script_name": "Canela-BoldItalic",
+              "version": "15.0d1e14",
+              "copyright": "Copyright (C)2016 Commercial Type."
+            },
+            {
+              "family_name": "Canela",
+              "type": "Italic",
+              "full_name": "Canela Regular Italic",
+              "post_script_name": "Canela-RegularItalic",
+              "version": "15.0d1e14",
+              "copyright": "Copyright (C)2016 Commercial Type."
+            },
+            {
+              "family_name": "Canela",
+              "type": "Regular",
+              "full_name": "Canela Regular Regular",
+              "post_script_name": "Canela-Regular",
+              "version": "15.0d1e14",
+              "copyright": "Copyright (C)2016 Commercial Type."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

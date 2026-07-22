@@ -4,5 +4,9 @@
   "provider": "macos",
   "family_name": "Apple Braille",
   "style": "Regular",
-  "redistributable": false
+  "version": "13.0d2e27",
+  "font_revision": 1.0,
+  "source_sha256": "0e8538123007b421c99a7f3bcbaec0c24856ce64a466d79246c473cf569729ad",
+  "redistributable": false,
+  "coverage_file": "coverage/macos/apple_braille/AppleBraille.json"
 }
