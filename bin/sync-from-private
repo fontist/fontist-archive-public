@@ -1,7 +1,17 @@
 #!/usr/bin/env bash
 # Canonical sync script. Called by:
-#   - .github/workflows/sync.yml         (cron + repository_dispatch[sync])
-#   - .github/workflows/sync-private.yml (repository_dispatch[archive-private-updated])
+#   - .github/workflows/sync.yml (cron + repository_dispatch[sync])
+#
+# Takes the path to a checkout of fontist-archive-private. The caller is
+# responsible for providing it — sync.yml uses actions/checkout, which
+# handles authentication and token masking. This script deliberately does
+# NOT clone: an earlier version fell back to an unauthenticated HTTPS clone
+# of a private repo, which failed with
+#   fatal: could not read Username for 'https://github.com'
+# on every scheduled run for a month while CI stayed green.
+#
+# Local use:
+#   ./bin/sync-from-private ~/fontist/fontist-archive-private
 #
 # macos handling per coverage-architecture.md data-separation table:
 #   coverage + details: ALL public (copy macos/)
@@ -11,55 +21,69 @@
 
 set -euo pipefail
 
-SRC="${1:-/tmp/private}"
-
-# If caller did not provide a path, clone archive-private into /tmp/private.
-if [ ! -d "$SRC/coverage" ] && [ ! -d "$SRC/details" ] && [ ! -d "$SRC/woff" ]; then
-  echo "Cloning fontist-archive-private..."
-  rm -rf /tmp/private
-  git clone --depth 1 "https://github.com/fontist/fontist-archive-private.git" /tmp/private
-  SRC="/tmp/private"
+if [ $# -lt 1 ]; then
+  echo "usage: $0 <path-to-fontist-archive-private-checkout>" >&2
+  exit 2
 fi
+
+SRC="$1"
+
+# Fail loudly on a missing or wrong-shaped source. Every artifact below is
+# required; treating any of them as optional is what let an empty archive
+# ship to production unnoticed.
+for required in coverage details woff metadata fonts.json; do
+  if [ ! -e "$SRC/$required" ]; then
+    echo "error: $SRC/$required not found — is '$SRC' a fontist-archive-private checkout?" >&2
+    exit 1
+  fi
+done
 
 echo "Source: $SRC"
 
 echo "Syncing coverage (ALL including macos/)..."
 rm -rf coverage
 mkdir -p coverage
-if [ -d "$SRC/coverage" ]; then
-  cp -r "$SRC/coverage/." coverage/
-else
-  echo "  (no coverage/ on private — site degrades gracefully)"
-fi
+cp -r "$SRC/coverage/." coverage/
 
 echo "Syncing details (ALL including macos/)..."
 rm -rf details
 mkdir -p details
-if [ -d "$SRC/details" ]; then
-  cp -r "$SRC/details/." details/
-else
-  echo "  (no details/ on private — formula pages degrade to summary view)"
-fi
+cp -r "$SRC/details/." details/
 
 echo "Syncing woff (OPEN LICENSES ONLY — skip macos/)..."
-rm -rf woff
+# Also remove the legacy flat `fonts/` tree: 2,165 stale per-family woff files
+# from the June snapshot that nothing reads — the site fetches
+# woff/{formula_slug}/{PSName}.woff exclusively (font-metadata.json's woff_file;
+# TODO.archives/16). Deleting it here means the next sync commits the removal,
+# staged by `git add -A` in the workflow.
+rm -rf woff fonts
 mkdir -p woff
-if [ -d "$SRC/woff" ]; then
-  for d in "$SRC/woff"/*; do
-    [ -e "$d" ] || continue
-    base=$(basename "$d")
-    if [ "$base" != "macos" ]; then
-      cp -r "$d" "woff/"
-    fi
-  done
-fi
+for d in "$SRC/woff"/*; do
+  [ -e "$d" ] || continue
+  base=$(basename "$d")
+  if [ "$base" != "macos" ]; then
+    cp -r "$d" "woff/"
+  fi
+done
 
-echo "Syncing registries..."
-cp "$SRC/fonts.json" . 2>/dev/null || echo "  (no fonts.json on private)"
-cp "$SRC/font-metadata.json" . 2>/dev/null || echo "  (no font-metadata.json on private)"
+echo "Syncing metadata (per-style face files, ALL including macos/)..."
+# The site (gen-font-families) reads these to build the family index. macOS
+# faces are included: their coverage is public and their per-style file carries
+# version/style; the site nulls the (unpublished) macOS woff_file via the
+# manifest, so publishing the metadata is safe and complete.
+rm -rf metadata
+mkdir -p metadata
+cp -r "$SRC/metadata/." metadata/
+
+echo "Syncing registry (fonts.json — the family index)..."
+# font-metadata.json (the per-face aggregate) is intentionally NOT published:
+# the per-style metadata/ files above are the per-face source of truth now, so
+# the aggregate would be dead weight on the CDN.
+cp "$SRC/fonts.json" .
 
 echo ""
 echo "Counts:"
 printf "  coverage: %s files\n" "$(find coverage -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"
 printf "  details:  %s files\n" "$(find details -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"
 printf "  woff:     %s files\n" "$(find woff -name '*.woff' 2>/dev/null | wc -l | tr -d ' ')"
+printf "  metadata: %s files\n" "$(find metadata -name '*.json' 2>/dev/null | wc -l | tr -d ' ')"

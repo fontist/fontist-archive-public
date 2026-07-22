@@ -1,28 +1,46 @@
 #!/usr/bin/env bash
-# Send `repository_dispatch[rebuild]` to fontist/fontist.org.
+# Send `repository_dispatch[rebuild]` to the fontist.org site repository.
 #
 # Used by every archive-public sync workflow after a successful commit,
 # so the site rebuilds promptly when its data sources change.
 #
-# Soft-fails when FONTIST_CI_PAT_TOKEN is unset (e.g. during initial
-# secret rollout) — the next scheduled fontist.org rebuild will pick
-# up the change anyway.
+# The repo is fontist/fontist.github.io. The old fontist/fontist.org name
+# still resolves, but only via an HTTP 301 — and curl does not follow
+# redirects on POST without -L, while -L itself downgrades POST to GET on a
+# 301 unless --post301 is given. Dispatching to the old name therefore
+# silently did nothing. Always use the canonical name.
 #
 # Requires:
-#   - FONTIST_CI_PAT_TOKEN env var with dispatch scope on fontist/fontist.org
+#   - FONTIST_CI_PAT_TOKEN env var with dispatch scope on
+#     fontist/fontist.github.io
+#
+# Fails loudly on a missing token or a non-204 response: the site build has
+# no `schedule` trigger, so a dropped dispatch means the site never picks up
+# the new data at all.
 #
 # See TODO.archives/15-dispatch-link-missing-sync-workflows.md.
 
 set -euo pipefail
 
+REPO="fontist/fontist.github.io"
+
 if [ -z "${FONTIST_CI_PAT_TOKEN:-}" ]; then
-  echo "FONTIST_CI_PAT_TOKEN not set — skipping fontist.org dispatch"
-  exit 0
+  echo "::error::FONTIST_CI_PAT_TOKEN not set — cannot trigger $REPO rebuild" >&2
+  exit 1
 fi
 
-curl -s -X POST \
+code="$(curl -sS -X POST \
+  -o /dev/null \
+  -w '%{http_code}' \
   -H "Authorization: token $FONTIST_CI_PAT_TOKEN" \
   -H "Accept: application/vnd.github.v3+json" \
-  https://api.github.com/repos/fontist/fontist.org/dispatches \
-  -d '{"event_type":"rebuild"}' \
-  -w "fontist.org dispatch HTTP %{http_code}\n"
+  "https://api.github.com/repos/$REPO/dispatches" \
+  -d '{"event_type":"rebuild"}')"
+
+# GitHub returns 204 No Content on a successful repository dispatch.
+if [ "$code" != "204" ]; then
+  echo "::error::$REPO dispatch failed with HTTP $code (expected 204)" >&2
+  exit 1
+fi
+
+echo "$REPO rebuild dispatched (HTTP $code)"
