@@ -1,0 +1,58 @@
+{
+  "slug": "google/akaya_kanadaka",
+  "name": "akaya_kanadaka",
+  "description": "Akaya is a single weight experimental display typeface in Kannada, Telugu and Latin scripts. Akaya Kanadaka and Akaya Telivigala are made as two separate font files which share a common Latin. To contribute, please see github.com/vaishnavimurthy/Akaya-Kanadaka .",
+  "homepage": "https://fonts.google.com/specimen/Akaya+Kanadaka",
+  "copyright": "Copyright 2015 The Akaya Kanadaka Project Authors (https://github.com/vaishnavimurthy/Akaya-Kanadaka)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Akaya Kanadaka",
+      "files": [
+        "https://fonts.gstatic.com/s/akayakanadaka/v18/N0bM2S5CPO5oOQqvazoRRb-8-PfRS5VBBSSF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akayakanadaka/v18/N0bM2S5CPO5oOQqvazoRRb-8-PfRS5VBBSSF.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Akaya Kanadaka",
+      "files": [
+        "https://fonts.gstatic.com/s/akayakanadaka/v18/N0bM2S5CPO5oOQqvazoRRb-8-PfUS5VBBSSF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akayakanadaka/v18/N0bM2S5CPO5oOQqvazoRRb-8-PfUS5VBBSSF.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Akaya Kanadaka",
+      "styles": [
+        {
+          "family_name": "Akaya Kanadaka",
+          "type": "Regular",
+          "full_name": "Akaya Kanadaka Regular",
+          "post_script_name": "AkayaKanadaka-Regular",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2015 The Akaya Kanadaka Project Authors (https://github.com/vaishnavimurthy/Akaya-Kanadaka)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "N0bM2S5CPO5oOQqvazoRRb-8-PfRS5VBBSSF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

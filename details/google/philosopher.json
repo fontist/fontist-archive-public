@@ -1,0 +1,115 @@
+{
+  "slug": "google/philosopher",
+  "name": "philosopher",
+  "description": "Philosopher was started in 2008 and takes inspiration from Agfa Rotis and ITC Binary. This font is universal: It can be used in logos, headlines, and for text. The initial version of the font was deliberately spread with errors - this was my invaluable contribution to type culture around the world, as I thought then - I wanted to stir up designers so they began working with fonts, rather than passively using what is there. Over time I wanted to correct the errors, and now the font has been used by millions of people worldwide. In June 2011 a four-style family was published, and in September 2011 the full Latin and Cyrillic family was fully hinted. To contribute, see github.com/alexeiva/philosopher .",
+  "homepage": "https://fonts.google.com/specimen/Philosopher",
+  "copyright": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Philosopher",
+      "files": [
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFV2_5QCwIS4_Dhez5jcVBpRUwU08qe.ttf",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFX2_5QCwIS4_Dhez5jcWBrT0g21tqeR7c.ttf",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFI2_5QCwIS4_Dhez5jcWjVamgc-NaXXq7H.ttf",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFK2_5QCwIS4_Dhez5jcWBrd_QZ8tK1W77HtMo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFV2_5QCwIS4_Dhez5jcVBpRUwU08qe.ttf",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFX2_5QCwIS4_Dhez5jcWBrT0g21tqeR7c.ttf",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFI2_5QCwIS4_Dhez5jcWjVamgc-NaXXq7H.ttf",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFK2_5QCwIS4_Dhez5jcWBrd_QZ8tK1W77HtMo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Philosopher",
+      "files": [
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFV2_5QCwIS4_Dhez5jcVBsRUwU08qe.woff2",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFX2_5QCwIS4_Dhez5jcWBrT0021tqeR7c.woff2",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFI2_5QCwIS4_Dhez5jcWjVamgZ-NaXXq7H.woff2",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFK2_5QCwIS4_Dhez5jcWBrd_QZ8te1W77HtMo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFV2_5QCwIS4_Dhez5jcVBsRUwU08qe.woff2",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFX2_5QCwIS4_Dhez5jcWBrT0021tqeR7c.woff2",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFI2_5QCwIS4_Dhez5jcWjVamgZ-NaXXq7H.woff2",
+        "https://fonts.gstatic.com/s/philosopher/v21/vEFK2_5QCwIS4_Dhez5jcWBrd_QZ8te1W77HtMo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Philosopher",
+      "styles": [
+        {
+          "family_name": "Philosopher",
+          "type": "Regular",
+          "full_name": "Philosopher Regular",
+          "post_script_name": "Philosopher-Regular",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "vEFV2_5QCwIS4_Dhez5jcVBpRUwU08qe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Philosopher",
+          "type": "Italic",
+          "full_name": "Philosopher Italic",
+          "post_script_name": "Philosopher-Italic",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "vEFX2_5QCwIS4_Dhez5jcWBrT0g21tqeR7c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Philosopher",
+          "type": "Bold",
+          "full_name": "Philosopher Bold",
+          "post_script_name": "Philosopher-Bold",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "vEFI2_5QCwIS4_Dhez5jcWjVamgc-NaXXq7H.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Philosopher",
+          "type": "Bold Italic",
+          "full_name": "Philosopher Bold Italic",
+          "post_script_name": "Philosopher-BoldItalic",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Philosopher Project Authors (https://github.com/alexeiva/philosopher)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "vEFK2_5QCwIS4_Dhez5jcWBrd_QZ8tK1W77HtMo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

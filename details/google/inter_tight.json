@@ -1,0 +1,422 @@
+{
+  "slug": "google/inter_tight",
+  "name": "inter_tight",
+  "description": "This is a specialized version of Inter with tighter spacing, for display usage. This version also has Roman and Italic styles. To contribute, see github.com/rsms/inter-gf-tight .",
+  "homepage": "https://fonts.google.com/specimen/Inter+Tight",
+  "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Inter Tight",
+      "files": [
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw6qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjw-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjwiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjpgiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHi5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCGC5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zrGC5SgqoUPvi5.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw6qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjw-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjwiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjpgiqWSRToK8EPg.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHi5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCGC5SgqoUPvi5.woff2",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zrGC5SgqoUPvi5.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Inter Tight",
+      "files": [
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw6qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjw-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjwiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjpgiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHi5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCGC5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zrGC5XgqoUPvi5.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw6qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjw-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjwiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjpgiqXCRToK8EPg.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHi5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCGC5XgqoUPvi5.ttf",
+        "https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zrGC5XgqoUPvi5.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inter Tight Thin",
+      "styles": [
+        {
+          "family_name": "Inter Tight Thin",
+          "type": "Regular",
+          "full_name": "Inter Tight Thin",
+          "post_script_name": "InterTight-Thin",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw6qXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight Thin",
+          "type": "Italic",
+          "full_name": "Inter Tight Thin Italic",
+          "post_script_name": "InterTight-ThinItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHi5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight ExtraLight",
+      "styles": [
+        {
+          "family_name": "Inter Tight ExtraLight",
+          "type": "Regular",
+          "full_name": "Inter Tight ExtraLight",
+          "post_script_name": "InterTight-ExtraLight",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjw-qXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight ExtraLight",
+          "type": "Italic",
+          "full_name": "Inter Tight ExtraLight Italic",
+          "post_script_name": "InterTight-ExtraLightItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCHy5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight Light",
+      "styles": [
+        {
+          "family_name": "Inter Tight Light",
+          "type": "Regular",
+          "full_name": "Inter Tight Light",
+          "post_script_name": "InterTight-Light",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight Light",
+          "type": "Italic",
+          "full_name": "Inter Tight Light Italic",
+          "post_script_name": "InterTight-LightItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight",
+      "styles": [
+        {
+          "family_name": "Inter Tight",
+          "type": "Regular",
+          "full_name": "Inter Tight Regular",
+          "post_script_name": "InterTight-Regular",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight",
+          "type": "Bold",
+          "full_name": "Inter Tight Bold",
+          "post_script_name": "InterTight-Bold",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight",
+          "type": "Italic",
+          "full_name": "Inter Tight Italic",
+          "post_script_name": "InterTight-Italic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight",
+          "type": "Bold Italic",
+          "full_name": "Inter Tight Bold Italic",
+          "post_script_name": "InterTight-BoldItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight Medium",
+      "styles": [
+        {
+          "family_name": "Inter Tight Medium",
+          "type": "Regular",
+          "full_name": "Inter Tight Medium",
+          "post_script_name": "InterTight-Medium",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight Medium",
+          "type": "Italic",
+          "full_name": "Inter Tight Medium Italic",
+          "post_script_name": "InterTight-MediumItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight SemiBold",
+      "styles": [
+        {
+          "family_name": "Inter Tight SemiBold",
+          "type": "Regular",
+          "full_name": "Inter Tight SemiBold",
+          "post_script_name": "InterTight-SemiBold",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight SemiBold",
+          "type": "Italic",
+          "full_name": "Inter Tight SemiBold Italic",
+          "post_script_name": "InterTight-SemiBoldItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight ExtraBold",
+      "styles": [
+        {
+          "family_name": "Inter Tight ExtraBold",
+          "type": "Regular",
+          "full_name": "Inter Tight ExtraBold",
+          "post_script_name": "InterTight-ExtraBold",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjjwiqXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight ExtraBold",
+          "type": "Italic",
+          "full_name": "Inter Tight ExtraBold Italic",
+          "post_script_name": "InterTight-ExtraBoldItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zCGC5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inter Tight Black",
+      "styles": [
+        {
+          "family_name": "Inter Tight Black",
+          "type": "Regular",
+          "full_name": "Inter Tight Black",
+          "post_script_name": "InterTight-Black",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjpgiqXCRToK8EPg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inter Tight Black",
+          "type": "Italic",
+          "full_name": "Inter Tight Black Italic",
+          "post_script_name": "InterTight-BlackItalic",
+          "version": "3.004",
+          "copyright": "Copyright 2022 The Inter Project Authors (https://github.com/rsms/inter-tight)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0zrGC5XgqoUPvi5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

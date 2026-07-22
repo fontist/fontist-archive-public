@@ -1,0 +1,115 @@
+{
+  "slug": "google/noticia_text",
+  "name": "noticia_text",
+  "description": "Noticia Text is a contemporary humanist slab serif typeface designed to be used for running text on digital newspapers (both on websites and mobile apps). It has a large x-height, ample proportions, big serifs and large apertures that allow the letters to be clear, even at small sizes on low resolution screens. The capitals are unusually small, allowing them to be used as substitutes for small caps. (It's recommended to add some tracking if used in this way.) One major feature is the break in the internal curves of round characters. While this break makes some interesting forms at large sizes, their true purpose is to help make the counterforms more open at small sizes by allowing straighter stems. This reasoning is famously known as W.A. Dwiggins' “M-formula.” The italics were designed to contrast with the roman styles while maintaining good legibility. The true italic forms also have big counterforms and simple curves. The fonts have been manually hinted to get the best possible rasterization in Windows. The Noticia font family project is envisioned as 18 different fonts styles, with text, condensed, display and sans variants, different weights and including italic versions, all designed and hinted to work well on computer and mobile devices screens.",
+  "homepage": "https://fonts.google.com/specimen/Noticia+Text",
+  "copyright": "Copyright (c) 2011 JM Sole (info@jmsole.cl), with Reserved Font Name \"Noticia Text\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noticia Text",
+      "files": [
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJ2dNDF2Yv9qppOePKYRP1GYTFZt0rNpQ.ttf",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJodNDF2Yv9qppOePKYRP12YztdlU_dpSjt.ttf",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJpdNDF2Yv9qppOePKYRP1-3R59v2HRrDH0eA.ttf",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJrdNDF2Yv9qppOePKYRP12YwPhumvVjjTkeMnz.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJ2dNDF2Yv9qppOePKYRP1GYTFZt0rNpQ.ttf",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJodNDF2Yv9qppOePKYRP12YztdlU_dpSjt.ttf",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJpdNDF2Yv9qppOePKYRP1-3R59v2HRrDH0eA.ttf",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJrdNDF2Yv9qppOePKYRP12YwPhumvVjjTkeMnz.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noticia Text",
+      "files": [
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJ2dNDF2Yv9qppOePKYRP1GZDFZt0rNpQ.woff2",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJodNDF2Yv9qppOePKYRP12YztYlU_dpSjt.woff2",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJpdNDF2Yv9qppOePKYRP1-3R59umHRrDH0eA.woff2",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJrdNDF2Yv9qppOePKYRP12YwPhumvQjjTkeMnz.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJ2dNDF2Yv9qppOePKYRP1GZDFZt0rNpQ.woff2",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJodNDF2Yv9qppOePKYRP12YztYlU_dpSjt.woff2",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJpdNDF2Yv9qppOePKYRP1-3R59umHRrDH0eA.woff2",
+        "https://fonts.gstatic.com/s/noticiatext/v16/VuJrdNDF2Yv9qppOePKYRP12YwPhumvQjjTkeMnz.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noticia Text",
+      "styles": [
+        {
+          "family_name": "Noticia Text",
+          "type": "Regular",
+          "full_name": "Noticia Text",
+          "post_script_name": "NoticiaText-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 JM Sole (info@jmsole.cl), with Reserved Font Name \"Noticia Text\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJ2dNDF2Yv9qppOePKYRP1GYTFZt0rNpQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noticia Text",
+          "type": "Italic",
+          "full_name": "Noticia Text Italic",
+          "post_script_name": "NoticiaText-Italic",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 JM Sole (info@jmsole.cl), with Reserved Font Name \"Noticia Text\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJodNDF2Yv9qppOePKYRP12YztdlU_dpSjt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noticia Text",
+          "type": "Bold",
+          "full_name": "Noticia Text Bold",
+          "post_script_name": "NoticiaText-Bold",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 JM Sole (info@jmsole.cl), with Reserved Font Name \"Noticia Text\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJpdNDF2Yv9qppOePKYRP1-3R59v2HRrDH0eA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noticia Text",
+          "type": "Bold Italic",
+          "full_name": "Noticia Text Bold Italic",
+          "post_script_name": "NoticiaText-BoldItalic",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 JM Sole (info@jmsole.cl), with Reserved Font Name \"Noticia Text\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJrdNDF2Yv9qppOePKYRP12YwPhumvVjjTkeMnz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/aref_ruqaa",
+  "name": "aref_ruqaa",
+  "description": "Aref Ruqaa is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. The Latin part is based on AMS Euler, but spaced for regular text rather than mathematics. The Aref Ruqaa project is led by Khaled Hosny, a type designer based in Cairo, Egypt. To contribute, see github.com/alif-type/aref-ruqaa",
+  "homepage": "https://fonts.google.com/specimen/Aref+Ruqaa",
+  "copyright": "Copyright 2015-2021 The Aref Ruqaa Project Authors (https://github.com/alif-type/aref-ruqaa), with Reserved Font Name EURM10.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aref Ruqaa",
+      "files": [
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkbxPW1E165rajQKDulEIAiVNo5xNY.ttf",
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNcNIS2N_7Bdk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkbxPW1E165rajQKDulEIAiVNo5xNY.ttf",
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNcNIS2N_7Bdk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aref Ruqaa",
+      "files": [
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkbxPW1E165rajQKDulEIUiVNo5xNY.woff2",
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNcNcS2N_7Bdk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkbxPW1E165rajQKDulEIUiVNo5xNY.woff2",
+        "https://fonts.gstatic.com/s/arefruqaa/v26/WwkYxPW1E165rajQKDulKDwNcNcS2N_7Bdk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aref Ruqaa",
+      "styles": [
+        {
+          "family_name": "Aref Ruqaa",
+          "type": "Regular",
+          "full_name": "Aref Ruqaa Regular",
+          "post_script_name": "ArefRuqaa-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2015-2021 The Aref Ruqaa Project Authors (https://github.com/alif-type/aref-ruqaa), with Reserved Font Name EURM10.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkbxPW1E165rajQKDulEIAiVNo5xNY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Aref Ruqaa",
+          "type": "Bold",
+          "full_name": "Aref Ruqaa Bold",
+          "post_script_name": "ArefRuqaa-Bold",
+          "version": "1.003",
+          "copyright": "Copyright 2015-2021 The Aref Ruqaa Project Authors (https://github.com/alif-type/aref-ruqaa), with Reserved Font Name EURM10.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkYxPW1E165rajQKDulKDwNcNIS2N_7Bdk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

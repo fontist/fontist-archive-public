@@ -1,0 +1,58 @@
+{
+  "slug": "google/east_sea_dokdo",
+  "name": "east_sea_dokdo",
+  "description": "East Sea Dokdo is a Korean and Latin font",
+  "homepage": "https://fonts.google.com/specimen/East+Sea+Dokdo",
+  "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "East Sea Dokdo",
+      "files": [
+        "https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m05_aGavYS18y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m05_aGavYS18y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "East Sea Dokdo",
+      "files": [
+        "https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m05_fGavYS18y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eastseadokdo/v26/xfuo0Wn2V2_KanASqXSZp22m05_fGavYS18y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "East Sea Dokdo",
+      "styles": [
+        {
+          "family_name": "East Sea Dokdo",
+          "type": "Regular",
+          "full_name": "East Sea Dokdo Regular",
+          "post_script_name": "EastSeaDokdo-Regular",
+          "version": "1.00",
+          "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xfuo0Wn2V2_KanASqXSZp22m05_aGavYS18y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,168 @@
+{
+  "slug": "google/neuton",
+  "name": "neuton",
+  "description": "Neuton is a clean, dark, somewhat Dutch-inspired serif font which reminds you a little of Times. It has a large height, short extenders, and a compact width for better screen use, and economy of space. The family will comprise a regular, italic, and cursive, each in five weights and with smallcaps. Two italics &mdash; one will be called \"italic\", and the other \"cursive\" &mdash; are uncommon, but very useful. Ever tried emphasizing something already emphasized? Beyond that obvious example, there are other uses. Sometimes a text needs a different flavor or feel. While one roman can work for a variety of texts, the companion italics don't always. In more classical or personal documents, a stiff, sober, modern and down-to-earth italic will never work. And in many essays, some of the fancier italics look ridiculous. Who said a roman needs only one companion?",
+  "homepage": "https://fonts.google.com/specimen/Neuton",
+  "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Neuton",
+      "files": [
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKAKkfegD5Drog6Q.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKZKofegD5Drog6Q.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZyyII7civlBw.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyog_UC71B6M5.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0fegD5Drog6Q.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKaK4fegD5Drog6Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKAKkfegD5Drog6Q.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKZKofegD5Drog6Q.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZyyII7civlBw.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyog_UC71B6M5.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0fegD5Drog6Q.ttf",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKaK4fegD5Drog6Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Neuton",
+      "files": [
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKAKkffwD5Drog6Q.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKZKoffwD5Drog6Q.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZyzYI7civlBw.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyog6UC71B6M5.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0ffwD5Drog6Q.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKaK4ffwD5Drog6Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKAKkffwD5Drog6Q.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKZKoffwD5Drog6Q.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBTrPtMoH62xUZyzYI7civlBw.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBRrPtMoH62xUZCyog6UC71B6M5.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKdK0ffwD5Drog6Q.woff2",
+        "https://fonts.gstatic.com/s/neuton/v24/UMBQrPtMoH62xUZKaK4ffwD5Drog6Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Neuton ExtraLight",
+      "styles": [
+        {
+          "family_name": "Neuton ExtraLight",
+          "type": "Regular",
+          "full_name": "Neuton ExtraLight",
+          "post_script_name": "Neuton-ExtraLight",
+          "version": "1.560",
+          "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UMBQrPtMoH62xUZKAKkfegD5Drog6Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neuton Light",
+      "styles": [
+        {
+          "family_name": "Neuton Light",
+          "type": "Regular",
+          "full_name": "Neuton Light",
+          "post_script_name": "Neuton-Light",
+          "version": "1.560",
+          "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UMBQrPtMoH62xUZKZKofegD5Drog6Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neuton",
+      "styles": [
+        {
+          "family_name": "Neuton",
+          "type": "Regular",
+          "full_name": "Neuton Regular",
+          "post_script_name": "Neuton-Regular",
+          "version": "1.560",
+          "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UMBTrPtMoH62xUZyyII7civlBw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Neuton",
+          "type": "Italic",
+          "full_name": "Neuton Italic",
+          "post_script_name": "Neuton-Italic",
+          "version": "1.560",
+          "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UMBRrPtMoH62xUZCyog_UC71B6M5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Neuton",
+          "type": "Bold",
+          "full_name": "Neuton Bold",
+          "post_script_name": "Neuton-Bold",
+          "version": "1.560",
+          "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UMBQrPtMoH62xUZKdK0fegD5Drog6Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Neuton ExtraBold",
+      "styles": [
+        {
+          "family_name": "Neuton ExtraBold",
+          "type": "Regular",
+          "full_name": "Neuton ExtraBold",
+          "post_script_name": "Neuton-ExtraBold",
+          "version": "1.560",
+          "copyright": "Copyright 2010 The Neuton Project Authors (http://www.21326.info/), with Reserved Font Name \"Neuton\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UMBQrPtMoH62xUZKaK4fegD5Drog6Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

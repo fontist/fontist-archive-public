@@ -1,0 +1,58 @@
+{
+  "slug": "google/londrina_outline",
+  "name": "londrina_outline",
+  "description": "The Londrina super family is composed of 4 family styles: Londrina Solid , Londrina Shadow , Londrina Outline, and Londrina Sketch . You can combine the main style, Solid, with the others to create different effects. The origins of the Londrina typeface project is in the streets of Sao Paulo, Brazil: Urban confusion. Initially I designed the \"New Folk\" for use in a poster, with only uppercase letters. I saw at the start some potential for a typeface that could recall the feelings of the writing used day-to-day in my city's informal communication, and developed it into a typeface family with lowercases too. This is the Londrina Outline member of the Londrina family. To contribute to the project contact Marcelo Magalhães",
+  "homepage": "https://fonts.google.com/specimen/Londrina+Outline",
+  "copyright": "Copyright 2011 The Londrina Outline Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Outline\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Londrina Outline",
+      "files": [
+        "https://fonts.gstatic.com/s/londrinaoutline/v29/C8c44dM8vmb14dfsZxhetg3pDH-SfuoxrSKMDvI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/londrinaoutline/v29/C8c44dM8vmb14dfsZxhetg3pDH-SfuoxrSKMDvI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Londrina Outline",
+      "files": [
+        "https://fonts.gstatic.com/s/londrinaoutline/v29/C8c44dM8vmb14dfsZxhetg3pDH-Sfu8xrSKMDvI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/londrinaoutline/v29/C8c44dM8vmb14dfsZxhetg3pDH-Sfu8xrSKMDvI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Londrina Outline",
+      "styles": [
+        {
+          "family_name": "Londrina Outline",
+          "type": "Regular",
+          "full_name": "Londrina Outline Regular",
+          "post_script_name": "LondrinaOutline-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Londrina Outline Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Outline\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "C8c44dM8vmb14dfsZxhetg3pDH-SfuoxrSKMDvI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

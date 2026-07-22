@@ -1,0 +1,58 @@
+{
+  "slug": "google/nerko_one",
+  "name": "nerko_one",
+  "description": "Nerko is a chunky ‘marker’ effect font. It gives a funky, exciting and modern look while staying smooth and sleek. Be as bold as the font while using a friendly style that makes users feel welcome in any circumstances. From paper to screen, this font was created using traditional Marker Pens on paper for guidance to give it a natural feeling. To contribute, please see github.com/nermink99/Nerko .",
+  "homepage": "https://fonts.google.com/specimen/Nerko+One",
+  "copyright": "Copyright 2013 The Nerko One Project Authors (https://github.com/nermink99/Nerko/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nerko One",
+      "files": [
+        "https://fonts.gstatic.com/s/nerkoone/v17/m8JQjfZSc7OXlB3ZMOjzcJ5BZmqa3A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nerkoone/v17/m8JQjfZSc7OXlB3ZMOjzcJ5BZmqa3A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nerko One",
+      "files": [
+        "https://fonts.gstatic.com/s/nerkoone/v17/m8JQjfZSc7OXlB3ZMOjzdZ5BZmqa3A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nerkoone/v17/m8JQjfZSc7OXlB3ZMOjzdZ5BZmqa3A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nerko One",
+      "styles": [
+        {
+          "family_name": "Nerko One",
+          "type": "Regular",
+          "full_name": "Nerko One Regular",
+          "post_script_name": "NerkoOne-Regular",
+          "version": "1.101",
+          "copyright": "Copyright 2013 The Nerko One Project Authors (https://github.com/nermink99/Nerko/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "m8JQjfZSc7OXlB3ZMOjzcJ5BZmqa3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

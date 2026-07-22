@@ -1,0 +1,58 @@
+{
+  "slug": "google/wallpoet",
+  "name": "wallpoet",
+  "description": "Wallpoet is inspired by the often political, short, sometimes provocative, sometimes funny or both, messages found on city walls, sprayed by some anonymous agent. Words, images or both! The idea behind the font is making a font with a bit of punch, but still easy to use for template graffiti. Print, cut & spray - being the key concept. That's why it has no curves and off course is a stencil font. With the font, Lars wants to pay respect to the urban guerilla scene, which has inspired him so often with it's total disrespect for the traditional and ingenious ability to break out of the traditional box.",
+  "homepage": "https://fonts.google.com/specimen/Wallpoet",
+  "copyright": "Copyright (c) 2011 by Lars Berggren. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Wallpoet",
+      "files": [
+        "https://fonts.gstatic.com/s/wallpoet/v21/f0X10em2_8RnXVVdUNbu7cXP8L8G.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wallpoet/v21/f0X10em2_8RnXVVdUNbu7cXP8L8G.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Wallpoet",
+      "files": [
+        "https://fonts.gstatic.com/s/wallpoet/v21/f0X10em2_8RnXVVdUNbr7cXP8L8G.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wallpoet/v21/f0X10em2_8RnXVVdUNbr7cXP8L8G.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wallpoet",
+      "styles": [
+        {
+          "family_name": "Wallpoet",
+          "type": "Regular",
+          "full_name": "Wallpoet",
+          "post_script_name": "Wallpoet",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Lars Berggren. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "f0X10em2_8RnXVVdUNbu7cXP8L8G.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

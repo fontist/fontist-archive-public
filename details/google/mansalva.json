@@ -1,0 +1,58 @@
+{
+  "slug": "google/mansalva",
+  "name": "mansalva",
+  "description": "Mansalva is a script font that works well for notes and informal text passages. It presents two alternates for each letter and number to provide a natural, handwritten, less mechanical look. It also features good legibility for a handwriting typeface and is perfect for a casual-looking annotation. Latest upgrade from October 2022 includes a Latin Plus language coverage currently supporting most Latin-based languages. The vertical metrics have been harmonised for a better cross-platform experience; as a result existing users may notice a visible increase of the line spacing in webpages and documents on Mac. To contribute, see github.com/carolinashort/mansalva .",
+  "homepage": "https://fonts.google.com/specimen/Mansalva",
+  "copyright": "Copyright 2022 The Mansalva Project Authors (https://github.com/carolinashort/mansalva)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mansalva",
+      "files": [
+        "https://fonts.gstatic.com/s/mansalva/v16/aWB4m0aacbtDfvq5NJllI47vdyBg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mansalva/v16/aWB4m0aacbtDfvq5NJllI47vdyBg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mansalva",
+      "files": [
+        "https://fonts.gstatic.com/s/mansalva/v16/aWB4m0aacbtDfvq5NJlgI47vdyBg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mansalva/v16/aWB4m0aacbtDfvq5NJlgI47vdyBg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mansalva",
+      "styles": [
+        {
+          "family_name": "Mansalva",
+          "type": "Regular",
+          "full_name": "Mansalva Regular",
+          "post_script_name": "Mansalva-Regular",
+          "version": "2.112; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Mansalva Project Authors (https://github.com/carolinashort/mansalva)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aWB4m0aacbtDfvq5NJllI47vdyBg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

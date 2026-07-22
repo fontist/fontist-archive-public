@@ -1,0 +1,58 @@
+{
+  "slug": "google/hanalei",
+  "name": "hanalei",
+  "description": "Hanalei is for the Polynesian fan. Inspired by the bamboo lettering of the iconic Mai Kai restaurant logo, Hanalei has all the flavor of the genre without compromise. Great for titling and larger typesetting. Hanalei Fill is a compliment to Hanalei. Designed by Brian J. Bonislawsky for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Hanalei",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Hanalei\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hanalei",
+      "files": [
+        "https://fonts.gstatic.com/s/hanalei/v24/E21n_dD8iufIjBRHXzgmVydREus.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hanalei/v24/E21n_dD8iufIjBRHXzgmVydREus.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hanalei",
+      "files": [
+        "https://fonts.gstatic.com/s/hanalei/v24/E21n_dD8iufIjBRHXz0mVydREus.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hanalei/v24/E21n_dD8iufIjBRHXz0mVydREus.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hanalei",
+      "styles": [
+        {
+          "family_name": "Hanalei",
+          "type": "Regular",
+          "full_name": "Hanalei",
+          "post_script_name": "Hanalei-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Hanalei\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "E21n_dD8iufIjBRHXzgmVydREus.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/fontdiner_swanky",
+  "name": "fontdiner_swanky",
+  "description": "Atomic Age science meets ultra cool with this swingin' retro latin sharp serif font we call Fontdiner Swanky! Like the older much hipper brother of it's Loungy counterpart, Swanky brings his bolder style and charming good looks when it's time to really let the neighbors know you mean business!",
+  "homepage": "https://fonts.google.com/specimen/Fontdiner+Swanky",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fontdiner Swanky",
+      "files": [
+        "https://fonts.gstatic.com/s/fontdinerswanky/v24/ijwOs4XgRNsiaI5-hcVb4hQgMvCD4uEfKiGvxts.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fontdinerswanky/v24/ijwOs4XgRNsiaI5-hcVb4hQgMvCD4uEfKiGvxts.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fontdiner Swanky",
+      "files": [
+        "https://fonts.gstatic.com/s/fontdinerswanky/v24/ijwOs4XgRNsiaI5-hcVb4hQgMvCD4uQfKiGvxts.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fontdinerswanky/v24/ijwOs4XgRNsiaI5-hcVb4hQgMvCD4uQfKiGvxts.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fontdiner Swanky",
+      "styles": [
+        {
+          "family_name": "Fontdiner Swanky",
+          "type": "Regular",
+          "full_name": "Fontdiner Swanky Regular",
+          "post_script_name": "FontdinerSwanky-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "ijwOs4XgRNsiaI5-hcVb4hQgMvCD4uEfKiGvxts.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "google/bellota_text",
+  "name": "bellota_text",
+  "description": "Bellota is an ornamented, low contrast sans-serif with text and swash alternates. It’s just cute enough! It comes in two variations: Normal and Text. Each of these comes in three weights (Light/Regular/Bold) and Italics. There are stylistic alternates (for swash and non-ornamented characters) and ligatures available through OpenType features. Stylistic Set 1: Text, Stylistic Set 2: Swash caps. To contribute to the project, please go to github.com/kemie/Bellota-Font .",
+  "homepage": "https://fonts.google.com/specimen/Bellota+Text",
+  "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bellota Text",
+      "files": [
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQXwQy6yxg.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0YSuixmYK.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMB-dMOdS7sSg.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlNVP2VnlWS4f3-UE9hHXMx-9kKVyv8Sjer.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQXwQy6yxg.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0YSuixmYK.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQXwQy6yxg.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0YSuixmYK.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMB-dMOdS7sSg.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlNVP2VnlWS4f3-UE9hHXMx-9kKVyv8Sjer.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQXwQy6yxg.ttf",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0YSuixmYK.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bellota Text",
+      "files": [
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5VfsqeAXwQy6yxg.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_xYSuixmYK.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMB_NMOdS7sSg.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlNVP2VnlWS4f3-UE9hHXMx-9kPVyv8Sjer.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5RfwqeAXwQy6yxg.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_xYSuixmYK.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5VfsqeAXwQy6yxg.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_xYSuixmYK.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlTVP2VnlWS4f3-UE9hHXMB_NMOdS7sSg.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlNVP2VnlWS4f3-UE9hHXMx-9kPVyv8Sjer.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlMVP2VnlWS4f3-UE9hHXM5RfwqeAXwQy6yxg.woff2",
+        "https://fonts.gstatic.com/s/bellotatext/v20/0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_xYSuixmYK.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bellota Text Light",
+      "styles": [
+        {
+          "family_name": "Bellota Text Light",
+          "type": "Regular",
+          "full_name": "Bellota Text Light",
+          "post_script_name": "BellotaText-Light",
+          "version": "4.001",
+          "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlMVP2VnlWS4f3-UE9hHXM5VfsqfQXwQy6yxg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bellota Text Light",
+          "type": "Italic",
+          "full_name": "Bellota Text Light Italic",
+          "post_script_name": "BellotaText-LightItalic",
+          "version": "4.001",
+          "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlOVP2VnlWS4f3-UE9hHXMx--Gmfw_0YSuixmYK.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bellota Text",
+      "styles": [
+        {
+          "family_name": "Bellota Text",
+          "type": "Regular",
+          "full_name": "Bellota Text Regular",
+          "post_script_name": "BellotaText-Regular",
+          "version": "4.001",
+          "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlTVP2VnlWS4f3-UE9hHXMB-dMOdS7sSg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bellota Text",
+          "type": "Italic",
+          "full_name": "Bellota Text Italic",
+          "post_script_name": "BellotaText-Italic",
+          "version": "4.001",
+          "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlNVP2VnlWS4f3-UE9hHXMx-9kKVyv8Sjer.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bellota Text",
+          "type": "Bold",
+          "full_name": "Bellota Text Bold",
+          "post_script_name": "BellotaText-Bold",
+          "version": "4.001",
+          "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlMVP2VnlWS4f3-UE9hHXM5RfwqfQXwQy6yxg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bellota Text",
+          "type": "Bold Italic",
+          "full_name": "Bellota Text Bold Italic",
+          "post_script_name": "BellotaText-BoldItalic",
+          "version": "4.001",
+          "copyright": "Copyright 2019 The Bellota Project Authors (https://github.com/kemie/Bellota-Font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlOVP2VnlWS4f3-UE9hHXMx--G2eA_0YSuixmYK.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

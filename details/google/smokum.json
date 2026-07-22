@@ -1,0 +1,58 @@
+{
+  "slug": "google/smokum",
+  "name": "smokum",
+  "description": "Smokum is a western inspired slab-serif font with a little playful swagger to it. It's perfect for headlines and display uses that require a little loosened up country flair, but because of the contrast of thicks and thins, it will perform best as a WebFont at medium to large point sizes.",
+  "homepage": "https://fonts.google.com/specimen/Smokum",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Smokum",
+      "files": [
+        "https://fonts.gstatic.com/s/smokum/v30/TK3iWkUbAhopmrdGHjUHte5fKg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/smokum/v30/TK3iWkUbAhopmrdGHjUHte5fKg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Smokum",
+      "files": [
+        "https://fonts.gstatic.com/s/smokum/v30/TK3iWkUbAhopmrdGGzUHte5fKg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/smokum/v30/TK3iWkUbAhopmrdGGzUHte5fKg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Smokum",
+      "styles": [
+        {
+          "family_name": "Smokum",
+          "type": "Regular",
+          "full_name": "Smokum Regular",
+          "post_script_name": "Smokum-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "TK3iWkUbAhopmrdGHjUHte5fKg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

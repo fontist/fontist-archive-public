@@ -1,0 +1,77 @@
+{
+  "slug": "google/sniglet",
+  "name": "sniglet",
+  "description": "A rounded display face that’s great for headlines. Updated September 2013: Originally designed in 2008 by Haley Fiege in Extra-bold. In 2013 Brenda Gallo and Pablo Impallari added 42 new glyphs, kerning, and a whole new Regular weight. To contribute to the project contact Pablo Impallari ( impallari@gmail.com )",
+  "homepage": "https://fonts.google.com/specimen/Sniglet",
+  "copyright": "Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), \rCopyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com)\rCopyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), \rwith no Reserved Font Name.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sniglet",
+      "files": [
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJxCmrYGkHgIs.ttf",
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf4MaFLtkE3UjaJ_ImHRGEsnIJkWL4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJxCmrYGkHgIs.ttf",
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf4MaFLtkE3UjaJ_ImHRGEsnIJkWL4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sniglet",
+      "files": [
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJxCyrYGkHgIs.woff2",
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf4MaFLtkE3UjaJ_ImHRGQsnIJkWL4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf9MaFLtkE3UjaJxCyrYGkHgIs.woff2",
+        "https://fonts.gstatic.com/s/sniglet/v18/cIf4MaFLtkE3UjaJ_ImHRGQsnIJkWL4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sniglet",
+      "styles": [
+        {
+          "family_name": "Sniglet",
+          "type": "Regular",
+          "full_name": "Sniglet Regular",
+          "post_script_name": "Sniglet-Regular",
+          "version": "2.000; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+          "copyright": "Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), \rCopyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com)\rCopyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), \rwith no Reserved Font Name.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cIf9MaFLtkE3UjaJxCmrYGkHgIs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sniglet",
+          "type": "ExtraBold",
+          "full_name": "Sniglet ExtraBold",
+          "post_script_name": "Sniglet-ExtraBold",
+          "version": "2.000; ttfautohint (v0.95) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+          "copyright": "Copyright (c) 2008, Haley Fiege (haley@kingdomofawesome.com), \rCopyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com)\rCopyright (c) 2013, Pablo Impallari (www.impallari.com|impallari@gmail.com), \rwith no Reserved Font Name.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cIf4MaFLtkE3UjaJ_ImHRGEsnIJkWL4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

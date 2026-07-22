@@ -1,0 +1,77 @@
+{
+  "slug": "google/lunasima",
+  "name": "lunasima",
+  "description": "Lunasima is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Lucida Grande that minimizes text reflow in Office Open XML documents. Lunasima is based on Noto Sans, which is an unmodulated (“sans serif”) design. To contribute, please visit github.com/docrepair-fonts/lunasima-fonts .",
+  "homepage": "https://fonts.google.com/specimen/Lunasima",
+  "copyright": "Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lunasima",
+      "files": [
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFAwle94H1VIe.ttf",
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO5EBvPh9RSOj7JFDSZVPoP_k4XiKvO.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFAwle94H1VIe.ttf",
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO5EBvPh9RSOj7JFDSZVPoP_k4XiKvO.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lunasima",
+      "files": [
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFAwge94H1VIe.woff2",
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO5EBvPh9RSOj7JFDSZVPoK_k4XiKvO.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO-EBvPh9RSOj7JFAwge94H1VIe.woff2",
+        "https://fonts.gstatic.com/s/lunasima/v1/wEO5EBvPh9RSOj7JFDSZVPoK_k4XiKvO.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lunasima",
+      "styles": [
+        {
+          "family_name": "Lunasima",
+          "type": "Regular",
+          "full_name": "Lunasima Regular",
+          "post_script_name": "Lunasima-Regular",
+          "version": "2.009",
+          "copyright": "Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wEO-EBvPh9RSOj7JFAwle94H1VIe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lunasima",
+          "type": "Bold",
+          "full_name": "Lunasima Bold",
+          "post_script_name": "Lunasima-Bold",
+          "version": "2.009",
+          "copyright": "Copyright 2023 The Lunasima Project Authors (https://github.com/docrepair-fonts/lunasima-fonts).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wEO5EBvPh9RSOj7JFDSZVPoP_k4XiKvO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

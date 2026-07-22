@@ -1,0 +1,155 @@
+{
+  "slug": "google/akshar",
+  "name": "akshar",
+  "description": "Akshar is a variable display sans-serif font family that supports Latin and Devanagari. It is designed for titles, statements, headlines, annoucements, intros, outros, and other display texts. Akshar (Hindi: अक्षर) literally means an alphabet or a letter in Hindi, Marathi, Gujarati and other Indic languages. Akshar is an OpenType Variable Font. It offers 2 axes: Weight ( wght ) and Contrast ( CNTR ). The Weight axis ranges from 300 to 700. The Contrast axis ranges from 0 to 100. Note: The Contrast axis is currently not supported by Google Fonts API. The fonts will be updated once it is supported. To contribute, visit github.com/tallchai/akshar-type .",
+  "homepage": "https://fonts.google.com/specimen/Akshar",
+  "copyright": "Copyright 2022 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Akshar",
+      "files": [
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9WY94XsnPc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9WY94XsnPc.woff2",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9WY94XsnPc.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Akshar",
+      "files": [
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9CY94XsnPc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9CY94XsnPc.ttf",
+        "https://fonts.gstatic.com/s/akshar/v17/Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9CY94XsnPc.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Akshar Light",
+      "styles": [
+        {
+          "family_name": "Akshar Light",
+          "type": "Regular",
+          "full_name": "Akshar Light",
+          "post_script_name": "Akshar-Light",
+          "version": "1.100",
+          "copyright": "Copyright 2022 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSSgFy9CY94XsnPc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akshar",
+      "styles": [
+        {
+          "family_name": "Akshar",
+          "type": "Regular",
+          "full_name": "Akshar Regular",
+          "post_script_name": "Akshar-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2022 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSXYFy9CY94XsnPc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Akshar",
+          "type": "Bold",
+          "full_name": "Akshar Bold",
+          "post_script_name": "Akshar-Bold",
+          "version": "1.100",
+          "copyright": "Copyright 2022 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSZECy9CY94XsnPc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akshar Medium",
+      "styles": [
+        {
+          "family_name": "Akshar Medium",
+          "type": "Regular",
+          "full_name": "Akshar Medium",
+          "post_script_name": "Akshar-Medium",
+          "version": "1.100",
+          "copyright": "Copyright 2022 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSUQFy9CY94XsnPc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Akshar SemiBold",
+      "styles": [
+        {
+          "family_name": "Akshar SemiBold",
+          "type": "Regular",
+          "full_name": "Akshar SemiBold",
+          "post_script_name": "Akshar-SemiBold",
+          "version": "1.100",
+          "copyright": "Copyright 2022 The Akshar Type Project Authors (https://github.com/tallchai/akshar-type)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6I-LyHWTfz9rGoqDaUbHvhkAUsSagCy9CY94XsnPc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

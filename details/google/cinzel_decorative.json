@@ -1,0 +1,101 @@
+{
+  "slug": "google/cinzel_decorative",
+  "name": "cinzel_decorative",
+  "description": "Cinzel is a typeface inspired in first century roman inscriptions, and based on classical proportions. However it’s not a simple revivalism, while it conveys all the ancient history of the latin alphabet it also merges a contemporary feel onto it.",
+  "homepage": "https://fonts.google.com/specimen/Cinzel+Decorative",
+  "copyright": "Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cinzel Decorative",
+      "files": [
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPnh7URs1LaCyC.ttf",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelDQzCLlQXE.ttf",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPnh7URs1LaCyC.ttf",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelDQzCLlQXE.ttf",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cinzel Decorative",
+      "files": [
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPnh7RRs1LaCyC.woff2",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelGQzCLlQXE.woff2",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lGQzCLlQXE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaCSScvJGqLYhG8nNt8KPPswUAPnh7RRs1LaCyC.woff2",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelGQzCLlQXE.woff2",
+        "https://fonts.gstatic.com/s/cinzeldecorative/v19/daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lGQzCLlQXE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cinzel Decorative",
+      "styles": [
+        {
+          "family_name": "Cinzel Decorative",
+          "type": "Regular",
+          "full_name": "Cinzel Decorative Regular",
+          "post_script_name": "CinzelDecorative-Regular",
+          "version": "1.002;PS 001.002;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "daaCSScvJGqLYhG8nNt8KPPswUAPnh7URs1LaCyC.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cinzel Decorative",
+          "type": "Bold",
+          "full_name": "Cinzel Decorative Bold",
+          "post_script_name": "CinzelDecorative-Bold",
+          "version": "1.002;PS 001.002;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "daaHSScvJGqLYhG8nNt8KPPswUAPniZoaelDQzCLlQXE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cinzel Decorative Black",
+      "styles": [
+        {
+          "family_name": "Cinzel Decorative Black",
+          "type": "Regular",
+          "full_name": "Cinzel Decorative Black",
+          "post_script_name": "CinzelDecorative-Black",
+          "version": "1.002;PS 001.002;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "daaHSScvJGqLYhG8nNt8KPPswUAPniZQa-lDQzCLlQXE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

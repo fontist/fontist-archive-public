@@ -1,0 +1,131 @@
+{
+  "slug": "google/baskervville_sc",
+  "name": "baskervville_sc",
+  "description": "Baskervville SC font family",
+  "homepage": "https://fonts.google.com/specimen/Baskervville+SC",
+  "copyright": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Baskervville SC",
+      "files": [
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHjziXMjkPWntDsg.woff2",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHg7iXMjkPWntDsg.woff2",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHuLlXMjkPWntDsg.woff2",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHtvlXMjkPWntDsg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHjziXMjkPWntDsg.woff2",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHg7iXMjkPWntDsg.woff2",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHuLlXMjkPWntDsg.woff2",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHtvlXMjkPWntDsg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Baskervville SC",
+      "files": [
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHjziXM3kPWntDsg.ttf",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHg7iXM3kPWntDsg.ttf",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHuLlXM3kPWntDsg.ttf",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHtvlXM3kPWntDsg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHjziXM3kPWntDsg.ttf",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHg7iXM3kPWntDsg.ttf",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHuLlXM3kPWntDsg.ttf",
+        "https://fonts.gstatic.com/s/baskervvillesc/v4/X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHtvlXM3kPWntDsg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Baskervville SC",
+      "styles": [
+        {
+          "family_name": "Baskervville SC",
+          "type": "Regular",
+          "full_name": "Baskervville SC Regular",
+          "post_script_name": "BaskervvilleSC-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHjziXM3kPWntDsg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Baskervville SC",
+          "type": "Bold",
+          "full_name": "Baskervville SC Bold",
+          "post_script_name": "BaskervvilleSC-Bold",
+          "version": "1.100",
+          "copyright": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHtvlXM3kPWntDsg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baskervville SC Medium",
+      "styles": [
+        {
+          "family_name": "Baskervville SC Medium",
+          "type": "Regular",
+          "full_name": "Baskervville SC Medium",
+          "post_script_name": "BaskervvilleSC-Medium",
+          "version": "1.100",
+          "copyright": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHg7iXM3kPWntDsg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baskervville SC SemiBold",
+      "styles": [
+        {
+          "family_name": "Baskervville SC SemiBold",
+          "type": "Regular",
+          "full_name": "Baskervville SC SemiBold",
+          "post_script_name": "BaskervvilleSC-SemiBold",
+          "version": "1.100",
+          "copyright": "Copyright 2018 The Baskervville Project Authors (https://github.com/anrt-type/ANRT-Baskervville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7ny4bc_DeKlh6bBbk_WiKnBSUvL5HaHbrgS1MXKHuLlXM3kPWntDsg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

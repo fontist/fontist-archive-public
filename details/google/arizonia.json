@@ -1,0 +1,58 @@
+{
+  "slug": "google/arizonia",
+  "name": "arizonia",
+  "description": "Arizonia was inspired by the lettering found on a construction truck. It has a sign-painterly appearance which features thick and contrasting stokes that have been painted by a pointed brush. It can be used for situations that require a hand lettered, contemporary and sporty feel. As with any script, Arizonia should not be used in ALL Caps. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/arizonia .",
+  "homepage": "https://fonts.google.com/specimen/Arizonia",
+  "copyright": "Copyright 2007-2021 The Arizonia Project Authors (https://github.com/googlefonts/arizonia)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Arizonia",
+      "files": [
+        "https://fonts.gstatic.com/s/arizonia/v23/neIIzCemt4A5qa7mv6WGHK06UY30.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arizonia/v23/neIIzCemt4A5qa7mv6WGHK06UY30.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Arizonia",
+      "files": [
+        "https://fonts.gstatic.com/s/arizonia/v23/neIIzCemt4A5qa7mv6WDHK06UY30.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arizonia/v23/neIIzCemt4A5qa7mv6WDHK06UY30.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arizonia",
+      "styles": [
+        {
+          "family_name": "Arizonia",
+          "type": "Regular",
+          "full_name": "Arizonia Regular",
+          "post_script_name": "Arizonia-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2007-2021 The Arizonia Project Authors (https://github.com/googlefonts/arizonia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neIIzCemt4A5qa7mv6WGHK06UY30.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

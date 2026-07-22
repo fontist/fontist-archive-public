@@ -1,0 +1,58 @@
+{
+  "slug": "google/waterfall",
+  "name": "waterfall",
+  "description": "Waterfall is a calligraphic script that combines elements of traditional hand lettered italic form with more formal, elegant script connecting characters. It's both beautiful and contemporary. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/waterfall .",
+  "homepage": "https://fonts.google.com/specimen/Waterfall",
+  "copyright": "Copyright 2011 The Waterfall Project Authors (https://github.com/googlefonts/waterfall)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Waterfall",
+      "files": [
+        "https://fonts.gstatic.com/s/waterfall/v8/MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/waterfall/v8/MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Waterfall",
+      "files": [
+        "https://fonts.gstatic.com/s/waterfall/v8/MCoRzAfo293fACdFKcwY37H8D_EZwA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/waterfall/v8/MCoRzAfo293fACdFKcwY37H8D_EZwA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Waterfall",
+      "styles": [
+        {
+          "family_name": "Waterfall",
+          "type": "Regular",
+          "full_name": "Waterfall Regular",
+          "post_script_name": "Waterfall-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2011 The Waterfall Project Authors (https://github.com/googlefonts/waterfall)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoRzAfo293fACdFKcwY2rH8D_EZwA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

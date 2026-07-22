@@ -1,0 +1,58 @@
+{
+  "slug": "google/mclaren",
+  "name": "mclaren",
+  "description": "The McLaren typeface was created to act as a generic go-to comic style lettering. It has simple clean letterforms with a mild bounce and offbeat quality to it without going too far. It is cleanly legible for small bursts of copy to larger bodies of text, perfect for books for children, comics, and anything requiring a mildly playful yet clearly readable font.",
+  "homepage": "https://fonts.google.com/specimen/McLaren",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"McLaren\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "McLaren",
+      "files": [
+        "https://fonts.gstatic.com/s/mclaren/v19/2EbnL-ZuAXFqZFXISYYf8z2Yt_c.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mclaren/v19/2EbnL-ZuAXFqZFXISYYf8z2Yt_c.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "McLaren",
+      "files": [
+        "https://fonts.gstatic.com/s/mclaren/v19/2EbnL-ZuAXFqZFXISYMf8z2Yt_c.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mclaren/v19/2EbnL-ZuAXFqZFXISYMf8z2Yt_c.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "McLaren",
+      "styles": [
+        {
+          "family_name": "McLaren",
+          "type": "Regular",
+          "full_name": "McLaren",
+          "post_script_name": "McLaren-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"McLaren\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2EbnL-ZuAXFqZFXISYYf8z2Yt_c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

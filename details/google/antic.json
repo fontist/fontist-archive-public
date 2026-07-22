@@ -1,0 +1,58 @@
+{
+  "slug": "google/antic",
+  "name": "antic",
+  "description": "Antic is the result of studying calligraphic forms, and is designed to be used for running text. This started two big text type family projects and this is the first one. Antic explores the use of sans-serif letterforms for text usage, keeping a calligraphic touch found in the serif counterpart, Clark. The letterforms have an eight degree stress, which is almost the same degree of my own hand writing.",
+  "homepage": "https://fonts.google.com/specimen/Antic",
+  "copyright": "Copyright (c) 2010, 2011, Santiago Orozco <hi@typemade.mx>, with Reserved Font Name \"Antic\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Antic",
+      "files": [
+        "https://fonts.gstatic.com/s/antic/v20/TuGfUVB8XY5DRaZLodgzydtk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/antic/v20/TuGfUVB8XY5DRaZLodgzydtk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Antic",
+      "files": [
+        "https://fonts.gstatic.com/s/antic/v20/TuGfUVB8XY5DRaZOodgzydtk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/antic/v20/TuGfUVB8XY5DRaZOodgzydtk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Antic",
+      "styles": [
+        {
+          "family_name": "Antic",
+          "type": "Regular",
+          "full_name": "Antic Regular",
+          "post_script_name": "Antic-Regular",
+          "version": "1.0012 ",
+          "copyright": "Copyright (c) 2010, 2011, Santiago Orozco <hi@typemade.mx>, with Reserved Font Name \"Antic\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TuGfUVB8XY5DRaZLodgzydtk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

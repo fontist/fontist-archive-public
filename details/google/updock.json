@@ -1,0 +1,58 @@
+{
+  "slug": "google/updock",
+  "name": "updock",
+  "description": "What's Updock? Other than a famous query by an even more famous bunny, it's a beautiful script font with a nearly upright stress. Updock is an extremely legible formal script with clean connectors and a variety of of discretionary ligatures. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/updock .",
+  "homepage": "https://fonts.google.com/specimen/Updock",
+  "copyright": "Copyright 1991-2021 The Up Dock Project Authors (https://github.com/googlefonts/updock)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Updock",
+      "files": [
+        "https://fonts.gstatic.com/s/updock/v7/nuF4D_3dVZ70UI9SjLK3602XBw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/updock/v7/nuF4D_3dVZ70UI9SjLK3602XBw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Updock",
+      "files": [
+        "https://fonts.gstatic.com/s/updock/v7/nuF4D_3dVZ70UI9SibK3602XBw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/updock/v7/nuF4D_3dVZ70UI9SibK3602XBw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Updock",
+      "styles": [
+        {
+          "family_name": "Updock",
+          "type": "Regular",
+          "full_name": "Updock Regular",
+          "post_script_name": "Updock-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 1991-2021 The Up Dock Project Authors (https://github.com/googlefonts/updock)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nuF4D_3dVZ70UI9SjLK3602XBw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

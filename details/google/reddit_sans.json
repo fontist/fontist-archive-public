@@ -1,0 +1,379 @@
+{
+  "slug": "google/reddit_sans",
+  "name": "reddit_sans",
+  "description": "Reddit Sans is a humanist sans-serif designed for Reddit. Reddit Sans is complemented by Reddit Sans Condensed and Reddit Mono. To contribute to this project, see github.com/reddit/redditsans",
+  "homepage": "https://fonts.google.com/specimen/Reddit+Sans",
+  "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Reddit Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YxmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxM4xmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxbYxmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxX4xmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxs4tmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxiotmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YtmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxxItmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8OQl3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc_QQl3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-OQl3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-8Ql3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9QRV3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9pRV3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8ORV3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8nRV3Aq1YVlz5F.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YxmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxM4xmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxbYxmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxX4xmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxs4tmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxiotmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YtmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxxItmBFfBiVMFlw.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8OQl3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc_QQl3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-OQl3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-8Ql3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9QRV3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9pRV3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8ORV3Aq1YVlz5F.woff2",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8nRV3Aq1YVlz5F.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Reddit Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YxmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxM4xmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxbYxmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxX4xmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxs4tmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxiotmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YtmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxxItmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8OQl3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc_QQl3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-OQl3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-8Ql3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9QRV3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9pRV3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8ORV3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8nRV3Fq1YVlz5F.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YxmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxM4xmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxbYxmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxX4xmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxs4tmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxiotmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YtmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxxItmAVfBiVMFlw.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8OQl3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc_QQl3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-OQl3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-8Ql3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9QRV3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9pRV3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8ORV3Fq1YVlz5F.ttf",
+        "https://fonts.gstatic.com/s/redditsans/v6/EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8nRV3Fq1YVlz5F.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Reddit Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Reddit Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Reddit Sans ExtraLight",
+          "post_script_name": "RedditSans-ExtraLight",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YxmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Reddit Sans ExtraLight Italic",
+          "post_script_name": "RedditSans-ExtraLightItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8OQl3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit Sans Light",
+      "styles": [
+        {
+          "family_name": "Reddit Sans Light",
+          "type": "Regular",
+          "full_name": "Reddit Sans Light",
+          "post_script_name": "RedditSans-Light",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxM4xmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans Light",
+          "type": "Italic",
+          "full_name": "Reddit Sans Light Italic",
+          "post_script_name": "RedditSans-LightItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc_QQl3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit Sans",
+      "styles": [
+        {
+          "family_name": "Reddit Sans",
+          "type": "Regular",
+          "full_name": "Reddit Sans Regular",
+          "post_script_name": "RedditSans-Regular",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxbYxmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans",
+          "type": "Bold",
+          "full_name": "Reddit Sans Bold",
+          "post_script_name": "RedditSans-Bold",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxiotmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans",
+          "type": "Italic",
+          "full_name": "Reddit Sans Italic",
+          "post_script_name": "RedditSans-Italic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-OQl3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans",
+          "type": "Bold Italic",
+          "full_name": "Reddit Sans Bold Italic",
+          "post_script_name": "RedditSans-BoldItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9pRV3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit Sans Medium",
+      "styles": [
+        {
+          "family_name": "Reddit Sans Medium",
+          "type": "Regular",
+          "full_name": "Reddit Sans Medium",
+          "post_script_name": "RedditSans-Medium",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxX4xmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans Medium",
+          "type": "Italic",
+          "full_name": "Reddit Sans Medium Italic",
+          "post_script_name": "RedditSans-MediumItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc-8Ql3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Reddit Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Reddit Sans SemiBold",
+          "post_script_name": "RedditSans-SemiBold",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxs4tmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Reddit Sans SemiBold Italic",
+          "post_script_name": "RedditSans-SemiBoldItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc9QRV3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Reddit Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Reddit Sans ExtraBold",
+          "post_script_name": "RedditSans-ExtraBold",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5ux7YtmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Reddit Sans ExtraBold Italic",
+          "post_script_name": "RedditSans-ExtraBoldItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8ORV3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reddit Sans Black",
+      "styles": [
+        {
+          "family_name": "Reddit Sans Black",
+          "type": "Regular",
+          "full_name": "Reddit Sans Black",
+          "post_script_name": "RedditSans-Black",
+          "version": "1.014",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqgmaFOxq1T_-ETdN7EKSlnU2dHRsBCV5uxxItmAVfBiVMFlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reddit Sans Black",
+          "type": "Italic",
+          "full_name": "Reddit Sans Black Italic",
+          "post_script_name": "RedditSans-BlackItalic",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2020-2023, Reddit, Inc. (https://github.com/reddit/redditsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": true,
+          "font": "EYqmmaFOxq1T_-ETdN7EKQNuYZifL6vY-Zykpc8nRV3Fq1YVlz5F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

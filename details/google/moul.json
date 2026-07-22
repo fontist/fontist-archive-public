@@ -1,0 +1,58 @@
+{
+  "slug": "google/moul",
+  "name": "moul",
+  "description": "Moul is a traditional Khmer typeface design, suitable for headlines, titles, subtitles, and even banner designs. To contribute, see github.com/danhhong/Moul .",
+  "homepage": "https://fonts.google.com/specimen/Moul",
+  "copyright": "Copyright 2020 The Moul Project Authors (https://github.com/danhhong/Moul)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Moul",
+      "files": [
+        "https://fonts.gstatic.com/s/moul/v30/nuF2D__FSo_3E-RYiJCy-00.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/moul/v30/nuF2D__FSo_3E-RYiJCy-00.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Moul",
+      "files": [
+        "https://fonts.gstatic.com/s/moul/v30/nuF2D__FSo_3E-FYiJCy-00.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/moul/v30/nuF2D__FSo_3E-FYiJCy-00.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Moul",
+      "styles": [
+        {
+          "family_name": "Moul",
+          "type": "Regular",
+          "full_name": "Moul Regular",
+          "post_script_name": "Moul-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Moul Project Authors (https://github.com/danhhong/Moul)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nuF2D__FSo_3E-RYiJCy-00.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

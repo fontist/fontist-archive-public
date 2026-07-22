@@ -1,0 +1,101 @@
+{
+  "slug": "google/belanosima",
+  "name": "belanosima",
+  "description": "Belanosima is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Berlin Sans FB that minimizes text reflow in Office Open XML documents. Belanosima is based on Josefin Sans, a geometric, elegant family with a vintage feeling, for use at larger sizes. Josefin Sans is inspired by geometric sans serif designs from the 1920s. To contribute, please visit github.com/docrepair-fonts/belanosima-fonts .",
+  "homepage": "https://fonts.google.com/specimen/Belanosima",
+  "copyright": "Copyright 2023 The Belanosima Project Authors (https://github.com/docrepair-fonts/belanosima-fonts), with Reserved Font Name \"Josefin Sans\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Belanosima",
+      "files": [
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9k6bI8ejDo_3MfCDSLxABbF3JBg54.ttf",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Nh1M3pqn5cdJ-4.ttf",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Lx0M3pqn5cdJ-4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9k6bI8ejDo_3MfCDSLxABbF3JBg54.ttf",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Nh1M3pqn5cdJ-4.ttf",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Lx0M3pqn5cdJ-4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Belanosima",
+      "files": [
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9k6bI8ejDo_3MfCDSLxAVbF3JBg54.woff2",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Nh1M39qn5cdJ-4.woff2",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Lx0M39qn5cdJ-4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9k6bI8ejDo_3MfCDSLxAVbF3JBg54.woff2",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Nh1M39qn5cdJ-4.woff2",
+        "https://fonts.gstatic.com/s/belanosima/v4/3y9n6bI8ejDo_3MfCDSL_Lx0M39qn5cdJ-4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Belanosima",
+      "styles": [
+        {
+          "family_name": "Belanosima",
+          "type": "Regular",
+          "full_name": "Belanosima Regular",
+          "post_script_name": "Belanosima-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Belanosima Project Authors (https://github.com/docrepair-fonts/belanosima-fonts), with Reserved Font Name \"Josefin Sans\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3y9k6bI8ejDo_3MfCDSLxABbF3JBg54.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Belanosima",
+          "type": "Bold",
+          "full_name": "Belanosima Bold",
+          "post_script_name": "Belanosima-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Belanosima Project Authors (https://github.com/docrepair-fonts/belanosima-fonts), with Reserved Font Name \"Josefin Sans\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3y9n6bI8ejDo_3MfCDSL_Lx0M3pqn5cdJ-4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belanosima SemiBold",
+      "styles": [
+        {
+          "family_name": "Belanosima SemiBold",
+          "type": "Regular",
+          "full_name": "Belanosima SemiBold",
+          "post_script_name": "Belanosima-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Belanosima Project Authors (https://github.com/docrepair-fonts/belanosima-fonts), with Reserved Font Name \"Josefin Sans\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3y9n6bI8ejDo_3MfCDSL_Nh1M3pqn5cdJ-4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

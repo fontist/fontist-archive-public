@@ -1,0 +1,58 @@
+{
+  "slug": "google/single_day",
+  "name": "single_day",
+  "description": "Single Day is a Korean and Latin font.",
+  "homepage": "https://fonts.google.com/specimen/Single+Day",
+  "copyright": "Copyright 2015 DXKorea Inc. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Single Day",
+      "files": [
+        "https://fonts.gstatic.com/s/singleday/v19/LYjHdGDjlEgoAcF95EI5jVoFUNfeQJU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/singleday/v19/LYjHdGDjlEgoAcF95EI5jVoFUNfeQJU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Single Day",
+      "files": [
+        "https://fonts.gstatic.com/s/singleday/v19/LYjHdGDjlEgoAcF95EI5jV8FUNfeQJU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/singleday/v19/LYjHdGDjlEgoAcF95EI5jV8FUNfeQJU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Single Day",
+      "styles": [
+        {
+          "family_name": "Single Day",
+          "type": "Regular",
+          "full_name": "Single Day Regular",
+          "post_script_name": "SingleDay-Regular",
+          "version": "1.00",
+          "copyright": "Copyright 2015 DXKorea Inc. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjHdGDjlEgoAcF95EI5jVoFUNfeQJU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

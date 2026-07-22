@@ -1,0 +1,58 @@
+{
+  "slug": "google/palette_mosaic",
+  "name": "palette_mosaic",
+  "description": "Palette Mosaic is constructed from primitive shapes by handicapped artists in collaboration with design students. The shapes have been arranged to create a strong and solid atmosphere. This family is part of the Shibuya Font project, a collaboration of design major students and handicapped artist living in Shibuya city, officially approved by Shibuya city in Tokyo. Shibuya font Official Site: http://www.shibuyafont.jp To contribute to the project, visit github.com/shibuyafont/Palette-mosaic-font-mono",
+  "homepage": "https://fonts.google.com/specimen/Palette+Mosaic",
+  "copyright": "Copyright 2020 The Palette Mosaic Project Authors (https://github.com/shibuyafont/Palette-mosaic-font-mono), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Palette Mosaic",
+      "files": [
+        "https://fonts.gstatic.com/s/palettemosaic/v13/AMOIz4aBvWuBFe3TohdW6YZ9MFiy4dxL4jSr.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/palettemosaic/v13/AMOIz4aBvWuBFe3TohdW6YZ9MFiy4dxL4jSr.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Palette Mosaic",
+      "files": [
+        "https://fonts.gstatic.com/s/palettemosaic/v13/AMOIz4aBvWuBFe3TohdW6YZ9MFi34dxL4jSr.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/palettemosaic/v13/AMOIz4aBvWuBFe3TohdW6YZ9MFi34dxL4jSr.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Palette Mosaic",
+      "styles": [
+        {
+          "family_name": "Palette Mosaic",
+          "type": "Regular",
+          "full_name": "Palette Mosaic Regular",
+          "post_script_name": "PaletteMosaic-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2020 The Palette Mosaic Project Authors (https://github.com/shibuyafont/Palette-mosaic-font-mono), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOIz4aBvWuBFe3TohdW6YZ9MFiy4dxL4jSr.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

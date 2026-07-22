@@ -1,0 +1,58 @@
+{
+  "slug": "google/hubballi",
+  "name": "hubballi",
+  "description": "Hubballi is a Kannada and Latin typeface designed by Erin McLaughlin. Hubballi is a monolinear typeface with an informal, friendly appearance. To contribute to the project, visit github.com/erinmclaughlin/Hubballi",
+  "homepage": "https://fonts.google.com/specimen/Hubballi",
+  "copyright": "Copyright 2016 The Hubballi Project Authors (https://github.com/erinmclaughlin/Hubballi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hubballi",
+      "files": [
+        "https://fonts.gstatic.com/s/hubballi/v10/o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hubballi/v10/o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hubballi",
+      "files": [
+        "https://fonts.gstatic.com/s/hubballi/v10/o-0JIpUj3WIZ1RFN56B-yBBNYuSF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hubballi/v10/o-0JIpUj3WIZ1RFN56B-yBBNYuSF.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hubballi",
+      "styles": [
+        {
+          "family_name": "Hubballi",
+          "type": "Regular",
+          "full_name": "Hubballi Regular",
+          "post_script_name": "Hubballi-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2016 The Hubballi Project Authors (https://github.com/erinmclaughlin/Hubballi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "o-0JIpUj3WIZ1RFN56B7yBBNYuSF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "google/caudex",
+  "name": "caudex",
+  "description": "Caudex is a Unicode TrueType font created with FontForge. It is developed on SourceForge . It includes most of the Medieval Unicode Font Initiative (MUFI) version 3.0 recommendations. The font was originally made in the late nineties using the ISO 8859-1 character set, and used for printing some old handwritten text. Greek is also included.",
+  "homepage": "https://fonts.google.com/specimen/Caudex",
+  "copyright": "Copyright (c) 2011 Hjort Nidudsson",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Caudex",
+      "files": [
+        "https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUrIyviAnb4eEw.ttf",
+        "https://fonts.gstatic.com/s/caudex/v19/esDS311QOP6BJUr4yPKEv7sOE4in.ttf",
+        "https://fonts.gstatic.com/s/caudex/v19/esDT311QOP6BJUrwdteklZUCGpG-GQ.ttf",
+        "https://fonts.gstatic.com/s/caudex/v19/esDV311QOP6BJUr4yMo4kJ8GOJSuGdLB.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUrIyviAnb4eEw.ttf",
+        "https://fonts.gstatic.com/s/caudex/v19/esDS311QOP6BJUr4yPKEv7sOE4in.ttf",
+        "https://fonts.gstatic.com/s/caudex/v19/esDT311QOP6BJUrwdteklZUCGpG-GQ.ttf",
+        "https://fonts.gstatic.com/s/caudex/v19/esDV311QOP6BJUr4yMo4kJ8GOJSuGdLB.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Caudex",
+      "files": [
+        "https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUrIz_iAnb4eEw.woff2",
+        "https://fonts.gstatic.com/s/caudex/v19/esDS311QOP6BJUr4yPKBv7sOE4in.woff2",
+        "https://fonts.gstatic.com/s/caudex/v19/esDT311QOP6BJUrwdtekkJUCGpG-GQ.woff2",
+        "https://fonts.gstatic.com/s/caudex/v19/esDV311QOP6BJUr4yMo4kJ8DOJSuGdLB.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caudex/v19/esDQ311QOP6BJUrIz_iAnb4eEw.woff2",
+        "https://fonts.gstatic.com/s/caudex/v19/esDS311QOP6BJUr4yPKBv7sOE4in.woff2",
+        "https://fonts.gstatic.com/s/caudex/v19/esDT311QOP6BJUrwdtekkJUCGpG-GQ.woff2",
+        "https://fonts.gstatic.com/s/caudex/v19/esDV311QOP6BJUr4yMo4kJ8DOJSuGdLB.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Caudex",
+      "styles": [
+        {
+          "family_name": "Caudex",
+          "type": "Regular",
+          "full_name": "Caudex",
+          "post_script_name": "Caudex",
+          "version": "1.01 ",
+          "copyright": "Copyright (c) 2011 Hjort Nidudsson",
+          "description": "SIL Open Font License",
+          "variable_font": false,
+          "font": "esDQ311QOP6BJUrIyviAnb4eEw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caudex",
+          "type": "Italic",
+          "full_name": "Caudex Italic",
+          "post_script_name": "Caudex-Italic",
+          "version": "1.01 ",
+          "copyright": "Copyright (c) 2011 Hjort Nidudsson",
+          "description": "SIL Open Font License",
+          "variable_font": false,
+          "font": "esDS311QOP6BJUr4yPKEv7sOE4in.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caudex",
+          "type": "Bold",
+          "full_name": "Caudex Bold",
+          "post_script_name": "Caudex-Bold",
+          "version": "1.01 ",
+          "copyright": "Copyright (c) 2011 Hjort Nidudsson",
+          "description": "SIL Open Font License",
+          "variable_font": false,
+          "font": "esDT311QOP6BJUrwdteklZUCGpG-GQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caudex",
+          "type": "Bold Italic",
+          "full_name": "Caudex Bold Italic",
+          "post_script_name": "Caudex-BoldItalic",
+          "version": "1.01 ",
+          "copyright": "Copyright (c) 2011 Hjort Nidudsson",
+          "description": "SIL Open Font License",
+          "variable_font": false,
+          "font": "esDV311QOP6BJUr4yMo4kJ8GOJSuGdLB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/betania_patmos_in_gdl",
+  "name": "betania_patmos_in_gdl",
+  "description": "Betania Patmos In GDL font family",
+  "homepage": "https://fonts.google.com/specimen/Betania+Patmos+In+GDL",
+  "copyright": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Betania Patmos In GDL",
+      "files": [
+        "https://fonts.gstatic.com/s/betaniapatmosingdl/v2/va9Y4lzJyMBdF8kOQbYe5MWhMhe2GnyJ0wb2HVPMgLIQTg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/betaniapatmosingdl/v2/va9Y4lzJyMBdF8kOQbYe5MWhMhe2GnyJ0wb2HVPMgLIQTg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Betania Patmos In GDL",
+      "files": [
+        "https://fonts.gstatic.com/s/betaniapatmosingdl/v2/va9Y4lzJyMBdF8kOQbYe5MWhMhe2GnyJ0wb2GFPMgLIQTg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/betaniapatmosingdl/v2/va9Y4lzJyMBdF8kOQbYe5MWhMhe2GnyJ0wb2GFPMgLIQTg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Betania Patmos In GDL",
+      "styles": [
+        {
+          "family_name": "Betania Patmos In GDL",
+          "type": "Regular",
+          "full_name": "Betania Patmos In GDL Regular",
+          "post_script_name": "BetaniaPatmosInGDL-Regular",
+          "version": "11.002; ttfautohint (v1.8.4.16-eb64)",
+          "copyright": "Copyright 2024 The Betania Patmos Project Authors (https://github.com/huertatipografica/betania-patmos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "va9Y4lzJyMBdF8kOQbYe5MWhMhe2GnyJ0wb2HVPMgLIQTg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/vampiro_one",
+  "name": "vampiro_one",
+  "description": "Foundry: Sorkin Type Co Vampiro One is a low contrast script font. It was inspired by the 20th century Italian tradition of monoline scripts. Vampiro One is best used for display purposes at medium to large sizes. To contribute to the project contact Eben Sorkin . Updated September 2015: Internal metadata corrected.",
+  "homepage": "https://fonts.google.com/specimen/Vampiro+One",
+  "copyright": "Copyright (c) 2012 by Sorkin Type Co (www.sorkintype.com), with Reserved Font Name 'Vampiro'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vampiro One",
+      "files": [
+        "https://fonts.gstatic.com/s/vampiroone/v19/gokqH6DoDl5yXvJytFsdLkqnsvhIor3K.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vampiroone/v19/gokqH6DoDl5yXvJytFsdLkqnsvhIor3K.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vampiro One",
+      "files": [
+        "https://fonts.gstatic.com/s/vampiroone/v19/gokqH6DoDl5yXvJytFsdLkqisvhIor3K.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vampiroone/v19/gokqH6DoDl5yXvJytFsdLkqisvhIor3K.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vampiro One",
+      "styles": [
+        {
+          "family_name": "Vampiro One",
+          "type": "Regular",
+          "full_name": "Vampiro One",
+          "post_script_name": "VampiroOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012 by Sorkin Type Co (www.sorkintype.com), with Reserved Font Name 'Vampiro'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gokqH6DoDl5yXvJytFsdLkqnsvhIor3K.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

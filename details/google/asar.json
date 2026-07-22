@@ -1,0 +1,58 @@
+{
+  "slug": "google/asar",
+  "name": "asar",
+  "description": "Asar is an original Devanagari and Latin typeface that is based on an expanding brush stroke following a heart line. The design is meant to work well with long texts while maintaining a certain charm at large sizes. Asar is partially derived from Pria Ravichadran's Palanquin , starting by interpreting that design's overall proportions and heart lines and glyph set and OpenType features. The design arrives at its own identity by adjusting for the density of certain brush strokes, that dictate wider spacing and new forms. The brush used is the Expand Path feature of Fontlab Studio 5, using a width of 93, an angle of -55, and a roundness of 35. In general the letters are designed so as to not require further adjustment, but where this is not satisfying then manual adjustments are made. This project is led by Sorkin Type, an international type foundry based in Boston. To contribute, see github.com/EbenSorkin/Asar",
+  "homepage": "https://fonts.google.com/specimen/Asar",
+  "copyright": "Copyright (c) 2014-2015, Sorkin Type Co (sorkintype.com | sorkintype@gmail.com). Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Asar",
+      "files": [
+        "https://fonts.gstatic.com/s/asar/v24/sZlLdRyI6TBIXkYQDLlTW6E.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/asar/v24/sZlLdRyI6TBIXkYQDLlTW6E.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Asar",
+      "files": [
+        "https://fonts.gstatic.com/s/asar/v24/sZlLdRyI6TBIXkMQDLlTW6E.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/asar/v24/sZlLdRyI6TBIXkMQDLlTW6E.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Asar",
+      "styles": [
+        {
+          "family_name": "Asar",
+          "type": "Regular",
+          "full_name": "Asar Regular",
+          "post_script_name": "Asar-Regular",
+          "version": "1.003; ttfautohint (v1.3) -l 8 -r 50 -G 0 -x 0 -H 45 -D deva -f latn -m \"\" -w gG -t -X \"\"",
+          "copyright": "Copyright (c) 2014-2015, Sorkin Type Co (sorkintype.com | sorkintype@gmail.com). Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+          "description": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sZlLdRyI6TBIXkYQDLlTW6E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,101 @@
+{
+  "slug": "google/redacted_script",
+  "name": "redacted_script",
+  "description": "Redacted and Redacted Script are suitable for wireframing and rapid prototyping. Designed to be unreadable, it keeps your wireframes free of distracting Lorem Ipsum or other dummy text. To contribute, see github.com/christiannaths/redacted-font . To learn more, read Flow and Redacted: Check out these new options for wireframes and other early-stage designs .",
+  "homepage": "https://fonts.google.com/specimen/Redacted+Script",
+  "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Redacted Script",
+      "files": [
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVmbI397ldkg.ttf",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvBbXGRglhokR7dcC3d1-R6zmxSsWTxkZkr_g.ttf",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVmbI397ldkg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVmbI397ldkg.ttf",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvBbXGRglhokR7dcC3d1-R6zmxSsWTxkZkr_g.ttf",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVmbI397ldkg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Redacted Script",
+      "files": [
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVnLI397ldkg.woff2",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvBbXGRglhokR7dcC3d1-R6zmxStGTxkZkr_g.woff2",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVnLI397ldkg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVnLI397ldkg.woff2",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvBbXGRglhokR7dcC3d1-R6zmxStGTxkZkr_g.woff2",
+        "https://fonts.gstatic.com/s/redactedscript/v12/ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVnLI397ldkg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Redacted Script Light",
+      "styles": [
+        {
+          "family_name": "Redacted Script Light",
+          "type": "Regular",
+          "full_name": "Redacted Script Light",
+          "post_script_name": "RedactedScript-Light",
+          "version": "1.001; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ypvEbXGRglhokR7dcC3d1-R6zmxqHUzVmbI397ldkg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Redacted Script",
+      "styles": [
+        {
+          "family_name": "Redacted Script",
+          "type": "Regular",
+          "full_name": "Redacted Script Regular",
+          "post_script_name": "RedactedScript-Regular",
+          "version": "1.001; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ypvBbXGRglhokR7dcC3d1-R6zmxSsWTxkZkr_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Redacted Script",
+          "type": "Bold",
+          "full_name": "Redacted Script Bold",
+          "post_script_name": "RedactedScript-Bold",
+          "version": "1.001; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ypvEbXGRglhokR7dcC3d1-R6zmxqDUvVmbI397ldkg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

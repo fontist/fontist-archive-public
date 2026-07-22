@@ -1,0 +1,58 @@
+{
+  "slug": "google/devonshire",
+  "name": "devonshire",
+  "description": "Devonshire is a non-connecting brush script typeface of medium weight. Its playful brush letterforms are reminiscent of old sign painter scripts, while being restricted to none of the rules of a connecting script font, allowing it to visually dance.",
+  "homepage": "https://fonts.google.com/specimen/Devonshire",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Devonshire\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Devonshire",
+      "files": [
+        "https://fonts.gstatic.com/s/devonshire/v29/46kqlbDwWirWr4gtBD2BX0Vq01lYAZM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/devonshire/v29/46kqlbDwWirWr4gtBD2BX0Vq01lYAZM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Devonshire",
+      "files": [
+        "https://fonts.gstatic.com/s/devonshire/v29/46kqlbDwWirWr4gtBD2BX0Bq01lYAZM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/devonshire/v29/46kqlbDwWirWr4gtBD2BX0Bq01lYAZM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Devonshire",
+      "styles": [
+        {
+          "family_name": "Devonshire",
+          "type": "Regular",
+          "full_name": "Devonshire-Regular",
+          "post_script_name": "Devonshire-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Devonshire\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "46kqlbDwWirWr4gtBD2BX0Vq01lYAZM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

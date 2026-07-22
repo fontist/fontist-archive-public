@@ -1,0 +1,38 @@
+{
+  "slug": "sil/unicode_bmp_fallback_sil",
+  "name": "Unicode BMP Fallback SIL",
+  "description": "Unicode BMP Fallback SIL",
+  "homepage": "http://www.sil.org",
+  "copyright": "Copyright (c) 1994-2012, SIL International (http://www.sil.org/)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Unicode_BMP_Fallback_SIL.zip": {
+      "urls": [
+        "https://scripts.sil.org/cms/scripts/render_download.php?format=file&media_id=UnicodeBMPFallback_61&filename=UnicodeBMPFallback-6.1.zip"
+      ],
+      "sha256": "350b843e5daef0e48c0f5e04d9105c2938b395e045d37598cf58edec82e5e4b4",
+      "file_size": 542533
+    }
+  },
+  "fonts": [
+    {
+      "name": "Unicode BMP Fallback SIL",
+      "styles": [
+        {
+          "family_name": "Unicode BMP Fallback SIL",
+          "type": "Regular",
+          "full_name": "Unicode BMP Fallback SIL",
+          "post_script_name": "UnicodeBMPFallbackSIL",
+          "version": "6.1",
+          "copyright": "Copyright (c) 1994-2012, SIL International (http://www.sil.org/)",
+          "description": "Intended for debugging, this font contains a glyph for every character in the Basic Multilingual plane of Unicode 6.1, each glyph consisting of a box enclosing the four hex digits identifying the Unicode scalar value.",
+          "font": "UnicodeBMPFallback.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

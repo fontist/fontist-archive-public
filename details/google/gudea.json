@@ -1,0 +1,96 @@
+{
+  "slug": "google/gudea",
+  "name": "gudea",
+  "description": "Gudea is a readable, clear and functional typeface family, with a simple and condensed structure that brings a pleasant feeling when used at any size. Inspired by engineering documentation, it expresses the technical feeling of graphic information enjoyed by those who are interested in areas such as engineering, land surveying and architecture. Initially this type was developed for use in labels and maps, but it is now a versatile family that seamlessly suits any piece of design.",
+  "homepage": "https://fonts.google.com/specimen/Gudea",
+  "copyright": "Copyright (c) 2012, Agustina Mingote (agustinamingote@gmail.com), with Reserved Font Names \"Gudea\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gudea",
+      "files": [
+        "https://fonts.gstatic.com/s/gudea/v16/neIFzCqgsI0mp-CP9IGON7Ez.ttf",
+        "https://fonts.gstatic.com/s/gudea/v16/neILzCqgsI0mp9CN_oWsMqEzSJQ.ttf",
+        "https://fonts.gstatic.com/s/gudea/v16/neIIzCqgsI0mp9gz26WGHK06UY30.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gudea/v16/neIFzCqgsI0mp-CP9IGON7Ez.ttf",
+        "https://fonts.gstatic.com/s/gudea/v16/neILzCqgsI0mp9CN_oWsMqEzSJQ.ttf",
+        "https://fonts.gstatic.com/s/gudea/v16/neIIzCqgsI0mp9gz26WGHK06UY30.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gudea",
+      "files": [
+        "https://fonts.gstatic.com/s/gudea/v16/neIFzCqgsI0mp-CK9IGON7Ez.woff2",
+        "https://fonts.gstatic.com/s/gudea/v16/neILzCqgsI0mp9CN_oCsMqEzSJQ.woff2",
+        "https://fonts.gstatic.com/s/gudea/v16/neIIzCqgsI0mp9gz26WDHK06UY30.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gudea/v16/neIFzCqgsI0mp-CK9IGON7Ez.woff2",
+        "https://fonts.gstatic.com/s/gudea/v16/neILzCqgsI0mp9CN_oCsMqEzSJQ.woff2",
+        "https://fonts.gstatic.com/s/gudea/v16/neIIzCqgsI0mp9gz26WDHK06UY30.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gudea",
+      "styles": [
+        {
+          "family_name": "Gudea",
+          "type": "Regular",
+          "full_name": "Gudea",
+          "post_script_name": "Gudea",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2012, Agustina Mingote (agustinamingote@gmail.com), with Reserved Font Names \"Gudea\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neIFzCqgsI0mp-CP9IGON7Ez.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gudea",
+          "type": "Italic",
+          "full_name": "Gudea Italic",
+          "post_script_name": "Gudea-Italic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Agustina Mingote (agustinamingote@gmail.com), with Reserved Font Names \"Gudea\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neILzCqgsI0mp9CN_oWsMqEzSJQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gudea",
+          "type": "Bold",
+          "full_name": "Gudea Bold",
+          "post_script_name": "Gudea-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Agustina Mingote (agustinamingote@gmail.com), with Reserved Font Names \"Gudea\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neIIzCqgsI0mp9gz26WGHK06UY30.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

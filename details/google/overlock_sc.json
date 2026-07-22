@@ -1,0 +1,58 @@
+{
+  "slug": "google/overlock_sc",
+  "name": "overlock_sc",
+  "description": "The Overlock typeface family was selected by the Letras Latinas Biennal in 2006. The initial idea of this typeface was to simulate the Overlock sewing technique. The special thing about these forms is the warm feeling that they give to your text, because of the particular rounded glyph shapes that emerge. As a result, the Overlock typeface family is great for titles and short texts in magazine style layouts. It looks its very best at bigger sizes. The main Overlock family comes in three weights, Regular, Bold and Black, each with a true italic. It has two set of numbers and small caps, which are available in this sister family.",
+  "homepage": "https://fonts.google.com/specimen/Overlock+SC",
+  "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Overlock SC",
+      "files": [
+        "https://fonts.gstatic.com/s/overlocksc/v25/1cX3aUHKGZrstGAY8nwVzHGAq8Sk1PoH.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/overlocksc/v25/1cX3aUHKGZrstGAY8nwVzHGAq8Sk1PoH.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Overlock SC",
+      "files": [
+        "https://fonts.gstatic.com/s/overlocksc/v25/1cX3aUHKGZrstGAY8nwVzHGFq8Sk1PoH.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/overlocksc/v25/1cX3aUHKGZrstGAY8nwVzHGFq8Sk1PoH.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Overlock SC",
+      "styles": [
+        {
+          "family_name": "Overlock SC",
+          "type": "Regular",
+          "full_name": "Overlock SC",
+          "post_script_name": "OverlockSC-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1cX3aUHKGZrstGAY8nwVzHGAq8Sk1PoH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

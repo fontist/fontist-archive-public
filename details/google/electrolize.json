@@ -1,0 +1,58 @@
+{
+  "slug": "google/electrolize",
+  "name": "electrolize",
+  "description": "Lettering in a Russian commuter train inspired designer Valery Zaveryaev to create the Electrolize typeface with an accurate techno character. It came out solid enought to work well in any size from body copy to headlines. Electrolize can be best described as a squarish geometric typeface with humanistic proportions. It has an accurate techno character, holds the baseline well because of its rectangular modular-based construction. At display sizes its detailing in terminals become noticeable. It is optimized for screen, and will work well in print thank to its simple and straight outlines.",
+  "homepage": "https://fonts.google.com/specimen/Electrolize",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\"\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Electrolize",
+      "files": [
+        "https://fonts.gstatic.com/s/electrolize/v20/cIf5Ma1dtE0zSiGSiED7AUEGso5tQafB.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/electrolize/v20/cIf5Ma1dtE0zSiGSiED7AUEGso5tQafB.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Electrolize",
+      "files": [
+        "https://fonts.gstatic.com/s/electrolize/v20/cIf5Ma1dtE0zSiGSiED7AUEDso5tQafB.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/electrolize/v20/cIf5Ma1dtE0zSiGSiED7AUEDso5tQafB.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Electrolize",
+      "styles": [
+        {
+          "family_name": "Electrolize",
+          "type": "Regular",
+          "full_name": "Electrolize",
+          "post_script_name": "Electrolize-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\"\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Electrolize\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cIf5Ma1dtE0zSiGSiED7AUEGso5tQafB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/nanum_brush_script",
+  "name": "nanum_brush_script",
+  "description": "The Nanum fonts (Korean : 나눔글꼴) are unicode fonts designed especially for the Korean-language script, designed by Sandoll Communications (Korean : 산돌 커뮤니케이션) and Fontrix (Korean : 폰트릭스). The publisher is Naver. Nanum Brush Script is a contemporary brush script with a warm touch and is expertly hinted for screen use.",
+  "homepage": "https://fonts.google.com/specimen/Nanum+Brush+Script",
+  "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nanum Brush Script",
+      "files": [
+        "https://fonts.gstatic.com/s/nanumbrushscript/v26/wXK2E2wfpokopxzthSqPbcR5_gVaxazyjqBr1lO97Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nanumbrushscript/v26/wXK2E2wfpokopxzthSqPbcR5_gVaxazyjqBr1lO97Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nanum Brush Script",
+      "files": [
+        "https://fonts.gstatic.com/s/nanumbrushscript/v26/wXK2E2wfpokopxzthSqPbcR5_gVaxazyi6Br1lO97Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nanumbrushscript/v26/wXK2E2wfpokopxzthSqPbcR5_gVaxazyi6Br1lO97Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nanum Brush Script",
+      "styles": [
+        {
+          "family_name": "Nanum Brush Script",
+          "type": "Regular",
+          "full_name": "Nanum Brush Script",
+          "post_script_name": "NanumBrush",
+          "version": "1.100;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895",
+          "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "wXK2E2wfpokopxzthSqPbcR5_gVaxazyjqBr1lO97Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

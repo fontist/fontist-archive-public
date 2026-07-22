@@ -1,0 +1,101 @@
+{
+  "slug": "google/kaisei_opti",
+  "name": "kaisei_opti",
+  "description": "Kaisei Opti is a modern style Japanese typeface. When typesetted, it gives a cheerful and breezy impression. To contribute to the project, visit https://github.com/FontKai-Kaisei/Kaisei",
+  "homepage": "https://fonts.google.com/specimen/Kaisei+Opti",
+  "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kaisei Opti",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldKNThJphYb8_g6c2nlIFle7KlmxuHx.ttf",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGGqxY1u7f34DYwn.ttf",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGHiw41u7f34DYwn.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldKNThJphYb8_g6c2nlIFle7KlmxuHx.ttf",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGGqxY1u7f34DYwn.ttf",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGHiw41u7f34DYwn.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kaisei Opti",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldKNThJphYb8_g6c2nlIFlb7KlmxuHx.woff2",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGGqxY1r7f34DYwn.woff2",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGHiw41r7f34DYwn.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldKNThJphYb8_g6c2nlIFlb7KlmxuHx.woff2",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGGqxY1r7f34DYwn.woff2",
+        "https://fonts.gstatic.com/s/kaiseiopti/v11/QldXNThJphYb8_g6c2nlIGHiw41r7f34DYwn.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kaisei Opti",
+      "styles": [
+        {
+          "family_name": "Kaisei Opti",
+          "type": "Regular",
+          "full_name": "Kaisei Opti Regular",
+          "post_script_name": "KaiseiOpti-Regular",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QldKNThJphYb8_g6c2nlIFle7KlmxuHx.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kaisei Opti",
+          "type": "Bold",
+          "full_name": "Kaisei Opti Bold",
+          "post_script_name": "KaiseiOpti-Bold",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QldXNThJphYb8_g6c2nlIGHiw41u7f34DYwn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaisei Opti Medium",
+      "styles": [
+        {
+          "family_name": "Kaisei Opti Medium",
+          "type": "Regular",
+          "full_name": "Kaisei Opti Medium",
+          "post_script_name": "KaiseiOpti-Medium",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QldXNThJphYb8_g6c2nlIGGqxY1u7f34DYwn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

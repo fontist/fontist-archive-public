@@ -1,0 +1,58 @@
+{
+  "slug": "google/headland_one",
+  "name": "headland_one",
+  "description": "Foundry: Sorkin Type Co Headland One is a text typeface designed to be highly legible and comfortable when reading screens. Headland One is useful from very small sizes to headlines. Headland One's personality recalls the geniality of the UK private press movement types made at the turn of the 20th century. Headland One's eccentric details contribute to the distinctive feeling of the type at smaller sizes but do not become obvious until the type becomes much larger. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Headland+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Headland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Headland One",
+      "files": [
+        "https://fonts.gstatic.com/s/headlandone/v17/yYLu0hHR2vKnp89Tk1TCq3Tx0PlTeZ3mJA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/headlandone/v17/yYLu0hHR2vKnp89Tk1TCq3Tx0PlTeZ3mJA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Headland One",
+      "files": [
+        "https://fonts.gstatic.com/s/headlandone/v17/yYLu0hHR2vKnp89Tk1TCq3Tx1flTeZ3mJA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/headlandone/v17/yYLu0hHR2vKnp89Tk1TCq3Tx1flTeZ3mJA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "HeadlandOne",
+      "styles": [
+        {
+          "family_name": "HeadlandOne",
+          "type": "Regular",
+          "full_name": "HeadlandOne-Regular",
+          "post_script_name": "HeadlandOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Headland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "yYLu0hHR2vKnp89Tk1TCq3Tx0PlTeZ3mJA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

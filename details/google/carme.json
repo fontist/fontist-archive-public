@@ -1,0 +1,58 @@
+{
+  "slug": "google/carme",
+  "name": "carme",
+  "description": "Carme (Version 1.0) is a clean sans-serif font, specially designed for texts. It contains 206 glyphs and it was given visual metrics and kerning. The bold version is about to be released.",
+  "homepage": "https://fonts.google.com/specimen/Carme",
+  "copyright": "Copyright (c) 2010-2011, Ruben Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Carme",
+      "files": [
+        "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDOjGxLNrxfbZ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDOjGxLNrxfbZ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Carme",
+      "files": [
+        "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDOjDxLNrxfbZ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carme/v17/ptRHTiWdbvZIDOjDxLNrxfbZ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Carme",
+      "styles": [
+        {
+          "family_name": "Carme",
+          "type": "Regular",
+          "full_name": "Carme Regular",
+          "post_script_name": "Carme",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2010-2011, Ruben Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.",
+          "description": "Copyright (c) 2010-2011, Rubén Prol (ipanemagrafica@gmail.com|www.ipanemagrafica.com),\nwith Reserved Font Name Carme.\r\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRHTiWdbvZIDOjGxLNrxfbZ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

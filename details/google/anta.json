@@ -1,0 +1,58 @@
+{
+  "slug": "google/anta",
+  "name": "anta",
+  "description": "Anta, a modern font family, is intelligently designed for screen publications. Anta Typeface has several interesting, constructed glyph shapes that give the typeface a modern look. The typeface is particularly suitable for graphic design, but also for branding projects. To contribute, see github.com/Typedesigners/Anta-Regular .",
+  "homepage": "https://fonts.google.com/specimen/Anta",
+  "copyright": "Copyright 2019 The Anta Project Authors (https://github.com/Typedesigners/Anta-Regular)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Anta",
+      "files": [
+        "https://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyZFwxPFimIo0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyZFwxPFimIo0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Anta",
+      "files": [
+        "https://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyZFkxPFimIo0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anta/v1/gyBzhwQ3KsIyZFkxPFimIo0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Anta",
+      "styles": [
+        {
+          "family_name": "Anta",
+          "type": "Regular",
+          "full_name": "Anta Regular",
+          "post_script_name": "Anta-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2019 The Anta Project Authors (https://github.com/Typedesigners/Anta-Regular)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "gyBzhwQ3KsIyZFwxPFimIo0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

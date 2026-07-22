@@ -1,0 +1,381 @@
+{
+  "slug": "google/hubot_sans",
+  "name": "hubot_sans",
+  "description": "Hubot Sans font family",
+  "homepage": "https://fonts.google.com/specimen/Hubot+Sans",
+  "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Hubot Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrU41-MXUss.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdhbDVwVqcXQ.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrU41-MXUss.woff2",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrU41-MXUss.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Hubot Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrR41-MXUss.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdgLDVwVqcXQ.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrR41-MXUss.ttf",
+        "https://fonts.gstatic.com/s/hubotsans/v5/pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrR41-MXUss.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hubot Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Hubot Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Hubot Sans ExtraLight",
+          "post_script_name": "HubotSans-ExtraLight",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7ZdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Hubot Sans ExtraLight Italic",
+          "post_script_name": "HubotSans-ExtraLightItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1w7rR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubot Sans Light",
+      "styles": [
+        {
+          "family_name": "Hubot Sans Light",
+          "type": "Regular",
+          "full_name": "Hubot Sans Light",
+          "post_script_name": "HubotSans-Light",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCubZdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans Light",
+          "type": "Italic",
+          "full_name": "Hubot Sans Light Italic",
+          "post_script_name": "HubotSans-LightItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_Xrw7rR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubot Sans",
+      "styles": [
+        {
+          "family_name": "Hubot Sans",
+          "type": "Regular",
+          "full_name": "Hubot Sans Regular",
+          "post_script_name": "HubotSans-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC57ZdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans",
+          "type": "Bold",
+          "full_name": "Hubot Sans Bold",
+          "post_script_name": "HubotSans-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCALFdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans",
+          "type": "Italic",
+          "full_name": "Hubot Sans Italic",
+          "post_script_name": "HubotSans-Italic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_W1w7rR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans",
+          "type": "Bold Italic",
+          "full_name": "Hubot Sans Bold Italic",
+          "post_script_name": "HubotSans-BoldItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VSxLrR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubot Sans Medium",
+      "styles": [
+        {
+          "family_name": "Hubot Sans Medium",
+          "type": "Regular",
+          "full_name": "Hubot Sans Medium",
+          "post_script_name": "HubotSans-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsC1bZdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans Medium",
+          "type": "Italic",
+          "full_name": "Hubot Sans Medium Italic",
+          "post_script_name": "HubotSans-MediumItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_WHw7rR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubot Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Hubot Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Hubot Sans SemiBold",
+          "post_script_name": "HubotSans-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCObFdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Hubot Sans SemiBold Italic",
+          "post_script_name": "HubotSans-SemiBoldItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_VrxLrR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubot Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Hubot Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Hubot Sans ExtraBold",
+          "post_script_name": "HubotSans-ExtraBold",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCZ7FdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Hubot Sans ExtraBold Italic",
+          "post_script_name": "HubotSans-ExtraBoldItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_U1xLrR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hubot Sans Black",
+      "styles": [
+        {
+          "family_name": "Hubot Sans Black",
+          "type": "Regular",
+          "full_name": "Hubot Sans Black",
+          "post_script_name": "HubotSans-Black",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0BMIiULYxOvxVLbVwhONyy6zb7yFM9V5G3iZ3X0avsIiCxjLsCTrFdgLDVwVqcXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hubot Sans Black",
+          "type": "Italic",
+          "full_name": "Hubot Sans Black Italic",
+          "post_script_name": "HubotSans-BlackItalic",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Hubot Sans Project Authors (https://github.com/github/hubot-sans), with Reserved Font Name \"Hubot\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pe0PMIiULYxOvxVLbVwhEtWACNaCm8WTUIR_y2-e41Q0S0srIrwXL_UcxLrR41-MXUss.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,379 @@
+{
+  "slug": "google/chiron_hei_hk",
+  "name": "chiron_hei_hk",
+  "description": "Chiron Hei HK font family",
+  "homepage": "https://fonts.google.com/specimen/Chiron+Hei+HK",
+  "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Chiron Hei HK",
+      "files": [
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lIzr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJfr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKzqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKKqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLEqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7OlPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7IVPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7GlImzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7FBImzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdImzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7B5ImzAQieI0QjQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lIzr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJfr18JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKzqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKKqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLEqF8JkTEyjPI0.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7OlPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7IVPmzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7GlImzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7FBImzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdImzAQieI0QjQ.woff2",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7B5ImzAQieI0QjQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Chiron Hei HK",
+      "files": [
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lIzr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJfr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKzqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKKqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLEqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7OlPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7IVPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7GlImzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7FBImzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdImzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7B5ImzUQieI0QjQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lIzr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJfr18MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKzqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKKqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLEqF8MkTEyjPI0.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7OlPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7IVPmzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7GlImzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7FBImzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdImzUQieI0QjQ.ttf",
+        "https://fonts.gstatic.com/s/chironheihk/v4/wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7B5ImzUQieI0QjQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chiron Hei HK ExtraLight",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK ExtraLight",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK ExtraLight",
+          "post_script_name": "ChironHeiHK-ExtraLight",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtr18MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK ExtraLight",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK ExtraLight Italic",
+          "post_script_name": "ChironHeiHK-ExtraLightItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdPmzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiron Hei HK Light",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK Light",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK Light",
+          "post_script_name": "ChironHeiHK-Light",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lIzr18MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK Light",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK Light Italic",
+          "post_script_name": "ChironHeiHK-LightItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7OlPmzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiron Hei HK",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK Regular",
+          "post_script_name": "ChironHeiHK-Regular",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJtr18MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK",
+          "type": "Bold",
+          "full_name": "Chiron Hei HK Bold",
+          "post_script_name": "ChironHeiHK-Bold",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKKqF8MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK Italic",
+          "post_script_name": "ChironHeiHK-Italic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7LdPmzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK",
+          "type": "Bold Italic",
+          "full_name": "Chiron Hei HK Bold Italic",
+          "post_script_name": "ChironHeiHK-BoldItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7FBImzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiron Hei HK Medium",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK Medium",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK Medium",
+          "post_script_name": "ChironHeiHK-Medium",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lJfr18MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK Medium",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK Medium Italic",
+          "post_script_name": "ChironHeiHK-MediumItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7IVPmzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiron Hei HK SemiBold",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK SemiBold",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK SemiBold",
+          "post_script_name": "ChironHeiHK-SemiBold",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lKzqF8MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK SemiBold",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK SemiBold Italic",
+          "post_script_name": "ChironHeiHK-SemiBoldItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7GlImzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiron Hei HK ExtraBold",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK ExtraBold",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK ExtraBold",
+          "post_script_name": "ChironHeiHK-ExtraBold",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLtqF8MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK ExtraBold",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK ExtraBold Italic",
+          "post_script_name": "ChironHeiHK-ExtraBoldItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7DdImzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chiron Hei HK Black",
+      "styles": [
+        {
+          "family_name": "Chiron Hei HK Black",
+          "type": "Regular",
+          "full_name": "Chiron Hei HK Black",
+          "post_script_name": "ChironHeiHK-Black",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK-E3MSr44vpVKPvzqVJaxhp3w7QQhPNY163lLEqF8MkTEyjPI0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chiron Hei HK Black",
+          "type": "Italic",
+          "full_name": "Chiron Hei HK Black Italic",
+          "post_script_name": "ChironHeiHK-BlackItalic",
+          "version": "2.530",
+          "copyright": "Copyright 2025 The Chiron Hei HK Project Authors (https://github.com/chiron-fonts/chiron-hei-hk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wXK8E3MSr44vpVKPvzqVJaxhjXUJvtAmXhfU2Uel7B5ImzUQieI0QjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

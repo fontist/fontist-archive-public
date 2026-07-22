@@ -1,0 +1,58 @@
+{
+  "slug": "google/underdog",
+  "name": "underdog",
+  "description": "Underdog is an informal typeface with broken corner lines. It can serve many different purposes, in posters, magazine headlines or on food packaging. It changes its mood as the context of use changes: it can be playful in a childish design, feel punk in musical posters, unceremonious in fashion magazines or aggressive in a warning poster. The inspiration for this typeface comes from hand-made signs seen on the street, and also the lettering found in musical culture. All shapes, lines and corners look like they are improvised, yet each of them has common rules to make the whole typeface work together, in both short words and longer sentences. The typeface was designed by Sergey Steblina, and the font was technically engineered and published by Jovanny Lemonad.",
+  "homepage": "https://fonts.google.com/specimen/Underdog",
+  "copyright": "Copyright (c) 2012, Sergey Steblina (sergey@steblina.com), Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Underdog'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Underdog",
+      "files": [
+        "https://fonts.gstatic.com/s/underdog/v24/CHygV-jCElj7diMroVSiU14GN2Il.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/underdog/v24/CHygV-jCElj7diMroVSiU14GN2Il.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Underdog",
+      "files": [
+        "https://fonts.gstatic.com/s/underdog/v24/CHygV-jCElj7diMroVSnU14GN2Il.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/underdog/v24/CHygV-jCElj7diMroVSnU14GN2Il.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Underdog",
+      "styles": [
+        {
+          "family_name": "Underdog",
+          "type": "Regular",
+          "full_name": "Underdog",
+          "post_script_name": "Underdog-Regular",
+          "version": "1.001; ttfautohint (v0.9)",
+          "copyright": "Copyright (c) 2012, Sergey Steblina (sergey@steblina.com), Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Underdog'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CHygV-jCElj7diMroVSiU14GN2Il.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

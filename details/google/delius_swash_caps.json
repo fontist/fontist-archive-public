@@ -1,0 +1,58 @@
+{
+  "slug": "google/delius_swash_caps",
+  "name": "delius_swash_caps",
+  "description": "Delius Swash Caps is part of a high quality comic book lettering typeface super-family. It has special uppercase letters for special uses, such as in titles and logos. It has companion families, Delius and Delius Unicase. A round marker was used to define Delius's stroke: the line gets thicker at both ends to define the beginning and end of the stroke, as a marker line would do, and the ductus imitates the movements of handwriting.",
+  "homepage": "https://fonts.google.com/specimen/Delius+Swash+Caps",
+  "copyright": "Copyright (c) 2010, 2011, Natalia Raices <nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Delius Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/deliusswashcaps/v25/oY1E8fPLr7v4JWCExZpWebxVKORpXXedKmeBvEYs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/deliusswashcaps/v25/oY1E8fPLr7v4JWCExZpWebxVKORpXXedKmeBvEYs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Delius Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/deliusswashcaps/v25/oY1E8fPLr7v4JWCExZpWebxVKORpXXeYKmeBvEYs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/deliusswashcaps/v25/oY1E8fPLr7v4JWCExZpWebxVKORpXXeYKmeBvEYs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Delius Swash Caps",
+      "styles": [
+        {
+          "family_name": "Delius Swash Caps",
+          "type": "Regular",
+          "full_name": "Delius Swash Caps",
+          "post_script_name": "DeliusSwashCaps-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010, 2011, Natalia Raices <nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "oY1E8fPLr7v4JWCExZpWebxVKORpXXedKmeBvEYs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

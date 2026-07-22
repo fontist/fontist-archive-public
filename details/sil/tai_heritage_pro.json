@@ -1,0 +1,49 @@
+{
+  "slug": "sil/tai_heritage_pro",
+  "name": "Tai Heritage Pro",
+  "description": "Tai Heritage Pro",
+  "homepage": "http://scripts.sil.org",
+  "copyright": "Copyright (c) 1995-2017, SIL International (www.sil.org)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Tai_Heritage_Pro.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/taiheritage/TaiHeritagePro-2.600.zip",
+        "https://web.archive.org/web/20260505160516/https://software.sil.org/downloads/r/taiheritage/TaiHeritagePro-2.600.zip"
+      ],
+      "sha256": "1b9c38008d7704ce6dc0e3be6b9e767f5c114252d4f417d474f2a22989af746d",
+      "file_size": 736557
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tai Heritage Pro",
+      "styles": [
+        {
+          "family_name": "Tai Heritage Pro",
+          "type": "Bold",
+          "full_name": "Tai Heritage Pro Bold",
+          "post_script_name": "TaiHeritagePro-Bold",
+          "version": "2.600",
+          "copyright": "Copyright (c) 1995-2017, SIL International (www.sil.org)",
+          "description": "Copyright (c) 1995-2012 by SIL International",
+          "font": "TaiHeritagePro-Bold.ttf"
+        },
+        {
+          "family_name": "Tai Heritage Pro",
+          "type": "Regular",
+          "full_name": "Tai Heritage Pro",
+          "post_script_name": "TaiHeritagePro",
+          "version": "2.600",
+          "copyright": "Copyright (c) 1995-2017, SIL International (www.sil.org)",
+          "description": "Copyright (c) 1995-2012 by SIL International",
+          "font": "TaiHeritagePro-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

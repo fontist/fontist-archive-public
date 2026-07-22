@@ -1,0 +1,58 @@
+{
+  "slug": "google/bubbler_one",
+  "name": "bubbler_one",
+  "description": "Bubbler One is an original font with thin strokes that are particularly straight. It is a legible typeface in small sizes. You can use Bubbler One for any kind of text, formal or informal, big or small; I hope you find it useful! Designed by Brenda Gallo and Gustavo Dipre .",
+  "homepage": "https://fonts.google.com/specimen/Bubbler+One",
+  "copyright": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name \"Bubbler\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bubbler One",
+      "files": [
+        "https://fonts.gstatic.com/s/bubblerone/v22/f0Xy0eqj68ppQV9KBLmAouHH26MPePkt.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bubblerone/v22/f0Xy0eqj68ppQV9KBLmAouHH26MPePkt.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bubbler One",
+      "files": [
+        "https://fonts.gstatic.com/s/bubblerone/v22/f0Xy0eqj68ppQV9KBLmAouHC26MPePkt.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bubblerone/v22/f0Xy0eqj68ppQV9KBLmAouHC26MPePkt.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bubbler One",
+      "styles": [
+        {
+          "family_name": "Bubbler One",
+          "type": "Regular",
+          "full_name": "Bubbler One Regular",
+          "post_script_name": "BubblerOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name \"Bubbler\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xy0eqj68ppQV9KBLmAouHH26MPePkt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

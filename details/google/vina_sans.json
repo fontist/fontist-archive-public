@@ -1,0 +1,58 @@
+{
+  "slug": "google/vina_sans",
+  "name": "vina_sans",
+  "description": "Vina Sans is an open-source font inspired by the letters on street signs, flyers, and posters found throughout Vietnam. In addition, the font also incorporates an element of font errors that appear a lot on publications with a low level of perfection. To contribute, please visit github.com/nguyentype/vinasans .",
+  "homepage": "https://fonts.google.com/specimen/Vina+Sans",
+  "copyright": "Copyright 2023 The Vina Sans Project Authors (https://github.com/nguyentype/vinasans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vina Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/vinasans/v8/m8JQjfZKf6-d2273MP7zcJ5BZmqa3A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vinasans/v8/m8JQjfZKf6-d2273MP7zcJ5BZmqa3A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vina Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/vinasans/v8/m8JQjfZKf6-d2273MP7zdZ5BZmqa3A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vinasans/v8/m8JQjfZKf6-d2273MP7zdZ5BZmqa3A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vina Sans",
+      "styles": [
+        {
+          "family_name": "Vina Sans",
+          "type": "Regular",
+          "full_name": "Vina Sans Regular",
+          "post_script_name": "VinaSans-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.28]",
+          "copyright": "Copyright 2023 The Vina Sans Project Authors (https://github.com/nguyentype/vinasans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "m8JQjfZKf6-d2273MP7zcJ5BZmqa3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

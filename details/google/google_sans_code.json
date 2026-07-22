@@ -1,0 +1,293 @@
+{
+  "slug": "google/google_sans_code",
+  "name": "google_sans_code",
+  "description": "Google Sans Code font family",
+  "homepage": "https://fonts.google.com/specimen/Google+Sans+Code",
+  "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Google Sans Code",
+      "files": [
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXE_ggF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFhggF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFTggF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXG_hQF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXGGhQF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXHhhQF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwbc98LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwek98LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwds98LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwTc68LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwQ468LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwWk68LS-h3BzvSU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXE_ggF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFhggF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFTggF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXG_hQF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXGGhQF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXHhhQF7-rWcgmBz.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwbc98LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwek98LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwds98LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwTc68LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwQ468LS-h3BzvSU.woff2",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwWk68LS-h3BzvSU.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Google Sans Code",
+      "files": [
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXE_ggF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFhggF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFTggF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXG_hQF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXGGhQF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXHhhQF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwbc98LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwek98LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwds98LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwTc68LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwQ468LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwWk68LG-h3BzvSU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXE_ggF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFhggF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFTggF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXG_hQF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXGGhQF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXHhhQF--rWcgmBz.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwbc98LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwek98LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwds98LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwTc68LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwQ468LG-h3BzvSU.ttf",
+        "https://fonts.gstatic.com/s/googlesanscode/v14/pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwWk68LG-h3BzvSU.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Google Sans Code Light",
+      "styles": [
+        {
+          "family_name": "Google Sans Code Light",
+          "type": "Regular",
+          "full_name": "Google Sans Code Light",
+          "post_script_name": "GoogleSansCode-Light",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXE_ggF--rWcgmBz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code Light",
+          "type": "Italic",
+          "full_name": "Google Sans Code Light Italic",
+          "post_script_name": "GoogleSansCode-LightItalic",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwbc98LG-h3BzvSU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google Sans Code",
+      "styles": [
+        {
+          "family_name": "Google Sans Code",
+          "type": "Regular",
+          "full_name": "Google Sans Code Regular",
+          "post_script_name": "GoogleSansCode-Regular",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFhggF--rWcgmBz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code",
+          "type": "Bold",
+          "full_name": "Google Sans Code Bold",
+          "post_script_name": "GoogleSansCode-Bold",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXGGhQF--rWcgmBz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code",
+          "type": "Italic",
+          "full_name": "Google Sans Code Italic",
+          "post_script_name": "GoogleSansCode-Italic",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwek98LG-h3BzvSU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code",
+          "type": "Bold Italic",
+          "full_name": "Google Sans Code Bold Italic",
+          "post_script_name": "GoogleSansCode-BoldItalic",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwQ468LG-h3BzvSU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google Sans Code Medium",
+      "styles": [
+        {
+          "family_name": "Google Sans Code Medium",
+          "type": "Regular",
+          "full_name": "Google Sans Code Medium",
+          "post_script_name": "GoogleSansCode-Medium",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXFTggF--rWcgmBz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code Medium",
+          "type": "Italic",
+          "full_name": "Google Sans Code Medium Italic",
+          "post_script_name": "GoogleSansCode-MediumItalic",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwds98LG-h3BzvSU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google Sans Code SemiBold",
+      "styles": [
+        {
+          "family_name": "Google Sans Code SemiBold",
+          "type": "Regular",
+          "full_name": "Google Sans Code SemiBold",
+          "post_script_name": "GoogleSansCode-SemiBold",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXG_hQF--rWcgmBz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code SemiBold",
+          "type": "Italic",
+          "full_name": "Google Sans Code SemiBold Italic",
+          "post_script_name": "GoogleSansCode-SemiBoldItalic",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwTc68LG-h3BzvSU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google Sans Code ExtraBold",
+      "styles": [
+        {
+          "family_name": "Google Sans Code ExtraBold",
+          "type": "Regular",
+          "full_name": "Google Sans Code ExtraBold",
+          "post_script_name": "GoogleSansCode-ExtraBold",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxiSyogzv91QhV44Z_GQBHsGf5PuckJMXr41HfVaiXHhhQF--rWcgmBz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Google Sans Code ExtraBold",
+          "type": "Italic",
+          "full_name": "Google Sans Code ExtraBold Italic",
+          "post_script_name": "GoogleSansCode-ExtraBoldItalic",
+          "version": "6.001",
+          "copyright": "Copyright 2025 The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "pxisyogzv91QhV44Z_GQBHsGf5PuWEt-oWZcdm_0jmSpwWk68LG-h3BzvSU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

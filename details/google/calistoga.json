@@ -1,0 +1,58 @@
+{
+  "slug": "google/calistoga",
+  "name": "calistoga",
+  "description": "Calistoga is a cheerful, space saving display typeface. It was inspired by Oscar M. Bryn's lettering as seen on the posters made for the Western US based Santa Fe Railroad. Its vintage railroad flavor is found in the whole design. Calistoga includes proportional, tabular, old style and lining figures. It also offers fractions, superiors, inferiors, a broad range of symbols, and it includes case sensitive forms. Calistoga is an original typeface designed by Yvonne Schuttler. Eben Sorkin expanded the language support and refined the design in 2018 and 2022. To contribute, see github.com/SorkinType/Calistoga",
+  "homepage": "https://fonts.google.com/specimen/Calistoga",
+  "copyright": "Copyright 2019 The Calistoga Project Authors (https://github.com/SorkinType/Calistoga)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Calistoga",
+      "files": [
+        "https://fonts.gstatic.com/s/calistoga/v18/6NUU8F2OJg6MeR7l4e0vtMYAwdRZfw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/calistoga/v18/6NUU8F2OJg6MeR7l4e0vtMYAwdRZfw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Calistoga",
+      "files": [
+        "https://fonts.gstatic.com/s/calistoga/v18/6NUU8F2OJg6MeR7l4e0vscYAwdRZfw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/calistoga/v18/6NUU8F2OJg6MeR7l4e0vscYAwdRZfw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Calistoga",
+      "styles": [
+        {
+          "family_name": "Calistoga",
+          "type": "Regular",
+          "full_name": "Calistoga Regular",
+          "post_script_name": "Calistoga-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2019 The Calistoga Project Authors (https://github.com/SorkinType/Calistoga)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "6NUU8F2OJg6MeR7l4e0vtMYAwdRZfw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

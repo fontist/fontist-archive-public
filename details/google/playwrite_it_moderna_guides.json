@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_it_moderna_guides",
+  "name": "playwrite_it_moderna_guides",
+  "description": "Playwrite IT Moderna Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+IT+Moderna+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite IT Moderna Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPpOVtBhB5gQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPpOVtBhB5gQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite IT Moderna Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPoeVtBhB5gQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteitmodernaguides/v1/2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPoeVtBhB5gQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite IT Moderna Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite IT Moderna Guides",
+          "type": "Regular",
+          "full_name": "Playwrite IT Moderna Guides Regular",
+          "post_script_name": "PlaywriteITModernaGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "2sDKZHBJg5rCj6fz_QgDJhGcTtJ5AVu-1w5jRQjRv9qPpOVtBhB5gQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

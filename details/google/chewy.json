@@ -1,0 +1,58 @@
+{
+  "slug": "google/chewy",
+  "name": "chewy",
+  "description": "A font you can really sink your teeth into. And unlike all those tasteless fonts, Chewy never loses its flavor! Chewy is sealed for freshness in an easy-open package. Be sure to sample Squid's other main courses and side dishes!",
+  "homepage": "https://fonts.google.com/specimen/Chewy",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chewy",
+      "files": [
+        "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wk5xIDMfO-ed.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wk5xIDMfO-ed.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chewy",
+      "files": [
+        "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wk50IDMfO-ed.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chewy/v18/uK_94ruUb-k-wk50IDMfO-ed.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chewy",
+      "styles": [
+        {
+          "family_name": "Chewy",
+          "type": "Regular",
+          "full_name": "Chewy Regular",
+          "post_script_name": "Chewy-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "uK_94ruUb-k-wk5xIDMfO-ed.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

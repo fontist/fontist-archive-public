@@ -1,0 +1,49 @@
+{
+  "slug": "sil/tagmukay",
+  "name": "Tagmukay",
+  "description": "Tagmukay",
+  "homepage": "www.sil.org",
+  "copyright": "Copyright (c) 2006-2017 SIL International",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Tagmukay.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/tagmukay/Tagmukay-2.000.zip",
+        "https://web.archive.org/web/20260505160454/https://software.sil.org/downloads/r/tagmukay/Tagmukay-2.000.zip"
+      ],
+      "sha256": "f657adf6c91e75f81d53bb4f305df80656f2eee7013d349493883e4bcb6edbcd",
+      "file_size": 723813
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tagmukay",
+      "styles": [
+        {
+          "family_name": "Tagmukay",
+          "type": "Bold",
+          "full_name": "Tagmukay Bold",
+          "post_script_name": "Tagmukay-Bold",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2006-2017 SIL International",
+          "description": "Copyright (c) 2006-2017 by SIL International. All rights reserved.",
+          "font": "Tagmukay-Bold.ttf"
+        },
+        {
+          "family_name": "Tagmukay",
+          "type": "Regular",
+          "full_name": "Tagmukay",
+          "post_script_name": "Tagmukay-Regular",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2006-2017 SIL International",
+          "description": "Copyright (c) 2006-2017 by SIL International. All rights reserved.",
+          "font": "Tagmukay-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

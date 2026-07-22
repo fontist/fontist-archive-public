@@ -1,0 +1,58 @@
+{
+  "slug": "google/shizuru",
+  "name": "shizuru",
+  "description": "This is a font based on the handwritten sketch by handicapped artists, refined & created by design major students. The unique lines create its exceptional atmosphere. This is one of the work of Shibuya Font project, a collaboration of design major students and handicapped artist living in Shibuya city, officially approved by Shibuya city in Tokyo. The Shibuya Font Project official site is at shibuyafont.jp To contribute to the project, visit github.com/shibuyafont/shizuru-font",
+  "homepage": "https://fonts.google.com/specimen/Shizuru",
+  "copyright": "Copyright 2020 The Shizuru Project Authors (https://github.com/shibuyafont/shizuru-font), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shizuru",
+      "files": [
+        "https://fonts.gstatic.com/s/shizuru/v13/O4ZSFGfvnxFiCA3i30IJlgUTj2A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shizuru/v13/O4ZSFGfvnxFiCA3i30IJlgUTj2A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shizuru",
+      "files": [
+        "https://fonts.gstatic.com/s/shizuru/v13/O4ZSFGfvnxFiCA3i30cJlgUTj2A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shizuru/v13/O4ZSFGfvnxFiCA3i30cJlgUTj2A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shizuru",
+      "styles": [
+        {
+          "family_name": "Shizuru",
+          "type": "Regular",
+          "full_name": "Shizuru Regular",
+          "post_script_name": "Shizuru-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Shizuru Project Authors (https://github.com/shibuyafont/shizuru-font), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "O4ZSFGfvnxFiCA3i30IJlgUTj2A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

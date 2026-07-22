@@ -1,0 +1,58 @@
+{
+  "slug": "google/whisper",
+  "name": "whisper",
+  "description": "Designed in the early nineties, it still holds up well as a contemporary calligraphic script with non-Roman script capitals. It has an a strong italic with angular strokes and a warm, flowing look. Use Whisper for situations that call for a strong elegance. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/whisper .",
+  "homepage": "https://fonts.google.com/specimen/Whisper",
+  "copyright": "Copyright 1993-2022 The Whisper Project Authors (https://github.com/googlefonts/whisper)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Whisper",
+      "files": [
+        "https://fonts.gstatic.com/s/whisper/v7/q5uHsoqtKftx74K9milCBxxdmYU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/whisper/v7/q5uHsoqtKftx74K9milCBxxdmYU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Whisper",
+      "files": [
+        "https://fonts.gstatic.com/s/whisper/v7/q5uHsoqtKftx74K9mixCBxxdmYU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/whisper/v7/q5uHsoqtKftx74K9mixCBxxdmYU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Whisper",
+      "styles": [
+        {
+          "family_name": "Whisper",
+          "type": "Regular",
+          "full_name": "Whisper Regular",
+          "post_script_name": "Whisper-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 1993-2022 The Whisper Project Authors (https://github.com/googlefonts/whisper)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "q5uHsoqtKftx74K9milCBxxdmYU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

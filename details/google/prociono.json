@@ -1,0 +1,58 @@
+{
+  "slug": "google/prociono",
+  "name": "prociono",
+  "description": "Prociono (pro-tsee-O-no) is an Esperanto word meaning either the star Procyon or the animal species known as the raccoon. It is a roman with blackletter elements. To learn more, see bitbucket.org/sortsmill/sortsmill-fonts and theleagueofmoveabletype.com/prociono",
+  "homepage": "https://fonts.google.com/specimen/Prociono",
+  "copyright": "Copyright (c) 2011, Barry Schwartz (chemoelectric@chemoelectric.org)\r\n",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Prociono",
+      "files": [
+        "https://fonts.gstatic.com/s/prociono/v28/r05YGLlR-KxAf9GGO8upyDYtStiJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/prociono/v28/r05YGLlR-KxAf9GGO8upyDYtStiJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Prociono",
+      "files": [
+        "https://fonts.gstatic.com/s/prociono/v28/r05YGLlR-KxAf9GGO8usyDYtStiJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/prociono/v28/r05YGLlR-KxAf9GGO8usyDYtStiJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Prociono",
+      "styles": [
+        {
+          "family_name": "Prociono",
+          "type": "Regular",
+          "full_name": "Prociono",
+          "post_script_name": "Prociono-Regular",
+          "version": "2.301 ",
+          "copyright": "Copyright (c) 2011, Barry Schwartz (chemoelectric@chemoelectric.org)\r\n",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "r05YGLlR-KxAf9GGO8upyDYtStiJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/ravi_prakash",
+  "name": "ravi_prakash",
+  "description": "Ravi Prakash is a Telugu display typeface, mainly suitable for headings, posters and decorative invitations. As a web font it should be used in very large pixel sizes, while in print the design may be used in a broader range of sizes, perhaps even as small as at 16pt. The Telugu is designed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Eduardo Tunni and originally published as Joti One . The Ravi Prakash project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/raviprakash",
+  "homepage": "https://fonts.google.com/specimen/Ravi+Prakash",
+  "copyright": "Copyright (c) 2011 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Joti'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ravi Prakash",
+      "files": [
+        "https://fonts.gstatic.com/s/raviprakash/v21/gokpH6fsDkVrF9Bv9X8SOAKHmNZEq6TTFw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/raviprakash/v21/gokpH6fsDkVrF9Bv9X8SOAKHmNZEq6TTFw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ravi Prakash",
+      "files": [
+        "https://fonts.gstatic.com/s/raviprakash/v21/gokpH6fsDkVrF9Bv9X8SOAKHndZEq6TTFw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/raviprakash/v21/gokpH6fsDkVrF9Bv9X8SOAKHndZEq6TTFw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ravi Prakash",
+      "styles": [
+        {
+          "family_name": "Ravi Prakash",
+          "type": "Regular",
+          "full_name": "Ravi Prakash",
+          "post_script_name": "RaviPrakash-Regular",
+          "version": "1.0.4; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2011 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Joti'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gokpH6fsDkVrF9Bv9X8SOAKHmNZEq6TTFw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

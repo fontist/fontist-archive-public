@@ -1,0 +1,125 @@
+{
+  "slug": "google/kaisei_tokumin",
+  "name": "kaisei_tokumin",
+  "description": "Kaisei Tokumin is a shorten word for Tokudai Mincho Kana, meaning \"Extra Bold Serif Kana,\" intended for the strong title usage. Extra bold typefaces sometimes become unbalanced when having heavier density in the glyph, and loses the breathe of words. Kaisei Tokumin is designed to keep the legibility and still have power as an extra bold typeface. To contribute to the project, visit https://github.com/FontKai-Kaisei/Kaisei",
+  "homepage": "https://fonts.google.com/specimen/Kaisei+Tokumin",
+  "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kaisei Tokumin",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8sN5wdZg7xCwuMsylww2ZiQkJf1l0pj946.ttf",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnqr_3khpMIzeI6v.ttf",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-XkhpMIzeI6v.ttf",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnr_-nkhpMIzeI6v.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8sN5wdZg7xCwuMsylww2ZiQkJf1l0pj946.ttf",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnqr_3khpMIzeI6v.ttf",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-XkhpMIzeI6v.ttf",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnr_-nkhpMIzeI6v.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kaisei Tokumin",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8sN5wdZg7xCwuMsylww2ZiQkJa1l0pj946.woff2",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnqr_3kkpMIzeI6v.woff2",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-XkkpMIzeI6v.woff2",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnr_-nkkpMIzeI6v.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8sN5wdZg7xCwuMsylww2ZiQkJa1l0pj946.woff2",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnqr_3kkpMIzeI6v.woff2",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnrj-XkkpMIzeI6v.woff2",
+        "https://fonts.gstatic.com/s/kaiseitokumin/v11/Gg8vN5wdZg7xCwuMsylww2ZiQnr_-nkkpMIzeI6v.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kaisei Tokumin",
+      "styles": [
+        {
+          "family_name": "Kaisei Tokumin",
+          "type": "Regular",
+          "full_name": "Kaisei Tokumin Regular",
+          "post_script_name": "KaiseiTokumin-Regular",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gg8sN5wdZg7xCwuMsylww2ZiQkJf1l0pj946.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kaisei Tokumin",
+          "type": "Bold",
+          "full_name": "Kaisei Tokumin Bold",
+          "post_script_name": "KaiseiTokumin-Bold",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gg8vN5wdZg7xCwuMsylww2ZiQnrj-XkhpMIzeI6v.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaisei Tokumin Medium",
+      "styles": [
+        {
+          "family_name": "Kaisei Tokumin Medium",
+          "type": "Regular",
+          "full_name": "Kaisei Tokumin Medium",
+          "post_script_name": "KaiseiTokumin-Medium",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gg8vN5wdZg7xCwuMsylww2ZiQnqr_3khpMIzeI6v.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaisei Tokumin ExtraBold",
+      "styles": [
+        {
+          "family_name": "Kaisei Tokumin ExtraBold",
+          "type": "Regular",
+          "full_name": "Kaisei Tokumin ExtraBold",
+          "post_script_name": "KaiseiTokumin-ExtraBold",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gg8vN5wdZg7xCwuMsylww2ZiQnr_-nkhpMIzeI6v.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

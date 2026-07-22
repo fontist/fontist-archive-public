@@ -1,0 +1,54 @@
+{
+  "slug": "sil/alkalami",
+  "name": "Alkalami",
+  "description": "Alkalami",
+  "homepage": "www.sil.org",
+  "copyright": "Copyright (c) SIL International, 2015-2020",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Alkalami.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/alkalami/Alkalami-1.200.zip",
+        "https://web.archive.org/web/20260505151302/https://software.sil.org/downloads/r/alkalami/Alkalami-1.200.zip"
+      ],
+      "sha256": "f294789b09d1aaaa56f70b198ab842b88803ae649ce3e4e74df8e9f1ac4662d5",
+      "file_size": 687065
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alkalami",
+      "styles": [
+        {
+          "family_name": "Alkalami",
+          "type": "Regular",
+          "full_name": "Alkalami",
+          "post_script_name": "Alkalami-Regular",
+          "version": "1.200",
+          "copyright": "Copyright (c) SIL International, 2015-2020",
+          "description": "Alkalami is a font for Arabic-based writing systems in the Kano region of Nigeria and in Niger.",
+          "font": "Alkalami-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Alkalami Light",
+      "styles": [
+        {
+          "family_name": "Alkalami Light",
+          "type": "Regular",
+          "full_name": "Alkalami Light",
+          "post_script_name": "AlkalamiLight-Regular",
+          "version": "1.200",
+          "copyright": "Copyright (c) SIL International, 2015-2020",
+          "description": "Alkalami is a font for Arabic-based writing systems in the Kano region of Nigeria and in Niger.",
+          "font": "Alkalami-Light.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

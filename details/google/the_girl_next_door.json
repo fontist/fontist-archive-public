@@ -1,0 +1,58 @@
+{
+  "slug": "google/the_girl_next_door",
+  "name": "the_girl_next_door",
+  "description": "'the girl next door' is based on the handwriting of a middle school geography teacher. From her personality to her handwriting, she is the typical girl next door - she puts you at ease in every situation and is perfectly comfortable and confident in who she is. Her handwriting reflects that and is readable, neat, and yet comfortable and welcoming.",
+  "homepage": "https://fonts.google.com/specimen/The+Girl+Next+Door",
+  "copyright": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "The Girl Next Door",
+      "files": [
+        "https://fonts.gstatic.com/s/thegirlnextdoor/v25/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/thegirlnextdoor/v25/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "The Girl Next Door",
+      "files": [
+        "https://fonts.gstatic.com/s/thegirlnextdoor/v25/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIUrt7w6bE2A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/thegirlnextdoor/v25/pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIUrt7w6bE2A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "The Girl Next Door",
+      "styles": [
+        {
+          "family_name": "The Girl Next Door",
+          "type": "Regular",
+          "full_name": "The Girl Next Door",
+          "post_script_name": "TheGirlNextDoor",
+          "version": "1.002 2010",
+          "copyright": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)",
+          "description": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pe0zMJCIMIsBjFxqYBIcZ6_OI5oFHCYIV7t7w6bE2A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

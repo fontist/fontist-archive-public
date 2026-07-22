@@ -1,0 +1,58 @@
+{
+  "slug": "google/over_the_rainbow",
+  "name": "over_the_rainbow",
+  "description": "This font always makes me smile. Something about the style of the handwriting just makes me feel happy. It is slightly connected but not a true script by any means &amp; will lend an upbeat feel to any project you use it on.",
+  "homepage": "https://fonts.google.com/specimen/Over+the+Rainbow",
+  "copyright": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Over the Rainbow",
+      "files": [
+        "https://fonts.gstatic.com/s/overtherainbow/v23/11haGoXG1k_HKhMLUWz7Mc7vvW5upvOm9NA2XG0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/overtherainbow/v23/11haGoXG1k_HKhMLUWz7Mc7vvW5upvOm9NA2XG0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Over the Rainbow",
+      "files": [
+        "https://fonts.gstatic.com/s/overtherainbow/v23/11haGoXG1k_HKhMLUWz7Mc7vvW5upvam9NA2XG0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/overtherainbow/v23/11haGoXG1k_HKhMLUWz7Mc7vvW5upvam9NA2XG0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Over the Rainbow",
+      "styles": [
+        {
+          "family_name": "Over the Rainbow",
+          "type": "Regular",
+          "full_name": "Over the Rainbow",
+          "post_script_name": "OvertheRainbow",
+          "version": "1.002 2010",
+          "copyright": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)",
+          "description": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "11haGoXG1k_HKhMLUWz7Mc7vvW5upvOm9NA2XG0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

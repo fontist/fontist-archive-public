@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_it_moderna",
+  "name": "playwrite_it_moderna",
+  "description": "Playwrite IT Moderna font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+IT+Moderna",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite IT Moderna",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wil8vLbffHtmMw.woff2",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F52ih8vLbffHtmMw.woff2",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5BCh8vLbffHtmMw.woff2",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wih8vLbffHtmMw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wil8vLbffHtmMw.woff2",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F52ih8vLbffHtmMw.woff2",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5BCh8vLbffHtmMw.woff2",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wih8vLbffHtmMw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite IT Moderna",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wil8ubbffHtmMw.ttf",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F52ih8ubbffHtmMw.ttf",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5BCh8ubbffHtmMw.ttf",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wih8ubbffHtmMw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wil8ubbffHtmMw.ttf",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F52ih8ubbffHtmMw.ttf",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5BCh8ubbffHtmMw.ttf",
+        "https://fonts.gstatic.com/s/playwriteitmoderna/v11/mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wih8ubbffHtmMw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite IT Moderna Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite IT Moderna Thin",
+          "type": "Regular",
+          "full_name": "Playwrite IT Moderna Thin",
+          "post_script_name": "PlaywriteITModerna-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wil8ubbffHtmMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite IT Moderna ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite IT Moderna ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite IT Moderna ExtraLight",
+          "post_script_name": "PlaywriteITModerna-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F52ih8ubbffHtmMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite IT Moderna Light",
+      "styles": [
+        {
+          "family_name": "Playwrite IT Moderna Light",
+          "type": "Regular",
+          "full_name": "Playwrite IT Moderna Light",
+          "post_script_name": "PlaywriteITModerna-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5BCh8ubbffHtmMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite IT Moderna",
+      "styles": [
+        {
+          "family_name": "Playwrite IT Moderna",
+          "type": "Regular",
+          "full_name": "Playwrite IT Moderna Regular",
+          "post_script_name": "PlaywriteITModerna-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "mFTbWaYCwKPK5cx6W8jy2kwDnSUe9q45vQQi5HMFnSdEx2F5Wih8ubbffHtmMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

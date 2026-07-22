@@ -1,0 +1,58 @@
+{
+  "slug": "google/jacques_francois_shadow",
+  "name": "jacques_francois_shadow",
+  "description": "Jacques Francois Shadow is an incised variant of the Jacques Francois font. Jacques Francois revives the c. 1760 Enschedé no. 811 type specimen by Jacques François Rosart (1714-1774), made for Enschedé Printing House. The concept was to create a contemporary webfont with an even typographic color while preserving the essential historic peculiarities and expanding the character set. Compared to the historic specimen the x-height is generously increased and contrast lowered. Jacques Francois Shadow is designed for large sizes and manually instructed for better screen performance starting from 24 ppem. This means that on Window machines it will work best from 18pt (at 96ppi) or 15pt (at 120ppi) and from 24pt on Mac (at 72ppi.) To contribute to the project contact Alexei Vanyashin .",
+  "homepage": "https://fonts.google.com/specimen/Jacques+Francois+Shadow",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Jacques Francois'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jacques Francois Shadow",
+      "files": [
+        "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v27/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_q8VsHuV5ULS.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v27/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_q8VsHuV5ULS.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jacques Francois Shadow",
+      "files": [
+        "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v27/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_q8QsHuV5ULS.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jacquesfrancoisshadow/v27/KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_q8QsHuV5ULS.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jacques Francois Shadow",
+      "styles": [
+        {
+          "family_name": "Jacques Francois Shadow",
+          "type": "Regular",
+          "full_name": "Jacques Francois Shadow",
+          "post_script_name": "JacquesFrancoisShadow-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Jacques Francois'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "KR1FBtOz8PKTMk-kqdkLVrvR0ECFrB6Pin-2_q8VsHuV5ULS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

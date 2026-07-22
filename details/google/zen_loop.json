@@ -1,0 +1,77 @@
+{
+  "slug": "google/zen_loop",
+  "name": "zen_loop",
+  "description": "Zen Loop Family is one of three Latin fonts designed by Yoshimichi Ohira, as part of Zen Fonts collection. Japanese kana characters contain many loops. Zen Loop and Zen Loop Italic incorporates this visual aspect into a Latin font. The font looks as though it was shaped out of a thin wire, and almost depicts the movements of a living organism. To contribute, see github.com/googlefonts/zen-loop",
+  "homepage": "https://fonts.google.com/specimen/Zen+Loop",
+  "copyright": "Copyright 2021 The Zen-Loop Project Authors (https://github.com/googlefonts/zen-loop)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zen Loop",
+      "files": [
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zen Loop",
+      "files": [
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GrssK16UsnJwHsEK92qwzX5vOG.woff2",
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GtssK16UsnJwHsEJ9xoQ314-OGJ0w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GrssK16UsnJwHsEK92qwzX5vOG.woff2",
+        "https://fonts.gstatic.com/s/zenloop/v11/h0GtssK16UsnJwHsEJ9xoQ314-OGJ0w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zen Loop",
+      "styles": [
+        {
+          "family_name": "Zen Loop",
+          "type": "Regular",
+          "full_name": "Zen Loop Regular",
+          "post_script_name": "ZenLoop-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Zen-Loop Project Authors (https://github.com/googlefonts/zen-loop)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "h0GrssK16UsnJwHsEK9zqwzX5vOG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zen Loop",
+          "type": "Italic",
+          "full_name": "Zen Loop Italic",
+          "post_script_name": "ZenLoop-Italic",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Zen-Loop Project Authors (https://github.com/googlefonts/zen-loop)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "h0GtssK16UsnJwHsEJ9xoQj14-OGJ0w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

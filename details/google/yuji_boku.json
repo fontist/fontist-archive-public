@@ -1,0 +1,58 @@
+{
+  "slug": "google/yuji_boku",
+  "name": "yuji_boku",
+  "description": "\"Yuji\" is a series of fonts digitizing handwriting by the calligrapher Yuji Kataoka. Yuji Boku is a new and joyful design. It has both simplicity and warmth. Fonts in the Yuji Family: Yuji Mai Yuji Syuku To contribute to the project, visit github.com/Kinutafontfactory/Yuji",
+  "homepage": "https://fonts.google.com/specimen/Yuji+Boku",
+  "copyright": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yuji Boku",
+      "files": [
+        "https://fonts.gstatic.com/s/yujiboku/v8/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yujiboku/v8/P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yuji Boku",
+      "files": [
+        "https://fonts.gstatic.com/s/yujiboku/v8/P5sAzZybeNzXsA9xj1FkiL2r2dgvJA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yujiboku/v8/P5sAzZybeNzXsA9xj1FkiL2r2dgvJA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yuji Boku",
+      "styles": [
+        {
+          "family_name": "Yuji Boku",
+          "type": "Regular",
+          "full_name": "Yuji Boku Regular",
+          "post_script_name": "YujiBoku-Regular",
+          "version": "3.002",
+          "copyright": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sAzZybeNzXsA9xj1Fkjb2r2dgvJA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

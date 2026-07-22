@@ -1,0 +1,77 @@
+{
+  "slug": "google/bevan",
+  "name": "bevan",
+  "description": "Bevan is a reworking of a traditional slab serif display typeface created by Heinrich Jost in the 1930s. In Bevan, Jost's earlier letter forms have been digitised and then reshaped for use as a webfont, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers. Upgrade December 2021: an Italic style was added during the Summer of Type Program 2016, thanks to the contribution of Kalapi Gajjar-Bordawekar and Jacques Le Bailly. To contribute, see github.com/googlefonts/BevanFont .",
+  "homepage": "https://fonts.google.com/specimen/Bevan",
+  "copyright": "Copyright 2016 The Bevan Project Authors (https://github.com/googlefonts/BevanFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bevan",
+      "files": [
+        "https://fonts.gstatic.com/s/bevan/v26/4iCj6KZ0a9NXjF8aUir7tlSJ.ttf",
+        "https://fonts.gstatic.com/s/bevan/v26/4iCt6KZ0a9NXjG8YWC7Zs0SJD4U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bevan/v26/4iCj6KZ0a9NXjF8aUir7tlSJ.ttf",
+        "https://fonts.gstatic.com/s/bevan/v26/4iCt6KZ0a9NXjG8YWC7Zs0SJD4U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bevan",
+      "files": [
+        "https://fonts.gstatic.com/s/bevan/v26/4iCj6KZ0a9NXjF8fUir7tlSJ.woff2",
+        "https://fonts.gstatic.com/s/bevan/v26/4iCt6KZ0a9NXjG8YWCvZs0SJD4U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bevan/v26/4iCj6KZ0a9NXjF8fUir7tlSJ.woff2",
+        "https://fonts.gstatic.com/s/bevan/v26/4iCt6KZ0a9NXjG8YWCvZs0SJD4U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bevan",
+      "styles": [
+        {
+          "family_name": "Bevan",
+          "type": "Regular",
+          "full_name": "Bevan Regular",
+          "post_script_name": "Bevan-Regular",
+          "version": "2.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2016 The Bevan Project Authors (https://github.com/googlefonts/BevanFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iCj6KZ0a9NXjF8aUir7tlSJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bevan",
+          "type": "Italic",
+          "full_name": "Bevan Italic",
+          "post_script_name": "Bevan-Italic",
+          "version": "2.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2016 The Bevan Project Authors (https://github.com/googlefonts/BevanFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iCt6KZ0a9NXjG8YWC7Zs0SJD4U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

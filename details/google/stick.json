@@ -1,0 +1,58 @@
+{
+  "slug": "google/stick",
+  "name": "stick",
+  "description": "True to its name, Stick is designed with straight lines that create a cute and playful feel. The pastoral ambience also gives this font wide versatility for use in both paper mediums and digital content. To contribute to the project, visit github.com/fontworks-fonts/Stick",
+  "homepage": "https://fonts.google.com/specimen/Stick",
+  "copyright": "Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Stick",
+      "files": [
+        "https://fonts.gstatic.com/s/stick/v20/Qw3TZQpMCyTtJSvfvPVDMPoF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stick/v20/Qw3TZQpMCyTtJSvfvPVDMPoF.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Stick",
+      "files": [
+        "https://fonts.gstatic.com/s/stick/v20/Qw3TZQpMCyTtJSvavPVDMPoF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stick/v20/Qw3TZQpMCyTtJSvavPVDMPoF.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Stick",
+      "styles": [
+        {
+          "family_name": "Stick",
+          "type": "Regular",
+          "full_name": "Stick Regular",
+          "post_script_name": "Stick-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Stick Project Authors (https://github.com/fontworks-fonts/Stick/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Qw3TZQpMCyTtJSvfvPVDMPoF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

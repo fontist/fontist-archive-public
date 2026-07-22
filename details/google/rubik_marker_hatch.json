@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_marker_hatch",
+  "name": "rubik_marker_hatch",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts ! To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Marker+Hatch",
+  "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Marker Hatch",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Marker Hatch",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQCb4iw0H6zw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikmarkerhatch/v1/QldTNSFQsh0B_bFXXWv6LAt-jswapJHQCb4iw0H6zw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Marker Hatch",
+      "styles": [
+        {
+          "family_name": "Rubik Marker Hatch",
+          "type": "Regular",
+          "full_name": "Rubik Marker Hatch Regular",
+          "post_script_name": "RubikMarkerHatch-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QldTNSFQsh0B_bFXXWv6LAt-jswapJHQDL4iw0H6zw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

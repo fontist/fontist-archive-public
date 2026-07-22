@@ -1,0 +1,58 @@
+{
+  "slug": "google/gruppo",
+  "name": "gruppo",
+  "description": "Gruppo was conceived as a display typeface for style conscious, laid-back branding where 'little is more', or, in Jasper Morrison's words, \"Special is generally less useful than normal\". The Mai 2023 update features a bigger glyphset and some minor aesthetic modifications. To contribute, see github.com/googlefonts/GruppoFont .",
+  "homepage": "https://fonts.google.com/specimen/Gruppo",
+  "copyright": "Copyright 2010 The Gruppo Project Authors (https://github.com/googlefonts/GruppoFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gruppo",
+      "files": [
+        "https://fonts.gstatic.com/s/gruppo/v23/WwkfxPmzE06v_ZWFWXDAOIEQUQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gruppo/v23/WwkfxPmzE06v_ZWFWXDAOIEQUQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gruppo",
+      "files": [
+        "https://fonts.gstatic.com/s/gruppo/v23/WwkfxPmzE06v_ZWFXHDAOIEQUQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gruppo/v23/WwkfxPmzE06v_ZWFXHDAOIEQUQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gruppo",
+      "styles": [
+        {
+          "family_name": "Gruppo",
+          "type": "Regular",
+          "full_name": "Gruppo Regular",
+          "post_script_name": "Gruppo-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.28]",
+          "copyright": "Copyright 2010 The Gruppo Project Authors (https://github.com/googlefonts/GruppoFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkfxPmzE06v_ZWFWXDAOIEQUQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

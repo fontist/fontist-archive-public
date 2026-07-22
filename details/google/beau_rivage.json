@@ -1,0 +1,58 @@
+{
+  "slug": "google/beau_rivage",
+  "name": "beau_rivage",
+  "description": "Beau Rivage is a classic calligraphic with strong contrast between thick and thin strokes. Perfect for invitations and posh events. Utilize the stylistic sets which contain ornamental caps and more flourished lower case forms. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/beau-rivage .",
+  "homepage": "https://fonts.google.com/specimen/Beau+Rivage",
+  "copyright": "Copyright 2004 The Beau Rivage Project Authors (https://github.com/googlefonts/beau-rivage)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Beau Rivage",
+      "files": [
+        "https://fonts.gstatic.com/s/beaurivage/v2/UcCi3FIgIG2bH4mMNWJUlmg3NZp8K2sL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/beaurivage/v2/UcCi3FIgIG2bH4mMNWJUlmg3NZp8K2sL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Beau Rivage",
+      "files": [
+        "https://fonts.gstatic.com/s/beaurivage/v2/UcCi3FIgIG2bH4mMNWJUlmgyNZp8K2sL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/beaurivage/v2/UcCi3FIgIG2bH4mMNWJUlmgyNZp8K2sL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Beau Rivage",
+      "styles": [
+        {
+          "family_name": "Beau Rivage",
+          "type": "Regular",
+          "full_name": "Beau Rivage Regular",
+          "post_script_name": "BeauRivage-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004 The Beau Rivage Project Authors (https://github.com/googlefonts/beau-rivage)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UcCi3FIgIG2bH4mMNWJUlmg3NZp8K2sL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

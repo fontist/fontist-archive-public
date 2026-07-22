@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_storm",
+  "name": "rubik_storm",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts ! To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Storm",
+  "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Storm",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL9T2Xh9NQk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL9T2Xh9NQk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Storm",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL4T2Xh9NQk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikstorm/v1/eLGYP-_uPgO5Ag7ju9JaouL4T2Xh9NQk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Storm",
+      "styles": [
+        {
+          "family_name": "Rubik Storm",
+          "type": "Regular",
+          "full_name": "Rubik Storm Regular",
+          "post_script_name": "RubikStorm-Regular",
+          "version": "2.201",
+          "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "eLGYP-_uPgO5Ag7ju9JaouL9T2Xh9NQk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

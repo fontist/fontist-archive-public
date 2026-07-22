@@ -1,0 +1,58 @@
+{
+  "slug": "google/story_script",
+  "name": "story_script",
+  "description": "Story Script font family",
+  "homepage": "https://fonts.google.com/specimen/Story+Script",
+  "copyright": "Copyright 2022 The Story Script Project Authors (https://github.com/lroulh/story-script)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Story Script",
+      "files": [
+        "https://fonts.gstatic.com/s/storyscript/v3/mem5YaSw02SQ0OlzDuR8Isk-VeJoCqeDjg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/storyscript/v3/mem5YaSw02SQ0OlzDuR8Isk-VeJoCqeDjg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Story Script",
+      "files": [
+        "https://fonts.gstatic.com/s/storyscript/v3/mem5YaSw02SQ0OlzDuR8Isk-UOJoCqeDjg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/storyscript/v3/mem5YaSw02SQ0OlzDuR8Isk-UOJoCqeDjg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Story Script",
+      "styles": [
+        {
+          "family_name": "Story Script",
+          "type": "Regular",
+          "full_name": "Story Script Regular",
+          "post_script_name": "StoryScript-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Story Script Project Authors (https://github.com/lroulh/story-script)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "mem5YaSw02SQ0OlzDuR8Isk-VeJoCqeDjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

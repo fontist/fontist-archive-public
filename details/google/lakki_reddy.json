@@ -1,0 +1,58 @@
+{
+  "slug": "google/lakki_reddy",
+  "name": "lakki_reddy",
+  "description": "Lakki Reddy is a Telugu display typeface, mainly suitable for headings, posters and decorative invitations. Use it anywhere you want to use a handwriting style to add informality and personality to your text. The Telugu is designed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Font Diner, a type foundry in the USA, and originally published as Irish Grover . The Lakki Reddy project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/lakkireddy",
+  "homepage": "https://fonts.google.com/specimen/Lakki+Reddy",
+  "copyright": "Copyright (c) 2011 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2010 by Font Diner, Inc DBA Sideshow.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lakki Reddy",
+      "files": [
+        "https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZQfox9k97-xZ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZQfox9k97-xZ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lakki Reddy",
+      "files": [
+        "https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZQftx9k97-xZ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lakkireddy/v25/S6u5w49MUSzD9jlCPmvLZQftx9k97-xZ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lakki Reddy",
+      "styles": [
+        {
+          "family_name": "Lakki Reddy",
+          "type": "Regular",
+          "full_name": "Lakki Reddy",
+          "post_script_name": "LakkiReddy",
+          "version": "1.0.4; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2011 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2010 by Font Diner, Inc DBA Sideshow.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "S6u5w49MUSzD9jlCPmvLZQfox9k97-xZ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

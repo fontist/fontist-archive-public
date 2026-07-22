@@ -1,0 +1,57 @@
+{
+  "slug": "google/sancreek",
+  "name": "sancreek",
+  "description": "Sancreek has been designed for use mostly as a caps-only display webfont, though lowercase characters have also been included. Sancreek is a contemporary take on some of the large wooden poster fonts of the ninteenth century. Sancreek can be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. The November 2023 update features a bigger glyphset and some minor aesthetic modifications. To contribute, see github.com/googlefonts/sancreek .",
+  "homepage": "https://fonts.google.com/specimen/Sancreek",
+  "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Sancreek\"",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sancreek",
+      "files": [
+        "https://fonts.gstatic.com/s/sancreek/v27/pxiHypAnsdxUm159X7D-XV9NEe-K.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sancreek/v27/pxiHypAnsdxUm159X7D-XV9NEe-K.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sancreek",
+      "files": [
+        "https://fonts.gstatic.com/s/sancreek/v27/pxiHypAnsdxUm159X7D7XV9NEe-K.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sancreek/v27/pxiHypAnsdxUm159X7D7XV9NEe-K.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sancreek",
+      "styles": [
+        {
+          "family_name": "Sancreek",
+          "type": "Regular",
+          "full_name": "Sancreek Regular",
+          "post_script_name": "Sancreek-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Sancreek\"",
+          "variable_font": false,
+          "font": "pxiHypAnsdxUm159X7D-XV9NEe-K.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

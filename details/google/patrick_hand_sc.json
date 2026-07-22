@@ -1,0 +1,58 @@
+{
+  "slug": "google/patrick_hand_sc",
+  "name": "patrick_hand_sc",
+  "description": "Patrick Hand is a font based on the designer's own handwriting. It is developed to bring an impressive and useful handwriting effect to your texts. This is the Small Caps sister family. It has all the basic latin characters as well as most of the latin extended ones. It also includes some fancy glyphs like heavy quotation marks and the floral heart! Ligatures, small caps and old style numbers are available as OpenType features in the download of the regular Patrick Hand family. Updated 2019-03: Updated to latest upstream release, fixing 'fi' ligature.",
+  "homepage": "https://fonts.google.com/specimen/Patrick+Hand+SC",
+  "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Patrick Hand SC",
+      "files": [
+        "https://fonts.gstatic.com/s/patrickhandsc/v17/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/patrickhandsc/v17/0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Patrick Hand SC",
+      "files": [
+        "https://fonts.gstatic.com/s/patrickhandsc/v17/0nkwC9f7MfsBiWcLtY65AWDK873VjCi6JQc7Vg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/patrickhandsc/v17/0nkwC9f7MfsBiWcLtY65AWDK873VjCi6JQc7Vg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Patrick Hand SC",
+      "styles": [
+        {
+          "family_name": "Patrick Hand SC",
+          "type": "Regular",
+          "full_name": "Patrick Hand SC",
+          "post_script_name": "PatrickHandSC-Regular",
+          "version": "1.003;PS 001.003;hotconv 1.0.70;makeotf.lib2.5.58329; ttfautohint (v0.94.20-1c74) -l 8 -r 50 -G 200 -x 14 -w \"gGD\" -c -f",
+          "copyright": "Copyright (c) 2012 Patrick Wagesreiter (mail@patrickwagesreiter.at)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0nkwC9f7MfsBiWcLtY65AWDK873ViSi6JQc7Vg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

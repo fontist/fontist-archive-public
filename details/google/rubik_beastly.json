@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_beastly",
+  "name": "rubik_beastly",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts !. To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Beastly",
+  "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Beastly",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Beastly",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X07n8_ApHqqk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikbeastly/v11/0QImMXRd5oOmSC2ZQ7o9653X07n8_ApHqqk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Beastly",
+      "styles": [
+        {
+          "family_name": "Rubik Beastly",
+          "type": "Regular",
+          "full_name": "Rubik Beastly Regular",
+          "post_script_name": "RubikBeastly-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0QImMXRd5oOmSC2ZQ7o9653X07z8_ApHqqk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

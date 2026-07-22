@@ -1,0 +1,77 @@
+{
+  "slug": "google/biz_udmincho",
+  "name": "biz_udmincho",
+  "description": "モリサワのBIZ UD明朝は、教育やビジネス文書作成などに活用できるよう、より多くの方にとって読みやすく使いやすいように設計されたユニバーサルデザインフォントです。格調高い明朝体の伝統を保ちながら、見やすさ、読みやすさを実現した書体です。一般的な明朝体は、横線が細くデザインされているため、視力が弱い方やディスプレイの表示などでは読みにくいことがあります。BIZ UD明朝は従来の明朝体よりも横線が太い明朝体をベースにしており、濁点や半濁点を大きく見やすいデザインに変更しているほか、字面やふところを大きくとりながらも文字のフォルムを崩さないデザインに調整しています。 BIZ UD Mincho is a universal design typeface designed to be easy to read and ideal for education and business documentation. It combines high quality in readability and legibility while carrying on the stately Japanese Mincho type tradition. BIZ UD Mincho bases its design on one of the typefaces from the Morisawa font library, which has thicker horizontal lines than the traditional Mincho type style. Because most Mincho types have thin horizontal strokes, the style can be difficult to read on some displays or signs and for people with low vision. For the universal design version, dakuten (゛) and handakuten (゜) voicing marks are designed to be more legible, and the letterforms are adjusted to maintain their balance while having a larger face and wider counters. UD Mincho includes full-width kana. UDPMincho includes proportional-wdith kana. To contribute to the project, visit github.com/googlefonts/morisawa-biz-ud-mincho To learn more, read Morisawa BIZ Universal Design (UD) Japaese fonts added to Google Fonts and Google Workspace .",
+  "homepage": "https://fonts.google.com/specimen/BIZ+UDMincho",
+  "copyright": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BIZ UDMincho",
+      "files": [
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJRRQgI6eOxFjBdKs38yhtW1dwT7rcpY8Q.ttf",
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJROQgI6eOxFjBdKs38yhtWNyyvfpeFE-IyCrw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJRRQgI6eOxFjBdKs38yhtW1dwT7rcpY8Q.ttf",
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJROQgI6eOxFjBdKs38yhtWNyyvfpeFE-IyCrw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BIZ UDMincho",
+      "files": [
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJRRQgI6eOxFjBdKs38yhtW1cgT7rcpY8Q.woff2",
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJROQgI6eOxFjBdKs38yhtWNyyvfoOFE-IyCrw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJRRQgI6eOxFjBdKs38yhtW1cgT7rcpY8Q.woff2",
+        "https://fonts.gstatic.com/s/bizudmincho/v11/EJROQgI6eOxFjBdKs38yhtWNyyvfoOFE-IyCrw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BIZ UDMincho",
+      "styles": [
+        {
+          "family_name": "BIZ UDMincho",
+          "type": "Regular",
+          "full_name": "BIZ UDMincho",
+          "post_script_name": "BIZUDMincho-Regular",
+          "version": "1.06",
+          "copyright": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EJRRQgI6eOxFjBdKs38yhtW1dwT7rcpY8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "BIZ UDMincho",
+          "type": "Bold",
+          "full_name": "BIZ UDMincho Bold",
+          "post_script_name": "BIZUDMincho-Bold",
+          "version": "1.06",
+          "copyright": "Copyright 2022 The BIZ UDMincho Project Authors (https://github.com/googlefonts/morisawa-biz-ud-mincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EJROQgI6eOxFjBdKs38yhtWNyyvfpeFE-IyCrw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

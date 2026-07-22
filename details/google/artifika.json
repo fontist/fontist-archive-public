@@ -1,0 +1,58 @@
+{
+  "slug": "google/artifika",
+  "name": "artifika",
+  "description": "Artifika is an amiable upright italic for fashionable display titling. Overall features are tender and crisp, descenders short. Settled curves are sculpted with calligraphic elegance, instrokes have a widening as a tribute to it's broad-nib origin. Nearly horizontal flat serifs support left-to-right direction, making the typeface pleasant for reading on screen. Designed by Yulya Zhdanova, Ivan Petrov in 2010-2011. To contribute, see github.com/cyrealtype/Artifika .",
+  "homepage": "https://fonts.google.com/specimen/Artifika",
+  "copyright": "Copyright 2010 The Artifika Project Authors (https://github.com/cyrealtype/Artifika)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Artifika",
+      "files": [
+        "https://fonts.gstatic.com/s/artifika/v22/VEMyRoxzronptCuxu6Wt5jDtreOL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/artifika/v22/VEMyRoxzronptCuxu6Wt5jDtreOL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Artifika",
+      "files": [
+        "https://fonts.gstatic.com/s/artifika/v22/VEMyRoxzronptCuxu6Wo5jDtreOL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/artifika/v22/VEMyRoxzronptCuxu6Wo5jDtreOL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Artifika",
+      "styles": [
+        {
+          "family_name": "Artifika",
+          "type": "Regular",
+          "full_name": "Artifika Regular",
+          "post_script_name": "Artifika-Regular",
+          "version": "1.102; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2010 The Artifika Project Authors (https://github.com/cyrealtype/Artifika)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VEMyRoxzronptCuxu6Wt5jDtreOL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

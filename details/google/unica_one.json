@@ -1,0 +1,58 @@
+{
+  "slug": "google/unica_one",
+  "name": "unica_one",
+  "description": "Unica One is a condensed unicase sans serif style. Good performance for composing headlines and short texts. Readbility and simplicity are some of the virtues of this unique typeface. Since Junuary 2023, the glyphset is completed and and the font has a bigger language support To contribute, see github.com/etunni/unica .",
+  "homepage": "https://fonts.google.com/specimen/Unica+One",
+  "copyright": "Copyright 2012 The Unica One Project Authors (https://github.com/etunni/unica)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Unica One",
+      "files": [
+        "https://fonts.gstatic.com/s/unicaone/v20/DPEuYwWHyAYGVTSmalshdtffuEY7FA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unicaone/v20/DPEuYwWHyAYGVTSmalshdtffuEY7FA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Unica One",
+      "files": [
+        "https://fonts.gstatic.com/s/unicaone/v20/DPEuYwWHyAYGVTSmalshc9ffuEY7FA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unicaone/v20/DPEuYwWHyAYGVTSmalshc9ffuEY7FA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Unica One",
+      "styles": [
+        {
+          "family_name": "Unica One",
+          "type": "Regular",
+          "full_name": "Unica One Regular",
+          "post_script_name": "UnicaOne-Regular",
+          "version": "2.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2012 The Unica One Project Authors (https://github.com/etunni/unica)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "DPEuYwWHyAYGVTSmalshdtffuEY7FA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

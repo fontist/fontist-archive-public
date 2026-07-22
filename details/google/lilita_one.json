@@ -1,0 +1,58 @@
+{
+  "slug": "google/lilita_one",
+  "name": "lilita_one",
+  "description": "Lilita One is a display typeface with a fat look, ideal for headlines and short texts. With a slightly condensed structure and some eye-catching details, it adds personal and soft looks to any page.",
+  "homepage": "https://fonts.google.com/specimen/Lilita+One",
+  "copyright": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Names \"Lilita One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lilita One",
+      "files": [
+        "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbUEZ2RFq7AwU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbUEZ2RFq7AwU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lilita One",
+      "files": [
+        "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbUEN2RFq7AwU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lilitaone/v17/i7dPIFZ9Zz-WBtRtedDbUEN2RFq7AwU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lilita One",
+      "styles": [
+        {
+          "family_name": "Lilita One",
+          "type": "Regular",
+          "full_name": "Lilita One",
+          "post_script_name": "LilitaOne",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Names \"Lilita One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dPIFZ9Zz-WBtRtedDbUEZ2RFq7AwU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

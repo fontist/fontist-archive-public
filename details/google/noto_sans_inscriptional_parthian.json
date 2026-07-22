@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_inscriptional_parthian",
+  "name": "noto_sans_inscriptional_parthian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Inscriptional Parthian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern Inscriptional Parthian script. It has 46 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Inscriptional+Parthian",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-parthian)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Inscriptional Parthian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v18/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v18/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Inscriptional Parthian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v18/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBM2jNkLlLr.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalparthian/v18/k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBM2jNkLlLr.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Inscriptional Parthian",
+      "styles": [
+        {
+          "family_name": "Noto Sans Inscriptional Parthian",
+          "type": "Regular",
+          "full_name": "Noto Sans Inscriptional Parthian Regular",
+          "post_script_name": "NotoSansInscriptionalParthian-Regular",
+          "version": "2.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-parthian)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "k3k7o-IMPvpLmixcA63oYi-yStDkgXuXncL7dzfW3P4TAJ2yklBJ2jNkLlLr.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

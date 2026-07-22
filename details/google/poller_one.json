@@ -1,0 +1,58 @@
+{
+  "slug": "google/poller_one",
+  "name": "poller_one",
+  "description": "Foundry: Sorkin Type Co Poller is a high contrast semi-extended style Sans Serif. Poller is both readable and full of personality. Because of the higher contrast it is best used from medium sizes to larger display settings. Poller was inspired by hand lettering on early 20th century German posters. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Poller+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Names \"Poller\" and \"Poller One\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Poller One",
+      "files": [
+        "https://fonts.gstatic.com/s/pollerone/v25/ahccv82n0TN3gia5E4Bud-lbgUS5u0s.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pollerone/v25/ahccv82n0TN3gia5E4Bud-lbgUS5u0s.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Poller One",
+      "files": [
+        "https://fonts.gstatic.com/s/pollerone/v25/ahccv82n0TN3gia5E4Bud-xbgUS5u0s.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pollerone/v25/ahccv82n0TN3gia5E4Bud-xbgUS5u0s.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Poller One",
+      "styles": [
+        {
+          "family_name": "Poller One",
+          "type": "Regular",
+          "full_name": "Poller One",
+          "post_script_name": "PollerOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Names \"Poller\" and \"Poller One\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "ahccv82n0TN3gia5E4Bud-lbgUS5u0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

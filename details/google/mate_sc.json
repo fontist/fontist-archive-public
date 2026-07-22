@@ -1,0 +1,58 @@
+{
+  "slug": "google/mate_sc",
+  "name": "mate_sc",
+  "description": "Simple in its structure; sharp and generous counter-shapes which create a medium texture that calls for good page color, in addition to offering a more relaxed reading experience for each line of text: Mate. The italics that accompany the regular style show their quality in the shading of strokes, in the counters and the unusual shapes for this style as well as the calligraphic reminiscences that give this style a different and pleasant visual rhythm. This is the Small Caps (SC) style, featuring traditional proportions, completes this initial release with its medium height numbers in all styles. The primary use for the family is in text, yet due to the constructive details of letterforms, this family can be used in larger sizes for display typography. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/mate .",
+  "homepage": "https://fonts.google.com/specimen/Mate+SC",
+  "copyright": "Copyright 2011 The Mate Project Authors (https://github.com/etunni/mate) with Reserved Font Name \"Mate\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mate SC",
+      "files": [
+        "https://fonts.gstatic.com/s/matesc/v23/-nF8OGQ1-uoVr2wKyiXZ95OkJwA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/matesc/v23/-nF8OGQ1-uoVr2wKyiXZ95OkJwA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mate SC",
+      "files": [
+        "https://fonts.gstatic.com/s/matesc/v23/-nF8OGQ1-uoVr2wKyiDZ95OkJwA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/matesc/v23/-nF8OGQ1-uoVr2wKyiDZ95OkJwA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mate SC",
+      "styles": [
+        {
+          "family_name": "Mate SC",
+          "type": "Regular",
+          "full_name": "Mate SC Regular",
+          "post_script_name": "MateSC-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.24]",
+          "copyright": "Copyright 2011 The Mate Project Authors (https://github.com/etunni/mate) with Reserved Font Name \"Mate\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-nF8OGQ1-uoVr2wKyiXZ95OkJwA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

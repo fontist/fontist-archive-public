@@ -1,0 +1,125 @@
+{
+  "slug": "google/cabin_condensed",
+  "name": "cabin_condensed",
+  "description": "This is the condensed set of styles of the Cabin font family . The compete family is available as a variable font, with a Weight range from Regular to Bold, and a Width range from Normal to Condensed.",
+  "homepage": "https://fonts.google.com/specimen/Cabin+Condensed",
+  "copyright": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cabin Condensed",
+      "files": [
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpMtK6mNhBK2err_hqkYhHRqmwaYOjZ5HZl8Q.ttf",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwilMH97F15-K1oqQ.ttf",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwiuMb97F15-K1oqQ.ttf",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwi3Mf97F15-K1oqQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpMtK6mNhBK2err_hqkYhHRqmwaYOjZ5HZl8Q.ttf",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwilMH97F15-K1oqQ.ttf",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwiuMb97F15-K1oqQ.ttf",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwi3Mf97F15-K1oqQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cabin Condensed",
+      "files": [
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpMtK6mNhBK2err_hqkYhHRqmwaZejZ5HZl8Q.woff2",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwilMH96V15-K1oqQ.woff2",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwiuMb96V15-K1oqQ.woff2",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwi3Mf96V15-K1oqQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpMtK6mNhBK2err_hqkYhHRqmwaZejZ5HZl8Q.woff2",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwilMH96V15-K1oqQ.woff2",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwiuMb96V15-K1oqQ.woff2",
+        "https://fonts.gstatic.com/s/cabincondensed/v21/nwpJtK6mNhBK2err_hqkYhHRqmwi3Mf96V15-K1oqQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cabin Condensed",
+      "styles": [
+        {
+          "family_name": "Cabin Condensed",
+          "type": "Regular",
+          "full_name": "Cabin Condensed Regular",
+          "post_script_name": "CabinCondensed-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpMtK6mNhBK2err_hqkYhHRqmwaYOjZ5HZl8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cabin Condensed",
+          "type": "Bold",
+          "full_name": "Cabin Condensed Bold",
+          "post_script_name": "CabinCondensed-Bold",
+          "version": "2.200",
+          "copyright": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpJtK6mNhBK2err_hqkYhHRqmwi3Mf97F15-K1oqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cabin Condensed Medium",
+      "styles": [
+        {
+          "family_name": "Cabin Condensed Medium",
+          "type": "Regular",
+          "full_name": "Cabin Condensed Medium",
+          "post_script_name": "CabinCondensed-Medium",
+          "version": "2.200",
+          "copyright": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpJtK6mNhBK2err_hqkYhHRqmwilMH97F15-K1oqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cabin Condensed SemiBold",
+      "styles": [
+        {
+          "family_name": "Cabin Condensed SemiBold",
+          "type": "Regular",
+          "full_name": "Cabin Condensed SemiBold",
+          "post_script_name": "CabinCondensed-SemiBold",
+          "version": "2.200",
+          "copyright": "Copyright 2016 The Cabin Project Authors (impallari@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpJtK6mNhBK2err_hqkYhHRqmwiuMb97F15-K1oqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

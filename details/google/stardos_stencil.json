@@ -1,0 +1,75 @@
+{
+  "slug": "google/stardos_stencil",
+  "name": "stardos_stencil",
+  "description": "Stardos is a stencilled serif font designed to be used a display-only webfont. Stardos Stencil has been designed to be used freely across the internet by web browsers on desktop computers, laptops, mobile devices, and Cloud systems. Stardos Stencil is a stencilled serif font designed to be used a display-only webfont. Stardos Stencil has been designed to be used freely across the internet by web browsers on desktop computers, laptops, mobile devices, and Cloud systems.",
+  "homepage": "https://fonts.google.com/specimen/Stardos+Stencil",
+  "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Stardos Stencil",
+      "files": [
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2TR71R3tiSx0g.ttf",
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tTvg-t29HSHw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2TR71R3tiSx0g.ttf",
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tTvg-t29HSHw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Stardos Stencil",
+      "files": [
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2TR6lR3tiSx0g.woff2",
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tTuw-t29HSHw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2TR6lR3tiSx0g.woff2",
+        "https://fonts.gstatic.com/s/stardosstencil/v15/X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tTuw-t29HSHw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Stardos Stencil",
+      "styles": [
+        {
+          "family_name": "Stardos Stencil",
+          "type": "Regular",
+          "full_name": "Stardos Stencil Regular",
+          "post_script_name": "StardosStencil-Regular",
+          "version": "1.001; ttfautohint (v1.8.2)",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "X7n94bcuGPC8hrvEOHXOgaKCc2TR71R3tiSx0g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Stardos Stencil",
+          "type": "Bold",
+          "full_name": "Stardos Stencil Bold",
+          "post_script_name": "StardosStencil-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "X7n44bcuGPC8hrvEOHXOgaKCc2TpU3tTvg-t29HSHw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

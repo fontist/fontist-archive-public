@@ -1,0 +1,58 @@
+{
+  "slug": "google/odibee_sans",
+  "name": "odibee_sans",
+  "description": "Odibee Sans is a display font project by London-based designer James Barnard. James set out to create his very own one day build (ODB) and completed the entire character set, numbers and the basic glyphs in 24 hours. To contribute, see github.com/barnard555/odibeesans .",
+  "homepage": "https://fonts.google.com/specimen/Odibee+Sans",
+  "copyright": "Copyright 2017 The Odibee Sans Project Authors (https://github.com/barnard555/odibeesans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Odibee Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/odibeesans/v20/neIPzCSooYAho6WvjeToRYkyepH9qGsf.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/odibeesans/v20/neIPzCSooYAho6WvjeToRYkyepH9qGsf.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Odibee Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/odibeesans/v20/neIPzCSooYAho6WvjeToRYk3epH9qGsf.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/odibeesans/v20/neIPzCSooYAho6WvjeToRYk3epH9qGsf.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Odibee Sans",
+      "styles": [
+        {
+          "family_name": "Odibee Sans",
+          "type": "Regular",
+          "full_name": "Odibee Sans Regular",
+          "post_script_name": "OdibeeSans-Regular",
+          "version": "2.001; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Odibee Sans Project Authors (https://github.com/barnard555/odibeesans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neIPzCSooYAho6WvjeToRYkyepH9qGsf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

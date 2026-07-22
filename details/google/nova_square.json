@@ -1,0 +1,58 @@
+{
+  "slug": "google/nova_square",
+  "name": "nova_square",
+  "description": "I created the NovaCut font about 14-15 years ago for making inscriptions on stone. Initially the font contained only capitals and digits and existed only on paper and stone inscriptions. In 2010 I decided transfer this font to a computer, and made the missing lowercase and some basical signs; it was initially named Gothica. By the way I made other versions of some letters. It was a lot of this at the end of my work. I decided create new fonts based on these letters. And finally I created six fonts family and named these fonts Nova (NovaCut, NovaFlat, NovaOval, NovaRound, NovaSlim, NovaSquare - by the shape of individual fonts). At last I created monospace font - NovaMono - the seventh part of this family.",
+  "homepage": "https://fonts.google.com/specimen/Nova+Square",
+  "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaSquare' and 'Nova Square'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nova Square",
+      "files": [
+        "https://fonts.gstatic.com/s/novasquare/v27/RrQUbo9-9DV7b06QHgSWsZhARYMgGtWA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/novasquare/v27/RrQUbo9-9DV7b06QHgSWsZhARYMgGtWA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nova Square",
+      "files": [
+        "https://fonts.gstatic.com/s/novasquare/v27/RrQUbo9-9DV7b06QHgSWsZhFRYMgGtWA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/novasquare/v27/RrQUbo9-9DV7b06QHgSWsZhFRYMgGtWA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nova Square",
+      "styles": [
+        {
+          "family_name": "Nova Square",
+          "type": "Book",
+          "full_name": "Nova Square",
+          "post_script_name": "NovaSquare",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaSquare' and 'Nova Square'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaSquare' and 'Nova Square'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "RrQUbo9-9DV7b06QHgSWsZhARYMgGtWA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

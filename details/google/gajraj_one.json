@@ -1,0 +1,58 @@
+{
+  "slug": "google/gajraj_one",
+  "name": "gajraj_one",
+  "description": "Gajraj (the king of elephants) is a Latin display typeface with Devanagari language support, designed for use in large hoardings, signage, and print materials for branding and advertising. It is a single variant display typeface, created as the designer's first attempt at designing in the Devanagari script. To contribute, see github.com/xconsau/GajrajOne .",
+  "homepage": "https://fonts.google.com/specimen/Gajraj+One",
+  "copyright": "Copyright 2022 The GajrajOne Project Authors (https://github.com/xconsau/gajrajone)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gajraj One",
+      "files": [
+        "https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjr1GqhcitzeM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjr1GqhcitzeM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gajraj One",
+      "files": [
+        "https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjr1SqhcitzeM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gajrajone/v7/1cX2aUDCDpXsuWVb1jIjr1SqhcitzeM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gajraj One",
+      "styles": [
+        {
+          "family_name": "Gajraj One",
+          "type": "Regular",
+          "full_name": "Gajraj One Regular",
+          "post_script_name": "GajrajOne-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The GajrajOne Project Authors (https://github.com/xconsau/gajrajone)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1cX2aUDCDpXsuWVb1jIjr1GqhcitzeM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

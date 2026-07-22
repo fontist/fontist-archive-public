@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_mx",
+  "name": "playwrite_mx",
+  "description": "Playwrite MX font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+MX",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite MX",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xMfXDWXDu8.woff2",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xMfXDWXDu8.woff2",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xMfXDWXDu8.woff2",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xMfXDWXDu8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xMfXDWXDu8.woff2",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xMfXDWXDu8.woff2",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xMfXDWXDu8.woff2",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xMfXDWXDu8.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite MX",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xYfXDWXDu8.ttf",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xYfXDWXDu8.ttf",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xYfXDWXDu8.ttf",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xYfXDWXDu8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xYfXDWXDu8.ttf",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xYfXDWXDu8.ttf",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xYfXDWXDu8.ttf",
+        "https://fonts.gstatic.com/s/playwritemx/v13/6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xYfXDWXDu8.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite MX Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite MX Thin",
+          "type": "Regular",
+          "full_name": "Playwrite MX Thin",
+          "post_script_name": "PlaywriteMX-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnc5xYfXDWXDu8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite MX ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite MX ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite MX ExtraLight",
+          "post_script_name": "PlaywriteMX-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr94nd5xYfXDWXDu8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite MX Light",
+      "styles": [
+        {
+          "family_name": "Playwrite MX Light",
+          "type": "Regular",
+          "full_name": "Playwrite MX Light",
+          "post_script_name": "PlaywriteMX-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr91fd5xYfXDWXDu8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite MX",
+      "styles": [
+        {
+          "family_name": "Playwrite MX",
+          "type": "Regular",
+          "full_name": "Playwrite MX Regular",
+          "post_script_name": "PlaywriteMX-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6xK9dSNbKtCe7KfhXg7RYSwyQ-oO7xNblyJr9wnd5xYfXDWXDu8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

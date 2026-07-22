@@ -1,0 +1,58 @@
+{
+  "slug": "google/borel",
+  "name": "borel",
+  "description": "Borel font family",
+  "homepage": "https://fonts.google.com/specimen/Borel",
+  "copyright": "Copyright 2023 The Borel Project Authors (https://github.com/RosaWagner/Borel)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Borel",
+      "files": [
+        "https://fonts.gstatic.com/s/borel/v10/6qLOKZsftAPisgshYyMnOjwE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/borel/v10/6qLOKZsftAPisgshYyMnOjwE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Borel",
+      "files": [
+        "https://fonts.gstatic.com/s/borel/v10/6qLOKZsftAPisgskYyMnOjwE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/borel/v10/6qLOKZsftAPisgskYyMnOjwE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Borel",
+      "styles": [
+        {
+          "family_name": "Borel",
+          "type": "Regular",
+          "full_name": "Borel Regular",
+          "post_script_name": "Borel-Regular",
+          "version": "1.008; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Borel Project Authors (https://github.com/RosaWagner/Borel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "6qLOKZsftAPisgshYyMnOjwE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

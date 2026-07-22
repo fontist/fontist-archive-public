@@ -1,0 +1,179 @@
+{
+  "slug": "google/cinzel",
+  "name": "cinzel",
+  "description": "Cinzel is a typeface inspired in first century roman inscriptions, and based on classical proportions. However it’s not a simple revivalism, while it conveys all the ancient history of the latin alphabet it also merges a contemporary feel onto it. To contribute, see github.com/NDISCOVER/Cinzel .",
+  "homepage": "https://fonts.google.com/specimen/Cinzel",
+  "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Cinzel",
+      "files": [
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTY_vDE5ZdqU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTY_vDE5ZdqU.woff2",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTY_vDE5ZdqU.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Cinzel",
+      "files": [
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTYrvDE5ZdqU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTYrvDE5ZdqU.ttf",
+        "https://fonts.gstatic.com/s/cinzel/v26/8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTYrvDE5ZdqU.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cinzel",
+      "styles": [
+        {
+          "family_name": "Cinzel",
+          "type": "Regular",
+          "full_name": "Cinzel Regular",
+          "post_script_name": "Cinzel-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnTYrvDE5ZdqU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cinzel",
+          "type": "Bold",
+          "full_name": "Cinzel Bold",
+          "post_script_name": "Cinzel-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIU7ww63mVu7gtR-kwKxNvkNOjw-jHgTYrvDE5ZdqU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cinzel Medium",
+      "styles": [
+        {
+          "family_name": "Cinzel Medium",
+          "type": "Regular",
+          "full_name": "Cinzel Medium",
+          "post_script_name": "Cinzel-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIU7ww63mVu7gtR-kwKxNvkNOjw-uTnTYrvDE5ZdqU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cinzel SemiBold",
+      "styles": [
+        {
+          "family_name": "Cinzel SemiBold",
+          "type": "Regular",
+          "full_name": "Cinzel SemiBold",
+          "post_script_name": "Cinzel-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIU7ww63mVu7gtR-kwKxNvkNOjw-gjgTYrvDE5ZdqU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cinzel ExtraBold",
+      "styles": [
+        {
+          "family_name": "Cinzel ExtraBold",
+          "type": "Regular",
+          "full_name": "Cinzel ExtraBold",
+          "post_script_name": "Cinzel-ExtraBold",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIU7ww63mVu7gtR-kwKxNvkNOjw-lbgTYrvDE5ZdqU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cinzel Black",
+      "styles": [
+        {
+          "family_name": "Cinzel Black",
+          "type": "Regular",
+          "full_name": "Cinzel Black",
+          "post_script_name": "Cinzel-Black",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Cinzel Project Authors (https://github.com/NDISCOVER/Cinzel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIU7ww63mVu7gtR-kwKxNvkNOjw-n_gTYrvDE5ZdqU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/blaka",
+  "name": "blaka",
+  "description": "Blaka is an experimental typeface, enriching the gothic feeling of Black Letters by enhancing the geometric features to create midgrounds with the Kufic style for the Arabic letterforms. The aesthetical matching process between the two scripts relies on the features of being hand-drawn with a reed pen. While Latin letterforms maintain sharp edges, Arabic relies on sharp edges and thick strokes to create overlaps to replace a usual baseline in most letterforms, giving the Arabic letterforms contemporary features. The font family comes in two styles, Blaka and Blaka Hollow, featuring an outlined version of the font. Blaka also comes in two variants, the usual monochrome variants as well as an Ink variant Blaka Ink . The Ink variant are color fonts where the colors are defined by the font itself. Support for color fonts is currently limited to few applications like Google Chrome (version 98 or later). To contribute, see github.com/Gue3bara/Blaka .",
+  "homepage": "https://fonts.google.com/specimen/Blaka",
+  "copyright": "Copyright 2019 The Blaka Project Authors (https://github.com/Gue3bara/Blaka)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Blaka",
+      "files": [
+        "https://fonts.gstatic.com/s/blaka/v8/8vIG7w8722p_6kdr20D2FV5e.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blaka/v8/8vIG7w8722p_6kdr20D2FV5e.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Blaka",
+      "files": [
+        "https://fonts.gstatic.com/s/blaka/v8/8vIG7w8722p_6kdu20D2FV5e.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blaka/v8/8vIG7w8722p_6kdu20D2FV5e.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Blaka",
+      "styles": [
+        {
+          "family_name": "Blaka",
+          "type": "Regular",
+          "full_name": "Blaka Regular",
+          "post_script_name": "Blaka-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2019 The Blaka Project Authors (https://github.com/Gue3bara/Blaka)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "8vIG7w8722p_6kdr20D2FV5e.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

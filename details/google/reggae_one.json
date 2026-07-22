@@ -1,0 +1,58 @@
+{
+  "slug": "google/reggae_one",
+  "name": "reggae_one",
+  "description": "Reggae is a very popular display font often used in Japanese boys' magazines and digital content. The sharpened ends give off a dynamic pulse, making this font ideal to express rhythm, movement and energy, or for emphasis. To contribute to the project, visit github.com/fontworks-fonts/Reggae",
+  "homepage": "https://fonts.google.com/specimen/Reggae+One",
+  "copyright": "Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Reggae One",
+      "files": [
+        "https://fonts.gstatic.com/s/reggaeone/v19/7r3DqX5msMIkeuwJwOJt_a5L5uH-mts.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/reggaeone/v19/7r3DqX5msMIkeuwJwOJt_a5L5uH-mts.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Reggae One",
+      "files": [
+        "https://fonts.gstatic.com/s/reggaeone/v19/7r3DqX5msMIkeuwJwOJt_atL5uH-mts.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/reggaeone/v19/7r3DqX5msMIkeuwJwOJt_atL5uH-mts.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Reggae One",
+      "styles": [
+        {
+          "family_name": "Reggae One",
+          "type": "Regular",
+          "full_name": "Reggae One Regular",
+          "post_script_name": "ReggaeOne-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Reggae Project Authors (https://github.com/fontworks-fonts/Reggae/), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "7r3DqX5msMIkeuwJwOJt_a5L5uH-mts.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

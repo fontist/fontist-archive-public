@@ -1,0 +1,58 @@
+{
+  "slug": "google/bungee_outline",
+  "name": "bungee_outline",
+  "description": "Bungee Outline font family",
+  "homepage": "https://fonts.google.com/specimen/Bungee+Outline",
+  "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bungee Outline",
+      "files": [
+        "https://fonts.gstatic.com/s/bungeeoutline/v24/_6_mEDvmVP24UvU2MyiGDslL3Qg3YhJqPXxo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungeeoutline/v24/_6_mEDvmVP24UvU2MyiGDslL3Qg3YhJqPXxo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bungee Outline",
+      "files": [
+        "https://fonts.gstatic.com/s/bungeeoutline/v24/_6_mEDvmVP24UvU2MyiGDslL3QgyYhJqPXxo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungeeoutline/v24/_6_mEDvmVP24UvU2MyiGDslL3QgyYhJqPXxo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bungee Outline",
+      "styles": [
+        {
+          "family_name": "Bungee Outline",
+          "type": "Regular",
+          "full_name": "Bungee Outline Regular",
+          "post_script_name": "BungeeOutline-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "_6_mEDvmVP24UvU2MyiGDslL3Qg3YhJqPXxo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

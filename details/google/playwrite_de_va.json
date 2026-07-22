@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_de_va",
+  "name": "playwrite_de_va",
+  "description": "Playwrite DE VA font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DE+VA",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite DE VA",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv2sjGyvutu4.woff2",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv2sjGyvutu4.woff2",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv2sjGyvutu4.woff2",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv2sjGyvutu4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv2sjGyvutu4.woff2",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv2sjGyvutu4.woff2",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv2sjGyvutu4.woff2",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv2sjGyvutu4.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite DE VA",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv24jGyvutu4.ttf",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv24jGyvutu4.ttf",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv24jGyvutu4.ttf",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv24jGyvutu4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv24jGyvutu4.ttf",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv24jGyvutu4.ttf",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv24jGyvutu4.ttf",
+        "https://fonts.gstatic.com/s/playwritedeva/v11/VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv24jGyvutu4.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DE VA Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite DE VA Thin",
+          "type": "Regular",
+          "full_name": "Playwrite DE VA Thin",
+          "post_script_name": "PlaywriteDEVA-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSyTv24jGyvutu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DE VA ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite DE VA ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite DE VA ExtraLight",
+          "post_script_name": "PlaywriteDEVA-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRaySv24jGyvutu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DE VA Light",
+      "styles": [
+        {
+          "family_name": "Playwrite DE VA Light",
+          "type": "Regular",
+          "full_name": "Playwrite DE VA Light",
+          "post_script_name": "PlaywriteDEVA-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRXKSv24jGyvutu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DE VA",
+      "styles": [
+        {
+          "family_name": "Playwrite DE VA",
+          "type": "Regular",
+          "full_name": "Playwrite DE VA Regular",
+          "post_script_name": "PlaywriteDEVA-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJmdNPb2p7tvoFGLMPdeMxGN1pntEMhdK1XfsTyRSySv24jGyvutu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/strait",
+  "name": "strait",
+  "description": "When the space available is small, Strait becomes very useful. A great quality condensed typeface that is suitable for both display and text usage, and with excellent reading performance at 12 point size. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/Strait .",
+  "homepage": "https://fonts.google.com/specimen/Strait",
+  "copyright": "Copyright 2012 The Strait Project Authors (https://github.com/etunni/strait), with Reserved Font Name 'Strait'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Strait",
+      "files": [
+        "https://fonts.gstatic.com/s/strait/v19/DtViJxy6WaEr1LZzeDhtkl0U7w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/strait/v19/DtViJxy6WaEr1LZzeDhtkl0U7w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Strait",
+      "files": [
+        "https://fonts.gstatic.com/s/strait/v19/DtViJxy6WaEr1LZzfThtkl0U7w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/strait/v19/DtViJxy6WaEr1LZzfThtkl0U7w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Strait",
+      "styles": [
+        {
+          "family_name": "Strait",
+          "type": "Regular",
+          "full_name": "Strait Regular",
+          "post_script_name": "Strait-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2012 The Strait Project Authors (https://github.com/etunni/strait), with Reserved Font Name 'Strait'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "DtViJxy6WaEr1LZzeDhtkl0U7w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/tenali_ramakrishna",
+  "name": "tenali_ramakrishna",
+  "description": "Tenali Ramakrishna is an Open Source typeface developed for use in news publications and is suitable for text, headings, posters, and invitations. The Telugu is designed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Wojciech Kalinowski and originally published as Classica . The Tenali Ramakrishna project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/tenaliramakrishna",
+  "homepage": "https://fonts.google.com/specimen/Tenali+Ramakrishna",
+  "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Wojciech Kalinowski (wmk69@o2.pl), with Reserved Font Names 'Classica'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tenali Ramakrishna",
+      "files": [
+        "https://fonts.gstatic.com/s/tenaliramakrishna/v14/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-8KJXqUFFvtA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tenaliramakrishna/v14/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-8KJXqUFFvtA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tenali Ramakrishna",
+      "files": [
+        "https://fonts.gstatic.com/s/tenaliramakrishna/v14/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-8LZXqUFFvtA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tenaliramakrishna/v14/raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-8LZXqUFFvtA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tenali Ramakrishna",
+      "styles": [
+        {
+          "family_name": "Tenali Ramakrishna",
+          "type": "Regular",
+          "full_name": "Tenali Ramakrishna",
+          "post_script_name": "TenaliRamakrishna",
+          "version": "1.0.5; ttfautohint (v1.2.25-373a) -l 7 -r 28 -G 50 -x 13 -D telu -f latn -w G -X \"\"",
+          "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Wojciech Kalinowski (wmk69@o2.pl), with Reserved Font Names 'Classica'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "raxgHj6Yt9gAN3LLKs0BZVMo8jmwn1-8KJXqUFFvtA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

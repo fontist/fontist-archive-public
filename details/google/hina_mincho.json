@@ -1,0 +1,58 @@
+{
+  "slug": "google/hina_mincho",
+  "name": "hina_mincho",
+  "description": "Hina Mincho is old-fashined and cute Japanese font. It includes Google Latin Plus, hiragana, katakana, JIS level 1 and 2 kanji glyphs. This font is licensed under the SIL Open Font License, Version 1.1. To contribute to the project, visit github.com/satsuyako/Hina-Mincho",
+  "homepage": "https://fonts.google.com/specimen/Hina+Mincho",
+  "copyright": "Copyright 2020 The Hina Mincho Project Authors (https://github.com/satsuyako/Hina-Mincho)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hina Mincho",
+      "files": [
+        "https://fonts.gstatic.com/s/hinamincho/v16/2sDaZGBRhpXa2Jjz5w5LAGW8KbkVZTHR.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hinamincho/v16/2sDaZGBRhpXa2Jjz5w5LAGW8KbkVZTHR.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hina Mincho",
+      "files": [
+        "https://fonts.gstatic.com/s/hinamincho/v16/2sDaZGBRhpXa2Jjz5w5LAGW5KbkVZTHR.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hinamincho/v16/2sDaZGBRhpXa2Jjz5w5LAGW5KbkVZTHR.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hina Mincho",
+      "styles": [
+        {
+          "family_name": "Hina Mincho",
+          "type": "Regular",
+          "full_name": "Hina Mincho Regular",
+          "post_script_name": "HinaMincho-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Hina Mincho Project Authors (https://github.com/satsuyako/Hina-Mincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2sDaZGBRhpXa2Jjz5w5LAGW8KbkVZTHR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

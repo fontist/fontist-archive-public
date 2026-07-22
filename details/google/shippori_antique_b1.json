@@ -1,0 +1,58 @@
+{
+  "slug": "google/shippori_antique_b1",
+  "name": "shippori_antique_b1",
+  "description": "Shippori Antique follows long-established standards for dialogue in manga and was created to provide people who draw manga in Japan a beautiful antique font for free. The Kana follow an antique, Ming Dynasty style design based on Shippori Mincho with thick lines. The Latin was designed in an old sans-serif style. Finally, the Kanji was created by modifying the SIL licensed Genseki Gothic. Shippori Antique B1 features rounded corners and ink pooling. Shippori Antique ( https://fonts.google.com/specimen/Shippori+Antique ) is the standard version of the font. To contribute to the project, visit github.com/fontdasu/ShipporiAntique",
+  "homepage": "https://fonts.google.com/specimen/Shippori+Antique+B1",
+  "copyright": "Copyright 2020 The Shippori Antique Project Authors (https://github.com/fontdasu/ShipporiAntique)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shippori Antique B1",
+      "files": [
+        "https://fonts.gstatic.com/s/shipporiantiqueb1/v11/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRFCj9-5Y8Y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shipporiantiqueb1/v11/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRFCj9-5Y8Y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shippori Antique B1",
+      "files": [
+        "https://fonts.gstatic.com/s/shipporiantiqueb1/v11/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRRCj9-5Y8Y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shipporiantiqueb1/v11/2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRRCj9-5Y8Y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shippori Antique B1",
+      "styles": [
+        {
+          "family_name": "Shippori Antique B1",
+          "type": "Regular",
+          "full_name": "Shippori Antique B1 Regular",
+          "post_script_name": "ShipporiAntiqueB1-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2020 The Shippori Antique Project Authors (https://github.com/fontdasu/ShipporiAntique)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2Eb7L_JwClR7Zl_UAKZ0mUHw3oMKd40grRFCj9-5Y8Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

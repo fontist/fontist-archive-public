@@ -1,0 +1,77 @@
+{
+  "slug": "google/karla_tamil_inclined",
+  "name": "karla_tamil_inclined",
+  "description": "Karla is a grotesque sans serif typeface family that supports languages that use the Latin script and the Tamil script. This is the Tamil script part of the family, with Inclined styles in two weights, Regular and Bold. The Latin part is available from the Karla specimen page. Karla Tamil does not currently work on iPhones and iPads, because iOS doesn't render OpenType Layout shaping, only AAT shaping. Mac OS X, Windows and GNU+Linux all render OpenType Layout shaping. These Tamil fonts do not have AAT shaping, so they won't render correctly, but the iOS system font does. To contribute to the project contact Jonathan Pinhorn .",
+  "homepage": "https://fonts.google.com/specimen/Karla+Tamil+Inclined",
+  "copyright": "Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Karla Tamil Inclined",
+      "files": [
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Karla Tamil Inclined",
+      "files": [
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf8Iy7YGkI1.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/karlatamilinclined/v2/vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf8Iy7YGkI1.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Karla Tamil Inclined",
+      "styles": [
+        {
+          "family_name": "Karla Tamil Inclined",
+          "type": "Regular",
+          "full_name": "Karla Tamil Inclined",
+          "post_script_name": "KarlaTamilInclined-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vm8pdQ3vXFXZ1aPd8dNzR82AFh2TibkaVrcbvZPxCDLR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla Tamil Inclined",
+          "type": "Bold",
+          "full_name": "Karla Tamil Inclined Bold",
+          "post_script_name": "KarlaTamilInclined-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vm8mdQ3vXFXZ1aPd8dNzR82AFh2TibkaVo-nkrf5Iy7YGkI1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

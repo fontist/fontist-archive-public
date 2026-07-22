@@ -1,0 +1,131 @@
+{
+  "slug": "google/domine",
+  "name": "domine",
+  "description": "From the very first steps in the design process, Domine was designed, tested and optimized for body text on the web. Harmless to the eyes when reading long texts, Domine is a perfect choice for newspapers or magazines websites, where text is the main focus. It shines at px sizes 14 and 16, and can even be used as small as 11 px. Friendly in appearance, it combines the classic elements of familiar typefaces that have been in use from more than 100 years like Clarendon , Century , Cheltenham and Clearface . The rounded letters (b, c, d, e, o, p, q) are a bit squarish on the inside. This feature opens up the counters for better rendering and also make it look a bit more up-to-date than the classic typefaces previously referenced. The serifs are a bit shorter than usual. Another feature that improves the rendering by allowing more \"air\" between each letter pair. The joins of the stems to the branches in letters like h, m, n are deep enough to prevent dark spots, also improving legibility at small sizes. The friendly lowercase 'a', with the curve starting from the bottom of the stem, is reminiscent of Cheltenham and Clearface. That soft curve is also echoed in the curves of the f, j, n, m and r. The spacing is also optimized for body text on the web, clearly more open than that of typefaces made for print or for headlines. To contribute, see github.com/googlefonts/Dominee .",
+  "homepage": "https://fonts.google.com/specimen/Domine",
+  "copyright": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Domine",
+      "files": [
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAI1gVErGuW8Q.woff2",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAI1gVErGuW8Q.woff2",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHI1gVErGuW8Q.woff2",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI1gVErGuW8Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAI1gVErGuW8Q.woff2",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAI1gVErGuW8Q.woff2",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHI1gVErGuW8Q.woff2",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI1gVErGuW8Q.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Domine",
+      "files": [
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAI10VErGuW8Q.ttf",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAI10VErGuW8Q.ttf",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHI10VErGuW8Q.ttf",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI10VErGuW8Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAI10VErGuW8Q.ttf",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAI10VErGuW8Q.ttf",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHI10VErGuW8Q.ttf",
+        "https://fonts.gstatic.com/s/domine/v25/L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI10VErGuW8Q.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Domine",
+      "styles": [
+        {
+          "family_name": "Domine",
+          "type": "Regular",
+          "full_name": "Domine Regular",
+          "post_script_name": "Domine-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X3LAI10VErGuW8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Domine",
+          "type": "Bold",
+          "full_name": "Domine Bold",
+          "post_script_name": "Domine-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X5XHI10VErGuW8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domine Medium",
+      "styles": [
+        {
+          "family_name": "Domine Medium",
+          "type": "Regular",
+          "full_name": "Domine Medium",
+          "post_script_name": "Domine-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X0DAI10VErGuW8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Domine SemiBold",
+      "styles": [
+        {
+          "family_name": "Domine SemiBold",
+          "type": "Regular",
+          "full_name": "Domine SemiBold",
+          "post_script_name": "Domine-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Domine Project Authors (https://github.com/googlefonts/domine)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xhDFMnlVwD4h3Lt9JWnbX3jG-2X6zHI10VErGuW8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/supermercado_one",
+  "name": "supermercado_one",
+  "description": "Foundry: Sorkin Type Co Supermercado One is a low contrast semi geometric typeface inspired by naive industrial letters. Supermercado One is not a typical mechanical sans because it incorporates unexpected swashes, especially in its capitals. Supermercado One is surprisingly versatile: it is certainly quite distinctive when set at larges sizes but it can also work at fairly small sizes and in blocks of text. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Supermercado+One",
+  "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Supermercado One",
+      "files": [
+        "https://fonts.gstatic.com/s/supermercadoone/v29/OpNXnpQWg8jc_xps_Gi14kVVEXOn60b3MClBRTs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/supermercadoone/v29/OpNXnpQWg8jc_xps_Gi14kVVEXOn60b3MClBRTs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Supermercado One",
+      "files": [
+        "https://fonts.gstatic.com/s/supermercadoone/v29/OpNXnpQWg8jc_xps_Gi14kVVEXOn60P3MClBRTs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/supermercadoone/v29/OpNXnpQWg8jc_xps_Gi14kVVEXOn60P3MClBRTs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Supermercado",
+      "styles": [
+        {
+          "family_name": "Supermercado",
+          "type": "Regular",
+          "full_name": "Supermercado Regular",
+          "post_script_name": "Supermercado-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Supermercado\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "OpNXnpQWg8jc_xps_Gi14kVVEXOn60b3MClBRTs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

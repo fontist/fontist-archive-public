@@ -1,0 +1,77 @@
+{
+  "slug": "google/stoke",
+  "name": "stoke",
+  "description": "Foundry: Sorkin Type Co Stoke is a semi-wide high contrast serifed text typeface. Stoke is inspired by letters found on 20th century UK posters showing an odd combination of seriousness of form and whimsical proportions and details. Stoke's low x height make it most suitable for use at medium to large sizes. Stoke is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. More specifically, this release supports the following Unicode ranges: Latin-1, Latin-2: Eastern Europe, Turkish, Macintosh Character Set. Stoke was updated in July 2012 with a slightly darker regular weight to allow ttfautohint to create high quality hinting for Windows. The optimization of the design for screen rendering involved changes to glyph sizes, letter spacing, and serif where bends were reduced to solve rendering problem in Windows XP. The character set was also expanded. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Stoke",
+  "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Stoke.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Stoke",
+      "files": [
+        "https://fonts.gstatic.com/s/stoke/v26/z7NXdRb7aTMfKNvFVgxC_pjcTeWU.ttf",
+        "https://fonts.gstatic.com/s/stoke/v26/z7NadRb7aTMfKONpfihK1YTV.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stoke/v26/z7NXdRb7aTMfKNvFVgxC_pjcTeWU.ttf",
+        "https://fonts.gstatic.com/s/stoke/v26/z7NadRb7aTMfKONpfihK1YTV.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Stoke",
+      "files": [
+        "https://fonts.gstatic.com/s/stoke/v26/z7NXdRb7aTMfKNvFVgxH_pjcTeWU.woff2",
+        "https://fonts.gstatic.com/s/stoke/v26/z7NadRb7aTMfKONsfihK1YTV.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stoke/v26/z7NXdRb7aTMfKNvFVgxH_pjcTeWU.woff2",
+        "https://fonts.gstatic.com/s/stoke/v26/z7NadRb7aTMfKONsfihK1YTV.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Stoke",
+      "styles": [
+        {
+          "family_name": "Stoke",
+          "type": "Light",
+          "full_name": "Stoke Light",
+          "post_script_name": "Stoke-Light",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Stoke.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "z7NXdRb7aTMfKNvFVgxC_pjcTeWU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Stoke",
+          "type": "Regular",
+          "full_name": "Stoke Regular",
+          "post_script_name": "Stoke-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011-2012 by Sorkin Type Co with Reserved Font Name Stoke.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "z7NadRb7aTMfKONpfihK1YTV.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

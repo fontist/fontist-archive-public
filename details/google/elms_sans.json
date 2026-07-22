@@ -1,0 +1,422 @@
+{
+  "slug": "google/elms_sans",
+  "name": "elms_sans",
+  "description": "Elms Sans font family",
+  "homepage": "https://fonts.google.com/specimen/Elms+Sans",
+  "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Elms Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3bJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3aJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpsPaJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3aJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpq_aJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpkPdJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpnrdJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3dJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpjTdJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzmx8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTm18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZkG18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzm18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZ_G18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZEGp8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZKWp8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTmp8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZZ2p8PZE_VNWoyQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3bJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3aJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpsPaJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3aJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpq_aJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpkPdJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpnrdJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3dJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpjTdJit2PLM6RNU.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzmx8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTm18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZkG18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzm18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZ_G18PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZEGp8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZKWp8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTmp8PZE_VNWoyQ.woff2",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZZ2p8PZE_VNWoyQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Elms Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3bJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3aJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpsPaJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3aJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpq_aJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpkPdJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpnrdJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3dJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpjTdJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzmx8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTm18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZkG18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzm18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZ_G18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZEGp8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZKWp8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTmp8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZZ2p8OJE_VNWoyQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3bJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3aJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpsPaJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3aJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpq_aJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpkPdJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpnrdJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3dJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpjTdJi52PLM6RNU.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzmx8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTm18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZkG18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzm18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZ_G18OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZEGp8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZKWp8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTmp8OJE_VNWoyQ.ttf",
+        "https://fonts.gstatic.com/s/elmssans/v7/q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZZ2p8OJE_VNWoyQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Elms Sans Thin",
+      "styles": [
+        {
+          "family_name": "Elms Sans Thin",
+          "type": "Regular",
+          "full_name": "Elms Sans Thin",
+          "post_script_name": "ElmsSans-Thin",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3bJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans Thin",
+          "type": "Italic",
+          "full_name": "Elms Sans Thin Italic",
+          "post_script_name": "ElmsSans-ThinItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzmx8OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Elms Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Elms Sans ExtraLight",
+          "post_script_name": "ElmsSans-ExtraLight",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3aJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Elms Sans ExtraLight Italic",
+          "post_script_name": "ElmsSans-ExtraLightItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTm18OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans Light",
+      "styles": [
+        {
+          "family_name": "Elms Sans Light",
+          "type": "Regular",
+          "full_name": "Elms Sans Light",
+          "post_script_name": "ElmsSans-Light",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpsPaJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans Light",
+          "type": "Italic",
+          "full_name": "Elms Sans Light Italic",
+          "post_script_name": "ElmsSans-LightItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZkG18OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans",
+      "styles": [
+        {
+          "family_name": "Elms Sans",
+          "type": "Regular",
+          "full_name": "Elms Sans Regular",
+          "post_script_name": "ElmsSans-Regular",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpp3aJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans",
+          "type": "Bold",
+          "full_name": "Elms Sans Bold",
+          "post_script_name": "ElmsSans-Bold",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpnrdJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans",
+          "type": "Italic",
+          "full_name": "Elms Sans Italic",
+          "post_script_name": "ElmsSans-Italic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZzm18OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans",
+          "type": "Bold Italic",
+          "full_name": "Elms Sans Bold Italic",
+          "post_script_name": "ElmsSans-BoldItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZKWp8OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans Medium",
+      "styles": [
+        {
+          "family_name": "Elms Sans Medium",
+          "type": "Regular",
+          "full_name": "Elms Sans Medium",
+          "post_script_name": "ElmsSans-Medium",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpq_aJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans Medium",
+          "type": "Italic",
+          "full_name": "Elms Sans Medium Italic",
+          "post_script_name": "ElmsSans-MediumItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZ_G18OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Elms Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Elms Sans SemiBold",
+          "post_script_name": "ElmsSans-SemiBold",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpkPdJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Elms Sans SemiBold Italic",
+          "post_script_name": "ElmsSans-SemiBoldItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZEGp8OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Elms Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Elms Sans ExtraBold",
+          "post_script_name": "ElmsSans-ExtraBold",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jph3dJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Elms Sans ExtraBold Italic",
+          "post_script_name": "ElmsSans-ExtraBoldItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZTmp8OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elms Sans Black",
+      "styles": [
+        {
+          "family_name": "Elms Sans Black",
+          "type": "Regular",
+          "full_name": "Elms Sans Black",
+          "post_script_name": "ElmsSans-Black",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uWsoS_Lf9xv7Su1FpSCByoURnrD9-jpjTdJi52PLM6RNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Elms Sans Black",
+          "type": "Italic",
+          "full_name": "Elms Sans Black Italic",
+          "post_script_name": "ElmsSans-BlackItalic",
+          "version": "1.061",
+          "copyright": "Copyright 2025 The Elms Sans Project Authors (https://github.com/mara-aa/elms-sans.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "q5uUsoS_Lf9xv7Su1Fp4AS5XiXCAlXGks1WZZ2p8OJE_VNWoyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

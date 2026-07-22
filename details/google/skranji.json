@@ -1,0 +1,77 @@
+{
+  "slug": "google/skranji",
+  "name": "skranji",
+  "description": "Like the call of Ricola being yodelled from the top of the Swiss Alps from a satisfied customer, Skranji soothes as it relieves all your design aches. Both primitive and exotic at the same time, Skranji evokes the thunder of Norse gods with the utility of a Swiss Army Knife! Designed by Dave 'Squid' Cohen of Neapolitan (a DBA of Font Diner, Inc.)",
+  "homepage": "https://fonts.google.com/specimen/Skranji",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Skranji\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Skranji",
+      "files": [
+        "https://fonts.gstatic.com/s/skranji/v14/OZpDg_dtriVFNerMYzuuklTm3Ek.ttf",
+        "https://fonts.gstatic.com/s/skranji/v14/OZpGg_dtriVFNerMW4eBtlzNwED-b4g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/skranji/v14/OZpDg_dtriVFNerMYzuuklTm3Ek.ttf",
+        "https://fonts.gstatic.com/s/skranji/v14/OZpGg_dtriVFNerMW4eBtlzNwED-b4g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Skranji",
+      "files": [
+        "https://fonts.gstatic.com/s/skranji/v14/OZpDg_dtriVFNerMYz6uklTm3Ek.woff2",
+        "https://fonts.gstatic.com/s/skranji/v14/OZpGg_dtriVFNerMW4eBtlnNwED-b4g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/skranji/v14/OZpDg_dtriVFNerMYz6uklTm3Ek.woff2",
+        "https://fonts.gstatic.com/s/skranji/v14/OZpGg_dtriVFNerMW4eBtlnNwED-b4g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Skranji",
+      "styles": [
+        {
+          "family_name": "Skranji",
+          "type": "Regular",
+          "full_name": "Skranji",
+          "post_script_name": "Skranji",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Skranji\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "OZpDg_dtriVFNerMYzuuklTm3Ek.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Skranji",
+          "type": "Bold",
+          "full_name": "Skranji Bold",
+          "post_script_name": "Skranji-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Skranji Bold\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "OZpGg_dtriVFNerMW4eBtlzNwED-b4g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

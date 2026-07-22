@@ -1,0 +1,251 @@
+{
+  "slug": "google/heebo",
+  "name": "heebo",
+  "description": "Heebo is a Hebrew and Latin typeface family, which extends Christian Roberton's Roboto Latin to Hebrew. The Hebrew was drawn by Oded Ezer and the font files were mastered by Meir Sadan. Since the Hebrew design of this family is primary, the vertical metrics are different to the original Roboto family. This family is auto-hinted, whereas Roboto is hand-hinted, so the rendering quality of Roboto may be better on older Windows machines. In May 2020, the family has been updated to a variable font family. The November 2023 update fixed some Hebrew bugs and improve the langage support. The Heebo project is led by Oded Ezer, a type designer based in Tel Aviv, Israel. To contribute, see github.com/OdedEzer/heebo",
+  "homepage": "https://fonts.google.com/specimen/Heebo",
+  "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Heebo",
+      "files": [
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2cd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyucd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Ebiucd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSucd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICucd0Onz02SXQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2cd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyycd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyucd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Ebiucd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSucd0Onz02SXQ.woff2",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICucd0Onz02SXQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Heebo",
+      "files": [
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2cckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyucckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiucckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSucckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICucckOnz02SXQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2cckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyycckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyucckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiucckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSucckOnz02SXQ.ttf",
+        "https://fonts.gstatic.com/s/heebo/v28/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICucckOnz02SXQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Heebo Thin",
+      "styles": [
+        {
+          "family_name": "Heebo Thin",
+          "type": "Regular",
+          "full_name": "Heebo Thin",
+          "post_script_name": "Heebo-Thin",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2cckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo ExtraLight",
+      "styles": [
+        {
+          "family_name": "Heebo ExtraLight",
+          "type": "Regular",
+          "full_name": "Heebo ExtraLight",
+          "post_script_name": "Heebo-ExtraLight",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSycckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo Light",
+      "styles": [
+        {
+          "family_name": "Heebo Light",
+          "type": "Regular",
+          "full_name": "Heebo Light",
+          "post_script_name": "Heebo-Light",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yycckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo",
+      "styles": [
+        {
+          "family_name": "Heebo",
+          "type": "Regular",
+          "full_name": "Heebo Regular",
+          "post_script_name": "Heebo-Regular",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSycckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Heebo",
+          "type": "Bold",
+          "full_name": "Heebo Bold",
+          "post_script_name": "Heebo-Bold",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiucckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo Medium",
+      "styles": [
+        {
+          "family_name": "Heebo Medium",
+          "type": "Regular",
+          "full_name": "Heebo Medium",
+          "post_script_name": "Heebo-Medium",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyycckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo SemiBold",
+      "styles": [
+        {
+          "family_name": "Heebo SemiBold",
+          "type": "Regular",
+          "full_name": "Heebo SemiBold",
+          "post_script_name": "Heebo-SemiBold",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyucckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo ExtraBold",
+      "styles": [
+        {
+          "family_name": "Heebo ExtraBold",
+          "type": "Regular",
+          "full_name": "Heebo ExtraBold",
+          "post_script_name": "Heebo-ExtraBold",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSucckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heebo Black",
+      "styles": [
+        {
+          "family_name": "Heebo Black",
+          "type": "Regular",
+          "full_name": "Heebo Black",
+          "post_script_name": "Heebo-Black",
+          "version": "3.100",
+          "copyright": "Copyright 2014 The Heebo Project Authors (https://github.com/OdedEzer/heebo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICucckOnz02SXQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

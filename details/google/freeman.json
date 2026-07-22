@@ -1,0 +1,58 @@
+{
+  "slug": "google/freeman",
+  "name": "freeman",
+  "description": "Freeman is a re-interpretation of the traditional display sans serif gothic typeface where some elements of the handwritten style are added to give a bit more personality to the design. In Freeman, the counters have opened up a little, and the stems are optimized for use as a bold display font in modern web browsers. Sloped stem terminals have been added to give the face added visual play. Freeman language support now includes African Latin and full coverage of Vietnamese, in addition to all Western, Central, and South-Eastern European languages. To contribute, see github.com/rfuenzalida/Freeman .",
+  "homepage": "https://fonts.google.com/specimen/Freeman",
+  "copyright": "Copyright 2023 The Freeman Project Authors (https://github.com/rfuenzalida/Freeman)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Freeman",
+      "files": [
+        "https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-ew-FGC_p9dw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-ew-FGC_p9dw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Freeman",
+      "files": [
+        "https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-ewqFGC_p9dw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/freeman/v1/S6u9w4NGQiLN8nh-ewqFGC_p9dw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Freeman",
+      "styles": [
+        {
+          "family_name": "Freeman",
+          "type": "Regular",
+          "full_name": "Freeman Regular",
+          "post_script_name": "Freeman-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Freeman Project Authors (https://github.com/rfuenzalida/Freeman)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "S6u9w4NGQiLN8nh-ew-FGC_p9dw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

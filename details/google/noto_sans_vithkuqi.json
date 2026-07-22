@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_vithkuqi",
+  "name": "noto_sans_vithkuqi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Vithkuqi is a design for the historical European Vithkuqi script. It has multiple weights, and has 103 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Vithkuqi",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Vithkuqi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKY7vmn0BLE.woff2",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKY7vmn0BLE.woff2",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKY7vmn0BLE.woff2",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKY7vmn0BLE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKY7vmn0BLE.woff2",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKY7vmn0BLE.woff2",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKY7vmn0BLE.woff2",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKY7vmn0BLE.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Vithkuqi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
+        "https://fonts.gstatic.com/s/notosansvithkuqi/v3/jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Vithkuqi",
+      "styles": [
+        {
+          "family_name": "Noto Sans Vithkuqi",
+          "type": "Regular",
+          "full_name": "Noto Sans Vithkuqi Regular",
+          "post_script_name": "NotoSansVithkuqi-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnva5SgKM7vmn0BLE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Vithkuqi",
+          "type": "Bold",
+          "full_name": "Noto Sans Vithkuqi Bold",
+          "post_script_name": "NotoSansVithkuqi-Bold",
+          "version": "1.001",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvUlVgKM7vmn0BLE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Vithkuqi Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Vithkuqi Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Vithkuqi Medium",
+          "post_script_name": "NotoSansVithkuqi-Medium",
+          "version": "1.001",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvZxSgKM7vmn0BLE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Vithkuqi SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Vithkuqi SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Vithkuqi SemiBold",
+          "post_script_name": "NotoSansVithkuqi-SemiBold",
+          "version": "1.001",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vithkuqi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyi7m77CXvQswd6WjYu9E1wN6cih2TSchUEkQgw3KTnvXBVgKM7vmn0BLE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

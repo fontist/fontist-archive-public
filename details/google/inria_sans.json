@@ -1,0 +1,158 @@
+{
+  "slug": "google/inria_sans",
+  "name": "inria_sans",
+  "description": "Inria Sans and Inria Serif are the two members of a type family design for the communication of Inria, a national institute dedicated to numeric research. The Institute needed a font showing its values at the crossroad of humanity, technology, excellence and creativity. Black[Foundry] created a humanist typeface with a unapologetically contemporary design as the Sans-Serif part and a more rational drawing for the Serif. Both members come in 3 weights with matching Italics. To contribute, see github.com/BlackFoundryCom/InriaFonts .",
+  "homepage": "https://fonts.google.com/specimen/Inria+Sans",
+  "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Inria Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3ELaDQtFqeY3fX4.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAgQlPrcQybX4pQA.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ5O7yKQNute8.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptROTiqXYfZMCOiVj9kQ1Oz4LSFrpe8uZA.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3FLdDQtFqeY3fX4.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PrcQybX4pQA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3ELaDQtFqeY3fX4.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAgQlPrcQybX4pQA.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ5O7yKQNute8.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptROTiqXYfZMCOiVj9kQ1Oz4LSFrpe8uZA.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3FLdDQtFqeY3fX4.ttf",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PrcQybX4pQA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Inria Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3ELaDQ5FqeY3fX4.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAgQlPqMQybX4pQA.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ5OvyKQNute8.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptROTiqXYfZMCOiVj9kQ1Oz4KCFrpe8uZA.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3FLdDQ5FqeY3fX4.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PqMQybX4pQA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3ELaDQ5FqeY3fX4.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAgQlPqMQybX4pQA.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRMTiqXYfZMCOiVj9kQ5OvyKQNute8.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptROTiqXYfZMCOiVj9kQ1Oz4KCFrpe8uZA.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRPTiqXYfZMCOiVj9kQ3FLdDQ5FqeY3fX4.woff2",
+        "https://fonts.gstatic.com/s/inriasans/v15/ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PqMQybX4pQA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inria Sans Light",
+      "styles": [
+        {
+          "family_name": "Inria Sans Light",
+          "type": "Regular",
+          "full_name": "Inria Sans Light",
+          "post_script_name": "InriaSans-Light",
+          "version": "1.2; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRPTiqXYfZMCOiVj9kQ3ELaDQtFqeY3fX4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inria Sans Light",
+          "type": "Italic",
+          "full_name": "Inria Sans Light Italic",
+          "post_script_name": "InriaSans-LightItalic",
+          "version": "1.2; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRRTiqXYfZMCOiVj9kQ1OzAgQlPrcQybX4pQA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inria Sans",
+      "styles": [
+        {
+          "family_name": "Inria Sans",
+          "type": "Regular",
+          "full_name": "Inria Sans Regular",
+          "post_script_name": "InriaSans-Regular",
+          "version": "1.2; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRMTiqXYfZMCOiVj9kQ5O7yKQNute8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inria Sans",
+          "type": "Italic",
+          "full_name": "Inria Sans Italic",
+          "post_script_name": "InriaSans-Italic",
+          "version": "1.2; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptROTiqXYfZMCOiVj9kQ1Oz4LSFrpe8uZA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inria Sans",
+          "type": "Bold",
+          "full_name": "Inria Sans Bold",
+          "post_script_name": "InriaSans-Bold",
+          "version": "1.2; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRPTiqXYfZMCOiVj9kQ3FLdDQtFqeY3fX4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inria Sans",
+          "type": "Bold Italic",
+          "full_name": "Inria Sans Bold Italic",
+          "post_script_name": "InriaSans-BoldItalic",
+          "version": "1.2; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Inria Sans Project Authors (https://github.com/BlackFoundryCom/InriaFonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRRTiqXYfZMCOiVj9kQ1OzAkQ5PrcQybX4pQA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

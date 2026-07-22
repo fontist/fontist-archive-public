@@ -1,0 +1,58 @@
+{
+  "slug": "google/ledger",
+  "name": "ledger",
+  "description": "The austere and concise personality and flexibility make it a real multiple-purpose typeface. The letter forms are distinguished by a large x-height, sufficient stroke contrast, robust but elegant wedge-like serifs and terminals. These features have been specially designed to reach maximum of quality and readability when used in unfavorable print and display processes - such as in newspapers, laser printed documents and on low resolution screens. The typeface can be qualified as matched to modern trends of type design and of enhanced legibility. These characteristics provide an undeniable distinction to the typeface, making it suitable for editorial use in newspapers and magazines, corporate ID, advertising and display typography.",
+  "homepage": "https://fonts.google.com/specimen/Ledger",
+  "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ledger",
+      "files": [
+        "https://fonts.gstatic.com/s/ledger/v17/j8_q6-HK1L3if_sxm8DwHTBhHw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ledger/v17/j8_q6-HK1L3if_sxm8DwHTBhHw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ledger",
+      "files": [
+        "https://fonts.gstatic.com/s/ledger/v17/j8_q6-HK1L3if_sxnsDwHTBhHw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ledger/v17/j8_q6-HK1L3if_sxnsDwHTBhHw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ledger",
+      "styles": [
+        {
+          "family_name": "Ledger",
+          "type": "Regular",
+          "full_name": "Ledger",
+          "post_script_name": "Ledger-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "j8_q6-HK1L3if_sxm8DwHTBhHw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

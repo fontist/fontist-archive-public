@@ -1,0 +1,58 @@
+{
+  "slug": "google/medula_one",
+  "name": "medula_one",
+  "description": "Medula One is a friendly rhythmic sans serif with brush-like end strokes. Economical and capable of straightforward display work, Medula One remixes the old and the new, the organic and the modern into a fresh and versatile condensed typeface.",
+  "homepage": "https://fonts.google.com/specimen/Medula+One",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Medula\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Medula One",
+      "files": [
+        "https://fonts.gstatic.com/s/medulaone/v20/YA9Wr0qb5kjJM6l2V0yukiEqs7GtlvY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/medulaone/v20/YA9Wr0qb5kjJM6l2V0yukiEqs7GtlvY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Medula One",
+      "files": [
+        "https://fonts.gstatic.com/s/medulaone/v20/YA9Wr0qb5kjJM6l2V0yukiQqs7GtlvY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/medulaone/v20/YA9Wr0qb5kjJM6l2V0yukiQqs7GtlvY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Medula One",
+      "styles": [
+        {
+          "family_name": "Medula One",
+          "type": "Regular",
+          "full_name": "Medula One",
+          "post_script_name": "MedulaOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Medula\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "YA9Wr0qb5kjJM6l2V0yukiEqs7GtlvY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/agbalumo",
+  "name": "agbalumo",
+  "description": "Curvy, chunky, and compact. The Agbalumo display typeface has been designed to represent and capture the beauty of African languages. Primarily taking shape from the use of a brush pen, its charming, playful, and cute look lends itself to a variety of commercial and cultural use cases. Agbalumo is a single weight multilingual font. The glyph set includes standard opentype features and an assortment of stylistic alternates. Agbalumo can be used for African languages that make use of the Latin script, the Ge'ez script, European languages, and Vietnamese. To contribute to the project, visit github.com/SorkinType/Agbalumo",
+  "homepage": "https://fonts.google.com/specimen/Agbalumo",
+  "copyright": "Copyright 2023 The Agbalumo Project Authors (https://github.com/SorkinType/Agbalumo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Agbalumo",
+      "files": [
+        "https://fonts.gstatic.com/s/agbalumo/v6/55xvey5uMdT2N37KZcMFirl08KDJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/agbalumo/v6/55xvey5uMdT2N37KZcMFirl08KDJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Agbalumo",
+      "files": [
+        "https://fonts.gstatic.com/s/agbalumo/v6/55xvey5uMdT2N37KZcMAirl08KDJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/agbalumo/v6/55xvey5uMdT2N37KZcMAirl08KDJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Agbalumo",
+      "styles": [
+        {
+          "family_name": "Agbalumo",
+          "type": "Regular",
+          "full_name": "Agbalumo Regular",
+          "post_script_name": "Agbalumo-Regular",
+          "version": "2.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Agbalumo Project Authors (https://github.com/SorkinType/Agbalumo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "55xvey5uMdT2N37KZcMFirl08KDJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

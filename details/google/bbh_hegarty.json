@@ -1,0 +1,58 @@
+{
+  "slug": "google/bbh_hegarty",
+  "name": "bbh_hegarty",
+  "description": "BBH Hegarty font family",
+  "homepage": "https://fonts.google.com/specimen/BBH+Hegarty",
+  "copyright": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BBH Hegarty",
+      "files": [
+        "https://fonts.gstatic.com/s/bbhhegarty/v1/yYLt0hbb_dvjg8talgb5vDHR-tdfcIT_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bbhhegarty/v1/yYLt0hbb_dvjg8talgb5vDHR-tdfcIT_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BBH Hegarty",
+      "files": [
+        "https://fonts.gstatic.com/s/bbhhegarty/v1/yYLt0hbb_dvjg8talgb5vDHU-tdfcIT_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bbhhegarty/v1/yYLt0hbb_dvjg8talgb5vDHU-tdfcIT_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BBH Hegarty",
+      "styles": [
+        {
+          "family_name": "BBH Hegarty",
+          "type": "Regular",
+          "full_name": "BBH Hegarty Regular",
+          "post_script_name": "BBHHegarty-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "yYLt0hbb_dvjg8talgb5vDHR-tdfcIT_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

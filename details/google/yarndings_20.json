@@ -1,0 +1,58 @@
+{
+  "slug": "google/yarndings_20",
+  "name": "yarndings_20",
+  "description": "The Soft Type Collection is designed for knitters to chart out their typographic projects. Yarndings is an ornamental typeface inspired by a mix of typographic ornamentation, traditional Fair Isle & Nordic knitting patterns, and dingbat fonts from the 1990's. Each typeface has a “Regular” and “Charted” version, and some include multiple scales so you can fit type on your knits, no matter the project's size. Check out the charted version Yarndings 20 Charted . In this collection, the number following the typeface's name indicates the height of the capital letters for that typeface. To contribute, see github.com/scfried/soft-type-yarndings .",
+  "homepage": "https://fonts.google.com/specimen/Yarndings+20",
+  "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-yarndings)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yarndings 20",
+      "files": [
+        "https://fonts.gstatic.com/s/yarndings20/v4/TuGWUVlkUohEQu8l7K8b-vNFB380PMTK1w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yarndings20/v4/TuGWUVlkUohEQu8l7K8b-vNFB380PMTK1w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yarndings 20",
+      "files": [
+        "https://fonts.gstatic.com/s/yarndings20/v4/TuGWUVlkUohEQu8l7K8b-vNFAn80PMTK1w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yarndings20/v4/TuGWUVlkUohEQu8l7K8b-vNFAn80PMTK1w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yarndings 20",
+      "styles": [
+        {
+          "family_name": "Yarndings 20",
+          "type": "Regular",
+          "full_name": "Yarndings 20 Regular",
+          "post_script_name": "Yarndings20-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-yarndings)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "TuGWUVlkUohEQu8l7K8b-vNFB380PMTK1w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

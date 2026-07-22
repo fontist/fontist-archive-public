@@ -1,0 +1,58 @@
+{
+  "slug": "google/carrois_gothic_sc",
+  "name": "carrois_gothic_sc",
+  "description": "Carrois Gothic is a well balanced and modern gothic type family. Clean and beautiful. What more do you need? This is the Small Caps sister family to the regular family , useful for all noble and significant applications. Learn more at carrois.com",
+  "homepage": "https://fonts.google.com/specimen/Carrois+Gothic+SC",
+  "copyright": "Copyright (c) 2011 by Ralph du Carrois, with Reserved Font Name 'Carrois'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Carrois Gothic SC",
+      "files": [
+        "https://fonts.gstatic.com/s/carroisgothicsc/v16/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-28nNHabY4dN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carroisgothicsc/v16/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-28nNHabY4dN.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Carrois Gothic SC",
+      "files": [
+        "https://fonts.gstatic.com/s/carroisgothicsc/v16/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-28iNHabY4dN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carroisgothicsc/v16/ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-28iNHabY4dN.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Carrois Gothic SC",
+      "styles": [
+        {
+          "family_name": "Carrois Gothic SC",
+          "type": "Regular",
+          "full_name": "Carrois Gothic SC Regular",
+          "post_script_name": "CarroisGothicSC-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by Ralph du Carrois, with Reserved Font Name 'Carrois'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZgNJjOVHM6jfUZCmyUqT2A2HVKjc-28nNHabY4dN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

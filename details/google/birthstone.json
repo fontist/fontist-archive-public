@@ -1,0 +1,58 @@
+{
+  "slug": "google/birthstone",
+  "name": "birthstone",
+  "description": "The Birthstone Family is a set of fonts that are not only diverse but perfectly compatible to interchange styles in a single block of text. There are 3 precious stylistic sets: Script, Casual, and Formal, plus a Titling set. For added luster, there is the sibling Birthstone Bounce (both Regular and Medium weights) a version that includes caps and ending swashed forms. All the styles are uniquely compatible to one another, but distinctly different. See how easily the fonts may change according to the needs of the look. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/birthstone .",
+  "homepage": "https://fonts.google.com/specimen/Birthstone",
+  "copyright": "Copyright 2019 The Birthstone Project Authors (https://github.com/googlefonts/birthstone)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Birthstone",
+      "files": [
+        "https://fonts.gstatic.com/s/birthstone/v16/8AtsGs2xO4yLRhy87sv_HLn5jRfZHzM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/birthstone/v16/8AtsGs2xO4yLRhy87sv_HLn5jRfZHzM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Birthstone",
+      "files": [
+        "https://fonts.gstatic.com/s/birthstone/v16/8AtsGs2xO4yLRhy87sv_HLz5jRfZHzM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/birthstone/v16/8AtsGs2xO4yLRhy87sv_HLz5jRfZHzM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Birthstone",
+      "styles": [
+        {
+          "family_name": "Birthstone",
+          "type": "Regular",
+          "full_name": "Birthstone Regular",
+          "post_script_name": "Birthstone-Regular",
+          "version": "1.013; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Birthstone Project Authors (https://github.com/googlefonts/birthstone)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "8AtsGs2xO4yLRhy87sv_HLn5jRfZHzM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

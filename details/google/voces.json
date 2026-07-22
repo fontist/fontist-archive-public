@@ -1,0 +1,58 @@
+{
+  "slug": "google/voces",
+  "name": "voces",
+  "description": "Voces is a new graphic solution for the glyphs of the International Phonetic Alphabet (IPA), considering the specific use-case of bilingual dictionaries. For this purpose, the typeface was conceived as a sans serif with gradual strokes, generous counterforms, a large \"x\" height, and short ascenders and descenders. These features attempt to solve the problems of spatial economy and print fidelity that dictionary typesetting presents. Ink traps were applied with consideration for the aesthetic and functional requirements. Voces was selected for exhibition in Tipos Latinos 2010. Voces is designed by Ana Paula Megda and Pablo Ugerman. To contribute to the project contact them at info@ugrdesign.com.ar Updated January 2016: The non-breaking space character is now empty and set to the same width as the space character.",
+  "homepage": "https://fonts.google.com/specimen/Voces",
+  "copyright": "Copyright 2012 The Voces Project Authors (https://github.com/googlefonts/VocesFont), with Reserved Font Names \"Voces\", \"Voceso Pro\", \"Voces UGR\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Voces",
+      "files": [
+        "https://fonts.gstatic.com/s/voces/v24/-F6_fjJyLyU8d4PBBG7YpzlJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/voces/v24/-F6_fjJyLyU8d4PBBG7YpzlJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Voces",
+      "files": [
+        "https://fonts.gstatic.com/s/voces/v24/-F6_fjJyLyU8d4PEBG7YpzlJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/voces/v24/-F6_fjJyLyU8d4PEBG7YpzlJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Voces",
+      "styles": [
+        {
+          "family_name": "Voces",
+          "type": "Regular",
+          "full_name": "Voces Regular",
+          "post_script_name": "Voces-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2012 The Voces Project Authors (https://github.com/googlefonts/VocesFont), with Reserved Font Names \"Voces\", \"Voceso Pro\", \"Voces UGR\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-F6_fjJyLyU8d4PBBG7YpzlJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

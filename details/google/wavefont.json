@@ -1,0 +1,255 @@
+{
+  "slug": "google/wavefont",
+  "name": "wavefont",
+  "description": "Wavefont is a variable font with Weight, Round, and Vertical Alignment axes for rendering data like waveforms, spectrums, diagrams, and bars. Wavefont bars correspond to values from 0 to 100, assigned to different characters: 0-9 chars are for simplified manual input with step 10 (bar height = number). a-z/A-Z for manual input with step 2, softened at edges a and Z (bar height = number of letter). U+0100-017F for 0..127 values with step 1. letter-spacing CSS property with ch units is useful to adjust distance between bars, 1ch === 1 bar width. To contribute, see github.com/dy/wavefont",
+  "homepage": "https://fonts.google.com/specimen/Wavefont",
+  "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Wavefont",
+      "files": [
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V0rDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI2L07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3n07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0L1LDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0y1LDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V1LDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI181LDCXKtOXOg4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V0rDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI2L07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3n07DCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0L1LDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0y1LDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V1LDCXKtOXOg4.woff2",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI181LDCXKtOXOg4.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "ROND",
+        "YELA",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Wavefont",
+      "files": [
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V0rDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI2L07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3n07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0L1LDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0y1LDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V1LDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI181LDHXKtOXOg4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V0rDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI2L07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3n07DHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0L1LDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0y1LDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V1LDHXKtOXOg4.ttf",
+        "https://fonts.gstatic.com/s/wavefont/v19/L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI181LDHXKtOXOg4.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "ROND",
+        "YELA",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wavefont Thin",
+      "styles": [
+        {
+          "family_name": "Wavefont Thin",
+          "type": "Regular",
+          "full_name": "Wavefont Thin",
+          "post_script_name": "Wavefont-Thin",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V0rDHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont ExtraLight",
+      "styles": [
+        {
+          "family_name": "Wavefont ExtraLight",
+          "type": "Regular",
+          "full_name": "Wavefont ExtraLight",
+          "post_script_name": "Wavefont-ExtraLight",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V07DHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont Light",
+      "styles": [
+        {
+          "family_name": "Wavefont Light",
+          "type": "Regular",
+          "full_name": "Wavefont Light",
+          "post_script_name": "Wavefont-Light",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI2L07DHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont",
+      "styles": [
+        {
+          "family_name": "Wavefont",
+          "type": "Regular",
+          "full_name": "Wavefont Regular",
+          "post_script_name": "Wavefont-Regular",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3V07DHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Wavefont",
+          "type": "Bold",
+          "full_name": "Wavefont Bold",
+          "post_script_name": "Wavefont-Bold",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0y1LDHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont Medium",
+      "styles": [
+        {
+          "family_name": "Wavefont Medium",
+          "type": "Regular",
+          "full_name": "Wavefont Medium",
+          "post_script_name": "Wavefont-Medium",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI3n07DHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont SemiBold",
+      "styles": [
+        {
+          "family_name": "Wavefont SemiBold",
+          "type": "Regular",
+          "full_name": "Wavefont SemiBold",
+          "post_script_name": "Wavefont-SemiBold",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI0L1LDHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont ExtraBold",
+      "styles": [
+        {
+          "family_name": "Wavefont ExtraBold",
+          "type": "Regular",
+          "full_name": "Wavefont ExtraBold",
+          "post_script_name": "Wavefont-ExtraBold",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI1V1LDHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wavefont Black",
+      "styles": [
+        {
+          "family_name": "Wavefont Black",
+          "type": "Regular",
+          "full_name": "Wavefont Black",
+          "post_script_name": "Wavefont-Black",
+          "version": "3.005;gftools[0.9.33]",
+          "copyright": "Copyright 2022 The Wavefont Project Authors (https://github.com/dy/wavefont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "L0xFDF00m0cP6hefyOCpRezQNuizSrqDyx8FHbFu21B3L4m0SEzuQYwq-f_JJ8I1WI181LDHXKtOXOg4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

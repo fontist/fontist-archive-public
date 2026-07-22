@@ -1,0 +1,58 @@
+{
+  "slug": "google/erica_one",
+  "name": "erica_one",
+  "description": "Erica is a voluptuous contemporary tribute to the sans serif work of Eric Gill that is mixed with the painter Botero.",
+  "homepage": "https://fonts.google.com/specimen/Erica+One",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Erica\" \"Erica One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Erica One",
+      "files": [
+        "https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGD1W0_MJMGxiQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGD1W0_MJMGxiQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Erica One",
+      "files": [
+        "https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGD1Xk_MJMGxiQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ericaone/v29/WBLnrEXccV9VGrOKmGD1Xk_MJMGxiQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Erica One",
+      "styles": [
+        {
+          "family_name": "Erica One",
+          "type": "Regular",
+          "full_name": "Erica One",
+          "post_script_name": "EricaOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Erica\" \"Erica One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WBLnrEXccV9VGrOKmGD1W0_MJMGxiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

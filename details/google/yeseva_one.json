@@ -1,0 +1,58 @@
+{
+  "slug": "google/yeseva_one",
+  "name": "yeseva_one",
+  "description": "A serif display type that is very feminine. I think that this is the only type in the world with such a feminine essence. Yeseva's name is from the phrase \"Yes, Eva.\" As a sign of complete agreement between a man and a woman. I dedicate this font to my beloved wife.",
+  "homepage": "https://fonts.google.com/specimen/Yeseva+One",
+  "copyright": "Copyright 2012 The Yeseva One Project Authors (lemonad@jovanny.ru), with Reserved Font Name \"Yeseva\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yeseva One",
+      "files": [
+        "https://fonts.gstatic.com/s/yesevaone/v24/OpNJno4ck8vc-xYpwWWxpipfWhXD00c.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yesevaone/v24/OpNJno4ck8vc-xYpwWWxpipfWhXD00c.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yeseva One",
+      "files": [
+        "https://fonts.gstatic.com/s/yesevaone/v24/OpNJno4ck8vc-xYpwWWxpi9fWhXD00c.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yesevaone/v24/OpNJno4ck8vc-xYpwWWxpi9fWhXD00c.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yeseva One",
+      "styles": [
+        {
+          "family_name": "Yeseva One",
+          "type": "Regular",
+          "full_name": "Yeseva One Regular",
+          "post_script_name": "YesevaOne-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2012 The Yeseva One Project Authors (lemonad@jovanny.ru), with Reserved Font Name \"Yeseva\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "OpNJno4ck8vc-xYpwWWxpipfWhXD00c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

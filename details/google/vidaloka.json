@@ -1,0 +1,58 @@
+{
+  "slug": "google/vidaloka",
+  "name": "vidaloka",
+  "description": "Vidaloka is a Didone display typeface for headlines and short blocks of text. Because of its high contrast it will work best from 16px and above. The main features are curlified drops and sloped terminals. Tail of Q has a distinctive baroque inspired form. Vidaloka is designed by Alexei Vanyashin and Olga Karpushina.",
+  "homepage": "https://fonts.google.com/specimen/Vidaloka",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Vidaloka\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vidaloka",
+      "files": [
+        "https://fonts.gstatic.com/s/vidaloka/v19/7cHrv4c3ipenMKlEass8yn4hnCci.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vidaloka/v19/7cHrv4c3ipenMKlEass8yn4hnCci.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vidaloka",
+      "files": [
+        "https://fonts.gstatic.com/s/vidaloka/v19/7cHrv4c3ipenMKlEass5yn4hnCci.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vidaloka/v19/7cHrv4c3ipenMKlEass5yn4hnCci.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vidaloka ",
+      "styles": [
+        {
+          "family_name": "Vidaloka ",
+          "type": "Regular",
+          "full_name": "Vidaloka ",
+          "post_script_name": "Vidaloka-Regular",
+          "version": "1.011",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Vidaloka\".",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Vidaloka\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "7cHrv4c3ipenMKlEass8yn4hnCci.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

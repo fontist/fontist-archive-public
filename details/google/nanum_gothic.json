@@ -1,0 +1,101 @@
+{
+  "slug": "google/nanum_gothic",
+  "name": "nanum_gothic",
+  "description": "The Nanum fonts (Korean : 나눔글꼴) are unicode fonts designed especially for the Korean-language script, designed by Sandoll Communications (Korean : 산돌 커뮤니케이션) and Fontrix (Korean : 폰트릭스). The publisher is Naver. Nanum Gothic is a contemporary sans-serif with a warm touch and is expertly hinted for screen use.",
+  "homepage": "https://fonts.google.com/specimen/Nanum+Gothic",
+  "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nanum Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_z_tLfxno73g.ttf",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv37zlEn14YEUQ.ttf",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv77zlEn14YEUQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_z_tLfxno73g.ttf",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv37zlEn14YEUQ.ttf",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv77zlEn14YEUQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nanum Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_z-9Lfxno73g.woff2",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv37y1En14YEUQ.woff2",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv77y1En14YEUQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_z-9Lfxno73g.woff2",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv37y1En14YEUQ.woff2",
+        "https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv77y1En14YEUQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "NanumGothic",
+      "styles": [
+        {
+          "family_name": "NanumGothic",
+          "type": "Regular",
+          "full_name": "NanumGothic",
+          "post_script_name": "NanumGothic",
+          "version": "3.020;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895",
+          "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "PN_3Rfi-oW3hYwmKDpxS7F_z_tLfxno73g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "NanumGothic",
+          "type": "Bold",
+          "full_name": "NanumGothicBold",
+          "post_script_name": "NanumGothicBold",
+          "version": "3.020;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895",
+          "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "PN_oRfi-oW3hYwmKDpxS7F_LQv37zlEn14YEUQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NanumGothicExtraBold",
+      "styles": [
+        {
+          "family_name": "NanumGothicExtraBold",
+          "type": "Regular",
+          "full_name": "NanumGothicExtraBold",
+          "post_script_name": "NanumGothicExtraBold",
+          "version": "3.020;PS 1;hotconv 1.0.57;makeotf.lib2.0.21895",
+          "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "PN_oRfi-oW3hYwmKDpxS7F_LXv77zlEn14YEUQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

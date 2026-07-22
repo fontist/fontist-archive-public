@@ -1,0 +1,77 @@
+{
+  "slug": "google/pragati_narrow",
+  "name": "pragati_narrow",
+  "description": "Pragati Narrow is a libre Devanagari typeface family designed as a complement to Archivo Narrow . It is a sans-serif family with vertical and horizontal cuts. Pragati Narrow comes in 2 weights (Regular and Bold) and was specially developed for screen as webfont and desktop font, too. The Devanagari was designed by Marcela Romero, Pablo Cosgaya and Nicolás Silva. The Latin version of Pragati is reminiscent of late nineteenth century American typefaces. It includes four Narrow styles and four Normal styles (in development), was derived from Chivo (designed by Héctor Gatti) and was developed with the collaboration of the Omnibus-Type team. Pragati (प्रगति) is the Hindi word for ‘progress’. This project is led by Omnibus-Type, a type foundry based in Argentina. To contribute, visit github.com/Omnibus-Type/PragatiNarrow .",
+  "homepage": "https://fonts.google.com/specimen/Pragati+Narrow",
+  "copyright": "Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pragati Narrow",
+      "files": [
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf",
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf",
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pragati Narrow",
+      "files": [
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8vdRf0T0bS1ffgsPB7WZ-mD176ytN3M48a.woff2",
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd6GJMTlo_4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8vdRf0T0bS1ffgsPB7WZ-mD176ytN3M48a.woff2",
+        "https://fonts.gstatic.com/s/pragatinarrow/v15/vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd6GJMTlo_4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pragati Narrow",
+      "styles": [
+        {
+          "family_name": "Pragati Narrow",
+          "type": "Regular",
+          "full_name": "Pragati Narrow",
+          "post_script_name": "PragatiNarrow-Regular",
+          "version": "1.010; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vm8vdRf0T0bS1ffgsPB7WZ-mD17_ytN3M48a.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Pragati Narrow",
+          "type": "Bold",
+          "full_name": "Pragati Narrow Bold",
+          "post_script_name": "PragatiNarrow-Bold",
+          "version": "1.010; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2012-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vm8sdRf0T0bS1ffgsPB7WZ-mD2ZD5fd_GJMTlo_4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

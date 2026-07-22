@@ -1,0 +1,58 @@
+{
+  "slug": "google/black_han_sans",
+  "name": "black_han_sans",
+  "description": "Black Han Sans is a new Korean Hangul typeface based on ZBLACK Original. With adjustments to the spacing between letters, this typeface has more structurally unified heights and widths. It has also been improved for greater legibility and usability. Black Han Sans has been designed to emphasize square shapes as a font for headlines and titles. It includes 2,580 Korean characters, numbers and punctuation marks. Latin alphabet characters and other symbols are not provided. To contribute, see github.com/zesstype/Black-Han-Sans .",
+  "homepage": "https://fonts.google.com/specimen/Black+Han+Sans",
+  "copyright": "Copyright 2015 The Black Han Sans Project Authors (https://github.com/zesstype/Black-Han-Sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Black Han Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/blackhansans/v24/ea8Aad44WunzF9a-dL6toA8r8nqVIXSkH-Hc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blackhansans/v24/ea8Aad44WunzF9a-dL6toA8r8nqVIXSkH-Hc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Black Han Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/blackhansans/v24/ea8Aad44WunzF9a-dL6toA8r8nqQIXSkH-Hc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blackhansans/v24/ea8Aad44WunzF9a-dL6toA8r8nqQIXSkH-Hc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Black Han Sans",
+      "styles": [
+        {
+          "family_name": "Black Han Sans",
+          "type": "Regular",
+          "full_name": "Black Han Sans Regular",
+          "post_script_name": "BlackHanSans-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2015 The Black Han Sans Project Authors (https://github.com/zesstype/Black-Han-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "ea8Aad44WunzF9a-dL6toA8r8nqVIXSkH-Hc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

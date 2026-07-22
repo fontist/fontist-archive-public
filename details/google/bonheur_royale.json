@@ -1,0 +1,58 @@
+{
+  "slug": "google/bonheur_royale",
+  "name": "bonheur_royale",
+  "description": "It's casual and contemporary. BonheurRoyale has the look of a calligraphic hand with a slightly brush feel. The contrast of this and thin strokes gives this clean style a legible quality. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/bonheur-royale .",
+  "homepage": "https://fonts.google.com/specimen/Bonheur+Royale",
+  "copyright": "Copyright 2005-2021 The Bonheur Royale Project Authors (https://github.com/googlefonts/bonheur-royale)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bonheur Royale",
+      "files": [
+        "https://fonts.gstatic.com/s/bonheurroyale/v15/c4m51nt_GMTrtX-b9GcG4-YRmYK_c0f1N5Ij.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bonheurroyale/v15/c4m51nt_GMTrtX-b9GcG4-YRmYK_c0f1N5Ij.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bonheur Royale",
+      "files": [
+        "https://fonts.gstatic.com/s/bonheurroyale/v15/c4m51nt_GMTrtX-b9GcG4-YRmYK6c0f1N5Ij.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bonheurroyale/v15/c4m51nt_GMTrtX-b9GcG4-YRmYK6c0f1N5Ij.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bonheur Royale",
+      "styles": [
+        {
+          "family_name": "Bonheur Royale",
+          "type": "Regular",
+          "full_name": "Bonheur Royale Regular",
+          "post_script_name": "BonheurRoyale-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2005-2021 The Bonheur Royale Project Authors (https://github.com/googlefonts/bonheur-royale)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "c4m51nt_GMTrtX-b9GcG4-YRmYK_c0f1N5Ij.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

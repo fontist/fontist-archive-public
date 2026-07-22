@@ -1,0 +1,58 @@
+{
+  "slug": "google/monomaniac_one",
+  "name": "monomaniac_one",
+  "description": "Monomaniac is a bold Japanese Sans Serif font featuring rounded corners. The letterforms are condensed which work well for vertical typesetting. To contribute to the project, visit github.com/ManiackersDesign/monomaniac",
+  "homepage": "https://fonts.google.com/specimen/Monomaniac+One",
+  "copyright": "Copyright 2020 The Monomaniac Project Authors (https://github.com/ManiackersDesign/monomaniac), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Monomaniac One",
+      "files": [
+        "https://fonts.gstatic.com/s/monomaniacone/v15/4iC06K17YctZjx50EU-QlwPmcqRnqYkB5kwI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monomaniacone/v15/4iC06K17YctZjx50EU-QlwPmcqRnqYkB5kwI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Monomaniac One",
+      "files": [
+        "https://fonts.gstatic.com/s/monomaniacone/v15/4iC06K17YctZjx50EU-QlwPmcqRiqYkB5kwI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monomaniacone/v15/4iC06K17YctZjx50EU-QlwPmcqRiqYkB5kwI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Monomaniac One",
+      "styles": [
+        {
+          "family_name": "Monomaniac One",
+          "type": "Regular",
+          "full_name": "Monomaniac One Regular",
+          "post_script_name": "MonomaniacOne-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Monomaniac Project Authors (https://github.com/ManiackersDesign/monomaniac), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iC06K17YctZjx50EU-QlwPmcqRnqYkB5kwI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

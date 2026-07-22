@@ -1,0 +1,58 @@
+{
+  "slug": "google/dekko",
+  "name": "dekko",
+  "description": "Dekko’s personality is both warm and casual. It originated with Modular InfoTech's 4948, and was modified to feel more written and regular in appearance and weight. The inter-letter spacing of the design is now wider, allowing for it to be used at smaller sizes on screens. Dekko also comes with a complete set of Latin which matches the Devanagari in weight and and size, and originates with Short Stack . Both the Devanagari and the Latin are based on written forms, and their stroke contrast has thick horizontals. The pen angles traditionally associated with Devanagari has some diagonal stress, but here the Latin script uses a vertical stress. This project is led by Eben Sorkin at Sorkin Type Co, a type foundry based in Boston, USA. To contribute, visit github.com/EbenSorkin/Dekko Updated: Improvements made to OpenType shaping and vertical metrics in May 2015.",
+  "homepage": "https://fonts.google.com/specimen/Dekko",
+  "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA. Latin Portions added 2014 by Eben Sorkin Sorkin Type Co, Boston MA, USA",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Dekko",
+      "files": [
+        "https://fonts.gstatic.com/s/dekko/v23/46khlb_wWjfSrttFR0vsfl1B.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dekko/v23/46khlb_wWjfSrttFR0vsfl1B.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Dekko",
+      "files": [
+        "https://fonts.gstatic.com/s/dekko/v23/46khlb_wWjfSrttAR0vsfl1B.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dekko/v23/46khlb_wWjfSrttAR0vsfl1B.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Dekko",
+      "styles": [
+        {
+          "family_name": "Dekko",
+          "type": "Regular",
+          "full_name": "Dekko",
+          "post_script_name": "Dekko",
+          "version": "1.001; ttfautohint (v1.1) -l 8 -r 50 -G 0 -x 0 -D deva -f latn -w gG -W",
+          "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA. Latin Portions added 2014 by Eben Sorkin Sorkin Type Co, Boston MA, USA",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "46khlb_wWjfSrttFR0vsfl1B.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

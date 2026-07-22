@@ -1,0 +1,58 @@
+{
+  "slug": "google/song_myung",
+  "name": "song_myung",
+  "description": "Song Myung is a Korean and Latin font. The Latin is based on Source Serif 4 .",
+  "homepage": "https://fonts.google.com/specimen/Song+Myung",
+  "copyright": "Copyright 2018 The Song Myung Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Song Myung",
+      "files": [
+        "https://fonts.gstatic.com/s/songmyung/v22/1cX2aUDWAJH5-EIC7DIhr1GqhcitzeM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/songmyung/v22/1cX2aUDWAJH5-EIC7DIhr1GqhcitzeM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Song Myung",
+      "files": [
+        "https://fonts.gstatic.com/s/songmyung/v22/1cX2aUDWAJH5-EIC7DIhr1SqhcitzeM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/songmyung/v22/1cX2aUDWAJH5-EIC7DIhr1SqhcitzeM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Song Myung",
+      "styles": [
+        {
+          "family_name": "Song Myung",
+          "type": "Regular",
+          "full_name": "Song Myung Regular",
+          "post_script_name": "SongMyung-Regular",
+          "version": "1.00",
+          "copyright": "Copyright 2018 The Song Myung Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1cX2aUDWAJH5-EIC7DIhr1GqhcitzeM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

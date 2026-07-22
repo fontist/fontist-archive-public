@@ -1,0 +1,58 @@
+{
+  "slug": "google/slackside_one",
+  "name": "slackside_one",
+  "description": "Newly designed only for Google Fonts: sophisticated handwritten Japanese font. Slackside means loose end. To contribute to the project, visit github.com/ManiackersDesign/slackside",
+  "homepage": "https://fonts.google.com/specimen/Slackside+One",
+  "copyright": "Copyright 2020 The Slackside One Project Authors (https://github.com/ManiackersDesign/slackside), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Slackside One",
+      "files": [
+        "https://fonts.gstatic.com/s/slacksideone/v14/EJRQQgMrXdcGsiBuvnRxodTwVy7VocNB6Iw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/slacksideone/v14/EJRQQgMrXdcGsiBuvnRxodTwVy7VocNB6Iw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Slackside One",
+      "files": [
+        "https://fonts.gstatic.com/s/slacksideone/v14/EJRQQgMrXdcGsiBuvnRxodTwVyvVocNB6Iw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/slacksideone/v14/EJRQQgMrXdcGsiBuvnRxodTwVyvVocNB6Iw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Slackside One",
+      "styles": [
+        {
+          "family_name": "Slackside One",
+          "type": "Regular",
+          "full_name": "Slackside One Regular",
+          "post_script_name": "SlacksideOne-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Slackside One Project Authors (https://github.com/ManiackersDesign/slackside), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EJRQQgMrXdcGsiBuvnRxodTwVy7VocNB6Iw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

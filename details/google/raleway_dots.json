@@ -1,0 +1,58 @@
+{
+  "slug": "google/raleway_dots",
+  "name": "raleway_dots",
+  "description": "A dotted version of Raleway , for posters and big headlines. It is a display face and the downloadable font features both old-style and lining numerals, standard and discretionary ligatures, as well as stylistic alternates that are inspired by more geometric sans-serif typefaces than the default which is neo-grotesque. To contribute to the project, visit github.com/impallari/Raleway",
+  "homepage": "https://fonts.google.com/specimen/Raleway+Dots",
+  "copyright": "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) and Brenda Gallo(gbrenda1987@gmail.com), with Reserved Font Name \"Raleway\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Raleway Dots",
+      "files": [
+        "https://fonts.gstatic.com/s/ralewaydots/v19/6NUR8FifJg6AfQvzpshgwJ8kyf9Fdty2ew.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ralewaydots/v19/6NUR8FifJg6AfQvzpshgwJ8kyf9Fdty2ew.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Raleway Dots",
+      "files": [
+        "https://fonts.gstatic.com/s/ralewaydots/v19/6NUR8FifJg6AfQvzpshgwJ8kzP9Fdty2ew.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ralewaydots/v19/6NUR8FifJg6AfQvzpshgwJ8kzP9Fdty2ew.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Raleway Dots",
+      "styles": [
+        {
+          "family_name": "Raleway Dots",
+          "type": "Regular",
+          "full_name": "Raleway Dots",
+          "post_script_name": "RalewayDots-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2010 - 2012, Matt McInerney (matt@pixelspread.com), Pablo Impallari(impallari@gmail.com), Rodrigo Fuenzalida (hello@rfuenzalida.com) and Brenda Gallo(gbrenda1987@gmail.com), with Reserved Font Name \"Raleway\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6NUR8FifJg6AfQvzpshgwJ8kyf9Fdty2ew.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

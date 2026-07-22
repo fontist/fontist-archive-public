@@ -1,0 +1,58 @@
+{
+  "slug": "google/cutive",
+  "name": "cutive",
+  "description": "The design of Cutive, and this monospace sister family Cutive Mono , is based on a number of classic typewriter typefaces, in particular the faces of IBM's 'Executive,' and the older 'Smith-Premier.' In Cutive these old faces re-emerge as webfonts that are useful for adding character to body texts as well as in larger sizes for headers and display. To contribute to the project see github.com/googlefonts/CutiveFont .",
+  "homepage": "https://fonts.google.com/specimen/Cutive",
+  "copyright": "Copyright 2012 The Cutive Project Authors (https://github.com/googlefonts/CutiveFont), with Reserved Font Names \"Cutive\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cutive",
+      "files": [
+        "https://fonts.gstatic.com/s/cutive/v24/NaPZcZ_fHOhV3Ip7T_hDoyqlZQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cutive/v24/NaPZcZ_fHOhV3Ip7T_hDoyqlZQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cutive",
+      "files": [
+        "https://fonts.gstatic.com/s/cutive/v24/NaPZcZ_fHOhV3Ip7SvhDoyqlZQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cutive/v24/NaPZcZ_fHOhV3Ip7SvhDoyqlZQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cutive",
+      "styles": [
+        {
+          "family_name": "Cutive",
+          "type": "Regular",
+          "full_name": "Cutive Regular",
+          "post_script_name": "Cutive-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2012 The Cutive Project Authors (https://github.com/googlefonts/CutiveFont), with Reserved Font Names \"Cutive\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "NaPZcZ_fHOhV3Ip7T_hDoyqlZQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/bagel_fat_one",
+  "name": "bagel_fat_one",
+  "description": "Bagel Fat is a very heavy/fat font with rounded details. By these rounded corners, the overall mood is cute and lovely which is inspired by bread, pastries and sweets. Also a large contrast at where the horizontal and the vertical stroke come across makes it unique, not just cute. To contribute, please visit github.com/JAMO-TYPEFACE/BagelFat .",
+  "homepage": "https://fonts.google.com/specimen/Bagel+Fat+One",
+  "copyright": "Copyright 2022 The Bagel Fat Project Authors (https://github.com/JAMO-TYPEFACE/BagelFat)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bagel Fat One",
+      "files": [
+        "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd0B5mvv0dSbM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd0B5mvv0dSbM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bagel Fat One",
+      "files": [
+        "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd0Btmvv0dSbM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bagelfatone/v2/hYkPPucsQOr5dy02WmQr5Zkd0Btmvv0dSbM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bagel Fat One",
+      "styles": [
+        {
+          "family_name": "Bagel Fat One",
+          "type": "Regular",
+          "full_name": "Bagel Fat One Regular",
+          "post_script_name": "BagelFatOne-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.28]",
+          "copyright": "Copyright 2022 The Bagel Fat Project Authors (https://github.com/JAMO-TYPEFACE/BagelFat)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "hYkPPucsQOr5dy02WmQr5Zkd0B5mvv0dSbM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

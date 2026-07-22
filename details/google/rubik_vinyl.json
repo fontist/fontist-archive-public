@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_vinyl",
+  "name": "rubik_vinyl",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts ! To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Vinyl",
+  "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Vinyl",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikvinyl/v1/iJWABXKIfDnIV4mQ5BfjvUXexox2ztOU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikvinyl/v1/iJWABXKIfDnIV4mQ5BfjvUXexox2ztOU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Vinyl",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikvinyl/v1/iJWABXKIfDnIV4mQ5BfjvUXbxox2ztOU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikvinyl/v1/iJWABXKIfDnIV4mQ5BfjvUXbxox2ztOU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Vinyl",
+      "styles": [
+        {
+          "family_name": "Rubik Vinyl",
+          "type": "Regular",
+          "full_name": "Rubik Vinyl Regular",
+          "post_script_name": "RubikVinyl-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "iJWABXKIfDnIV4mQ5BfjvUXexox2ztOU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

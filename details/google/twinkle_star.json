@@ -1,0 +1,58 @@
+{
+  "slug": "google/twinkle_star",
+  "name": "twinkle_star",
+  "description": "Twinkle Star is a cute and fun juvenile script. It comes in two stylistic styles: A Script with a more curvy quality and a casual style with more children writing resemblance. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/twinkle-star .",
+  "homepage": "https://fonts.google.com/specimen/Twinkle+Star",
+  "copyright": "Copyright 2003 The Twinkle Star Project Authors (https://github.com/googlefonts/twinkle-star)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Twinkle Star",
+      "files": [
+        "https://fonts.gstatic.com/s/twinklestar/v8/pe0pMI6IL4dPoFl9LGEmY6WaA_Rue1UwVg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/twinklestar/v8/pe0pMI6IL4dPoFl9LGEmY6WaA_Rue1UwVg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Twinkle Star",
+      "files": [
+        "https://fonts.gstatic.com/s/twinklestar/v8/pe0pMI6IL4dPoFl9LGEmY6WaBvRue1UwVg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/twinklestar/v8/pe0pMI6IL4dPoFl9LGEmY6WaBvRue1UwVg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Twinkle Star",
+      "styles": [
+        {
+          "family_name": "Twinkle Star",
+          "type": "Regular",
+          "full_name": "Twinkle Star Regular",
+          "post_script_name": "TwinkleStar-Regular",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003 The Twinkle Star Project Authors (https://github.com/googlefonts/twinkle-star)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pe0pMI6IL4dPoFl9LGEmY6WaA_Rue1UwVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

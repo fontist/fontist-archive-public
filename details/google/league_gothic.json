@@ -1,0 +1,64 @@
+{
+  "slug": "google/league_gothic",
+  "name": "league_gothic",
+  "description": "League Gothic is a revival of an old classic: Alternate Gothic. It was originally designed by Morris Fuller Bentonfor the American Type Founders Company in 1903. The League Of Moveable Type decided to make their own version, and contribute it to the Open Source Type Movement. Thanks to a commission from the fine & patient folks over at WND.com, it’s been revised and updated with contributions from Micah Rich, Tyler Finck, Dannci and Mirko Velimirovic. To contribute, see github.com/sursly/league-gothic .",
+  "homepage": "https://fonts.google.com/specimen/League+Gothic",
+  "copyright": "Copyright 2020 The League Gothic Project Authors (https://github.com/theleagueof/league-gothic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "League Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/leaguegothic/v13/qFdR35CBi4tvBz81xy7WG7ep-BQAY7Krj7feObpH_-ajidQ6Q9hn.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/leaguegothic/v13/qFdR35CBi4tvBz81xy7WG7ep-BQAY7Krj7feObpH_-ajidQ6Q9hn.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "League Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/leaguegothic/v13/qFdR35CBi4tvBz81xy7WG7ep-BQAY7Krj7feObpH_-amidQ6Q9hn.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/leaguegothic/v13/qFdR35CBi4tvBz81xy7WG7ep-BQAY7Krj7feObpH_-amidQ6Q9hn.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "League Gothic",
+      "styles": [
+        {
+          "family_name": "League Gothic",
+          "type": "Regular",
+          "full_name": "League Gothic Regular",
+          "post_script_name": "LeagueGothic-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2020 The League Gothic Project Authors (https://github.com/theleagueof/league-gothic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qFdR35CBi4tvBz81xy7WG7ep-BQAY7Krj7feObpH_-amidQ6Q9hn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

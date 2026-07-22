@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_dk_loopet_guides",
+  "name": "playwrite_dk_loopet_guides",
+  "description": "Playwrite DK Loopet Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DK+Loopet+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite DK Loopet Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tmElj-b0nB.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tmElj-b0nB.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite DK Loopet Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tjElj-b0nB.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedkloopetguides/v1/4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tjElj-b0nB.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DK Loopet Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite DK Loopet Guides",
+          "type": "Regular",
+          "full_name": "Playwrite DK Loopet Guides Regular",
+          "post_script_name": "PlaywriteDKLoopetGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "4iC46LlmYsRPlQ1zDEvT8weoW-sI8-h9xxN83W-Cb5tmElj-b0nB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

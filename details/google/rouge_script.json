@@ -1,0 +1,58 @@
+{
+  "slug": "google/rouge_script",
+  "name": "rouge_script",
+  "description": "Rouge Script is a formal script type, initiall drawn by hand with a copperplate nib and redrawn with the termination style of a brush script. This gives it the flavor of a casual script. It is very soft and has fast curves, while its low slant angle makes it very legible and improves the render on-screen. It works perfectly for titles or short phrases in branding, magazines, food, feminine and fashion related typography.",
+  "homepage": "https://fonts.google.com/specimen/Rouge+Script",
+  "copyright": "Copyright (c) 2011 Typesenses (typesenses@live.com.ar), with Reserved Font Name \"Rouge Script\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rouge Script",
+      "files": [
+        "https://fonts.gstatic.com/s/rougescript/v20/LYjFdGbiklMoCIQOw1Ep3S4PVPXbUJWq9g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rougescript/v20/LYjFdGbiklMoCIQOw1Ep3S4PVPXbUJWq9g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rouge Script",
+      "files": [
+        "https://fonts.gstatic.com/s/rougescript/v20/LYjFdGbiklMoCIQOw1Ep3S4PUfXbUJWq9g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rougescript/v20/LYjFdGbiklMoCIQOw1Ep3S4PUfXbUJWq9g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rouge Script",
+      "styles": [
+        {
+          "family_name": "Rouge Script",
+          "type": "Regular",
+          "full_name": "Rouge Script",
+          "post_script_name": "RougeScript-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 Typesenses (typesenses@live.com.ar), with Reserved Font Name \"Rouge Script\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjFdGbiklMoCIQOw1Ep3S4PVPXbUJWq9g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

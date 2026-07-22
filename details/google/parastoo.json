@@ -1,0 +1,131 @@
+{
+  "slug": "google/parastoo",
+  "name": "parastoo",
+  "description": "Parastoo font family",
+  "homepage": "https://fonts.google.com/specimen/Parastoo",
+  "copyright": "Copyright 2016 The Parastoo Project Authors (https://github.com/googlefonts/parastoo-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Parastoo",
+      "files": [
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1EfNkx5rq1w.woff2",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1EfNkx5rq1w.woff2",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41EfNkx5rq1w.woff2",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41EfNkx5rq1w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1EfNkx5rq1w.woff2",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1EfNkx5rq1w.woff2",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41EfNkx5rq1w.woff2",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41EfNkx5rq1w.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Parastoo",
+      "files": [
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1FPNkx5rq1w.ttf",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1FPNkx5rq1w.ttf",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41FPNkx5rq1w.ttf",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41FPNkx5rq1w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1FPNkx5rq1w.ttf",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1FPNkx5rq1w.ttf",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41FPNkx5rq1w.ttf",
+        "https://fonts.gstatic.com/s/parastoo/v3/-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41FPNkx5rq1w.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Parastoo",
+      "styles": [
+        {
+          "family_name": "Parastoo",
+          "type": "Regular",
+          "full_name": "Parastoo Regular",
+          "post_script_name": "Parastoo-Regular",
+          "version": "3.000",
+          "copyright": "Copyright 2016 The Parastoo Project Authors (https://github.com/googlefonts/parastoo-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlT6k1FPNkx5rq1w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Parastoo",
+          "type": "Bold",
+          "full_name": "Parastoo Bold",
+          "post_script_name": "Parastoo-Bold",
+          "version": "3.000",
+          "copyright": "Copyright 2016 The Parastoo Project Authors (https://github.com/googlefonts/parastoo-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlqK41FPNkx5rq1w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parastoo Medium",
+      "styles": [
+        {
+          "family_name": "Parastoo Medium",
+          "type": "Regular",
+          "full_name": "Parastoo Medium",
+          "post_script_name": "Parastoo-Medium",
+          "version": "3.000",
+          "copyright": "Copyright 2016 The Parastoo Project Authors (https://github.com/googlefonts/parastoo-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlfak1FPNkx5rq1w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parastoo SemiBold",
+      "styles": [
+        {
+          "family_name": "Parastoo SemiBold",
+          "type": "Regular",
+          "full_name": "Parastoo SemiBold",
+          "post_script_name": "Parastoo-SemiBold",
+          "version": "3.000",
+          "copyright": "Copyright 2016 The Parastoo Project Authors (https://github.com/googlefonts/parastoo-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "-F6vfj90ITQ4d9euQVDbrtWYW5MNx1dlka41FPNkx5rq1w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

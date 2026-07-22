@@ -1,0 +1,229 @@
+{
+  "slug": "google/inconsolata",
+  "name": "inconsolata",
+  "description": "Inconsolata was Raph Levien's first serious original font release. It is a monospace font, designed for printed code listings and the like. There are a great many &#8220;programmer fonts,&#8221; designed primarily for use on the screen, but in most cases do not have the attention to detail for high resolution rendering. Inconsolata draws from many inspirations and sources. I was particularly struck by the beauty of Luc(as) de Groot's Consolas, which is his monospaced design for Microsoft's Vista release. This font, similar to his earlier TheSansMono, demonstrated clearly to me that monospaced fonts do not have to suck. The development of the Regular style by Raph Levien was started in 2006 using his own Spiro-based tools and FontForge. The Bold style was designed by Kirill Tkachev and the Cyreal foundry in 2012. Updated September 2015: Internal metadata corrected. Updated April 2020: Family has been upgraded to a variable font family. To contribute, see github.com/googlefonts/inconsolata .",
+  "homepage": "https://fonts.google.com/specimen/Inconsolata",
+  "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Inconsolata",
+      "files": [
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7aR_8lleY2co.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7aR_8lleY2co.woff2",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7aR_8lleY2co.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Inconsolata",
+      "files": [
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7aRr8lleY2co.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7aRr8lleY2co.ttf",
+        "https://fonts.gstatic.com/s/inconsolata/v37/QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7aRr8lleY2co.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inconsolata ExtraLight",
+      "styles": [
+        {
+          "family_name": "Inconsolata ExtraLight",
+          "type": "Regular",
+          "full_name": "Inconsolata ExtraLight",
+          "post_script_name": "Inconsolata-ExtraLight",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU8aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inconsolata Light",
+      "styles": [
+        {
+          "family_name": "Inconsolata Light",
+          "type": "Regular",
+          "full_name": "Inconsolata Light",
+          "post_script_name": "Inconsolata-Light",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp9s8aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inconsolata",
+      "styles": [
+        {
+          "family_name": "Inconsolata",
+          "type": "Regular",
+          "full_name": "Inconsolata Regular",
+          "post_script_name": "Inconsolata-Regular",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp4U8aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inconsolata",
+          "type": "Bold",
+          "full_name": "Inconsolata Bold",
+          "post_script_name": "Inconsolata-Bold",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp2I7aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inconsolata Medium",
+      "styles": [
+        {
+          "family_name": "Inconsolata Medium",
+          "type": "Regular",
+          "full_name": "Inconsolata Medium",
+          "post_script_name": "Inconsolata-Medium",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp7c8aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inconsolata SemiBold",
+      "styles": [
+        {
+          "family_name": "Inconsolata SemiBold",
+          "type": "Regular",
+          "full_name": "Inconsolata SemiBold",
+          "post_script_name": "Inconsolata-SemiBold",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lpp1s7aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inconsolata ExtraBold",
+      "styles": [
+        {
+          "family_name": "Inconsolata ExtraBold",
+          "type": "Regular",
+          "full_name": "Inconsolata ExtraBold",
+          "post_script_name": "Inconsolata-ExtraBold",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7LppwU7aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Inconsolata Black",
+      "styles": [
+        {
+          "family_name": "Inconsolata Black",
+          "type": "Regular",
+          "full_name": "Inconsolata Black",
+          "post_script_name": "Inconsolata-Black",
+          "version": "3.001",
+          "copyright": "Copyright 2006 The Inconsolata Project Authors (https://github.com/cyrealtype/Inconsolata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QldgNThLqRwH-OJ1UHjlKENVzkWGVkL3GZQmAwLYxYWI2qfdm7Lppyw7aRr8lleY2co.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

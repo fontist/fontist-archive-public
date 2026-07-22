@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_mono_one",
+  "name": "rubik_mono_one",
+  "description": "Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert &amp; Fischer as part of the Chrome Cube Lab project. Rubik Mono One is a monospaced sister of the Black roman style in the Rubik family, which has 5 weights.",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Mono+One",
+  "copyright": "Copyright (c) 2013, 2014, Hubert and Fischer, Philipp Hubert (philipp@hubertfischer.com), Sebastian Fischer (sebastian@hubertfischer.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Mono One",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikmonoone/v20/UqyJK8kPP3hjw6ANTdfRk9YSN-8wRqQrc_j9.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikmonoone/v20/UqyJK8kPP3hjw6ANTdfRk9YSN-8wRqQrc_j9.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Mono One",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikmonoone/v20/UqyJK8kPP3hjw6ANTdfRk9YSN-81RqQrc_j9.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikmonoone/v20/UqyJK8kPP3hjw6ANTdfRk9YSN-81RqQrc_j9.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Mono One",
+      "styles": [
+        {
+          "family_name": "Rubik Mono One",
+          "type": "Regular",
+          "full_name": "Rubik Mono One Regular",
+          "post_script_name": "RubikMonoOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2013, 2014, Hubert and Fischer, Philipp Hubert (philipp@hubertfischer.com), Sebastian Fischer (sebastian@hubertfischer.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UqyJK8kPP3hjw6ANTdfRk9YSN-8wRqQrc_j9.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

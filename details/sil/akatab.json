@@ -1,0 +1,39 @@
+{
+  "slug": "sil/akatab",
+  "name": "Akatab",
+  "description": "Akatab",
+  "homepage": "https://scripts.sil.org",
+  "copyright": "Copyright (c) 2010-2020, SIL International (https://scripts.sil.org), with Reserved Font Name \"Akatab\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Akatab.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/akatab/Akatab-1.000.zip",
+        "https://web.archive.org/web/20260505151231/https://software.sil.org/downloads/r/akatab/Akatab-1.000.zip"
+      ],
+      "sha256": "b4b4866df6ee6d0c16e179d475c6de4bde9b95c0662d7f752020cff3ff8def00",
+      "file_size": 2280393
+    }
+  },
+  "fonts": [
+    {
+      "name": "Akatab",
+      "styles": [
+        {
+          "family_name": "Akatab",
+          "type": "Regular",
+          "full_name": "Akatab",
+          "post_script_name": "Akatab-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2010-2020, SIL International (https://scripts.sil.org), with Reserved Font Name \"Akatab\".",
+          "description": "Copyright (c) 2010-2020, SIL International (https://scripts.sil.org), with Reserved Font Name \"Akatab\".",
+          "font": "Akatab-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

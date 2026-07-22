@@ -1,0 +1,58 @@
+{
+  "slug": "google/monomakh",
+  "name": "monomakh",
+  "description": "Monomakh is a Cyrillic font implemented in a mixed ustav/poluustav style and intended to cover needs of researches dealing with Slavic history and philology. It also provides Latin characters in a similar typeface, which is useful for working with multilingual academic editions. To contribute, please see github.com/slavonic/Monomakh .",
+  "homepage": "https://fonts.google.com/specimen/Monomakh",
+  "copyright": "Copyright 2025 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Monomakh",
+      "files": [
+        "https://fonts.gstatic.com/s/monomakh/v1/Wnz4HAk3Yh_SC3FACTYdiArcPRKo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monomakh/v1/Wnz4HAk3Yh_SC3FACTYdiArcPRKo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Monomakh",
+      "files": [
+        "https://fonts.gstatic.com/s/monomakh/v1/Wnz4HAk3Yh_SC3FACTYYiArcPRKo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monomakh/v1/Wnz4HAk3Yh_SC3FACTYYiArcPRKo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Monomakh",
+      "styles": [
+        {
+          "family_name": "Monomakh",
+          "type": "Regular",
+          "full_name": "Monomakh Regular",
+          "post_script_name": "Monomakh-Regular",
+          "version": "1.200; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Monomakh Project Authors (https://github.com/slavonic/Monomakh/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "Wnz4HAk3Yh_SC3FACTYdiArcPRKo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/allura",
+  "name": "allura",
+  "description": "The casual characters of Allura are simple, clean and very legible. The script and formal sets offer a softer, more formal look. Allura was designed with advertising, display and package design in mind. This OpenType Pro version of Allura combines all three styles along with extra alternate glyphs and flourished graphics to give designers maximum flexibility. In this family come complete with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/allura .",
+  "homepage": "https://fonts.google.com/specimen/Allura",
+  "copyright": "Copyright 2010 The Allura Project Authors (https://github.com/googlefonts/allura)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Allura",
+      "files": [
+        "https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuAPjAIXPtrrGA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuAPjAIXPtrrGA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Allura",
+      "files": [
+        "https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuAPiQIXPtrrGA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allura/v23/9oRPNYsQpS4zjuAPiQIXPtrrGA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Allura",
+      "styles": [
+        {
+          "family_name": "Allura",
+          "type": "Regular",
+          "full_name": "Allura Regular",
+          "post_script_name": "Allura-Regular",
+          "version": "1.110",
+          "copyright": "Copyright 2010 The Allura Project Authors (https://github.com/googlefonts/allura)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "9oRPNYsQpS4zjuAPjAIXPtrrGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

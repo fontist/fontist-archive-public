@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_serif_todhri",
+  "name": "noto_serif_todhri",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Todhri is an unmodulated (“sans-serif”) design for texts in the Todhri script. It has 76 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Todhri",
+  "copyright": "Copyright 2024 The Noto Project Authors (https://github.com/notofonts/todhri)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Serif Todhri",
+      "files": [
+        "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3ByX6n0fnNk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3ByX6n0fnNk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Serif Todhri",
+      "files": [
+        "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3B3X6n0fnNk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoseriftodhri/v3/dFalZeyY-aYz1YVbjMoBWml1nBz7N3B3X6n0fnNk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Todhri",
+      "styles": [
+        {
+          "family_name": "Noto Serif Todhri",
+          "type": "Regular",
+          "full_name": "Noto Serif Todhri Regular",
+          "post_script_name": "NotoSerifTodhri-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Noto Project Authors (https://github.com/notofonts/todhri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "dFalZeyY-aYz1YVbjMoBWml1nBz7N3ByX6n0fnNk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

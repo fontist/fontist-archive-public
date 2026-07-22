@@ -1,0 +1,58 @@
+{
+  "slug": "google/contrail_one",
+  "name": "contrail_one",
+  "description": "Foundry: Sorkin Type Co Contrail is based on handmade sans letters seen on UK posters. It's slight slant and bouncy quality suggest the emerging jet age and a state of both readiness and excited anticipation. Its rounded corners give it an approachable friendly feeling. Contrail is a low contrast design that is suitable for use in medium to large sizes including headlines. This font was made specifically to be used as web type. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Contrail+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Names \"Contrail\" and \"Contrail One\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Contrail One",
+      "files": [
+        "https://fonts.gstatic.com/s/contrailone/v21/eLGbP-j_JA-kG0_Zo51noafdZUvt_c092w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/contrailone/v21/eLGbP-j_JA-kG0_Zo51noafdZUvt_c092w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Contrail One",
+      "files": [
+        "https://fonts.gstatic.com/s/contrailone/v21/eLGbP-j_JA-kG0_Zo51noafdYEvt_c092w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/contrailone/v21/eLGbP-j_JA-kG0_Zo51noafdYEvt_c092w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Contrail One",
+      "styles": [
+        {
+          "family_name": "Contrail One",
+          "type": "Regular",
+          "full_name": "Contrail One",
+          "post_script_name": "ContrailOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Names \"Contrail\" and \"Contrail One\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "eLGbP-j_JA-kG0_Zo51noafdZUvt_c092w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

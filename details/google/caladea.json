@@ -1,0 +1,115 @@
+{
+  "slug": "google/caladea",
+  "name": "caladea",
+  "description": "Caladea is a free modern, friendly serif font family based on Cambo , designed by Carolina Giovagnoli and Andrés Torresi for Huerta Tipográfica. Caladea has the following differences: More condensed width New metrics 4 styles. Regular, Bold, Italic, and Bold Italic Character set expanded to WGL (418 glyphs) To contribute, see github.com/huertatipografica/Caladea .",
+  "homepage": "https://fonts.google.com/specimen/Caladea",
+  "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Caladea",
+      "files": [
+        "https://fonts.gstatic.com/s/caladea/v8/kJEzBugZ7AAjhybUjR93-9IztOc.ttf",
+        "https://fonts.gstatic.com/s/caladea/v8/kJExBugZ7AAjhybUvR19__A2pOdvDA.ttf",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE2BugZ7AAjhybUtaNY39oYqO52FZ0.ttf",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE0BugZ7AAjhybUvR1FQ98SrMxzBZ2lDA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caladea/v8/kJEzBugZ7AAjhybUjR93-9IztOc.ttf",
+        "https://fonts.gstatic.com/s/caladea/v8/kJExBugZ7AAjhybUvR19__A2pOdvDA.ttf",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE2BugZ7AAjhybUtaNY39oYqO52FZ0.ttf",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE0BugZ7AAjhybUvR1FQ98SrMxzBZ2lDA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Caladea",
+      "files": [
+        "https://fonts.gstatic.com/s/caladea/v8/kJEzBugZ7AAjhybUjRp3-9IztOc.woff2",
+        "https://fonts.gstatic.com/s/caladea/v8/kJExBugZ7AAjhybUvR19-vA2pOdvDA.woff2",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE2BugZ7AAjhybUtaNY398YqO52FZ0.woff2",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE0BugZ7AAjhybUvR1FQ98SqcxzBZ2lDA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caladea/v8/kJEzBugZ7AAjhybUjRp3-9IztOc.woff2",
+        "https://fonts.gstatic.com/s/caladea/v8/kJExBugZ7AAjhybUvR19-vA2pOdvDA.woff2",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE2BugZ7AAjhybUtaNY398YqO52FZ0.woff2",
+        "https://fonts.gstatic.com/s/caladea/v8/kJE0BugZ7AAjhybUvR1FQ98SqcxzBZ2lDA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Caladea",
+      "styles": [
+        {
+          "family_name": "Caladea",
+          "type": "Regular",
+          "full_name": "Caladea Regular",
+          "post_script_name": "Caladea-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kJEzBugZ7AAjhybUjR93-9IztOc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caladea",
+          "type": "Italic",
+          "full_name": "Caladea Italic",
+          "post_script_name": "Caladea-Italic",
+          "version": "1.001",
+          "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kJExBugZ7AAjhybUvR19__A2pOdvDA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caladea",
+          "type": "Bold",
+          "full_name": "Caladea Bold",
+          "post_script_name": "Caladea-Bold",
+          "version": "1.001",
+          "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kJE2BugZ7AAjhybUtaNY39oYqO52FZ0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caladea",
+          "type": "Bold Italic",
+          "full_name": "Caladea Bold Italic",
+          "post_script_name": "Caladea-BoldItalic",
+          "version": "1.001",
+          "copyright": "Copyright 2012 The Caladea Project Authors (https://github.com/huertatipografica/Caladea)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kJE0BugZ7AAjhybUvR1FQ98SrMxzBZ2lDA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

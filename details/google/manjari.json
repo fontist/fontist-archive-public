@@ -1,0 +1,101 @@
+{
+  "slug": "google/manjari",
+  "name": "manjari",
+  "description": "Manjari is a Malayalam and Latin family whose name means pearl in Malayalam. It's also the name of a poetic metre. This family is suitable for body text and titles. To contribute, see github.com/smc/manjari",
+  "homepage": "https://fonts.google.com/specimen/Manjari",
+  "copyright": "Copyright 2018 The Manjari Project Authors (https://gitlab.com/smc/fonts/manjari)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Manjari",
+      "files": [
+        "https://fonts.gstatic.com/s/manjari/v14/k3kSo8UPMOBO2w1UdbroK2vFIaOV8A.ttf",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kQo8UPMOBO2w1UTd7iL0nAMaM.ttf",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kVo8UPMOBO2w1UdWLNC0HrLaqM6Q4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/manjari/v14/k3kSo8UPMOBO2w1UdbroK2vFIaOV8A.ttf",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kQo8UPMOBO2w1UTd7iL0nAMaM.ttf",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kVo8UPMOBO2w1UdWLNC0HrLaqM6Q4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Manjari",
+      "files": [
+        "https://fonts.gstatic.com/s/manjari/v14/k3kSo8UPMOBO2w1UdbroLmvFIaOV8A.woff2",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kQo8UPMOBO2w1UTdviL0nAMaM.woff2",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kVo8UPMOBO2w1UdWLNC0TrLaqM6Q4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/manjari/v14/k3kSo8UPMOBO2w1UdbroLmvFIaOV8A.woff2",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kQo8UPMOBO2w1UTdviL0nAMaM.woff2",
+        "https://fonts.gstatic.com/s/manjari/v14/k3kVo8UPMOBO2w1UdWLNC0TrLaqM6Q4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Manjari Thin",
+      "styles": [
+        {
+          "family_name": "Manjari Thin",
+          "type": "Regular",
+          "full_name": "Manjari Thin",
+          "post_script_name": "Manjari-Thin",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Manjari Project Authors (https://gitlab.com/smc/fonts/manjari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "k3kSo8UPMOBO2w1UdbroK2vFIaOV8A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Manjari",
+      "styles": [
+        {
+          "family_name": "Manjari",
+          "type": "Regular",
+          "full_name": "Manjari Regular",
+          "post_script_name": "Manjari-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Manjari Project Authors (https://gitlab.com/smc/fonts/manjari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "k3kQo8UPMOBO2w1UTd7iL0nAMaM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Manjari",
+          "type": "Bold",
+          "full_name": "Manjari Bold",
+          "post_script_name": "Manjari-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Manjari Project Authors (https://gitlab.com/smc/fonts/manjari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "k3kVo8UPMOBO2w1UdWLNC0HrLaqM6Q4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

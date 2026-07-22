@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_carian",
+  "name": "noto_sans_carian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Carian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern Carian script. It has 54 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Carian",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/carian)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Carian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanscarian/v17/LDIpaoiONgYwA9Yc6f0gUILeMIOgs7ob9yGLmfI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanscarian/v17/LDIpaoiONgYwA9Yc6f0gUILeMIOgs7ob9yGLmfI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Carian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanscarian/v17/LDIpaoiONgYwA9Yc6f0gUILeMIOgs78b9yGLmfI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanscarian/v17/LDIpaoiONgYwA9Yc6f0gUILeMIOgs78b9yGLmfI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Carian",
+      "styles": [
+        {
+          "family_name": "Noto Sans Carian",
+          "type": "Regular",
+          "full_name": "Noto Sans Carian Regular",
+          "post_script_name": "NotoSansCarian-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/carian)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LDIpaoiONgYwA9Yc6f0gUILeMIOgs7ob9yGLmfI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

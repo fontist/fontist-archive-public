@@ -1,0 +1,58 @@
+{
+  "slug": "google/nixie_one",
+  "name": "nixie_one",
+  "description": "It's like Chinese food. We take the chicken and mix it with pineapple. For one minute we think that the taste will at least strange, but it is so harmonious and beautiful, what do you know, why didn't you try this earlier? This font is a mixture of neon tubes signage and a typewriter: A thoroughbred mix of chicken and pineapple.",
+  "homepage": "https://fonts.google.com/specimen/Nixie+One",
+  "copyright": "Copyright (c) 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Nixie\"",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nixie One",
+      "files": [
+        "https://fonts.gstatic.com/s/nixieone/v17/lW-8wjkKLXjg5y2o2uUoUOFzpS-yLw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nixieone/v17/lW-8wjkKLXjg5y2o2uUoUOFzpS-yLw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nixie One",
+      "files": [
+        "https://fonts.gstatic.com/s/nixieone/v17/lW-8wjkKLXjg5y2o2uUoVeFzpS-yLw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nixieone/v17/lW-8wjkKLXjg5y2o2uUoVeFzpS-yLw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nixie One",
+      "styles": [
+        {
+          "family_name": "Nixie One",
+          "type": "Regular",
+          "full_name": "Nixie One",
+          "post_script_name": "NixieOne-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Nixie\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "lW-8wjkKLXjg5y2o2uUoUOFzpS-yLw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

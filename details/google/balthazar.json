@@ -1,0 +1,58 @@
+{
+  "slug": "google/balthazar",
+  "name": "balthazar",
+  "description": "Balthazar is a contemporary \"Copperplate Gothic like\" serif typeface inspired by the kind of typefaces used by many bistros and cafes in New York City and Paris. Unusually this type includes lowercase letters. The high x-height gives the text a compact look, true to the original Cooperplate Gothic design. The general form is less condensed. It has diagonal stress, and a soft variation in contrast to improve legibility. It is bolder than normal for better rasterization on screen. The typeface works smoothly at text sizes with its delicate serifs, which gives a crisp effect on the screen. At larger sizes it shows a strong personality with the combination of serif details and the modulation of its strokes. It is useful for both short text and headlines, but it is also comfortable for reading on screen. Designed by Dario Muhafara for tipo foundry .",
+  "homepage": "https://fonts.google.com/specimen/Balthazar",
+  "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Balthazar\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Balthazar",
+      "files": [
+        "https://fonts.gstatic.com/s/balthazar/v18/d6lKkaajS8Gm4CVQjFEvyRTo39l8hw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/balthazar/v18/d6lKkaajS8Gm4CVQjFEvyRTo39l8hw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Balthazar",
+      "files": [
+        "https://fonts.gstatic.com/s/balthazar/v18/d6lKkaajS8Gm4CVQjFEvzBTo39l8hw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/balthazar/v18/d6lKkaajS8Gm4CVQjFEvzBTo39l8hw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Balthazar",
+      "styles": [
+        {
+          "family_name": "Balthazar",
+          "type": "Regular",
+          "full_name": "Balthazar Regular",
+          "post_script_name": "Balthazar-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Balthazar\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "d6lKkaajS8Gm4CVQjFEvyRTo39l8hw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_tangsa",
+  "name": "noto_sans_tangsa",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Tangsa is a design for the Indic Tangsa script. It has multiple weights, and has 94 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Tangsa",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Tangsa",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoUYdplyJDA.woff2",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoUYdplyJDA.woff2",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoUYdplyJDA.woff2",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoUYdplyJDA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoUYdplyJDA.woff2",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoUYdplyJDA.woff2",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoUYdplyJDA.woff2",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoUYdplyJDA.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Tangsa",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoRYdplyJDA.ttf",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoRYdplyJDA.ttf",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoRYdplyJDA.ttf",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoRYdplyJDA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoRYdplyJDA.ttf",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoRYdplyJDA.ttf",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoRYdplyJDA.ttf",
+        "https://fonts.gstatic.com/s/notosanstangsa/v9/z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoRYdplyJDA.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Tangsa",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tangsa",
+          "type": "Regular",
+          "full_name": "Noto Sans Tangsa Regular",
+          "post_script_name": "NotoSansTangsa-Regular",
+          "version": "1.506",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1YkyoRYdplyJDA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Tangsa",
+          "type": "Bold",
+          "full_name": "Noto Sans Tangsa Bold",
+          "post_script_name": "NotoSansTangsa-Bold",
+          "version": "1.506",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2_lCoRYdplyJDA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Tangsa Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tangsa Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Tangsa Medium",
+          "post_script_name": "NotoSansTangsa-Medium",
+          "version": "1.506",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp1qkyoRYdplyJDA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Tangsa SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tangsa SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Tangsa SemiBold",
+          "post_script_name": "NotoSansTangsa-SemiBold",
+          "version": "1.506",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tangsa)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "z7NCdQPmcigbbZAIOl9igP26K470lICpky0-peX5Qp2GlCoRYdplyJDA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

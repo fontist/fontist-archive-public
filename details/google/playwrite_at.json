@@ -1,0 +1,212 @@
+{
+  "slug": "google/playwrite_at",
+  "name": "playwrite_at",
+  "description": "Playwrite AT font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+AT",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite AT",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M77d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2E76d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2JD6d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw_GLaPM6rkyVg.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5Hw7GLaPM6rkyVg.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5wQ7GLaPM6rkyVg.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GLaPM6rkyVg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M77d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2E76d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2JD6d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d0jMLIHJ-rk.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw_GLaPM6rkyVg.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5Hw7GLaPM6rkyVg.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5wQ7GLaPM6rkyVg.woff2",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GLaPM6rkyVg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite AT",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M77d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2E76d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2JD6d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw_GKKPM6rkyVg.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5Hw7GKKPM6rkyVg.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5wQ7GKKPM6rkyVg.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GKKPM6rkyVg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M77d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2E76d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2JD6d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d03MLIHJ-rk.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw_GKKPM6rkyVg.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5Hw7GKKPM6rkyVg.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5wQ7GKKPM6rkyVg.ttf",
+        "https://fonts.gstatic.com/s/playwriteat/v6/Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GKKPM6rkyVg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite AT Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite AT Thin",
+          "type": "Regular",
+          "full_name": "Playwrite AT Thin",
+          "post_script_name": "PlaywriteAT-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M77d03MLIHJ-rk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite AT Thin",
+          "type": "Italic",
+          "full_name": "Playwrite AT Thin Italic",
+          "post_script_name": "PlaywriteAT-ThinItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw_GKKPM6rkyVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AT ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite AT ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite AT ExtraLight",
+          "post_script_name": "PlaywriteAT-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2E76d03MLIHJ-rk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite AT ExtraLight",
+          "type": "Italic",
+          "full_name": "Playwrite AT ExtraLight Italic",
+          "post_script_name": "PlaywriteAT-ExtraLightItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5Hw7GKKPM6rkyVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AT Light",
+      "styles": [
+        {
+          "family_name": "Playwrite AT Light",
+          "type": "Regular",
+          "full_name": "Playwrite AT Light",
+          "post_script_name": "PlaywriteAT-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2JD6d03MLIHJ-rk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite AT Light",
+          "type": "Italic",
+          "full_name": "Playwrite AT Light Italic",
+          "post_script_name": "PlaywriteAT-LightItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5wQ7GKKPM6rkyVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AT",
+      "styles": [
+        {
+          "family_name": "Playwrite AT",
+          "type": "Regular",
+          "full_name": "Playwrite AT Regular",
+          "post_script_name": "PlaywriteAT-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6owc7n6kfJN4fVoKON7HIEBRSfb0U2uGBm2M76d03MLIHJ-rk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite AT",
+          "type": "Italic",
+          "full_name": "Playwrite AT Italic",
+          "post_script_name": "PlaywriteAT-Italic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "Gw6uwc7n6kfJN4fVoKON7HIuDCZgtyxdIs5hzQa5nw7GKKPM6rkyVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

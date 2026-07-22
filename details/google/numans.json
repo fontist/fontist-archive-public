@@ -1,0 +1,58 @@
+{
+  "slug": "google/numans",
+  "name": "numans",
+  "description": "Numans font is a modern 'grotesque' sans-serif with open forms. Sometimes I would like to call it \"Humans,\" but since I am from Russia, my English is not so fluent and sometimes I can be confused. The name comes from romanticising this. Numans is similar to the more bold font Days One, also available in Google Web Fonts.",
+  "homepage": "https://fonts.google.com/specimen/Numans",
+  "copyright": "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Numans",
+      "files": [
+        "https://fonts.gstatic.com/s/numans/v16/SlGRmQmGupYAfH8IYRggiHVqaQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/numans/v16/SlGRmQmGupYAfH8IYRggiHVqaQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Numans",
+      "files": [
+        "https://fonts.gstatic.com/s/numans/v16/SlGRmQmGupYAfH8IZBggiHVqaQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/numans/v16/SlGRmQmGupYAfH8IZBggiHVqaQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Numans",
+      "styles": [
+        {
+          "family_name": "Numans",
+          "type": "Regular",
+          "full_name": "Numans",
+          "post_script_name": "Numans-Regular",
+          "version": "001.001",
+          "copyright": "Copyright (c) 2011 by Jovanny Lemonad. All rights reserved.",
+          "description": "Copyright (c) August 1, 2011, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name \"Numans\" and \"Numans\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SlGRmQmGupYAfH8IYRggiHVqaQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

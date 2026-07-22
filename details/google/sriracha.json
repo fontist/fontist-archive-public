@@ -1,0 +1,58 @@
+{
+  "slug": "google/sriracha",
+  "name": "sriracha",
+  "description": "Sriracha is a new Thai + Latin handwriting typeface, with an informal loopless + sans serif design. It has 2 stylistic set alternate glyph designs and intelligent OpenType features to recreate the impression of handwriting. Thanks to Pablo Impallari for the initial OpenType handwriting feature development. The Sriracha project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/sriracha",
+  "homepage": "https://fonts.google.com/specimen/Sriracha",
+  "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sriracha",
+      "files": [
+        "https://fonts.gstatic.com/s/sriracha/v16/0nkrC9D4IuYBgWcI9ObYRQDioeb0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sriracha/v16/0nkrC9D4IuYBgWcI9ObYRQDioeb0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sriracha",
+      "files": [
+        "https://fonts.gstatic.com/s/sriracha/v16/0nkrC9D4IuYBgWcI9ObdRQDioeb0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sriracha/v16/0nkrC9D4IuYBgWcI9ObdRQDioeb0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sriracha",
+      "styles": [
+        {
+          "family_name": "Sriracha",
+          "type": "Regular",
+          "full_name": "Sriracha",
+          "post_script_name": "Sriracha-Regular",
+          "version": "1.002g",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "0nkrC9D4IuYBgWcI9ObYRQDioeb0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

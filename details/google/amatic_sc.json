@@ -1,0 +1,77 @@
+{
+  "slug": "google/amatic_sc",
+  "name": "amatic_sc",
+  "description": "Amatic SC (Small Caps) is a simple but effective hand drawn webfont. It can be used for titling and small runs of text. It was initially designed by Vernon Adams, and concieved of to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. It features both Latin and Hebrew alphabets. The Latin was initially designed by Vernon Adams. The Hebrew was designed by Ben Nathan, who also revised the Latin design. Thomas Jockin respaced and kerned the whole font.",
+  "homepage": "https://fonts.google.com/specimen/Amatic+SC",
+  "copyright": "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Amatic SC",
+      "files": [
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZyzwprpvBS1izr_vO0De6ecZQf1A.ttf",
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZ3zwprpvBS1izr_vOMscG6eb8D3WTy-A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZyzwprpvBS1izr_vO0De6ecZQf1A.ttf",
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZ3zwprpvBS1izr_vOMscG6eb8D3WTy-A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Amatic SC",
+      "files": [
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZyzwprpvBS1izr_vO0CO6ecZQf1A.woff2",
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZ3zwprpvBS1izr_vOMscG6fL8D3WTy-A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZyzwprpvBS1izr_vO0CO6ecZQf1A.woff2",
+        "https://fonts.gstatic.com/s/amaticsc/v28/TUZ3zwprpvBS1izr_vOMscG6fL8D3WTy-A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Amatic SC",
+      "styles": [
+        {
+          "family_name": "Amatic SC",
+          "type": "Regular",
+          "full_name": "Amatic SC Regular",
+          "post_script_name": "AmaticSC-Regular",
+          "version": "2.505",
+          "copyright": "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TUZyzwprpvBS1izr_vO0De6ecZQf1A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amatic SC",
+          "type": "Bold",
+          "full_name": "Amatic SC Bold",
+          "post_script_name": "AmaticSC-Bold",
+          "version": "2.505",
+          "copyright": "Copyright 2015 The Amatic SC Project Authors (https://github.com/googlefonts/AmaticSC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TUZ3zwprpvBS1izr_vOMscG6eb8D3WTy-A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

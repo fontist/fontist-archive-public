@@ -1,0 +1,58 @@
+{
+  "slug": "google/festive",
+  "name": "festive",
+  "description": "It&apos;s Festive! But don&apos;t let the name fool you… It&apos;s a fun script font (that includes a Roman stylistic set) accompanied by an assortment of exciting ornamental dingbats suitable for any occasion where festivities abound from New Years to Graduation, Baby &amp; Wedding Showers, Thanksgiving, and much more, even Sports. The base font works well with bodies of copy, while the alternate glyphs can be used to swap out individual characters to give a custom, hand written look. Be sure to scroll thru to see all the stylistic sets. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/festive .",
+  "homepage": "https://fonts.google.com/specimen/Festive",
+  "copyright": "Copyright 2015 The Festive Pro Project Authors (https://github.com/googlefonts/festive)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Festive",
+      "files": [
+        "https://fonts.gstatic.com/s/festive/v11/cY9Ffj6KX1xcoDWhFtfgy9HTkak.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/festive/v11/cY9Ffj6KX1xcoDWhFtfgy9HTkak.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Festive",
+      "files": [
+        "https://fonts.gstatic.com/s/festive/v11/cY9Ffj6KX1xcoDWhFtLgy9HTkak.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/festive/v11/cY9Ffj6KX1xcoDWhFtLgy9HTkak.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Festive",
+      "styles": [
+        {
+          "family_name": "Festive",
+          "type": "Regular",
+          "full_name": "Festive Regular",
+          "post_script_name": "Festive-Regular",
+          "version": "1.101; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2015 The Festive Pro Project Authors (https://github.com/googlefonts/festive)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cY9Ffj6KX1xcoDWhFtfgy9HTkak.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

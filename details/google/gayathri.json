@@ -1,0 +1,101 @@
+{
+  "slug": "google/gayathri",
+  "name": "gayathri",
+  "description": "A gentle and modern Malayalam display typeface. Available in three weights, Gayathri is best suited for headlines, posters, titles and captions. Unicode compliant and libre licensed. To contribute, see gitlab.com/smc/fonts/gayathri .",
+  "homepage": "https://fonts.google.com/specimen/Gayathri",
+  "copyright": "Copyright 2019 The Gayathri Project Authors (https://gitlab.com/smc/fonts/gayathri)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gayathri",
+      "files": [
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoWzAb429DbBilWLLhc-pvSA_gA2W8.ttf",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoQzAb429DbBilWLIA48J_wBugA.ttf",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoXzAb429DbBilWLLiE37v4LfQJwHbn.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoWzAb429DbBilWLLhc-pvSA_gA2W8.ttf",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoQzAb429DbBilWLIA48J_wBugA.ttf",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoXzAb429DbBilWLLiE37v4LfQJwHbn.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gayathri",
+      "files": [
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoWzAb429DbBilWLLhc-p7SA_gA2W8.woff2",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoQzAb429DbBilWLIA98J_wBugA.woff2",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoXzAb429DbBilWLLiE37v9LfQJwHbn.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoWzAb429DbBilWLLhc-p7SA_gA2W8.woff2",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoQzAb429DbBilWLIA98J_wBugA.woff2",
+        "https://fonts.gstatic.com/s/gayathri/v20/MCoXzAb429DbBilWLLiE37v9LfQJwHbn.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gayathri Thin",
+      "styles": [
+        {
+          "family_name": "Gayathri Thin",
+          "type": "Regular",
+          "full_name": "Gayathri Thin",
+          "post_script_name": "Gayathri-Thin",
+          "version": "1.000",
+          "copyright": "Copyright 2019 The Gayathri Project Authors (https://gitlab.com/smc/fonts/gayathri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoWzAb429DbBilWLLhc-pvSA_gA2W8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gayathri",
+      "styles": [
+        {
+          "family_name": "Gayathri",
+          "type": "Regular",
+          "full_name": "Gayathri Regular",
+          "post_script_name": "Gayathri-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2019 The Gayathri Project Authors (https://gitlab.com/smc/fonts/gayathri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoQzAb429DbBilWLIA48J_wBugA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gayathri",
+          "type": "Bold",
+          "full_name": "Gayathri Bold",
+          "post_script_name": "Gayathri-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2019 The Gayathri Project Authors (https://gitlab.com/smc/fonts/gayathri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoXzAb429DbBilWLLiE37v4LfQJwHbn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

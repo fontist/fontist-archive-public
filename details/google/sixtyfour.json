@@ -1,0 +1,66 @@
+{
+  "slug": "google/sixtyfour",
+  "name": "sixtyfour",
+  "description": "Sixtyfour and Workbench fonts are inspired by the article Raster CRT Typography (According to DEC) by Norbert Landsteiner. They are a rework of some old pixel versions of the Commodore 64 and Amiga Workbench fonts the author created years ago. The fonts now include two custom axes: Scanlines , which allows control of the height of the lines and, as a result of this, the amount of vertical space between the lines. And Bleed to change the amount of horizontal bleed of the pixels due to the phosphor latency found in CRT displays. Due to this project's specificity and the fonts' historical origin, they only support a limited set of glyphs. To contribute, see github.com/jenskutilek/homecomputer-fonts",
+  "homepage": "https://fonts.google.com/specimen/Sixtyfour",
+  "copyright": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Sixtyfour",
+      "files": [
+        "https://fonts.gstatic.com/s/sixtyfour/v3/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f73dnyS5ZuOV.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sixtyfour/v3/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f73dnyS5ZuOV.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "BLED",
+        "SCAN"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Sixtyfour",
+      "files": [
+        "https://fonts.gstatic.com/s/sixtyfour/v3/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f73YnyS5ZuOV.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sixtyfour/v3/OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f73YnyS5ZuOV.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "BLED",
+        "SCAN"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sixtyfour",
+      "styles": [
+        {
+          "family_name": "Sixtyfour",
+          "type": "Regular",
+          "full_name": "Sixtyfour Regular",
+          "post_script_name": "Sixtyfour-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "OD5vuMCT1numDm3nakXtp2h4jg463t9haG_3mBkVsV20uFT3BAE5f73YnyS5ZuOV.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

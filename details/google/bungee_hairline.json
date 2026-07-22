@@ -1,0 +1,58 @@
+{
+  "slug": "google/bungee_hairline",
+  "name": "bungee_hairline",
+  "description": "Bungee Hairline font family",
+  "homepage": "https://fonts.google.com/specimen/Bungee+Hairline",
+  "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bungee Hairline",
+      "files": [
+        "https://fonts.gstatic.com/s/bungeehairline/v26/snfys0G548t04270a_ljTLUVrv-7YB2dQ5ZPqQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungeehairline/v26/snfys0G548t04270a_ljTLUVrv-7YB2dQ5ZPqQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bungee Hairline",
+      "files": [
+        "https://fonts.gstatic.com/s/bungeehairline/v26/snfys0G548t04270a_ljTLUVrv-7ZR2dQ5ZPqQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungeehairline/v26/snfys0G548t04270a_ljTLUVrv-7ZR2dQ5ZPqQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bungee Hairline",
+      "styles": [
+        {
+          "family_name": "Bungee Hairline",
+          "type": "Regular",
+          "full_name": "Bungee Hairline Regular",
+          "post_script_name": "BungeeHairline-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "snfys0G548t04270a_ljTLUVrv-7YB2dQ5ZPqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

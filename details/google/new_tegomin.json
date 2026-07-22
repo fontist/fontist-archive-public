@@ -1,0 +1,58 @@
+{
+  "slug": "google/new_tegomin",
+  "name": "new_tegomin",
+  "description": "A Mincho (Japanese Serif) style font which has been drawn on a square grid. It takes inspiration from Mincho's clean and well organized appearance and the organic nature of handwritten letterforms. To contribute to the project, visit github.com/nagamaki008/NewTegomin",
+  "homepage": "https://fonts.google.com/specimen/New+Tegomin",
+  "copyright": "Copyright 2020 The New Tegomin Project Authors (https://github.com/nagamaki008/NewTegomin)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "New Tegomin",
+      "files": [
+        "https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "New Tegomin",
+      "files": [
+        "https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqfNxQ3ptkDMN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/newtegomin/v13/SLXMc1fV7Gd9USdBAfPlqfNxQ3ptkDMN.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "New Tegomin",
+      "styles": [
+        {
+          "family_name": "New Tegomin",
+          "type": "Regular",
+          "full_name": "New Tegomin Regular",
+          "post_script_name": "NewTegomin-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The New Tegomin Project Authors (https://github.com/nagamaki008/NewTegomin)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXMc1fV7Gd9USdBAfPlqfN0Q3ptkDMN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

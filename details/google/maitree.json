@@ -1,0 +1,173 @@
+{
+  "slug": "google/maitree",
+  "name": "maitree",
+  "description": "Maitree means &#8220;friendliness&#8221; in Thai. Maitree is a serif Latin and looped Thai typeface with wide proportions. It is characterized by its bigger-than-usual looped terminal in Thai, and long serifs in Latin, that balance out the whole structure. Maitree offers 6 weights, and its asymmetrically curved terminals are well-suited for both formal and casual usage, especially for works that require an antique and historical manner. A similarity between some glyphs such as ก ถ ภ ฤ ฦ, ฎ ฏ, บ ป, or ข ช is something to take into consideration because it might lead to confusion when typesetting very short texts. Sizes and positions of Thai vowels and tone marks have been managed carefully, because they are all relevant to readability, legibility, and overall texture. The Maitree project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/maitree",
+  "homepage": "https://fonts.google.com/specimen/Maitree",
+  "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Maitree",
+      "files": [
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklhGNWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklnWOWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQGmil5tffhpBrkrtmmfJmDoL4.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrkli2PWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklgGIWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklmWJWJGovLdh6OE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklhGNWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklnWOWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQGmil5tffhpBrkrtmmfJmDoL4.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrkli2PWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklgGIWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklmWJWJGovLdh6OE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Maitree",
+      "files": [
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklhGNWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklnWOWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQGmil5tffhpBrkrtymfJmDoL4.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrkli2PWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklgGIWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklmWJWJSovLdh6OE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklhGNWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklnWOWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQGmil5tffhpBrkrtymfJmDoL4.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrkli2PWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklgGIWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/maitree/v11/MjQDmil5tffhpBrklmWJWJSovLdh6OE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Maitree ExtraLight",
+      "styles": [
+        {
+          "family_name": "Maitree ExtraLight",
+          "type": "Regular",
+          "full_name": "Maitree-ExtraLight",
+          "post_script_name": "Maitree-ExtraLight",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQDmil5tffhpBrklhGNWJGovLdh6OE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maitree Light",
+      "styles": [
+        {
+          "family_name": "Maitree Light",
+          "type": "Regular",
+          "full_name": "Maitree-Light",
+          "post_script_name": "Maitree-Light",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQDmil5tffhpBrklnWOWJGovLdh6OE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maitree",
+      "styles": [
+        {
+          "family_name": "Maitree",
+          "type": "Regular",
+          "full_name": "Maitree",
+          "post_script_name": "Maitree",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQGmil5tffhpBrkrtmmfJmDoL4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Maitree",
+          "type": "Bold",
+          "full_name": "Maitree Bold",
+          "post_script_name": "Maitree-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQDmil5tffhpBrklmWJWJGovLdh6OE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maitree Medium",
+      "styles": [
+        {
+          "family_name": "Maitree Medium",
+          "type": "Regular",
+          "full_name": "Maitree-Medium",
+          "post_script_name": "Maitree-Medium",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQDmil5tffhpBrkli2PWJGovLdh6OE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Maitree SemiBold",
+      "styles": [
+        {
+          "family_name": "Maitree SemiBold",
+          "type": "Regular",
+          "full_name": "Maitree-SemiBold",
+          "post_script_name": "Maitree-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQDmil5tffhpBrklgGIWJGovLdh6OE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

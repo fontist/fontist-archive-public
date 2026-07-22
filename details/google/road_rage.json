@@ -1,0 +1,58 @@
+{
+  "slug": "google/road_rage",
+  "name": "road_rage",
+  "description": "Road Rage is a return to the days of grunge. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/road-rage .",
+  "homepage": "https://fonts.google.com/specimen/Road+Rage",
+  "copyright": "Copyright 2010 The Road Rage Project Authors (https://github.com/googlefonts/road-rage)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Road Rage",
+      "files": [
+        "https://fonts.gstatic.com/s/roadrage/v9/6NUU8F2fKAOBKjjr4ekvtMYAwdRZfw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/roadrage/v9/6NUU8F2fKAOBKjjr4ekvtMYAwdRZfw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Road Rage",
+      "files": [
+        "https://fonts.gstatic.com/s/roadrage/v9/6NUU8F2fKAOBKjjr4ekvscYAwdRZfw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/roadrage/v9/6NUU8F2fKAOBKjjr4ekvscYAwdRZfw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Road Rage",
+      "styles": [
+        {
+          "family_name": "Road Rage",
+          "type": "Regular",
+          "full_name": "Road Rage Regular",
+          "post_script_name": "RoadRage-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2010 The Road Rage Project Authors (https://github.com/googlefonts/road-rage)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6NUU8F2fKAOBKjjr4ekvtMYAwdRZfw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/jolly_lodger",
+  "name": "jolly_lodger",
+  "description": "Wherever your travels may take you, you'll always find a confortable host off the interstate at the Jolly Lodger! Air conditioning, cable television and the freshest assortment of baked goods delivered fresh to your room each morning! So grab a roll of quarters and enjoy a relaxing Magic Fingers massage as you head into the mid-century with this nifty typeface! Designed by Stuart Sandler of Font Diner, Inc. To contribute to the project contact the Font Diner .",
+  "homepage": "https://fonts.google.com/specimen/Jolly+Lodger",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc (diner@fontdiner.com) with Reseved Font Name \"Jolly Lodger\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jolly Lodger",
+      "files": [
+        "https://fonts.gstatic.com/s/jollylodger/v21/BXRsvFTAh_bGkA1uQ48dlB3VWerT3ZyuqA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jollylodger/v21/BXRsvFTAh_bGkA1uQ48dlB3VWerT3ZyuqA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jolly Lodger",
+      "files": [
+        "https://fonts.gstatic.com/s/jollylodger/v21/BXRsvFTAh_bGkA1uQ48dlB3VXOrT3ZyuqA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jollylodger/v21/BXRsvFTAh_bGkA1uQ48dlB3VXOrT3ZyuqA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jolly Lodger",
+      "styles": [
+        {
+          "family_name": "Jolly Lodger",
+          "type": "Regular",
+          "full_name": "Jolly Lodger",
+          "post_script_name": "JollyLodger",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc (diner@fontdiner.com) with Reseved Font Name \"Jolly Lodger\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BXRsvFTAh_bGkA1uQ48dlB3VWerT3ZyuqA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

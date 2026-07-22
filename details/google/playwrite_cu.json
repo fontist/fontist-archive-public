@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_cu",
+  "name": "playwrite_cu",
+  "description": "Playwrite CU font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+CU",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite CU",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmwZeH7m2YIByI.woff2",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseZmxZeH7m2YIByI.woff2",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseUexZeH7m2YIByI.woff2",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxZeH7m2YIByI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmwZeH7m2YIByI.woff2",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseZmxZeH7m2YIByI.woff2",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseUexZeH7m2YIByI.woff2",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxZeH7m2YIByI.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite CU",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmwZeT7m2YIByI.ttf",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseZmxZeT7m2YIByI.ttf",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseUexZeT7m2YIByI.ttf",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxZeT7m2YIByI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmwZeT7m2YIByI.ttf",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseZmxZeT7m2YIByI.ttf",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseUexZeT7m2YIByI.ttf",
+        "https://fonts.gstatic.com/s/playwritecu/v6/VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxZeT7m2YIByI.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite CU Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite CU Thin",
+          "type": "Regular",
+          "full_name": "Playwrite CU Thin",
+          "post_script_name": "PlaywriteCU-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmwZeT7m2YIByI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite CU ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite CU ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite CU ExtraLight",
+          "post_script_name": "PlaywriteCU-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseZmxZeT7m2YIByI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite CU Light",
+      "styles": [
+        {
+          "family_name": "Playwrite CU Light",
+          "type": "Regular",
+          "full_name": "Playwrite CU Light",
+          "post_script_name": "PlaywriteCU-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseUexZeT7m2YIByI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite CU",
+      "styles": [
+        {
+          "family_name": "Playwrite CU",
+          "type": "Regular",
+          "full_name": "Playwrite CU Regular",
+          "post_script_name": "PlaywriteCU-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "VuJjdNDb2p7tvoFGLMPdf9xcahOpb9ZuoyXseRmxZeT7m2YIByI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

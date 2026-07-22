@@ -1,0 +1,58 @@
+{
+  "slug": "google/gabriela",
+  "name": "gabriela",
+  "description": "Gabriela is a Latin and Cyrillic serif typeface with soft shapes, and special terminal forms which are shaped like curls. They connect each letter to create attractive word shapes and text blocks with a fine texture. In small bodies of text it works well for reading, and in headlines provides interesting details to catch the eye. In 2015, the design was extended to the Devanagari writing system and published as Kurale . It was updated in 2023 with additional Latin language support and a bigger glyphset, proper fractions, and minor aesthetic improvements. To contribute, see github.com/etunni/Gabriela",
+  "homepage": "https://fonts.google.com/specimen/Gabriela",
+  "copyright": "Copyright 2013 The Gabriela Project Authors (https://github.com/etunni/Gabriela), with Reserved Font Name \"Gabriela\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gabriela",
+      "files": [
+        "https://fonts.gstatic.com/s/gabriela/v23/qkBWXvsO6sreR8E-b_m-zrpHmRzC.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gabriela/v23/qkBWXvsO6sreR8E-b_m-zrpHmRzC.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gabriela",
+      "files": [
+        "https://fonts.gstatic.com/s/gabriela/v23/qkBWXvsO6sreR8E-b_m7zrpHmRzC.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gabriela/v23/qkBWXvsO6sreR8E-b_m7zrpHmRzC.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gabriela",
+      "styles": [
+        {
+          "family_name": "Gabriela",
+          "type": "Regular",
+          "full_name": "Gabriela Regular",
+          "post_script_name": "Gabriela-Regular",
+          "version": "2.001;gftools[0.9.26]",
+          "copyright": "Copyright 2013 The Gabriela Project Authors (https://github.com/etunni/Gabriela), with Reserved Font Name \"Gabriela\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qkBWXvsO6sreR8E-b_m-zrpHmRzC.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

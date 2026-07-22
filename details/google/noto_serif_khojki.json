@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_serif_khojki",
+  "name": "noto_serif_khojki",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Khojki is an modulated (“serif”) design for texts in the Indic Khojki script. It has 423 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Khojki",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Serif Khojki",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvzJ0Qtc5HAQ.woff2",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvzJ0Qtc5HAQ.woff2",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vzJ0Qtc5HAQ.woff2",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vzJ0Qtc5HAQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvzJ0Qtc5HAQ.woff2",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvzJ0Qtc5HAQ.woff2",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vzJ0Qtc5HAQ.woff2",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vzJ0Qtc5HAQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Serif Khojki",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvyZ0Qtc5HAQ.ttf",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvyZ0Qtc5HAQ.ttf",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vyZ0Qtc5HAQ.ttf",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vyZ0Qtc5HAQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvyZ0Qtc5HAQ.ttf",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvyZ0Qtc5HAQ.ttf",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vyZ0Qtc5HAQ.ttf",
+        "https://fonts.gstatic.com/s/notoserifkhojki/v13/I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vyZ0Qtc5HAQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Khojki",
+      "styles": [
+        {
+          "family_name": "Noto Serif Khojki",
+          "type": "Regular",
+          "full_name": "Noto Serif Khojki Regular",
+          "post_script_name": "NotoSerifKhojki-Regular",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY0ghvyZ0Qtc5HAQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Serif Khojki",
+          "type": "Bold",
+          "full_name": "Noto Serif Khojki Bold",
+          "post_script_name": "NotoSerifKhojki-Bold",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYNQ9vyZ0Qtc5HAQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Khojki Medium",
+      "styles": [
+        {
+          "family_name": "Noto Serif Khojki Medium",
+          "type": "Regular",
+          "full_name": "Noto Serif Khojki Medium",
+          "post_script_name": "NotoSerifKhojki-Medium",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMY4AhvyZ0Qtc5HAQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Khojki SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Serif Khojki SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Serif Khojki SemiBold",
+          "post_script_name": "NotoSerifKhojki-SemiBold",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khojki)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "I_uHMoOduATTei9aP90ctmPGxP2rBKTM4mcQ5M3z9QMYDA9vyZ0Qtc5HAQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

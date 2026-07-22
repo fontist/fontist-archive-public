@@ -1,0 +1,58 @@
+{
+  "slug": "google/donegal_one",
+  "name": "donegal_one",
+  "description": "Foundry: Sorkin Type Co Donegal One is a text typeface designed to be highly legible and comfortable when reading on screen. Donegal's utility and personality consistently shows from small text sizes to display. Donegal uses the cut interior curve associated with W.A. Dwiggins. This feature is one of many that contribute to Donegal's distinctive and pleasing character. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Donegal+One",
+  "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Donegal'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Donegal One",
+      "files": [
+        "https://fonts.gstatic.com/s/donegalone/v22/m8JWjfRYea-ZnFz6fsK9FZRFRG-K3Mud.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/donegalone/v22/m8JWjfRYea-ZnFz6fsK9FZRFRG-K3Mud.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Donegal One",
+      "files": [
+        "https://fonts.gstatic.com/s/donegalone/v22/m8JWjfRYea-ZnFz6fsK9FZRARG-K3Mud.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/donegalone/v22/m8JWjfRYea-ZnFz6fsK9FZRARG-K3Mud.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Donegal One",
+      "styles": [
+        {
+          "family_name": "Donegal One",
+          "type": "Regular",
+          "full_name": "Donegal One",
+          "post_script_name": "DonegalOne-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Donegal'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "m8JWjfRYea-ZnFz6fsK9FZRFRG-K3Mud.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

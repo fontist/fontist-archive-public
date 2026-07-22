@@ -1,0 +1,57 @@
+{
+  "slug": "google/ponomar",
+  "name": "ponomar",
+  "description": "Ponomar is a contemporary Church Slavonic font that reproduces the typeface used in editions published by the Synodal Press of the Russian Orthodox Church in the early twentieth century. It is presently used in various liturgical books published by the Moscow Patriarchate. It also contains characters needed to typeset liturgical texts in Romanian (Moldovan) Cyrillic, Aleut, and Sakha (Yakut). To contribute, please see github.com/slavonic/Ponomar .",
+  "homepage": "https://fonts.google.com/specimen/Ponomar",
+  "copyright": "Copyright 2025 The Ponomar Project Authors (https://github.com/slavonic/ponomar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ponomar",
+      "files": [
+        "https://fonts.gstatic.com/s/ponomar/v5/or3iQ6zp3fKD2wImbJTdArg8hzo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ponomar/v5/or3iQ6zp3fKD2wImbJTdArg8hzo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ponomar",
+      "files": [
+        "https://fonts.gstatic.com/s/ponomar/v5/or3iQ6zp3fKD2wImbJHdArg8hzo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ponomar/v5/or3iQ6zp3fKD2wImbJHdArg8hzo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ponomar",
+      "styles": [
+        {
+          "family_name": "Ponomar",
+          "type": "Regular",
+          "full_name": "Ponomar Regular",
+          "post_script_name": "Ponomar-Regular",
+          "version": "1.302; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Ponomar Project Authors (https://github.com/slavonic/ponomar)",
+          "variable_font": false,
+          "font": "or3iQ6zp3fKD2wImbJTdArg8hzo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

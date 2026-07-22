@@ -1,0 +1,58 @@
+{
+  "slug": "google/henny_penny",
+  "name": "henny_penny",
+  "description": "Henny Penny is an offbeat display font with loads of personality, named in honour of the fairy-tale character chicken Henny Penny. It is a friendly and playful decorative typeface. Its classical nature is successfully hidden behind its very informal structure: There is no common baseline, no common character size and no common slope of the letters. This makes the typeface very amusing. HennyPenny is a headline typeface for use in large size fonts. It may be used for childrens books, magazines and websites. Designed by Olga Umpeleva for Brownfox. To contribute to the project contact Gayaneh Bagdasaryan .",
+  "homepage": "https://fonts.google.com/specimen/Henny+Penny",
+  "copyright": "Copyright (c) 2012, Brownfox (gayaneh.b@gmail.com), with Reserved Font Name \"Henny Penny\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Henny Penny",
+      "files": [
+        "https://fonts.gstatic.com/s/hennypenny/v18/wXKvE3UZookzsxz_kjGSfMQqt3M7tMDT.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hennypenny/v18/wXKvE3UZookzsxz_kjGSfMQqt3M7tMDT.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Henny Penny",
+      "files": [
+        "https://fonts.gstatic.com/s/hennypenny/v18/wXKvE3UZookzsxz_kjGSfMQvt3M7tMDT.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hennypenny/v18/wXKvE3UZookzsxz_kjGSfMQvt3M7tMDT.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Henny Penny",
+      "styles": [
+        {
+          "family_name": "Henny Penny",
+          "type": "Regular",
+          "full_name": "Henny Penny",
+          "post_script_name": "HennyPenny-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Brownfox (gayaneh.b@gmail.com), with Reserved Font Name \"Henny Penny\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wXKvE3UZookzsxz_kjGSfMQqt3M7tMDT.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

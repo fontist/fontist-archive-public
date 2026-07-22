@@ -1,0 +1,77 @@
+{
+  "slug": "google/fragment_mono",
+  "name": "fragment_mono",
+  "description": "Fragment Mono is a monospaced coding version of Helvetica created by modifying and extending Nimbus Sans by URW Design Studio. Fragment Mono is designed by Wei Huang based on Nimbus Sans by URW Design Studio, based on Helvetica by Max Miedinger. To contribute, see github.com/weiweihuanghuang/fragment-mono/",
+  "homepage": "https://fonts.google.com/specimen/Fragment+Mono",
+  "copyright": "Copyright 2022 The Fragment-Mono Project Authors (https://github.com/weiweihuanghuang/fragment-mono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fragment Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnN4RNh4UI_1U.ttf",
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iC16K5wfMRRjxp0DA6-2CLnB4ZHg6cN71URtQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnN4RNh4UI_1U.ttf",
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iC16K5wfMRRjxp0DA6-2CLnB4ZHg6cN71URtQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fragment Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnN4FNh4UI_1U.woff2",
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iC16K5wfMRRjxp0DA6-2CLnB4ZHhqcN71URtQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iCr6K5wfMRRjxp0DA6-2CLnN4FNh4UI_1U.woff2",
+        "https://fonts.gstatic.com/s/fragmentmono/v6/4iC16K5wfMRRjxp0DA6-2CLnB4ZHhqcN71URtQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fragment Mono",
+      "styles": [
+        {
+          "family_name": "Fragment Mono",
+          "type": "Regular",
+          "full_name": "Fragment Mono Regular",
+          "post_script_name": "FragmentMono-Regular",
+          "version": "1.011; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Fragment-Mono Project Authors (https://github.com/weiweihuanghuang/fragment-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iCr6K5wfMRRjxp0DA6-2CLnN4RNh4UI_1U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Fragment Mono",
+          "type": "Italic",
+          "full_name": "Fragment Mono Italic",
+          "post_script_name": "FragmentMono-Italic",
+          "version": "1.011; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Fragment-Mono Project Authors (https://github.com/weiweihuanghuang/fragment-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iC16K5wfMRRjxp0DA6-2CLnB4ZHg6cN71URtQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

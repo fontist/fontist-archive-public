@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_au_nsw",
+  "name": "playwrite_au_nsw",
+  "description": "Playwrite AU NSW font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+AU+NSW",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite AU NSW",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML9_TD2dC1gS.woff2",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb9_TD2dC1gS.woff2",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb9_TD2dC1gS.woff2",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb9_TD2dC1gS.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML9_TD2dC1gS.woff2",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb9_TD2dC1gS.woff2",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb9_TD2dC1gS.woff2",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb9_TD2dC1gS.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite AU NSW",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML96TD2dC1gS.ttf",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb96TD2dC1gS.ttf",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb96TD2dC1gS.ttf",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb96TD2dC1gS.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML96TD2dC1gS.ttf",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb96TD2dC1gS.ttf",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb96TD2dC1gS.ttf",
+        "https://fonts.gstatic.com/s/playwriteaunsw/v11/6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb96TD2dC1gS.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite AU NSW Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite AU NSW Thin",
+          "type": "Regular",
+          "full_name": "Playwrite AU NSW Thin",
+          "post_script_name": "PlaywriteAUNSW-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjML96TD2dC1gS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AU NSW ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite AU NSW ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite AU NSW ExtraLight",
+          "post_script_name": "PlaywriteAUNSW-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xbjMb96TD2dC1gS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AU NSW Light",
+      "styles": [
+        {
+          "family_name": "Playwrite AU NSW Light",
+          "type": "Regular",
+          "full_name": "Playwrite AU NSW Light",
+          "post_script_name": "PlaywriteAUNSW-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xY9Mb96TD2dC1gS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AU NSW",
+      "styles": [
+        {
+          "family_name": "Playwrite AU NSW",
+          "type": "Regular",
+          "full_name": "Playwrite AU NSW Regular",
+          "post_script_name": "PlaywriteAUNSW-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "6qLWKY4NtxD-qVlIPUIPenElWCCEWRgilpupBXi19xZjMb96TD2dC1gS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

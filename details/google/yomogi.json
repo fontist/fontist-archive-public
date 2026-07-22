@@ -1,0 +1,58 @@
+{
+  "slug": "google/yomogi",
+  "name": "yomogi",
+  "description": "Yomogi is extra thin hand writing font that is easy to read and makes a strong impression. It includes Google Latin Plus, hiragana, katakana, JIS level 1 and 2 kanji glyphs. The design of the letters combined cuteness and readability, and it is made into a monospaced font that could also be used in the vertical writing style. To contribute to the project, visit github.com/satsuyako/YomogiFont",
+  "homepage": "https://fonts.google.com/specimen/Yomogi",
+  "copyright": "Copyright 2020 The Yomogi Project Authors (https://github.com/satsuyako/YomogiFont), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yomogi",
+      "files": [
+        "https://fonts.gstatic.com/s/yomogi/v13/VuJwdNrS2ZL7rpoPWIz5NIh-YA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yomogi/v13/VuJwdNrS2ZL7rpoPWIz5NIh-YA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yomogi",
+      "files": [
+        "https://fonts.gstatic.com/s/yomogi/v13/VuJwdNrS2ZL7rpoPXYz5NIh-YA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yomogi/v13/VuJwdNrS2ZL7rpoPXYz5NIh-YA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yomogi",
+      "styles": [
+        {
+          "family_name": "Yomogi",
+          "type": "Regular",
+          "full_name": "Yomogi Regular",
+          "post_script_name": "Yomogi-Regular",
+          "version": "3.100",
+          "copyright": "Copyright 2020 The Yomogi Project Authors (https://github.com/satsuyako/YomogiFont), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJwdNrS2ZL7rpoPWIz5NIh-YA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

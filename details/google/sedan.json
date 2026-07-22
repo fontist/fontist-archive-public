@@ -1,0 +1,77 @@
+{
+  "slug": "google/sedan",
+  "name": "sedan",
+  "description": "Sedan is a Garalde typeface prized for its timeless elegance, perfect for enhancing publications. With balanced proportions, subtle contrasts, and graceful serifs, Sedan offer both clarity and sophistication. Its versatility makes it ideal for various print materials, from magazines to scholarly journals, ensuring text remains inviting and accessible while exuding classic charm. Sedan embodies the enduring allure of Garalde designs in publishing. Sedan SC is also available, a small caps sister family next to the Roman and Italic Sedan . To contribute, see github.com/googlefonts/sedan .",
+  "homepage": "https://fonts.google.com/specimen/Sedan",
+  "copyright": "Copyright 2023 The Sedan Project Authors (https://github.com/googlefonts/sedan)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sedan",
+      "files": [
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOSiTpovf5b.ttf",
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgz5KuO5bjxE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOSiTpovf5b.ttf",
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgz5KuO5bjxE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sedan",
+      "files": [
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6a-L-VVyD6-eOXiTpovf5b.woff2",
+        "https://fonts.gstatic.com/s/sedan/v1/Yq6U-L-VVyD6-dOQgztKuO5bjxE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sedan",
+      "styles": [
+        {
+          "family_name": "Sedan",
+          "type": "Regular",
+          "full_name": "Sedan Regular",
+          "post_script_name": "Sedan-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Sedan Project Authors (https://github.com/googlefonts/sedan)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "Yq6a-L-VVyD6-eOSiTpovf5b.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sedan",
+          "type": "Italic",
+          "full_name": "Sedan Italic",
+          "post_script_name": "Sedan-Italic",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Sedan Project Authors (https://github.com/googlefonts/sedan)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "Yq6U-L-VVyD6-dOQgz5KuO5bjxE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

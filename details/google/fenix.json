@@ -1,0 +1,58 @@
+{
+  "slug": "google/fenix",
+  "name": "fenix",
+  "description": "Fenix is a serif typeface designed for use in both display and long text. Very inspired by calligraphy, it has strong serifs and rough strokes. Its proportions are designed to gain space savings in text, both in height and width. It is elegant at large sizes and legible at the same time, with a lot of rhythm in small sizes.",
+  "homepage": "https://fonts.google.com/specimen/Fenix",
+  "copyright": "Copyright (c) 2012 by Fernando Diaz (fer@ferfolio.com), with Reserved Font Name 'Fenix'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fenix",
+      "files": [
+        "https://fonts.gstatic.com/s/fenix/v21/XoHo2YL_S7-g5ostKzAFvs8o.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fenix/v21/XoHo2YL_S7-g5ostKzAFvs8o.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fenix",
+      "files": [
+        "https://fonts.gstatic.com/s/fenix/v21/XoHo2YL_S7-g5osoKzAFvs8o.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fenix/v21/XoHo2YL_S7-g5osoKzAFvs8o.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fenix",
+      "styles": [
+        {
+          "family_name": "Fenix",
+          "type": "Regular",
+          "full_name": "Fenix",
+          "post_script_name": "Fenix",
+          "version": "004.301",
+          "copyright": "Copyright (c) 2012 by Fernando Diaz (fer@ferfolio.com), with Reserved Font Name 'Fenix'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "XoHo2YL_S7-g5ostKzAFvs8o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

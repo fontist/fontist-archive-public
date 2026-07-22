@@ -1,0 +1,58 @@
+{
+  "slug": "google/imprima",
+  "name": "imprima",
+  "description": "Imprima looks excellent even on cheap home printers because it has broad counters, strong joins between stems and inktraps that enable it to perform well in very small sizes. Professionally printed documents will make it look even better, especially in large sizes, because there the details of its design that are distinctive become clearly visible. The design of this typeface family is cared for as one cares for your own family. Each component has been treated humanely, by hand. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/imprima .",
+  "homepage": "https://fonts.google.com/specimen/Imprima",
+  "copyright": "Copyright 2012 The Imprima Project Authors (https://github.com/etunni/imprima), with Reserved Font Name \"Imprima\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Imprima",
+      "files": [
+        "https://fonts.gstatic.com/s/imprima/v19/VEMxRoN7sY3yuy-7-oWHyDzktPo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/imprima/v19/VEMxRoN7sY3yuy-7-oWHyDzktPo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Imprima",
+      "files": [
+        "https://fonts.gstatic.com/s/imprima/v19/VEMxRoN7sY3yuy-7-oCHyDzktPo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/imprima/v19/VEMxRoN7sY3yuy-7-oCHyDzktPo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Imprima",
+      "styles": [
+        {
+          "family_name": "Imprima",
+          "type": "Regular",
+          "full_name": "Imprima Regular",
+          "post_script_name": "Imprima-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2012 The Imprima Project Authors (https://github.com/etunni/imprima), with Reserved Font Name \"Imprima\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VEMxRoN7sY3yuy-7-oWHyDzktPo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

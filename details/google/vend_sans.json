@@ -1,0 +1,250 @@
+{
+  "slug": "google/vend_sans",
+  "name": "vend_sans",
+  "description": "Vend Sans font family",
+  "homepage": "https://fonts.google.com/specimen/Vend+Sans",
+  "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Vend Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqgeqzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqlmqzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqmuqzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqoetzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqr6tzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpeXTDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpJ3TDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpFXTDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5Hp-XPDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpwHPDQSBrAJz0nA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqgeqzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqlmqzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqmuqzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqoetzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqr6tzzLJQAJuEJw.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpeXTDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpJ3TDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpFXTDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5Hp-XPDQSBrAJz0nA.woff2",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpwHPDQSBrAJz0nA.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Vend Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqgeqzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqlmqzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqmuqzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqoetzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqr6tzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpeXTDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpJ3TDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpFXTDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5Hp-XPDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpwHPDRCBrAJz0nA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqgeqzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqlmqzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqmuqzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqoetzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E212_d7ijufNwCJPEUs2WCek2ncUdeeBqr6tzzfJQAJuEJw.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpeXTDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpJ3TDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpFXTDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5Hp-XPDRCBrAJz0nA.ttf",
+        "https://fonts.gstatic.com/s/vendsans/v1/E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpwHPDRCBrAJz0nA.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vend Sans Light",
+      "styles": [
+        {
+          "family_name": "Vend Sans Light",
+          "type": "Regular",
+          "full_name": "Vend Sans Light",
+          "post_script_name": "VendSans-Light",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E212_d7ijufNwCJPEUs2WCek2ncUdeeBqgeqzzfJQAJuEJw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vend Sans Light",
+          "type": "Italic",
+          "full_name": "Vend Sans Light Italic",
+          "post_script_name": "VendSans-LightItalic",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpeXTDRCBrAJz0nA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vend Sans",
+      "styles": [
+        {
+          "family_name": "Vend Sans",
+          "type": "Regular",
+          "full_name": "Vend Sans Regular",
+          "post_script_name": "VendSans-Regular",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E212_d7ijufNwCJPEUs2WCek2ncUdeeBqlmqzzfJQAJuEJw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vend Sans",
+          "type": "Bold",
+          "full_name": "Vend Sans Bold",
+          "post_script_name": "VendSans-Bold",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E212_d7ijufNwCJPEUs2WCek2ncUdeeBqr6tzzfJQAJuEJw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vend Sans",
+          "type": "Italic",
+          "full_name": "Vend Sans Italic",
+          "post_script_name": "VendSans-Italic",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpJ3TDRCBrAJz0nA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vend Sans",
+          "type": "Bold Italic",
+          "full_name": "Vend Sans Bold Italic",
+          "post_script_name": "VendSans-BoldItalic",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpwHPDRCBrAJz0nA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vend Sans Medium",
+      "styles": [
+        {
+          "family_name": "Vend Sans Medium",
+          "type": "Regular",
+          "full_name": "Vend Sans Medium",
+          "post_script_name": "VendSans-Medium",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E212_d7ijufNwCJPEUs2WCek2ncUdeeBqmuqzzfJQAJuEJw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vend Sans Medium",
+          "type": "Italic",
+          "full_name": "Vend Sans Medium Italic",
+          "post_script_name": "VendSans-MediumItalic",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E210_d7ijufNwCJPEUscURVbAh5_70mGv5HpFXTDRCBrAJz0nA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vend Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Vend Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Vend Sans SemiBold",
+          "post_script_name": "VendSans-SemiBold",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E212_d7ijufNwCJPEUs2WCek2ncUdeeBqoetzzfJQAJuEJw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vend Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Vend Sans SemiBold Italic",
+          "post_script_name": "VendSans-SemiBoldItalic",
+          "version": "1.611",
+          "copyright": "Copyright 2025 The Vend Sans Project Authors (https://github.com/ktkm/Vend-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "E210_d7ijufNwCJPEUscURVbAh5_70mGv5Hp-XPDRCBrAJz0nA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

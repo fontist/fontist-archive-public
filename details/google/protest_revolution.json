@@ -1,0 +1,58 @@
+{
+  "slug": "google/protest_revolution",
+  "name": "protest_revolution",
+  "description": "The Protest Types began as personal project by designer Octavio Pardo to reflect on the shapes and voices of protest signs. So far it spans four font families, each with a different voice. Protest Revolution expresses the furious and messy painted signs. An import and novel design feature of the project as a whole:Strike, Guerrilla and Riot all share the same spacing and kerning. This means designers have the possibility to write a message, and then decide the level of passion (or anger) that they want to express that message with, without altering any line lengths or page layouts. To contribute, please see github.com/octaviopardo/Protest .",
+  "homepage": "https://fonts.google.com/specimen/Protest+Revolution",
+  "copyright": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Protest Revolution",
+      "files": [
+        "https://fonts.gstatic.com/s/protestrevolution/v2/11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2s8PIzTG1nQw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/protestrevolution/v2/11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2s8PIzTG1nQw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Protest Revolution",
+      "files": [
+        "https://fonts.gstatic.com/s/protestrevolution/v2/11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2s9fIzTG1nQw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/protestrevolution/v2/11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2s9fIzTG1nQw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Protest Revolution",
+      "styles": [
+        {
+          "family_name": "Protest Revolution",
+          "type": "Regular",
+          "full_name": "Protest Revolution Regular",
+          "post_script_name": "ProtestRevolution-Regular",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The Protest Project Authors (https://github.com/octaviopardo/Protest)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "11hcGofZ0kXBbxQXFB7MJsjtqnVw6Z2s8PIzTG1nQw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

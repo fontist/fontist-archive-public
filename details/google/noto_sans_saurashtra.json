@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_saurashtra",
+  "name": "noto_sans_saurashtra",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Saurashtra is an unmodulated (“sans serif”) design for texts in the Indic Saurashtra script. It has 96 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Saurashtra",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/saurashtra)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Saurashtra",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Saurashtra",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssaurashtra/v24/ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9nYjhPTSIx9.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Saurashtra",
+      "styles": [
+        {
+          "family_name": "Noto Sans Saurashtra",
+          "type": "Regular",
+          "full_name": "Noto Sans Saurashtra Regular",
+          "post_script_name": "NotoSansSaurashtra-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/saurashtra)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ea8GacQ0Wfz_XKWXe6OtoA8w8zvmYwTef9ndjhPTSIx9.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

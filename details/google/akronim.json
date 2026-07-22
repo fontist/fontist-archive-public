@@ -1,0 +1,58 @@
+{
+  "slug": "google/akronim",
+  "name": "akronim",
+  "description": "Akronim is a brand-new, original, brush like, stylish font with a Western and Central European (e.g. Polish, Croatian, Czech, Magyar etc.) Latin character set. Handmade in Poland, Europe, by Grzegorz Klimczewski . An acronym (in Polish, \"akronim\") is an abbreviation that forms a word. So this story is cut short. To understand it, imagine a nice girl with beautifully plaited slavic hair, strolling among the fields of wheat. If you imagine this, you will find a good use for this tasteful, brand-new typeface.",
+  "homepage": "https://fonts.google.com/specimen/Akronim",
+  "copyright": "Copyright (c) 2012 Grzegorz Klimczewski, Fonty.PL (www.fonty.pl), with Reserved Font Name 'Akronim'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Akronim",
+      "files": [
+        "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRp-gBxkFYN-a8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRp-gBxkFYN-a8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Akronim",
+      "files": [
+        "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRp-gVxkFYN-a8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akronim/v23/fdN-9sqWtWZZlHRp-gVxkFYN-a8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Akronim",
+      "styles": [
+        {
+          "family_name": "Akronim",
+          "type": "Regular",
+          "full_name": "Akronim Regular",
+          "post_script_name": "Akronim-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012 Grzegorz Klimczewski, Fonty.PL (www.fonty.pl), with Reserved Font Name 'Akronim'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "fdN-9sqWtWZZlHRp-gBxkFYN-a8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

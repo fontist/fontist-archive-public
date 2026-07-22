@@ -1,0 +1,58 @@
+{
+  "slug": "google/eagle_lake",
+  "name": "eagle_lake",
+  "description": "The Eagle Lake typeface is a calligraphic lettering style based on the practical Running Book Hand. It has shorter capitals that create a visually taller x-height lending to high legibility and fluidity.",
+  "homepage": "https://fonts.google.com/specimen/Eagle+Lake",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Eagle Lake\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Eagle Lake",
+      "files": [
+        "https://fonts.gstatic.com/s/eaglelake/v26/ptRMTiqbbuNJDOiKj9wG5O7yKQNute8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eaglelake/v26/ptRMTiqbbuNJDOiKj9wG5O7yKQNute8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Eagle Lake",
+      "files": [
+        "https://fonts.gstatic.com/s/eaglelake/v26/ptRMTiqbbuNJDOiKj9wG5OvyKQNute8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eaglelake/v26/ptRMTiqbbuNJDOiKj9wG5OvyKQNute8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Eagle Lake",
+      "styles": [
+        {
+          "family_name": "Eagle Lake",
+          "type": "Regular",
+          "full_name": "Eagle Lake",
+          "post_script_name": "EagleLake-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Eagle Lake\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRMTiqbbuNJDOiKj9wG5O7yKQNute8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

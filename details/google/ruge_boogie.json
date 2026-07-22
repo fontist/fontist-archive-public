@@ -1,0 +1,58 @@
+{
+  "slug": "google/ruge_boogie",
+  "name": "ruge_boogie",
+  "description": "Smack a piñata or celebrate Cinco de Mayo with Ruge Boogie. This two-font set is a fun and bouncy style with a joyful flair. Great for scrapbooking, tubes, and other fun stuff. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/ruge-boogie .",
+  "homepage": "https://fonts.google.com/specimen/Ruge+Boogie",
+  "copyright": "Copyright 2015 The Ruge Boogie Project Authors (https://github.com/googlefonts/ruge-boogie)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ruge Boogie",
+      "files": [
+        "https://fonts.gstatic.com/s/rugeboogie/v30/JIA3UVFwbHRF_GIWSMhKNROiPzUveSxy.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rugeboogie/v30/JIA3UVFwbHRF_GIWSMhKNROiPzUveSxy.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ruge Boogie",
+      "files": [
+        "https://fonts.gstatic.com/s/rugeboogie/v30/JIA3UVFwbHRF_GIWSMhKNROnPzUveSxy.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rugeboogie/v30/JIA3UVFwbHRF_GIWSMhKNROnPzUveSxy.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ruge Boogie",
+      "styles": [
+        {
+          "family_name": "Ruge Boogie",
+          "type": "Regular",
+          "full_name": "Ruge Boogie Regular",
+          "post_script_name": "RugeBoogie-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2015 The Ruge Boogie Project Authors (https://github.com/googlefonts/ruge-boogie)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "JIA3UVFwbHRF_GIWSMhKNROiPzUveSxy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

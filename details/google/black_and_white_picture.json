@@ -1,0 +1,58 @@
+{
+  "slug": "google/black_and_white_picture",
+  "name": "black_and_white_picture",
+  "description": "Black And White Picture is a Korean font that expresses the nostalgia of faded black and white photos through its old and scratchy texture. A matching Latin font, Flavors , is built-in for convenience.",
+  "homepage": "https://fonts.google.com/specimen/Black+And+White+Picture",
+  "copyright": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Black And White Picture",
+      "files": [
+        "https://fonts.gstatic.com/s/blackandwhitepicture/v30/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blackandwhitepicture/v30/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Black And White Picture",
+      "files": [
+        "https://fonts.gstatic.com/s/blackandwhitepicture/v30/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5CbcMi-yWY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blackandwhitepicture/v30/TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5CbcMi-yWY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Black And White Picture",
+      "styles": [
+        {
+          "family_name": "Black And White Picture",
+          "type": "Regular",
+          "full_name": "Black And White Picture Regular",
+          "post_script_name": "BlackAndWhitePicture-Regular",
+          "version": "1.64",
+          "copyright": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMe-JAERlQd3ooUHBUXGmrmioKjjnRSFO-NqI5HbcMi-yWY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

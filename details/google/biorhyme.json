@@ -1,0 +1,205 @@
+{
+  "slug": "google/biorhyme",
+  "name": "biorhyme",
+  "description": "BioRhyme is a Latin typeface family comprised of two widths, normal and expanded. Previously separated into two distinct families, BioRhyme has been updated in September 2023, and became variable on two axes, offering weights ranging from ExtraLight to ExtraBold. To contribute, see github.com/aoifemooney/makingbiorhyme",
+  "homepage": "https://fonts.google.com/specimen/BioRhyme",
+  "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "BioRhyme",
+      "files": [
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OmwimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OjIimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OgAimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OuwlmiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OtUlmiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIlmiOki-gkRDE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OmwimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OjIimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OgAimiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OuwlmiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OtUlmiOki-gkRDE.woff2",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIlmiOki-gkRDE.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "BioRhyme",
+      "files": [
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4Omwimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OjIimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OgAimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4Ouwlmiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OtUlmiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIlmiaki-gkRDE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4Omwimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OjIimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OgAimiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4Ouwlmiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OtUlmiaki-gkRDE.ttf",
+        "https://fonts.gstatic.com/s/biorhyme/v21/1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIlmiaki-gkRDE.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "BioRhyme ExtraLight",
+      "styles": [
+        {
+          "family_name": "BioRhyme ExtraLight",
+          "type": "Regular",
+          "full_name": "BioRhyme ExtraLight",
+          "post_script_name": "BioRhyme-ExtraLight",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIimiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme Light",
+      "styles": [
+        {
+          "family_name": "BioRhyme Light",
+          "type": "Regular",
+          "full_name": "BioRhyme Light",
+          "post_script_name": "BioRhyme-Light",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4Omwimiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme",
+      "styles": [
+        {
+          "family_name": "BioRhyme",
+          "type": "Regular",
+          "full_name": "BioRhyme Regular",
+          "post_script_name": "BioRhyme-Regular",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OjIimiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "BioRhyme",
+          "type": "Bold",
+          "full_name": "BioRhyme Bold",
+          "post_script_name": "BioRhyme-Bold",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OtUlmiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme Medium",
+      "styles": [
+        {
+          "family_name": "BioRhyme Medium",
+          "type": "Regular",
+          "full_name": "BioRhyme Medium",
+          "post_script_name": "BioRhyme-Medium",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OgAimiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme SemiBold",
+      "styles": [
+        {
+          "family_name": "BioRhyme SemiBold",
+          "type": "Regular",
+          "full_name": "BioRhyme SemiBold",
+          "post_script_name": "BioRhyme-SemiBold",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4Ouwlmiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme ExtraBold",
+      "styles": [
+        {
+          "family_name": "BioRhyme ExtraBold",
+          "type": "Regular",
+          "full_name": "BioRhyme ExtraBold",
+          "post_script_name": "BioRhyme-ExtraBold",
+          "version": "1.600;gftools[0.9.33]",
+          "copyright": "Copyright 2016 The BioRhyme Project Authors (https://github.com/aoifemooney/makingbiorhyme)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "1cXeaULHBpDMsHYW_GZNh7loEHurwOIGadI205trrbeBgQs4OrIlmiaki-gkRDE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

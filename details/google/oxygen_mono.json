@@ -1,0 +1,58 @@
+{
+  "slug": "google/oxygen_mono",
+  "name": "oxygen_mono",
+  "description": "Oxygen Mono is the monospace companion family to Oxygen , the KDE project UI and brand type.",
+  "homepage": "https://fonts.google.com/specimen/Oxygen+Mono",
+  "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Oxygen Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/oxygenmono/v15/h0GsssGg9FxgDgCjLeAd7ijfze-PPlUu.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oxygenmono/v15/h0GsssGg9FxgDgCjLeAd7ijfze-PPlUu.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Oxygen Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/oxygenmono/v15/h0GsssGg9FxgDgCjLeAd7ijaze-PPlUu.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oxygenmono/v15/h0GsssGg9FxgDgCjLeAd7ijaze-PPlUu.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Oxygen Mono",
+      "styles": [
+        {
+          "family_name": "Oxygen Mono",
+          "type": "Regular",
+          "full_name": "Oxygen Mono",
+          "post_script_name": "OxygenMono-Regular",
+          "version": "0.201; ttfautohint (v0.8) -r 50 -G 200 -x",
+          "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "h0GsssGg9FxgDgCjLeAd7ijfze-PPlUu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

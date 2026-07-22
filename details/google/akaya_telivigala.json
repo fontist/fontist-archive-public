@@ -1,0 +1,58 @@
+{
+  "slug": "google/akaya_telivigala",
+  "name": "akaya_telivigala",
+  "description": "Akaya is a single weight experimental display typeface in Kannada, Telugu and Latin scripts. Akaya Telivigala and Akaya Kanadaka are made as two separate font files which share a common Latin. To contribute, please see github.com/vaishnavimurthy/Akaya-Telivigala .",
+  "homepage": "https://fonts.google.com/specimen/Akaya+Telivigala",
+  "copyright": "Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Akaya Telivigala",
+      "files": [
+        "https://fonts.gstatic.com/s/akayatelivigala/v28/lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akayatelivigala/v28/lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Akaya Telivigala",
+      "files": [
+        "https://fonts.gstatic.com/s/akayatelivigala/v28/lJwc-oo_iG9wXqU3rCTD395tp0uifdfdsIH0YH8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/akayatelivigala/v28/lJwc-oo_iG9wXqU3rCTD395tp0uifdfdsIH0YH8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Akaya Telivigala",
+      "styles": [
+        {
+          "family_name": "Akaya Telivigala",
+          "type": "Regular",
+          "full_name": "Akaya Telivigala Regular",
+          "post_script_name": "AkayaTelivigala-Regular",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2015 The Akaya Telivigala Project Authors (https://github.com/vaishnavimurthy/Akaya-Telivigala)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "lJwc-oo_iG9wXqU3rCTD395tp0uifdLdsIH0YH8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

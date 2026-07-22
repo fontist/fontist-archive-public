@@ -1,0 +1,58 @@
+{
+  "slug": "google/princess_sofia",
+  "name": "princess_sofia",
+  "description": "She's a real princess who rules the casa with love, grace and fancy penmanship. A casual italic calligraphy inspired style perfect for titling with a little flair. Designed by Crystal Kluge of Tart Workshop (a DBA of Font Diner, Inc). To contribute to the project contact the Font Diner at support@fontdiner.com",
+  "homepage": "https://fonts.google.com/specimen/Princess+Sofia",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Princess Sofia\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Princess Sofia",
+      "files": [
+        "https://fonts.gstatic.com/s/princesssofia/v27/qWczB6yguIb8DZ_GXZst16n7GRz7mDUoupoI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/princesssofia/v27/qWczB6yguIb8DZ_GXZst16n7GRz7mDUoupoI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Princess Sofia",
+      "files": [
+        "https://fonts.gstatic.com/s/princesssofia/v27/qWczB6yguIb8DZ_GXZst16n7GRz-mDUoupoI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/princesssofia/v27/qWczB6yguIb8DZ_GXZst16n7GRz-mDUoupoI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Princess Sofia",
+      "styles": [
+        {
+          "family_name": "Princess Sofia",
+          "type": "Regular",
+          "full_name": "Princess Sofia",
+          "post_script_name": "PrincessSofia",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Princess Sofia\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qWczB6yguIb8DZ_GXZst16n7GRz7mDUoupoI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

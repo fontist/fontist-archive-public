@@ -1,0 +1,58 @@
+{
+  "slug": "google/explora",
+  "name": "explora",
+  "description": "Explora is a beautiful calligraphic typeface with swash forms. Its light and delicate strokes contribute to its elegance. In addition, it features one of the few fonts that contains the entire Cherokee Nation language glyphs. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/explora .",
+  "homepage": "https://fonts.google.com/specimen/Explora",
+  "copyright": "Copyright 2011 The Explora Project Authors (https://github.com/googlefonts/explora)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Explora",
+      "files": [
+        "https://fonts.gstatic.com/s/explora/v11/tsstApxFfjUH4wrvc1qPonC3vqc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/explora/v11/tsstApxFfjUH4wrvc1qPonC3vqc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Explora",
+      "files": [
+        "https://fonts.gstatic.com/s/explora/v11/tsstApxFfjUH4wrvc1-PonC3vqc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/explora/v11/tsstApxFfjUH4wrvc1-PonC3vqc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Explora",
+      "styles": [
+        {
+          "family_name": "Explora",
+          "type": "Regular",
+          "full_name": "Explora Regular",
+          "post_script_name": "Explora-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Explora Project Authors (https://github.com/googlefonts/explora)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tsstApxFfjUH4wrvc1qPonC3vqc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/patua_one",
+  "name": "patua_one",
+  "description": "Patua One is a slab serif text type designed for use in small sizes. It has low contrast and strong serifs and is intended to generate visual impact. Its thick serifs are curved to provide it with a touch of smoothness and gesture.",
+  "homepage": "https://fonts.google.com/specimen/Patua+One",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Patua\" and \"Patua One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Patua One",
+      "files": [
+        "https://fonts.gstatic.com/s/patuaone/v22/ZXuke1cDvLCKLDcimxBI5PNvNA9LuA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/patuaone/v22/ZXuke1cDvLCKLDcimxBI5PNvNA9LuA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Patua One",
+      "files": [
+        "https://fonts.gstatic.com/s/patuaone/v22/ZXuke1cDvLCKLDcimxBI4fNvNA9LuA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/patuaone/v22/ZXuke1cDvLCKLDcimxBI4fNvNA9LuA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Patua One",
+      "styles": [
+        {
+          "family_name": "Patua One",
+          "type": "Regular",
+          "full_name": "Patua One",
+          "post_script_name": "PatuaOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Patua\" and \"Patua One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZXuke1cDvLCKLDcimxBI5PNvNA9LuA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

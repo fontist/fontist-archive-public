@@ -1,0 +1,58 @@
+{
+  "slug": "google/jacques_francois",
+  "name": "jacques_francois",
+  "description": "Jacques Francois revives the c. 1760 Enschedé no. 811 type specimen by Jacques François Rosart (1714-1774), made for Enschedé Printing House. The concept was to create a contemporary webfont with an even typographic color while preserving the essential historic peculiarities and expanding the character set. Compared to the historic specimen the x-height is generously increased and contrast lowered. Jacques Francois is designed for medium to small sizes. For this purpose its features were altered: contrast was lowered and x-height significantly increased. Designed by Manvel Shmavonyan, Alexei Vanyashin. Jacques Francois includes old style figures. There is also Jacques Francois Shadow , an incised variant of the Jacques Francois font. To contribute to the project contact Alexei Vanyashin .",
+  "homepage": "https://fonts.google.com/specimen/Jacques+Francois",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Jacques Francois\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jacques Francois",
+      "files": [
+        "https://fonts.gstatic.com/s/jacquesfrancois/v26/ZXu9e04ZvKeOOHIe1TMahbcIU2cgmcPqoeRWfbs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jacquesfrancois/v26/ZXu9e04ZvKeOOHIe1TMahbcIU2cgmcPqoeRWfbs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jacques Francois",
+      "files": [
+        "https://fonts.gstatic.com/s/jacquesfrancois/v26/ZXu9e04ZvKeOOHIe1TMahbcIU2cgmcbqoeRWfbs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jacquesfrancois/v26/ZXu9e04ZvKeOOHIe1TMahbcIU2cgmcbqoeRWfbs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jacques Francois",
+      "styles": [
+        {
+          "family_name": "Jacques Francois",
+          "type": "Regular",
+          "full_name": "Jacques Francois",
+          "post_script_name": "JacquesFrancois-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Jacques Francois\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZXu9e04ZvKeOOHIe1TMahbcIU2cgmcPqoeRWfbs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

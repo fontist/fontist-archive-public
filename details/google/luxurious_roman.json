@@ -1,0 +1,58 @@
+{
+  "slug": "google/luxurious_roman",
+  "name": "luxurious_roman",
+  "description": "Luxurious Roman is a semi-hand lettered font with inconsistent serifs and a subtle bouncy look to create that 'imperfect' hand calligraphed feel. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/luxurious-roman .",
+  "homepage": "https://fonts.google.com/specimen/Luxurious+Roman",
+  "copyright": "Copyright 2015-2021 The Luxurious Roman Project Authors (https://github.com/googlefonts/luxurious-roman)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Luxurious Roman",
+      "files": [
+        "https://fonts.gstatic.com/s/luxuriousroman/v10/buEupou_ZcP1w0yTKxJJokVSmbpqYgckeo9RMw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/luxuriousroman/v10/buEupou_ZcP1w0yTKxJJokVSmbpqYgckeo9RMw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Luxurious Roman",
+      "files": [
+        "https://fonts.gstatic.com/s/luxuriousroman/v10/buEupou_ZcP1w0yTKxJJokVSmbpqZwckeo9RMw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/luxuriousroman/v10/buEupou_ZcP1w0yTKxJJokVSmbpqZwckeo9RMw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Luxurious Roman",
+      "styles": [
+        {
+          "family_name": "Luxurious Roman",
+          "type": "Regular",
+          "full_name": "Luxurious Roman Regular",
+          "post_script_name": "LuxuriousRoman-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2015-2021 The Luxurious Roman Project Authors (https://github.com/googlefonts/luxurious-roman)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "buEupou_ZcP1w0yTKxJJokVSmbpqYgckeo9RMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

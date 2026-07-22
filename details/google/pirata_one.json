@@ -1,0 +1,58 @@
+{
+  "slug": "google/pirata_one",
+  "name": "pirata_one",
+  "description": "Pirata One is a gothic textura font, simplified and optimized to work well on screen and pixel displays. Its condensed structure and spacing give it an excellent performance and rhythm on texts so it can be used as a header font or in shorts paragraphs. Designed by Rodrigo Fuenzalida and Nicolas Massi. To contribute to the project contact Rodrigo Fuenzalida .",
+  "homepage": "https://fonts.google.com/specimen/Pirata+One",
+  "copyright": "Copyright (c) 2012, Rodrigo Fuenzalida, Nicolas Massi (www.taip.com.ar / abc.taip.com.ar), with Reserved Font Name 'Pirata'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pirata One",
+      "files": [
+        "https://fonts.gstatic.com/s/pirataone/v23/I_urMpiDvgLdLh0fAtoftiiEr5_BdZ8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pirataone/v23/I_urMpiDvgLdLh0fAtoftiiEr5_BdZ8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pirata One",
+      "files": [
+        "https://fonts.gstatic.com/s/pirataone/v23/I_urMpiDvgLdLh0fAtofti2Er5_BdZ8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pirataone/v23/I_urMpiDvgLdLh0fAtofti2Er5_BdZ8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pirata One",
+      "styles": [
+        {
+          "family_name": "Pirata One",
+          "type": "Regular",
+          "full_name": "Pirata One",
+          "post_script_name": "PirataOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Rodrigo Fuenzalida, Nicolas Massi (www.taip.com.ar / abc.taip.com.ar), with Reserved Font Name 'Pirata'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "I_urMpiDvgLdLh0fAtoftiiEr5_BdZ8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

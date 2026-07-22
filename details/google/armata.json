@@ -1,0 +1,58 @@
+{
+  "slug": "google/armata",
+  "name": "armata",
+  "description": "Armata is a low contrast sans serif text face, with a mixture of familiar and unfamiliar shapes. The steadiness and strength is juxtaposed with some innovative and delicate gestures. Armata can be used in a wide range of sizes.",
+  "homepage": "https://fonts.google.com/specimen/Armata",
+  "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Armata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Armata",
+      "files": [
+        "https://fonts.gstatic.com/s/armata/v21/gokvH63_HV5jQ-E9lD53Q2u_mQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/armata/v21/gokvH63_HV5jQ-E9lD53Q2u_mQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Armata",
+      "files": [
+        "https://fonts.gstatic.com/s/armata/v21/gokvH63_HV5jQ-E9kT53Q2u_mQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/armata/v21/gokvH63_HV5jQ-E9kT53Q2u_mQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Armata",
+      "styles": [
+        {
+          "family_name": "Armata",
+          "type": "Regular",
+          "full_name": "Armata Regular",
+          "post_script_name": "Armata-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Armata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gokvH63_HV5jQ-E9lD53Q2u_mQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

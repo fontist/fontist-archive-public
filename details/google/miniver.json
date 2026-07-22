@@ -1,0 +1,58 @@
+{
+  "slug": "google/miniver",
+  "name": "miniver",
+  "description": "Miniver was inspired by a trip made to the library, looking for new ideas. Immediately gravitating towards the DVD for the 1942 film Mrs. Miniver, the hand-lettered title on the cover had a very contemporary look and feel so, there was the 'springboard' into a new font. First drawn were the inline forms and then they were traced, utilizing a playful 'cutout' effect.",
+  "homepage": "https://fonts.google.com/specimen/Miniver",
+  "copyright": "Copyright (c) 2011 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Miniver\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Miniver",
+      "files": [
+        "https://fonts.gstatic.com/s/miniver/v27/eLGcP-PxIg-5H0vC770Cy8r8fWA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/miniver/v27/eLGcP-PxIg-5H0vC770Cy8r8fWA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Miniver",
+      "files": [
+        "https://fonts.gstatic.com/s/miniver/v27/eLGcP-PxIg-5H0vC77gCy8r8fWA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/miniver/v27/eLGcP-PxIg-5H0vC77gCy8r8fWA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Miniver",
+      "styles": [
+        {
+          "family_name": "Miniver",
+          "type": "Regular",
+          "full_name": "Miniver",
+          "post_script_name": "Miniver",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Miniver\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "eLGcP-PxIg-5H0vC770Cy8r8fWA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

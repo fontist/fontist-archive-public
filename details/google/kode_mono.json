@@ -1,0 +1,131 @@
+{
+  "slug": "google/kode_mono",
+  "name": "kode_mono",
+  "description": "A custom-designed typeface explicitly created for the developer community. This typeface is designed to enhance the user experience and reflect our principles of functionality and timelessness. To contribute, see github.com/isaozler/kode-mono .",
+  "homepage": "https://fonts.google.com/specimen/Kode+Mono",
+  "copyright": "Copyright 2023 The Kode Mono Project Authors (https://github.com/isaozler/kode-mono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Kode Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq5my9D-TaOW2A3k.woff2",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq6uy9D-TaOW2A3k.woff2",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq0e19D-TaOW2A3k.woff2",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq3619D-TaOW2A3k.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq5my9D-TaOW2A3k.woff2",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq6uy9D-TaOW2A3k.woff2",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq0e19D-TaOW2A3k.woff2",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq3619D-TaOW2A3k.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Kode Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq5my9DqTaOW2A3k.ttf",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq6uy9DqTaOW2A3k.ttf",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq0e19DqTaOW2A3k.ttf",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq3619DqTaOW2A3k.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq5my9DqTaOW2A3k.ttf",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq6uy9DqTaOW2A3k.ttf",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq0e19DqTaOW2A3k.ttf",
+        "https://fonts.gstatic.com/s/kodemono/v4/A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq3619DqTaOW2A3k.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kode Mono",
+      "styles": [
+        {
+          "family_name": "Kode Mono",
+          "type": "Regular",
+          "full_name": "Kode Mono Regular",
+          "post_script_name": "KodeMono-Regular",
+          "version": "1.206;gftools[0.9.28]",
+          "copyright": "Copyright 2023 The Kode Mono Project Authors (https://github.com/isaozler/kode-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq5my9DqTaOW2A3k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kode Mono",
+          "type": "Bold",
+          "full_name": "Kode Mono Bold",
+          "post_script_name": "KodeMono-Bold",
+          "version": "1.206;gftools[0.9.28]",
+          "copyright": "Copyright 2023 The Kode Mono Project Authors (https://github.com/isaozler/kode-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq3619DqTaOW2A3k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kode Mono Medium",
+      "styles": [
+        {
+          "family_name": "Kode Mono Medium",
+          "type": "Regular",
+          "full_name": "Kode Mono Medium",
+          "post_script_name": "KodeMono-Medium",
+          "version": "1.206;gftools[0.9.28]",
+          "copyright": "Copyright 2023 The Kode Mono Project Authors (https://github.com/isaozler/kode-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq6uy9DqTaOW2A3k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kode Mono SemiBold",
+      "styles": [
+        {
+          "family_name": "Kode Mono SemiBold",
+          "type": "Regular",
+          "full_name": "Kode Mono SemiBold",
+          "post_script_name": "KodeMono-SemiBold",
+          "version": "1.206;gftools[0.9.28]",
+          "copyright": "Copyright 2023 The Kode Mono Project Authors (https://github.com/isaozler/kode-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "A2BLn5pb0QgtVEPFnlYkkaoBgw4qv9odq0e19DqTaOW2A3k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

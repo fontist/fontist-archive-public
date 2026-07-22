@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_be_wal_guides",
+  "name": "playwrite_be_wal_guides",
+  "description": "Playwrite BE WAL Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+BE+WAL+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite BE WAL Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite BE WAL Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHgVJabaOSA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritebewalguides/v1/l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHgVJabaOSA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite BE WAL Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite BE WAL Guides",
+          "type": "Regular",
+          "full_name": "Playwrite BE WAL Guides Regular",
+          "post_script_name": "PlaywriteBEWALGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "l7gPbiR5yM62ycwevWCt02rrTFoEJvY4kyrrUzHlVJabaOSA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

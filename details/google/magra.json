@@ -1,0 +1,77 @@
+{
+  "slug": "google/magra",
+  "name": "magra",
+  "description": "Magra is a sans serif typeface designed for contexts in which both spatial economy and multiple composition styles are required. Its neutral personality and humanist features makes it a perfect candidate for corporate uses too. Its large x-height and robust stems provide good legibility and economy, plus great behavior in smaller sizes. Magra was selected to be part of the German editorial project Typodarium 2012.",
+  "homepage": "https://fonts.google.com/specimen/Magra",
+  "copyright": "Copyright (c) 2011, FontFuror (info@fontfuror), with Reserved Names \"Magra\" \"Magra Pro\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Magra",
+      "files": [
+        "https://fonts.gstatic.com/s/magra/v15/uK_94ruaZus72k5xIDMfO-ed.ttf",
+        "https://fonts.gstatic.com/s/magra/v15/uK_w4ruaZus72nbNDxcXEPuUX1ow.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/magra/v15/uK_94ruaZus72k5xIDMfO-ed.ttf",
+        "https://fonts.gstatic.com/s/magra/v15/uK_w4ruaZus72nbNDxcXEPuUX1ow.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Magra",
+      "files": [
+        "https://fonts.gstatic.com/s/magra/v15/uK_94ruaZus72k50IDMfO-ed.woff2",
+        "https://fonts.gstatic.com/s/magra/v15/uK_w4ruaZus72nbNDxcSEPuUX1ow.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/magra/v15/uK_94ruaZus72k50IDMfO-ed.woff2",
+        "https://fonts.gstatic.com/s/magra/v15/uK_w4ruaZus72nbNDxcSEPuUX1ow.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Magra",
+      "styles": [
+        {
+          "family_name": "Magra",
+          "type": "Regular",
+          "full_name": "Magra",
+          "post_script_name": "Magra",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, FontFuror (info@fontfuror), with Reserved Names \"Magra\" \"Magra Pro\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uK_94ruaZus72k5xIDMfO-ed.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Magra",
+          "type": "Bold",
+          "full_name": "Magra Bold",
+          "post_script_name": "Magra-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, FontFuror (info@fontfuror), with Reserved Names \"Magra\" \"Magra Pro\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uK_w4ruaZus72nbNDxcXEPuUX1ow.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

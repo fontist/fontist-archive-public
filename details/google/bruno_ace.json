@@ -1,0 +1,58 @@
+{
+  "slug": "google/bruno_ace",
+  "name": "bruno_ace",
+  "description": "Bruno Ace draws inspiration from modern automotive logos. This techno geometric sans has a wide stance with a tall x-height for a strong look and appeal. Both a normal case and small caps font exists . To contribute, see github.com/googlefonts/Bruno-ace .",
+  "homepage": "https://fonts.google.com/specimen/Bruno+Ace",
+  "copyright": "Copyright 2023 The Bruno Ace Project Authors (https://github.com/googlefonts/Bruno-ace)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bruno Ace",
+      "files": [
+        "https://fonts.gstatic.com/s/brunoace/v7/WwkcxPa2E06x4trkOj_kMKoMWNMg3Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/brunoace/v7/WwkcxPa2E06x4trkOj_kMKoMWNMg3Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bruno Ace",
+      "files": [
+        "https://fonts.gstatic.com/s/brunoace/v7/WwkcxPa2E06x4trkOj_kNaoMWNMg3Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/brunoace/v7/WwkcxPa2E06x4trkOj_kNaoMWNMg3Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bruno Ace",
+      "styles": [
+        {
+          "family_name": "Bruno Ace",
+          "type": "Regular",
+          "full_name": "Bruno Ace Regular",
+          "post_script_name": "BrunoAce-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]",
+          "copyright": "Copyright 2023 The Bruno Ace Project Authors (https://github.com/googlefonts/Bruno-ace)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkcxPa2E06x4trkOj_kMKoMWNMg3Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "google/yantramanav",
+  "name": "yantramanav",
+  "description": "Yantramanav (यंत्रमानव) is a Devanagari typeface family designed by Erin McLaughlin. The style and weights of Yantramanav's Devanagari were designed as a compliment to Roboto , a Latin family designed by Christian Robertson. This project is led by Erin McLaughlin, an independent typeface designer, font developer, and consultant who specializes in Indic fonts. To contribute, see github.com/erinmclaughlin/Yantramanav",
+  "homepage": "https://fonts.google.com/specimen/Yantramanav",
+  "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yantramanav",
+      "files": [
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU-Rqu5zY00QEpyWJYWN5-QXeNzDB41rZg.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59Yf8NZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU8Rqu5zY00QEpyWJYWN6f0V-dRCQ41.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN58AfsNZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59IeMNZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59wesNZIhI8tIHh.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU-Rqu5zY00QEpyWJYWN5-QXeNzDB41rZg.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59Yf8NZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU8Rqu5zY00QEpyWJYWN6f0V-dRCQ41.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN58AfsNZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59IeMNZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59wesNZIhI8tIHh.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yantramanav",
+      "files": [
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU-Rqu5zY00QEpyWJYWN5-QXeZzDB41rZg.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59Yf8NcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU8Rqu5zY00QEpyWJYWN6fxV-dRCQ41.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN58AfsNcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59IeMNcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59wesNcIhI8tIHh.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU-Rqu5zY00QEpyWJYWN5-QXeZzDB41rZg.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59Yf8NcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flU8Rqu5zY00QEpyWJYWN6fxV-dRCQ41.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN58AfsNcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59IeMNcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/yantramanav/v15/flUhRqu5zY00QEpyWJYWN59wesNcIhI8tIHh.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yantramanav Thin",
+      "styles": [
+        {
+          "family_name": "Yantramanav Thin",
+          "type": "Regular",
+          "full_name": "Yantramanav Thin",
+          "post_script_name": "Yantramanav-Thin",
+          "version": "1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+          "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flU-Rqu5zY00QEpyWJYWN5-QXeNzDB41rZg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yantramanav Light",
+      "styles": [
+        {
+          "family_name": "Yantramanav Light",
+          "type": "Regular",
+          "full_name": "Yantramanav Light",
+          "post_script_name": "Yantramanav-Light",
+          "version": "1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+          "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUhRqu5zY00QEpyWJYWN59Yf8NZIhI8tIHh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yantramanav",
+      "styles": [
+        {
+          "family_name": "Yantramanav",
+          "type": "Regular",
+          "full_name": "Yantramanav Regular",
+          "post_script_name": "Yantramanav-Regular",
+          "version": "1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+          "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flU8Rqu5zY00QEpyWJYWN6f0V-dRCQ41.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Yantramanav",
+          "type": "Bold",
+          "full_name": "Yantramanav Bold",
+          "post_script_name": "Yantramanav-Bold",
+          "version": "1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+          "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUhRqu5zY00QEpyWJYWN59IeMNZIhI8tIHh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yantramanav Medium",
+      "styles": [
+        {
+          "family_name": "Yantramanav Medium",
+          "type": "Regular",
+          "full_name": "Yantramanav Medium",
+          "post_script_name": "Yantramanav-Medium",
+          "version": "1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+          "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUhRqu5zY00QEpyWJYWN58AfsNZIhI8tIHh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yantramanav Black",
+      "styles": [
+        {
+          "family_name": "Yantramanav Black",
+          "type": "Regular",
+          "full_name": "Yantramanav Black",
+          "post_script_name": "Yantramanav-Black",
+          "version": "1.001;PS 1.0;hotconv 1.0.72;makeotf.lib2.5.5900; ttfautohint (v1.3)",
+          "copyright": "Copyright 2014, Erin McLaughlin (hello@erinmclaughlin.com). Copyright 2010, Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUhRqu5zY00QEpyWJYWN59wesNZIhI8tIHh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

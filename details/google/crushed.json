@@ -1,0 +1,58 @@
+{
+  "slug": "google/crushed",
+  "name": "crushed",
+  "description": "Crushed was designed in 2010 as a headline and display typeface. Featuring a condensed body width and subtlely tapered vertical strokes, Crushed is a unicase design, tossing aside the traditional lowercase for one that matches the cap height. Though intended for display, Crushed actually looks great and reads well in text usage. The gentle taper of the stems add a certain class and the basic letterforms are modern and fresh.",
+  "homepage": "https://fonts.google.com/specimen/Crushed",
+  "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Crushed",
+      "files": [
+        "https://fonts.gstatic.com/s/crushed/v32/U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/crushed/v32/U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Crushed",
+      "files": [
+        "https://fonts.gstatic.com/s/crushed/v32/U9Mc6dym6WXImTlFT1wfuIqyLzA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/crushed/v32/U9Mc6dym6WXImTlFT1wfuIqyLzA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Crushed",
+      "styles": [
+        {
+          "family_name": "Crushed",
+          "type": "Regular",
+          "full_name": "Crushed Regular",
+          "post_script_name": "Crushed-Regular",
+          "version": "001.001",
+          "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "U9Mc6dym6WXImTlFT1kfuIqyLzA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

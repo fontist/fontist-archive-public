@@ -1,0 +1,58 @@
+{
+  "slug": "google/almendra_sc",
+  "name": "almendra_sc",
+  "description": "Almendra is a typeface design based on calligraphy. Its style is related to the chancery and gothic hands. It is intended to be used in long texts, especially young children's literature. Almendra's black and white forms generate a nice texture in small sizes, while its many details appear when given the opportunity in huge sizes. The main challenge was to make compatible dialectic elements, especially balancing legibility and formal identity. Almendra was selected to be exhibited at the Bienal Iberoamericana de Diseo in 2010 and was part of the German editorial project Typodarium 2012. This is the Small Cap family, and there are sister Regular and Display families.",
+  "homepage": "https://fonts.google.com/specimen/Almendra+SC",
+  "copyright": "Copyright (c) 2011 by Ana Sanfelippo (anasanfe@gmail.com). Reserved Font Names \"Almendra\" \"Almendra SC\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Almendra SC",
+      "files": [
+        "https://fonts.gstatic.com/s/almendrasc/v31/Iure6Yx284eebowr7hbyTZZJprVA4XQ0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almendrasc/v31/Iure6Yx284eebowr7hbyTZZJprVA4XQ0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Almendra SC",
+      "files": [
+        "https://fonts.gstatic.com/s/almendrasc/v31/Iure6Yx284eebowr7hbyTZZMprVA4XQ0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almendrasc/v31/Iure6Yx284eebowr7hbyTZZMprVA4XQ0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Almendra SC",
+      "styles": [
+        {
+          "family_name": "Almendra SC",
+          "type": "Regular",
+          "full_name": "Almendra SC Regular",
+          "post_script_name": "AlmendraSC-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by Ana Sanfelippo (anasanfe@gmail.com). Reserved Font Names \"Almendra\" \"Almendra SC\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Iure6Yx284eebowr7hbyTZZJprVA4XQ0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

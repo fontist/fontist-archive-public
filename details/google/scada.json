@@ -1,0 +1,115 @@
+{
+  "slug": "google/scada",
+  "name": "scada",
+  "description": "In 2005, Scada was designed as the corporate identity font for the Latvian design studio Scada.lv . In 2011 the design studio decided to make Scada a libre font. Over 6 months the font was reworked, improved and expanded into a family. It has a modern style, specifically designed for small sizes.",
+  "homepage": "https://fonts.google.com/specimen/Scada",
+  "copyright": "Copyright 2012 The Scada Project Authors (lemonad@jovanny.ru)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Scada",
+      "files": [
+        "https://fonts.gstatic.com/s/scada/v16/RLpxK5Pv5qumeWJoxzUobkvv.ttf",
+        "https://fonts.gstatic.com/s/scada/v16/RLp_K5Pv5qumeVJqzTEKa1vvffg.ttf",
+        "https://fonts.gstatic.com/s/scada/v16/RLp8K5Pv5qumeVrU6BEgRVfmZOE5.ttf",
+        "https://fonts.gstatic.com/s/scada/v16/RLp6K5Pv5qumeVJq9Y0lT1PEYfE5p6g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/scada/v16/RLpxK5Pv5qumeWJoxzUobkvv.ttf",
+        "https://fonts.gstatic.com/s/scada/v16/RLp_K5Pv5qumeVJqzTEKa1vvffg.ttf",
+        "https://fonts.gstatic.com/s/scada/v16/RLp8K5Pv5qumeVrU6BEgRVfmZOE5.ttf",
+        "https://fonts.gstatic.com/s/scada/v16/RLp6K5Pv5qumeVJq9Y0lT1PEYfE5p6g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Scada",
+      "files": [
+        "https://fonts.gstatic.com/s/scada/v16/RLpxK5Pv5qumeWJtxzUobkvv.woff2",
+        "https://fonts.gstatic.com/s/scada/v16/RLp_K5Pv5qumeVJqzTQKa1vvffg.woff2",
+        "https://fonts.gstatic.com/s/scada/v16/RLp8K5Pv5qumeVrU6BElRVfmZOE5.woff2",
+        "https://fonts.gstatic.com/s/scada/v16/RLp6K5Pv5qumeVJq9Y0lT1bEYfE5p6g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/scada/v16/RLpxK5Pv5qumeWJtxzUobkvv.woff2",
+        "https://fonts.gstatic.com/s/scada/v16/RLp_K5Pv5qumeVJqzTQKa1vvffg.woff2",
+        "https://fonts.gstatic.com/s/scada/v16/RLp8K5Pv5qumeVrU6BElRVfmZOE5.woff2",
+        "https://fonts.gstatic.com/s/scada/v16/RLp6K5Pv5qumeVJq9Y0lT1bEYfE5p6g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Scada",
+      "styles": [
+        {
+          "family_name": "Scada",
+          "type": "Regular",
+          "full_name": "Scada Regular",
+          "post_script_name": "Scada-Regular",
+          "version": "4.000",
+          "copyright": "Copyright 2012 The Scada Project Authors (lemonad@jovanny.ru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLpxK5Pv5qumeWJoxzUobkvv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Scada",
+          "type": "Italic",
+          "full_name": "Scada Italic",
+          "post_script_name": "Scada-Italic",
+          "version": "4.000",
+          "copyright": "Copyright 2012 The Scada Project Authors (lemonad@jovanny.ru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLp_K5Pv5qumeVJqzTEKa1vvffg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Scada",
+          "type": "Bold",
+          "full_name": "Scada Bold",
+          "post_script_name": "Scada-Bold",
+          "version": "4.000",
+          "copyright": "Copyright 2012 The Scada Project Authors (lemonad@jovanny.ru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLp8K5Pv5qumeVrU6BEgRVfmZOE5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Scada",
+          "type": "Bold Italic",
+          "full_name": "Scada Bold Italic",
+          "post_script_name": "Scada-BoldItalic",
+          "version": "4.000",
+          "copyright": "Copyright 2012 The Scada Project Authors (lemonad@jovanny.ru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLp6K5Pv5qumeVJq9Y0lT1PEYfE5p6g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

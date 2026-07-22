@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_lycian",
+  "name": "noto_sans_lycian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Lycian is an unmodulated (“sans serif”) design for texts in the historical European Lycian script. It has 34 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Lycian",
+  "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Lycian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanslycian/v16/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanslycian/v16/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Lycian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanslycian/v16/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_zaCJwn00E.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanslycian/v16/QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_zaCJwn00E.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Lycian",
+      "styles": [
+        {
+          "family_name": "Noto Sans Lycian",
+          "type": "Regular",
+          "full_name": "Noto Sans Lycian Regular",
+          "post_script_name": "NotoSansLycian-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": false,
+          "font": "QldVNSNMqAsHtsJ7UmqxBQA9r8wA5_naCJwn00E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

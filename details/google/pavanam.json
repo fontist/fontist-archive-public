@@ -1,0 +1,58 @@
+{
+  "slug": "google/pavanam",
+  "name": "pavanam",
+  "description": "Pavanam is a Tamil and Latin typeface designed with a focus on greater legibility in smaller sizes for both screen and print media. The Latin design is derived from Vernon Adam's Pontano Sans ; it has been slightly modified to match with the Tamil typefaces's proportions and vertical metrics. The word Pavanam means wind in Tamil. The Pavanam project is led by Tharique Azeez, a type designer based in Sri Lanka. To contribute, see github.com/enathu/pavanam",
+  "homepage": "https://fonts.google.com/specimen/Pavanam",
+  "copyright": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com | zeezat@gmail.com). Copyright (c) 2012, vernon adams (vern@newtypography.co.uk)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pavanam",
+      "files": [
+        "https://fonts.gstatic.com/s/pavanam/v13/BXRrvF_aiezLh0xPDOtQ9Wf0QcE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pavanam/v13/BXRrvF_aiezLh0xPDOtQ9Wf0QcE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pavanam",
+      "files": [
+        "https://fonts.gstatic.com/s/pavanam/v13/BXRrvF_aiezLh0xPDO5Q9Wf0QcE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pavanam/v13/BXRrvF_aiezLh0xPDO5Q9Wf0QcE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pavanam",
+      "styles": [
+        {
+          "family_name": "Pavanam",
+          "type": "Regular",
+          "full_name": "Pavanam Regular",
+          "post_script_name": "Pavanam-Regular",
+          "version": "1.86; ttfautohint (v1.3) -l 8 -r 50 -G 200 -x 14 -D latn -f none -m \"\" -w G -t -X \"\"",
+          "copyright": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com | zeezat@gmail.com). Copyright (c) 2012, vernon adams (vern@newtypography.co.uk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BXRrvF_aiezLh0xPDOtQ9Wf0QcE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

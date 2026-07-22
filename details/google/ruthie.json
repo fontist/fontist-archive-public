@@ -1,0 +1,58 @@
+{
+  "slug": "google/ruthie",
+  "name": "ruthie",
+  "description": "Ruthie is an elegant calligraphic script with ornate capital forms. To contribute, see github.com/googlefonts/ruthie .",
+  "homepage": "https://fonts.google.com/specimen/Ruthie",
+  "copyright": "Copyright 2014 The Ruthie Project Authors (https://github.com/googlefonts/ruthie)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ruthie",
+      "files": [
+        "https://fonts.gstatic.com/s/ruthie/v28/gokvH63sGkdqXuU9lD53Q2u_mQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ruthie/v28/gokvH63sGkdqXuU9lD53Q2u_mQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ruthie",
+      "files": [
+        "https://fonts.gstatic.com/s/ruthie/v28/gokvH63sGkdqXuU9kT53Q2u_mQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ruthie/v28/gokvH63sGkdqXuU9kT53Q2u_mQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ruthie",
+      "styles": [
+        {
+          "family_name": "Ruthie",
+          "type": "Regular",
+          "full_name": "Ruthie Regular",
+          "post_script_name": "Ruthie-Regular",
+          "version": "1.012",
+          "copyright": "Copyright 2014 The Ruthie Project Authors (https://github.com/googlefonts/ruthie)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gokvH63sGkdqXuU9lD53Q2u_mQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "google/karma",
+  "name": "karma",
+  "description": "Karma is an Open Source multi-script typeface supporting both the Devanagari and the Latin script. The family was developed for use in body text on screen, and five fonts are available. The characters for both scripts feature a construction style that tends toward the monolinear. The Latin script component has serif letters. Both these, and the stroke terminals in the Devanagari letterforms are generally rounded in Karma’s design. Karma’s characters are economic in width, and the Latin sports a tall x-height. Although the knotted terminals in the Devanagari letterforms are closed, the general feeling of the Devanagari character set is open and airy. See the design of the ख (kha), छ (cha) and ध (dha), for example. Joana Correia designed Karma for the Indian Type Foundry, who first published the fonts in 2014.",
+  "homepage": "https://fonts.google.com/specimen/Karma",
+  "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Karma",
+      "files": [
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjDY8Z_uqzGQC_-.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9I4kzAzMZRGIBvS-J3kbDP.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLibYsZ_uqzGQC_-.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLi3ZcZ_uqzGQC_-.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjTZMZ_uqzGQC_-.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjDY8Z_uqzGQC_-.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9I4kzAzMZRGIBvS-J3kbDP.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLibYsZ_uqzGQC_-.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLi3ZcZ_uqzGQC_-.ttf",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjTZMZ_uqzGQC_-.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Karma",
+      "files": [
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjDY8Z6uqzGQC_-.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9I4kzAzMZRGIBqS-J3kbDP.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLibYsZ6uqzGQC_-.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLi3ZcZ6uqzGQC_-.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjTZMZ6uqzGQC_-.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjDY8Z6uqzGQC_-.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9I4kzAzMZRGIBqS-J3kbDP.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLibYsZ6uqzGQC_-.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLi3ZcZ6uqzGQC_-.woff2",
+        "https://fonts.gstatic.com/s/karma/v18/va9F4kzAzMZRGLjTZMZ6uqzGQC_-.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Karma Light",
+      "styles": [
+        {
+          "family_name": "Karma Light",
+          "type": "Regular",
+          "full_name": "Karma Light",
+          "post_script_name": "Karma-Light",
+          "version": "1.202;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G",
+          "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "va9F4kzAzMZRGLjDY8Z_uqzGQC_-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karma",
+      "styles": [
+        {
+          "family_name": "Karma",
+          "type": "Regular",
+          "full_name": "Karma Regular",
+          "post_script_name": "Karma-Regular",
+          "version": "1.202;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G",
+          "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "va9I4kzAzMZRGIBvS-J3kbDP.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karma",
+          "type": "Bold",
+          "full_name": "Karma Bold",
+          "post_script_name": "Karma-Bold",
+          "version": "1.202;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G",
+          "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "va9F4kzAzMZRGLjTZMZ_uqzGQC_-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karma Medium",
+      "styles": [
+        {
+          "family_name": "Karma Medium",
+          "type": "Regular",
+          "full_name": "Karma Medium",
+          "post_script_name": "Karma-Medium",
+          "version": "1.202;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G",
+          "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "va9F4kzAzMZRGLibYsZ_uqzGQC_-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karma SemiBold",
+      "styles": [
+        {
+          "family_name": "Karma SemiBold",
+          "type": "Regular",
+          "full_name": "Karma SemiBold",
+          "post_script_name": "Karma-SemiBold",
+          "version": "1.202;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 7 -r 28 -G 50 -x 13 -D latn -f deva -w G",
+          "copyright": "Copyright 2014 Indian Type Foundry. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "va9F4kzAzMZRGLi3ZcZ_uqzGQC_-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

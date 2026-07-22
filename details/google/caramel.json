@@ -1,0 +1,58 @@
+{
+  "slug": "google/caramel",
+  "name": "caramel",
+  "description": "The Caramel Family is a fun, hand lettered script with three variations that are combined in the latest version of the font. Use alternates and style sets to customize your work. Caramel comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/caramel",
+  "homepage": "https://fonts.google.com/specimen/Caramel",
+  "copyright": "Copyright 2004-2021 The Caramel Project Authors (https://github.com/googlefonts/caramel)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Caramel",
+      "files": [
+        "https://fonts.gstatic.com/s/caramel/v8/P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caramel/v8/P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Caramel",
+      "files": [
+        "https://fonts.gstatic.com/s/caramel/v8/P5sCzZKBbMTf_ShyxCFuiZ-uydg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caramel/v8/P5sCzZKBbMTf_ShyxCFuiZ-uydg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Caramel",
+      "styles": [
+        {
+          "family_name": "Caramel",
+          "type": "Regular",
+          "full_name": "Caramel Regular",
+          "post_script_name": "Caramel-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2004-2021 The Caramel Project Authors (https://github.com/googlefonts/caramel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sCzZKBbMTf_ShyxCRuiZ-uydg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

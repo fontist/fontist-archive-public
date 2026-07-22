@@ -1,0 +1,115 @@
+{
+  "slug": "google/lobster_two",
+  "name": "lobster_two",
+  "description": "Lobster Two is a family version of the original Lobster .",
+  "homepage": "https://fonts.google.com/specimen/Lobster+Two",
+  "copyright": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lobster Two",
+      "files": [
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngMUXZGTXPUvIoyV6yN59fK7KSJ4ACD.ttf",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngOUXZGTXPUvIoyV6yN5-fI5qCr5RCDY_k.ttf",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngRUXZGTXPUvIoyV6yN5-92w4CByxyKeuDp.ttf",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngTUXZGTXPUvIoyV6yN5-fI3hyEwRiof_DpXMY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngMUXZGTXPUvIoyV6yN59fK7KSJ4ACD.ttf",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngOUXZGTXPUvIoyV6yN5-fI5qCr5RCDY_k.ttf",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngRUXZGTXPUvIoyV6yN5-92w4CByxyKeuDp.ttf",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngTUXZGTXPUvIoyV6yN5-fI3hyEwRiof_DpXMY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lobster Two",
+      "files": [
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngMUXZGTXPUvIoyV6yN59fP7KSJ4ACD.woff2",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngOUXZGTXPUvIoyV6yN5-fI5qWr5RCDY_k.woff2",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngRUXZGTXPUvIoyV6yN5-92w4CEyxyKeuDp.woff2",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngTUXZGTXPUvIoyV6yN5-fI3hyEwR2of_DpXMY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngMUXZGTXPUvIoyV6yN59fP7KSJ4ACD.woff2",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngOUXZGTXPUvIoyV6yN5-fI5qWr5RCDY_k.woff2",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngRUXZGTXPUvIoyV6yN5-92w4CEyxyKeuDp.woff2",
+        "https://fonts.gstatic.com/s/lobstertwo/v22/BngTUXZGTXPUvIoyV6yN5-fI3hyEwR2of_DpXMY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lobster Two",
+      "styles": [
+        {
+          "family_name": "Lobster Two",
+          "type": "Regular",
+          "full_name": "Lobster Two",
+          "post_script_name": "LobsterTwo",
+          "version": "1.006",
+          "copyright": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+          "description": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Lobster.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BngMUXZGTXPUvIoyV6yN59fK7KSJ4ACD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lobster Two",
+          "type": "Italic",
+          "full_name": "Lobster Two Italic",
+          "post_script_name": "LobsterTwo-Italic",
+          "version": "1.006",
+          "copyright": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+          "description": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Lobster.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BngOUXZGTXPUvIoyV6yN5-fI5qCr5RCDY_k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lobster Two",
+          "type": "Bold",
+          "full_name": "Lobster Two Bold",
+          "post_script_name": "LobsterTwo-Bold",
+          "version": "1.006",
+          "copyright": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+          "description": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Lobster.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BngRUXZGTXPUvIoyV6yN5-92w4CByxyKeuDp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lobster Two",
+          "type": "Bold Italic",
+          "full_name": "Lobster Two Bold Italic",
+          "post_script_name": "LobsterTwo-BoldItalic",
+          "version": "1.006",
+          "copyright": "Copyright (c) 2011 by Pablo Impallari. www.impallari.com. All rights reserved.",
+          "description": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\r\nwith Reserved Font Name Lobster.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BngTUXZGTXPUvIoyV6yN5-fI3hyEwRiof_DpXMY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

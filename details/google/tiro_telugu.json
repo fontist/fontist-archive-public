@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_telugu",
+  "name": "tiro_telugu",
+  "description": "Tiro Telugu has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The design combines the proportions of Telugu manuscript tradition, notably in the generous proportions of subscript letters to aid legibility with the pronounced stroke modulation and shaping of counters and finials inspired by the elegant metal types of the Swatantra Type Foundry. Tiro Telugu uses extensive contextual layout behaviour to support arbitrary conjuncts, making it suitable for Sanskrit and Pali as well as Telugu language texts. For the Open Font License release, Tiro Telugu has been extended to support additional characters, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Telugu was designed by John Hudson and Fiona Ross. The italic was adapted by Kaja Słojewska. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Telugu",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Telugu",
+      "files": [
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdKSNQqn0X0BO.ttf",
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPSK3WWlBOoas.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdKSNQqn0X0BO.ttf",
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPSK3WWlBOoas.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Telugu",
+      "files": [
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdKSIQqn0X0BO.woff2",
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPSKjWWlBOoas.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTQ7PxlZWk2EPiSymjXdKSIQqn0X0BO.woff2",
+        "https://fonts.gstatic.com/s/tirotelugu/v7/aFTS7PxlZWk2EPiSymjXdJSPSKjWWlBOoas.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Telugu",
+      "styles": [
+        {
+          "family_name": "Tiro Telugu",
+          "type": "Regular",
+          "full_name": "Tiro Telugu Regular",
+          "post_script_name": "TiroTelugu-Regular",
+          "version": "1.53",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTQ7PxlZWk2EPiSymjXdKSNQqn0X0BO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Telugu",
+          "type": "Italic",
+          "full_name": "Tiro Telugu Italic",
+          "post_script_name": "TiroTelugu-Italic",
+          "version": "1.53",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTS7PxlZWk2EPiSymjXdJSPSK3WWlBOoas.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

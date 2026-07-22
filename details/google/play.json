@@ -1,0 +1,77 @@
+{
+  "slug": "google/play",
+  "name": "play",
+  "description": "Play is a minimalistic sans serif typeface designed by Jonas Hecksher during his time as Type Director of Playtype Type Foundry . All letters in Play derive from the 'O' – square and circular at the same time. Play is designed with large, open counters, ample lowercase x-heights and a corporate, yet friendly appearance. The combination of these qualities give Play both a high legibility and readability.",
+  "homepage": "https://fonts.google.com/specimen/Play",
+  "copyright": "Copyright (c) 2011, Jonas Hecksher, Playtypes, e-types AS (lasse@e-types.com), with Reserved Font Name 'Play', 'Playtype', 'Playtype Sans'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Play",
+      "files": [
+        "https://fonts.gstatic.com/s/play/v21/6aez4K2oVqwIjtI8Hp8Tx3A.ttf",
+        "https://fonts.gstatic.com/s/play/v21/6ae84K2oVqwItm4TOpc423nTJTM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/play/v21/6aez4K2oVqwIjtI8Hp8Tx3A.ttf",
+        "https://fonts.gstatic.com/s/play/v21/6ae84K2oVqwItm4TOpc423nTJTM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Play",
+      "files": [
+        "https://fonts.gstatic.com/s/play/v21/6aez4K2oVqwIjtc8Hp8Tx3A.woff2",
+        "https://fonts.gstatic.com/s/play/v21/6ae84K2oVqwItm4TOpI423nTJTM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/play/v21/6aez4K2oVqwIjtc8Hp8Tx3A.woff2",
+        "https://fonts.gstatic.com/s/play/v21/6ae84K2oVqwItm4TOpI423nTJTM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Play",
+      "styles": [
+        {
+          "family_name": "Play",
+          "type": "Regular",
+          "full_name": "Play Regular",
+          "post_script_name": "Play-Regular",
+          "version": "2.101; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2011, Jonas Hecksher, Playtypes, e-types AS (lasse@e-types.com), with Reserved Font Name 'Play', 'Playtype', 'Playtype Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6aez4K2oVqwIjtI8Hp8Tx3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Play",
+          "type": "Bold",
+          "full_name": "Play Bold",
+          "post_script_name": "Play-Bold",
+          "version": "2.101; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2011, Jonas Hecksher, Playtypes, e-types AS (lasse@e-types.com), with Reserved Font Name 'Play', 'Playtype', 'Playtype Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6ae84K2oVqwItm4TOpc423nTJTM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

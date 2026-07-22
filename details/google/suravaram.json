@@ -1,0 +1,58 @@
+{
+  "slug": "google/suravaram",
+  "name": "suravaram",
+  "description": "Suravaram is a brush script font, suitable for headings, posters, invitations and anywhere you want to use a handwriting style. It is named after Suravaram Gurajada, whose literature and poetry enriched the Telugu people. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Vernon Adams and originally published as Tienne . The Suravaram project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/suravaram",
+  "homepage": "https://fonts.google.com/specimen/Suravaram",
+  "copyright": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk) with Reserved Font Name 'Tienne'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Suravaram",
+      "files": [
+        "https://fonts.gstatic.com/s/suravaram/v23/_gP61R_usiY7SCym4xIAi261Qv9roQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suravaram/v23/_gP61R_usiY7SCym4xIAi261Qv9roQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Suravaram",
+      "files": [
+        "https://fonts.gstatic.com/s/suravaram/v23/_gP61R_usiY7SCym4xIAjm61Qv9roQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suravaram/v23/_gP61R_usiY7SCym4xIAjm61Qv9roQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Suravaram",
+      "styles": [
+        {
+          "family_name": "Suravaram",
+          "type": "Regular",
+          "full_name": "Suravaram",
+          "post_script_name": "Suravaram",
+          "version": "1.0.4; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk) with Reserved Font Name 'Tienne'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_gP61R_usiY7SCym4xIAi261Qv9roQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

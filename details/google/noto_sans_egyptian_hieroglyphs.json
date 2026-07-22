@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_egyptian_hieroglyphs",
+  "name": "noto_sans_egyptian_hieroglyphs",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Egyptian Hieroglyphs is an unmodulated (“sans serif”) design for texts in the historical African Egyptian hieroglyphs script. It has 1,079 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Egyptian+Hieroglyphs",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/egyptian-hieroglyphs)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Egyptian Hieroglyphs",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v30/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v30/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Egyptian Hieroglyphs",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v30/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindTFK8xRg7iw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansegyptianhieroglyphs/v30/vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindTFK8xRg7iw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Egyptian Hieroglyphs",
+      "styles": [
+        {
+          "family_name": "Noto Sans Egyptian Hieroglyphs",
+          "type": "Regular",
+          "full_name": "Noto Sans Egyptian Hieroglyphs Regular",
+          "post_script_name": "NotoSansEgyptianHieroglyphs-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/egyptian-hieroglyphs)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "vEF42-tODB8RrNDvZSUmRhcQHzx1s7y_F9-j3qSzEcbEYindSVK8xRg7iw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

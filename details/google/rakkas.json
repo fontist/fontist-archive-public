@@ -1,0 +1,58 @@
+{
+  "slug": "google/rakkas",
+  "name": "rakkas",
+  "description": "Rakkas is single-weight display typeface that supports the Arabic and Latin scripts. The two scripts share a united style, with neither pretending to be the other, and each interesting in its own right. The Arabic design is inspired by Ruq'ah lettering on Egyptian movie posters from the 50s and 60s, and makes use of contextual alternates to emulate calligraphy. It offers different forms for many letter position and it cascades vertically, giving the user an opportunity to play. The Latin design infuses a blackletter design with informality. The Rakkas project is led by Zeynep Akay, a type designer based in London, UK. To contribute, see github.com/zeynepakay/Rakkas",
+  "homepage": "https://fonts.google.com/specimen/Rakkas",
+  "copyright": "Copyright 2017 The Rakkas Project Authors (https://github.com/zeynepakay/Rakkas)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rakkas",
+      "files": [
+        "https://fonts.gstatic.com/s/rakkas/v22/Qw3cZQlNHiblL3j_lttPOeMcCw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rakkas/v22/Qw3cZQlNHiblL3j_lttPOeMcCw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rakkas",
+      "files": [
+        "https://fonts.gstatic.com/s/rakkas/v22/Qw3cZQlNHiblL3j_k9tPOeMcCw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rakkas/v22/Qw3cZQlNHiblL3j_k9tPOeMcCw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rakkas",
+      "styles": [
+        {
+          "family_name": "Rakkas",
+          "type": "Regular",
+          "full_name": "Rakkas Regular",
+          "post_script_name": "Rakkas-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2017 The Rakkas Project Authors (https://github.com/zeynepakay/Rakkas)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Qw3cZQlNHiblL3j_lttPOeMcCw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

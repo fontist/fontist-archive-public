@@ -1,0 +1,58 @@
+{
+  "slug": "google/cambo",
+  "name": "cambo",
+  "description": "Cambo is a modern Latin typeface inspired by the contrast, style and ornaments of Khmer typefaces and writing styles. Its main objective is to be used to write Latin texts in a Khmer context, but it is also an elegant choice for all kinds of texts. Designed by Carolina Giovagnoli and Andrés Torresi for Huerta Tipográfica .",
+  "homepage": "https://fonts.google.com/specimen/Cambo",
+  "copyright": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar),\rCopyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar),\rwith Reserved Font Name Cambo.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cambo",
+      "files": [
+        "https://fonts.gstatic.com/s/cambo/v19/IFSqHeNEk8FJk416ok7xkPm8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cambo/v19/IFSqHeNEk8FJk416ok7xkPm8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cambo",
+      "files": [
+        "https://fonts.gstatic.com/s/cambo/v19/IFSqHeNEk8FJk41_ok7xkPm8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cambo/v19/IFSqHeNEk8FJk41_ok7xkPm8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cambo",
+      "styles": [
+        {
+          "family_name": "Cambo",
+          "type": "Regular",
+          "full_name": "Cambo",
+          "post_script_name": "Cambo-Regular",
+          "version": "2.001",
+          "copyright": "Copyright (c) 2011, Carolina Giovagnoli (caro@huertatipografica.com.ar),\rCopyright (c) 2011, Andres Torresi (andres@huertatipografica.com.ar),\rwith Reserved Font Name Cambo.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "IFSqHeNEk8FJk416ok7xkPm8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

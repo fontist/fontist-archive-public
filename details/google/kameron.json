@@ -1,0 +1,131 @@
+{
+  "slug": "google/kameron",
+  "name": "kameron",
+  "description": "Kameron is a reworking and fusing of several classic Slab Serif and Egyptian type forms from the early to mid Twentieth Century. The September 2023 update features a bigger glyphset, some minor aesthetic modifications and a variable replacement. To contribute, see github.com/googlefonts/kameronFont .",
+  "homepage": "https://fonts.google.com/specimen/Kameron",
+  "copyright": "Copyright 2011 The Kameron Project Authors (https://github.com/googlefonts/kameronFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Kameron",
+      "files": [
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4Ne3cbcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NeFcbcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdpdrcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdQdrcevZPxCDLR.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4Ne3cbcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NeFcbcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdpdrcevZPxCDLR.woff2",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdQdrcevZPxCDLR.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Kameron",
+      "files": [
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4Ne3cbcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NeFcbcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdpdrcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdQdrcbvZPxCDLR.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4Ne3cbcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NeFcbcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdpdrcbvZPxCDLR.ttf",
+        "https://fonts.gstatic.com/s/kameron/v18/vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdQdrcbvZPxCDLR.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kameron",
+      "styles": [
+        {
+          "family_name": "Kameron",
+          "type": "Regular",
+          "full_name": "Kameron Regular",
+          "post_script_name": "Kameron-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Kameron Project Authors (https://github.com/googlefonts/kameronFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "vm8pdR7vXErQxuznqrUS3z1Uw3nq4Ne3cbcbvZPxCDLR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kameron",
+          "type": "Bold",
+          "full_name": "Kameron Bold",
+          "post_script_name": "Kameron-Bold",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Kameron Project Authors (https://github.com/googlefonts/kameronFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdQdrcbvZPxCDLR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kameron Medium",
+      "styles": [
+        {
+          "family_name": "Kameron Medium",
+          "type": "Regular",
+          "full_name": "Kameron Medium",
+          "post_script_name": "Kameron-Medium",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Kameron Project Authors (https://github.com/googlefonts/kameronFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "vm8pdR7vXErQxuznqrUS3z1Uw3nq4NeFcbcbvZPxCDLR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kameron SemiBold",
+      "styles": [
+        {
+          "family_name": "Kameron SemiBold",
+          "type": "Regular",
+          "full_name": "Kameron SemiBold",
+          "post_script_name": "Kameron-SemiBold",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Kameron Project Authors (https://github.com/googlefonts/kameronFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "vm8pdR7vXErQxuznqrUS3z1Uw3nq4NdpdrcbvZPxCDLR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

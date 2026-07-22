@@ -1,0 +1,58 @@
+{
+  "slug": "google/caprasimo",
+  "name": "caprasimo",
+  "description": "Caprasimo is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Cooper Black that minimizes text reflow in Office Open XML documents. Caprasimo is based on Fraunces, a display, old-style soft-serif typeface inspired by the mannerisms of early 20th century typefaces such as the Cooper Series. Fraunces was designed by Phaedra Charles and Flavia Zimbardi, partners at Undercase Type. To contribute, please visit github.com/docrepair-fonts/caprasimo-fonts .",
+  "homepage": "https://fonts.google.com/specimen/Caprasimo",
+  "copyright": "Copyright 2023 The Caprasimo Project Authors (https://github.com/docrepair-fonts/caprasimo-fonts).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Caprasimo",
+      "files": [
+        "https://fonts.gstatic.com/s/caprasimo/v6/esDT31JQOPuXIUGBp72klZUCGpG-GQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caprasimo/v6/esDT31JQOPuXIUGBp72klZUCGpG-GQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Caprasimo",
+      "files": [
+        "https://fonts.gstatic.com/s/caprasimo/v6/esDT31JQOPuXIUGBp72kkJUCGpG-GQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caprasimo/v6/esDT31JQOPuXIUGBp72kkJUCGpG-GQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Caprasimo",
+      "styles": [
+        {
+          "family_name": "Caprasimo",
+          "type": "Regular",
+          "full_name": "Caprasimo Regular",
+          "post_script_name": "Caprasimo-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2023 The Caprasimo Project Authors (https://github.com/docrepair-fonts/caprasimo-fonts).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "esDT31JQOPuXIUGBp72klZUCGpG-GQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/homenaje",
+  "name": "homenaje",
+  "description": "Homenaje is inspired by the bronze cemetery art found in the Recoleta and Chacaritas districts of Buenos Aires, Argentina. A grotesque and narrow type, it provides economy in text setting without losing its strong, straight and steady features. The name “Homenaje” means tribute in Spanish, a modest way to honor the patient and accurate work of the lettering artists whose bronze letters honor a lifetime. Designed by Constanza Artigas Preller and Agustina Mingote.",
+  "homepage": "https://fonts.google.com/specimen/Homenaje",
+  "copyright": "Copyright 2016 The Homenaje Project Authors (https://github.com/googlefonts/Homenaje), with Reserved Font Name 'Homenaje’.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Homenaje",
+      "files": [
+        "https://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Ld6A4sijpFu_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Ld6A4sijpFu_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Homenaje",
+      "files": [
+        "https://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Ld6F4sijpFu_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/homenaje/v17/FwZY7-Q-xVAi_l-6Ld6F4sijpFu_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Homenaje",
+      "styles": [
+        {
+          "family_name": "Homenaje",
+          "type": "Regular",
+          "full_name": "Homenaje Regular",
+          "post_script_name": "Homenaje-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2016 The Homenaje Project Authors (https://github.com/googlefonts/Homenaje), with Reserved Font Name 'Homenaje’.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FwZY7-Q-xVAi_l-6Ld6A4sijpFu_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "google/quantico",
+  "name": "quantico",
+  "description": "Quantico is an angular typeface family that was inspired by old beer packaging and military lettering. It utilizes 30 degree angles and completely straight lines to form unique character shapes. Documentation can be found at www.madtype.com and to contribute to the project contact Matthew Desmond at mattdesmond@gmail.com",
+  "homepage": "https://fonts.google.com/specimen/Quantico",
+  "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Quantico",
+      "files": [
+        "https://fonts.gstatic.com/s/quantico/v19/rax-HiSdp9cPL3KIF4xsLjxSmlLZ.ttf",
+        "https://fonts.gstatic.com/s/quantico/v19/rax4HiSdp9cPL3KIF7xuJDhwn0LZ6T8.ttf",
+        "https://fonts.gstatic.com/s/quantico/v19/rax5HiSdp9cPL3KIF7TQARhasU7Q8Cad.ttf",
+        "https://fonts.gstatic.com/s/quantico/v19/rax7HiSdp9cPL3KIF7xuHIRfu0ry9TadML4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/quantico/v19/rax-HiSdp9cPL3KIF4xsLjxSmlLZ.ttf",
+        "https://fonts.gstatic.com/s/quantico/v19/rax4HiSdp9cPL3KIF7xuJDhwn0LZ6T8.ttf",
+        "https://fonts.gstatic.com/s/quantico/v19/rax5HiSdp9cPL3KIF7TQARhasU7Q8Cad.ttf",
+        "https://fonts.gstatic.com/s/quantico/v19/rax7HiSdp9cPL3KIF7xuHIRfu0ry9TadML4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Quantico",
+      "files": [
+        "https://fonts.gstatic.com/s/quantico/v19/rax-HiSdp9cPL3KIF4xpLjxSmlLZ.woff2",
+        "https://fonts.gstatic.com/s/quantico/v19/rax4HiSdp9cPL3KIF7xuJD1wn0LZ6T8.woff2",
+        "https://fonts.gstatic.com/s/quantico/v19/rax5HiSdp9cPL3KIF7TQARhfsU7Q8Cad.woff2",
+        "https://fonts.gstatic.com/s/quantico/v19/rax7HiSdp9cPL3KIF7xuHIRfu0_y9TadML4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/quantico/v19/rax-HiSdp9cPL3KIF4xpLjxSmlLZ.woff2",
+        "https://fonts.gstatic.com/s/quantico/v19/rax4HiSdp9cPL3KIF7xuJD1wn0LZ6T8.woff2",
+        "https://fonts.gstatic.com/s/quantico/v19/rax5HiSdp9cPL3KIF7TQARhfsU7Q8Cad.woff2",
+        "https://fonts.gstatic.com/s/quantico/v19/rax7HiSdp9cPL3KIF7xuHIRfu0_y9TadML4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Quantico",
+      "styles": [
+        {
+          "family_name": "Quantico",
+          "type": "Regular",
+          "full_name": "Quantico",
+          "post_script_name": "Quantico-Regular",
+          "version": "2.002",
+          "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax-HiSdp9cPL3KIF4xsLjxSmlLZ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Quantico",
+          "type": "Italic",
+          "full_name": "Quantico-Italic",
+          "post_script_name": "Quantico-Italic",
+          "version": "2.002",
+          "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax4HiSdp9cPL3KIF7xuJDhwn0LZ6T8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Quantico",
+          "type": "Bold",
+          "full_name": "Quantico-Bold",
+          "post_script_name": "Quantico-Bold",
+          "version": "2.002",
+          "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax5HiSdp9cPL3KIF7TQARhasU7Q8Cad.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Quantico",
+          "type": "Bold Italic",
+          "full_name": "Quantico-BoldItalic",
+          "post_script_name": "Quantico-BoldItalic",
+          "version": "2.002",
+          "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Quantico\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax7HiSdp9cPL3KIF7xuHIRfu0ry9TadML4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "google/kablammo",
+  "name": "kablammo",
+  "description": "Kablammo is an experimental variable font, taking inspiration from maximalist curly doodad designs from the ’90s, the Memphis Design movement, as well as cartoons and toys from those eras. Kablammo has one variable axis, Morph(MORF), which makes the glyphs dance. The decorative elements fly all over the place, along with shifting weight and contrast. This lends itself particularly well to animations. Each glyph has four primary states that be morphed between, and can be considered the most stable and considered forms. Each of these are accessible as instances (styles) in font menus that properly support variable fonts. This offers a quick alternative for accessing the alternate forms, and can be handy if you don’t need all the variety, and in-between states of the full variable font. Kablammo was designed by Vectro Type Foundry and released in 2023. To contribute, please see github.com/Vectro-Type-Foundry/kablammo .",
+  "homepage": "https://fonts.google.com/specimen/Kablammo",
+  "copyright": "Copyright 2023 The Kablammo Project Authors (https://github.com/Vectro-Type-Foundry/kablammo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Kablammo",
+      "files": [
+        "https://fonts.gstatic.com/s/kablammo/v4/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCjih0Rf4YDKw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kablammo/v4/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCjih0Rf4YDKw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "MORF"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Kablammo",
+      "files": [
+        "https://fonts.gstatic.com/s/kablammo/v4/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCjjx0Rf4YDKw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kablammo/v4/bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCjjx0Rf4YDKw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "MORF"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kablammo",
+      "styles": [
+        {
+          "family_name": "Kablammo",
+          "type": "Regular",
+          "full_name": "Kablammo Regular",
+          "post_script_name": "Kablammo-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2023 The Kablammo Project Authors (https://github.com/Vectro-Type-Foundry/kablammo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "bWtm7fHPcgrhC-J3lcXhcQTY5Ixs6Au9YgCjjx0Rf4YDKw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

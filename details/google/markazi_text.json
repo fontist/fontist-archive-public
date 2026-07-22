@@ -1,0 +1,131 @@
+{
+  "slug": "google/markazi_text",
+  "name": "markazi_text",
+  "description": "This typeface design was inspired by Tim Holloway's Markazi typeface, with his encouragement, and initiated by Gerry Leonidas as a joint University of Reading and Google project. The Arabic glyphs were designed by Borna Izadpanah and design directed by Fiona Ross, they feature a moderate contrast. It takes its cues from the award-winning Markazi typeface, affording a contemporary and highly readable typeface. The complementary Latin glyphs were designed by Florian Runge. It keeps in spirit with its Arabic counterpart, echoing key design characteristics while being rooted in established Latin traditions. It is an open and clear design with a compact stance and an evenly flowing rhythm. The family is available in four weights with extended language support suited for print and screen. To contribute, see github.com/BornaIz/markazitext .",
+  "homepage": "https://fonts.google.com/specimen/Markazi+Text",
+  "copyright": "Copyright 2017 The Markazi Text Project Authors (https://github.com/BornaIz/markazitext)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Markazi Text",
+      "files": [
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQT4YlBekmJLo.woff2",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQT4YlBekmJLo.woff2",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXT4YlBekmJLo.woff2",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXT4YlBekmJLo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQT4YlBekmJLo.woff2",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQT4YlBekmJLo.woff2",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXT4YlBekmJLo.woff2",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXT4YlBekmJLo.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Markazi Text",
+      "files": [
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQT4MlBekmJLo.ttf",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQT4MlBekmJLo.ttf",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXT4MlBekmJLo.ttf",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXT4MlBekmJLo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQT4MlBekmJLo.ttf",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQT4MlBekmJLo.ttf",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXT4MlBekmJLo.ttf",
+        "https://fonts.gstatic.com/s/markazitext/v28/sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXT4MlBekmJLo.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Markazi Text",
+      "styles": [
+        {
+          "family_name": "Markazi Text",
+          "type": "Regular",
+          "full_name": "Markazi Text Regular",
+          "post_script_name": "MarkaziText-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2017 The Markazi Text Project Authors (https://github.com/BornaIz/markazitext)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtfSQT4MlBekmJLo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Markazi Text",
+          "type": "Bold",
+          "full_name": "Markazi Text Bold",
+          "post_script_name": "MarkaziText-Bold",
+          "version": "1.001",
+          "copyright": "Copyright 2017 The Markazi Text Project Authors (https://github.com/BornaIz/markazitext)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtROXT4MlBekmJLo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Markazi Text Medium",
+      "styles": [
+        {
+          "family_name": "Markazi Text Medium",
+          "type": "Regular",
+          "full_name": "Markazi Text Medium",
+          "post_script_name": "MarkaziText-Medium",
+          "version": "1.001",
+          "copyright": "Copyright 2017 The Markazi Text Project Authors (https://github.com/BornaIz/markazitext)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtcaQT4MlBekmJLo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Markazi Text SemiBold",
+      "styles": [
+        {
+          "family_name": "Markazi Text SemiBold",
+          "type": "Regular",
+          "full_name": "Markazi Text SemiBold",
+          "post_script_name": "MarkaziText-SemiBold",
+          "version": "1.001",
+          "copyright": "Copyright 2017 The Markazi Text Project Authors (https://github.com/BornaIz/markazitext)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "sykh-ydym6AtQaiEtX7yhqb_rV1k_81ZVYYZtSqXT4MlBekmJLo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

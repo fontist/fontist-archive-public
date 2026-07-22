@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_khudawadi",
+  "name": "noto_sans_khudawadi",
+  "description": "Noto Sans Khudawadi font family",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Khudawadi",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khudawadi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Khudawadi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjRnVVXz9MY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjRnVVXz9MY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Khudawadi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjFnVVXz9MY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanskhudawadi/v23/fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjFnVVXz9MY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Khudawadi",
+      "styles": [
+        {
+          "family_name": "Noto Sans Khudawadi",
+          "type": "Regular",
+          "full_name": "Noto Sans Khudawadi Regular",
+          "post_script_name": "NotoSansKhudawadi-Regular",
+          "version": "2.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/khudawadi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "fdNi9t6ZsWBZ2k5ltHN73zZ5hc8HANlHIjRnVVXz9MY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

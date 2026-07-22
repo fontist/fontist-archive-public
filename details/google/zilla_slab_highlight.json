@@ -1,0 +1,77 @@
+{
+  "slug": "google/zilla_slab_highlight",
+  "name": "zilla_slab_highlight",
+  "description": "Zilla Slab is Mozilla's core typeface, used for the Mozilla wordmark, headlines and throughout their designs. A contemporary slab serif, based on Typotheque's Tesla, it is constructed with smooth curves and true italics, which gives text an unexpectedly sophisticated industrial look and a friendly approachability in all weights. This is the Highlight sister family. Designed by Typotheque , this project is led by Mozilla. To contribute, see github.com/mozilla/zilla-slab",
+  "homepage": "https://fonts.google.com/specimen/Zilla+Slab+Highlight",
+  "copyright": "Copyright 2017, The Mozilla Foundation",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zilla Slab Highlight",
+      "files": [
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxhtIY2DwSXlM.ttf",
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0TET4YmVF0Mb6.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxhtIY2DwSXlM.ttf",
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0TET4YmVF0Mb6.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zilla Slab Highlight",
+      "files": [
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxhtNY2DwSXlM.woff2",
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0TET9YmVF0Mb6.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxhtNY2DwSXlM.woff2",
+        "https://fonts.gstatic.com/s/zillaslabhighlight/v21/gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0TET9YmVF0Mb6.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zilla Slab Highlight",
+      "styles": [
+        {
+          "family_name": "Zilla Slab Highlight",
+          "type": "Regular",
+          "full_name": "Zilla Slab Highlight",
+          "post_script_name": "ZillaSlabHighlight-Regular",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "gNMbW2BrTpK8-inLtBJgMMfbm6uNVDvRxhtIY2DwSXlM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab Highlight",
+          "type": "Bold",
+          "full_name": "Zilla Slab Highlight Bold",
+          "post_script_name": "ZillaSlabHighlight-Bold",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "gNMUW2BrTpK8-inLtBJgMMfbm6uNVDvRxiP0TET4YmVF0Mb6.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

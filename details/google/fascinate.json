@@ -1,0 +1,58 @@
+{
+  "slug": "google/fascinate",
+  "name": "fascinate",
+  "description": "Fascinate and Fascinate Inline are nods to Art Deco yesteryear and typefaces like Broadway, yet they have an exaggerated x-height and softness that give them a friendly yet sophisticated vibe. Even with their high contrast weighting, the Fascinate family is cleanly legible at small sizes, although the Inline version is better visible at larger display sizes.",
+  "homepage": "https://fonts.google.com/specimen/Fascinate",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fascinate\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fascinate",
+      "files": [
+        "https://fonts.gstatic.com/s/fascinate/v23/z7NWdRrufC8XJK0IIEli1LbQRPyNrw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fascinate/v23/z7NWdRrufC8XJK0IIEli1LbQRPyNrw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fascinate",
+      "files": [
+        "https://fonts.gstatic.com/s/fascinate/v23/z7NWdRrufC8XJK0IIEli0bbQRPyNrw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fascinate/v23/z7NWdRrufC8XJK0IIEli0bbQRPyNrw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fascinate",
+      "styles": [
+        {
+          "family_name": "Fascinate",
+          "type": "Regular",
+          "full_name": "Fascinate",
+          "post_script_name": "Fascinate-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fascinate\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "z7NWdRrufC8XJK0IIEli1LbQRPyNrw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

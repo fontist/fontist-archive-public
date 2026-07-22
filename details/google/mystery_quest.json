@@ -1,0 +1,58 @@
+{
+  "slug": "google/mystery_quest",
+  "name": "mystery_quest",
+  "description": "Grab your gear! Check your nerves! Get ready for Mystery Quest! This far-out funky font brings danger with every curve! You never know what this playful 1960s mod inspired typeface will bring and design adventure is just around the corner! Are you ready? Designed by Dave 'Squid' Cohen of Sideshow (a DBA of Font Diner, Inc.) To contribute to the project, contact the Font Diner .",
+  "homepage": "https://fonts.google.com/specimen/Mystery+Quest",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Mystery Quest\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mystery Quest",
+      "files": [
+        "https://fonts.gstatic.com/s/mysteryquest/v21/-nF6OG414u0E6k0wynSGlujRHwElD_9Qz9E.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mysteryquest/v21/-nF6OG414u0E6k0wynSGlujRHwElD_9Qz9E.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mystery Quest",
+      "files": [
+        "https://fonts.gstatic.com/s/mysteryquest/v21/-nF6OG414u0E6k0wynSGlujRHwQlD_9Qz9E.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mysteryquest/v21/-nF6OG414u0E6k0wynSGlujRHwQlD_9Qz9E.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mystery Quest",
+      "styles": [
+        {
+          "family_name": "Mystery Quest",
+          "type": "Regular",
+          "full_name": "Mystery Quest",
+          "post_script_name": "MysteryQuest",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Mystery Quest\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-nF6OG414u0E6k0wynSGlujRHwElD_9Qz9E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

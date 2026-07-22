@@ -1,0 +1,58 @@
+{
+  "slug": "google/island_moments",
+  "name": "island_moments",
+  "description": "Take a trip to a tropical paradise. This brush style font has an exotic appeal with alternate uppercase characters borrowed from the font, Babylonica. This OpenType Pro version offers extra alternate characters. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/island-moments .",
+  "homepage": "https://fonts.google.com/specimen/Island+Moments",
+  "copyright": "Copyright 2013-2021 The Island Moments Project Authors (https://github.com/googlefonts/island-moments)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Island Moments",
+      "files": [
+        "https://fonts.gstatic.com/s/islandmoments/v8/NaPBcZfVGvBdxIt7Ar0qzkXJF-TGIohbZ6SY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/islandmoments/v8/NaPBcZfVGvBdxIt7Ar0qzkXJF-TGIohbZ6SY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Island Moments",
+      "files": [
+        "https://fonts.gstatic.com/s/islandmoments/v8/NaPBcZfVGvBdxIt7Ar0qzkXJF-TDIohbZ6SY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/islandmoments/v8/NaPBcZfVGvBdxIt7Ar0qzkXJF-TDIohbZ6SY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Island Moments",
+      "styles": [
+        {
+          "family_name": "Island Moments",
+          "type": "Regular",
+          "full_name": "Island Moments Regular",
+          "post_script_name": "IslandMoments-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2013-2021 The Island Moments Project Authors (https://github.com/googlefonts/island-moments)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "NaPBcZfVGvBdxIt7Ar0qzkXJF-TGIohbZ6SY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

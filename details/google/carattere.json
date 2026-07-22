@@ -1,0 +1,58 @@
+{
+  "slug": "google/carattere",
+  "name": "carattere",
+  "description": "Carattere is a beautiful italic style that is perfect for invitations and other uses where formal elegance and beauty are essential. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/carattere .",
+  "homepage": "https://fonts.google.com/specimen/Carattere",
+  "copyright": "Copyright 2020 The Carattere Project Authors (https://github.com/googlefonts/carattere)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Carattere",
+      "files": [
+        "https://fonts.gstatic.com/s/carattere/v8/4iCv6Kp1b9dXlgt_CkvTt2aMH4V_gg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carattere/v8/4iCv6Kp1b9dXlgt_CkvTt2aMH4V_gg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Carattere",
+      "files": [
+        "https://fonts.gstatic.com/s/carattere/v8/4iCv6Kp1b9dXlgt_CkvTsmaMH4V_gg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carattere/v8/4iCv6Kp1b9dXlgt_CkvTsmaMH4V_gg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Carattere",
+      "styles": [
+        {
+          "family_name": "Carattere",
+          "type": "Regular",
+          "full_name": "Carattere Regular",
+          "post_script_name": "Carattere-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Carattere Project Authors (https://github.com/googlefonts/carattere)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iCv6Kp1b9dXlgt_CkvTt2aMH4V_gg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

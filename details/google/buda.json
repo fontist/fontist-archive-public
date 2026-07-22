@@ -1,0 +1,57 @@
+{
+  "slug": "google/buda",
+  "name": "buda",
+  "description": "Against the typographical grey, Buda is a black and white typeface. The letters are shared by two contrasting weights, which clash and balance each other out. This typeface is inspired by Budapest, a paradoxal town, beautiful and ugly, fragile and exuberant. Like this town, the typeface Buda is an assemblage of heterogeneous elements which form a harmony.",
+  "homepage": "https://fonts.google.com/specimen/Buda",
+  "copyright": "Copyright (c) 2010, Adele Antignac (a.antignac@hotmail.fr). All rights reserved. Licenced under SIL OFL vl.1",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Buda",
+      "files": [
+        "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrG7UBr7pZKA0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrG7UBr7pZKA0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Buda",
+      "files": [
+        "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrG7ABr7pZKA0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/buda/v31/GFDqWAN8mnyIJSSrG7ABr7pZKA0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Buda Light",
+      "styles": [
+        {
+          "family_name": "Buda Light",
+          "type": "Regular",
+          "full_name": "Buda Light",
+          "post_script_name": "Buda-Light",
+          "version": "1.003 ",
+          "copyright": "Copyright (c) 2010, Adele Antignac (a.antignac@hotmail.fr). All rights reserved. Licenced under SIL OFL vl.1",
+          "variable_font": false,
+          "font": "GFDqWAN8mnyIJSSrG7UBr7pZKA0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

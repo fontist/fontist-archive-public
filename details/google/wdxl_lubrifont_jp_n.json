@@ -1,0 +1,58 @@
+{
+  "slug": "google/wdxl_lubrifont_jp_n",
+  "name": "wdxl_lubrifont_jp_n",
+  "description": "WDXL Lubrifont JP N font family",
+  "homepage": "https://fonts.google.com/specimen/WDXL+Lubrifont+JP+N",
+  "copyright": "Copyright 2025 The WDXL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "WDXL Lubrifont JP N",
+      "files": [
+        "https://fonts.gstatic.com/s/wdxllubrifontjpn/v2/8At1GtSkFqazDiO949fzWta9_T-SVxJiIZctoLhFRNU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wdxllubrifontjpn/v2/8At1GtSkFqazDiO949fzWta9_T-SVxJiIZctoLhFRNU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "WDXL Lubrifont JP N",
+      "files": [
+        "https://fonts.gstatic.com/s/wdxllubrifontjpn/v2/8At1GtSkFqazDiO949fzWta9_T-SVxJiIZItoLhFRNU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wdxllubrifontjpn/v2/8At1GtSkFqazDiO949fzWta9_T-SVxJiIZItoLhFRNU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "WDXL Lubrifont JP N",
+      "styles": [
+        {
+          "family_name": "WDXL Lubrifont JP N",
+          "type": "Regular",
+          "full_name": "WDXL Lubrifont JP N",
+          "post_script_name": "WDXLLubrifontJPN-Regular",
+          "version": "2.001;hotconv 1.1.1;makeotfexe 2.6.0",
+          "copyright": "Copyright 2025 The WDXL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "8At1GtSkFqazDiO949fzWta9_T-SVxJiIZctoLhFRNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/praise",
+  "name": "praise",
+  "description": "Praise is a versatile script with variations from Casual (non-connecting) to Formal appeal. With nearly 3400 glyphs, the five stylistic sets gives a powerful solution to the design needs of the graphic design professional. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/praise-script .",
+  "homepage": "https://fonts.google.com/specimen/Praise",
+  "copyright": "Copyright 2014 The Praise Project Authors (https://github.com/googlefonts/praise-script)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Praise",
+      "files": [
+        "https://fonts.gstatic.com/s/praise/v9/qkBUXvUZ-cnFXcFyDvO67L9XmQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/praise/v9/qkBUXvUZ-cnFXcFyDvO67L9XmQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Praise",
+      "files": [
+        "https://fonts.gstatic.com/s/praise/v9/qkBUXvUZ-cnFXcFyC_O67L9XmQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/praise/v9/qkBUXvUZ-cnFXcFyC_O67L9XmQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Praise",
+      "styles": [
+        {
+          "family_name": "Praise",
+          "type": "Regular",
+          "full_name": "Praise Regular",
+          "post_script_name": "Praise-Regular",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014 The Praise Project Authors (https://github.com/googlefonts/praise-script)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qkBUXvUZ-cnFXcFyDvO67L9XmQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/parisienne",
+  "name": "parisienne",
+  "description": "Parisienne is a casual connecting script inspired by a 1960s Bra advertisement! It has a slight bounce and intentional irregularity to what might other wise appear to be a more formal script font. Classic, yet free spirited, it is a typestyle for a wide variety of use.",
+  "homepage": "https://fonts.google.com/specimen/Parisienne",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Parisienne\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Parisienne",
+      "files": [
+        "https://fonts.gstatic.com/s/parisienne/v14/E21i_d3kivvAkxhLEVZpcy96DuKuavM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/parisienne/v14/E21i_d3kivvAkxhLEVZpcy96DuKuavM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Parisienne",
+      "files": [
+        "https://fonts.gstatic.com/s/parisienne/v14/E21i_d3kivvAkxhLEVZpcyp6DuKuavM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/parisienne/v14/E21i_d3kivvAkxhLEVZpcyp6DuKuavM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Parisienne",
+      "styles": [
+        {
+          "family_name": "Parisienne",
+          "type": "Regular",
+          "full_name": "Parisienne",
+          "post_script_name": "Parisienne-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Parisienne\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "E21i_d3kivvAkxhLEVZpcy96DuKuavM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

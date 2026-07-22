@@ -1,0 +1,58 @@
+{
+  "slug": "google/yeon_sung",
+  "name": "yeon_sung",
+  "description": "BM YEONSUNG is a Korean and Latin font.",
+  "homepage": "https://fonts.google.com/specimen/Yeon+Sung",
+  "copyright": "Copyright 2018 The Yeon Sung Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yeon Sung",
+      "files": [
+        "https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6xSVNazqx2xg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6xSVNazqx2xg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yeon Sung",
+      "files": [
+        "https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6xTFNazqx2xg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yeonsung/v22/QldMNTpbohAGtsJvUn6xTFNazqx2xg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yeon Sung",
+      "styles": [
+        {
+          "family_name": "Yeon Sung",
+          "type": "Regular",
+          "full_name": "Yeon Sung Regular",
+          "post_script_name": "YeonSung-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2018 The Yeon Sung Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QldMNTpbohAGtsJvUn6xSVNazqx2xg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

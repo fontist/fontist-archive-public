@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_us_modern_guides",
+  "name": "playwrite_us_modern_guides",
+  "description": "Playwrite US Modern Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+US+Modern+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite US Modern Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pryxZQscrW1V.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pryxZQscrW1V.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite US Modern Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pry0ZQscrW1V.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteusmodernguides/v1/0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pry0ZQscrW1V.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite US Modern Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite US Modern Guides",
+          "type": "Regular",
+          "full_name": "Playwrite US Modern Guides Regular",
+          "post_script_name": "PlaywriteUSModernGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "0QI1MWNf_4C2VH-yUr5uyqKOvtOynXAoku8j8Lv9pryxZQscrW1V.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/sirivennela",
+  "name": "sirivennela",
+  "description": "Sirivennela font family",
+  "homepage": "https://fonts.google.com/specimen/Sirivennela",
+  "copyright": "Copyright 2021 The Sirivennela Font Project Authors (https://github.com/appajid/Sirivennela)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sirivennela",
+      "files": [
+        "https://fonts.gstatic.com/s/sirivennela/v2/kmK5Zq0oHhbAYX-X6lgptg7YiOFDtqtf.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sirivennela/v2/kmK5Zq0oHhbAYX-X6lgptg7YiOFDtqtf.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sirivennela",
+      "files": [
+        "https://fonts.gstatic.com/s/sirivennela/v2/kmK5Zq0oHhbAYX-X6lgptg7diOFDtqtf.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sirivennela/v2/kmK5Zq0oHhbAYX-X6lgptg7diOFDtqtf.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sirivennela",
+      "styles": [
+        {
+          "family_name": "Sirivennela",
+          "type": "Regular",
+          "full_name": "Sirivennela Regular",
+          "post_script_name": "Sirivennela-Regular",
+          "version": "1.00; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2021 The Sirivennela Font Project Authors (https://github.com/appajid/Sirivennela)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "kmK5Zq0oHhbAYX-X6lgptg7YiOFDtqtf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

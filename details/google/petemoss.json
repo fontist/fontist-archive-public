@@ -1,0 +1,58 @@
+{
+  "slug": "google/petemoss",
+  "name": "petemoss",
+  "description": "Petemoss is a semi-calligraphic brush script. It is inspired by the forms created using a Pentel™ color brush. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/petemoss .",
+  "homepage": "https://fonts.google.com/specimen/Petemoss",
+  "copyright": "Copyright 2008-2021 The Petemoss Project Authors (https://github.com/googlefonts/petemoss)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Petemoss",
+      "files": [
+        "https://fonts.gstatic.com/s/petemoss/v9/A2BZn5tA2xgtGWHZgxkesKb9UouQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/petemoss/v9/A2BZn5tA2xgtGWHZgxkesKb9UouQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Petemoss",
+      "files": [
+        "https://fonts.gstatic.com/s/petemoss/v9/A2BZn5tA2xgtGWHZgxkbsKb9UouQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/petemoss/v9/A2BZn5tA2xgtGWHZgxkbsKb9UouQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Petemoss",
+      "styles": [
+        {
+          "family_name": "Petemoss",
+          "type": "Regular",
+          "full_name": "Petemoss Regular",
+          "post_script_name": "Petemoss-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2008-2021 The Petemoss Project Authors (https://github.com/googlefonts/petemoss)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "A2BZn5tA2xgtGWHZgxkesKb9UouQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/doppio_one",
+  "name": "doppio_one",
+  "description": "Foundry: Sorkin Type Co Doppio One is a robust low contrast sans serif type with a contemporary feeling. Doppio One will work from small text sizes through large display sizes. Doppio's boxy style makes it especially suitable for screen use. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Doppio+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name \"Doppio\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Doppio One",
+      "files": [
+        "https://fonts.gstatic.com/s/doppioone/v14/Gg8wN5gSaBfyBw2MqCh-lgshKGpe5Fg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/doppioone/v14/Gg8wN5gSaBfyBw2MqCh-lgshKGpe5Fg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Doppio One",
+      "files": [
+        "https://fonts.gstatic.com/s/doppioone/v14/Gg8wN5gSaBfyBw2MqCh-lg4hKGpe5Fg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/doppioone/v14/Gg8wN5gSaBfyBw2MqCh-lg4hKGpe5Fg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Doppio One",
+      "styles": [
+        {
+          "family_name": "Doppio One",
+          "type": "Regular",
+          "full_name": "Doppio One Regular",
+          "post_script_name": "DoppioOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com), with Reserved Font Name \"Doppio\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gg8wN5gSaBfyBw2MqCh-lgshKGpe5Fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

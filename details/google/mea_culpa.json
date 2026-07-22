@@ -1,0 +1,58 @@
+{
+  "slug": "google/mea_culpa",
+  "name": "mea_culpa",
+  "description": "Mea Culpa is a beautiful formal script with flourished capitals. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/mea-culpa .",
+  "homepage": "https://fonts.google.com/specimen/Mea+Culpa",
+  "copyright": "Copyright 2003-2021 The Mea Culpa Project Authors (https://github.com/googlefonts/mea-culpa)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mea Culpa",
+      "files": [
+        "https://fonts.gstatic.com/s/meaculpa/v8/AMOTz4GcuWbEIuza8jsZms0QW3mqyg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/meaculpa/v8/AMOTz4GcuWbEIuza8jsZms0QW3mqyg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mea Culpa",
+      "files": [
+        "https://fonts.gstatic.com/s/meaculpa/v8/AMOTz4GcuWbEIuza8jsZn80QW3mqyg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/meaculpa/v8/AMOTz4GcuWbEIuza8jsZn80QW3mqyg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mea Culpa",
+      "styles": [
+        {
+          "family_name": "Mea Culpa",
+          "type": "Regular",
+          "full_name": "Mea Culpa Regular",
+          "post_script_name": "MeaCulpa-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003-2021 The Mea Culpa Project Authors (https://github.com/googlefonts/mea-culpa)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOTz4GcuWbEIuza8jsZms0QW3mqyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

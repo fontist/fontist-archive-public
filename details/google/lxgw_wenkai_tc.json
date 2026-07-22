@@ -1,0 +1,101 @@
+{
+  "slug": "google/lxgw_wenkai_tc",
+  "name": "lxgw_wenkai_tc",
+  "description": "LXGW WenKai TC font family",
+  "homepage": "https://fonts.google.com/specimen/LXGW+WenKai+TC",
+  "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "LXGW WenKai TC",
+      "files": [
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_MmBfkpTClICyan.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gDH20td8wNsI3f40DmtXZb48uKLd0hZzVB.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_M2AvkpTClICyan.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_MmBfkpTClICyan.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gDH20td8wNsI3f40DmtXZb48uKLd0hZzVB.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_M2AvkpTClICyan.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "LXGW WenKai TC",
+      "files": [
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_MmBfksTClICyan.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gDH20td8wNsI3f40DmtXZb48uPLd0hZzVB.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_M2AvksTClICyan.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_MmBfksTClICyan.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gDH20td8wNsI3f40DmtXZb48uPLd0hZzVB.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaitc/v9/w8gAH20td8wNsI3f40DmtXZb4_M2AvksTClICyan.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW WenKai TC Light",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai TC Light",
+          "type": "Regular",
+          "full_name": "LXGW WenKai TC Light",
+          "post_script_name": "LXGWWenKaiTC-Light",
+          "version": "1.330",
+          "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "w8gAH20td8wNsI3f40DmtXZb4_MmBfkpTClICyan.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LXGW WenKai TC",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai TC",
+          "type": "Regular",
+          "full_name": "LXGW WenKai TC Regular",
+          "post_script_name": "LXGWWenKaiTC-Regular",
+          "version": "1.330",
+          "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "w8gDH20td8wNsI3f40DmtXZb48uKLd0hZzVB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "LXGW WenKai TC",
+          "type": "Bold",
+          "full_name": "LXGW WenKai TC Bold",
+          "post_script_name": "LXGWWenKaiTC-Bold",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "w8gAH20td8wNsI3f40DmtXZb4_M2AvkpTClICyan.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

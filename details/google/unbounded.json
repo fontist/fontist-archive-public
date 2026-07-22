@@ -1,0 +1,227 @@
+{
+  "slug": "google/unbounded",
+  "name": "unbounded",
+  "description": "Unbounded is possibly the first open source, freely available and on-chain funded font in the world, thanks to the Polkadot treasury. Unbounded by both name and nature, it is available in eight display weights ranging from Light to Black as a variable font. The typeface supports both Latin and Cyrillic scripts with over 1300 individual glyphs, including a collection of symbols and a unique figure building system. In addition the sizeable glyph set accommodates for hundreds of languages worldwide. Unbounded is the product of a joint collaboration between Studio Koto , NaN, Parity Technologies and Web3 Foundation for Polkadot Network . To contribute, please see github.com/googlefonts/unbounded .",
+  "homepage": "https://fonts.google.com/specimen/Unbounded",
+  "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Unbounded",
+      "files": [
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65jx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG60bx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6xjx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6yrx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG68b204jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__204jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65j204jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG67H204jHgP6LR0Y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65jx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG60bx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6xjx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6yrx04jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG68b204jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__204jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65j204jHgP6LR0Y.woff2",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG67H204jHgP6LR0Y.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Unbounded",
+      "files": [
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65jx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG60bx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6xjx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6yrx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG68b2043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65j2043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG67H2043HgP6LR0Y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65jx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG60bx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6xjx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6yrx043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG68b2043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65j2043HgP6LR0Y.ttf",
+        "https://fonts.gstatic.com/s/unbounded/v12/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG67H2043HgP6LR0Y.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Unbounded ExtraLight",
+      "styles": [
+        {
+          "family_name": "Unbounded ExtraLight",
+          "type": "Regular",
+          "full_name": "Unbounded ExtraLight",
+          "post_script_name": "Unbounded-ExtraLight",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65jx043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unbounded Light",
+      "styles": [
+        {
+          "family_name": "Unbounded Light",
+          "type": "Regular",
+          "full_name": "Unbounded Light",
+          "post_script_name": "Unbounded-Light",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG60bx043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unbounded",
+      "styles": [
+        {
+          "family_name": "Unbounded",
+          "type": "Regular",
+          "full_name": "Unbounded Regular",
+          "post_script_name": "Unbounded-Regular",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6xjx043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Unbounded",
+          "type": "Bold",
+          "full_name": "Unbounded Bold",
+          "post_script_name": "Unbounded-Bold",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6__2043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unbounded Medium",
+      "styles": [
+        {
+          "family_name": "Unbounded Medium",
+          "type": "Regular",
+          "full_name": "Unbounded Medium",
+          "post_script_name": "Unbounded-Medium",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG6yrx043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unbounded SemiBold",
+      "styles": [
+        {
+          "family_name": "Unbounded SemiBold",
+          "type": "Regular",
+          "full_name": "Unbounded SemiBold",
+          "post_script_name": "Unbounded-SemiBold",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG68b2043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unbounded ExtraBold",
+      "styles": [
+        {
+          "family_name": "Unbounded ExtraBold",
+          "type": "Regular",
+          "full_name": "Unbounded ExtraBold",
+          "post_script_name": "Unbounded-ExtraBold",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65j2043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unbounded Black",
+      "styles": [
+        {
+          "family_name": "Unbounded Black",
+          "type": "Regular",
+          "full_name": "Unbounded Black",
+          "post_script_name": "Unbounded-Black",
+          "version": "1.701;gftools[0.9.28.dev5+ged2979d]",
+          "copyright": "Copyright 2022 The Unbounded Project Authors (https://github.com/googlefonts/unbounded)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6F-LOTXCb04q32xlpat-6uR42XTqtG67H2043HgP6LR0Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

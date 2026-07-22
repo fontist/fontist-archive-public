@@ -1,0 +1,58 @@
+{
+  "slug": "google/emblema_one",
+  "name": "emblema_one",
+  "description": "Foundry: Sorkin Type Co Emblema One is inspired by UK Victorian era bold italic display type. It breaks from tradition by using a stenciled kind of construction. The stencil style too is atypical and gives the font its distinctive feeling. Emblema One has been made for display purposes and should be used from medium to large sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Emblema+One",
+  "copyright": "Copyright (c) 2011 by Sorkin Type Co with Reserved Font Names \"Emblema\" and \"Emblema One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Emblema One",
+      "files": [
+        "https://fonts.gstatic.com/s/emblemaone/v22/nKKT-GQ0F5dSY8vzG0rOEIRBHl57G_f_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/emblemaone/v22/nKKT-GQ0F5dSY8vzG0rOEIRBHl57G_f_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Emblema One",
+      "files": [
+        "https://fonts.gstatic.com/s/emblemaone/v22/nKKT-GQ0F5dSY8vzG0rOEIREHl57G_f_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/emblemaone/v22/nKKT-GQ0F5dSY8vzG0rOEIREHl57G_f_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Emblema One",
+      "styles": [
+        {
+          "family_name": "Emblema One",
+          "type": "Regular",
+          "full_name": "Emblema One",
+          "post_script_name": "EmblemaOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 by Sorkin Type Co with Reserved Font Names \"Emblema\" and \"Emblema One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKT-GQ0F5dSY8vzG0rOEIRBHl57G_f_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

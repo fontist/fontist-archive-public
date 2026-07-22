@@ -1,0 +1,101 @@
+{
+  "slug": "google/lxgw_wenkai_mono_tc",
+  "name": "lxgw_wenkai_mono_tc",
+  "description": "LXGW WenKai Mono TC font family",
+  "homepage": "https://fonts.google.com/specimen/LXGW+WenKai+Mono+TC",
+  "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "LXGW WenKai Mono TC",
+      "files": [
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HssKqhvJljXmo2SA.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0Him6CovpOkXA.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HstKthvJljXmo2SA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HssKqhvJljXmo2SA.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0Him6CovpOkXA.ttf",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HstKthvJljXmo2SA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "LXGW WenKai Mono TC",
+      "files": [
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HssKqhvdljXmo2SA.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0HimuCovpOkXA.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HstKthvdljXmo2SA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HssKqhvdljXmo2SA.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiYyos4iPVgyWx9WtufHnsIf5nkaB0HimuCovpOkXA.woff2",
+        "https://fonts.gstatic.com/s/lxgwwenkaimonotc/v9/pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HstKthvdljXmo2SA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW WenKai Mono TC Light",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai Mono TC Light",
+          "type": "Regular",
+          "full_name": "LXGW WenKai Mono TC Light",
+          "post_script_name": "LXGWWenKaiMonoTC-Light",
+          "version": "1.330",
+          "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HssKqhvJljXmo2SA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LXGW WenKai Mono TC",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai Mono TC",
+          "type": "Regular",
+          "full_name": "LXGW WenKai Mono TC Regular",
+          "post_script_name": "LXGWWenKaiMonoTC-Regular",
+          "version": "1.330",
+          "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "pxiYyos4iPVgyWx9WtufHnsIf5nkaB0Him6CovpOkXA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "LXGW WenKai Mono TC",
+          "type": "Bold",
+          "full_name": "LXGW WenKai Mono TC Bold",
+          "post_script_name": "LXGWWenKaiMonoTC-Bold",
+          "version": "1.330",
+          "copyright": "Copyright 2024 The LXGW WenKai Project Authors (https://github.com/lxgw/LxgwWenkaiTC)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "pxiVyos4iPVgyWx9WtufHnsIf5nkaB0HstKthvJljXmo2SA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

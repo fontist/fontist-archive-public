@@ -1,0 +1,58 @@
+{
+  "slug": "google/paytone_one",
+  "name": "paytone_one",
+  "description": "Paytone One is a sans-serif font designed for use as a display and headline font on modern websites. It has a casual appearance with round bowls and slanted stroke terminals that add visual interest. February 2023: The font has been updated to v1.002 and now includes GF Plus encoding, revised outlines, Vietnamese diacritics, improved spacing and kerning. To contribute, visit the Paytone One repository on Github: https://github.com/googlefonts/paytoneFont .",
+  "homepage": "https://fonts.google.com/specimen/Paytone+One",
+  "copyright": "Copyright 2011 The Paytone Project Authors (https://github.com/googlefonts/paytoneFont)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Paytone One",
+      "files": [
+        "https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2CiTqivr9iBq_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2CiTqivr9iBq_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Paytone One",
+      "files": [
+        "https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2CiTvivr9iBq_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/paytoneone/v25/0nksC9P7MfYHj2oFtYm2CiTvivr9iBq_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Paytone One",
+      "styles": [
+        {
+          "family_name": "Paytone One",
+          "type": "Regular",
+          "full_name": "Paytone One Regular",
+          "post_script_name": "PaytoneOne-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2011 The Paytone Project Authors (https://github.com/googlefonts/paytoneFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0nksC9P7MfYHj2oFtYm2CiTqivr9iBq_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

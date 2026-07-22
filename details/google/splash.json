@@ -1,0 +1,58 @@
+{
+  "slug": "google/splash",
+  "name": "splash",
+  "description": "Inspired by the splatters that come from a heavily inked architectural ruling pen gliding along the surface of a highly textured watercolor page — Splash! Just as water droplets splash the ocean’s shore, no two splashes are exactly alike. The result is wonderfully organic and natural. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/splash .",
+  "homepage": "https://fonts.google.com/specimen/Splash",
+  "copyright": "Copyright 2017-2021 The Splash Project Authors (https://github.com/googlefonts/splash)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Splash",
+      "files": [
+        "https://fonts.gstatic.com/s/splash/v8/KtksAL2RZoDkbU6hpPPGNdS6wg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/splash/v8/KtksAL2RZoDkbU6hpPPGNdS6wg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Splash",
+      "files": [
+        "https://fonts.gstatic.com/s/splash/v8/KtksAL2RZoDkbU6hofPGNdS6wg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/splash/v8/KtksAL2RZoDkbU6hofPGNdS6wg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Splash",
+      "styles": [
+        {
+          "family_name": "Splash",
+          "type": "Regular",
+          "full_name": "Splash Regular",
+          "post_script_name": "Splash-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017-2021 The Splash Project Authors (https://github.com/googlefonts/splash)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "KtksAL2RZoDkbU6hpPPGNdS6wg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

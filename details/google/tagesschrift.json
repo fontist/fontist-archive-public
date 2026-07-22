@@ -1,0 +1,58 @@
+{
+  "slug": "google/tagesschrift",
+  "name": "tagesschrift",
+  "description": "Tagesschrift (“day-font”) is the result of a one-day type design experiment. It was written with a broad-nib pen, digitized, and adjusted all in a single day. The mixture of the quirky but still traditional appearance of this casual Antiqua suggests Tagesschrift to be used in a broad range of packaging and advertising applications. To contribute, please see github.com/yanone/tagesschrift .",
+  "homepage": "https://fonts.google.com/specimen/Tagesschrift",
+  "copyright": "Copyright 2024 The Tagesschrift Project Authors (https://github.com/yanone/tagesschrift)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tagesschrift",
+      "files": [
+        "https://fonts.gstatic.com/s/tagesschrift/v2/pe0pMI6IOYlEuEZ7ZEA7ZKOaA_Rue1UwVg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tagesschrift/v2/pe0pMI6IOYlEuEZ7ZEA7ZKOaA_Rue1UwVg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tagesschrift",
+      "files": [
+        "https://fonts.gstatic.com/s/tagesschrift/v2/pe0pMI6IOYlEuEZ7ZEA7ZKOaBvRue1UwVg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tagesschrift/v2/pe0pMI6IOYlEuEZ7ZEA7ZKOaBvRue1UwVg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tagesschrift",
+      "styles": [
+        {
+          "family_name": "Tagesschrift",
+          "type": "Regular",
+          "full_name": "Tagesschrift Regular",
+          "post_script_name": "Tagesschrift-Regular",
+          "version": "2.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Tagesschrift Project Authors (https://github.com/yanone/tagesschrift)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "pe0pMI6IOYlEuEZ7ZEA7ZKOaA_Rue1UwVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

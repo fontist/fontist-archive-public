@@ -1,0 +1,58 @@
+{
+  "slug": "google/young_serif",
+  "name": "young_serif",
+  "description": "Young Serif is a heavy weight old style serif typeface, taking inspiration from Plantin Infant or ITC Italian Old Style. The lowercase b and f feature rounded curves, adding a tender and generous quality to this font. To contribute, please see github.com/noirblancrouge/YoungSerif .",
+  "homepage": "https://fonts.google.com/specimen/Young+Serif",
+  "copyright": "Copyright 2023 The Young Serif Project Authors (https://github.com/noirblancrouge/YoungSerif)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Young Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/youngserif/v2/3qTpojO2nS2VtkB3KtkQZ2t61EcYaQ7F.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/youngserif/v2/3qTpojO2nS2VtkB3KtkQZ2t61EcYaQ7F.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Young Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/youngserif/v2/3qTpojO2nS2VtkB3KtkQZ2t_1EcYaQ7F.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/youngserif/v2/3qTpojO2nS2VtkB3KtkQZ2t_1EcYaQ7F.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Young Serif",
+      "styles": [
+        {
+          "family_name": "Young Serif",
+          "type": "Regular",
+          "full_name": "Young Serif Regular",
+          "post_script_name": "YoungSerif-Regular",
+          "version": "3.003; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.33]",
+          "copyright": "Copyright 2023 The Young Serif Project Authors (https://github.com/noirblancrouge/YoungSerif)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qTpojO2nS2VtkB3KtkQZ2t61EcYaQ7F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

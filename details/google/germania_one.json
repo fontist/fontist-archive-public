@@ -1,0 +1,58 @@
+{
+  "slug": "google/germania_one",
+  "name": "germania_one",
+  "description": "Germania One is a hybrid between two historical and functional concepts found in German typography, the old fraktur and the simplified geometric sans serif forms from the Bauhaus. I sought to create a new font that mixes these two styles to provide a new and original typeface. Something modern and at the same time old, reworking the geometric forms in a contemporary and expressive way.",
+  "homepage": "https://fonts.google.com/specimen/Germania+One",
+  "copyright": "Copyright (c) 2011 by John Vargas Beltran (john.vargasbeltran@gmail.com), with Reserved Font Name \"Germania One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Germania One",
+      "files": [
+        "https://fonts.gstatic.com/s/germaniaone/v21/Fh4yPjrqIyv2ucM2qzBjeS3ezAJONau6ew.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/germaniaone/v21/Fh4yPjrqIyv2ucM2qzBjeS3ezAJONau6ew.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Germania One",
+      "files": [
+        "https://fonts.gstatic.com/s/germaniaone/v21/Fh4yPjrqIyv2ucM2qzBjeS3eyQJONau6ew.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/germaniaone/v21/Fh4yPjrqIyv2ucM2qzBjeS3eyQJONau6ew.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Germania One",
+      "styles": [
+        {
+          "family_name": "Germania One",
+          "type": "Regular",
+          "full_name": "Germania One",
+          "post_script_name": "GermaniaOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by John Vargas Beltran (john.vargasbeltran@gmail.com), with Reserved Font Name \"Germania One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Fh4yPjrqIyv2ucM2qzBjeS3ezAJONau6ew.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

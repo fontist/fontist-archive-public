@@ -1,0 +1,58 @@
+{
+  "slug": "google/sacramento",
+  "name": "sacramento",
+  "description": "The Sacramento typeface is a monoline, semi-connected script inspired by hand-lettering artist brochure work of the 1950's and 1960's. It stands on a thin line between formal and casual lettering styles, yet it has a commanding presence for headlines and titles. To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Sacramento",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Sacramento\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sacramento",
+      "files": [
+        "https://fonts.gstatic.com/s/sacramento/v17/buEzpo6gcdjy0EiZMBUG0CoV_NxLeiw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sacramento/v17/buEzpo6gcdjy0EiZMBUG0CoV_NxLeiw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sacramento",
+      "files": [
+        "https://fonts.gstatic.com/s/sacramento/v17/buEzpo6gcdjy0EiZMBUG0C8V_NxLeiw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sacramento/v17/buEzpo6gcdjy0EiZMBUG0C8V_NxLeiw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sacramento",
+      "styles": [
+        {
+          "family_name": "Sacramento",
+          "type": "Regular",
+          "full_name": "Sacramento",
+          "post_script_name": "Sacramento-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Sacramento\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "buEzpo6gcdjy0EiZMBUG0CoV_NxLeiw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

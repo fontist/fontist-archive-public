@@ -1,0 +1,115 @@
+{
+  "slug": "google/amaranth",
+  "name": "amaranth",
+  "description": "The Amaranth family is a friendly upright italic design with a slight contrast and distinctive curves. With its three new styles Amaranth is healthy for all your texts too!",
+  "homepage": "https://fonts.google.com/specimen/Amaranth",
+  "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Amaranth",
+      "files": [
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkuALODe433f0j1zPnCF9GqwnzW.ttf",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkoALODe433f0j1zMnAHdWIx2zWD4I.ttf",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkpALODe433f0j1zMF-OPWi6WDfFpuc.ttf",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkrALODe433f0j1zMnAJWmn42T9E4ucRY8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkuALODe433f0j1zPnCF9GqwnzW.ttf",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkoALODe433f0j1zMnAHdWIx2zWD4I.ttf",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkpALODe433f0j1zMF-OPWi6WDfFpuc.ttf",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkrALODe433f0j1zMnAJWmn42T9E4ucRY8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Amaranth",
+      "files": [
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkuALODe433f0j1zPnHF9GqwnzW.woff2",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkoALODe433f0j1zMnAHdCIx2zWD4I.woff2",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkpALODe433f0j1zMF-OPWn6WDfFpuc.woff2",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkrALODe433f0j1zMnAJWmn42H9E4ucRY8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkuALODe433f0j1zPnHF9GqwnzW.woff2",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkoALODe433f0j1zMnAHdCIx2zWD4I.woff2",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkpALODe433f0j1zMF-OPWn6WDfFpuc.woff2",
+        "https://fonts.gstatic.com/s/amaranth/v19/KtkrALODe433f0j1zMnAJWmn42H9E4ucRY8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Amaranth",
+      "styles": [
+        {
+          "family_name": "Amaranth",
+          "type": "Regular",
+          "full_name": "Amaranth Regular",
+          "post_script_name": "Amaranth-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+          "description": "Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "KtkuALODe433f0j1zPnCF9GqwnzW.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amaranth",
+          "type": "Italic",
+          "full_name": "Amaranth Italic",
+          "post_script_name": "Amaranth-Italic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+          "description": "Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "KtkoALODe433f0j1zMnAHdWIx2zWD4I.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amaranth",
+          "type": "Bold",
+          "full_name": "Amaranth Bold",
+          "post_script_name": "Amaranth-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+          "description": "Copyright (c) 2011 Amaranth by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "KtkpALODe433f0j1zMF-OPWi6WDfFpuc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amaranth",
+          "type": "Bold Italic",
+          "full_name": "Amaranth Bold Italic",
+          "post_script_name": "Amaranth-BoldItalic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "KtkrALODe433f0j1zMnAJWmn42T9E4ucRY8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

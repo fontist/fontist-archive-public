@@ -1,0 +1,58 @@
+{
+  "slug": "google/francois_one",
+  "name": "francois_one",
+  "description": "Francois One is a reworking of traditional sans serif gothic display typeface forms. In Francois One, the earlier letter forms have been digitised and then reshaped for use as a webfont, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers. Slanted stem terminals have been added to give the face added visual play.",
+  "homepage": "https://fonts.google.com/specimen/Francois+One",
+  "copyright": "Copyright 2011 The Francois One Project Authors (contact@sansoxygen.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Francois One",
+      "files": [
+        "https://fonts.gstatic.com/s/francoisone/v22/_Xmr-H4zszafZw3A-KPSZutNxgKQu_avAg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/francoisone/v22/_Xmr-H4zszafZw3A-KPSZutNxgKQu_avAg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Francois One",
+      "files": [
+        "https://fonts.gstatic.com/s/francoisone/v22/_Xmr-H4zszafZw3A-KPSZutNwwKQu_avAg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/francoisone/v22/_Xmr-H4zszafZw3A-KPSZutNwwKQu_avAg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Francois One",
+      "styles": [
+        {
+          "family_name": "Francois One",
+          "type": "Regular",
+          "full_name": "Francois One Regular",
+          "post_script_name": "FrancoisOne-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2011 The Francois One Project Authors (contact@sansoxygen.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_Xmr-H4zszafZw3A-KPSZutNxgKQu_avAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

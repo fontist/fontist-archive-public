@@ -1,0 +1,58 @@
+{
+  "slug": "google/capriola",
+  "name": "capriola",
+  "description": "Capriola is a sans-serif typeface whose unique style draws upon forms seen in handwriting and italic types. Skeletons of the most characteristic glyphs are inspired by quick handwriting and based on a single hand movement (G,a,g,k,e). Capriola ambitiously seeks to push the boundaries of originality in the genre without losing legibility. The unusual glyphs are quite noticeable in large sizes which allows for distinctive headlines. However in small sizes these gestures become less noticeable, making it possible to set longer texts. The name means somersault in Latin. The a, e and G are the real acrobats, and the \"g\" makes a double salto! Capriola was spaced for use on the web. Capriola's originality combined with utility makes it ideal for a wide range of uses. To contribute, see github.com/SorkinType/Capriola-VF .",
+  "homepage": "https://fonts.google.com/specimen/Capriola",
+  "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Capriola\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Capriola",
+      "files": [
+        "https://fonts.gstatic.com/s/capriola/v15/wXKoE3YSppcvo1PDln_8L-AinG8y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/capriola/v15/wXKoE3YSppcvo1PDln_8L-AinG8y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Capriola",
+      "files": [
+        "https://fonts.gstatic.com/s/capriola/v15/wXKoE3YSppcvo1PDln_5L-AinG8y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/capriola/v15/wXKoE3YSppcvo1PDln_5L-AinG8y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Capriola",
+      "styles": [
+        {
+          "family_name": "Capriola",
+          "type": "Regular",
+          "full_name": "Capriola Regular",
+          "post_script_name": "Capriola-Regular",
+          "version": "1.007",
+          "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Capriola\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wXKoE3YSppcvo1PDln_8L-AinG8y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

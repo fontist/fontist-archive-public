@@ -1,0 +1,58 @@
+{
+  "slug": "google/yuji_hentaigana_akebono",
+  "name": "yuji_hentaigana_akebono",
+  "description": "\"Yuji\" is a series of fonts digitizing handwriting by the calligrapher Yuji Kataoka. Akebono is a \"Hentaigana\" font which contains stylistic alternate versions of the standard Hiragana set that were abandoned in 1900 during a script reform. As there are no Hentaigana for Katakana, no Katakana are included. Latin is all-caps / small caps. Fonts in the Yuji Family: Yuji Hentaigana Akari Yuji Boku Yuji Mai Yuji Syuku To contribute to the project, visit github.com/Kinutafontfactory/Yuji",
+  "homepage": "https://fonts.google.com/specimen/Yuji+Hentaigana+Akebono",
+  "copyright": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yuji Hentaigana Akebono",
+      "files": [
+        "https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy9NKXRzrrF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy9NKXRzrrF.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yuji Hentaigana Akebono",
+      "files": [
+        "https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy4NKXRzrrF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yujihentaiganaakebono/v15/EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy4NKXRzrrF.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yuji Hentaigana Akebono",
+      "styles": [
+        {
+          "family_name": "Yuji Hentaigana Akebono",
+          "type": "Regular",
+          "full_name": "Yuji Hentaigana Akebono Regular",
+          "post_script_name": "YujiHentaiganaAkebono-Regular",
+          "version": "3.002",
+          "copyright": "Copyright 2021 The Yuji Project Authors (https://github.com/Kinutafontfactory/Yuji)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EJRGQhkhRNwM-RtitGUwh930GU_f5KAlkuL0wQy9NKXRzrrF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

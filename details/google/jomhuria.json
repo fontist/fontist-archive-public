@@ -1,0 +1,58 @@
+{
+  "slug": "google/jomhuria",
+  "name": "jomhuria",
+  "description": "Jomhuria is a dark Persian/Arabic and Latin display typeface, suitable for headline and other display usage. The name means 'republic,' and the spark of inspiration for the design was a stencil of “Shablon” showing just a limited character set just for the Persian language without any marks, vowels or Latin glyphs. Shablon was designed 30 years ago in Iran, and is reinterpreted by Kourosh to incorporate contemporary techniques, aesthetics and of course some personal taste. While inspired by the spirit of Shablon, Jomhuria is a new typeface that stands on its own. The typeface designer Kourosh created an additional original Latin design that is tailored to harmonize with the aesthetics of the Persian/Arabic design. Being made for big sizes means details matter. The positions of the dots remains faithful to their locations in Persian/Arabic calligraphy; this is an important factor of beauty in the writing system and is key to readability. The Arabic script was designed by Kourosh Beigpour, and the Latin was designed by Eben Sorkin. The font is engineered by Lasse Fister, and the technicalities build upon those developed by Khaled Hosny for his “Amiri.” The Latin is scaled to work best with the Arabic component. The Jomhuria project is led by KB Studio, a type design foundry based in Los Angelese, USA. To contribute, see github.com/Tarobish/Jomhuria",
+  "homepage": "https://fonts.google.com/specimen/Jomhuria",
+  "copyright": "Copyright 2015 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015 Lasse Fister (lasse@graphicore.de). Copyright 2015 Sorkin Type Co (www.sorkintype.com). Copyright 2010-2015 Khaled Hosny (khaledhosny@eglug.org).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jomhuria",
+      "files": [
+        "https://fonts.gstatic.com/s/jomhuria/v22/Dxxp8j-TMXf-llKur2b1MOGbC3Dh.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jomhuria/v22/Dxxp8j-TMXf-llKur2b1MOGbC3Dh.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jomhuria",
+      "files": [
+        "https://fonts.gstatic.com/s/jomhuria/v22/Dxxp8j-TMXf-llKur2bwMOGbC3Dh.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jomhuria/v22/Dxxp8j-TMXf-llKur2bwMOGbC3Dh.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jomhuria",
+      "styles": [
+        {
+          "family_name": "Jomhuria",
+          "type": "Regular",
+          "full_name": "Jomhuria Regular",
+          "post_script_name": "Jomhuria-Regular",
+          "version": "1.0010 ",
+          "copyright": "Copyright 2015 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015 Lasse Fister (lasse@graphicore.de). Copyright 2015 Sorkin Type Co (www.sorkintype.com). Copyright 2010-2015 Khaled Hosny (khaledhosny@eglug.org).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Dxxp8j-TMXf-llKur2b1MOGbC3Dh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

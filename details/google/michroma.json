@@ -1,0 +1,58 @@
+{
+  "slug": "google/michroma",
+  "name": "michroma",
+  "description": "Michroma is a reworking and remodelling of the rounded-square sans genre that is closely associated with a 1960s feeling of the future. This is due to the popularity of Microgramma, designed by Aldo Novarese and Alessandro Buttiin in 1952, which pioneered the style; and the most famous typeface family of the genre that came 10 years later in Novarese’s Eurostile. Michroma has character widths and stem weights perfectly formed to fit today's digital screens; Vernon Adams has pioneered a design process with this font that produces excellent results on screen with no manual hinting involved. The Mai 2023 update features a bigger glyphset and some minor aesthetic modifications. To contribute, see github.com/googlefonts/Michroma-font",
+  "homepage": "https://fonts.google.com/specimen/Michroma",
+  "copyright": "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Michroma",
+      "files": [
+        "https://fonts.gstatic.com/s/michroma/v21/PN_zRfy9qWD8fEagAMg6rzjb_-Da.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/michroma/v21/PN_zRfy9qWD8fEagAMg6rzjb_-Da.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Michroma",
+      "files": [
+        "https://fonts.gstatic.com/s/michroma/v21/PN_zRfy9qWD8fEagAMg_rzjb_-Da.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/michroma/v21/PN_zRfy9qWD8fEagAMg_rzjb_-Da.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Michroma",
+      "styles": [
+        {
+          "family_name": "Michroma",
+          "type": "Regular",
+          "full_name": "Michroma Regular",
+          "post_script_name": "Michroma-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.29]",
+          "copyright": "Copyright 2011 The Michroma Project Authors (https://github.com/googlefonts/Michroma-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PN_zRfy9qWD8fEagAMg6rzjb_-Da.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/bree_serif",
+  "name": "bree_serif",
+  "description": "This friendly upright italic is the serif cousin of TypeTogether's award winning family Bree . Designed by Veronika Burian and José Scaglione, Bree was originally released in 2008 and became an immediate success because of its originality, charming appearance and versatility.",
+  "homepage": "https://fonts.google.com/specimen/Bree+Serif",
+  "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Bree\" and \"Bree Serif\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bree Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/breeserif/v18/4UaHrEJCrhhnVA3DgluAx63j5pN1MwI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/breeserif/v18/4UaHrEJCrhhnVA3DgluAx63j5pN1MwI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bree Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/breeserif/v18/4UaHrEJCrhhnVA3DgluAx6jj5pN1MwI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/breeserif/v18/4UaHrEJCrhhnVA3DgluAx6jj5pN1MwI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bree Serif",
+      "styles": [
+        {
+          "family_name": "Bree Serif",
+          "type": "Regular",
+          "full_name": "Bree Serif Regular",
+          "post_script_name": "BreeSerif-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Bree\" and \"Bree Serif\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4UaHrEJCrhhnVA3DgluAx63j5pN1MwI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

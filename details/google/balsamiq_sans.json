@@ -1,0 +1,115 @@
+{
+  "slug": "google/balsamiq_sans",
+  "name": "balsamiq_sans",
+  "description": "Balsamiq Sans is the handwritten font created for the Balsamiq Wireframes and has been in use since version 2.1. The font contains 942 glyphs in 2 weights with italics/obliques, and includes the basic and extended latin character set, Cyrillic, Basic Symbols and Dingbats, Math and Technical Symbols, and punctuation To contribute, see github.com/balsamiq/balsamiqsans",
+  "homepage": "https://fonts.google.com/specimen/Balsamiq+Sans",
+  "copyright": "Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Balsamiq Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sEzZiAbNrN8SB3lQQX7Pnc8dkdIYdNHzs.ttf",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sazZiAbNrN8SB3lQQX7PncwdsXJaVIDzvcXA.ttf",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sZzZiAbNrN8SB3lQQX7PncyWUyBY9mAzLFRQI.ttf",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsBxDAVQI4aA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sEzZiAbNrN8SB3lQQX7Pnc8dkdIYdNHzs.ttf",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sazZiAbNrN8SB3lQQX7PncwdsXJaVIDzvcXA.ttf",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sZzZiAbNrN8SB3lQQX7PncyWUyBY9mAzLFRQI.ttf",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsBxDAVQI4aA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Balsamiq Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sEzZiAbNrN8SB3lQQX7Pnc8dwdIYdNHzs.woff2",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sazZiAbNrN8SB3lQQX7PncwdsXIKVIDzvcXA.woff2",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sZzZiAbNrN8SB3lQQX7PncyWUyBYpmAzLFRQI.woff2",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsAhDAVQI4aA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sEzZiAbNrN8SB3lQQX7Pnc8dwdIYdNHzs.woff2",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sazZiAbNrN8SB3lQQX7PncwdsXIKVIDzvcXA.woff2",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sZzZiAbNrN8SB3lQQX7PncyWUyBYpmAzLFRQI.woff2",
+        "https://fonts.gstatic.com/s/balsamiqsans/v15/P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsAhDAVQI4aA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Balsamiq Sans",
+      "styles": [
+        {
+          "family_name": "Balsamiq Sans",
+          "type": "Regular",
+          "full_name": "Balsamiq Sans Regular",
+          "post_script_name": "BalsamiqSans-Regular",
+          "version": "1.020; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.26]",
+          "copyright": "Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sEzZiAbNrN8SB3lQQX7Pnc8dkdIYdNHzs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Balsamiq Sans",
+          "type": "Italic",
+          "full_name": "Balsamiq Sans Italic",
+          "post_script_name": "BalsamiqSans-Italic",
+          "version": "1.020; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.26]",
+          "copyright": "Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sazZiAbNrN8SB3lQQX7PncwdsXJaVIDzvcXA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Balsamiq Sans",
+          "type": "Bold",
+          "full_name": "Balsamiq Sans Bold",
+          "post_script_name": "BalsamiqSans-Bold",
+          "version": "1.020; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.26]",
+          "copyright": "Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sZzZiAbNrN8SB3lQQX7PncyWUyBY9mAzLFRQI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Balsamiq Sans",
+          "type": "Bold Italic",
+          "full_name": "Balsamiq Sans Bold Italic",
+          "post_script_name": "BalsamiqSans-BoldItalic",
+          "version": "1.020; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.26]",
+          "copyright": "Copyright 2011 The Balsamiq Sans Project Authors (https://github.com/balsamiq/balsamiqsans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sfzZiAbNrN8SB3lQQX7PncwdsvmYpsBxDAVQI4aA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

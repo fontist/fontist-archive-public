@@ -1,0 +1,115 @@
+{
+  "slug": "google/share",
+  "name": "share",
+  "description": "Share is a sans serif family. There are two more related families, Share Tech and Share Tech Mono .",
+  "homepage": "https://fonts.google.com/specimen/Share",
+  "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Share",
+      "files": [
+        "https://fonts.gstatic.com/s/share/v20/i7dEIFliZjKNF5VNHLq2cV5d.ttf",
+        "https://fonts.gstatic.com/s/share/v20/i7dKIFliZjKNF6VPFr6UdE5dWFM.ttf",
+        "https://fonts.gstatic.com/s/share/v20/i7dJIFliZjKNF63xM56-WkJUQUq7.ttf",
+        "https://fonts.gstatic.com/s/share/v20/i7dPIFliZjKNF6VPLgK7UEZ2RFq7AwU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/share/v20/i7dEIFliZjKNF5VNHLq2cV5d.ttf",
+        "https://fonts.gstatic.com/s/share/v20/i7dKIFliZjKNF6VPFr6UdE5dWFM.ttf",
+        "https://fonts.gstatic.com/s/share/v20/i7dJIFliZjKNF63xM56-WkJUQUq7.ttf",
+        "https://fonts.gstatic.com/s/share/v20/i7dPIFliZjKNF6VPLgK7UEZ2RFq7AwU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Share",
+      "files": [
+        "https://fonts.gstatic.com/s/share/v20/i7dEIFliZjKNF5VIHLq2cV5d.woff2",
+        "https://fonts.gstatic.com/s/share/v20/i7dKIFliZjKNF6VPFruUdE5dWFM.woff2",
+        "https://fonts.gstatic.com/s/share/v20/i7dJIFliZjKNF63xM567WkJUQUq7.woff2",
+        "https://fonts.gstatic.com/s/share/v20/i7dPIFliZjKNF6VPLgK7UEN2RFq7AwU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/share/v20/i7dEIFliZjKNF5VIHLq2cV5d.woff2",
+        "https://fonts.gstatic.com/s/share/v20/i7dKIFliZjKNF6VPFruUdE5dWFM.woff2",
+        "https://fonts.gstatic.com/s/share/v20/i7dJIFliZjKNF63xM567WkJUQUq7.woff2",
+        "https://fonts.gstatic.com/s/share/v20/i7dPIFliZjKNF6VPLgK7UEN2RFq7AwU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Share",
+      "styles": [
+        {
+          "family_name": "Share",
+          "type": "Regular",
+          "full_name": "Share Regular",
+          "post_script_name": "Share-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/",
+          "variable_font": false,
+          "font": "i7dEIFliZjKNF5VNHLq2cV5d.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Share",
+          "type": "Italic",
+          "full_name": "Share Italic",
+          "post_script_name": "Share-Italic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/",
+          "variable_font": false,
+          "font": "i7dKIFliZjKNF6VPFr6UdE5dWFM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Share",
+          "type": "Bold",
+          "full_name": "Share Bold",
+          "post_script_name": "Share-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/",
+          "variable_font": false,
+          "font": "i7dJIFliZjKNF63xM56-WkJUQUq7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Share",
+          "type": "Bold Italic",
+          "full_name": "Share Bold Italic",
+          "post_script_name": "Share-BoldItalic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2005-2011, Carrois Type Design (carrois.com), with Reserved Font Name \"Share\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/",
+          "variable_font": false,
+          "font": "i7dPIFliZjKNF6VPLgK7UEZ2RFq7AwU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

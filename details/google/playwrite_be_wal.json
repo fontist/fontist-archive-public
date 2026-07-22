@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_be_wal",
+  "name": "playwrite_be_wal",
+  "description": "Playwrite BE WAL font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+BE+WAL",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite BE WAL",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfulHxwiSZp8.woff2",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPulHxwiSZp8.woff2",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPulHxwiSZp8.woff2",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPulHxwiSZp8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfulHxwiSZp8.woff2",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPulHxwiSZp8.woff2",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPulHxwiSZp8.woff2",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPulHxwiSZp8.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite BE WAL",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfugHxwiSZp8.ttf",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPugHxwiSZp8.ttf",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPugHxwiSZp8.ttf",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPugHxwiSZp8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfugHxwiSZp8.ttf",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPugHxwiSZp8.ttf",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPugHxwiSZp8.ttf",
+        "https://fonts.gstatic.com/s/playwritebewal/v7/DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPugHxwiSZp8.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite BE WAL Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite BE WAL Thin",
+          "type": "Regular",
+          "full_name": "Playwrite BE WAL Thin",
+          "post_script_name": "PlaywriteBEWAL-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGfugHxwiSZp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite BE WAL ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite BE WAL ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite BE WAL ExtraLight",
+          "post_script_name": "PlaywriteBEWAL-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsUCGPugHxwiSZp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite BE WAL Light",
+      "styles": [
+        {
+          "family_name": "Playwrite BE WAL Light",
+          "type": "Regular",
+          "full_name": "Playwrite BE WAL Light",
+          "post_script_name": "PlaywriteBEWAL-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsXcGPugHxwiSZp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite BE WAL",
+      "styles": [
+        {
+          "family_name": "Playwrite BE WAL",
+          "type": "Regular",
+          "full_name": "Playwrite BE WAL Regular",
+          "post_script_name": "PlaywriteBEWAL-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DtV1Jwq5QbIzyrA6DHdJ2BksuUmanQtEYjAlv96WFsWCGPugHxwiSZp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,153 @@
+{
+  "slug": "google/big_shoulders_stencil_display",
+  "name": "Big Shoulders Stencil Display",
+  "description": "Big Shoulders Stencil Display",
+  "homepage": "http://xotype.co",
+  "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "Big Shoulders Stencil Display": {
+      "source": "google",
+      "family": "Big Shoulders Stencil Display",
+      "files": [
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0nPKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_u0jPKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_ZUjPKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0jPKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_CUjPKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_5U_PKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_3E_PKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_u0_PKHznJucP9w.ttf",
+        "https://fonts.gstatic.com/s/bigshouldersstencildisplay/v28/6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_kk_PKHznJucP9w.ttf"
+      ],
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Big Shoulders Stencil Display",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display",
+          "type": "Bold",
+          "full_name": "Big Shoulders Stencil Display Bold",
+          "post_script_name": "BigShouldersStencilDisplay-Bold",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_3E_PKHznJucP9w.ttf"
+        },
+        {
+          "family_name": "Big Shoulders Stencil Display",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display Regular",
+          "post_script_name": "BigShouldersStencilDisplay-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0jPKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display Black",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display Black",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display Black",
+          "post_script_name": "BigShouldersStencilDisplay-Black",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_kk_PKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display ExtraBold",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display ExtraBold",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display ExtraBold",
+          "post_script_name": "BigShouldersStencilDisplay-ExtraBold",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_u0_PKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display ExtraLight",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display ExtraLight",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display ExtraLight",
+          "post_script_name": "BigShouldersStencilDisplay-ExtraLight",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_u0jPKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display Light",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display Light",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display Light",
+          "post_script_name": "BigShouldersStencilDisplay-Light",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_ZUjPKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display Medium",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display Medium",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display Medium",
+          "post_script_name": "BigShouldersStencilDisplay-Medium",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_CUjPKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display SemiBold",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display SemiBold",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display SemiBold",
+          "post_script_name": "BigShouldersStencilDisplay-SemiBold",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_5U_PKHznJucP9w.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Stencil Display Thin",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Stencil Display Thin",
+          "type": "Regular",
+          "full_name": "Big Shoulders Stencil Display Thin",
+          "post_script_name": "BigShouldersStencilDisplay-Thin",
+          "version": "2.001",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "6aeZ4LS6U6pR_bp5b_t2ugOhHWFcxSGP9ttD96KCb8xPytKb-oPRU-vkuLm_O0nPKHznJucP9w.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

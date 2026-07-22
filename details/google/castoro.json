@@ -1,0 +1,77 @@
+{
+  "slug": "google/castoro",
+  "name": "castoro",
+  "description": "Castoro began as a synthesis of aspects of assorted Dutch types from the 16–18th Centuries and was initially made for the Indic fonts that Tiro produced for Harvard University Press. The version released as Castoro retains the extensive diacritic set for transliteration of South Asian languages and additional characters for an increased number of European languages. Castoro is named for the North American beaver, Castor canadensis. Robust serif text types with extensive language and typographic layout support are sometimes referred to as &apos;workhorse&apos; types. Castoro may be thought of as a busy beaver. The roman was designed by John Hudson, and the italic with his Tiro colleague Paul Hanslow, assisted by Kaja Słojewska. To contribute, see github.com/TiroTypeworks/Castoro .",
+  "homepage": "https://fonts.google.com/specimen/Castoro",
+  "copyright": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Castoro",
+      "files": [
+        "https://fonts.gstatic.com/s/castoro/v20/1q2GY5yMCld3-O4cHYhEzOYenEU.ttf",
+        "https://fonts.gstatic.com/s/castoro/v20/1q2EY5yMCld3-O4cLYpOyMQbjEX5fw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/castoro/v20/1q2GY5yMCld3-O4cHYhEzOYenEU.ttf",
+        "https://fonts.gstatic.com/s/castoro/v20/1q2EY5yMCld3-O4cLYpOyMQbjEX5fw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Castoro",
+      "files": [
+        "https://fonts.gstatic.com/s/castoro/v20/1q2GY5yMCld3-O4cHY1EzOYenEU.woff2",
+        "https://fonts.gstatic.com/s/castoro/v20/1q2EY5yMCld3-O4cLYpOzcQbjEX5fw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/castoro/v20/1q2GY5yMCld3-O4cHY1EzOYenEU.woff2",
+        "https://fonts.gstatic.com/s/castoro/v20/1q2EY5yMCld3-O4cLYpOzcQbjEX5fw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Castoro",
+      "styles": [
+        {
+          "family_name": "Castoro",
+          "type": "Regular",
+          "full_name": "Castoro Regular",
+          "post_script_name": "Castoro-Regular",
+          "version": "2.04",
+          "copyright": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1q2GY5yMCld3-O4cHYhEzOYenEU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Castoro",
+          "type": "Italic",
+          "full_name": "Castoro Italic",
+          "post_script_name": "Castoro-Italic",
+          "version": "2.04",
+          "copyright": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1q2EY5yMCld3-O4cLYpOyMQbjEX5fw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

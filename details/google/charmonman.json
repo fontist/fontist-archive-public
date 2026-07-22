@@ -1,0 +1,77 @@
+{
+  "slug": "google/charmonman",
+  "name": "charmonman",
+  "description": "Charmonman is a Thai and Latin family which takes inspiration from Zapfino. It features tall ascenders and descenders with swashed letterforms.",
+  "homepage": "https://fonts.google.com/specimen/Charmonman",
+  "copyright": "Copyright 2018 The Charmonman Project Authors (https://github.com/cadsondemak/Charmonman)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Charmonman",
+      "files": [
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQDmiR3vP_nuxDv47jiWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQAmiR3vP_nuxDv47jiYC2HmL9K9OhmGnY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQDmiR3vP_nuxDv47jiWJGovLdh6OE.ttf",
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQAmiR3vP_nuxDv47jiYC2HmL9K9OhmGnY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Charmonman",
+      "files": [
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQDmiR3vP_nuxDv47jiWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQAmiR3vP_nuxDv47jiYC2HmLpK9OhmGnY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQDmiR3vP_nuxDv47jiWJSovLdh6OE.woff2",
+        "https://fonts.gstatic.com/s/charmonman/v20/MjQAmiR3vP_nuxDv47jiYC2HmLpK9OhmGnY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Charmonman",
+      "styles": [
+        {
+          "family_name": "Charmonman",
+          "type": "Regular",
+          "full_name": "Charmonman Regular",
+          "post_script_name": "Charmonman-Regular",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The Charmonman Project Authors (https://github.com/cadsondemak/Charmonman)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQDmiR3vP_nuxDv47jiWJGovLdh6OE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Charmonman",
+          "type": "Bold",
+          "full_name": "Charmonman Bold",
+          "post_script_name": "Charmonman-Bold",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The Charmonman Project Authors (https://github.com/cadsondemak/Charmonman)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MjQAmiR3vP_nuxDv47jiYC2HmL9K9OhmGnY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "google/kreon",
+  "name": "kreon",
+  "description": "Kreon targets text typesetting for magazines and news sites. With a slight slab-serif look and the low contrast design, it is a sturdy typeface for your website, blog or online magazine. Its friendly feel will soon be accompanied by a sans serif as well as italics. Enjoy.",
+  "homepage": "https://fonts.google.com/specimen/Kreon",
+  "copyright": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Kreon",
+      "files": [
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNimfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtimfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNimfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-mfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-mfzUfp2dWNg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNimfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtimfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNimfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-mfzUfp2dWNg.woff2",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-mfzUfp2dWNg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Kreon",
+      "files": [
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNimejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtimejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNimejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-mejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-mejUfp2dWNg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNimejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtimejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNimejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-mejUfp2dWNg.ttf",
+        "https://fonts.gstatic.com/s/kreon/v40/t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-mejUfp2dWNg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kreon Light",
+      "styles": [
+        {
+          "family_name": "Kreon Light",
+          "type": "Regular",
+          "full_name": "Kreon Light",
+          "post_script_name": "Kreon-Light",
+          "version": "2.002",
+          "copyright": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "t5t9IRIUKY-TFF_LW5lnMR3v2DnvPNimejUfp2dWNg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kreon",
+      "styles": [
+        {
+          "family_name": "Kreon",
+          "type": "Regular",
+          "full_name": "Kreon Regular",
+          "post_script_name": "Kreon-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "t5t9IRIUKY-TFF_LW5lnMR3v2DnvYtimejUfp2dWNg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kreon",
+          "type": "Bold",
+          "full_name": "Kreon Bold",
+          "post_script_name": "Kreon-Bold",
+          "version": "2.002",
+          "copyright": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "t5t9IRIUKY-TFF_LW5lnMR3v2Dnvhd-mejUfp2dWNg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kreon Medium",
+      "styles": [
+        {
+          "family_name": "Kreon Medium",
+          "type": "Regular",
+          "full_name": "Kreon Medium",
+          "post_script_name": "Kreon-Medium",
+          "version": "2.002",
+          "copyright": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "t5t9IRIUKY-TFF_LW5lnMR3v2DnvUNimejUfp2dWNg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kreon SemiBold",
+      "styles": [
+        {
+          "family_name": "Kreon SemiBold",
+          "type": "Regular",
+          "full_name": "Kreon SemiBold",
+          "post_script_name": "Kreon-SemiBold",
+          "version": "2.002",
+          "copyright": "Copyright 2018 The Kreon Project Authors (https://github.com/googlefonts/kreon), with Reserved Font Name \"Kreon\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "t5t9IRIUKY-TFF_LW5lnMR3v2DnvvN-mejUfp2dWNg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

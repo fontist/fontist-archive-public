@@ -1,0 +1,58 @@
+{
+  "slug": "google/basic",
+  "name": "basic",
+  "description": "Foundry: Sorkin Type Co Basic is a low contrast san serif text face. Basic mixes familiar forms with a hint of novelty. It is is easy to read and is slightly elegant. Basic can be used from small sizes to larger display settings. Source files are available from github.com/EbenSorkin/Basic . To contribute to the project, contact Eben Sorkin . Updated August 2014: Sorkin Type Co extended the character set and improved the hinting.",
+  "homepage": "https://fonts.google.com/specimen/Basic",
+  "copyright": "Copyright (c) 2011-2014, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Basic'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Basic",
+      "files": [
+        "https://fonts.gstatic.com/s/basic/v18/xfu_0WLxV2_XKQN34lDVyR7D.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/basic/v18/xfu_0WLxV2_XKQN34lDVyR7D.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Basic",
+      "files": [
+        "https://fonts.gstatic.com/s/basic/v18/xfu_0WLxV2_XKQNy4lDVyR7D.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/basic/v18/xfu_0WLxV2_XKQNy4lDVyR7D.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Basic",
+      "styles": [
+        {
+          "family_name": "Basic",
+          "type": "Regular",
+          "full_name": "Basic Regular",
+          "post_script_name": "Basic-Regular",
+          "version": "1.003; ttfautohint (v1.1) -l 6 -r 16 -G 0 -x 16 -D latn -f none -w \"\"",
+          "copyright": "Copyright (c) 2011-2014, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Basic'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xfu_0WLxV2_XKQN34lDVyR7D.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

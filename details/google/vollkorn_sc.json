@@ -1,0 +1,125 @@
+{
+  "slug": "google/vollkorn_sc",
+  "name": "vollkorn_sc",
+  "description": "Vollkorn came into being as my first type designing attempt. I published the Regular in 2005 under a Creative-Commons-License. Until the counter finally collapsed two years later it had been downloaded thousands of times and used for web and print matters. It intends to be a quiet, modest and well working text face for bread and butter use. Unlike its examples in the book faces from the renaissance until today, it has dark and meaty serifs and a bouncing and healthy look. It might be used as body type as well as for headlines or titles. »Vollkorn« (pronounced »Follkorn«) is German for »wholemeal« which refers to the old term »Brotschrift«. It stood for the small fonts for every day use in hand setting times. This is the Small Cap sister family to the main Vollkorn family.",
+  "homepage": "https://fonts.google.com/specimen/Vollkorn+SC",
+  "copyright": "Copyright 2017 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vollkorn SC",
+      "files": [
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_v6-zQ3rXpceZj9cqnVhF5NH-iSq_E.ttf",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVimhGluqYbPN5Yjn.ttf",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVinFG1uqYbPN5Yjn.ttf",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVin9GVuqYbPN5Yjn.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_v6-zQ3rXpceZj9cqnVhF5NH-iSq_E.ttf",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVimhGluqYbPN5Yjn.ttf",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVinFG1uqYbPN5Yjn.ttf",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVin9GVuqYbPN5Yjn.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vollkorn SC",
+      "files": [
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_v6-zQ3rXpceZj9cqnVhF8NH-iSq_E.woff2",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVimhGluvYbPN5Yjn.woff2",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVinFG1uvYbPN5Yjn.woff2",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVin9GVuvYbPN5Yjn.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_v6-zQ3rXpceZj9cqnVhF8NH-iSq_E.woff2",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVimhGluvYbPN5Yjn.woff2",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVinFG1uvYbPN5Yjn.woff2",
+        "https://fonts.gstatic.com/s/vollkornsc/v12/j8_y6-zQ3rXpceZj9cqnVin9GVuvYbPN5Yjn.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vollkorn SC",
+      "styles": [
+        {
+          "family_name": "Vollkorn SC",
+          "type": "Regular",
+          "full_name": "Vollkorn SC Regular",
+          "post_script_name": "VollkornSC-Regular",
+          "version": "4.015",
+          "copyright": "Copyright 2017 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "j8_v6-zQ3rXpceZj9cqnVhF5NH-iSq_E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Vollkorn SC",
+          "type": "Bold",
+          "full_name": "Vollkorn SC Bold",
+          "post_script_name": "VollkornSC-Bold",
+          "version": "4.015",
+          "copyright": "Copyright 2017 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "j8_y6-zQ3rXpceZj9cqnVinFG1uqYbPN5Yjn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vollkorn SC SemiBold",
+      "styles": [
+        {
+          "family_name": "Vollkorn SC SemiBold",
+          "type": "Regular",
+          "full_name": "Vollkorn SC SemiBold",
+          "post_script_name": "VollkornSC-SemiBold",
+          "version": "4.015",
+          "copyright": "Copyright 2017 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "j8_y6-zQ3rXpceZj9cqnVimhGluqYbPN5Yjn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vollkorn SC Black",
+      "styles": [
+        {
+          "family_name": "Vollkorn SC Black",
+          "type": "Regular",
+          "full_name": "Vollkorn SC Black",
+          "post_script_name": "VollkornSC-Black",
+          "version": "4.015",
+          "copyright": "Copyright 2017 The Vollkorn Project Authors (https://github.com/FAlthausen/Vollkorn-Typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "j8_y6-zQ3rXpceZj9cqnVin9GVuqYbPN5Yjn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

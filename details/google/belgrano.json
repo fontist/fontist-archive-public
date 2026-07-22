@@ -1,0 +1,58 @@
+{
+  "slug": "google/belgrano",
+  "name": "belgrano",
+  "description": "Belgrano is a slab serif type designed initially for printed newspapers. It has been adapted for use on the web, with coarse terminals and larger counterforms that mean it works well in very small sizes.",
+  "homepage": "https://fonts.google.com/specimen/Belgrano",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Belgrano\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Belgrano",
+      "files": [
+        "https://fonts.gstatic.com/s/belgrano/v19/55xvey5tM9rwKWrJZcMFirl08KDJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/belgrano/v19/55xvey5tM9rwKWrJZcMFirl08KDJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Belgrano",
+      "files": [
+        "https://fonts.gstatic.com/s/belgrano/v19/55xvey5tM9rwKWrJZcMAirl08KDJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/belgrano/v19/55xvey5tM9rwKWrJZcMAirl08KDJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Belgrano",
+      "styles": [
+        {
+          "family_name": "Belgrano",
+          "type": "Regular",
+          "full_name": "Belgrano Regular",
+          "post_script_name": "Belgrano-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Belgrano\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "55xvey5tM9rwKWrJZcMFirl08KDJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

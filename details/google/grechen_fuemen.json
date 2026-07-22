@@ -1,0 +1,58 @@
+{
+  "slug": "google/grechen_fuemen",
+  "name": "grechen_fuemen",
+  "description": "Grechen Fuemen is a playful font with an unorthodox use of thick and thin weights. Don't take this font too seriously because there's not a serious stroke in the font. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/grechen-fuemen .",
+  "homepage": "https://fonts.google.com/specimen/Grechen+Fuemen",
+  "copyright": "Copyright 2003-2021 The Grechen Fuemen Project Authors (https://github.com/googlefonts/grechen-fuemen)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Grechen Fuemen",
+      "files": [
+        "https://fonts.gstatic.com/s/grechenfuemen/v11/vEFI2_tHEQ4d5ObgKxBzZh0MAWgc-NaXXq7H.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grechenfuemen/v11/vEFI2_tHEQ4d5ObgKxBzZh0MAWgc-NaXXq7H.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Grechen Fuemen",
+      "files": [
+        "https://fonts.gstatic.com/s/grechenfuemen/v11/vEFI2_tHEQ4d5ObgKxBzZh0MAWgZ-NaXXq7H.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grechenfuemen/v11/vEFI2_tHEQ4d5ObgKxBzZh0MAWgZ-NaXXq7H.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Grechen Fuemen",
+      "styles": [
+        {
+          "family_name": "Grechen Fuemen",
+          "type": "Regular",
+          "full_name": "Grechen Fuemen Regular",
+          "post_script_name": "GrechenFuemen-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003-2021 The Grechen Fuemen Project Authors (https://github.com/googlefonts/grechen-fuemen)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vEFI2_tHEQ4d5ObgKxBzZh0MAWgc-NaXXq7H.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/cute_font",
+  "name": "cute_font",
+  "description": "Cute Font is a Korean and Latin font",
+  "homepage": "https://fonts.google.com/specimen/Cute+Font",
+  "copyright": "COPYRIGHT ⓒ 2004-2017 by TypoDesign Lab. Inc. All rights reserved. Font designed by TypoDesign Lab. Inc.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cute Font",
+      "files": [
+        "https://fonts.gstatic.com/s/cutefont/v28/Noaw6Uny2oWPbSHMrY6vmJNVNC9hkw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cutefont/v28/Noaw6Uny2oWPbSHMrY6vmJNVNC9hkw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cute Font",
+      "files": [
+        "https://fonts.gstatic.com/s/cutefont/v28/Noaw6Uny2oWPbSHMrY6vnZNVNC9hkw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cutefont/v28/Noaw6Uny2oWPbSHMrY6vnZNVNC9hkw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cute Font",
+      "styles": [
+        {
+          "family_name": "Cute Font",
+          "type": "Regular",
+          "full_name": "Cute Font Regular",
+          "post_script_name": "CuteFont-Regular",
+          "version": "1.00",
+          "copyright": "COPYRIGHT ⓒ 2004-2017 by TypoDesign Lab. Inc. All rights reserved. Font designed by TypoDesign Lab. Inc.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Noaw6Uny2oWPbSHMrY6vmJNVNC9hkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_tirhuta",
+  "name": "noto_sans_tirhuta",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Tirhuta is an unmodulated (“sans serif”) design for texts in the Indic Tirhuta script. It has 262 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Tirhuta",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tirhuta)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Tirhuta",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Tirhuta",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uDUBsTrn5P.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanstirhuta/v17/t5t6IQYRNJ6TWjahPR6X-M-apUyby7uDUBsTrn5P.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Tirhuta",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tirhuta",
+          "type": "Regular",
+          "full_name": "Noto Sans Tirhuta Regular",
+          "post_script_name": "NotoSansTirhuta-Regular",
+          "version": "2.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tirhuta)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "t5t6IQYRNJ6TWjahPR6X-M-apUyby7uGUBsTrn5P.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

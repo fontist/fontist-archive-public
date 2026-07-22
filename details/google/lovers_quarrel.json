@@ -1,0 +1,58 @@
+{
+  "slug": "google/lovers_quarrel",
+  "name": "lovers_quarrel",
+  "description": "A playful calligraphic style, Lovers Quarrel is great for scrapbooking, cards, invitations and other fun things. Lovers Quarrel has exceptionally clean lowercase forms and beautifully ornate capital letters. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/lovers-quarrel .",
+  "homepage": "https://fonts.google.com/specimen/Lovers+Quarrel",
+  "copyright": "Copyright 2004 The Lovers Quarrel Project Authors (https://github.com/googlefonts/lovers-quarrel)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lovers Quarrel",
+      "files": [
+        "https://fonts.gstatic.com/s/loversquarrel/v25/Yq6N-LSKXTL-5bCy8ksBzpQ_-zAsY7pO6siz.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/loversquarrel/v25/Yq6N-LSKXTL-5bCy8ksBzpQ_-zAsY7pO6siz.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lovers Quarrel",
+      "files": [
+        "https://fonts.gstatic.com/s/loversquarrel/v25/Yq6N-LSKXTL-5bCy8ksBzpQ_-zApY7pO6siz.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/loversquarrel/v25/Yq6N-LSKXTL-5bCy8ksBzpQ_-zApY7pO6siz.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lovers Quarrel",
+      "styles": [
+        {
+          "family_name": "Lovers Quarrel",
+          "type": "Regular",
+          "full_name": "Lovers Quarrel Regular",
+          "post_script_name": "LoversQuarrel-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004 The Lovers Quarrel Project Authors (https://github.com/googlefonts/lovers-quarrel)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Yq6N-LSKXTL-5bCy8ksBzpQ_-zAsY7pO6siz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

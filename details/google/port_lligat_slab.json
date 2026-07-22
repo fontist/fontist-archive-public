@@ -1,0 +1,58 @@
+{
+  "slug": "google/port_lligat_slab",
+  "name": "port_lligat_slab",
+  "description": "Port Lligat Slab is a display typeface. It has a soft variation in strokes, condensed structure, vertical stress, and a well balance groovy rhythm. It is particularly useful for both short text and headlines, but it is also comfortable for reading on screen. It is designed to become a super family with styles in many different typographical categories matching the exactly weight and width across the whole family. As a result they can be used together in many different ways. The first releases are the regular Roman styles of the Sans and Slab families. The Slab matches exactly with the Sans but it has heavy slab serifs and rounded terminals. In small sizes it looks like a groovy serif typeface.",
+  "homepage": "https://fonts.google.com/specimen/Port+Lligat+Slab",
+  "copyright": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Port Lligat Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/portlligatslab/v27/LDIpaoiQNgArA8kR7ulhZ8P_NYOss7ob9yGLmfI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/portlligatslab/v27/LDIpaoiQNgArA8kR7ulhZ8P_NYOss7ob9yGLmfI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Port Lligat Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/portlligatslab/v27/LDIpaoiQNgArA8kR7ulhZ8P_NYOss78b9yGLmfI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/portlligatslab/v27/LDIpaoiQNgArA8kR7ulhZ8P_NYOss78b9yGLmfI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Port Lligat Slab",
+      "styles": [
+        {
+          "family_name": "Port Lligat Slab",
+          "type": "Regular",
+          "full_name": "Port Lligat Slab",
+          "post_script_name": "PortLligatSlab-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Tipo (http://www.tipo.net.ar), with Reserved Font Name \"Port Lligat Slab\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LDIpaoiQNgArA8kR7ulhZ8P_NYOss7ob9yGLmfI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

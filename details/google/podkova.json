@@ -1,0 +1,155 @@
+{
+  "slug": "google/podkova",
+  "name": "podkova",
+  "description": "Podkova is the Russian word for Horseshoe, and this is a monoline slab serif with diagonal terminals. The wide proportions and clean features aid legibility at small sizes, while the unusual letterforms provide enough character to be useful for display typography too. Initially designed by Ilya Yudin in 2010, it was carefully refined and expanded by Alexei Vanyashin into a wider range of weights (that made the bold style a little lighter) in January 2017. In September 2019, the family is now a variable font. To contribute, see github.com/cyrealtype/Podkova .",
+  "homepage": "https://fonts.google.com/specimen/Podkova",
+  "copyright": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Podkova",
+      "files": [
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzcU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zcU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubysU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiysU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFysU9EoporSHH.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzcU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zcU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubysU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiysU9EoporSHH.woff2",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFysU9EoporSHH.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Podkova",
+      "files": [
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzcU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zcU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubysU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiysU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFysU4EoporSHH.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzcU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zcU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubysU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiysU4EoporSHH.ttf",
+        "https://fonts.gstatic.com/s/podkova/v33/K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFysU4EoporSHH.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Podkova",
+      "styles": [
+        {
+          "family_name": "Podkova",
+          "type": "Regular",
+          "full_name": "Podkova Regular",
+          "post_script_name": "Podkova-Regular",
+          "version": "2.103",
+          "copyright": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FufZ1EmftJSV9VQpXb1lo9vC3nZWtFzcU4EoporSHH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Podkova",
+          "type": "Bold",
+          "full_name": "Podkova Bold",
+          "post_script_name": "Podkova-Bold",
+          "version": "2.103",
+          "copyright": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FufZ1EmftJSV9VQpXb1lo9vC3nZWuiysU4EoporSHH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Podkova Medium",
+      "styles": [
+        {
+          "family_name": "Podkova Medium",
+          "type": "Regular",
+          "full_name": "Podkova Medium",
+          "post_script_name": "Podkova-Medium",
+          "version": "2.103",
+          "copyright": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FufZ1EmftJSV9VQpXb1lo9vC3nZWt3zcU4EoporSHH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Podkova SemiBold",
+      "styles": [
+        {
+          "family_name": "Podkova SemiBold",
+          "type": "Regular",
+          "full_name": "Podkova SemiBold",
+          "post_script_name": "Podkova-SemiBold",
+          "version": "2.103",
+          "copyright": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FufZ1EmftJSV9VQpXb1lo9vC3nZWubysU4EoporSHH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Podkova ExtraBold",
+      "styles": [
+        {
+          "family_name": "Podkova ExtraBold",
+          "type": "Regular",
+          "full_name": "Podkova ExtraBold",
+          "post_script_name": "Podkova-ExtraBold",
+          "version": "2.103",
+          "copyright": "Copyright 2011 The Podkova Project Authors (https://github.com/cyrealtype/Podkova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FufZ1EmftJSV9VQpXb1lo9vC3nZWvFysU4EoporSHH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

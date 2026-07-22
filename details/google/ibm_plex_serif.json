@@ -1,0 +1,330 @@
+{
+  "slug": "google/ibm_plex_serif",
+  "name": "ibm_plex_serif",
+  "description": "IBM Plex® is the corporate typeface for IBM worldwide and an open-source project developed by the IBM Brand &amp; Experience team (BX&amp;D). Plex is an international typeface family designed to capture IBM&rsquo;s brand spirit and history and to illustrate the unique relationship between mankind and machine—a principal theme for IBM since the turn of the century. The result is a neutral yet friendly Grotesque style typeface that balances design with the engineered details that make Plex distinctly IBM. The family includes a Sans, Sans Condensed, Mono, and Serif and has excellent legibility in print, web, and mobile interfaces. Plex&rsquo;s three designs work well independently and even better together. Use the Sans as a contemporary compadre, the Serif for editorial storytelling, or the Mono to show code snippets. The unexpectedly expressive nature of the italics gives you even more options for your designs. Currently, IBM Plex Sans supports Extended Latin, Arabic, Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean and Thai.",
+  "homepage": "https://fonts.google.com/specimen/IBM+Plex+Serif",
+  "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "IBM Plex Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTi182zIZj1bIkNo.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YTi3TNgNq55w.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-hIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oyq17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi20-RIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xq17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizDREVNn1dOx-zrZ2X3pZvkThUY0TY7ikbI.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTiUa2zIZj1bIkNo.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywq17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3A_xIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3q17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi2k_hIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442q17jjNOg_oc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTi182zIZj1bIkNo.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YTi3TNgNq55w.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-hIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oyq17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi20-RIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xq17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizDREVNn1dOx-zrZ2X3pZvkThUY0TY7ikbI.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTiUa2zIZj1bIkNo.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywq17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3A_xIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3q17jjNOg_oc.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi2k_hIzoVrBicOg.ttf",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442q17jjNOg_oc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "IBM Plex Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTi182zcZj1bIkNo.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YTjnTNgNq55w.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-hI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oyq1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi20-RI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xq1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizDREVNn1dOx-zrZ2X3pZvkThUd0TY7ikbI.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTiUa2zcZj1bIkNo.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywq1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3A_xI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3q1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi2k_hI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442q1vjjNOg_oc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTi182zcZj1bIkNo.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizHREVNn1dOx-zrZ2X3pZvkTiUa41YTjnTNgNq55w.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3Q-hI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oyq1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi20-RI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xq1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizDREVNn1dOx-zrZ2X3pZvkThUd0TY7ikbI.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizBREVNn1dOx-zrZ2X3pZvkTiUa2zcZj1bIkNo.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3s-BI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywq1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi3A_xI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3q1vjjNOg_oc.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizAREVNn1dOx-zrZ2X3pZvkTi2k_hI2oVrBicOg.woff2",
+        "https://fonts.gstatic.com/s/ibmplexserif/v20/jizGREVNn1dOx-zrZ2X3pZvkTiUa4442q1vjjNOg_oc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "IBM Plex Serif Thin",
+      "styles": [
+        {
+          "family_name": "IBM Plex Serif Thin",
+          "type": "Regular",
+          "full_name": "IBM Plex Serif Thin",
+          "post_script_name": "IBMPlexSerif-Thin",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizBREVNn1dOx-zrZ2X3pZvkTi182zIZj1bIkNo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif Thin",
+          "type": "Italic",
+          "full_name": "IBM Plex Serif Thin Italic",
+          "post_script_name": "IBMPlexSerif-ThinItalic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizHREVNn1dOx-zrZ2X3pZvkTiUa41YTi3TNgNq55w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Serif ExtraLight",
+      "styles": [
+        {
+          "family_name": "IBM Plex Serif ExtraLight",
+          "type": "Regular",
+          "full_name": "IBM Plex Serif ExtraLight",
+          "post_script_name": "IBMPlexSerif-ExtraLight",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizAREVNn1dOx-zrZ2X3pZvkTi3Q-hIzoVrBicOg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif ExtraLight",
+          "type": "Italic",
+          "full_name": "IBM Plex Serif ExtraLight Italic",
+          "post_script_name": "IBMPlexSerif-ExtraLightItalic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizGREVNn1dOx-zrZ2X3pZvkTiUa4_oyq17jjNOg_oc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Serif Light",
+      "styles": [
+        {
+          "family_name": "IBM Plex Serif Light",
+          "type": "Regular",
+          "full_name": "IBM Plex Serif Light",
+          "post_script_name": "IBMPlexSerif-Light",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizAREVNn1dOx-zrZ2X3pZvkTi20-RIzoVrBicOg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif Light",
+          "type": "Italic",
+          "full_name": "IBM Plex Serif Light Italic",
+          "post_script_name": "IBMPlexSerif-LightItalic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizGREVNn1dOx-zrZ2X3pZvkTiUa454xq17jjNOg_oc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Serif",
+      "styles": [
+        {
+          "family_name": "IBM Plex Serif",
+          "type": "Regular",
+          "full_name": "IBM Plex Serif Regular",
+          "post_script_name": "IBMPlexSerif-Regular",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizDREVNn1dOx-zrZ2X3pZvkThUY0TY7ikbI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif",
+          "type": "Italic",
+          "full_name": "IBM Plex Serif Italic",
+          "post_script_name": "IBMPlexSerif-Italic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizBREVNn1dOx-zrZ2X3pZvkTiUa2zIZj1bIkNo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif",
+          "type": "Bold",
+          "full_name": "IBM Plex Serif Bold",
+          "post_script_name": "IBMPlexSerif-Bold",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizAREVNn1dOx-zrZ2X3pZvkTi2k_hIzoVrBicOg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif",
+          "type": "Bold Italic",
+          "full_name": "IBM Plex Serif Bold Italic",
+          "post_script_name": "IBMPlexSerif-BoldItalic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizGREVNn1dOx-zrZ2X3pZvkTiUa4442q17jjNOg_oc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Serif Medium",
+      "styles": [
+        {
+          "family_name": "IBM Plex Serif Medium",
+          "type": "Regular",
+          "full_name": "IBM Plex Serif Medium",
+          "post_script_name": "IBMPlexSerif-Medium",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizAREVNn1dOx-zrZ2X3pZvkTi3s-BIzoVrBicOg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif Medium",
+          "type": "Italic",
+          "full_name": "IBM Plex Serif Medium Italic",
+          "post_script_name": "IBMPlexSerif-MediumItalic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizGREVNn1dOx-zrZ2X3pZvkTiUa48Ywq17jjNOg_oc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IBM Plex Serif SemiBold",
+      "styles": [
+        {
+          "family_name": "IBM Plex Serif SemiBold",
+          "type": "Regular",
+          "full_name": "IBM Plex Serif SemiBold",
+          "post_script_name": "IBMPlexSerif-SemiBold",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizAREVNn1dOx-zrZ2X3pZvkTi3A_xIzoVrBicOg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "IBM Plex Serif SemiBold",
+          "type": "Italic",
+          "full_name": "IBM Plex Serif SemiBold Italic",
+          "post_script_name": "IBMPlexSerif-SemiBoldItalic",
+          "version": "2.6",
+          "copyright": "Copyright 2020 IBM Corp. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizGREVNn1dOx-zrZ2X3pZvkTiUa4-o3q17jjNOg_oc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "google/courier_prime",
+  "name": "courier_prime",
+  "description": "Courier Prime is a new take on IBM's Courier which was designed in 1956 by Howard Kettler. It's a monospaced family, designed specifically for screenplays. Overall the family is more refined than its predecessor. The serifs are crisper and less rounded. The counters are subtly wider. The bold weight is a bit darker and the italics are more cursive. To contribute, see github.com/quoteunquoteapps/CourierPrime",
+  "homepage": "https://fonts.google.com/specimen/Courier+Prime",
+  "copyright": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Courier Prime",
+      "files": [
+        "https://fonts.gstatic.com/s/courierprime/v11/u-450q2lgwslOqpF_6gQ8kELWwZjW-_-tvg.ttf",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4n0q2lgwslOqpF_6gQ8kELawRpX837pvjxPA.ttf",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4k0q2lgwslOqpF_6gQ8kELY7pMf-fVqvHoJXw.ttf",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4i0q2lgwslOqpF_6gQ8kELawRR4-LfrtPtNXyeAg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/courierprime/v11/u-450q2lgwslOqpF_6gQ8kELWwZjW-_-tvg.ttf",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4n0q2lgwslOqpF_6gQ8kELawRpX837pvjxPA.ttf",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4k0q2lgwslOqpF_6gQ8kELY7pMf-fVqvHoJXw.ttf",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4i0q2lgwslOqpF_6gQ8kELawRR4-LfrtPtNXyeAg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Courier Prime",
+      "files": [
+        "https://fonts.gstatic.com/s/courierprime/v11/u-450q2lgwslOqpF_6gQ8kELWwNjW-_-tvg.woff2",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4n0q2lgwslOqpF_6gQ8kELawRpWs37pvjxPA.woff2",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4k0q2lgwslOqpF_6gQ8kELY7pMf-LVqvHoJXw.woff2",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lfq9PtNXyeAg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/courierprime/v11/u-450q2lgwslOqpF_6gQ8kELWwNjW-_-tvg.woff2",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4n0q2lgwslOqpF_6gQ8kELawRpWs37pvjxPA.woff2",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4k0q2lgwslOqpF_6gQ8kELY7pMf-LVqvHoJXw.woff2",
+        "https://fonts.gstatic.com/s/courierprime/v11/u-4i0q2lgwslOqpF_6gQ8kELawRR4-Lfq9PtNXyeAg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Courier Prime",
+      "styles": [
+        {
+          "family_name": "Courier Prime",
+          "type": "Regular",
+          "full_name": "Courier Prime Regular",
+          "post_script_name": "CourierPrime-Regular",
+          "version": "3.018",
+          "copyright": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-450q2lgwslOqpF_6gQ8kELWwZjW-_-tvg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Courier Prime",
+          "type": "Italic",
+          "full_name": "Courier Prime Italic",
+          "post_script_name": "CourierPrime-Italic",
+          "version": "3.018",
+          "copyright": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-4n0q2lgwslOqpF_6gQ8kELawRpX837pvjxPA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Courier Prime",
+          "type": "Bold",
+          "full_name": "Courier Prime Bold",
+          "post_script_name": "CourierPrime-Bold",
+          "version": "3.018",
+          "copyright": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-4k0q2lgwslOqpF_6gQ8kELY7pMf-fVqvHoJXw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Courier Prime",
+          "type": "Bold Italic",
+          "full_name": "Courier Prime Bold Italic",
+          "post_script_name": "CourierPrime-BoldItalic",
+          "version": "3.018",
+          "copyright": "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-4i0q2lgwslOqpF_6gQ8kELawRR4-LfrtPtNXyeAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

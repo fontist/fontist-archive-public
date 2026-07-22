@@ -1,0 +1,58 @@
+{
+  "slug": "google/chango",
+  "name": "chango",
+  "description": "Chango is a display face based on letters drawn by Mexican illustrator Ernesto “Chango” García Cabral. It’s big and heavy, ideal for head-line body sizes with a humorous touch.",
+  "homepage": "https://fonts.google.com/specimen/Chango",
+  "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Chango\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chango",
+      "files": [
+        "https://fonts.gstatic.com/s/chango/v29/2V0cKI0OB5U7WaJyz324TFUaAw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chango/v29/2V0cKI0OB5U7WaJyz324TFUaAw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chango",
+      "files": [
+        "https://fonts.gstatic.com/s/chango/v29/2V0cKI0OB5U7WaJyyn24TFUaAw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chango/v29/2V0cKI0OB5U7WaJyyn24TFUaAw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chango",
+      "styles": [
+        {
+          "family_name": "Chango",
+          "type": "Regular",
+          "full_name": "Chango Regular",
+          "post_script_name": "Chango-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Chango\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2V0cKI0OB5U7WaJyz324TFUaAw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

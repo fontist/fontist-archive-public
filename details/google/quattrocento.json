@@ -1,0 +1,77 @@
+{
+  "slug": "google/quattrocento",
+  "name": "quattrocento",
+  "description": "Classic, elegant, sober and strong, the Quattrocento typeface has wide and open letterforms. The generous x-height makes it very legible for body text at small sizes, while the tiny details can only be seen at larger sizes mean it is also a great choice for display typography. Some of their distinctive characteristics are: Low Contrast. The thins are just a tad thiner than the thicks, almost monotone. Cupped, tapered stems that flows naturally into the serifs. Distinctive K, R and & tail. Cupped B, D, E, F, P, Q, R and T. The Q is a humble expression of admiration and gratitude for Doyald Young. Alternate M, Two W alternates. Narrow L, T for better fit. Almost flat top serif on the lowercases. Shoulders of the m and n rise above the serif. Serif-less bottom j and y. It's the perfect sans-serif companion for Quattrocento Sans .",
+  "homepage": "https://fonts.google.com/specimen/Quattrocento",
+  "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rwith Reserved Font Name Quattrocento.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Quattrocento",
+      "files": [
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpEg_xvsDZQL_LKIF7q4jPHxGL7f4jFuA.ttf",
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpbg_xvsDZQL_LKIF7q4jP_eE3fd6PZsXcM9w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpEg_xvsDZQL_LKIF7q4jPHxGL7f4jFuA.ttf",
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpbg_xvsDZQL_LKIF7q4jP_eE3fd6PZsXcM9w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Quattrocento",
+      "files": [
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpEg_xvsDZQL_LKIF7q4jPHwWL7f4jFuA.woff2",
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpbg_xvsDZQL_LKIF7q4jP_eE3fcqPZsXcM9w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpEg_xvsDZQL_LKIF7q4jPHwWL7f4jFuA.woff2",
+        "https://fonts.gstatic.com/s/quattrocento/v24/OZpbg_xvsDZQL_LKIF7q4jP_eE3fcqPZsXcM9w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Quattrocento",
+      "styles": [
+        {
+          "family_name": "Quattrocento",
+          "type": "Regular",
+          "full_name": "Quattrocento",
+          "post_script_name": "Quattrocento",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rwith Reserved Font Name Quattrocento.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "OZpEg_xvsDZQL_LKIF7q4jPHxGL7f4jFuA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Quattrocento",
+          "type": "Bold",
+          "full_name": "Quattrocento Bold",
+          "post_script_name": "Quattrocento-Bold",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rwith Reserved Font Name Quattrocento.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "OZpbg_xvsDZQL_LKIF7q4jP_eE3fd6PZsXcM9w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

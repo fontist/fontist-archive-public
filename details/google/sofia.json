@@ -1,0 +1,58 @@
+{
+  "slug": "google/sofia",
+  "name": "sofia",
+  "description": "Sofia designed by Paula Nazal and Daniel Hernández, is an upright script font with some unconventional ligatures. It is a coquettish, friendly and versatile typeface.",
+  "homepage": "https://fonts.google.com/specimen/Sofia",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Sofia\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sofia",
+      "files": [
+        "https://fonts.gstatic.com/s/sofia/v15/8QIHdirahM3j_vu-sowsrqjk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sofia/v15/8QIHdirahM3j_vu-sowsrqjk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sofia",
+      "files": [
+        "https://fonts.gstatic.com/s/sofia/v15/8QIHdirahM3j_vu7sowsrqjk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sofia/v15/8QIHdirahM3j_vu7sowsrqjk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sofia",
+      "styles": [
+        {
+          "family_name": "Sofia",
+          "type": "Regular",
+          "full_name": "Sofia",
+          "post_script_name": "Sofia-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Sofia\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "8QIHdirahM3j_vu-sowsrqjk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

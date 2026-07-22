@@ -1,0 +1,58 @@
+{
+  "slug": "google/beth_ellen",
+  "name": "beth_ellen",
+  "description": "Beth Ellen™ font is a joyful handwritten font created by Rob Jelinski (Art Direction & Design) and Alyson Fraser Diaz (Typography & Functionality) in 2018. The typeface was crafted after the penmanship of Rob's mom, Beth Ellen Jelinski who passed away from cancer on March 5th, 2017. Upon it's formal release Jelinski stated, “The purpose of this typeface is to give, so it is totally free to use for personal or commercial projects under the SIL Open Font License. My single request is that you help the legacy of Beth Ellen live on by sending a short note to someone you love each time the font is used. Tell them you love them, encourage them to be their best, or send them a scripture. This is the way Beth Ellen lived her life, writing notes to share love and faith.” To contribute, see github.com/googlefonts/BethEllen",
+  "homepage": "https://fonts.google.com/specimen/Beth+Ellen",
+  "copyright": "Copyright 2019 The Beth Ellen Project Authors (https://github.com/googlefonts/BethEllen)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Beth Ellen",
+      "files": [
+        "https://fonts.gstatic.com/s/bethellen/v22/WwkbxPW2BE-3rb_JNT-qEIAiVNo5xNY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bethellen/v22/WwkbxPW2BE-3rb_JNT-qEIAiVNo5xNY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Beth Ellen",
+      "files": [
+        "https://fonts.gstatic.com/s/bethellen/v22/WwkbxPW2BE-3rb_JNT-qEIUiVNo5xNY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bethellen/v22/WwkbxPW2BE-3rb_JNT-qEIUiVNo5xNY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Beth Ellen",
+      "styles": [
+        {
+          "family_name": "Beth Ellen",
+          "type": "Regular",
+          "full_name": "Beth Ellen Regular",
+          "post_script_name": "BethEllen-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2019 The Beth Ellen Project Authors (https://github.com/googlefonts/BethEllen)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkbxPW2BE-3rb_JNT-qEIAiVNo5xNY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

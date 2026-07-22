@@ -1,0 +1,77 @@
+{
+  "slug": "google/sura",
+  "name": "sura",
+  "description": "Sura is a Devanagari typeface family designed by Carolina Giovagnoli. It is based on the original Latin typeface Andada , a serif typeface for text. Andada is a text font with an organic-slab serif, hybrid style, a solid design of medium stroke contrast. This font has received an award at the 2010 Ibero-America Design Biennial. The Biennial was shown in Spain, Argentina, Chile, El Salvador, Uruguay, Bolivia, Colombia and Venezuela. The Sura project is led by Carolina Giovagnoli, a type designer based in Argentina. To contribute, see github.com/CaroGiovagnoli/sura",
+  "homepage": "https://fonts.google.com/specimen/Sura",
+  "copyright": "Copyright 2015 by Carolina Giovagnoli. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sura",
+      "files": [
+        "https://fonts.gstatic.com/s/sura/v21/SZc23FL5PbyzFf5UWzXtjUM.ttf",
+        "https://fonts.gstatic.com/s/sura/v21/SZc53FL5PbyzLUJ7fz3GkUrS8DI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sura/v21/SZc23FL5PbyzFf5UWzXtjUM.ttf",
+        "https://fonts.gstatic.com/s/sura/v21/SZc53FL5PbyzLUJ7fz3GkUrS8DI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sura",
+      "files": [
+        "https://fonts.gstatic.com/s/sura/v21/SZc23FL5PbyzFftUWzXtjUM.woff2",
+        "https://fonts.gstatic.com/s/sura/v21/SZc53FL5PbyzLUJ7fzjGkUrS8DI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sura/v21/SZc23FL5PbyzFftUWzXtjUM.woff2",
+        "https://fonts.gstatic.com/s/sura/v21/SZc53FL5PbyzLUJ7fzjGkUrS8DI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sura",
+      "styles": [
+        {
+          "family_name": "Sura",
+          "type": "Regular",
+          "full_name": "Sura",
+          "post_script_name": "Sura-Regular",
+          "version": "1.003;PS 001.002;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v1.00) -l 8 -r 50 -G 200 -x 14 -D latn -f none -w G",
+          "copyright": "Copyright 2015 by Carolina Giovagnoli. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc23FL5PbyzFf5UWzXtjUM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sura",
+          "type": "Bold",
+          "full_name": "Sura Bold",
+          "post_script_name": "Sura-Bold",
+          "version": "1.002;PS 001.002;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v1.00) -l 8 -r 50 -G 200 -x 14 -D latn -f none -w G",
+          "copyright": "Copyright 2015 by Carolina Giovagnoli. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc53FL5PbyzLUJ7fz3GkUrS8DI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/federo",
+  "name": "federo",
+  "description": "Federo is a display webfont that references Jakob Erbar's Feder Grotesk. The goal was to keep the typeface as close as possible to the original 1909 design while adapting it for crisp web typography. Details were refined and contrast was slightly reduced for consistency. Figures obtained regular proportions and counters were increased for better legibility. Designed by Olexa Volochay in 2011.",
+  "homepage": "https://fonts.google.com/specimen/Federo",
+  "copyright": "Copyright (c) 2011 by Olexa M. Volochay | Cyreal.org. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Federo",
+      "files": [
+        "https://fonts.gstatic.com/s/federo/v20/iJWFBX-cbD_ETsbmjVOe2WTG7Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/federo/v20/iJWFBX-cbD_ETsbmjVOe2WTG7Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Federo",
+      "files": [
+        "https://fonts.gstatic.com/s/federo/v20/iJWFBX-cbD_ETsbmiFOe2WTG7Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/federo/v20/iJWFBX-cbD_ETsbmiFOe2WTG7Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Federo",
+      "styles": [
+        {
+          "family_name": "Federo",
+          "type": "Regular",
+          "full_name": "Federo",
+          "post_script_name": "Federo-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Olexa M. Volochay | Cyreal.org. All rights reserved.",
+          "description": "Copyright (c) 2011, Olexa M. Volochay,\r\nwith Reserved Font Name Federo.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "iJWFBX-cbD_ETsbmjVOe2WTG7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

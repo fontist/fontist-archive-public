@@ -1,0 +1,58 @@
+{
+  "slug": "google/rock_salt",
+  "name": "rock_salt",
+  "description": "Rock Salt was hand-crafted with felt-tip markers for a personal look you can pepper throughout your next project.",
+  "homepage": "https://fonts.google.com/specimen/Rock+Salt",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rock Salt",
+      "files": [
+        "https://fonts.gstatic.com/s/rocksalt/v24/MwQ0bhv11fWD6QsAVOZbsEk7hbBWrA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rocksalt/v24/MwQ0bhv11fWD6QsAVOZbsEk7hbBWrA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rock Salt",
+      "files": [
+        "https://fonts.gstatic.com/s/rocksalt/v24/MwQ0bhv11fWD6QsAVOZbtUk7hbBWrA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rocksalt/v24/MwQ0bhv11fWD6QsAVOZbtUk7hbBWrA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rock Salt",
+      "styles": [
+        {
+          "family_name": "Rock Salt",
+          "type": "Regular",
+          "full_name": "Rock Salt Regular",
+          "post_script_name": "RockSalt-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "MwQ0bhv11fWD6QsAVOZbsEk7hbBWrA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

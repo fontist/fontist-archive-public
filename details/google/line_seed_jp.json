@@ -1,0 +1,125 @@
+{
+  "slug": "google/line_seed_jp",
+  "name": "line_seed_jp",
+  "description": "LINE Seed JP font family",
+  "homepage": "https://fonts.google.com/specimen/LINE+Seed+JP",
+  "copyright": "© LY Corporation",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "LINE Seed JP",
+      "files": [
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQvbh7r89it6QsEXfZb-jMn6ZFOh361TW5b.ttf",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQxbh7r89it6QsEXfZb-jMfjZtKpXulTQ.ttf",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnMbRurVC5RHdCZg.ttf",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnLbdurVC5RHdCZg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQvbh7r89it6QsEXfZb-jMn6ZFOh361TW5b.ttf",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQxbh7r89it6QsEXfZb-jMfjZtKpXulTQ.ttf",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnMbRurVC5RHdCZg.ttf",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnLbdurVC5RHdCZg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "LINE Seed JP",
+      "files": [
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQvbh7r89it6QsEXfZb-jMn6ZFLh361TW5b.woff2",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQxbh7r89it6QsEXfZb-jMfiJtKpXulTQ.woff2",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnMbRuqFC5RHdCZg.woff2",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnLbduqFC5RHdCZg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQvbh7r89it6QsEXfZb-jMn6ZFLh361TW5b.woff2",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQxbh7r89it6QsEXfZb-jMfiJtKpXulTQ.woff2",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnMbRuqFC5RHdCZg.woff2",
+        "https://fonts.gstatic.com/s/lineseedjp/v1/MwQubh7r89it6QsEXfZb-jMnLbduqFC5RHdCZg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LINE Seed JP Thin",
+      "styles": [
+        {
+          "family_name": "LINE Seed JP Thin",
+          "type": "Regular",
+          "full_name": "LINE Seed JP Thin",
+          "post_script_name": "LINESeedJP-Thin",
+          "version": "1.008",
+          "copyright": "© LY Corporation",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "MwQvbh7r89it6QsEXfZb-jMn6ZFOh361TW5b.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LINE Seed JP",
+      "styles": [
+        {
+          "family_name": "LINE Seed JP",
+          "type": "Regular",
+          "full_name": "LINE Seed JP Regular",
+          "post_script_name": "LINESeedJP-Regular",
+          "version": "1.003",
+          "copyright": "© LY Corporation",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "MwQxbh7r89it6QsEXfZb-jMfjZtKpXulTQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "LINE Seed JP",
+          "type": "Bold",
+          "full_name": "LINE Seed JP Bold",
+          "post_script_name": "LINESeedJP-Bold",
+          "version": "1.010",
+          "copyright": "© LY Corporation",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "MwQubh7r89it6QsEXfZb-jMnMbRurVC5RHdCZg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LINE Seed JP ExtraBold",
+      "styles": [
+        {
+          "family_name": "LINE Seed JP ExtraBold",
+          "type": "Regular",
+          "full_name": "LINE Seed JP ExtraBold",
+          "post_script_name": "LINESeedJP-ExtraBold",
+          "version": "1.015",
+          "copyright": "© LY Corporation",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "MwQubh7r89it6QsEXfZb-jMnLbdurVC5RHdCZg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

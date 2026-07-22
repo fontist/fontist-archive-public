@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_moonrocks",
+  "name": "rubik_moonrocks",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts !. To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Moonrocks",
+  "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Moonrocks",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikmoonrocks/v7/845ANMAmAI2VUZMLu_W0M7HqlDHnXcD7JGy1Sw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikmoonrocks/v7/845ANMAmAI2VUZMLu_W0M7HqlDHnXcD7JGy1Sw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Moonrocks",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikmoonrocks/v7/845ANMAmAI2VUZMLu_W0M7HqlDHnWMD7JGy1Sw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikmoonrocks/v7/845ANMAmAI2VUZMLu_W0M7HqlDHnWMD7JGy1Sw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Moonrocks",
+      "styles": [
+        {
+          "family_name": "Rubik Moonrocks",
+          "type": "Regular",
+          "full_name": "Rubik Moonrocks Regular",
+          "post_script_name": "RubikMoonrocks-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "845ANMAmAI2VUZMLu_W0M7HqlDHnXcD7JGy1Sw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

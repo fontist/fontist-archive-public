@@ -1,0 +1,58 @@
+{
+  "slug": "google/didact_gothic",
+  "name": "didact_gothic",
+  "description": "Didact Gothic is a sans-serif font designed to present each letter in the form most often used in elementary classrooms. This makes it suitable for literacy efforts. Initially designed by Daniel Johnson, the entire font was revised by Alexei Vanyashin at Cyreal in 2017. To contribute, see github.com/ossobuffo/didact-gothic",
+  "homepage": "https://fonts.google.com/specimen/Didact+Gothic",
+  "copyright": "Copyright 2016 The Didact Gothic Project Authors (il.basso.buffo@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Didact Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/didactgothic/v21/ahcfv8qz1zt6hCC5G4F_P4ASpUySp0LlcyQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/didactgothic/v21/ahcfv8qz1zt6hCC5G4F_P4ASpUySp0LlcyQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Didact Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/didactgothic/v21/ahcfv8qz1zt6hCC5G4F_P4ASpUmSp0LlcyQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/didactgothic/v21/ahcfv8qz1zt6hCC5G4F_P4ASpUmSp0LlcyQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Didact Gothic",
+      "styles": [
+        {
+          "family_name": "Didact Gothic",
+          "type": "Regular",
+          "full_name": "Didact Gothic Regular",
+          "post_script_name": "DidactGothic-Regular",
+          "version": "2.101",
+          "copyright": "Copyright 2016 The Didact Gothic Project Authors (il.basso.buffo@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ahcfv8qz1zt6hCC5G4F_P4ASpUySp0LlcyQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

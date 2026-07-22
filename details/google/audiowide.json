@@ -1,0 +1,58 @@
+{
+  "slug": "google/audiowide",
+  "name": "audiowide",
+  "description": "Audiowide is a sans serif, technology styled, typeface composed of soft corner tubular forms. With vague nods to letter styles like that of Handel Gothic and the Converse logo, Audiowide veers off in a direction of its own for a slightly more techno-futuristic and yet cleanly readable typestyle. Designed by Brian J. Bonislawsky for Astigmatic (AOETI). Audiowide is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Audiowide",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Audiowide\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Audiowide",
+      "files": [
+        "https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCtkQXPExpQBw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCtkQXPExpQBw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Audiowide",
+      "files": [
+        "https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCtlAXPExpQBw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/audiowide/v22/l7gdbjpo0cum0ckerWCtlAXPExpQBw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Audiowide",
+      "styles": [
+        {
+          "family_name": "Audiowide",
+          "type": "Regular",
+          "full_name": "Audiowide Regular",
+          "post_script_name": "Audiowide-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Audiowide\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "l7gdbjpo0cum0ckerWCtkQXPExpQBw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

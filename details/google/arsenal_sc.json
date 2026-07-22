@@ -1,0 +1,115 @@
+{
+  "slug": "google/arsenal_sc",
+  "name": "arsenal_sc",
+  "description": "In 2011 Andrij 's typeface became a winner of Ukrainian Type Design Competition ' Mystetsky Arsenal ' in which three main criteria were sought for: being zeitgeist, practical, and Ukrainian. Andrij's winning entry was crowned Arsenal and made publicly available. Arsenal is a semi-grotesque with traditional forms. It is primarily designed for body text and intended for various professional communication. Its special qualities of letter shapes and subtle contrast modulation articulate grace and expressivity. Arsenal's somewhat lyrical sentiment abides to the Ukrainian nature of the font. Main design features: narrow proportions that allow for economical type-setting, moderate aperture and observable contrast. Notable traits: neutrality, clarity, swiftness. This is the Small Cap sibling family to the main Arsenal family.",
+  "homepage": "https://fonts.google.com/specimen/Arsenal+SC",
+  "copyright": "Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Arsenal SC",
+      "files": [
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dlckLHea6e5BEtsfxiXNossybsHQI.ttf",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dnckLHea6e5BEtsfxibNgmtwTpDQIrGg.ttf",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dmckLHea6e5BEtsfxiZGYDly7HAQsyA2Y.ttf",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3d4ckLHea6e5BEtsfxibNgeCyvNBSk3E2YljQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dlckLHea6e5BEtsfxiXNossybsHQI.ttf",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dnckLHea6e5BEtsfxibNgmtwTpDQIrGg.ttf",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dmckLHea6e5BEtsfxiZGYDly7HAQsyA2Y.ttf",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3d4ckLHea6e5BEtsfxibNgeCyvNBSk3E2YljQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Arsenal SC",
+      "files": [
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dlckLHea6e5BEtsfxiXN8ssybsHQI.woff2",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dnckLHea6e5BEtsfxibNgmsgTpDQIrGg.woff2",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dmckLHea6e5BEtsfxiZGYDlyvHAQsyA2Y.woff2",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3d4ckLHea6e5BEtsfxibNgeCyvNACk3E2YljQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dlckLHea6e5BEtsfxiXN8ssybsHQI.woff2",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dnckLHea6e5BEtsfxibNgmsgTpDQIrGg.woff2",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3dmckLHea6e5BEtsfxiZGYDlyvHAQsyA2Y.woff2",
+        "https://fonts.gstatic.com/s/arsenalsc/v1/x3d4ckLHea6e5BEtsfxibNgeCyvNACk3E2YljQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arsenal SC",
+      "styles": [
+        {
+          "family_name": "Arsenal SC",
+          "type": "Regular",
+          "full_name": "Arsenal SC Regular",
+          "post_script_name": "ArsenalSC-Regular",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "x3dlckLHea6e5BEtsfxiXNossybsHQI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arsenal SC",
+          "type": "Italic",
+          "full_name": "Arsenal SC Italic",
+          "post_script_name": "ArsenalSC-Italic",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "x3dnckLHea6e5BEtsfxibNgmtwTpDQIrGg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arsenal SC",
+          "type": "Bold",
+          "full_name": "Arsenal SC Bold",
+          "post_script_name": "ArsenalSC-Bold",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "x3dmckLHea6e5BEtsfxiZGYDly7HAQsyA2Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arsenal SC",
+          "type": "Bold Italic",
+          "full_name": "Arsenal SC Bold Italic",
+          "post_script_name": "ArsenalSC-BoldItalic",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2012 The Arsenal Project Authors (andrij.design@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "x3d4ckLHea6e5BEtsfxibNgeCyvNBSk3E2YljQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

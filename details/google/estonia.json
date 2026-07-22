@@ -1,0 +1,58 @@
+{
+  "slug": "google/estonia",
+  "name": "estonia",
+  "description": "Estonia is based on the calligraphic style found in the east European country of Estonia. The swash stylistic sets are designed to be used in conjunction with the regular version. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/estonia .",
+  "homepage": "https://fonts.google.com/specimen/Estonia",
+  "copyright": "Copyright 2010-2021 The Estonia Project Authors (https://github.com/googlefonts/estonia)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Estonia",
+      "files": [
+        "https://fonts.gstatic.com/s/estonia/v13/7Au_p_4ijSecA1yHCCL8zkwMIFg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/estonia/v13/7Au_p_4ijSecA1yHCCL8zkwMIFg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Estonia",
+      "files": [
+        "https://fonts.gstatic.com/s/estonia/v13/7Au_p_4ijSecA1yHCCf8zkwMIFg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/estonia/v13/7Au_p_4ijSecA1yHCCf8zkwMIFg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Estonia",
+      "styles": [
+        {
+          "family_name": "Estonia",
+          "type": "Regular",
+          "full_name": "Estonia Regular",
+          "post_script_name": "Estonia-Regular",
+          "version": "1.014; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2010-2021 The Estonia Project Authors (https://github.com/googlefonts/estonia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "7Au_p_4ijSecA1yHCCL8zkwMIFg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

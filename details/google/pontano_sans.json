@@ -1,0 +1,155 @@
+{
+  "slug": "google/pontano_sans",
+  "name": "pontano_sans",
+  "description": "Pontano Sans is a minimalist and light weighted Sans Serif. Pontano is designed mainly for use as a display font but is useable as a text font too. Pontano Sans has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. In February 2023, the font becomes variable (light to bold) and presents several improvements in terms of rendering and supported languages. To contribute, see github.com/googlefonts/PontanoSansFont .",
+  "homepage": "https://fonts.google.com/specimen/Pontano+Sans",
+  "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Pontano Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOSzMncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOUDMncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOazLncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOZXLncOMp9gzWsE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOSzMncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOUDMncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOazLncOMp9gzWsE.woff2",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOZXLncOMp9gzWsE.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Pontano Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOSzMncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOUDMncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOazLncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOZXLncaMp9gzWsE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOSzMncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOUDMncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOazLncaMp9gzWsE.ttf",
+        "https://fonts.gstatic.com/s/pontanosans/v19/qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOZXLncaMp9gzWsE.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pontano Sans Light",
+      "styles": [
+        {
+          "family_name": "Pontano Sans Light",
+          "type": "Regular",
+          "full_name": "Pontano Sans Light",
+          "post_script_name": "PontanoSans-Light",
+          "version": "2.001",
+          "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOSzMncaMp9gzWsE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pontano Sans",
+      "styles": [
+        {
+          "family_name": "Pontano Sans",
+          "type": "Regular",
+          "full_name": "Pontano Sans Regular",
+          "post_script_name": "PontanoSans-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOXLMncaMp9gzWsE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Pontano Sans",
+          "type": "Bold",
+          "full_name": "Pontano Sans Bold",
+          "post_script_name": "PontanoSans-Bold",
+          "version": "2.001",
+          "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOZXLncaMp9gzWsE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pontano Sans Medium",
+      "styles": [
+        {
+          "family_name": "Pontano Sans Medium",
+          "type": "Regular",
+          "full_name": "Pontano Sans Medium",
+          "post_script_name": "PontanoSans-Medium",
+          "version": "2.001",
+          "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOUDMncaMp9gzWsE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pontano Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Pontano Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Pontano Sans SemiBold",
+          "post_script_name": "PontanoSans-SemiBold",
+          "version": "2.001",
+          "copyright": "Copyright 2012 The Pontano Sans Project Authors (https://github.com/googlefonts/PontanoSansFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qFdW35GdgYR8EzR6oBLDHa3wyRf8W8eBM6XLOazLncaMp9gzWsE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

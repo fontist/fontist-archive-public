@@ -1,0 +1,58 @@
+{
+  "slug": "google/rock_3d",
+  "name": "rock_3d",
+  "description": "This is a font based on the sketch of 3D letters by handicapped artists, refined & created by design major students, capturing the solidness of the 3D with two dimensional sketch. This is one of the work of Shibuya Font project, a collaboration of design major students and handicapped artist living in Shibuya city, officially approved by Shibuya city in Tokyo. Shibuya font Official Site: http://www.shibuyafont.jp To contribute to the project, visit github.com/shibuyafont/3d-rock-font",
+  "homepage": "https://fonts.google.com/specimen/Rock+3D",
+  "copyright": "Copyright 2020 The Rock 3D Project Authors (https://github.com/shibuyafont/3d-rock-font), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rock 3D",
+      "files": [
+        "https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651513SnwRnQyNI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651513SnwRnQyNI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rock 3D",
+      "files": [
+        "https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651513GnwRnQyNI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rock3d/v13/yYLp0hrL0PCo651513GnwRnQyNI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rock 3D",
+      "styles": [
+        {
+          "family_name": "Rock 3D",
+          "type": "Regular",
+          "full_name": "Rock 3D Regular",
+          "post_script_name": "Rock3D-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Rock 3D Project Authors (https://github.com/shibuyafont/3d-rock-font), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "yYLp0hrL0PCo651513SnwRnQyNI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

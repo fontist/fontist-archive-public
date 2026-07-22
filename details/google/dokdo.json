@@ -1,0 +1,58 @@
+{
+  "slug": "google/dokdo",
+  "name": "dokdo",
+  "description": "Dokdo is a Korean and Latin font.",
+  "homepage": "https://fonts.google.com/specimen/Dokdo",
+  "copyright": "Copyright (c) 2005-2017 FONTRIX. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Dokdo",
+      "files": [
+        "https://fonts.gstatic.com/s/dokdo/v23/esDf315XNuCBLxLo4NaMlKcH.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dokdo/v23/esDf315XNuCBLxLo4NaMlKcH.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Dokdo",
+      "files": [
+        "https://fonts.gstatic.com/s/dokdo/v23/esDf315XNuCBLxLt4NaMlKcH.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dokdo/v23/esDf315XNuCBLxLt4NaMlKcH.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Dokdo",
+      "styles": [
+        {
+          "family_name": "Dokdo",
+          "type": "Regular",
+          "full_name": "Dokdo Regular",
+          "post_script_name": "Dokdo-Regular",
+          "version": "2.00",
+          "copyright": "Copyright (c) 2005-2017 FONTRIX. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "esDf315XNuCBLxLo4NaMlKcH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

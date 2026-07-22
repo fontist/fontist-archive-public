@@ -1,0 +1,58 @@
+{
+  "slug": "google/iceland",
+  "name": "iceland",
+  "description": "The idea of geometric typefaces with a look reminiscent of the machinery, technology, and interior design of the 1950s originated in Eurostile family by Aldo Novarese and Alessandro Butti (1952). Iceland is a modular square-shaped webfont by Victor Kharyk with a cold brutal character designed with the intention to perform well on screen starting from low resolutions. For this purpose the strokes are deliberatly kept vertical and diagonal cuts have a 45° angle, outlines are rounded. Features like wide proportions and generous x-height are introduced for better legibility. Unconventional and simplified letterforms like k, f, r aid readability at small sizes. While at display sizes they add a crisp and sharp impression. Uppercase letters are decently heavier compared to lowercase as a tribute to the old typographic tradition. This way uppercase is easily distinguished from lowercase, and allows scaling down to be used as Small Caps. Because of its ascetic modular character and squarish proportions Iceland webfont is easily integrated in modular grids and logotypes.",
+  "homepage": "https://fonts.google.com/specimen/Iceland",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Iceland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Iceland",
+      "files": [
+        "https://fonts.gstatic.com/s/iceland/v22/rax9HiuFsdMNOnWPWKxGADBbg0s.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/iceland/v22/rax9HiuFsdMNOnWPWKxGADBbg0s.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Iceland",
+      "files": [
+        "https://fonts.gstatic.com/s/iceland/v22/rax9HiuFsdMNOnWPWKlGADBbg0s.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/iceland/v22/rax9HiuFsdMNOnWPWKlGADBbg0s.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Iceland",
+      "styles": [
+        {
+          "family_name": "Iceland",
+          "type": "Regular",
+          "full_name": "Iceland",
+          "post_script_name": "Iceland-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Iceland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Iceland\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax9HiuFsdMNOnWPWKxGADBbg0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

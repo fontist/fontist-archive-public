@@ -1,0 +1,155 @@
+{
+  "slug": "google/noto_emoji",
+  "name": "noto_emoji",
+  "description": "Noto Emoji is an open source font that has you covered for all your emoji needs, including support for the latest Unicode emoji specification. It has multiple weights and features thousands of emoji.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Emoji",
+  "copyright": "Copyright 2013 Google LLC",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Emoji",
+      "files": [
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwqS-FGJCMY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwqS-FGJCMY.woff2",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwqS-FGJCMY.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Emoji",
+      "files": [
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
+        "https://fonts.gstatic.com/s/notoemoji/v62/bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Emoji Light",
+      "styles": [
+        {
+          "family_name": "Noto Emoji Light",
+          "type": "Regular",
+          "full_name": "Noto Emoji Light",
+          "post_script_name": "NotoEmoji-Light",
+          "version": "3.005",
+          "copyright": "Copyright 2013 Google LLC",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob_10jwvS-FGJCMY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Emoji",
+      "styles": [
+        {
+          "family_name": "Noto Emoji",
+          "type": "Regular",
+          "full_name": "Noto Emoji Regular",
+          "post_script_name": "NotoEmoji-Regular",
+          "version": "3.005",
+          "copyright": "Copyright 2013 Google LLC",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-r0jwvS-FGJCMY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Emoji",
+          "type": "Bold",
+          "full_name": "Noto Emoji Bold",
+          "post_script_name": "NotoEmoji-Bold",
+          "version": "3.005",
+          "copyright": "Copyright 2013 Google LLC",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob9M1TwvS-FGJCMY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Emoji Medium",
+      "styles": [
+        {
+          "family_name": "Noto Emoji Medium",
+          "type": "Regular",
+          "full_name": "Noto Emoji Medium",
+          "post_script_name": "NotoEmoji-Medium",
+          "version": "3.005",
+          "copyright": "Copyright 2013 Google LLC",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob-Z0jwvS-FGJCMY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Emoji SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Emoji SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Emoji SemiBold",
+          "post_script_name": "NotoEmoji-SemiBold",
+          "version": "3.005",
+          "copyright": "Copyright 2013 Google LLC",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "bMrnmSyK7YY-MEu6aWjPDs-ar6uWaGWuob911TwvS-FGJCMY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

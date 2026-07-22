@@ -1,0 +1,115 @@
+{
+  "slug": "google/marvel",
+  "name": "marvel",
+  "description": "Marvel is a contemporary and multipurpose sans serif typeface family. It can be used in headlines as well as text settings in websites, books and magazines. It was designed to look sharp, modern and even technical while keeping a unique personality. Typography has always been very important in my graphic design work, and some time ago I started working on experimental type, designing typefaces for use in my own projects so that I could give more personality to them.",
+  "homepage": "https://fonts.google.com/specimen/Marvel",
+  "copyright": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Marvel",
+      "files": [
+        "https://fonts.gstatic.com/s/marvel/v17/nwpVtKeoNgBV0qaIkV7ED366zg.ttf",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpXtKeoNgBV0qa4k1TALXuqzhA7.ttf",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpWtKeoNgBV0qawLXHgB1WmxwkiYQ.ttf",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpQtKeoNgBV0qa4k2x8Al-i5QwyYdrc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marvel/v17/nwpVtKeoNgBV0qaIkV7ED366zg.ttf",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpXtKeoNgBV0qa4k1TALXuqzhA7.ttf",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpWtKeoNgBV0qawLXHgB1WmxwkiYQ.ttf",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpQtKeoNgBV0qa4k2x8Al-i5QwyYdrc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Marvel",
+      "files": [
+        "https://fonts.gstatic.com/s/marvel/v17/nwpVtKeoNgBV0qaIlF7ED366zg.woff2",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpXtKeoNgBV0qa4k1TFLXuqzhA7.woff2",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpWtKeoNgBV0qawLXHgAlWmxwkiYQ.woff2",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpQtKeoNgBV0qa4k2x8Al-n5QwyYdrc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marvel/v17/nwpVtKeoNgBV0qaIlF7ED366zg.woff2",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpXtKeoNgBV0qa4k1TFLXuqzhA7.woff2",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpWtKeoNgBV0qawLXHgAlWmxwkiYQ.woff2",
+        "https://fonts.gstatic.com/s/marvel/v17/nwpQtKeoNgBV0qa4k2x8Al-n5QwyYdrc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Marvel",
+      "styles": [
+        {
+          "family_name": "Marvel",
+          "type": "Regular",
+          "full_name": "Marvel",
+          "post_script_name": "Marvel-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpVtKeoNgBV0qaIkV7ED366zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Marvel",
+          "type": "Italic",
+          "full_name": "Marvel Italic",
+          "post_script_name": "Marvel-Italic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpXtKeoNgBV0qa4k1TALXuqzhA7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Marvel",
+          "type": "Bold",
+          "full_name": "Marvel Bold",
+          "post_script_name": "Marvel-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpWtKeoNgBV0qawLXHgB1WmxwkiYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Marvel",
+          "type": "Bold Italic",
+          "full_name": "Marvel Bold Italic",
+          "post_script_name": "Marvel-BoldItalic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Carolina Trebol <ca@fromzero.org>, with Reserved Font Name \"Marvel\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpQtKeoNgBV0qa4k2x8Al-i5QwyYdrc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

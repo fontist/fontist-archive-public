@@ -1,0 +1,96 @@
+{
+  "slug": "google/cardo",
+  "name": "cardo",
+  "description": "Cardo is a large Unicode font specifically designed for the needs of classicists, Biblical scholars, medievalists, and linguists. It also works well for general typesetting in situations where a high-quality Old Style font is appropriate. Its large character set supports many modern languages as well as those needed by scholars. Cardo also contains features that are required for high-quality typography such as ligatures, text figures (also known as old style numerals), true small capitals and a variety of punctuation and space characters.",
+  "homepage": "https://fonts.google.com/specimen/Cardo",
+  "copyright": "Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cardo",
+      "files": [
+        "https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqiv_1oAZ2H5O.ttf",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpxgwjKBV1pqhv93IQ73W5OcCk.ttf",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpygwjKBV1pqhND-aQR82JHaTBX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqiv_1oAZ2H5O.ttf",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpxgwjKBV1pqhv93IQ73W5OcCk.ttf",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpygwjKBV1pqhND-aQR82JHaTBX.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cardo",
+      "files": [
+        "https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqiv61oAZ2H5O.woff2",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpxgwjKBV1pqhv93IE73W5OcCk.woff2",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpygwjKBV1pqhND-aQU82JHaTBX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cardo/v21/wlp_gwjKBV1pqiv61oAZ2H5O.woff2",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpxgwjKBV1pqhv93IE73W5OcCk.woff2",
+        "https://fonts.gstatic.com/s/cardo/v21/wlpygwjKBV1pqhND-aQU82JHaTBX.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cardo",
+      "styles": [
+        {
+          "family_name": "Cardo",
+          "type": "Regular",
+          "full_name": "Cardo",
+          "post_script_name": "Cardo-Regular",
+          "version": "1.0451",
+          "copyright": "Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+          "variable_font": false,
+          "font": "wlp_gwjKBV1pqiv_1oAZ2H5O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cardo",
+          "type": "Italic",
+          "full_name": "Cardo Italic",
+          "post_script_name": "Cardo-Italic",
+          "version": "0.991",
+          "copyright": "Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+          "variable_font": false,
+          "font": "wlpxgwjKBV1pqhv93IQ73W5OcCk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cardo",
+          "type": "Bold",
+          "full_name": "Cardo Bold",
+          "post_script_name": "Cardo-Bold",
+          "version": "1.0011",
+          "copyright": "Copyright (c) 2002-2011, David J. Perry (hospes02@scholarsfonts.net)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlpygwjKBV1pqhND-aQR82JHaTBX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

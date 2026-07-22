@@ -1,0 +1,57 @@
+{
+  "slug": "google/carter_one",
+  "name": "carter_one",
+  "description": "Carter is a reworking of particular casual typeforms that were popular around the mid Twentieth Century, often found used areas such advertising or pulp fiction book covers. The letter forms of Carter have been reshaped and digitised for use as a webfont, the counters have been opened up a little and the stems optimised for use as display font for modern web browsers.",
+  "homepage": "https://fonts.google.com/specimen/Carter+One",
+  "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Carter One",
+      "files": [
+        "https://fonts.gstatic.com/s/carterone/v18/q5uCsoe5IOB2-pXv9UcNIxR2hYxREMs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carterone/v18/q5uCsoe5IOB2-pXv9UcNIxR2hYxREMs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Carter One",
+      "files": [
+        "https://fonts.gstatic.com/s/carterone/v18/q5uCsoe5IOB2-pXv9UcNIxF2hYxREMs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carterone/v18/q5uCsoe5IOB2-pXv9UcNIxF2hYxREMs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Carter One",
+      "styles": [
+        {
+          "family_name": "Carter One",
+          "type": "Regular",
+          "full_name": "Carter One",
+          "post_script_name": "CarterOne",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "q5uCsoe5IOB2-pXv9UcNIxR2hYxREMs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

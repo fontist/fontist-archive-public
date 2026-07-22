@@ -1,0 +1,58 @@
+{
+  "slug": "google/sawarabi_gothic",
+  "name": "sawarabi_gothic",
+  "description": "Sawarabi Gothic (さわらびゴシック) is a Japanese font by mshio . Carefully designed for high legibility, it works well in small text sizes. It already has many hiragana, katakana, ruled lines, and so on, but it does not yet have enough kanji glyphs. Only 4,469 kanji are available in this version, and the project is under active development. There is also another related family, Sawarabi Mincho. 6,945 glyphs. Now released under the SIL Open Font License.",
+  "homepage": "https://fonts.google.com/specimen/Sawarabi+Gothic",
+  "copyright": "Copyright 2016 The Sawarabi Gothic Project Authors.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sawarabi Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/sawarabigothic/v16/x3d4ckfVaqqa-BEj-I9mE65u3k3NBSk3E2YljQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sawarabigothic/v16/x3d4ckfVaqqa-BEj-I9mE65u3k3NBSk3E2YljQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sawarabi Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/sawarabigothic/v16/x3d4ckfVaqqa-BEj-I9mE65u3k3NACk3E2YljQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sawarabigothic/v16/x3d4ckfVaqqa-BEj-I9mE65u3k3NACk3E2YljQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sawarabi Gothic",
+      "styles": [
+        {
+          "family_name": "Sawarabi Gothic",
+          "type": "Regular",
+          "full_name": "Sawarabi Gothic",
+          "post_script_name": "SawarabiGothic-Regular",
+          "version": "20141215 ",
+          "copyright": "Copyright 2016 The Sawarabi Gothic Project Authors.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "x3d4ckfVaqqa-BEj-I9mE65u3k3NBSk3E2YljQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

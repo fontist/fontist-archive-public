@@ -1,0 +1,58 @@
+{
+  "slug": "google/chonburi",
+  "name": "chonburi",
+  "description": "Chonburi is a new Thai + Latin typeface for display usage, with an formal looped + serif design. The Chonburi project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/chonburi",
+  "homepage": "https://fonts.google.com/specimen/Chonburi",
+  "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chonburi",
+      "files": [
+        "https://fonts.gstatic.com/s/chonburi/v14/8AtqGs-wOpGRTBq66IWaFr3biAfZ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chonburi/v14/8AtqGs-wOpGRTBq66IWaFr3biAfZ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chonburi",
+      "files": [
+        "https://fonts.gstatic.com/s/chonburi/v14/8AtqGs-wOpGRTBq66IWfFr3biAfZ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chonburi/v14/8AtqGs-wOpGRTBq66IWfFr3biAfZ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chonburi",
+      "styles": [
+        {
+          "family_name": "Chonburi",
+          "type": "Regular",
+          "full_name": "Chonburi",
+          "post_script_name": "Chonburi-Regular",
+          "version": "1.000g",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "8AtqGs-wOpGRTBq66IWaFr3biAfZ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

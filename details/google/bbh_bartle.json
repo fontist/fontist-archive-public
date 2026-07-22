@@ -1,0 +1,58 @@
+{
+  "slug": "google/bbh_bartle",
+  "name": "bbh_bartle",
+  "description": "BBH Bartle font family",
+  "homepage": "https://fonts.google.com/specimen/BBH+Bartle",
+  "copyright": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BBH Bartle",
+      "files": [
+        "https://fonts.gstatic.com/s/bbhbartle/v1/zYXjKVYuMYMaN-IMqP3RSm6Tkd7_CIc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bbhbartle/v1/zYXjKVYuMYMaN-IMqP3RSm6Tkd7_CIc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BBH Bartle",
+      "files": [
+        "https://fonts.gstatic.com/s/bbhbartle/v1/zYXjKVYuMYMaN-IMqP3RSmuTkd7_CIc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bbhbartle/v1/zYXjKVYuMYMaN-IMqP3RSmuTkd7_CIc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BBH Bartle",
+      "styles": [
+        {
+          "family_name": "BBH Bartle",
+          "type": "Regular",
+          "full_name": "BBH Bartle Regular",
+          "post_script_name": "BBHBartle-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "zYXjKVYuMYMaN-IMqP3RSm6Tkd7_CIc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

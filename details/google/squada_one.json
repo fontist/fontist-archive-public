@@ -1,0 +1,58 @@
+{
+  "slug": "google/squada_one",
+  "name": "squada_one",
+  "description": "Squada One is the perfect font to make a lasting impression on any webpage. Its bold presence and geometric, condensed form allow for setting in any context. Squada One can be used at any size while still maintaining clarity and smoothness.",
+  "homepage": "https://fonts.google.com/specimen/Squada+One",
+  "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Squada.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Squada One",
+      "files": [
+        "https://fonts.gstatic.com/s/squadaone/v20/BCasqZ8XsOrx4mcOk6MtWaA8WDBkHgs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/squadaone/v20/BCasqZ8XsOrx4mcOk6MtWaA8WDBkHgs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Squada One",
+      "files": [
+        "https://fonts.gstatic.com/s/squadaone/v20/BCasqZ8XsOrx4mcOk6MtWaU8WDBkHgs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/squadaone/v20/BCasqZ8XsOrx4mcOk6MtWaU8WDBkHgs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Squada One",
+      "styles": [
+        {
+          "family_name": "Squada One",
+          "type": "Regular",
+          "full_name": "Squada One",
+          "post_script_name": "SquadaOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Squada.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BCasqZ8XsOrx4mcOk6MtWaA8WDBkHgs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

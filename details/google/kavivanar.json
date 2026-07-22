@@ -1,0 +1,58 @@
+{
+  "slug": "google/kavivanar",
+  "name": "kavivanar",
+  "description": "Kavivanar is a unique handwriting font that supports the Tamil and Latin scripts. It is somewhat bold, and slightly slanted, a typical Tamil handwriting style where an incline is popular. The letterforms show a calligraphic pen stress that brings an aliveliness to the letters, and provides texture in body text settings. It works well with both body text and display text because of the intriguing rhythm. The slanted letterforms for Tamil are inspired from a manuscript by Kavivanar M. A. Azeez (1948-2002), a Tamil poet and educator who lived in the east coast of Sri Lanka. The Kavivanar project is led by Tharique Azeez, a type designer based in Sri Lanka. To contribute, see github.com/enathu/kavivanar",
+  "homepage": "https://fonts.google.com/specimen/Kavivanar",
+  "copyright": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com|zeezat@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kavivanar",
+      "files": [
+        "https://fonts.gstatic.com/s/kavivanar/v22/o-0IIpQgyXYSwhxP7_Jb4j5Ba_2c7A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kavivanar/v22/o-0IIpQgyXYSwhxP7_Jb4j5Ba_2c7A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kavivanar",
+      "files": [
+        "https://fonts.gstatic.com/s/kavivanar/v22/o-0IIpQgyXYSwhxP7_Jb5z5Ba_2c7A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kavivanar/v22/o-0IIpQgyXYSwhxP7_Jb5z5Ba_2c7A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kavivanar",
+      "styles": [
+        {
+          "family_name": "Kavivanar",
+          "type": "Regular",
+          "full_name": "Kavivanar Regular",
+          "post_script_name": "Kavivanar-Regular",
+          "version": "1.88",
+          "copyright": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com|zeezat@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "o-0IIpQgyXYSwhxP7_Jb4j5Ba_2c7A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

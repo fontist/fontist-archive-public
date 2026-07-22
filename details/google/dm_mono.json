@@ -1,0 +1,163 @@
+{
+  "slug": "google/dm_mono",
+  "name": "dm_mono",
+  "description": "DM Mono is a three weight, three style family designed for DeepMind. DM Mono was loosely based off of DM Sans , with a reduction in contrast and less geometric proportions. The type design and font development was commissioned from Colophon Foundry , with Creative Direction from the DeepMind team. To contribute, see github.com/googlefonts/dm-mono .",
+  "homepage": "https://fonts.google.com/specimen/DM+Mono",
+  "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "DM Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvrGyIYSnbKX9Rlk.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYataIf4VllXuA.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYhh2aBYyMcKw.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTW7PB1QTsUX8KYth-QAa6JYKzkXw.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYSnbKX9Rlk.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetaIf4VllXuA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvrGyIYSnbKX9Rlk.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYataIf4VllXuA.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYhh2aBYyMcKw.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTW7PB1QTsUX8KYth-QAa6JYKzkXw.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYSnbKX9Rlk.ttf",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetaIf4VllXuA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "DM Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvrGyIYGnbKX9Rlk.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYatbYf4VllXuA.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYhhiaBYyMcKw.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTW7PB1QTsUX8KYth-QBK6JYKzkXw.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYGnbKX9Rlk.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetbYf4VllXuA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvrGyIYGnbKX9Rlk.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-orYatbYf4VllXuA.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTU7PB1QTsUX8KYhhiaBYyMcKw.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTW7PB1QTsUX8KYth-QBK6JYKzkXw.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTR7PB1QTsUX8KYvumzIYGnbKX9Rlk.woff2",
+        "https://fonts.gstatic.com/s/dmmono/v16/aFTT7PB1QTsUX8KYth-o9YetbYf4VllXuA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "DM Mono Light",
+      "styles": [
+        {
+          "family_name": "DM Mono Light",
+          "type": "Regular",
+          "full_name": "DM Mono Light",
+          "post_script_name": "DMMono-Light",
+          "version": "1.000; ttfautohint (v1.8.2.53-6de2)",
+          "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTR7PB1QTsUX8KYvrGyIYSnbKX9Rlk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "DM Mono Light",
+          "type": "Italic",
+          "full_name": "DM Mono Light Italic",
+          "post_script_name": "DMMono-LightItalic",
+          "version": "1.000; ttfautohint (v1.8.2.53-6de2)",
+          "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTT7PB1QTsUX8KYth-orYataIf4VllXuA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DM Mono",
+      "styles": [
+        {
+          "family_name": "DM Mono",
+          "type": "Regular",
+          "full_name": "DM Mono Regular",
+          "post_script_name": "DMMono-Regular",
+          "version": "1.000; ttfautohint (v1.8.2.53-6de2)",
+          "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTU7PB1QTsUX8KYhh2aBYyMcKw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "DM Mono",
+          "type": "Italic",
+          "full_name": "DM Mono Italic",
+          "post_script_name": "DMMono-Italic",
+          "version": "1.000; ttfautohint (v1.8.2.53-6de2)",
+          "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTW7PB1QTsUX8KYth-QAa6JYKzkXw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DM Mono Medium",
+      "styles": [
+        {
+          "family_name": "DM Mono Medium",
+          "type": "Regular",
+          "full_name": "DM Mono Medium",
+          "post_script_name": "DMMono-Medium",
+          "version": "1.000; ttfautohint (v1.8.2.53-6de2)",
+          "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTR7PB1QTsUX8KYvumzIYSnbKX9Rlk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "DM Mono Medium",
+          "type": "Italic",
+          "full_name": "DM Mono Medium Italic",
+          "post_script_name": "DMMono-MediumItalic",
+          "version": "1.000; ttfautohint (v1.8.2.53-6de2)",
+          "copyright": "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "aFTT7PB1QTsUX8KYth-o9YetaIf4VllXuA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

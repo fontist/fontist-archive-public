@@ -1,0 +1,58 @@
+{
+  "slug": "google/vibes",
+  "name": "vibes",
+  "description": "Vibes is a typeface designed for Arabic, as well as English languages. It was designed to be a mixture that radiates energy, flexibility, and cuteness. It is specially designed to be used for title texts. Acknowledgements goes to Nadine Chahine, where this work wouldn't incepted without her help. To contribute, see github.com/bluemix/vibes-typeface .",
+  "homepage": "https://fonts.google.com/specimen/Vibes",
+  "copyright": "Copyright 2019 The Vibes Project Authors (https://github.com/bluemix/vibes-typeface)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vibes",
+      "files": [
+        "https://fonts.gstatic.com/s/vibes/v16/QdVYSTsmIB6tmbd3HpbsuBlh.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vibes/v16/QdVYSTsmIB6tmbd3HpbsuBlh.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vibes",
+      "files": [
+        "https://fonts.gstatic.com/s/vibes/v16/QdVYSTsmIB6tmbdyHpbsuBlh.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vibes/v16/QdVYSTsmIB6tmbdyHpbsuBlh.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vibes",
+      "styles": [
+        {
+          "family_name": "Vibes",
+          "type": "Regular",
+          "full_name": "Vibes Regular",
+          "post_script_name": "Vibes-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2019 The Vibes Project Authors (https://github.com/bluemix/vibes-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVYSTsmIB6tmbd3HpbsuBlh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

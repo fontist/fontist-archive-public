@@ -1,0 +1,58 @@
+{
+  "slug": "google/major_mono_display",
+  "name": "major_mono_display",
+  "description": "Majör Mono Display is a monospaced geometric sans serif all-uppercase typeface which also has a complete set of constructivist display characters with a playful attitude. It has many OpenType features, but the basic stylistic sets, serious sans serif, and playful display designs, are encoded as lowercase and uppercase characters. This makes it a great choice for playful web typography, especially at large point-sizes. To contribute, see github.com/googlefonts/majormono",
+  "homepage": "https://fonts.google.com/specimen/Major+Mono+Display",
+  "copyright": "Copyright 2018 The Major Mono Project Authors (https://github.com/googlefonts/majormono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Major Mono Display",
+      "files": [
+        "https://fonts.gstatic.com/s/majormonodisplay/v18/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/majormonodisplay/v18/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Major Mono Display",
+      "files": [
+        "https://fonts.gstatic.com/s/majormonodisplay/v18/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLD32QIndPww.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/majormonodisplay/v18/RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLD32QIndPww.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Major Mono Display",
+      "styles": [
+        {
+          "family_name": "Major Mono Display",
+          "type": "Regular",
+          "full_name": "Major Mono Display Regular",
+          "post_script_name": "MajorMonoDisplay-Regular",
+          "version": "2.000; ttfautohint (v1.8) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -X \"\"",
+          "copyright": "Copyright 2018 The Major Mono Project Authors (https://github.com/googlefonts/majormono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RWmVoLyb5fEqtsfBX9PDZIGr2tFubRhLCn2QIndPww.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

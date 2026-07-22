@@ -1,0 +1,82 @@
+{
+  "slug": "google/flamenco",
+  "name": "flamenco",
+  "description": "Flamenco is a semi-serif slab typeface. It is inspired by the bird of the same name; its long ascenders and descenders provide elegance and a classic touch, while it is monolinear humanist structure and rounded terminals give it a kind and smooth feeling.",
+  "homepage": "https://fonts.google.com/specimen/Flamenco",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Flamenco\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Flamenco",
+      "files": [
+        "https://fonts.gstatic.com/s/flamenco/v19/neIPzCehqYguo67ssZ0qNIkyepH9qGsf.ttf",
+        "https://fonts.gstatic.com/s/flamenco/v19/neIIzCehqYguo67ssaWGHK06UY30.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/flamenco/v19/neIPzCehqYguo67ssZ0qNIkyepH9qGsf.ttf",
+        "https://fonts.gstatic.com/s/flamenco/v19/neIIzCehqYguo67ssaWGHK06UY30.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Flamenco",
+      "files": [
+        "https://fonts.gstatic.com/s/flamenco/v19/neIPzCehqYguo67ssZ0qNIk3epH9qGsf.woff2",
+        "https://fonts.gstatic.com/s/flamenco/v19/neIIzCehqYguo67ssaWDHK06UY30.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/flamenco/v19/neIPzCehqYguo67ssZ0qNIk3epH9qGsf.woff2",
+        "https://fonts.gstatic.com/s/flamenco/v19/neIIzCehqYguo67ssaWDHK06UY30.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Flamenco Light",
+      "styles": [
+        {
+          "family_name": "Flamenco Light",
+          "type": "Regular",
+          "full_name": "Flamenco Light",
+          "post_script_name": "Flamenco-Light",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Flamenco\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neIPzCehqYguo67ssZ0qNIkyepH9qGsf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flamenco",
+      "styles": [
+        {
+          "family_name": "Flamenco",
+          "type": "Regular",
+          "full_name": "Flamenco Regular",
+          "post_script_name": "Flamenco-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Flamenco\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neIIzCehqYguo67ssaWGHK06UY30.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

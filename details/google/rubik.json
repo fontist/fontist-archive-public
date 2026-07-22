@@ -1,0 +1,336 @@
+{
+  "slug": "google/rubik",
+  "name": "rubik",
+  "description": "Rubik is a sans serif font family with slightly rounded corners designed by Philipp Hubert and Sebastian Fischer at Hubert &amp; Fischer as part of the Chrome Cube Lab project. Rubik is a 5 weight family with Roman and Italic styles, that accompanies Rubik Mono One , a monospaced variation of the Black roman design. Meir Sadan redesigned the Hebrew component in 2015. Alexei Vanyashin redesigned the Cyrillic component in 2016. To contribute, see github.com/googlefonts/Rubik .",
+  "homepage": "https://fonts.google.com/specimen/Rubik",
+  "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Rubik",
+      "files": [
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0U1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0U1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0U1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEU1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEU1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEU1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEU1dYPFkJ1O.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1VU80V4bVkA.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0U1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0U1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0U1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEU1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEU1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEU1dYPFkJ1O.woff2",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEU1dYPFkJ1O.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Rubik",
+      "files": [
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0UwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0UwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0UwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUwdYPFkJ1O.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UE80V4bVkA.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0UwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0UwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0UwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUwdYPFkJ1O.ttf",
+        "https://fonts.gstatic.com/s/rubik/v31/iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUwdYPFkJ1O.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Light",
+      "styles": [
+        {
+          "family_name": "Rubik Light",
+          "type": "Regular",
+          "full_name": "Rubik Light",
+          "post_script_name": "Rubik-Light",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-WYi1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik Light",
+          "type": "Italic",
+          "full_name": "Rubik Light Italic",
+          "post_script_name": "Rubik-LightItalic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8sDE0UwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rubik",
+      "styles": [
+        {
+          "family_name": "Rubik",
+          "type": "Regular",
+          "full_name": "Rubik Regular",
+          "post_script_name": "Rubik-Regular",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik",
+          "type": "Bold",
+          "full_name": "Rubik Bold",
+          "post_script_name": "Rubik-Bold",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik",
+          "type": "Italic",
+          "full_name": "Rubik Italic",
+          "post_script_name": "Rubik-Italic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tdE0UwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik",
+          "type": "Bold Italic",
+          "full_name": "Rubik Bold Italic",
+          "post_script_name": "Rubik-BoldItalic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8u6FEUwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rubik Medium",
+      "styles": [
+        {
+          "family_name": "Rubik Medium",
+          "type": "Regular",
+          "full_name": "Rubik Medium",
+          "post_script_name": "Rubik-Medium",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik Medium",
+          "type": "Italic",
+          "full_name": "Rubik Medium Italic",
+          "post_script_name": "Rubik-MediumItalic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8tvE0UwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rubik SemiBold",
+      "styles": [
+        {
+          "family_name": "Rubik SemiBold",
+          "type": "Regular",
+          "full_name": "Rubik SemiBold",
+          "post_script_name": "Rubik-SemiBold",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik SemiBold",
+          "type": "Italic",
+          "full_name": "Rubik SemiBold Italic",
+          "post_script_name": "Rubik-SemiBoldItalic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8uDFEUwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rubik ExtraBold",
+      "styles": [
+        {
+          "family_name": "Rubik ExtraBold",
+          "type": "Regular",
+          "full_name": "Rubik ExtraBold",
+          "post_script_name": "Rubik-ExtraBold",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-h4-1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik ExtraBold",
+          "type": "Italic",
+          "full_name": "Rubik ExtraBold Italic",
+          "post_script_name": "Rubik-ExtraBoldItalic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8vdFEUwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rubik Black",
+      "styles": [
+        {
+          "family_name": "Rubik Black",
+          "type": "Regular",
+          "full_name": "Rubik Black",
+          "post_script_name": "Rubik-Black",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-ro-1UE80V4bVkA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rubik Black",
+          "type": "Italic",
+          "full_name": "Rubik Black Italic",
+          "post_script_name": "Rubik-BlackItalic",
+          "version": "2.300;gftools[0.9.30]",
+          "copyright": "Copyright 2015 The Rubik Project Authors (https://github.com/googlefonts/rubik)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "iJWbBXyIfDnIV7nEt3KSJbVDV49rz8v0FEUwdYPFkJ1O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

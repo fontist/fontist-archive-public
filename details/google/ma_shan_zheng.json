@@ -1,0 +1,58 @@
+{
+  "slug": "google/ma_shan_zheng",
+  "name": "ma_shan_zheng",
+  "description": "This script is reminiscent of fonts used to display \"yinglian,\" the short poems and blessings traditionally posted on either side of the entryway to a home or temple. MaShanZheng is heavy and majestic, vital and expansive.",
+  "homepage": "https://fonts.google.com/specimen/Ma+Shan+Zheng",
+  "copyright": "Copyright 2018 The MaShanZheng Project Authors (https://github.com/googlefonts/mashanzheng)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ma Shan Zheng",
+      "files": [
+        "https://fonts.gstatic.com/s/mashanzheng/v17/NaPecZTRCLxvwo41b4gvzkXaRMTsDIRSfr0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mashanzheng/v17/NaPecZTRCLxvwo41b4gvzkXaRMTsDIRSfr0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ma Shan Zheng",
+      "files": [
+        "https://fonts.gstatic.com/s/mashanzheng/v17/NaPecZTRCLxvwo41b4gvzkXaRMHsDIRSfr0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mashanzheng/v17/NaPecZTRCLxvwo41b4gvzkXaRMHsDIRSfr0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "styles": [
+        {
+          "family_name": "Ma Shan Zheng",
+          "type": "Regular",
+          "full_name": "Ma Shan Zheng Regular",
+          "post_script_name": "MaShanZheng-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2018 The MaShanZheng Project Authors (https://github.com/googlefonts/mashanzheng)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "NaPecZTRCLxvwo41b4gvzkXaRMTsDIRSfr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

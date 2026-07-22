@@ -1,0 +1,64 @@
+{
+  "slug": "google/jaro",
+  "name": "jaro",
+  "description": "",
+  "homepage": "https://fonts.google.com/specimen/Jaro",
+  "copyright": "Copyright 2023 The Jaro Project Authors (https://github.com/agyeiarcher/Jaro)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Jaro",
+      "files": [
+        "https://fonts.gstatic.com/s/jaro/v8/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SlCpNP3VpQ_a.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jaro/v8/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SlCpNP3VpQ_a.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "opsz"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Jaro",
+      "files": [
+        "https://fonts.gstatic.com/s/jaro/v8/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SlCsNP3VpQ_a.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jaro/v8/ea8DadQwV_r_Rv3-7zZMCGhQgVr1SlCsNP3VpQ_a.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "opsz"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jaro",
+      "styles": [
+        {
+          "family_name": "Jaro",
+          "type": "Regular",
+          "full_name": "Jaro Regular",
+          "post_script_name": "Jaro-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2023 The Jaro Project Authors (https://github.com/agyeiarcher/Jaro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "ea8DadQwV_r_Rv3-7zZMCGhQgVr1SlCsNP3VpQ_a.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

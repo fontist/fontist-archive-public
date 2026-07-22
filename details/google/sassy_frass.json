@@ -1,0 +1,58 @@
+{
+  "slug": "google/sassy_frass",
+  "name": "sassy_frass",
+  "description": "SassyFrass is a fun little script font with lots of squiggles and giggles, especially in the uppercase forms. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/sassy-frass .",
+  "homepage": "https://fonts.google.com/specimen/Sassy+Frass",
+  "copyright": "Copyright 2008 The Sassy Frass Project Authors (https://github.com/googlefonts/sassy-frass)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sassy Frass",
+      "files": [
+        "https://fonts.gstatic.com/s/sassyfrass/v9/LhWhMVrGOe0FLb97BjhsE99dGNWQg_am.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sassyfrass/v9/LhWhMVrGOe0FLb97BjhsE99dGNWQg_am.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sassy Frass",
+      "files": [
+        "https://fonts.gstatic.com/s/sassyfrass/v9/LhWhMVrGOe0FLb97BjhsE99YGNWQg_am.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sassyfrass/v9/LhWhMVrGOe0FLb97BjhsE99YGNWQg_am.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sassy Frass",
+      "styles": [
+        {
+          "family_name": "Sassy Frass",
+          "type": "Regular",
+          "full_name": "Sassy Frass Regular",
+          "post_script_name": "SassyFrass-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2008 The Sassy Frass Project Authors (https://github.com/googlefonts/sassy-frass)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LhWhMVrGOe0FLb97BjhsE99dGNWQg_am.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

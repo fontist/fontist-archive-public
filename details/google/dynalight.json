@@ -1,0 +1,58 @@
+{
+  "slug": "google/dynalight",
+  "name": "dynalight",
+  "description": "Dynalight is a dynamic high speed script inspired by a vintage luggage tag for the Southern Pacific 4449 Daylight steam locomotive. Loaded with curves and soft angles, this connecting script is an attention getter.",
+  "homepage": "https://fonts.google.com/specimen/Dynalight",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Dynalight\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Dynalight",
+      "files": [
+        "https://fonts.gstatic.com/s/dynalight/v24/1Ptsg8LOU_aOmQvTsF4ISotrDfGGxA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dynalight/v24/1Ptsg8LOU_aOmQvTsF4ISotrDfGGxA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Dynalight",
+      "files": [
+        "https://fonts.gstatic.com/s/dynalight/v24/1Ptsg8LOU_aOmQvTsF4IT4trDfGGxA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dynalight/v24/1Ptsg8LOU_aOmQvTsF4IT4trDfGGxA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Dynalight",
+      "styles": [
+        {
+          "family_name": "Dynalight",
+          "type": "Regular",
+          "full_name": "Dynalight",
+          "post_script_name": "Dynalight-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Dynalight\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1Ptsg8LOU_aOmQvTsF4ISotrDfGGxA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

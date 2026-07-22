@@ -1,0 +1,58 @@
+{
+  "slug": "google/mallanna",
+  "name": "mallanna",
+  "description": "Mallanna is a Telugu font with round letterforms and a uniform thickness that reminds us of the round pearls Hyderabad is famous for. It looks very crisp even at small point sizes, which helps publishers make beautiful designs, and includes complex Telugu conjunct letters. Mallanna is named after the Telugu poet from the court of the king Krishnadevaraya, and was one of the Astadiggajalu (literally eight legends) there. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Vernon Adams and originally published as Nunito . The Mallanna project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/mallanna",
+  "homepage": "https://fonts.google.com/specimen/Mallanna",
+  "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name Nunito",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mallanna",
+      "files": [
+        "https://fonts.gstatic.com/s/mallanna/v15/hv-Vlzx-KEQb84YaDGwzEzRwVvJ-.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mallanna/v15/hv-Vlzx-KEQb84YaDGwzEzRwVvJ-.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mallanna",
+      "files": [
+        "https://fonts.gstatic.com/s/mallanna/v15/hv-Vlzx-KEQb84YaDGw2EzRwVvJ-.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mallanna/v15/hv-Vlzx-KEQb84YaDGw2EzRwVvJ-.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mallanna",
+      "styles": [
+        {
+          "family_name": "Mallanna",
+          "type": "Regular",
+          "full_name": "Mallanna",
+          "post_script_name": "Mallanna",
+          "version": "1.0.4; ttfautohint (vUNKNOWN) -l 7 -r 28 -G 50 -x 13 -D telu -f telu -w G -X \"\"",
+          "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name Nunito",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "hv-Vlzx-KEQb84YaDGwzEzRwVvJ-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

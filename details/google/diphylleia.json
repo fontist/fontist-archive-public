@@ -1,0 +1,58 @@
+{
+  "slug": "google/diphylleia",
+  "name": "diphylleia",
+  "description": "Diphylleia is a typeface based on the motif of the song \"Diphylleia grayi\" by singer Jonghyun of SHINee; designed to better convey his sentimental lyrics. The typeface was inspired by the affectionate expression of the song about how the flower becomes transparent and disappearing, and puts these impressions into the brush style strokes. Diphylleia grayi is a mysterious flower that gets transparent when the water touches its petals. To contribute, please visit github.com/JAMO-TYPEFACE/Diphylleia .",
+  "homepage": "https://fonts.google.com/specimen/Diphylleia",
+  "copyright": "Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Diphylleia",
+      "files": [
+        "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Diphylleia",
+      "files": [
+        "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIulkm6gDXvwE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/diphylleia/v2/DtVmJxCtRKMixK4_HXsIulkm6gDXvwE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Diphylleia",
+      "styles": [
+        {
+          "family_name": "Diphylleia",
+          "type": "Regular",
+          "full_name": "Diphylleia Regular",
+          "post_script_name": "Diphylleia-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.28]",
+          "copyright": "Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

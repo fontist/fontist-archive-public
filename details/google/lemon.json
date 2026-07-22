@@ -1,0 +1,58 @@
+{
+  "slug": "google/lemon",
+  "name": "lemon",
+  "description": "Lemon is a display typeface with soft and fluid shapes that come from painted street shop signage. The dark weight is ideal for headlines and short texts, and a future release of a lighter weight could be useful for longer text. The uppercase letters are very carefully drawn, making an attractive and unique design for text in all caps, compound words in capital letters, and acronyms. The same dynamic is inherent in the lowercase and numbers! The March 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/lemon .",
+  "homepage": "https://fonts.google.com/specimen/Lemon",
+  "copyright": "Copyright 2011 The Lemon Project Authors (https://github.com/etunni/lemon) with Reserved Font Name \"Lemon\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lemon",
+      "files": [
+        "https://fonts.gstatic.com/s/lemon/v19/HI_EiYEVKqRMq0jBSZXAQ4-d.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lemon/v19/HI_EiYEVKqRMq0jBSZXAQ4-d.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lemon",
+      "files": [
+        "https://fonts.gstatic.com/s/lemon/v19/HI_EiYEVKqRMq0jESZXAQ4-d.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lemon/v19/HI_EiYEVKqRMq0jESZXAQ4-d.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lemon",
+      "styles": [
+        {
+          "family_name": "Lemon",
+          "type": "Regular",
+          "full_name": "Lemon Regular",
+          "post_script_name": "Lemon-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.24]",
+          "copyright": "Copyright 2011 The Lemon Project Authors (https://github.com/etunni/lemon) with Reserved Font Name \"Lemon\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_EiYEVKqRMq0jBSZXAQ4-d.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

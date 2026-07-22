@@ -1,0 +1,58 @@
+{
+  "slug": "google/herr_von_muellerhoff",
+  "name": "herr_von_muellerhoff",
+  "description": "The Charles Bluemlein Script Collection is an intriguing reminder of the heady days of hand lettering and calligraphy in the United States. From the early 1930s through World War II, there were about 200 professional hand letterers working in New York City alone. This occupation saw its demise with the advent of photo lettering, and after digital typography it became virtually extinct. The odd way in which the Bluemlein scripts were assembled and created - by collecting different signatures and then building complete alphabets from them - is a fascinating calligraphic adventure. Because the set of constructed designs looked nothing like the original signatures, fictitious names were assigned to the new script typefaces. The typeface styles were then showcased in Higgins Ink catalogs. Alejandro Paul and Sudtipos bring the Bluemlein scripts back to life in a set of expanded digital versions, reflecting the demands of today’s designer. Extreme care has been taken to render the original scripts authentically, keeping the fictitious names originally assigned to them by Bluemlein.",
+  "homepage": "https://fonts.google.com/specimen/Herr+Von+Muellerhoff",
+  "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Herr Von Mullerhoff\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Herr Von Muellerhoff",
+      "files": [
+        "https://fonts.gstatic.com/s/herrvonmuellerhoff/v23/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft3c6_qJY3QPQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/herrvonmuellerhoff/v23/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft3c6_qJY3QPQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Herr Von Muellerhoff",
+      "files": [
+        "https://fonts.gstatic.com/s/herrvonmuellerhoff/v23/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft3c__qJY3QPQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/herrvonmuellerhoff/v23/WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft3c__qJY3QPQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Herr Von Muellerhoff",
+      "styles": [
+        {
+          "family_name": "Herr Von Muellerhoff",
+          "type": "Regular",
+          "full_name": "Herr Von Muellerhoff Regular",
+          "post_script_name": "HerrVonMuellerhoff-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Herr Von Mullerhoff\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WBL6rFjRZkREW8WqmCWYLgCkQKXb4CAft3c6_qJY3QPQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

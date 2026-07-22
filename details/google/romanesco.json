@@ -1,0 +1,58 @@
+{
+  "slug": "google/romanesco",
+  "name": "romanesco",
+  "description": "The Romanesco typeface is a refined, semi-bold and narrow hand crafted calligraphic style. With stabbing strokes that nod to historical styles, and modern flair leaning towards the current, Romanesco lends itself to a wide array of stylistic uses for a narrow typestyle.",
+  "homepage": "https://fonts.google.com/specimen/Romanesco",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Romanesco\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Romanesco",
+      "files": [
+        "https://fonts.gstatic.com/s/romanesco/v22/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/romanesco/v22/w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Romanesco",
+      "files": [
+        "https://fonts.gstatic.com/s/romanesco/v22/w8gYH2ozQOY7_r_J7mSn2XwLqOqSBg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/romanesco/v22/w8gYH2ozQOY7_r_J7mSn2XwLqOqSBg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Romanesco",
+      "styles": [
+        {
+          "family_name": "Romanesco",
+          "type": "Regular",
+          "full_name": "Romanesco",
+          "post_script_name": "Romanesco-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Romanesco\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "w8gYH2ozQOY7_r_J7mSn3HwLqOqSBg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

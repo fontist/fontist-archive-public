@@ -1,0 +1,58 @@
+{
+  "slug": "google/rampart_one",
+  "name": "rampart_one",
+  "description": "Rampart is a unique outline shadow font made in the image of 3-D blocks. It is best used for added impact or to demonstrate strength and stability. To contribute to the project, visit github.com/fontworks-fonts/Rampart",
+  "homepage": "https://fonts.google.com/specimen/Rampart+One",
+  "copyright": "Copyright 2020 The Rampart Project Authors (https://github.com/fontworks-fonts/Rampart/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rampart One",
+      "files": [
+        "https://fonts.gstatic.com/s/rampartone/v13/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rampartone/v13/K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rampart One",
+      "files": [
+        "https://fonts.gstatic.com/s/rampartone/v13/K2F1fZFGl_JSR1tAWNG9R6qlLS76ZHOM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rampartone/v13/K2F1fZFGl_JSR1tAWNG9R6qlLS76ZHOM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rampart One",
+      "styles": [
+        {
+          "family_name": "Rampart One",
+          "type": "Regular",
+          "full_name": "Rampart One Regular",
+          "post_script_name": "RampartOne-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Rampart Project Authors (https://github.com/fontworks-fonts/Rampart/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "K2F1fZFGl_JSR1tAWNG9R6qgLS76ZHOM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

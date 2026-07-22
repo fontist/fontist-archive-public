@@ -1,0 +1,58 @@
+{
+  "slug": "google/satisfy",
+  "name": "satisfy",
+  "description": "Looking for a brush script with a little pizazz? This new Sideshow typeface will fill the bill! Satisfy gives you the look of a timeless classic with a unique modern flair. Download this font by designer Squid and you'll be satisfied!",
+  "homepage": "https://fonts.google.com/specimen/Satisfy",
+  "copyright": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Satisfy",
+      "files": [
+        "https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoOZSCHBeHFl0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoOZSCHBeHFl0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Satisfy",
+      "files": [
+        "https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoOZGCHBeHFl0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/satisfy/v22/rP2Hp2yn6lkG50LoOZGCHBeHFl0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Satisfy",
+      "styles": [
+        {
+          "family_name": "Satisfy",
+          "type": "Regular",
+          "full_name": "Satisfy Regular",
+          "post_script_name": "Satisfy-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "rP2Hp2yn6lkG50LoOZSCHBeHFl0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/neonderthaw",
+  "name": "neonderthaw",
+  "description": "Neonderthaw is a single weight script that simulates neon. Throw it in an application that can use blurs, add some glow and viola, you have neon signage. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/neonderthaw .",
+  "homepage": "https://fonts.google.com/specimen/Neonderthaw",
+  "copyright": "Copyright 2014-2021 The Neonderthaw Project Authors (https://github.com/googlefonts/neonderthaw)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Neonderthaw",
+      "files": [
+        "https://fonts.gstatic.com/s/neonderthaw/v8/Iure6Yx5-oWVZI0r-17AeZZJprVA4XQ0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/neonderthaw/v8/Iure6Yx5-oWVZI0r-17AeZZJprVA4XQ0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Neonderthaw",
+      "files": [
+        "https://fonts.gstatic.com/s/neonderthaw/v8/Iure6Yx5-oWVZI0r-17AeZZMprVA4XQ0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/neonderthaw/v8/Iure6Yx5-oWVZI0r-17AeZZMprVA4XQ0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Neonderthaw",
+      "styles": [
+        {
+          "family_name": "Neonderthaw",
+          "type": "Regular",
+          "full_name": "Neonderthaw Regular",
+          "post_script_name": "Neonderthaw-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014-2021 The Neonderthaw Project Authors (https://github.com/googlefonts/neonderthaw)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Iure6Yx5-oWVZI0r-17AeZZJprVA4XQ0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

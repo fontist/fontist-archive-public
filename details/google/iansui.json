@@ -1,0 +1,58 @@
+{
+  "slug": "google/iansui",
+  "name": "iansui",
+  "description": "Iansui font family",
+  "homepage": "https://fonts.google.com/specimen/Iansui",
+  "copyright": "Copyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Iansui",
+      "files": [
+        "https://fonts.gstatic.com/s/iansui/v8/w8gbH2UoTuUp5bOajSGD1FcXoQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/iansui/v8/w8gbH2UoTuUp5bOajSGD1FcXoQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Iansui",
+      "files": [
+        "https://fonts.gstatic.com/s/iansui/v8/w8gbH2UoTuUp5bOaiCGD1FcXoQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/iansui/v8/w8gbH2UoTuUp5bOaiCGD1FcXoQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Iansui",
+      "styles": [
+        {
+          "family_name": "Iansui",
+          "type": "Regular",
+          "full_name": "Iansui Regular",
+          "post_script_name": "Iansui-Regular",
+          "version": "1.012",
+          "copyright": "Copyright 2025 The Iansui Project Authors (https://github.com/ButTaiwan/iansui)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "w8gbH2UoTuUp5bOajSGD1FcXoQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

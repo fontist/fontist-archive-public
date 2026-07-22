@@ -1,0 +1,66 @@
+{
+  "slug": "google/tilt_neon",
+  "name": "tilt_neon",
+  "description": "Tilt is a family of type inspired by the dimensional lettering found in storefront signage. It’s comprised of three related variable font styles that you might find in a shop window — Tilt Neon, Tilt Prism , and Tilt Warp . All three are based around the same letter model of a sign painter’s geometric sans serif, similar to the typefaces Futura or Avant Garde, but with the kinds of details you might expect to see when the letter is built up with a brush. The three styles are designed and built as variable fonts. They allow users to rotate the orientation of their glyphs with “Rotation in X” and “Rotation in Y” axes. The rotation is limited to ±45° so that the letterforms never rotate past a readable range. To contribute, see github.com/googlefonts/Tilt-Fonts .",
+  "homepage": "https://fonts.google.com/specimen/Tilt+Neon",
+  "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Tilt Neon",
+      "files": [
+        "https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK4WualJ9DS.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK4WualJ9DS.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "XROT",
+        "YROT"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Tilt Neon",
+      "files": [
+        "https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK9WualJ9DS.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiltneon/v12/E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK9WualJ9DS.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "XROT",
+        "YROT"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tilt Neon",
+      "styles": [
+        {
+          "family_name": "Tilt Neon",
+          "type": "Regular",
+          "full_name": "Tilt Neon Regular",
+          "post_script_name": "TiltNeon-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "E21L_d7gguXdwD9LEFY2WCeElCNtd-eBqpHp1TzrkJSmwpj5ndxquXK9WualJ9DS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

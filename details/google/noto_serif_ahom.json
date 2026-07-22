@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_serif_ahom",
+  "name": "noto_serif_ahom",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Ahom is a modulated (“serif”) design for texts in the Southeast Asian Ahom script. It has 76 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Ahom",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ahom)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Serif Ahom",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifahom/v21/FeVIS0hfp6cprmEUffAW_fUL_AN-wuYrPFiwaw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifahom/v21/FeVIS0hfp6cprmEUffAW_fUL_AN-wuYrPFiwaw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Serif Ahom",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifahom/v21/FeVIS0hfp6cprmEUffAW_fUL_AN-x-YrPFiwaw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifahom/v21/FeVIS0hfp6cprmEUffAW_fUL_AN-x-YrPFiwaw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Ahom",
+      "styles": [
+        {
+          "family_name": "Noto Serif Ahom",
+          "type": "Regular",
+          "full_name": "Noto Serif Ahom Regular",
+          "post_script_name": "NotoSerifAhom-Regular",
+          "version": "2.007; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ahom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FeVIS0hfp6cprmEUffAW_fUL_AN-wuYrPFiwaw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

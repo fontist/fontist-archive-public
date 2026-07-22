@@ -1,0 +1,77 @@
+{
+  "slug": "google/inika",
+  "name": "inika",
+  "description": "Inspired by Easter Island and its Rapa Nui language and culture, this typeface captures the essence of an island located in Chile, South America, full of mystery, sacred places and stories of the past. “Inika” means “ink” in the Rapa Nui language, and it represents the tradition of the rongo-rongo writing, used by people on the island thousands of years ago. The tiki style was worked into the characters with a light touch while developing the upper and lowercase letters forms to evoke the spirit of the island. Inika is useful for both long text setting, document titles, and even large display sizes.",
+  "homepage": "https://fonts.google.com/specimen/Inika",
+  "copyright": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Inika",
+      "files": [
+        "https://fonts.gstatic.com/s/inika/v22/rnCm-x5X3QP-phTHRcc2s2XH.ttf",
+        "https://fonts.gstatic.com/s/inika/v22/rnCr-x5X3QP-pix7auM-mHnOSOuk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inika/v22/rnCm-x5X3QP-phTHRcc2s2XH.ttf",
+        "https://fonts.gstatic.com/s/inika/v22/rnCr-x5X3QP-pix7auM-mHnOSOuk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Inika",
+      "files": [
+        "https://fonts.gstatic.com/s/inika/v22/rnCm-x5X3QP-phTCRcc2s2XH.woff2",
+        "https://fonts.gstatic.com/s/inika/v22/rnCr-x5X3QP-pix7auM7mHnOSOuk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inika/v22/rnCm-x5X3QP-phTCRcc2s2XH.woff2",
+        "https://fonts.gstatic.com/s/inika/v22/rnCr-x5X3QP-pix7auM7mHnOSOuk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inika",
+      "styles": [
+        {
+          "family_name": "Inika",
+          "type": "Regular",
+          "full_name": "Inika",
+          "post_script_name": "Inika",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rnCm-x5X3QP-phTHRcc2s2XH.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Inika",
+          "type": "Bold",
+          "full_name": "Inika Bold",
+          "post_script_name": "Inika-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Constanza Artigas Preller. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rnCr-x5X3QP-pix7auM-mHnOSOuk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

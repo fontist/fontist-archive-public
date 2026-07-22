@@ -1,0 +1,336 @@
+{
+  "slug": "google/roboto_mono",
+  "name": "roboto_mono",
+  "description": "Roboto Mono is a monospaced addition to the Roboto type family. Like the other members of the Roboto family, the fonts are optimized for readability on screens across a wide variety of devices and reading environments. While the monospaced version is related to its variable width cousin, it doesn&#8217;t hesitate to change forms to better fit the constraints of a monospaced environment. For example, narrow glyphs like &#8216;I&#8217;, &#8216;l&#8217; and &#8216;i&#8217; have added serifs for more even texture while wider glyphs are adjusted for weight. Curved caps like &#8216;C&#8217; and &#8216;O&#8217; take on the straighter sides from Roboto Condensed. Special consideration is given to glyphs important for reading and writing software source code. Letters with similar shapes are easy to tell apart. Digit &#8216;1&#8217;, lowercase &#8216;l&#8217; and capital &#8216;I&#8217; are easily differentiated as are zero and the letter &#8216;O&#8217;. Punctuation important for code has also been considered. For example, the curly braces &#8216;{&nbsp;}&#8217; have exaggerated points to clearly differentiate them from parenthesis &#8216;(&nbsp;)&#8217; and braces &#8216;[&nbsp;]&#8217;. Periods and commas are also exaggerated to identify them more quickly. The scale and weight of symbols commonly used as operators have also been optimized.",
+  "homepage": "https://fonts.google.com/specimen/Roboto+Mono",
+  "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Roboto Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vuPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_XvqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7PqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2PRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAeW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnAOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5AOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVAOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B-W4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W4AJi8SZwt.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vuPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_XvqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7PqPRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2PRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PRu-5Ip2sSQ.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAeW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnAOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5AOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVAOW4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B-W4AJi8SZwt.woff2",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W4AJi8SZwt.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Roboto Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vuPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_XvqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7PqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2PQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAeW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnAOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5AOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVAOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B-W9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W9AJi8SZwt.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vuPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_XvqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7PqPQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2PQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PQ--5Ip2sSQ.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAeW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnAOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5AOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVAOW9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B-W9AJi8SZwt.ttf",
+        "https://fonts.gstatic.com/s/robotomono/v31/L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W9AJi8SZwt.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Roboto Mono Thin",
+      "styles": [
+        {
+          "family_name": "Roboto Mono Thin",
+          "type": "Regular",
+          "full_name": "Roboto Mono Thin",
+          "post_script_name": "RobotoMono-Thin",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vuPQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono Thin",
+          "type": "Italic",
+          "full_name": "Roboto Mono Thin Italic",
+          "post_script_name": "RobotoMono-ThinItalic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAeW9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roboto Mono ExtraLight",
+      "styles": [
+        {
+          "family_name": "Roboto Mono ExtraLight",
+          "type": "Regular",
+          "full_name": "Roboto Mono ExtraLight",
+          "post_script_name": "RobotoMono-ExtraLight",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_XvqPQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono ExtraLight",
+          "type": "Italic",
+          "full_name": "Roboto Mono ExtraLight Italic",
+          "post_script_name": "RobotoMono-ExtraLightItalic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrnnAOW9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roboto Mono Light",
+      "styles": [
+        {
+          "family_name": "Roboto Mono Light",
+          "type": "Regular",
+          "full_name": "Roboto Mono Light",
+          "post_script_name": "RobotoMono-Light",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono Light",
+          "type": "Italic",
+          "full_name": "Roboto Mono Light Italic",
+          "post_script_name": "RobotoMono-LightItalic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrk5AOW9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roboto Mono",
+      "styles": [
+        {
+          "family_name": "Roboto Mono",
+          "type": "Regular",
+          "full_name": "Roboto Mono Regular",
+          "post_script_name": "RobotoMono-Regular",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono",
+          "type": "Bold",
+          "full_name": "Roboto Mono Bold",
+          "post_script_name": "RobotoMono-Bold",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_Of2PQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono",
+          "type": "Italic",
+          "full_name": "Roboto Mono Italic",
+          "post_script_name": "RobotoMono-Italic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlnAOW9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono",
+          "type": "Bold Italic",
+          "full_name": "Roboto Mono Bold Italic",
+          "post_script_name": "RobotoMono-BoldItalic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrmAB-W9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roboto Mono Medium",
+      "styles": [
+        {
+          "family_name": "Roboto Mono Medium",
+          "type": "Regular",
+          "full_name": "Roboto Mono Medium",
+          "post_script_name": "RobotoMono-Medium",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_7PqPQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono Medium",
+          "type": "Italic",
+          "full_name": "Roboto Mono Medium Italic",
+          "post_script_name": "RobotoMono-MediumItalic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrlVAOW9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roboto Mono SemiBold",
+      "styles": [
+        {
+          "family_name": "Roboto Mono SemiBold",
+          "type": "Regular",
+          "full_name": "Roboto Mono SemiBold",
+          "post_script_name": "RobotoMono-SemiBold",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_AP2PQ--5Ip2sSQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Roboto Mono SemiBold",
+          "type": "Italic",
+          "full_name": "Roboto Mono SemiBold Italic",
+          "post_script_name": "RobotoMono-SemiBoldItalic",
+          "version": "3.001",
+          "copyright": "Copyright 2015 The Roboto Mono Project Authors (https://github.com/googlefonts/robotomono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "L0xoDF4xlVMF-BfR8bXMIjhOsXG-q2oeuFoqFrm5B-W9AJi8SZwt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

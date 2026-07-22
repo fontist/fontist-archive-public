@@ -1,0 +1,58 @@
+{
+  "slug": "google/gasoek_one",
+  "name": "gasoek_one",
+  "description": "When people mention \"Soek\" in South Korea, they will think of the Chinese character. This word gives the impression of being as thick and hard as a stone. Ga means \"to add\" in Korean. So this typeface, Gasoek, is a much thicker typeface than usual typefaces. The thick strokes fill up the embox, but by giving the right angle at the end of stroke to match with Hangeul characteristics, the font has natural counter spaces with good legibility. So, Gasoek is not just a thick font but a font that has a character and gives a unique impression. To contribute, please visit github.com/JAMO-TYPEFACE/Gasoek .",
+  "homepage": "https://fonts.google.com/specimen/Gasoek+One",
+  "copyright": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gasoek One",
+      "files": [
+        "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80zrq_cyb-vco.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80zrq_cyb-vco.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gasoek One",
+      "files": [
+        "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80zr-_cyb-vco.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gasoekone/v3/EJRTQgQ_UMUKvDgnlX80zr-_cyb-vco.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gasoek One",
+      "styles": [
+        {
+          "family_name": "Gasoek One",
+          "type": "Regular",
+          "full_name": "Gasoek One Regular",
+          "post_script_name": "GasoekOne-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.29]",
+          "copyright": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EJRTQgQ_UMUKvDgnlX80zrq_cyb-vco.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

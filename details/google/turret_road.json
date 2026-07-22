@@ -1,0 +1,173 @@
+{
+  "slug": "google/turret_road",
+  "name": "turret_road",
+  "description": "Turret Road is a geometric sans serif typeface, with very low contrast, high x-height, high glyph height, and playful diacritics. Turret Road delves into eugenics, solar evolution, science fiction and homeward conversations. For more information, see its project overview . To contribute, see github.com/noponies/Turret-Road .",
+  "homepage": "https://fonts.google.com/specimen/Turret+Road",
+  "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Turret Road",
+      "files": [
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0ONEdeLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PpEteLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxiAypMgpcBFjE84Zv-fE3tFOvODSVFF.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0OxE9eLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0P5FdeLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PlFteLYk1Mq3ap.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0ONEdeLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PpEteLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxiAypMgpcBFjE84Zv-fE3tFOvODSVFF.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0OxE9eLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0P5FdeLYk1Mq3ap.ttf",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PlFteLYk1Mq3ap.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Turret Road",
+      "files": [
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0ONEdeOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PpEteOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxiAypMgpcBFjE84Zv-fE3tAOvODSVFF.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0OxE9eOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0P5FdeOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PlFteOYk1Mq3ap.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0ONEdeOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PpEteOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxiAypMgpcBFjE84Zv-fE3tAOvODSVFF.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0OxE9eOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0P5FdeOYk1Mq3ap.woff2",
+        "https://fonts.gstatic.com/s/turretroad/v11/pxidypMgpcBFjE84Zv-fE0PlFteOYk1Mq3ap.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Turret Road ExtraLight",
+      "styles": [
+        {
+          "family_name": "Turret Road ExtraLight",
+          "type": "Regular",
+          "full_name": "Turret Road ExtraLight",
+          "post_script_name": "TurretRoad-ExtraLight",
+          "version": "1.001; ttfautohint (v1.8)",
+          "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxidypMgpcBFjE84Zv-fE0ONEdeLYk1Mq3ap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turret Road Light",
+      "styles": [
+        {
+          "family_name": "Turret Road Light",
+          "type": "Regular",
+          "full_name": "Turret Road Light",
+          "post_script_name": "TurretRoad-Light",
+          "version": "1.001; ttfautohint (v1.8)",
+          "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxidypMgpcBFjE84Zv-fE0PpEteLYk1Mq3ap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turret Road",
+      "styles": [
+        {
+          "family_name": "Turret Road",
+          "type": "Regular",
+          "full_name": "Turret Road Regular",
+          "post_script_name": "TurretRoad-Regular",
+          "version": "1.001; ttfautohint (v1.8)",
+          "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxiAypMgpcBFjE84Zv-fE3tFOvODSVFF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Turret Road",
+          "type": "Bold",
+          "full_name": "Turret Road Bold",
+          "post_script_name": "TurretRoad-Bold",
+          "version": "1.001; ttfautohint (v1.8)",
+          "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxidypMgpcBFjE84Zv-fE0P5FdeLYk1Mq3ap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turret Road Medium",
+      "styles": [
+        {
+          "family_name": "Turret Road Medium",
+          "type": "Regular",
+          "full_name": "Turret Road Medium",
+          "post_script_name": "TurretRoad-Medium",
+          "version": "1.001; ttfautohint (v1.8)",
+          "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxidypMgpcBFjE84Zv-fE0OxE9eLYk1Mq3ap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turret Road ExtraBold",
+      "styles": [
+        {
+          "family_name": "Turret Road ExtraBold",
+          "type": "Regular",
+          "full_name": "Turret Road ExtraBold",
+          "post_script_name": "TurretRoad-ExtraBold",
+          "version": "1.001; ttfautohint (v1.8)",
+          "copyright": "Copyright 2018 The Turret Road Project Authors (https://github.com/noponies/turret-road)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxidypMgpcBFjE84Zv-fE0PlFteLYk1Mq3ap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

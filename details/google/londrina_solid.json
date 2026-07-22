@@ -1,0 +1,130 @@
+{
+  "slug": "google/londrina_solid",
+  "name": "londrina_solid",
+  "description": "The Londrina super family is composed of 4 family styles: Londrina Solid, Londrina Shadow , Londrina Outline , and Londrina Sketch . You can combine the main style, Solid, with the others to create different effects. The origins of the Londrina typeface project is in the streets of Sao Paulo, Brazil: Urban confusion. Initially I designed the \"New Folk\" for use in a poster, with only uppercase letters. I saw at the start some potential for a typeface that could recall the feelings of the writing used day-to-day in my city's informal communication, and developed it into a typeface family with lowercases too. This is the Londrina Outline member of the Londrina family. To contribute to the project contact Marcelo Magalhães",
+  "homepage": "https://fonts.google.com/specimen/Londrina+Solid",
+  "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Londrina Solid",
+      "files": [
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUjRq6sw40kQEJxWNgkLuudGfs9KBYesZHhV64.ttf",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfv1CjY0n53oTrcL.ttf",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUhRq6sw40kQEJxWNgkLuudGcNZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfvdDzY0n53oTrcL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUjRq6sw40kQEJxWNgkLuudGfs9KBYesZHhV64.ttf",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfv1CjY0n53oTrcL.ttf",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUhRq6sw40kQEJxWNgkLuudGcNZIhI8tIHh.ttf",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfvdDzY0n53oTrcL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Londrina Solid",
+      "files": [
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUjRq6sw40kQEJxWNgkLuudGfs9KBMesZHhV64.woff2",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfv1CjYxn53oTrcL.woff2",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUhRq6sw40kQEJxWNgkLuudGcNcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfvdDzYxn53oTrcL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUjRq6sw40kQEJxWNgkLuudGfs9KBMesZHhV64.woff2",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfv1CjYxn53oTrcL.woff2",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUhRq6sw40kQEJxWNgkLuudGcNcIhI8tIHh.woff2",
+        "https://fonts.gstatic.com/s/londrinasolid/v19/flUiRq6sw40kQEJxWNgkLuudGfvdDzYxn53oTrcL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Londrina Solid Thin",
+      "styles": [
+        {
+          "family_name": "Londrina Solid Thin",
+          "type": "Regular",
+          "full_name": "Londrina Solid Thin",
+          "post_script_name": "LondrinaSolid-Thin",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUjRq6sw40kQEJxWNgkLuudGfs9KBYesZHhV64.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Londrina Solid Light",
+      "styles": [
+        {
+          "family_name": "Londrina Solid Light",
+          "type": "Regular",
+          "full_name": "Londrina Solid Light",
+          "post_script_name": "LondrinaSolid-Light",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUiRq6sw40kQEJxWNgkLuudGfv1CjY0n53oTrcL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Londrina Solid",
+      "styles": [
+        {
+          "family_name": "Londrina Solid",
+          "type": "Regular",
+          "full_name": "Londrina Solid Regular",
+          "post_script_name": "LondrinaSolid-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUhRq6sw40kQEJxWNgkLuudGcNZIhI8tIHh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Londrina Solid Black",
+      "styles": [
+        {
+          "family_name": "Londrina Solid Black",
+          "type": "Regular",
+          "full_name": "Londrina Solid Black",
+          "post_script_name": "LondrinaSolid-Black",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Londrina Solid Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Solid\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "flUiRq6sw40kQEJxWNgkLuudGfvdDzY0n53oTrcL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

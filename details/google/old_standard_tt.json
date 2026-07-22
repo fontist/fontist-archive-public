@@ -1,0 +1,96 @@
+{
+  "slug": "google/old_standard_tt",
+  "name": "old_standard_tt",
+  "description": "Old Standard reproduces a specific type of Modern (classicist) style of serif typefaces, very commonly used in various editions of the late 19th and early 20th century, but almost completely abandoned later. However, this lettertype still has at least two advantages: it can be considered a good choice for typesetting scientific papers, especially on social and humanitarian sciences, as its specific features are closely associated in people's eyes with old books they learned on; the most beautiful examples of Greek and Cyrillic lettertypes were all based on the classicist style, so for those scripts, \"Modern\" fonts are much more appropriate than any contemporary (e. g. Times-based) designs. The name \"Old Standard\" was selected as opposed to the \"Obyknovennaya Novaya\" (\"New Standard\") typeface, widely used in Soviet typography, which represents another, slightly different type of the same Modern style. Of course this name doesn't look very original, but it seems to be a good choice for a revival of the most common lettertype of the early 20th century.",
+  "homepage": "https://fonts.google.com/specimen/Old+Standard+TT",
+  "copyright": "Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Old Standard TT",
+      "files": [
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVurVC5RHdCZg.ttf",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer1q9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTFxeb80flQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVurVC5RHdCZg.ttf",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer1q9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTFxeb80flQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Old Standard TT",
+      "files": [
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVuqFC5RHdCZg.woff2",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer1q4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dSVxeb80flQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQubh3o1vLImiwAVvYawgcf2eVuqFC5RHdCZg.woff2",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQsbh3o1vLImiwAVvYawgcf2eVer1q4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/oldstandardtt/v22/MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dSVxeb80flQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Old Standard TT",
+      "styles": [
+        {
+          "family_name": "Old Standard TT",
+          "type": "Regular",
+          "full_name": "Old Standard TT Regular",
+          "post_script_name": "OldStandardTT-Regular",
+          "version": "3.000",
+          "copyright": "Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MwQubh3o1vLImiwAVvYawgcf2eVurVC5RHdCZg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Old Standard TT",
+          "type": "Italic",
+          "full_name": "Old Standard TT Italic",
+          "post_script_name": "OldStandardTT-Italic",
+          "version": "3.000",
+          "copyright": "Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MwQsbh3o1vLImiwAVvYawgcf2eVer1q9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Old Standard TT",
+          "type": "Bold",
+          "full_name": "Old Standard TT Bold",
+          "post_script_name": "OldStandardTT-Bold",
+          "version": "3.000",
+          "copyright": "Copyright 2011 The Old Standard Project Authors (amkryukov@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MwQrbh3o1vLImiwAVvYawgcf2eVWEX-dTFxeb80flQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

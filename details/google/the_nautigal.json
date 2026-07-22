@@ -1,0 +1,77 @@
+{
+  "slug": "google/the_nautigal",
+  "name": "the_nautigal",
+  "description": "Inspired by the hand lettering design for a friend’s yacht, this contemporary script style, The Nautigal is fluid yet formal with beautiful connectors. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/the-nautigal .",
+  "homepage": "https://fonts.google.com/specimen/The+Nautigal",
+  "copyright": "Copyright 2013-2021 The The Nautigal Project Authors (https://github.com/googlefonts/the-nautigal)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "The Nautigal",
+      "files": [
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGZAZ8ZH51Lvng9fQV2bfKr5wVk09Se5Q.ttf",
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGGAZ8ZH51Lvng9fQV2bfKTWypA2_-C7LoS7g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGZAZ8ZH51Lvng9fQV2bfKr5wVk09Se5Q.ttf",
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGGAZ8ZH51Lvng9fQV2bfKTWypA2_-C7LoS7g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "The Nautigal",
+      "files": [
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGZAZ8ZH51Lvng9fQV2bfKr4gVk09Se5Q.woff2",
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGGAZ8ZH51Lvng9fQV2bfKTWypA3v-C7LoS7g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGZAZ8ZH51Lvng9fQV2bfKr4gVk09Se5Q.woff2",
+        "https://fonts.gstatic.com/s/thenautigal/v8/VdGGAZ8ZH51Lvng9fQV2bfKTWypA3v-C7LoS7g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "The Nautigal",
+      "styles": [
+        {
+          "family_name": "The Nautigal",
+          "type": "Regular",
+          "full_name": "The Nautigal Regular",
+          "post_script_name": "TheNautigal-Regular",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013-2021 The The Nautigal Project Authors (https://github.com/googlefonts/the-nautigal)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGZAZ8ZH51Lvng9fQV2bfKr5wVk09Se5Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "The Nautigal",
+          "type": "Bold",
+          "full_name": "The Nautigal Bold",
+          "post_script_name": "TheNautigal-Bold",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013-2021 The The Nautigal Project Authors (https://github.com/googlefonts/the-nautigal)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGGAZ8ZH51Lvng9fQV2bfKTWypA2_-C7LoS7g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

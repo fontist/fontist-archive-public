@@ -1,0 +1,58 @@
+{
+  "slug": "google/rhodium_libre",
+  "name": "rhodium_libre",
+  "description": "Rhodium Libre was designed for use on screens at small sizes and the Latin and Devanagari scripts. To that end, the design is generally uncomplicated and coarse, lacking the small details that are lost on screens; this also reduces the file size to improve latency when used as a web font. The letters are designed slightly wide, with open counters, a large x-height in the Latin glyphs, and so on. The Devanagari glyphs are the same height as the Latin capitals to allow them to stand alongside the oversized Latin lowercase. Historical models for Rhodium’s design are Fortune (AKA Volta) by Konrad Bauer and Walter Baum, and Rex by Intertype. Matthew Carter’s Verdana provided insight into designing type for small sizes and adverse reading environments. The Devanagari glyph set supports contemporary Hindi, Marathi, and Nepali. The Latin glyph set supports Adobe’s Latin-3 character set. This project is led by Dunwich Type Founders, a type foundry based in Denver, Colorado, USA, who design contemporary typeface families. To contribute, see github.com/DunwichType/RhodiumLibre",
+  "homepage": "https://fonts.google.com/specimen/Rhodium+Libre",
+  "copyright": "Copyright © 2015 by James Puckett. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rhodium Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/rhodiumlibre/v21/1q2AY5adA0tn_ukeHcQHqpx6pETLeo2gm2U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rhodiumlibre/v21/1q2AY5adA0tn_ukeHcQHqpx6pETLeo2gm2U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rhodium Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/rhodiumlibre/v21/1q2AY5adA0tn_ukeHcQHqpx6pEHLeo2gm2U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rhodiumlibre/v21/1q2AY5adA0tn_ukeHcQHqpx6pEHLeo2gm2U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rhodium Libre",
+      "styles": [
+        {
+          "family_name": "Rhodium Libre",
+          "type": "Regular",
+          "full_name": "Rhodium Libre",
+          "post_script_name": "RhodiumLibre-Regular",
+          "version": "1.001; ttfautohint (v1.3)",
+          "copyright": "Copyright © 2015 by James Puckett. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1q2AY5adA0tn_ukeHcQHqpx6pETLeo2gm2U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_nandinagari",
+  "name": "noto_sans_nandinagari",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Nandinagari is a design for the historical Indic Nandinagari script. It has 676 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Nandinagari",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nandinagari)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Nandinagari",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Nandinagari",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVbpRXzC1KOw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnandinagari/v4/or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVbpRXzC1KOw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Nandinagari",
+      "styles": [
+        {
+          "family_name": "Noto Sans Nandinagari",
+          "type": "Regular",
+          "full_name": "Noto Sans Nandinagari Regular",
+          "post_script_name": "NotoSansNandinagari-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nandinagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "or38Q7733eiDljA1IufXSNFT-1KI5y10H4jVa5RXzC1KOw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

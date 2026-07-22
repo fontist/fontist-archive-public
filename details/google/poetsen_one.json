@@ -1,0 +1,58 @@
+{
+  "slug": "google/poetsen_one",
+  "name": "poetsen_one",
+  "description": "Inspired by the hand painted signs in supermarkets, and the roman structures of the classical alphabets. Poetsen is a display font, but it's not just intended to be used on big 'straight to the eye' titles. Since it has a large x-height, it can be used on short paragraphs in relatively small bodies of text too.",
+  "homepage": "https://fonts.google.com/specimen/Poetsen+One",
+  "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Poetsen.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Poetsen One",
+      "files": [
+        "https://fonts.gstatic.com/s/poetsenone/v3/ke8hOgIaMUB37xCgvCntWtIvq_KREbG9.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poetsenone/v3/ke8hOgIaMUB37xCgvCntWtIvq_KREbG9.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Poetsen One",
+      "files": [
+        "https://fonts.gstatic.com/s/poetsenone/v3/ke8hOgIaMUB37xCgvCntWtIqq_KREbG9.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poetsenone/v3/ke8hOgIaMUB37xCgvCntWtIqq_KREbG9.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "PoetsenOne",
+      "styles": [
+        {
+          "family_name": "PoetsenOne",
+          "type": "Regular",
+          "full_name": "PoetsenOne",
+          "post_script_name": "PoetsenOne-Regular",
+          "version": "1.000; ttfautohint (v0.8) -G 200 -r 50",
+          "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Poetsen.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ke8hOgIaMUB37xCgvCntWtIvq_KREbG9.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

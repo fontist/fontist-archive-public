@@ -1,0 +1,131 @@
+{
+  "slug": "google/edu_nsw_act_foundation",
+  "name": "edu_nsw_act_foundation",
+  "description": "The Foundation Fonts for Australian Schools collection is a set of handwriting fonts designed specifically to meet Australian Education standards. While weights, widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. Each Australian state teaches different handwriting styles in lower primary school (although some states do share the same style). There are essentially three stages involved with each state's styles: The foundational stage involves learning basic letter formation. The transitional stage adds joining ligatures to some letters. The cursive stage joins almost all letters (with some exceptions). The NSW ACT School Fonts include both: New South Wales Foundation Print - a simple sloped print for early primary school. New South Wales Foundation Cursive - transitional joining letter alternates (pre-cursive stage). Students in New South Wales and Australian Capital Territory learn Foundation Print from years 1 to 2 and Beginner Cursive from year 3. Google Workspace users are provided standard versions online, however they may download or build the complete OpenType versions from GitHub for local installations. To download the full version, or to contribute, see github.com/MezMerrit/AU-School-Handwriting-Fonts .",
+  "homepage": "https://fonts.google.com/specimen/Edu+NSW+ACT+Foundation",
+  "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Edu NSW ACT Foundation",
+      "files": [
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9tovGOeC-sfguJ.woff2",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9fovGOeC-sfguJ.woff2",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-zpfGOeC-sfguJ.woff2",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-KpfGOeC-sfguJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9tovGOeC-sfguJ.woff2",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9fovGOeC-sfguJ.woff2",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-zpfGOeC-sfguJ.woff2",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-KpfGOeC-sfguJ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Edu NSW ACT Foundation",
+      "files": [
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9tovGLeC-sfguJ.ttf",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9fovGLeC-sfguJ.ttf",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-zpfGLeC-sfguJ.ttf",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-KpfGLeC-sfguJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9tovGLeC-sfguJ.ttf",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9fovGLeC-sfguJ.ttf",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-zpfGLeC-sfguJ.ttf",
+        "https://fonts.gstatic.com/s/edunswactfoundation/v5/raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-KpfGLeC-sfguJ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Edu NSW ACT Foundation",
+      "styles": [
+        {
+          "family_name": "Edu NSW ACT Foundation",
+          "type": "Regular",
+          "full_name": "Edu NSW ACT Foundation Regular",
+          "post_script_name": "EduNSWACTFoundation-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9tovGLeC-sfguJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Edu NSW ACT Foundation",
+          "type": "Bold",
+          "full_name": "Edu NSW ACT Foundation Bold",
+          "post_script_name": "EduNSWACTFoundation-Bold",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-KpfGLeC-sfguJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edu NSW ACT Foundation Medium",
+      "styles": [
+        {
+          "family_name": "Edu NSW ACT Foundation Medium",
+          "type": "Regular",
+          "full_name": "Edu NSW ACT Foundation Medium",
+          "post_script_name": "EduNSWACTFoundation-Medium",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki9fovGLeC-sfguJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edu NSW ACT Foundation SemiBold",
+      "styles": [
+        {
+          "family_name": "Edu NSW ACT Foundation SemiBold",
+          "type": "Regular",
+          "full_name": "Edu NSW ACT Foundation SemiBold",
+          "post_script_name": "EduNSWACTFoundation-SemiBold",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "raxRHjqJtsNBFUi8WO0vUBgc9D-2lV_oQdCAYlt_QTQ0vUxJki-zpfGLeC-sfguJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

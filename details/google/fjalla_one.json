@@ -1,0 +1,58 @@
+{
+  "slug": "google/fjalla_one",
+  "name": "fjalla_one",
+  "description": "Fjalla One is a medium contrast display sans serif. Fjalla One has been carefully adjusted to the restrictions of the screen. Despite having display characteristics Fjalla One can be used in a wide range of sizes. Latest upgrade from March 2023 expands the Latin script language coverage and improves the overhall horizontal space for a better readability. To contribute, see github.com/SorkinType/FjallaOne .",
+  "homepage": "https://fonts.google.com/specimen/Fjalla+One",
+  "copyright": "Copyright 2012 The Fjalla Project Authors (https://github.com/SorkinType/FjallaOne)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fjalla One",
+      "files": [
+        "https://fonts.gstatic.com/s/fjallaone/v16/Yq6R-LCAWCX3-6Ky7FAFnOZwkxgtUb8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fjallaone/v16/Yq6R-LCAWCX3-6Ky7FAFnOZwkxgtUb8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fjalla One",
+      "files": [
+        "https://fonts.gstatic.com/s/fjallaone/v16/Yq6R-LCAWCX3-6Ky7FAFnONwkxgtUb8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fjallaone/v16/Yq6R-LCAWCX3-6Ky7FAFnONwkxgtUb8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fjalla One",
+      "styles": [
+        {
+          "family_name": "Fjalla One",
+          "type": "Regular",
+          "full_name": "Fjalla One Regular",
+          "post_script_name": "FjallaOne-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.25]",
+          "copyright": "Copyright 2012 The Fjalla Project Authors (https://github.com/SorkinType/FjallaOne)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Yq6R-LCAWCX3-6Ky7FAFnOZwkxgtUb8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

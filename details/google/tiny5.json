@@ -1,0 +1,58 @@
+{
+  "slug": "google/tiny5",
+  "name": "tiny5",
+  "description": "Tiny5 font family",
+  "homepage": "https://fonts.google.com/specimen/Tiny5",
+  "copyright": "Copyright 2024 The tiny5 Project Authors (https://github.com/Gissio/font_tiny5)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiny5",
+      "files": [
+        "https://fonts.gstatic.com/s/tiny5/v3/KFOpCnmCvdGT7hw-z0hHAi88.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiny5/v3/KFOpCnmCvdGT7hw-z0hHAi88.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiny5",
+      "files": [
+        "https://fonts.gstatic.com/s/tiny5/v3/KFOpCnmCvdGT7hw7z0hHAi88.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiny5/v3/KFOpCnmCvdGT7hw7z0hHAi88.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiny5",
+      "styles": [
+        {
+          "family_name": "Tiny5",
+          "type": "Regular",
+          "full_name": "Tiny5 Regular",
+          "post_script_name": "Tiny5-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The tiny5 Project Authors (https://github.com/Gissio/font_tiny5)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "KFOpCnmCvdGT7hw-z0hHAi88.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

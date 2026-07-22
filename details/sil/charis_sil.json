@@ -1,0 +1,65 @@
+{
+  "slug": "sil/charis_sil",
+  "name": "Charis SIL",
+  "description": "Charis SIL",
+  "homepage": "www.sil.org",
+  "copyright": "Copyright (c) SIL International, 1997-2014.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Charis_SIL.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/charis/CharisSIL-5.000.zip",
+        "https://web.archive.org/web/20260505155205/https://software.sil.org/downloads/r/charis/CharisSIL-5.000.zip"
+      ],
+      "sha256": "5e3e5473b30363008c289cc87e2aa584a0916087a63a3f689defa8e0cee09bfd",
+      "file_size": 2967087
+    }
+  },
+  "fonts": [
+    {
+      "name": "Charis SIL",
+      "styles": [
+        {
+          "family_name": "Charis SIL",
+          "type": "Bold",
+          "full_name": "Charis SIL Bold",
+          "post_script_name": "CharisSIL-Bold",
+          "version": "5.000",
+          "copyright": "Copyright (c) SIL International, 1997-2014.",
+          "font": "CharisSIL-B.ttf"
+        },
+        {
+          "family_name": "Charis SIL",
+          "type": "Bold Italic",
+          "full_name": "Charis SIL Bold Italic",
+          "post_script_name": "CharisSIL-BoldItalic",
+          "version": "5.000",
+          "copyright": "Copyright (c) SIL International, 1997-2014.",
+          "font": "CharisSIL-BI.ttf"
+        },
+        {
+          "family_name": "Charis SIL",
+          "type": "Italic",
+          "full_name": "Charis SIL Italic",
+          "post_script_name": "CharisSIL-Italic",
+          "version": "5.000",
+          "copyright": "Copyright (c) SIL International, 1997-2014.",
+          "font": "CharisSIL-I.ttf"
+        },
+        {
+          "family_name": "Charis SIL",
+          "type": "Regular",
+          "full_name": "Charis SIL",
+          "post_script_name": "CharisSIL",
+          "version": "5.000",
+          "copyright": "Copyright (c) SIL International, 1997-2014.",
+          "font": "CharisSIL-R.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

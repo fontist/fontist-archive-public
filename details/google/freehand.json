@@ -1,0 +1,58 @@
+{
+  "slug": "google/freehand",
+  "name": "freehand",
+  "description": "Freehand is a Khmer font for body text. The design is inspired by a popular style of Khmer handwriting letterforms. To contribute, see github.com/danhhong/Freehand .",
+  "homepage": "https://fonts.google.com/specimen/Freehand",
+  "copyright": "Copyright 2020 The Freehand Project Authors (https://github.com/danhhong/Freehand)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Freehand",
+      "files": [
+        "https://fonts.gstatic.com/s/freehand/v34/cIf-Ma5eqk01VjKTgAmBTmUOmZJk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/freehand/v34/cIf-Ma5eqk01VjKTgAmBTmUOmZJk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Freehand",
+      "files": [
+        "https://fonts.gstatic.com/s/freehand/v34/cIf-Ma5eqk01VjKTgAmETmUOmZJk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/freehand/v34/cIf-Ma5eqk01VjKTgAmETmUOmZJk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Freehand",
+      "styles": [
+        {
+          "family_name": "Freehand",
+          "type": "Regular",
+          "full_name": "Freehand Regular",
+          "post_script_name": "Freehand-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Freehand Project Authors (https://github.com/danhhong/Freehand)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cIf-Ma5eqk01VjKTgAmBTmUOmZJk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

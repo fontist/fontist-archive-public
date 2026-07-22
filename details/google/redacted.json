@@ -1,0 +1,58 @@
+{
+  "slug": "google/redacted",
+  "name": "redacted",
+  "description": "Redacted and Redacted Script are suitable for wireframing and rapid prototyping. Designed to be unreadable, it keeps your wireframes free of distracting Lorem Ipsum or other dummy text. To contribute, see github.com/christiannaths/redacted-font . To learn more, read Flow and Redacted: Check out these new options for wireframes and other early-stage designs .",
+  "homepage": "https://fonts.google.com/specimen/Redacted",
+  "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Redacted",
+      "files": [
+        "https://fonts.gstatic.com/s/redacted/v11/Z9XVDmdRShme2O_7aITe4u2El6GC.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redacted/v11/Z9XVDmdRShme2O_7aITe4u2El6GC.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Redacted",
+      "files": [
+        "https://fonts.gstatic.com/s/redacted/v11/Z9XVDmdRShme2O_7aITb4u2El6GC.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redacted/v11/Z9XVDmdRShme2O_7aITb4u2El6GC.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Redacted",
+      "styles": [
+        {
+          "family_name": "Redacted",
+          "type": "Regular",
+          "full_name": "Redacted Regular",
+          "post_script_name": "Redacted-Regular",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The Redacted Project Authors (https://github.com/christiannaths/redacted-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XVDmdRShme2O_7aITe4u2El6GC.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

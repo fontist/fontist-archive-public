@@ -1,0 +1,58 @@
+{
+  "slug": "google/rum_raisin",
+  "name": "rum_raisin",
+  "description": "Rum Raisin draws inspiration from a vintage Kelloggs Raisin Bran cereal box. Taken from a formerly unicase design, this has been developed as a caps/lowercase character set. The original unicase a is in the Delta character slot, as an alternate to a more suitable A. To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Rum+Raisin",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Rum Raisin\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rum Raisin",
+      "files": [
+        "https://fonts.gstatic.com/s/rumraisin/v24/nwpRtKu3Ih8D5avB4h2uJ3-IywA7eMM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rumraisin/v24/nwpRtKu3Ih8D5avB4h2uJ3-IywA7eMM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rum Raisin",
+      "files": [
+        "https://fonts.gstatic.com/s/rumraisin/v24/nwpRtKu3Ih8D5avB4h2uJ3qIywA7eMM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rumraisin/v24/nwpRtKu3Ih8D5avB4h2uJ3qIywA7eMM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rum Raisin",
+      "styles": [
+        {
+          "family_name": "Rum Raisin",
+          "type": "Regular",
+          "full_name": "Rum Raisin",
+          "post_script_name": "RumRaisin-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Rum Raisin\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpRtKu3Ih8D5avB4h2uJ3-IywA7eMM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

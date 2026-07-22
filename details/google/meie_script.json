@@ -1,0 +1,58 @@
+{
+  "slug": "google/meie_script",
+  "name": "meie_script",
+  "description": "Meie Script is a typeface, which is based on the original 1910 Estonian handwriting standard. It is less flamboyant then its Western European contemporaries. Estonian handwriting has been influenced greatly by German and Russian handwriting styles and Meie Script embodies a mixture of those two styles. Designed by Johan Kallas and Mihkel Virkus.",
+  "homepage": "https://fonts.google.com/specimen/Meie+Script",
+  "copyright": "Copyright (c) 2011, 2012 Johan Kallas (johankallas@gmail.com), Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name 'Meie Script'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Meie Script",
+      "files": [
+        "https://fonts.gstatic.com/s/meiescript/v22/_LOImzDK7erRjhunIspaMjxn5IXg0WDz.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/meiescript/v22/_LOImzDK7erRjhunIspaMjxn5IXg0WDz.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Meie Script",
+      "files": [
+        "https://fonts.gstatic.com/s/meiescript/v22/_LOImzDK7erRjhunIspaMjxi5IXg0WDz.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/meiescript/v22/_LOImzDK7erRjhunIspaMjxi5IXg0WDz.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Meie Script",
+      "styles": [
+        {
+          "family_name": "Meie Script",
+          "type": "Regular",
+          "full_name": "Meie Script",
+          "post_script_name": "MeieScript-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, 2012 Johan Kallas (johankallas@gmail.com), Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name 'Meie Script'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_LOImzDK7erRjhunIspaMjxn5IXg0WDz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

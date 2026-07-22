@@ -1,0 +1,58 @@
+{
+  "slug": "google/allerta_stencil",
+  "name": "allerta_stencil",
+  "description": "Allerta is an open source typeface designed for use in signage. Allerta was designed to be easily and quickly read from a distance. Each letter exploits the most unique aspects of that individual letter so that each character can be easily distinguished from any other. Initially published at matt.cc/allerta .",
+  "homepage": "https://fonts.google.com/specimen/Allerta+Stencil",
+  "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Allerta Stencil",
+      "files": [
+        "https://fonts.gstatic.com/s/allertastencil/v24/HTx0L209KT-LmIE9N7OR6eiycOeF-zz313DuvQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allertastencil/v24/HTx0L209KT-LmIE9N7OR6eiycOeF-zz313DuvQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Allerta Stencil",
+      "files": [
+        "https://fonts.gstatic.com/s/allertastencil/v24/HTx0L209KT-LmIE9N7OR6eiycOeF_jz313DuvQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allertastencil/v24/HTx0L209KT-LmIE9N7OR6eiycOeF_jz313DuvQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Allerta Stencil",
+      "styles": [
+        {
+          "family_name": "Allerta Stencil",
+          "type": "Regular",
+          "full_name": "Allerta Stencil Regular",
+          "post_script_name": "AllertaStencil-Regular",
+          "version": "1.02 ",
+          "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HTx0L209KT-LmIE9N7OR6eiycOeF-zz313DuvQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

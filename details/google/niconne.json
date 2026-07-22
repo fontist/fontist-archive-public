@@ -1,0 +1,58 @@
+{
+  "slug": "google/niconne",
+  "name": "niconne",
+  "description": "Nicone is based on the designs of the Stephenson Blake typeface, Madonna, first released in 1925. Madonna itself was based on an earlier face known as 'Bernhard Cursive'. Nicone has been redesigned and shaped to create a new version of the 1925 typeface that can now be used freely as a Libre webfont across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "homepage": "https://fonts.google.com/specimen/Niconne",
+  "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Name Niconne.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Niconne",
+      "files": [
+        "https://fonts.gstatic.com/s/niconne/v16/w8gaH2QvRug1_rTfrQut2F4OuOo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/niconne/v16/w8gaH2QvRug1_rTfrQut2F4OuOo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Niconne",
+      "files": [
+        "https://fonts.gstatic.com/s/niconne/v16/w8gaH2QvRug1_rTfrQ6t2F4OuOo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/niconne/v16/w8gaH2QvRug1_rTfrQ6t2F4OuOo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Niconne",
+      "styles": [
+        {
+          "family_name": "Niconne",
+          "type": "Regular",
+          "full_name": "Niconne",
+          "post_script_name": "Niconne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Name Niconne.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "w8gaH2QvRug1_rTfrQut2F4OuOo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

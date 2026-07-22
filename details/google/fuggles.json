@@ -1,0 +1,58 @@
+{
+  "slug": "google/fuggles",
+  "name": "fuggles",
+  "description": "Take a little Inspiration, mix in some Sassy Frass and a splash of Waterfall; add hundreds of alternate forms and you have the recipe for a versatile handwriting font. This fun, scribbly little font can fool you. At first glance it looks crude and simple. But, with over 1600 glyphs, combine the right character pairs and suddenly Fuggles is a powerful script that can be used for sophisticated commercial design. Some characters are quirky, some are swashy, some are scribbly and others are elegant. Fuggles comes with Latin Character sets including Western, Central, and Vietnamese language support. The name comes from classic English beer brewing, a kind of aroma hop cultivated in 1875 by Mr Richard Fuggle. To contribute, see github.com/googlefonts/fuggles",
+  "homepage": "https://fonts.google.com/specimen/Fuggles",
+  "copyright": "Copyright 2021 The Fuggles Pro Project Authors (https://github.com/googlefonts/fuggles)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fuggles",
+      "files": [
+        "https://fonts.gstatic.com/s/fuggles/v14/k3kQo8UEJOlD1hpOTd7iL0nAMaM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fuggles/v14/k3kQo8UEJOlD1hpOTd7iL0nAMaM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fuggles",
+      "files": [
+        "https://fonts.gstatic.com/s/fuggles/v14/k3kQo8UEJOlD1hpOTdviL0nAMaM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fuggles/v14/k3kQo8UEJOlD1hpOTdviL0nAMaM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fuggles",
+      "styles": [
+        {
+          "family_name": "Fuggles",
+          "type": "Regular",
+          "full_name": "Fuggles Regular",
+          "post_script_name": "Fuggles-Regular",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Fuggles Pro Project Authors (https://github.com/googlefonts/fuggles)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "k3kQo8UEJOlD1hpOTd7iL0nAMaM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

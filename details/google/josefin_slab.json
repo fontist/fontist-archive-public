@@ -1,0 +1,336 @@
+{
+  "slug": "google/josefin_slab",
+  "name": "josefin_slab",
+  "description": "Josefin Slab was the first typeface–at least in my mind–I designed! But I decided to start simple with Josefin Sans. Following the 1930s trend for geometric typefaces, it just came to me that something between Kabel and Memphis with modern details will look great. I wanted to stick to the idea of Scandinavian style, so I put a lot of attention to the diacritics, especially to \"æ\" which has loops connecting in a continuous way, so the \"e\" slope was determined by this character. It also has some typewriter style attributes, because I've liked the Letter Gothic typeface since I was in high school, and that's why I decided to make a Slab version of Josefin Sans.",
+  "homepage": "https://fonts.google.com/specimen/Josefin+Slab",
+  "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Josefin Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09KoKZAyK43w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3w3K6CcEyI.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09KoKZAyK43w.woff2",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09KoKZAyK43w.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Josefin Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09L4KZAyK43w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3k3K6CcEyI.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09L4KZAyK43w.ttf",
+        "https://fonts.gstatic.com/s/josefinslab/v29/lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09L4KZAyK43w.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Josefin Slab Thin",
+      "styles": [
+        {
+          "family_name": "Josefin Slab Thin",
+          "type": "Regular",
+          "full_name": "Josefin Slab Thin",
+          "post_script_name": "JosefinSlab-Thin",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71mtd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab Thin",
+          "type": "Italic",
+          "full_name": "Josefin Slab Thin Italic",
+          "post_script_name": "JosefinSlab-ThinItalic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzs9L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Josefin Slab ExtraLight",
+      "styles": [
+        {
+          "family_name": "Josefin Slab ExtraLight",
+          "type": "Regular",
+          "full_name": "Josefin Slab ExtraLight",
+          "post_script_name": "JosefinSlab-ExtraLight",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W79msd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab ExtraLight",
+          "type": "Italic",
+          "full_name": "Josefin Slab ExtraLight Italic",
+          "post_script_name": "JosefinSlab-ExtraLightItalic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvHzo9L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Josefin Slab Light",
+      "styles": [
+        {
+          "family_name": "Josefin Slab Light",
+          "type": "Regular",
+          "full_name": "Josefin Slab Light",
+          "post_script_name": "JosefinSlab-Light",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W7wesd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab Light",
+          "type": "Italic",
+          "full_name": "Josefin Slab Light Italic",
+          "post_script_name": "JosefinSlab-LightItalic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvwTo9L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Josefin Slab",
+      "styles": [
+        {
+          "family_name": "Josefin Slab",
+          "type": "Regular",
+          "full_name": "Josefin Slab Regular",
+          "post_script_name": "JosefinSlab-Regular",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W71msd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab",
+          "type": "Bold",
+          "full_name": "Josefin Slab Bold",
+          "post_script_name": "JosefinSlab-Bold",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W776rd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab",
+          "type": "Italic",
+          "full_name": "Josefin Slab Italic",
+          "post_script_name": "JosefinSlab-Italic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvnzo9L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab",
+          "type": "Bold Italic",
+          "full_name": "Josefin Slab Bold Italic",
+          "post_script_name": "JosefinSlab-BoldItalic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHveD09L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Josefin Slab Medium",
+      "styles": [
+        {
+          "family_name": "Josefin Slab Medium",
+          "type": "Regular",
+          "full_name": "Josefin Slab Medium",
+          "post_script_name": "JosefinSlab-Medium",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W72usd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab Medium",
+          "type": "Italic",
+          "full_name": "Josefin Slab Medium Italic",
+          "post_script_name": "JosefinSlab-MediumItalic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvrTo9L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Josefin Slab SemiBold",
+      "styles": [
+        {
+          "family_name": "Josefin Slab SemiBold",
+          "type": "Regular",
+          "full_name": "Josefin Slab SemiBold",
+          "post_script_name": "JosefinSlab-SemiBold",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-swjwOK3Ps5GSJlNNkMalNpiZe_ldbOR4W74erd3k3K6CcEyI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Josefin Slab SemiBold",
+          "type": "Italic",
+          "full_name": "Josefin Slab SemiBold Italic",
+          "post_script_name": "JosefinSlab-SemiBoldItalic",
+          "version": "2.100",
+          "copyright": "Copyright 2020 The Josefin Slab Project Authors (https://github.com/googlefonts/josefinslab/), with Reserved Font Name Josefin.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "lW-qwjwOK3Ps5GSJlNNkMalnrxShJj4wo7AR-pHvQT09L4KZAyK43w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/trade_winds",
+  "name": "trade_winds",
+  "description": "Ahoy, matey! Prepare to set sail on the high seas! Let TradeWinds guide you to exotic ports of call where your next adventure begins. This breezy font by Squid and Sideshow will blow you away!",
+  "homepage": "https://fonts.google.com/specimen/Trade+Winds",
+  "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Trade Winds\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Trade Winds",
+      "files": [
+        "https://fonts.gstatic.com/s/tradewinds/v18/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tradewinds/v18/AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Trade Winds",
+      "files": [
+        "https://fonts.gstatic.com/s/tradewinds/v18/AYCPpXPpYNIIT7h8-QenM3Jv7PKP5Z_G.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tradewinds/v18/AYCPpXPpYNIIT7h8-QenM3Jv7PKP5Z_G.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Trade Winds",
+      "styles": [
+        {
+          "family_name": "Trade Winds",
+          "type": "Regular",
+          "full_name": "Trade Winds",
+          "post_script_name": "TradeWinds",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Trade Winds\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCPpXPpYNIIT7h8-QenM3Jq7PKP5Z_G.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

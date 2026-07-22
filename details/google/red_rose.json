@@ -1,0 +1,155 @@
+{
+  "slug": "google/red_rose",
+  "name": "red_rose",
+  "description": "Red Rose Pro is a latin display typeface designed by Jaikishan Patel. It was exclusively designed for posters of Genre: Love, Romance, Drama, Thriller, Noir and Passion. The current version of the family includes 3 weights; Light, Regular and Bold. Each font includes 640 glyphs that covers Western, Central and South Latin as well as Vietnamese. To contribute, see github.com/magictype/redrose",
+  "homepage": "https://fonts.google.com/specimen/Red+Rose",
+  "copyright": "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Red Rose",
+      "files": [
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yn_sDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8ySvwDdzSsYUVUjg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yn_sDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDdzSsYUVUjg.woff2",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8ySvwDdzSsYUVUjg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Red Rose",
+      "files": [
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yn_sDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8ySvwDcjSsYUVUjg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yn_sDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDcjSsYUVUjg.ttf",
+        "https://fonts.gstatic.com/s/redrose/v25/QdVISTYiLBjouPgEUajvsfWwDtc3MH8ySvwDcjSsYUVUjg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Red Rose Light",
+      "styles": [
+        {
+          "family_name": "Red Rose Light",
+          "type": "Regular",
+          "full_name": "Red Rose Light",
+          "post_script_name": "RedRose-Light",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QdVISTYiLBjouPgEUajvsfWwDtc3MH8y8_sDcjSsYUVUjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Rose",
+      "styles": [
+        {
+          "family_name": "Red Rose",
+          "type": "Regular",
+          "full_name": "Red Rose Regular",
+          "post_script_name": "RedRose-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QdVISTYiLBjouPgEUajvsfWwDtc3MH8yrfsDcjSsYUVUjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Rose",
+          "type": "Bold",
+          "full_name": "Red Rose Bold",
+          "post_script_name": "RedRose-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QdVISTYiLBjouPgEUajvsfWwDtc3MH8ySvwDcjSsYUVUjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Rose Medium",
+      "styles": [
+        {
+          "family_name": "Red Rose Medium",
+          "type": "Regular",
+          "full_name": "Red Rose Medium",
+          "post_script_name": "RedRose-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QdVISTYiLBjouPgEUajvsfWwDtc3MH8yn_sDcjSsYUVUjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Rose SemiBold",
+      "styles": [
+        {
+          "family_name": "Red Rose SemiBold",
+          "type": "Regular",
+          "full_name": "Red Rose SemiBold",
+          "post_script_name": "RedRose-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2018 The Red Rose Project Authors (https://github.com/magictype/redrose)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QdVISTYiLBjouPgEUajvsfWwDtc3MH8yc_wDcjSsYUVUjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

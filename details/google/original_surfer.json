@@ -1,0 +1,58 @@
+{
+  "slug": "google/original_surfer",
+  "name": "original_surfer",
+  "description": "Original Surfer is an offbeat sans serif font with loads of personality. Inspired by a vintage advertisement for the \"California Cliffs Caravan Park\", this font exudes all of the fun of a summer vacation anytime of the year. The letterforms are clear and cleanly legible, while nothing is formal or uptight about this font.",
+  "homepage": "https://fonts.google.com/specimen/Original+Surfer",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Original Surfer\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Original Surfer",
+      "files": [
+        "https://fonts.gstatic.com/s/originalsurfer/v25/RWmQoKGZ9vIirYntXJ3_MbekzNMiDEtvAlaMKw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/originalsurfer/v25/RWmQoKGZ9vIirYntXJ3_MbekzNMiDEtvAlaMKw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Original Surfer",
+      "files": [
+        "https://fonts.gstatic.com/s/originalsurfer/v25/RWmQoKGZ9vIirYntXJ3_MbekzNMiCUtvAlaMKw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/originalsurfer/v25/RWmQoKGZ9vIirYntXJ3_MbekzNMiCUtvAlaMKw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Original Surfer",
+      "styles": [
+        {
+          "family_name": "Original Surfer",
+          "type": "Regular",
+          "full_name": "Original Surfer",
+          "post_script_name": "OriginalSurfer-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Original Surfer\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RWmQoKGZ9vIirYntXJ3_MbekzNMiDEtvAlaMKw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

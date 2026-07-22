@@ -1,0 +1,58 @@
+{
+  "slug": "google/italianno",
+  "name": "italianno",
+  "description": "Italianno is an elegant, calligraphic script. It's clean connecting strokes distinguish itself from other classic forms which makes it perfect for invitations, scrap-booking, and packaging. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/italianno .",
+  "homepage": "https://fonts.google.com/specimen/Italianno",
+  "copyright": "Copyright 2009 The Italianno Project Authors (https://github.com/googlefonts/italianno)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Italianno",
+      "files": [
+        "https://fonts.gstatic.com/s/italianno/v18/dg4n_p3sv6gCJkwzT6Rnj5YpQwM-gg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/italianno/v18/dg4n_p3sv6gCJkwzT6Rnj5YpQwM-gg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Italianno",
+      "files": [
+        "https://fonts.gstatic.com/s/italianno/v18/dg4n_p3sv6gCJkwzT6RnipYpQwM-gg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/italianno/v18/dg4n_p3sv6gCJkwzT6RnipYpQwM-gg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Italianno",
+      "styles": [
+        {
+          "family_name": "Italianno",
+          "type": "Regular",
+          "full_name": "Italianno Regular",
+          "post_script_name": "Italianno-Regular",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2009 The Italianno Project Authors (https://github.com/googlefonts/italianno)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "dg4n_p3sv6gCJkwzT6Rnj5YpQwM-gg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

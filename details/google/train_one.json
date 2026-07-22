@@ -1,0 +1,58 @@
+{
+  "slug": "google/train_one",
+  "name": "train_one",
+  "description": "Train is a gothic-style typeface made with an outer and inner line. It is open and vibrant, and its strong first impression makes it suitable for logos and titles. It is distributed under the name \"Railway\" in Japan by FontWorks. To contribute to the project, visit github.com/fontworks-fonts/Train",
+  "homepage": "https://fonts.google.com/specimen/Train+One",
+  "copyright": "Copyright 2020 The Train Project Authors (https://github.com/fontworks-fonts/Train/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Train One",
+      "files": [
+        "https://fonts.gstatic.com/s/trainone/v16/gyB-hwkiNtc6KnxUVjWHOqbZRY7JVQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trainone/v16/gyB-hwkiNtc6KnxUVjWHOqbZRY7JVQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Train One",
+      "files": [
+        "https://fonts.gstatic.com/s/trainone/v16/gyB-hwkiNtc6KnxUVjWHP6bZRY7JVQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trainone/v16/gyB-hwkiNtc6KnxUVjWHP6bZRY7JVQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Train One",
+      "styles": [
+        {
+          "family_name": "Train One",
+          "type": "Regular",
+          "full_name": "Train One Regular",
+          "post_script_name": "TrainOne-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Train Project Authors (https://github.com/fontworks-fonts/Train/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gyB-hwkiNtc6KnxUVjWHOqbZRY7JVQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

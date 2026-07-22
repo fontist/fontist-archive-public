@@ -1,0 +1,77 @@
+{
+  "slug": "google/rufina",
+  "name": "rufina",
+  "description": "Rufina combines features of several typographic styles with Bodoni forms found in the calligraphy of flexible tip pens. High contrast enables it to work well in text and headlines. To contribute to the project contact Martin Sommaruga .",
+  "homepage": "https://fonts.google.com/specimen/Rufina",
+  "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rufina'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rufina",
+      "files": [
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6V-LyURyLy-aKyoxRktOdClg.ttf",
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6W-LyURyLy-aKKHztAvMxenxE0SA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6V-LyURyLy-aKyoxRktOdClg.ttf",
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6W-LyURyLy-aKKHztAvMxenxE0SA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rufina",
+      "files": [
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6V-LyURyLy-aKyphRktOdClg.woff2",
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6W-LyURyLy-aKKHztAucxenxE0SA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6V-LyURyLy-aKyphRktOdClg.woff2",
+        "https://fonts.gstatic.com/s/rufina/v17/Yq6W-LyURyLy-aKKHztAucxenxE0SA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rufina",
+      "styles": [
+        {
+          "family_name": "Rufina",
+          "type": "Regular",
+          "full_name": "Rufina",
+          "post_script_name": "Rufina-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rufina'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Yq6V-LyURyLy-aKyoxRktOdClg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rufina",
+          "type": "Bold",
+          "full_name": "Rufina Bold",
+          "post_script_name": "Rufina-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rufina'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Yq6W-LyURyLy-aKKHztAvMxenxE0SA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/graduate",
+  "name": "graduate",
+  "description": "\"Graduate\" showcases a high-quality rendition of the classic college block style of lettering commonly seen across campuses throughout the USA. To contribute, visit github.com/etunni/graduate .",
+  "homepage": "https://fonts.google.com/specimen/Graduate",
+  "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Graduate\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Graduate",
+      "files": [
+        "https://fonts.gstatic.com/s/graduate/v19/C8cg4cs3o2n15t_2YxgR6X2NZAn2.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/graduate/v19/C8cg4cs3o2n15t_2YxgR6X2NZAn2.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Graduate",
+      "files": [
+        "https://fonts.gstatic.com/s/graduate/v19/C8cg4cs3o2n15t_2YxgU6X2NZAn2.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/graduate/v19/C8cg4cs3o2n15t_2YxgU6X2NZAn2.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Graduate",
+      "styles": [
+        {
+          "family_name": "Graduate",
+          "type": "Regular",
+          "full_name": "Graduate",
+          "post_script_name": "Graduate-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Graduate\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "C8cg4cs3o2n15t_2YxgR6X2NZAn2.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

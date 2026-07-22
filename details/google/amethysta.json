@@ -1,0 +1,58 @@
+{
+  "slug": "google/amethysta",
+  "name": "amethysta",
+  "description": "Amethysta was designed by Konstantin Vinogradov with the purpose of printing on low quality paper in mind. This is why it has such minimalistic wedge serifs and terminals. It builds the impression of a simple and strong text typeface. In terms of proportions it is closely related to the transitional serif group. Amethysta is suitable for small to medium sizes, while some details will be noticeable at larger sizes. It also will work well in print.",
+  "homepage": "https://fonts.google.com/specimen/Amethysta",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Amethysta\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Amethysta",
+      "files": [
+        "https://fonts.gstatic.com/s/amethysta/v17/rP2Fp2K15kgb_F3ibfWIGDWCBl0O8Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amethysta/v17/rP2Fp2K15kgb_F3ibfWIGDWCBl0O8Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Amethysta",
+      "files": [
+        "https://fonts.gstatic.com/s/amethysta/v17/rP2Fp2K15kgb_F3ibfWIHTWCBl0O8Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amethysta/v17/rP2Fp2K15kgb_F3ibfWIHTWCBl0O8Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Amethysta",
+      "styles": [
+        {
+          "family_name": "Amethysta",
+          "type": "Regular",
+          "full_name": "Amethysta Regular",
+          "post_script_name": "Amethysta-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Amethysta\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Amethysta\".\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rP2Fp2K15kgb_F3ibfWIGDWCBl0O8Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

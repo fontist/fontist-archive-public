@@ -1,0 +1,58 @@
+{
+  "slug": "google/montez",
+  "name": "montez",
+  "description": "Montezuma is a script font which draws inspiration from 1960s beauty product ads. Its sweeping strokes lend to a feel of joy and elegance, making it ideal for display uses that require a little drama, \"joie de vivre\" or Joy of Life. Best settings are at medium to large text sizes for optimal readability.",
+  "homepage": "https://fonts.google.com/specimen/Montez",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Montez",
+      "files": [
+        "https://fonts.gstatic.com/s/montez/v25/845ZNMk5GoGIX8lm1LDeSd-R_g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/montez/v25/845ZNMk5GoGIX8lm1LDeSd-R_g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Montez",
+      "files": [
+        "https://fonts.gstatic.com/s/montez/v25/845ZNMk5GoGIX8lm0bDeSd-R_g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/montez/v25/845ZNMk5GoGIX8lm0bDeSd-R_g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Montez",
+      "styles": [
+        {
+          "family_name": "Montez",
+          "type": "Regular",
+          "full_name": "Montez Regular",
+          "post_script_name": "Montez-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "845ZNMk5GoGIX8lm1LDeSd-R_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

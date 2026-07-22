@@ -1,0 +1,58 @@
+{
+  "slug": "google/chilanka",
+  "name": "chilanka",
+  "description": "Chilanka is Malayalam handwriting style font designed by Santhosh Thottingal. It follows the common style one can see in everyday handwriting of Malayalam. It has a comprehensive Malayalam glyph set that contains most of the unique Malayalam conjuncts. To contribute, see gitlab.com/smc/fonts/chilanka .",
+  "homepage": "https://fonts.google.com/specimen/Chilanka",
+  "copyright": "Copyright 2020 The Chilanka Project Authors (https://gitlab.com/smc/fonts/chilanka)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chilanka",
+      "files": [
+        "https://fonts.gstatic.com/s/chilanka/v23/WWXRlj2DZQiMJYaYRrJQI9EAZhTO.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chilanka/v23/WWXRlj2DZQiMJYaYRrJQI9EAZhTO.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chilanka",
+      "files": [
+        "https://fonts.gstatic.com/s/chilanka/v23/WWXRlj2DZQiMJYaYRrJVI9EAZhTO.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chilanka/v23/WWXRlj2DZQiMJYaYRrJVI9EAZhTO.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chilanka",
+      "styles": [
+        {
+          "family_name": "Chilanka",
+          "type": "Regular",
+          "full_name": "Chilanka Regular",
+          "post_script_name": "Chilanka-Regular",
+          "version": "1.600",
+          "copyright": "Copyright 2020 The Chilanka Project Authors (https://gitlab.com/smc/fonts/chilanka)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WWXRlj2DZQiMJYaYRrJQI9EAZhTO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

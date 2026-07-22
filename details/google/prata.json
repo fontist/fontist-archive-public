@@ -1,0 +1,58 @@
+{
+  "slug": "google/prata",
+  "name": "prata",
+  "description": "Prata is an elegant Didone typeface with sharp features and organic teardrops. There is a certain tension in the contrast of its virile serifs and soft refined curves. Its triangular serifs complement and accent the thin strokes, and the high contrast means it will work best in display sizes. Designed by Ivan Petrov for Cyreal.",
+  "homepage": "https://fonts.google.com/specimen/Prata",
+  "copyright": "Copyright 2011 The Prata Project Authors (contact@cyreal.org)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Prata",
+      "files": [
+        "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-vWIAG_5LWwJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-vWIAG_5LWwJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Prata",
+      "files": [
+        "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-vWNAG_5LWwJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/prata/v22/6xKhdSpbNNCT-vWNAG_5LWwJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Prata",
+      "styles": [
+        {
+          "family_name": "Prata",
+          "type": "Regular",
+          "full_name": "Prata Regular",
+          "post_script_name": "Prata-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2011 The Prata Project Authors (contact@cyreal.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6xKhdSpbNNCT-vWIAG_5LWwJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

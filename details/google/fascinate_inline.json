@@ -1,0 +1,58 @@
+{
+  "slug": "google/fascinate_inline",
+  "name": "fascinate_inline",
+  "description": "Fascinate and Fascinate Inline are nods to Art Deco yesteryear and typefaces like Broadway, yet they have an exaggerated x-height and softness that give them a friendly yet sophisticated vibe. Even with their high contrast weighting, the Fascinate family is cleanly legible at small sizes, although the Inline version is better visible at larger display sizes.",
+  "homepage": "https://fonts.google.com/specimen/Fascinate+Inline",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fascinate Inline\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fascinate Inline",
+      "files": [
+        "https://fonts.gstatic.com/s/fascinateinline/v24/jVyR7mzzB3zc-jp6QCAu60poNqIy1g3CfRXxWZQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fascinateinline/v24/jVyR7mzzB3zc-jp6QCAu60poNqIy1g3CfRXxWZQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fascinate Inline",
+      "files": [
+        "https://fonts.gstatic.com/s/fascinateinline/v24/jVyR7mzzB3zc-jp6QCAu60poNqIy1gjCfRXxWZQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fascinateinline/v24/jVyR7mzzB3zc-jp6QCAu60poNqIy1gjCfRXxWZQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fascinate Inline",
+      "styles": [
+        {
+          "family_name": "Fascinate Inline",
+          "type": "Regular",
+          "full_name": "Fascinate Inline",
+          "post_script_name": "FascinateInline-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fascinate Inline\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jVyR7mzzB3zc-jp6QCAu60poNqIy1g3CfRXxWZQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

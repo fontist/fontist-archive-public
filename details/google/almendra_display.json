@@ -1,0 +1,58 @@
+{
+  "slug": "google/almendra_display",
+  "name": "almendra_display",
+  "description": "Almendra is a typeface design based on calligraphy. Its style is related to the chancery and gothic hands. It is intended to be used in long texts, especially young children's literature. Almendra's black and white forms generate a nice texture in small sizes, while its many details appear when given the opportunity in huge sizes. The main challenge was to make compatible dialectic elements, especially balancing legibility and formal identity. Almendra was selected to be exhibited at the Bienal Iberoamericana de Diseno in 2010 and was part of the German editorial project Typodarium 2012. This is the Display family, and there are sister Regular and Small Cap families.",
+  "homepage": "https://fonts.google.com/specimen/Almendra+Display",
+  "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Almendra Display",
+      "files": [
+        "https://fonts.gstatic.com/s/almendradisplay/v33/0FlPVOGWl1Sb4O3tETtADHRRlZhzXS_eTyer338.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almendradisplay/v33/0FlPVOGWl1Sb4O3tETtADHRRlZhzXS_eTyer338.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Almendra Display",
+      "files": [
+        "https://fonts.gstatic.com/s/almendradisplay/v33/0FlPVOGWl1Sb4O3tETtADHRRlZhzXSreTyer338.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almendradisplay/v33/0FlPVOGWl1Sb4O3tETtADHRRlZhzXSreTyer338.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Almendra Display",
+      "styles": [
+        {
+          "family_name": "Almendra Display",
+          "type": "Regular",
+          "full_name": "Almendra Display Regular",
+          "post_script_name": "AlmendraDisplay-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlPVOGWl1Sb4O3tETtADHRRlZhzXS_eTyer338.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

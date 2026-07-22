@@ -1,0 +1,58 @@
+{
+  "slug": "google/londrina_sketch",
+  "name": "londrina_sketch",
+  "description": "The Londrina super family is composed of 4 family styles: Londrina Solid , Londrina Shadow , Londrina Outline , and Londrina Sketch. You can combine the main style, Solid, with the others to create different effects. The origins of the Londrina typeface project is in the streets of Sao Paulo, Brazil: Urban confusion. Initially I designed the \"New Folk\" for use in a poster, with only uppercase letters. I saw at the start some potential for a typeface that could recall the feelings of the writing used day-to-day in my city's informal communication, and developed it into a typeface family with lowercases too. This is the Londrina Outline member of the Londrina family. To contribute to the project contact Marcelo Magalhães",
+  "homepage": "https://fonts.google.com/specimen/Londrina+Sketch",
+  "copyright": "Copyright 2011 The Londrina Sketch Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Sketch\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Londrina Sketch",
+      "files": [
+        "https://fonts.gstatic.com/s/londrinasketch/v27/c4m41npxGMTnomOHtRU68eIJn8qfWWn5Pos6CA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/londrinasketch/v27/c4m41npxGMTnomOHtRU68eIJn8qfWWn5Pos6CA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Londrina Sketch",
+      "files": [
+        "https://fonts.gstatic.com/s/londrinasketch/v27/c4m41npxGMTnomOHtRU68eIJn8qfXGn5Pos6CA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/londrinasketch/v27/c4m41npxGMTnomOHtRU68eIJn8qfXGn5Pos6CA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Londrina Sketch",
+      "styles": [
+        {
+          "family_name": "Londrina Sketch",
+          "type": "Regular",
+          "full_name": "Londrina Sketch Regular",
+          "post_script_name": "LondrinaSketch-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Londrina Sketch Authors (https://github.com/marcelommp/Londrina-Typeface), with Reserved Font Name \"Londrina Sketch\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "c4m41npxGMTnomOHtRU68eIJn8qfWWn5Pos6CA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

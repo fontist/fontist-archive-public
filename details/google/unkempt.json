@@ -1,0 +1,77 @@
+{
+  "slug": "google/unkempt",
+  "name": "unkempt",
+  "description": "Unkempt is lacking in order and neatness, and began with hand-lettering. This off-kilter gem is definitely different than a traditional regimented typeface.",
+  "homepage": "https://fonts.google.com/specimen/Unkempt",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Unkempt",
+      "files": [
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbnL-Z2DFZue0DSSYYf8z2Yt_c.ttf",
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbiL-Z2DFZue0DScTow1zWzq_5uT84.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbnL-Z2DFZue0DSSYYf8z2Yt_c.ttf",
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbiL-Z2DFZue0DScTow1zWzq_5uT84.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Unkempt",
+      "files": [
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbnL-Z2DFZue0DSSYMf8z2Yt_c.woff2",
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbiL-Z2DFZue0DScTow1zCzq_5uT84.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbnL-Z2DFZue0DSSYMf8z2Yt_c.woff2",
+        "https://fonts.gstatic.com/s/unkempt/v22/2EbiL-Z2DFZue0DScTow1zCzq_5uT84.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Unkempt",
+      "styles": [
+        {
+          "family_name": "Unkempt",
+          "type": "Regular",
+          "full_name": "Unkempt Regular",
+          "post_script_name": "Unkempt-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "2EbnL-Z2DFZue0DSSYYf8z2Yt_c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Unkempt",
+          "type": "Bold",
+          "full_name": "Unkempt Bold",
+          "post_script_name": "Unkempt-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Unkempt Bold\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2EbiL-Z2DFZue0DScTow1zWzq_5uT84.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

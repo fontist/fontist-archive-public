@@ -1,0 +1,58 @@
+{
+  "slug": "google/special_gothic_expanded_one",
+  "name": "special_gothic_expanded_one",
+  "description": "Special Gothic Expanded One font family",
+  "homepage": "https://fonts.google.com/specimen/Special+Gothic+Expanded+One",
+  "copyright": "Copyright 2022 The Special-Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Special Gothic Expanded One",
+      "files": [
+        "https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5gn5t-KhUVvQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5gn5t-KhUVvQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Special Gothic Expanded One",
+      "files": [
+        "https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5gmpt-KhUVvQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialgothicexpandedone/v2/IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5gmpt-KhUVvQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Special Gothic Expanded One",
+      "styles": [
+        {
+          "family_name": "Special Gothic Expanded One",
+          "type": "Regular",
+          "full_name": "Special Gothic Expanded One Regular",
+          "post_script_name": "SpecialGothicExpandedOne-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Special-Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "IurO6Zxk74-YaYk1r3HOet4g75ENmBxUmOK61tA0Iu5gn5t-KhUVvQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

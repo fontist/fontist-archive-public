@@ -1,0 +1,58 @@
+{
+  "slug": "google/cherry_bomb_one",
+  "name": "cherry_bomb_one",
+  "description": "Satsuyako first released the kana font CherryBomb in 2012 with the concept, \"Cute with a kick.\" Its round and modern bounciness has made it appealing for diverse use from title logos and food packaging to children' s magazines. To publish on Google Fonts, the designer adjusted the outline and balance of all the letters, added symbols and Latin glyphs, and made it into a proportional font that could also be used in the vertical writing style. To contribute to the project, visit github.com/satsuyako/CherryBomb",
+  "homepage": "https://fonts.google.com/specimen/Cherry+Bomb+One",
+  "copyright": "Copyright 2019 The Cherry Bomb Project Authors (https://github.com/satsuyako/CherryBomb)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cherry Bomb One",
+      "files": [
+        "https://fonts.gstatic.com/s/cherrybombone/v11/y83DW4od1h6KlV3c6JJhRhGOdhrKDNpF41fr-w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherrybombone/v11/y83DW4od1h6KlV3c6JJhRhGOdhrKDNpF41fr-w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cherry Bomb One",
+      "files": [
+        "https://fonts.gstatic.com/s/cherrybombone/v11/y83DW4od1h6KlV3c6JJhRhGOdhrKCdpF41fr-w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherrybombone/v11/y83DW4od1h6KlV3c6JJhRhGOdhrKCdpF41fr-w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cherry Bomb One",
+      "styles": [
+        {
+          "family_name": "Cherry Bomb One",
+          "type": "Regular",
+          "full_name": "Cherry Bomb One Regular",
+          "post_script_name": "CherryBombOne-Regular",
+          "version": "4.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Cherry Bomb Project Authors (https://github.com/satsuyako/CherryBomb)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "y83DW4od1h6KlV3c6JJhRhGOdhrKDNpF41fr-w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,422 @@
+{
+  "slug": "google/genos",
+  "name": "genos",
+  "description": "Genos is a modern display font with a futuristic feel. Within the Genos family are fourteen variations ranging from Thin to Black. Whether it be futuristic, industrial, or technical, Genos may be what you're looking for. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/genos .",
+  "homepage": "https://fonts.google.com/specimen/Genos",
+  "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Genos",
+      "files": [
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqknoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKkjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwV9EjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVmEjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVdE_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVTU_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKk_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVA0_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA70i7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgte7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsy7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgve6Ui7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgvn6Ui7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Ui7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgup6Ui7CbN8Ard7.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqknoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKkjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwV9EjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVmEjoqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVdE_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVTU_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKk_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVA0_oqEK6K7ZsAg.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA70i7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgte7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsy7ki7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgve6Ui7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgvn6Ui7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Ui7CbN8Ard7.woff2",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgup6Ui7CbN8Ard7.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Genos",
+      "files": [
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqknorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKkjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwV9EjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVmEjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVdE_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVTU_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKk_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVA0_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA70i-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgte7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsy7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgve6Ui-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgvn6Ui-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Ui-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgup6Ui-CbN8Ard7.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqknorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKkjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwV9EjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVmEjorUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVdE_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVTU_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVKk_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGNmQqPqpUOYTYjacb0Hc91fTwVA0_orUK6K7ZsAg.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA70i-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgte7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsy7ki-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgve6Ui-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgvn6Ui-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Ui-CbN8Ard7.ttf",
+        "https://fonts.gstatic.com/s/genos/v16/SlGPmQqPqpUOYRwqWzksdKTv0zsAYgup6Ui-CbN8Ard7.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Genos Thin",
+      "styles": [
+        {
+          "family_name": "Genos Thin",
+          "type": "Regular",
+          "full_name": "Genos Thin",
+          "post_script_name": "Genos-Thin",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVqknorUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos Thin",
+          "type": "Italic",
+          "full_name": "Genos Thin Italic",
+          "post_script_name": "Genos-ThinItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA70i-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos ExtraLight",
+      "styles": [
+        {
+          "family_name": "Genos ExtraLight",
+          "type": "Regular",
+          "full_name": "Genos ExtraLight",
+          "post_script_name": "Genos-ExtraLight",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVKkjorUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos ExtraLight",
+          "type": "Italic",
+          "full_name": "Genos ExtraLight Italic",
+          "post_script_name": "Genos-ExtraLightItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA7ki-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos Light",
+      "styles": [
+        {
+          "family_name": "Genos Light",
+          "type": "Regular",
+          "full_name": "Genos Light",
+          "post_script_name": "Genos-Light",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwV9EjorUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos Light",
+          "type": "Italic",
+          "full_name": "Genos Light Italic",
+          "post_script_name": "Genos-LightItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgte7ki-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos",
+      "styles": [
+        {
+          "family_name": "Genos",
+          "type": "Regular",
+          "full_name": "Genos Regular",
+          "post_script_name": "Genos-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVqkjorUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos",
+          "type": "Bold",
+          "full_name": "Genos Bold",
+          "post_script_name": "Genos-Bold",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVTU_orUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos",
+          "type": "Italic",
+          "full_name": "Genos Italic",
+          "post_script_name": "Genos-Italic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsA7ki-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos",
+          "type": "Bold Italic",
+          "full_name": "Genos Bold Italic",
+          "post_script_name": "Genos-BoldItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgvn6Ui-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos Medium",
+      "styles": [
+        {
+          "family_name": "Genos Medium",
+          "type": "Regular",
+          "full_name": "Genos Medium",
+          "post_script_name": "Genos-Medium",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVmEjorUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos Medium",
+          "type": "Italic",
+          "full_name": "Genos Medium Italic",
+          "post_script_name": "Genos-MediumItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgsy7ki-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos SemiBold",
+      "styles": [
+        {
+          "family_name": "Genos SemiBold",
+          "type": "Regular",
+          "full_name": "Genos SemiBold",
+          "post_script_name": "Genos-SemiBold",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVdE_orUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos SemiBold",
+          "type": "Italic",
+          "full_name": "Genos SemiBold Italic",
+          "post_script_name": "Genos-SemiBoldItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgve6Ui-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos ExtraBold",
+      "styles": [
+        {
+          "family_name": "Genos ExtraBold",
+          "type": "Regular",
+          "full_name": "Genos ExtraBold",
+          "post_script_name": "Genos-ExtraBold",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVKk_orUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos ExtraBold",
+          "type": "Italic",
+          "full_name": "Genos ExtraBold Italic",
+          "post_script_name": "Genos-ExtraBoldItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYguA6Ui-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Genos Black",
+      "styles": [
+        {
+          "family_name": "Genos Black",
+          "type": "Regular",
+          "full_name": "Genos Black",
+          "post_script_name": "Genos-Black",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGNmQqPqpUOYTYjacb0Hc91fTwVA0_orUK6K7ZsAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Genos Black",
+          "type": "Italic",
+          "full_name": "Genos Black Italic",
+          "post_script_name": "Genos-BlackItalic",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Genos Project Authors (https://github.com/googlefonts/genos)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "SlGPmQqPqpUOYRwqWzksdKTv0zsAYgup6Ui-CbN8Ard7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

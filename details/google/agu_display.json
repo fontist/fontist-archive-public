@@ -1,0 +1,64 @@
+{
+  "slug": "google/agu_display",
+  "name": "agu_display",
+  "description": "Agu Display font family",
+  "homepage": "https://fonts.google.com/specimen/Agu+Display",
+  "copyright": "Copyright 2024 The Agu Display Project Authors (https://github.com/theseunbadejo/Agu-Display)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Agu Display",
+      "files": [
+        "https://fonts.gstatic.com/s/agudisplay/v3/iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4ftlK9LM6y8Zg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/agudisplay/v3/iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4ftlK9LM6y8Zg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "MORF"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Agu Display",
+      "files": [
+        "https://fonts.gstatic.com/s/agudisplay/v3/iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4ftka9LM6y8Zg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/agudisplay/v3/iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4ftka9LM6y8Zg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "MORF"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Agu Display",
+      "styles": [
+        {
+          "family_name": "Agu Display",
+          "type": "Regular",
+          "full_name": "Agu Display Regular",
+          "post_script_name": "AguDisplay-Regular",
+          "version": "1.103",
+          "copyright": "Copyright 2024 The Agu Display Project Authors (https://github.com/theseunbadejo/Agu-Display)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "iJWXBXKbbi6BeMC1_RX7qF_V5E7aciGRRWUwX4ftka9LM6y8Zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

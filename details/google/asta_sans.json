@@ -1,0 +1,179 @@
+{
+  "slug": "google/asta_sans",
+  "name": "asta_sans",
+  "description": "Asta Sans font family",
+  "homepage": "https://fonts.google.com/specimen/Asta+Sans",
+  "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Asta Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo6r_mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo_T_mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo8b_mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoyr4mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoxP4mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo3T4mVzvqYRoVr0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo6r_mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo_T_mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo8b_mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoyr4mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoxP4mVzvqYRoVr0.woff2",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo3T4mVzvqYRoVr0.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Asta Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo6r_mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo_T_mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo8b_mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoyr4mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoxP4mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo3T4mVnvqYRoVr0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo6r_mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo_T_mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo8b_mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoyr4mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoxP4mVnvqYRoVr0.ttf",
+        "https://fonts.gstatic.com/s/astasans/v3/XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo3T4mVnvqYRoVr0.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Asta Sans Light",
+      "styles": [
+        {
+          "family_name": "Asta Sans Light",
+          "type": "Regular",
+          "full_name": "Asta Sans Light",
+          "post_script_name": "AstaSans-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo6r_mVnvqYRoVr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asta Sans",
+      "styles": [
+        {
+          "family_name": "Asta Sans",
+          "type": "Regular",
+          "full_name": "Asta Sans Regular",
+          "post_script_name": "AstaSans-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo_T_mVnvqYRoVr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Asta Sans",
+          "type": "Bold",
+          "full_name": "Asta Sans Bold",
+          "post_script_name": "AstaSans-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoxP4mVnvqYRoVr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asta Sans Medium",
+      "styles": [
+        {
+          "family_name": "Asta Sans Medium",
+          "type": "Regular",
+          "full_name": "Asta Sans Medium",
+          "post_script_name": "AstaSans-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo8b_mVnvqYRoVr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asta Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Asta Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Asta Sans SemiBold",
+          "post_script_name": "AstaSans-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "XoH32Y74XaWovvhMb0c3tN_dRqdT9zveoyr4mVnvqYRoVr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asta Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Asta Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Asta Sans ExtraBold",
+          "post_script_name": "AstaSans-ExtraBold",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "XoH32Y74XaWovvhMb0c3tN_dRqdT9zveo3T4mVnvqYRoVr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

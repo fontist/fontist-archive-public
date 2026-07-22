@@ -1,0 +1,96 @@
+{
+  "slug": "google/bona_nova_sc",
+  "name": "bona_nova_sc",
+  "description": "Bona Nova is a digitisation of Bona, a cursive typeface designed in 1971 by Andrzej Heidrich — the creator of Polish banknotes. Besides giving it a digital form, this project was the opportunity to expand the character set, design the small caps, alternates and opentype functions for the typeface. Two new versions has been created together with the original author; a Regular and a Bold, to give the family a form of a classical triad. To contribute, see github.com/kosmynkab/Bona-Nova .",
+  "homepage": "https://fonts.google.com/specimen/Bona+Nova+SC",
+  "copyright": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bona Nova SC",
+      "files": [
+        "https://fonts.gstatic.com/s/bonanovasc/v1/mem5YaShyGWDiYdPG_c1Af4-VeJoCqeDjg.ttf",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memnYaShyGWDiYdPG_c1Af4OV-hsKKKTjrPW.ttf",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memmYaShyGWDiYdPG_c1Af4G6c1MAoyfh6rPXA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bonanovasc/v1/mem5YaShyGWDiYdPG_c1Af4-VeJoCqeDjg.ttf",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memnYaShyGWDiYdPG_c1Af4OV-hsKKKTjrPW.ttf",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memmYaShyGWDiYdPG_c1Af4G6c1MAoyfh6rPXA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bona Nova SC",
+      "files": [
+        "https://fonts.gstatic.com/s/bonanovasc/v1/mem5YaShyGWDiYdPG_c1Af4-UOJoCqeDjg.woff2",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memnYaShyGWDiYdPG_c1Af4OV-hpKKKTjrPW.woff2",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memmYaShyGWDiYdPG_c1Af4G6c1MB4yfh6rPXA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bonanovasc/v1/mem5YaShyGWDiYdPG_c1Af4-UOJoCqeDjg.woff2",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memnYaShyGWDiYdPG_c1Af4OV-hpKKKTjrPW.woff2",
+        "https://fonts.gstatic.com/s/bonanovasc/v1/memmYaShyGWDiYdPG_c1Af4G6c1MB4yfh6rPXA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bona Nova SC",
+      "styles": [
+        {
+          "family_name": "Bona Nova SC",
+          "type": "Regular",
+          "full_name": "Bona Nova SC Regular",
+          "post_script_name": "BonaNovaSC-Regular",
+          "version": "4.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "mem5YaShyGWDiYdPG_c1Af4-VeJoCqeDjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bona Nova SC",
+          "type": "Italic",
+          "full_name": "Bona Nova SC Italic",
+          "post_script_name": "BonaNovaSC-Italic",
+          "version": "4.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "memnYaShyGWDiYdPG_c1Af4OV-hsKKKTjrPW.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bona Nova SC",
+          "type": "Bold",
+          "full_name": "Bona Nova SC Bold",
+          "post_script_name": "BonaNovaSC-Bold",
+          "version": "4.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Bona Nova Project Authors (https://github.com/kosmynkab/Bona-Nova)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "memmYaShyGWDiYdPG_c1Af4G6c1MAoyfh6rPXA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

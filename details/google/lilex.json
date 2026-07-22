@@ -1,0 +1,336 @@
+{
+  "slug": "google/lilex",
+  "name": "lilex",
+  "description": "Lilex font family",
+  "homepage": "https://fonts.google.com/specimen/Lilex",
+  "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Lilex",
+      "files": [
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3e3UXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjXezUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjg-zUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3ezUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj7-zUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjA-vUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjOuvUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GU-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa-8GE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa9iGE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa8OGE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_iH0-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_bH0-29PXCYRKB.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3e3UXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjXezUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjg-zUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3ezUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj7-zUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjA-vUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjOuvUXkW31vDSYQ.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GU-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa-8GE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa9iGE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa8OGE-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_iH0-29PXCYRKB.woff2",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_bH0-29PXCYRKB.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Lilex",
+      "files": [
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3e3UW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjXezUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjg-zUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3ezUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj7-zUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjA-vUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjOuvUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GU-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa-8GE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa9iGE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa8OGE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_iH0-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_bH0-z9PXCYRKB.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3e3UW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjXezUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjg-zUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj3ezUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcj7-zUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjA-vUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPExYwmezwMATC7iDMrR60bcpUcjOuvUW0W31vDSYQ.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GU-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa-8GE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa9iGE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa8OGE-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_iH0-z9PXCYRKB.ttf",
+        "https://fonts.gstatic.com/s/lilex/v1/DPEzYwmezwMATATrPjUJgi1GC0A2Fa_bH0-z9PXCYRKB.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lilex Thin",
+      "styles": [
+        {
+          "family_name": "Lilex Thin",
+          "type": "Regular",
+          "full_name": "Lilex Thin",
+          "post_script_name": "Lilex-Thin",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcj3e3UW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex Thin",
+          "type": "Italic",
+          "full_name": "Lilex Thin Italic",
+          "post_script_name": "Lilex-ThinItalic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GU-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilex ExtraLight",
+      "styles": [
+        {
+          "family_name": "Lilex ExtraLight",
+          "type": "Regular",
+          "full_name": "Lilex ExtraLight",
+          "post_script_name": "Lilex-ExtraLight",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcjXezUW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex ExtraLight",
+          "type": "Italic",
+          "full_name": "Lilex ExtraLight Italic",
+          "post_script_name": "Lilex-ExtraLightItalic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa-8GE-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilex Light",
+      "styles": [
+        {
+          "family_name": "Lilex Light",
+          "type": "Regular",
+          "full_name": "Lilex Light",
+          "post_script_name": "Lilex-Light",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcjg-zUW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex Light",
+          "type": "Italic",
+          "full_name": "Lilex Light Italic",
+          "post_script_name": "Lilex-LightItalic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa9iGE-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilex",
+      "styles": [
+        {
+          "family_name": "Lilex",
+          "type": "Regular",
+          "full_name": "Lilex Regular",
+          "post_script_name": "Lilex-Regular",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcj3ezUW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex",
+          "type": "Bold",
+          "full_name": "Lilex Bold",
+          "post_script_name": "Lilex-Bold",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcjOuvUW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex",
+          "type": "Italic",
+          "full_name": "Lilex Italic",
+          "post_script_name": "Lilex-Italic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa88GE-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex",
+          "type": "Bold Italic",
+          "full_name": "Lilex Bold Italic",
+          "post_script_name": "Lilex-BoldItalic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa_bH0-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilex Medium",
+      "styles": [
+        {
+          "family_name": "Lilex Medium",
+          "type": "Regular",
+          "full_name": "Lilex Medium",
+          "post_script_name": "Lilex-Medium",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcj7-zUW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex Medium",
+          "type": "Italic",
+          "full_name": "Lilex Medium Italic",
+          "post_script_name": "Lilex-MediumItalic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa8OGE-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lilex SemiBold",
+      "styles": [
+        {
+          "family_name": "Lilex SemiBold",
+          "type": "Regular",
+          "full_name": "Lilex SemiBold",
+          "post_script_name": "Lilex-SemiBold",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPExYwmezwMATC7iDMrR60bcpUcjA-vUW0W31vDSYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lilex SemiBold",
+          "type": "Italic",
+          "full_name": "Lilex SemiBold Italic",
+          "post_script_name": "Lilex-SemiBoldItalic",
+          "version": "2.621",
+          "copyright": "Copyright 2019 The Lilex Project Authors (https://github.com/mishamyrt/Lilex)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DPEzYwmezwMATATrPjUJgi1GC0A2Fa_iH0-z9PXCYRKB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

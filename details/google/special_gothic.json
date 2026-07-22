@@ -1,0 +1,133 @@
+{
+  "slug": "google/special_gothic",
+  "name": "special_gothic",
+  "description": "Special Gothic font family",
+  "homepage": "https://fonts.google.com/specimen/Special+Gothic",
+  "copyright": "Copyright 2023 The Special Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Special Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4bF8-S0LPIOkEp8.woff2",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4YN8-S0LPIOkEp8.woff2",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4W97-S0LPIOkEp8.woff2",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4VZ7-S0LPIOkEp8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4bF8-S0LPIOkEp8.woff2",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4YN8-S0LPIOkEp8.woff2",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4W97-S0LPIOkEp8.woff2",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4VZ7-S0LPIOkEp8.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Special Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4bF8-SgLPIOkEp8.ttf",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4YN8-SgLPIOkEp8.ttf",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4W97-SgLPIOkEp8.ttf",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4VZ7-SgLPIOkEp8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4bF8-SgLPIOkEp8.ttf",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4YN8-SgLPIOkEp8.ttf",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4W97-SgLPIOkEp8.ttf",
+        "https://fonts.gstatic.com/s/specialgothic/v3/1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4VZ7-SgLPIOkEp8.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Special Gothic",
+      "styles": [
+        {
+          "family_name": "Special Gothic",
+          "type": "Regular",
+          "full_name": "Special Gothic Regular",
+          "post_script_name": "SpecialGothic-Regular",
+          "version": "1.011",
+          "copyright": "Copyright 2023 The Special Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4bF8-SgLPIOkEp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Special Gothic",
+          "type": "Bold",
+          "full_name": "Special Gothic Bold",
+          "post_script_name": "SpecialGothic-Bold",
+          "version": "1.011",
+          "copyright": "Copyright 2023 The Special Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4VZ7-SgLPIOkEp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special Gothic Medium",
+      "styles": [
+        {
+          "family_name": "Special Gothic Medium",
+          "type": "Regular",
+          "full_name": "Special Gothic Medium",
+          "post_script_name": "SpecialGothic-Medium",
+          "version": "1.011",
+          "copyright": "Copyright 2023 The Special Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4YN8-SgLPIOkEp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Special Gothic SemiBold",
+      "styles": [
+        {
+          "family_name": "Special Gothic SemiBold",
+          "type": "Regular",
+          "full_name": "Special Gothic SemiBold",
+          "post_script_name": "SpecialGothic-SemiBold",
+          "version": "1.011",
+          "copyright": "Copyright 2023 The Special Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1q2lY5WcG0Fg_v0fHc8BvIZ2537qdm1JEt9N3w2mJykOEnLhliLsitHN4W97-SgLPIOkEp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

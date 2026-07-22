@@ -1,0 +1,58 @@
+{
+  "slug": "google/gilda_display",
+  "name": "gilda_display",
+  "description": "Gilda Display is a font of classic proportions, in which we can see the finest treatment of curves, strokes and serifs. The high stroke contrast has especially smooth transitions, making this type perfect for the world of fashion, jewelry and luxury items. Gilda Display typically contributes all its glamor to headlines, but the considered design of this font gives it potential for use in longer texts with a fine page texture. Since Junuary 2023, the glyphset is completed and and the font has a bigger language support To contribute, see github.com/etunni/gilda-display .",
+  "homepage": "https://fonts.google.com/specimen/Gilda+Display",
+  "copyright": "Copyright 2012 The Gilda Display Project Authors (https://github.com/etunni/gilda-display) with Reserved Font Name 'Gilda'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gilda Display",
+      "files": [
+        "https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR7TnFrpOHYh4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR7TnFrpOHYh4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gilda Display",
+      "files": [
+        "https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR7TzFrpOHYh4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gildadisplay/v20/t5tmIRoYMoaYG0WEOh7HwMeR7TzFrpOHYh4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gilda Display",
+      "styles": [
+        {
+          "family_name": "Gilda Display",
+          "type": "Regular",
+          "full_name": "Gilda Display Regular",
+          "post_script_name": "GildaDisplay-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.22]",
+          "copyright": "Copyright 2012 The Gilda Display Project Authors (https://github.com/etunni/gilda-display) with Reserved Font Name 'Gilda'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "t5tmIRoYMoaYG0WEOh7HwMeR7TnFrpOHYh4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

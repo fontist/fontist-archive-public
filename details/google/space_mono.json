@@ -1,0 +1,115 @@
+{
+  "slug": "google/space_mono",
+  "name": "space_mono",
+  "description": "Space Mono font family",
+  "homepage": "https://fonts.google.com/specimen/Space+Mono",
+  "copyright": "Copyright 2016 The Space Mono Project Authors (https://github.com/googlefonts/spacemono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Space Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dPIFZifjKcF5UAWdDRUEZ2RFq7AwU.ttf",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dNIFZifjKcF5UAWdDRYER8QHi-EwWMbg.ttf",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dMIFZifjKcF5UAWdDRaPpZYFKQHwyVd3U.ttf",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dSIFZifjKcF5UAWdDRYERE_FeaGy6QZ3WfYg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dPIFZifjKcF5UAWdDRUEZ2RFq7AwU.ttf",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dNIFZifjKcF5UAWdDRYER8QHi-EwWMbg.ttf",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dMIFZifjKcF5UAWdDRaPpZYFKQHwyVd3U.ttf",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dSIFZifjKcF5UAWdDRYERE_FeaGy6QZ3WfYg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Space Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dPIFZifjKcF5UAWdDRUEN2RFq7AwU.woff2",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dNIFZifjKcF5UAWdDRYER8RXi-EwWMbg.woff2",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dMIFZifjKcF5UAWdDRaPpZYFeQHwyVd3U.woff2",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dSIFZifjKcF5UAWdDRYERE_FeaHi6QZ3WfYg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dPIFZifjKcF5UAWdDRUEN2RFq7AwU.woff2",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dNIFZifjKcF5UAWdDRYER8RXi-EwWMbg.woff2",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dMIFZifjKcF5UAWdDRaPpZYFeQHwyVd3U.woff2",
+        "https://fonts.gstatic.com/s/spacemono/v17/i7dSIFZifjKcF5UAWdDRYERE_FeaHi6QZ3WfYg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Space Mono",
+      "styles": [
+        {
+          "family_name": "Space Mono",
+          "type": "Regular",
+          "full_name": "Space Mono Regular",
+          "post_script_name": "SpaceMono-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The Space Mono Project Authors (https://github.com/googlefonts/spacemono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "i7dPIFZifjKcF5UAWdDRUEZ2RFq7AwU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Space Mono",
+          "type": "Italic",
+          "full_name": "Space Mono Italic",
+          "post_script_name": "SpaceMono-Italic",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The Space Mono Project Authors (https://github.com/googlefonts/spacemono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "i7dNIFZifjKcF5UAWdDRYER8QHi-EwWMbg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Space Mono",
+          "type": "Bold",
+          "full_name": "Space Mono Bold",
+          "post_script_name": "SpaceMono-Bold",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The Space Mono Project Authors (https://github.com/googlefonts/spacemono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "i7dMIFZifjKcF5UAWdDRaPpZYFKQHwyVd3U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Space Mono",
+          "type": "Bold Italic",
+          "full_name": "Space Mono Bold Italic",
+          "post_script_name": "SpaceMono-BoldItalic",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The Space Mono Project Authors (https://github.com/googlefonts/spacemono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "i7dSIFZifjKcF5UAWdDRYERE_FeaGy6QZ3WfYg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

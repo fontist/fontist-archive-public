@@ -1,0 +1,58 @@
+{
+  "slug": "google/wdxl_lubrifont_tc",
+  "name": "wdxl_lubrifont_tc",
+  "description": "WDXL Lubrifont TC font family",
+  "homepage": "https://fonts.google.com/specimen/WDXL+Lubrifont+TC",
+  "copyright": "Copyright 2025 The WDXL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "WDXL Lubrifont TC",
+      "files": [
+        "https://fonts.gstatic.com/s/wdxllubrifonttc/v5/nKKN-H4mPq1yJurnWXfJE8svQHonWc_-EqxyqaA8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wdxllubrifonttc/v5/nKKN-H4mPq1yJurnWXfJE8svQHonWc_-EqxyqaA8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "WDXL Lubrifont TC",
+      "files": [
+        "https://fonts.gstatic.com/s/wdxllubrifonttc/v5/nKKN-H4mPq1yJurnWXfJE8svQHonWc_7EqxyqaA8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wdxllubrifonttc/v5/nKKN-H4mPq1yJurnWXfJE8svQHonWc_7EqxyqaA8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "WDXL Lubrifont TC",
+      "styles": [
+        {
+          "family_name": "WDXL Lubrifont TC",
+          "type": "Regular",
+          "full_name": "WDXL Lubrifont TC",
+          "post_script_name": "WDXLLubrifontTC-Regular",
+          "version": "2.001;hotconv 1.1.1;makeotfexe 2.6.0",
+          "copyright": "Copyright 2025 The WDXL Lubrifont Project Authors (https://github.com/NightFurySL2001/WD-XL-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "nKKN-H4mPq1yJurnWXfJE8svQHonWc_-EqxyqaA8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

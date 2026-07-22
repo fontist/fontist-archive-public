@@ -1,0 +1,58 @@
+{
+  "slug": "google/petit_formal_script",
+  "name": "petit_formal_script",
+  "description": "Formal Scripts are great typefaces to suggest elegance, quality, refinement and luxury. They are used a lot in print publishing, but you don't see many formal scripts used on the web. Isn't it? Mostly because their tiny hairlines breaks and disappear when used at small sizes on the screen. Also, they usually have long ascenders and descenders, and the lowercase letters look too small when compared to most sans or serif fonts. More over, they are usually quite condensed, making them even more difficult to read. That's why we designed a script type specifically tailored for web use, that can survive being set even as small as 13px.",
+  "homepage": "https://fonts.google.com/specimen/Petit+Formal+Script",
+  "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rCopyright (c) 2011, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), \r\rwith Reserved Font Name Petit Formal Script.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Petit Formal Script",
+      "files": [
+        "https://fonts.gstatic.com/s/petitformalscript/v19/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qoHnqP4gZSiE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/petitformalscript/v19/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qoHnqP4gZSiE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Petit Formal Script",
+      "files": [
+        "https://fonts.gstatic.com/s/petitformalscript/v19/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qoHzqP4gZSiE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/petitformalscript/v19/B50TF6xQr2TXJBnGOFME6u5OR83oRP5qoHzqP4gZSiE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Petit Formal Script",
+      "styles": [
+        {
+          "family_name": "Petit Formal Script",
+          "type": "Regular",
+          "full_name": "Petit Formal Script",
+          "post_script_name": "PetitFormalScript-Regular",
+          "version": "1.001; ttfautohint (v0.8) -G 200 -r 50",
+          "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Brenda Gallo. (gbrenda1987@gmail.com),\rCopyright (c) 2011, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), \r\rwith Reserved Font Name Petit Formal Script.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "B50TF6xQr2TXJBnGOFME6u5OR83oRP5qoHnqP4gZSiE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

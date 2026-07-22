@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_de_sas",
+  "name": "playwrite_de_sas",
+  "description": "Playwrite DE SAS font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DE+SAS",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite DE SAS",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6gSyVPgRkJ.woff2",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6gSyVPgRkJ.woff2",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6gSyVPgRkJ.woff2",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6gSyVPgRkJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6gSyVPgRkJ.woff2",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6gSyVPgRkJ.woff2",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6gSyVPgRkJ.woff2",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6gSyVPgRkJ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite DE SAS",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6lSyVPgRkJ.ttf",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6lSyVPgRkJ.ttf",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6lSyVPgRkJ.ttf",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6lSyVPgRkJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6lSyVPgRkJ.ttf",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6lSyVPgRkJ.ttf",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6lSyVPgRkJ.ttf",
+        "https://fonts.gstatic.com/s/playwritedesas/v11/1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6lSyVPgRkJ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DE SAS Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite DE SAS Thin",
+          "type": "Regular",
+          "full_name": "Playwrite DE SAS Thin",
+          "post_script_name": "PlaywriteDESAS-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVg-6lSyVPgRkJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DE SAS ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite DE SAS ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite DE SAS ExtraLight",
+          "post_script_name": "PlaywriteDESAS-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTcVgu6lSyVPgRkJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DE SAS Light",
+      "styles": [
+        {
+          "family_name": "Playwrite DE SAS Light",
+          "type": "Regular",
+          "full_name": "Playwrite DE SAS Light",
+          "post_script_name": "PlaywriteDESAS-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTfLgu6lSyVPgRkJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DE SAS",
+      "styles": [
+        {
+          "family_name": "Playwrite DE SAS",
+          "type": "Regular",
+          "full_name": "Playwrite DE SAS Regular",
+          "post_script_name": "PlaywriteDESAS-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "1Pt4g9vaRvmWghDdrE8IDuRPVrHN_1AaFXASpbMqJTeVgu6lSyVPgRkJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

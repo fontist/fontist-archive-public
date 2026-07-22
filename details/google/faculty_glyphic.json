@@ -1,0 +1,58 @@
+{
+  "slug": "google/faculty_glyphic",
+  "name": "faculty_glyphic",
+  "description": "Faculty Glyphic font family",
+  "homepage": "https://fonts.google.com/specimen/Faculty+Glyphic",
+  "copyright": "Copyright 2024 The Faculty Glyphic Project Authors (https://github.com/DylanYoungKoto/FacultyGlyphic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Faculty Glyphic",
+      "files": [
+        "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Faculty Glyphic",
+      "files": [
+        "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQIHueFNVmULg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/facultyglyphic/v4/RrQIbot2-iBvI2mYSyKIrcgoBuQIHueFNVmULg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Faculty Glyphic",
+      "styles": [
+        {
+          "family_name": "Faculty Glyphic",
+          "type": "Regular",
+          "full_name": "Faculty Glyphic Regular",
+          "post_script_name": "FacultyGlyphic-Regular",
+          "version": "1.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Faculty Glyphic Project Authors (https://github.com/DylanYoungKoto/FacultyGlyphic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "RrQIbot2-iBvI2mYSyKIrcgoBuQIG-eFNVmULg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

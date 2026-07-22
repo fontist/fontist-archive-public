@@ -1,0 +1,58 @@
+{
+  "slug": "google/medievalsharp",
+  "name": "medievalsharp",
+  "description": "This is another of my old fonts used to make inscriptions on stone. I created the MedievalSharp font in around 1995 like my other fonts - when I started doing the inscriptions on stone professionally. It's based on gothic letters. Initially the font contained only capitals and digits, and later I made missing small fonts and some basical signs. In 2010 I started convert my typeface designs into digital fonts. The first was NovaCut and all the Nova family, and here's another...",
+  "homepage": "https://fonts.google.com/specimen/MedievalSharp",
+  "copyright": "wmk69\nSIL Open Font License v.1.1",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "MedievalSharp",
+      "files": [
+        "https://fonts.gstatic.com/s/medievalsharp/v28/EvOJzAlL3oU5AQl2mP5KdgptAq96MwvXLDk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/medievalsharp/v28/EvOJzAlL3oU5AQl2mP5KdgptAq96MwvXLDk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "MedievalSharp",
+      "files": [
+        "https://fonts.gstatic.com/s/medievalsharp/v28/EvOJzAlL3oU5AQl2mP5KdgptAqp6MwvXLDk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/medievalsharp/v28/EvOJzAlL3oU5AQl2mP5KdgptAqp6MwvXLDk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "MedievalSharp",
+      "styles": [
+        {
+          "family_name": "MedievalSharp",
+          "type": "Regular",
+          "full_name": "MedievalSharp",
+          "post_script_name": "MedievalSharp",
+          "version": "1.0",
+          "copyright": "wmk69\nSIL Open Font License v.1.1",
+          "description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Name NovaRound.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EvOJzAlL3oU5AQl2mP5KdgptAq96MwvXLDk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

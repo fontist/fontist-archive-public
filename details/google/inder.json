@@ -1,0 +1,58 @@
+{
+  "slug": "google/inder",
+  "name": "inder",
+  "description": "Foundry: Sorkin Type Co Inder is a low contrast workhorse sans serif text face design. It was inspired by German art noveau style lettering and the Amsterdam School of architecture. Inder has been carefully adjusted to the restrictions of the screen. Inder can be used in a wide range of sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Inder",
+  "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Inder.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Inder",
+      "files": [
+        "https://fonts.gstatic.com/s/inder/v15/w8gUH2YoQe8_4vq6pw-P3U4O.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inder/v15/w8gUH2YoQe8_4vq6pw-P3U4O.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Inder",
+      "files": [
+        "https://fonts.gstatic.com/s/inder/v15/w8gUH2YoQe8_4vq_pw-P3U4O.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inder/v15/w8gUH2YoQe8_4vq_pw-P3U4O.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inder",
+      "styles": [
+        {
+          "family_name": "Inder",
+          "type": "Regular",
+          "full_name": "Inder",
+          "post_script_name": "Inder-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Inder.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "w8gUH2YoQe8_4vq6pw-P3U4O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

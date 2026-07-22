@@ -1,0 +1,58 @@
+{
+  "slug": "google/julius_sans_one",
+  "name": "julius_sans_one",
+  "description": "Julius Sans One is a sans serif typeface family from Chilean type foundry LatinoType . Updated, April 2015: hinting was applied (with ttfautohint) and the non-breaking space glyph was adjusted to be the same width as space.",
+  "homepage": "https://fonts.google.com/specimen/Julius+Sans+One",
+  "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Julius'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Julius Sans One",
+      "files": [
+        "https://fonts.gstatic.com/s/juliussansone/v20/1Pt2g8TAX_SGgBGUi0tGOYEga5W-xXEW6aGXHw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/juliussansone/v20/1Pt2g8TAX_SGgBGUi0tGOYEga5W-xXEW6aGXHw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Julius Sans One",
+      "files": [
+        "https://fonts.gstatic.com/s/juliussansone/v20/1Pt2g8TAX_SGgBGUi0tGOYEga5W-wHEW6aGXHw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/juliussansone/v20/1Pt2g8TAX_SGgBGUi0tGOYEga5W-wHEW6aGXHw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Julius Sans One",
+      "styles": [
+        {
+          "family_name": "Julius Sans One",
+          "type": "Regular",
+          "full_name": "Julius Sans One",
+          "post_script_name": "JuliusSansOne-Regular",
+          "version": "1.002; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Julius'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1Pt2g8TAX_SGgBGUi0tGOYEga5W-xXEW6aGXHw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/alfa_slab_one",
+  "name": "alfa_slab_one",
+  "description": "Alfa Slab One is a contemporary take on the Six-lines Pica Egyptian created by Robert Thorne for the Thorowgood Foundry in 1921. Although initially based on that model, Alfa Slab One was designed with an extreme stem weight, big serifs, more stem contrast and gradual terminals with a single serif. All this attributes give Alfa Slab One a contemporary look with extreme black density.",
+  "homepage": "https://fonts.google.com/specimen/Alfa+Slab+One",
+  "copyright": "Copyright 2016 The Alfa Slab One Project Authors (http://www.jmsole.cl | info@jmsole.cl), with Reserved Font Name \"Alfa Slab\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alfa Slab One",
+      "files": [
+        "https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh6dVretWvYmE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh6dVretWvYmE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alfa Slab One",
+      "files": [
+        "https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh6dBretWvYmE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alfaslabone/v21/6NUQ8FmMKwSEKjnm5-4v-4Jh6dBretWvYmE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alfa Slab One",
+      "styles": [
+        {
+          "family_name": "Alfa Slab One",
+          "type": "Regular",
+          "full_name": "Alfa Slab One Regular",
+          "post_script_name": "AlfaSlabOne-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2016 The Alfa Slab One Project Authors (http://www.jmsole.cl | info@jmsole.cl), with Reserved Font Name \"Alfa Slab\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6NUQ8FmMKwSEKjnm5-4v-4Jh6dVretWvYmE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

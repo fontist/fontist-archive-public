@@ -1,0 +1,77 @@
+{
+  "slug": "google/oleo_script",
+  "name": "oleo_script",
+  "description": "Oleo is a flowy yet legible non-connected script typeface. It is perfect for situations where a quaint and casual lettering effect is desired. Suitable for various typography contexts including captions, headlines, packaging, invitations, cards, posters, advertising, greeting cards, and book jackets. Oleo Script is currently available in two weights, Regular and Bold. It has also a Swash Caps sister family, also available in Regular and Bold. Oleo Script is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. For more information see the Soytutype website, follow us on Twitter @soytutype or Google+ or contact Soytutype .",
+  "homepage": "https://fonts.google.com/specimen/Oleo+Script",
+  "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Oleo Script",
+      "files": [
+        "https://fonts.gstatic.com/s/oleoscript/v15/rax5HieDvtMOe0iICsUccBhasU7Q8Cad.ttf",
+        "https://fonts.gstatic.com/s/oleoscript/v15/raxkHieDvtMOe0iICsUccCDmnmrY2zqUKafv.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oleoscript/v15/rax5HieDvtMOe0iICsUccBhasU7Q8Cad.ttf",
+        "https://fonts.gstatic.com/s/oleoscript/v15/raxkHieDvtMOe0iICsUccCDmnmrY2zqUKafv.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Oleo Script",
+      "files": [
+        "https://fonts.gstatic.com/s/oleoscript/v15/rax5HieDvtMOe0iICsUccBhfsU7Q8Cad.woff2",
+        "https://fonts.gstatic.com/s/oleoscript/v15/raxkHieDvtMOe0iICsUccCDmnmrd2zqUKafv.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oleoscript/v15/rax5HieDvtMOe0iICsUccBhfsU7Q8Cad.woff2",
+        "https://fonts.gstatic.com/s/oleoscript/v15/raxkHieDvtMOe0iICsUccCDmnmrd2zqUKafv.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Oleo Script",
+      "styles": [
+        {
+          "family_name": "Oleo Script",
+          "type": "Regular",
+          "full_name": "Oleo Script",
+          "post_script_name": "OleoScript-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+          "variable_font": false,
+          "font": "rax5HieDvtMOe0iICsUccBhasU7Q8Cad.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Oleo Script",
+          "type": "Bold",
+          "full_name": "Oleo Script Bold",
+          "post_script_name": "OleoScript-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+          "variable_font": false,
+          "font": "raxkHieDvtMOe0iICsUccCDmnmrY2zqUKafv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

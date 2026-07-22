@@ -1,0 +1,58 @@
+{
+  "slug": "google/kurale",
+  "name": "kurale",
+  "description": "Kurale is a Latin, Cyrillic and Devanagari typeface derived from Gabriela . The Latin and Cyrillic serif typeface with soft shapes, and special terminal forms which are shaped like curls. They connect each letter to create attractive word shapes and text blocks with a fine texture. The Devanagari is a modulated design that harmonises with the Latin original. In small bodies of text it works well for reading, and in headlines provides interesting details to catch the eye. This project is led by Eduardo Tunni, a type designer based in Buenos Aires. To contribute, see github.com/etunni/kurale",
+  "homepage": "https://fonts.google.com/specimen/Kurale",
+  "copyright": "Copyright 2013 The Kurale Project Authors (edu@tipo.net.ar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kurale",
+      "files": [
+        "https://fonts.gstatic.com/s/kurale/v14/4iCs6KV9e9dXjho6eAT3v02QFg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kurale/v14/4iCs6KV9e9dXjho6eAT3v02QFg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kurale",
+      "files": [
+        "https://fonts.gstatic.com/s/kurale/v14/4iCs6KV9e9dXjho6fQT3v02QFg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kurale/v14/4iCs6KV9e9dXjho6fQT3v02QFg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kurale",
+      "styles": [
+        {
+          "family_name": "Kurale",
+          "type": "Regular",
+          "full_name": "Kurale Regular",
+          "post_script_name": "Kurale-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2013 The Kurale Project Authors (edu@tipo.net.ar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4iCs6KV9e9dXjho6eAT3v02QFg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

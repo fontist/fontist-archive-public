@@ -1,0 +1,58 @@
+{
+  "slug": "google/nova_slim",
+  "name": "nova_slim",
+  "description": "I created the NovaCut font about 14-15 years ago for making inscriptions on stone. Initially the font contained only capitals and digits and existed only on paper and stone inscriptions. In 2010 I decided transfer this font to a computer, and made the missing lowercase and some basical signs; it was initially named Gothica. By the way I made other versions of some letters. It was a lot of this at the end of my work. I decided create new fonts based on these letters. And finally I created six fonts family and named these fonts Nova (NovaCut, NovaFlat, NovaOval, NovaRound, NovaSlim, NovaSquare - by the shape of individual fonts). At last I created monospace font - NovaMono - the seventh part of this family.",
+  "homepage": "https://fonts.google.com/specimen/Nova+Slim",
+  "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaSlim' and 'Nova Slim'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nova Slim",
+      "files": [
+        "https://fonts.gstatic.com/s/novaslim/v26/Z9XUDmZNQAuem8jyZcn-yMOInrib9Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/novaslim/v26/Z9XUDmZNQAuem8jyZcn-yMOInrib9Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nova Slim",
+      "files": [
+        "https://fonts.gstatic.com/s/novaslim/v26/Z9XUDmZNQAuem8jyZcn-zcOInrib9Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/novaslim/v26/Z9XUDmZNQAuem8jyZcn-zcOInrib9Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nova Slim",
+      "styles": [
+        {
+          "family_name": "Nova Slim",
+          "type": "Book",
+          "full_name": "Nova Slim",
+          "post_script_name": "NovaSlim",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaSlim' and 'Nova Slim'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaSlim' and 'Nova Slim'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "Z9XUDmZNQAuem8jyZcn-yMOInrib9Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

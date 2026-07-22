@@ -1,0 +1,416 @@
+{
+  "slug": "google/kanit",
+  "name": "kanit",
+  "description": "Kanit means mathematics in Thai, and the Kanit typeface family is a formal Loopless Thai and Sans Latin design. It is a combination of concepts, mixing a Humanist Sans Serif motif with the curves of Capsulated Geometric styles that makes it suitable for various uses, contemporary and futuristic. A notable detail is that the stroke terminals have flat angles, which allows the design to enjoy decreased spacing between letters while preserving readability and legibility at smaller point sizes. In Thai typeface design the formal loopless Thai typefaces have more simple forms than the conservative looped Thai designs, and this simplification has to be done properly in order to preserve the essential character of each letter. Sizes and positions of vowels and tone marks need to be managed carefully because they are all relevant to readability, legibility, and overall textures. When designing Kanit, special care was taken with some groups of letters such as ก ถ ภ ฤ ฦ, ฎ ฏ, บ ป, and ข ช to ensure they are distinct and legible, because it might lead to confusion if each glyph is not clear enough. Kanit is the first Thai font family to be hinted with TTFAutohint , an easy-to-use hinting tool that is highly recommended. The Kanit project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/kanit",
+  "homepage": "https://fonts.google.com/specimen/Kanit",
+  "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kanit",
+      "files": [
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcr72GwWKcaxALFs.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKV-Go6G5tXcraQI2GAdY5FPFtrGw.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOiWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI82hVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-OSWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6miVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKZ-Go6G5tXcoaSEQGodLxA.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcraQGwWKcaxALFs.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5mOCWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI_GjVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5KPyWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI92kVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4uPiWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI7mlVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4yPSWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6WmVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4WPCWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI4GnVaRrMFJyAu4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcr72GwWKcaxALFs.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKV-Go6G5tXcraQI2GAdY5FPFtrGw.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOiWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI82hVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-OSWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6miVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKZ-Go6G5tXcoaSEQGodLxA.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcraQGwWKcaxALFs.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5mOCWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI_GjVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5KPyWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI92kVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4uPiWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI7mlVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4yPSWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6WmVaRrMFJyAu4.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4WPCWgX6BJNUJy.ttf",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI4GnVaRrMFJyAu4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kanit",
+      "files": [
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcr72GwCKcaxALFs.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKV-Go6G5tXcraQI2GAcI5FPFtrGw.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOiWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI82hVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-OSWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6miVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKZ-Go6G5tXcoaXEQGodLxA.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcraQGwCKcaxALFs.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5mOCWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI_GjVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5KPyWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI92kVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4uPiWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI7mlVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4yPSWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6WmVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4WPCWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI4GnVaFrMFJyAu4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcr72GwCKcaxALFs.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKV-Go6G5tXcraQI2GAcI5FPFtrGw.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5aOiWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI82hVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4-OSWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6miVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKZ-Go6G5tXcoaXEQGodLxA.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKX-Go6G5tXcraQGwCKcaxALFs.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5mOCWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI_GjVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr5KPyWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI92kVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4uPiWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI7mlVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4yPSWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI6WmVaFrMFJyAu4.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKU-Go6G5tXcr4WPCWlX6BJNUJy.woff2",
+        "https://fonts.gstatic.com/s/kanit/v17/nKKS-Go6G5tXcraQI4GnVaFrMFJyAu4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kanit Thin",
+      "styles": [
+        {
+          "family_name": "Kanit Thin",
+          "type": "Regular",
+          "full_name": "Kanit Thin",
+          "post_script_name": "Kanit-Thin",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKX-Go6G5tXcr72GwWKcaxALFs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit Thin",
+          "type": "Italic",
+          "full_name": "Kanit Thin Italic",
+          "post_script_name": "Kanit-ThinItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKV-Go6G5tXcraQI2GAdY5FPFtrGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit ExtraLight",
+      "styles": [
+        {
+          "family_name": "Kanit ExtraLight",
+          "type": "Regular",
+          "full_name": "Kanit ExtraLight",
+          "post_script_name": "Kanit-ExtraLight",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr5aOiWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit ExtraLight",
+          "type": "Italic",
+          "full_name": "Kanit ExtraLight Italic",
+          "post_script_name": "Kanit-ExtraLightItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI82hVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit Light",
+      "styles": [
+        {
+          "family_name": "Kanit Light",
+          "type": "Regular",
+          "full_name": "Kanit Light",
+          "post_script_name": "Kanit-Light",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr4-OSWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit Light",
+          "type": "Italic",
+          "full_name": "Kanit Light Italic",
+          "post_script_name": "Kanit-LightItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI6miVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit",
+      "styles": [
+        {
+          "family_name": "Kanit",
+          "type": "Regular",
+          "full_name": "Kanit Regular",
+          "post_script_name": "Kanit-Regular",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKZ-Go6G5tXcoaSEQGodLxA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit",
+          "type": "Italic",
+          "full_name": "Kanit Italic",
+          "post_script_name": "Kanit-Italic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKX-Go6G5tXcraQGwWKcaxALFs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit",
+          "type": "Bold",
+          "full_name": "Kanit Bold",
+          "post_script_name": "Kanit-Bold",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr4uPiWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit",
+          "type": "Bold Italic",
+          "full_name": "Kanit Bold Italic",
+          "post_script_name": "Kanit-BoldItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI7mlVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit Medium",
+      "styles": [
+        {
+          "family_name": "Kanit Medium",
+          "type": "Regular",
+          "full_name": "Kanit Medium",
+          "post_script_name": "Kanit-Medium",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr5mOCWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit Medium",
+          "type": "Italic",
+          "full_name": "Kanit Medium Italic",
+          "post_script_name": "Kanit-MediumItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI_GjVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit SemiBold",
+      "styles": [
+        {
+          "family_name": "Kanit SemiBold",
+          "type": "Regular",
+          "full_name": "Kanit SemiBold",
+          "post_script_name": "Kanit-SemiBold",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr5KPyWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit SemiBold",
+          "type": "Italic",
+          "full_name": "Kanit SemiBold Italic",
+          "post_script_name": "Kanit-SemiBoldItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI92kVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit ExtraBold",
+      "styles": [
+        {
+          "family_name": "Kanit ExtraBold",
+          "type": "Regular",
+          "full_name": "Kanit ExtraBold",
+          "post_script_name": "Kanit-ExtraBold",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr4yPSWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit ExtraBold",
+          "type": "Italic",
+          "full_name": "Kanit ExtraBold Italic",
+          "post_script_name": "Kanit-ExtraBoldItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI6WmVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kanit Black",
+      "styles": [
+        {
+          "family_name": "Kanit Black",
+          "type": "Regular",
+          "full_name": "Kanit Black",
+          "post_script_name": "Kanit-Black",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKU-Go6G5tXcr4WPCWgX6BJNUJy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kanit Black",
+          "type": "Italic",
+          "full_name": "Kanit Black Italic",
+          "post_script_name": "Kanit-BlackItalic",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nKKS-Go6G5tXcraQI4GnVaRrMFJyAu4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

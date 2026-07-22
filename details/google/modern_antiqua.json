@@ -1,0 +1,58 @@
+{
+  "slug": "google/modern_antiqua",
+  "name": "modern_antiqua",
+  "description": "This is another of my old fonts used for inscriptions on stone. I created the ModernAntiqua font around 1995 like my other fonts - when I started doing the inscriptions on stone professionally. The font is based on Roman square capitals. Initially the font contained only capitals and digits and later I made the missing lowercase and symbols. Last year I started converting my typeface designs into fonts. The first was NovaCut and all the Nova family, next MedievalSharp, and here's another...",
+  "homepage": "https://fonts.google.com/specimen/Modern+Antiqua",
+  "copyright": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Names 'ModernAntiqua' and 'Modern Antiqua'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL\n",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Modern Antiqua",
+      "files": [
+        "https://fonts.gstatic.com/s/modernantiqua/v26/NGStv5TIAUg6Iq_RLNo_2dp1sI1Ea2u0c3Gi.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/modernantiqua/v26/NGStv5TIAUg6Iq_RLNo_2dp1sI1Ea2u0c3Gi.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Modern Antiqua",
+      "files": [
+        "https://fonts.gstatic.com/s/modernantiqua/v26/NGStv5TIAUg6Iq_RLNo_2dp1sI1Ba2u0c3Gi.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/modernantiqua/v26/NGStv5TIAUg6Iq_RLNo_2dp1sI1Ba2u0c3Gi.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Modern Antiqua",
+      "styles": [
+        {
+          "family_name": "Modern Antiqua",
+          "type": "Regular",
+          "full_name": "Modern Antiqua Regular",
+          "post_script_name": "ModernAntiqua-Regular",
+          "version": "1.0",
+          "copyright": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Names 'ModernAntiqua' and 'Modern Antiqua'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL\n",
+          "description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl),\nwith Reserved Font Names 'ModernAntiqua' and 'Modern Antiqua'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "NGStv5TIAUg6Iq_RLNo_2dp1sI1Ea2u0c3Gi.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

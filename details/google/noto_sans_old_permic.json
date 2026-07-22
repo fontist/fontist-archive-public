@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_old_permic",
+  "name": "noto_sans_old_permic",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Old Permic is an unmodulated (“sans serif”) design for texts in the historical European Old Permic script. It has 56 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Old+Permic",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-permic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Old Permic",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansoldpermic/v18/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansoldpermic/v18/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Old Permic",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansoldpermic/v18/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdSgv_dKYB5.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansoldpermic/v18/snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdSgv_dKYB5.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Old Permic",
+      "styles": [
+        {
+          "family_name": "Noto Sans Old Permic",
+          "type": "Regular",
+          "full_name": "Noto Sans Old Permic Regular",
+          "post_script_name": "NotoSansOldPermic-Regular",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-permic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "snf1s1q1-dF8pli1TesqcbUY4Mr-ElrwKLdXgv_dKYB5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/delius",
+  "name": "delius",
+  "description": "Delius is a high quality comic book lettering typeface super-family; it has several families, Delis, Delius Unicase and Delius Swash Caps. A round marker was used to define Delius's stroke: the line gets thicker at both ends to define the beginning and end of the stroke, as a marker line would do, and the ductus imitates the movements of handwriting.",
+  "homepage": "https://fonts.google.com/specimen/Delius",
+  "copyright": "Copyright (c) 2010 by Natalia Raices. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Delius",
+      "files": [
+        "https://fonts.gstatic.com/s/delius/v21/PN_xRfK0pW_9e1rtYcI-jT3L_w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/delius/v21/PN_xRfK0pW_9e1rtYcI-jT3L_w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Delius",
+      "files": [
+        "https://fonts.gstatic.com/s/delius/v21/PN_xRfK0pW_9e1rtZMI-jT3L_w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/delius/v21/PN_xRfK0pW_9e1rtZMI-jT3L_w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Delius",
+      "styles": [
+        {
+          "family_name": "Delius",
+          "type": "Regular",
+          "full_name": "Delius-Regular",
+          "post_script_name": "Delius-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Natalia Raices. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PN_xRfK0pW_9e1rtYcI-jT3L_w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/kumar_one_outline",
+  "name": "kumar_one_outline",
+  "description": "Kumar One Outline font family",
+  "homepage": "https://fonts.google.com/specimen/Kumar+One+Outline",
+  "copyright": "Copyright (c) 2016 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kumar One Outline",
+      "files": [
+        "https://fonts.gstatic.com/s/kumaroneoutline/v20/Noao6VH62pyLP0fsrZ-v18wlUEcX9zDwRQu8EGKF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kumaroneoutline/v20/Noao6VH62pyLP0fsrZ-v18wlUEcX9zDwRQu8EGKF.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kumar One Outline",
+      "files": [
+        "https://fonts.gstatic.com/s/kumaroneoutline/v20/Noao6VH62pyLP0fsrZ-v18wlUEcX9zD1RQu8EGKF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kumaroneoutline/v20/Noao6VH62pyLP0fsrZ-v18wlUEcX9zD1RQu8EGKF.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kumar One Outline",
+      "styles": [
+        {
+          "family_name": "Kumar One Outline",
+          "type": "Regular",
+          "full_name": "Kumar One Outline",
+          "post_script_name": "KumarOneOutline-Regular",
+          "version": "1.000;PS 1.000;hotconv 1.0.88;makeotf.lib2.5.647800",
+          "copyright": "Copyright (c) 2016 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Noao6VH62pyLP0fsrZ-v18wlUEcX9zDwRQu8EGKF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

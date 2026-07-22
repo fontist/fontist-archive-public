@@ -1,0 +1,58 @@
+{
+  "slug": "google/anton",
+  "name": "anton",
+  "description": "Anton is a reworking of a traditional advertising sans serif typeface. The letter forms have been digitised and then reshaped for use as a webfont, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers. Anton language support includes now African Latin and full coverage of Vietnamese, additional to all Western, Central, and South-Eastern European languages. To contribute see github.com/googlefonts/AntonFont .",
+  "homepage": "https://fonts.google.com/specimen/Anton",
+  "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Anton",
+      "files": [
+        "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K08i4gS7lu.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0K08i4gS7lu.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Anton",
+      "files": [
+        "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0Kx8i4gS7lu.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anton/v27/1Ptgg87LROyAm0Kx8i4gS7lu.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Anton",
+      "styles": [
+        {
+          "family_name": "Anton",
+          "type": "Regular",
+          "full_name": "Anton Regular",
+          "post_script_name": "Anton-Regular",
+          "version": "2.116; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1Ptgg87LROyAm0K08i4gS7lu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

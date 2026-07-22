@@ -1,0 +1,57 @@
+{
+  "slug": "google/bowlby_one_sc",
+  "name": "bowlby_one_sc",
+  "description": "Bowlby One SC is designed for use as a utilitarian, All Caps and Small Caps display font. A version with lowercase characters is also available. Its forms are a fusion of a handfull of designs scanned from old, early Twentieth Century type specimens. Bowlby One SC is perfect for big bold headlines and display uses that need a slightly roughened look. Bowlby is a web font, designed to be used freely across the internet by web browsers on desktop computers, laptops, cloud systems and mobile devices.",
+  "homepage": "https://fonts.google.com/specimen/Bowlby+One+SC",
+  "copyright": "Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bowlby One SC",
+      "files": [
+        "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9Pzgj8owhNjuE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9Pzgj8owhNjuE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bowlby One SC",
+      "files": [
+        "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9Pzg38owhNjuE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bowlbyonesc/v27/DtVlJxerQqQm37tzN3wMug9Pzg38owhNjuE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bowlby One SC",
+      "styles": [
+        {
+          "family_name": "Bowlby One SC",
+          "type": "Regular",
+          "full_name": "Bowlby One SC Regular",
+          "post_script_name": "BowlbyOneSC-Regular",
+          "version": "1.2",
+          "copyright": "Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\"",
+          "variable_font": false,
+          "font": "DtVlJxerQqQm37tzN3wMug9Pzgj8owhNjuE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

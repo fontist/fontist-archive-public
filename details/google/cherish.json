@@ -1,0 +1,58 @@
+{
+  "slug": "google/cherish",
+  "name": "cherish",
+  "description": "Cherish is a gorgeous dry brush style that adds expression and sophistication to your design creations. Perfect for captions and short phrases combined with modern sans fonts. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/cherish .",
+  "homepage": "https://fonts.google.com/specimen/Cherish",
+  "copyright": "Copyright 2004-2021 The Cherish Project Authors (https://github.com/googlefonts/cherish)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cherish",
+      "files": [
+        "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN5iDCI6IJjg8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN5iDCI6IJjg8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cherish",
+      "files": [
+        "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN5iXCI6IJjg8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherish/v9/ll88K2mXUyqsDsTN5iXCI6IJjg8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cherish",
+      "styles": [
+        {
+          "family_name": "Cherish",
+          "type": "Regular",
+          "full_name": "Cherish Regular",
+          "post_script_name": "Cherish-Regular",
+          "version": "1.005",
+          "copyright": "Copyright 2004-2021 The Cherish Project Authors (https://github.com/googlefonts/cherish)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ll88K2mXUyqsDsTN5iDCI6IJjg8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

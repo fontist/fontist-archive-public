@@ -1,0 +1,101 @@
+{
+  "slug": "google/kaisei_decol",
+  "name": "kaisei_decol",
+  "description": "Kaisei Decol is designed with the same element in Kanji, the little dot at the end of the stroke. When typesetted, because of this dot elements, it makes less stimulus to eyes and also gives a cute and fun impression. Best suited for a short sentence, preferably title. Good to use together with Kaisei Opti. To contribute to the project, visit https://github.com/FontKai-Kaisei/Kaisei",
+  "homepage": "https://fonts.google.com/specimen/Kaisei+Decol",
+  "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kaisei Decol",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrwmSqP45sidWf3QmfFW6iyW1EP22OjoA.ttf",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iKr3gr00i_qb57kA.ttf",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iK534r00i_qb57kA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrwmSqP45sidWf3QmfFW6iyW1EP22OjoA.ttf",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iKr3gr00i_qb57kA.ttf",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iK534r00i_qb57kA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kaisei Decol",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrwmSqP45sidWf3QmfFW6iyXlEP22OjoA.woff2",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iKr3gr1ki_qb57kA.woff2",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iK534r1ki_qb57kA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrwmSqP45sidWf3QmfFW6iyXlEP22OjoA.woff2",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iKr3gr1ki_qb57kA.woff2",
+        "https://fonts.gstatic.com/s/kaiseidecol/v11/bMrvmSqP45sidWf3QmfFW6iK534r1ki_qb57kA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kaisei Decol",
+      "styles": [
+        {
+          "family_name": "Kaisei Decol",
+          "type": "Regular",
+          "full_name": "Kaisei Decol Regular",
+          "post_script_name": "KaiseiDecol-Regular",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bMrwmSqP45sidWf3QmfFW6iyW1EP22OjoA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kaisei Decol",
+          "type": "Bold",
+          "full_name": "Kaisei Decol Bold",
+          "post_script_name": "KaiseiDecol-Bold",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bMrvmSqP45sidWf3QmfFW6iK534r00i_qb57kA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaisei Decol Medium",
+      "styles": [
+        {
+          "family_name": "Kaisei Decol Medium",
+          "type": "Regular",
+          "full_name": "Kaisei Decol Medium",
+          "post_script_name": "KaiseiDecol-Medium",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bMrvmSqP45sidWf3QmfFW6iKr3gr00i_qb57kA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

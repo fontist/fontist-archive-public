@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_lydian",
+  "name": "noto_sans_lydian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Lydian is an unmodulated (“sans serif”) design for texts in the historical European Lydian script. It has 32 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Lydian",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lydian)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Lydian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Lydian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUbXMoIjEQI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanslydian/v19/c4m71mVzGN7s8FmIukZJ1v4ZlcPReUbXMoIjEQI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Lydian",
+      "styles": [
+        {
+          "family_name": "Noto Sans Lydian",
+          "type": "Regular",
+          "full_name": "Noto Sans Lydian Regular",
+          "post_script_name": "NotoSansLydian-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/lydian)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "c4m71mVzGN7s8FmIukZJ1v4ZlcPReUPXMoIjEQI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

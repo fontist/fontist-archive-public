@@ -1,0 +1,207 @@
+{
+  "slug": "google/stix_two_text",
+  "name": "stix_two_text",
+  "description": "The Scientific and Technical Information eXchange (STIX) fonts are intended to satisfy the demanding needs of authors, publishers, printers, and others working in the scientific, medical, and technical fields. The STIX Two fonts consist of two variable text fonts (Roman and Italic), eight static text (Regular to Bold in both roman and italic variants) and one Math font (currently only available for direct download from the repository). Together, they provide a uniform set of fonts that can be used throughout the production process. The STIX project began through the joint efforts of American Mathematical Society (AMS), American Institute of Physics (AIP), American Physical Society (APS), American Chemical Society (ACS), The Institute of Electrical and Electronic Engineers (IEEE), and Elsevier. These companies are collectively known as the STI Pub companies. To contribute, see github.com/stipub/stixfonts .",
+  "homepage": "https://fonts.google.com/specimen/STIX+Two+Text",
+  "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "STIX Two Text",
+      "files": [
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2SOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2SOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3iOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3iOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbURBuMkWDmSo.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbURBuMkWDmSo.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcURBuMkWDmSo.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcURBuMkWDmSo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2SOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2SOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3iOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3iOdWxFMN1WD.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbURBuMkWDmSo.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbURBuMkWDmSo.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcURBuMkWDmSo.woff2",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcURBuMkWDmSo.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "STIX Two Text",
+      "files": [
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2SOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2SOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3iOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3iOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbURVuMkWDmSo.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbURVuMkWDmSo.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcURVuMkWDmSo.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcURVuMkWDmSo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2SOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2SOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3iOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3iOYWxFMN1WD.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbURVuMkWDmSo.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbURVuMkWDmSo.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcURVuMkWDmSo.ttf",
+        "https://fonts.gstatic.com/s/stixtwotext/v18/YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcURVuMkWDmSo.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "STIX Two Text",
+      "styles": [
+        {
+          "family_name": "STIX Two Text",
+          "type": "Regular",
+          "full_name": "STIX Two Text Regular",
+          "post_script_name": "STIXTwoText-Regular",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yihg2SOYWxFMN1WD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "STIX Two Text",
+          "type": "Bold",
+          "full_name": "STIX Two Text Bold",
+          "post_script_name": "STIXTwoText-Bold",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YiiH3iOYWxFMN1WD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "STIX Two Text",
+          "type": "Italic",
+          "full_name": "STIX Two Text Italic",
+          "post_script_name": "STIXTwoText-Italic",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omsvbURVuMkWDmSo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "STIX Two Text",
+          "type": "Bold Italic",
+          "full_name": "STIX Two Text Bold Italic",
+          "post_script_name": "STIXTwoText-BoldItalic",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omizcURVuMkWDmSo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "STIX Two Text Medium",
+      "styles": [
+        {
+          "family_name": "STIX Two Text Medium",
+          "type": "Regular",
+          "full_name": "STIX Two Text Medium",
+          "post_script_name": "STIXTwoText-Medium",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5YihS2SOYWxFMN1WD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "STIX Two Text Medium",
+          "type": "Italic",
+          "full_name": "STIX Two Text Medium Italic",
+          "post_script_name": "STIXTwoText-MediumItalic",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omvnbURVuMkWDmSo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "STIX Two Text SemiBold",
+      "styles": [
+        {
+          "family_name": "STIX Two Text SemiBold",
+          "type": "Regular",
+          "full_name": "STIX Two Text SemiBold",
+          "post_script_name": "STIXTwoText-SemiBold",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Gr02F12Xkf5whdwKf11l0jbKkeidMTtZ5Yii-3iOYWxFMN1WD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "STIX Two Text SemiBold",
+          "type": "Italic",
+          "full_name": "STIX Two Text SemiBold Italic",
+          "post_script_name": "STIXTwoText-SemiBoldItalic",
+          "version": "2.13 b171",
+          "copyright": "Copyright 2001-2021 The STIX Fonts Project Authors (https://github.com/stipub/stixfonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "YA9Er02F12Xkf5whdwKf11l0p7uWhf8lJUzXZT2omhXcURVuMkWDmSo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

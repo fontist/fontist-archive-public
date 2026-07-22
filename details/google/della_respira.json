@@ -1,0 +1,58 @@
+{
+  "slug": "google/della_respira",
+  "name": "della_respira",
+  "description": "Della Respira a revival of the Della Robbia typeface by American Type Founders (ATF). Della Respira is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Nathan Willis and see the source files on Launchpad .",
+  "homepage": "https://fonts.google.com/specimen/Della+Respira",
+  "copyright": "Copyright (c) 2011-2012, Nathan Willis (nwillis@glyphography.com), with Reserved Font Names \"Della Respira\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Della Respira",
+      "files": [
+        "https://fonts.gstatic.com/s/dellarespira/v24/RLp5K5v44KaueWI6iEJQBiGPRfkSu6EuTHo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dellarespira/v24/RLp5K5v44KaueWI6iEJQBiGPRfkSu6EuTHo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Della Respira",
+      "files": [
+        "https://fonts.gstatic.com/s/dellarespira/v24/RLp5K5v44KaueWI6iEJQBiGPRfwSu6EuTHo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dellarespira/v24/RLp5K5v44KaueWI6iEJQBiGPRfwSu6EuTHo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Della Respira",
+      "styles": [
+        {
+          "family_name": "Della Respira",
+          "type": "Regular",
+          "full_name": "Della Respira",
+          "post_script_name": "DellaRespira-Regular",
+          "version": "0.201",
+          "copyright": "Copyright (c) 2011-2012, Nathan Willis (nwillis@glyphography.com), with Reserved Font Names \"Della Respira\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLp5K5v44KaueWI6iEJQBiGPRfkSu6EuTHo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

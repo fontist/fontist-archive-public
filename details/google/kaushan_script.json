@@ -1,0 +1,58 @@
+{
+  "slug": "google/kaushan_script",
+  "name": "kaushan_script",
+  "description": "When making digital typefaces, the more you refine the shapes of the letters, the more energy you take away from them. Because of that, Kaushan Script is unrefined - and carries a lot of energy. By avoiding typographical perfection, it stays more natural. The angles of the vertical strokes vary a little, and the positioning along the baseline jumps around, giving it a more rustic and natural feeling. Most script fonts have long ascenders and descenders, and this means they look too small when used at normal sizes on the web. This font is optimized in such details to be very readable as a web font, even when used as small as 16 px. It was funded by people like you, via Kickstarter. Special thanks to the project backers! The name \"Kaushan\" was suggested by Vyacheslav Kaushan, one of the project backers.",
+  "homepage": "https://fonts.google.com/specimen/Kaushan+Script",
+  "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Kaushan Script.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kaushan Script",
+      "files": [
+        "https://fonts.gstatic.com/s/kaushanscript/v19/vm8vdRfvXFLG3OLnsO15WYS5DF7_ytN3M48a.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaushanscript/v19/vm8vdRfvXFLG3OLnsO15WYS5DF7_ytN3M48a.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kaushan Script",
+      "files": [
+        "https://fonts.gstatic.com/s/kaushanscript/v19/vm8vdRfvXFLG3OLnsO15WYS5DF76ytN3M48a.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaushanscript/v19/vm8vdRfvXFLG3OLnsO15WYS5DF76ytN3M48a.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kaushan Script",
+      "styles": [
+        {
+          "family_name": "Kaushan Script",
+          "type": "Regular",
+          "full_name": "Kaushan Script",
+          "post_script_name": "KaushanScript-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com),\rwith Reserved Font Name Kaushan Script.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vm8vdRfvXFLG3OLnsO15WYS5DF7_ytN3M48a.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

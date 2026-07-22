@@ -1,0 +1,58 @@
+{
+  "slug": "google/bungee_tint",
+  "name": "bungee_tint",
+  "description": "Bungee Tint font family",
+  "homepage": "https://fonts.google.com/specimen/Bungee+Tint",
+  "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bungee Tint",
+      "files": [
+        "https://fonts.gstatic.com/s/bungeetint/v3/J7abnpl_EGtUEuAJwN9WmrtKMDwTpTkB.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungeetint/v3/J7abnpl_EGtUEuAJwN9WmrtKMDwTpTkB.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bungee Tint",
+      "files": [
+        "https://fonts.gstatic.com/s/bungeetint/v3/J7abnpl_EGtUEuAJwN9WmrtPMDwTpTkB.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungeetint/v3/J7abnpl_EGtUEuAJwN9WmrtPMDwTpTkB.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bungee Tint",
+      "styles": [
+        {
+          "family_name": "Bungee Tint",
+          "type": "Regular",
+          "full_name": "Bungee Tint Regular",
+          "post_script_name": "BungeeTint-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "J7abnpl_EGtUEuAJwN9WmrtKMDwTpTkB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/bilbo",
+  "name": "bilbo",
+  "description": "Bilbo is a very legible calligraphic style that has a masculine feel. It can be used for more than just display. Use Bilbo in body copy that requires added warmth to a message. Bilbo comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/bilbo .",
+  "homepage": "https://fonts.google.com/specimen/Bilbo",
+  "copyright": "Copyright 2011 The Bilbo Project Authors (https://github.com/googlefonts/bilbo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bilbo",
+      "files": [
+        "https://fonts.gstatic.com/s/bilbo/v21/o-0EIpgpwWwZ210hpIRz4wxE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bilbo/v21/o-0EIpgpwWwZ210hpIRz4wxE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bilbo",
+      "files": [
+        "https://fonts.gstatic.com/s/bilbo/v21/o-0EIpgpwWwZ210kpIRz4wxE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bilbo/v21/o-0EIpgpwWwZ210kpIRz4wxE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bilbo",
+      "styles": [
+        {
+          "family_name": "Bilbo",
+          "type": "Regular",
+          "full_name": "Bilbo Regular",
+          "post_script_name": "Bilbo-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Bilbo Project Authors (https://github.com/googlefonts/bilbo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "o-0EIpgpwWwZ210hpIRz4wxE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

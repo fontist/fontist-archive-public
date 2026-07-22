@@ -1,0 +1,373 @@
+{
+  "slug": "google/k2d",
+  "name": "k2d",
+  "description": "K2D is a Thai and Latin family which has a modern appearance but features Thai's traditional looped letterforms.",
+  "homepage": "https://fonts.google.com/specimen/K2D",
+  "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "K2D",
+      "files": [
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0ErE6UpvrIw74NL.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7afnpF2V0EjdZ1NtLYS6pNLAjk.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erv4QJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3hlZY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er24cJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2FlpY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0ETd68tnLcg7w.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0EjdaUpvrIw74NL.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erg4YJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3dl5Y4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Err4EJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3xkJY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Ery4AJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2VkZY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er14MJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2JkpY4xJ9CGyAa.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0ErE6UpvrIw74NL.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7afnpF2V0EjdZ1NtLYS6pNLAjk.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erv4QJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3hlZY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er24cJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2FlpY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0ETd68tnLcg7w.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0EjdaUpvrIw74NL.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erg4YJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3dl5Y4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Err4EJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3xkJY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Ery4AJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2VkZY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er14MJlJw85ppSGw.ttf",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2JkpY4xJ9CGyAa.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "K2D",
+      "files": [
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0ErE6UsvrIw74NL.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7afnpF2V0EjdZ1NtLMS6pNLAjk.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erv4QJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3hlZY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er24cJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2FlpY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0ETcq8tnLcg7w.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0EjdaUsvrIw74NL.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erg4YJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3dl5Y9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Err4EJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3xkJY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Ery4AJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2VkZY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er14MJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2JkpY9xJ9CGyAa.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0ErE6UsvrIw74NL.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7afnpF2V0EjdZ1NtLMS6pNLAjk.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erv4QJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3hlZY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er24cJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2FlpY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aTnpF2V0ETcq8tnLcg7w.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aRnpF2V0EjdaUsvrIw74NL.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Erg4YJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3dl5Y9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Err4EJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ3xkJY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Ery4AJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2VkZY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7aenpF2V0Er14MJkZw85ppSGw.woff2",
+        "https://fonts.gstatic.com/s/k2d/v13/J7acnpF2V0EjdZ2JkpY9xJ9CGyAa.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "K2D Thin",
+      "styles": [
+        {
+          "family_name": "K2D Thin",
+          "type": "Regular",
+          "full_name": "K2D Thin",
+          "post_script_name": "K2D-Thin",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aRnpF2V0ErE6UpvrIw74NL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D Thin",
+          "type": "Italic",
+          "full_name": "K2D Thin Italic",
+          "post_script_name": "K2D-ThinItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7afnpF2V0EjdZ1NtLYS6pNLAjk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K2D ExtraLight",
+      "styles": [
+        {
+          "family_name": "K2D ExtraLight",
+          "type": "Regular",
+          "full_name": "K2D ExtraLight",
+          "post_script_name": "K2D-ExtraLight",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aenpF2V0Erv4QJlJw85ppSGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D ExtraLight",
+          "type": "Italic",
+          "full_name": "K2D ExtraLight Italic",
+          "post_script_name": "K2D-ExtraLightItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7acnpF2V0EjdZ3hlZY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K2D Light",
+      "styles": [
+        {
+          "family_name": "K2D Light",
+          "type": "Regular",
+          "full_name": "K2D Light",
+          "post_script_name": "K2D-Light",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aenpF2V0Er24cJlJw85ppSGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D Light",
+          "type": "Italic",
+          "full_name": "K2D Light Italic",
+          "post_script_name": "K2D-LightItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7acnpF2V0EjdZ2FlpY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K2D",
+      "styles": [
+        {
+          "family_name": "K2D",
+          "type": "Regular",
+          "full_name": "K2D Regular",
+          "post_script_name": "K2D-Regular",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aTnpF2V0ETd68tnLcg7w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D",
+          "type": "Italic",
+          "full_name": "K2D Italic",
+          "post_script_name": "K2D-Italic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aRnpF2V0EjdaUpvrIw74NL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D",
+          "type": "Bold",
+          "full_name": "K2D Bold",
+          "post_script_name": "K2D-Bold",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aenpF2V0Ery4AJlJw85ppSGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D",
+          "type": "Bold Italic",
+          "full_name": "K2D Bold Italic",
+          "post_script_name": "K2D-BoldItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7acnpF2V0EjdZ2VkZY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K2D Medium",
+      "styles": [
+        {
+          "family_name": "K2D Medium",
+          "type": "Regular",
+          "full_name": "K2D Medium",
+          "post_script_name": "K2D-Medium",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aenpF2V0Erg4YJlJw85ppSGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D Medium",
+          "type": "Italic",
+          "full_name": "K2D Medium Italic",
+          "post_script_name": "K2D-MediumItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7acnpF2V0EjdZ3dl5Y4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K2D SemiBold",
+      "styles": [
+        {
+          "family_name": "K2D SemiBold",
+          "type": "Regular",
+          "full_name": "K2D SemiBold",
+          "post_script_name": "K2D-SemiBold",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aenpF2V0Err4EJlJw85ppSGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D SemiBold",
+          "type": "Italic",
+          "full_name": "K2D SemiBold Italic",
+          "post_script_name": "K2D-SemiBoldItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7acnpF2V0EjdZ3xkJY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K2D ExtraBold",
+      "styles": [
+        {
+          "family_name": "K2D ExtraBold",
+          "type": "Regular",
+          "full_name": "K2D ExtraBold",
+          "post_script_name": "K2D-ExtraBold",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aenpF2V0Er14MJlJw85ppSGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "K2D ExtraBold",
+          "type": "Italic",
+          "full_name": "K2D ExtraBold Italic",
+          "post_script_name": "K2D-ExtraBoldItalic",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7acnpF2V0EjdZ2JkpY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

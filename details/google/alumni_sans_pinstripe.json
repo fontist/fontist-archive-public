@@ -1,0 +1,77 @@
+{
+  "slug": "google/alumni_sans_pinstripe",
+  "name": "alumni_sans_pinstripe",
+  "description": "Alumni Pinstripe is a stand alone font from its base font, Alumni Sans (a variable font). Pinstripe is a super-thin weight and designed to be used as a display font above 32pt in print (assuming 300 dpi) and above 72px in digital media. In situations that require large text, use this Pinstripe variation in combination with the Alumni Sans base design. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/alumni-sans-pinstripe .",
+  "homepage": "https://fonts.google.com/specimen/Alumni+Sans+Pinstripe",
+  "copyright": "Copyright 2014 The Alumni Sans Pinstripe Project Authors (https://github.com/googlefonts/alumni-sans-pinstripe)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alumni Sans Pinstripe",
+      "files": [
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObhezYrVIpcDA5w.ttf",
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNDjOFFPq_AUJD1umyS30W-Xub8zD1ObheDYL9Mh8XQ5_cY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObhezYrVIpcDA5w.ttf",
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNDjOFFPq_AUJD1umyS30W-Xub8zD1ObheDYL9Mh8XQ5_cY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alumni Sans Pinstripe",
+      "files": [
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObhezZ7VIpcDA5w.woff2",
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNDjOFFPq_AUJD1umyS30W-Xub8zD1ObheDYL9Jh8XQ5_cY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObhezZ7VIpcDA5w.woff2",
+        "https://fonts.gstatic.com/s/alumnisanspinstripe/v8/ZgNDjOFFPq_AUJD1umyS30W-Xub8zD1ObheDYL9Jh8XQ5_cY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alumni Sans Pinstripe",
+      "styles": [
+        {
+          "family_name": "Alumni Sans Pinstripe",
+          "type": "Regular",
+          "full_name": "Alumni Sans Pinstripe Regular",
+          "post_script_name": "AlumniSansPinstripe-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2014 The Alumni Sans Pinstripe Project Authors (https://github.com/googlefonts/alumni-sans-pinstripe)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZgNNjOFFPq_AUJD1umyS30W-Xub8zD1ObhezYrVIpcDA5w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Alumni Sans Pinstripe",
+          "type": "Italic",
+          "full_name": "Alumni Sans Pinstripe Italic",
+          "post_script_name": "AlumniSansPinstripe-Italic",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2014 The Alumni Sans Pinstripe Project Authors (https://github.com/googlefonts/alumni-sans-pinstripe)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZgNDjOFFPq_AUJD1umyS30W-Xub8zD1ObheDYL9Mh8XQ5_cY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

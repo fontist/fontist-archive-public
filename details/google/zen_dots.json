@@ -1,0 +1,58 @@
+{
+  "slug": "google/zen_dots",
+  "name": "zen_dots",
+  "description": "Zen Dots Family is one of three Latin fonts designed by Yoshimichi Ohira, as part of the Zen Fonts collection. Zen Dots was designed with a futuristic vision and inspired by the different eras in science fiction films. To contribute, see github.com/googlefonts/zen-dots .",
+  "homepage": "https://fonts.google.com/specimen/Zen+Dots",
+  "copyright": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zen Dots",
+      "files": [
+        "https://fonts.gstatic.com/s/zendots/v14/XRXX3ICfm00IGoesQeaETM_FcCIG.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zendots/v14/XRXX3ICfm00IGoesQeaETM_FcCIG.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zen Dots",
+      "files": [
+        "https://fonts.gstatic.com/s/zendots/v14/XRXX3ICfm00IGoesQeaBTM_FcCIG.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zendots/v14/XRXX3ICfm00IGoesQeaBTM_FcCIG.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zen Dots",
+      "styles": [
+        {
+          "family_name": "Zen Dots",
+          "type": "Regular",
+          "full_name": "Zen Dots Regular",
+          "post_script_name": "ZenDots-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Dots Project Authors (https://github.com/googlefonts/zen-dots)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "XRXX3ICfm00IGoesQeaETM_FcCIG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

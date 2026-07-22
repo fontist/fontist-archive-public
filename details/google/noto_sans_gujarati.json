@@ -1,0 +1,253 @@
+{
+  "slug": "google/noto_sans_gujarati",
+  "name": "noto_sans_gujarati",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Gujarati is an unmodulated (“sans serif”) design for texts in the Indic Gujarati script. It has 798 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Gujarati",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Gujarati",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFgPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpFwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_z3FwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ybFwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_x3EAPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_xOEAPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpEAPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wAEAPJ_OdiEH0s.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFgPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpFwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_z3FwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ybFwPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_x3EAPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_xOEAPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpEAPJ_OdiEH0s.woff2",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wAEAPJ_OdiEH0s.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Gujarati",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFgPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpFwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_z3FwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ybFwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_x3EAPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_xOEAPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpEAPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wAEAPM_OdiEH0s.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFgPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpFwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_z3FwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ybFwPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_x3EAPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_xOEAPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpEAPM_OdiEH0s.ttf",
+        "https://fonts.gstatic.com/s/notosansgujarati/v27/wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wAEAPM_OdiEH0s.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Gujarati Thin",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati Thin",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati Thin",
+          "post_script_name": "NotoSansGujarati-Thin",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFgPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati ExtraLight",
+          "post_script_name": "NotoSansGujarati-ExtraLight",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpFwPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati Light",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati Light",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati Light",
+          "post_script_name": "NotoSansGujarati-Light",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_z3FwPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati Regular",
+          "post_script_name": "NotoSansGujarati-Regular",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ypFwPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Gujarati",
+          "type": "Bold",
+          "full_name": "Noto Sans Gujarati Bold",
+          "post_script_name": "NotoSansGujarati-Bold",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_xOEAPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati Medium",
+          "post_script_name": "NotoSansGujarati-Medium",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_ybFwPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati SemiBold",
+          "post_script_name": "NotoSansGujarati-SemiBold",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_x3EAPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati ExtraBold",
+          "post_script_name": "NotoSansGujarati-ExtraBold",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wpEAPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Gujarati Black",
+      "styles": [
+        {
+          "family_name": "Noto Sans Gujarati Black",
+          "type": "Regular",
+          "full_name": "Noto Sans Gujarati Black",
+          "post_script_name": "NotoSansGujarati-Black",
+          "version": "2.106",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gujarati)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wlpWgx_HC1ti5ViekvcxnhMlCVo3f5pv17ivlzsUB14gg1TMR2Gw4VceEl7MA_wAEAPM_OdiEH0s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

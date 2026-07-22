@@ -1,0 +1,58 @@
+{
+  "slug": "google/risque",
+  "name": "risque",
+  "description": "Risque finds its inspiration from the title screen of the 1962 Looney Toons cartoon called \"Martian through Georgia\". Originally an all Capitals reference, it has been created with a lowercase as lively as the irregular latin-esque Capitals. A frolicking fun typeface for retro and all-around offbeat occasions. To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Risque",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Risque\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Risque",
+      "files": [
+        "https://fonts.gstatic.com/s/risque/v24/VdGfAZUfHosahXxoCUYVBJ-T5g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/risque/v24/VdGfAZUfHosahXxoCUYVBJ-T5g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Risque",
+      "files": [
+        "https://fonts.gstatic.com/s/risque/v24/VdGfAZUfHosahXxoDEYVBJ-T5g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/risque/v24/VdGfAZUfHosahXxoDEYVBJ-T5g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Risque",
+      "styles": [
+        {
+          "family_name": "Risque",
+          "type": "Regular",
+          "full_name": "Risque",
+          "post_script_name": "Risque-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Risque\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGfAZUfHosahXxoCUYVBJ-T5g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "google/zen_old_mincho",
+  "name": "zen_old_mincho",
+  "description": "Zen Old Mincho is a Japanese mincho (serif) typeface with a classic design. This font family started with the regular (400) weight, and bold and black weights were added due to huge demand. The wide range of weights means while the design is intended for text usage, it also works well in large sizes. To contribute to the project, visit github.com/googlefonts/zen-oldmincho Zen Old Mincho はベーシックな本文用の日本語明朝体ファミリーです このフォントファミリーには、はじめは「Regular」の太さしかありませんでしたが、多くの要望にお応えして、他のウェイトも追加しました。使える太さの範囲が広いため、本文用だけでなく、その他さ まざまな場面やメディアでご利用いただけます。 このプロジェクトに参加して貢献したい方は、次の URL をご参照ください。 github.com/googlefonts/zen-oldmincho To learn more, read Say Hello to our big new Japanese collection with Zen Fonts (English), The Story of Zen Fonts - interview with Yoshimichi Ohira (English), Zenフォント: 新しい日本語フォントコレクションの登場 - 日本語フォントの複雑な美しさについて - (Japanese), and Zenフォントのおはなし：大平善道さんとのインタビュー (Japanese).",
+  "homepage": "https://fonts.google.com/specimen/Zen+Old+Mincho",
+  "copyright": "Copyright 2021 The Zen Old Mincho Project Authors (https://github.com/googlefonts/zen-oldmincho)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zen Old Mincho",
+      "files": [
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss0ApVaYytLwxTqcxfMyBveyYb3g31S2s8p.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4Dqlla8dMgPgBu.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4vrVla8dMgPgBu.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5LrFla8dMgPgBu.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5zrlla8dMgPgBu.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss0ApVaYytLwxTqcxfMyBveyYb3g31S2s8p.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4Dqlla8dMgPgBu.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4vrVla8dMgPgBu.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5LrFla8dMgPgBu.ttf",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5zrlla8dMgPgBu.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zen Old Mincho",
+      "files": [
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss0ApVaYytLwxTqcxfMyBveyYbyg31S2s8p.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4Dqllf8dMgPgBu.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4vrVlf8dMgPgBu.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5LrFlf8dMgPgBu.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5zrllf8dMgPgBu.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss0ApVaYytLwxTqcxfMyBveyYbyg31S2s8p.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4Dqllf8dMgPgBu.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb4vrVlf8dMgPgBu.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5LrFlf8dMgPgBu.woff2",
+        "https://fonts.gstatic.com/s/zenoldmincho/v13/tss3ApVaYytLwxTqcxfMyBveyb5zrllf8dMgPgBu.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zen Old Mincho",
+      "styles": [
+        {
+          "family_name": "Zen Old Mincho",
+          "type": "Regular",
+          "full_name": "Zen Old Mincho Regular",
+          "post_script_name": "ZenOldMincho-Regular",
+          "version": "1.500",
+          "copyright": "Copyright 2021 The Zen Old Mincho Project Authors (https://github.com/googlefonts/zen-oldmincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tss0ApVaYytLwxTqcxfMyBveyYb3g31S2s8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zen Old Mincho",
+          "type": "Bold",
+          "full_name": "Zen Old Mincho Bold",
+          "post_script_name": "ZenOldMincho-Bold",
+          "version": "1.500",
+          "copyright": "Copyright 2021 The Zen Old Mincho Project Authors (https://github.com/googlefonts/zen-oldmincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tss3ApVaYytLwxTqcxfMyBveyb5LrFla8dMgPgBu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zen Old Mincho Medium",
+      "styles": [
+        {
+          "family_name": "Zen Old Mincho Medium",
+          "type": "Regular",
+          "full_name": "Zen Old Mincho Medium",
+          "post_script_name": "ZenOldMincho-Medium",
+          "version": "1.500",
+          "copyright": "Copyright 2021 The Zen Old Mincho Project Authors (https://github.com/googlefonts/zen-oldmincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tss3ApVaYytLwxTqcxfMyBveyb4Dqlla8dMgPgBu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zen Old Mincho SemiBold",
+      "styles": [
+        {
+          "family_name": "Zen Old Mincho SemiBold",
+          "type": "Regular",
+          "full_name": "Zen Old Mincho SemiBold",
+          "post_script_name": "ZenOldMincho-SemiBold",
+          "version": "1.500",
+          "copyright": "Copyright 2021 The Zen Old Mincho Project Authors (https://github.com/googlefonts/zen-oldmincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tss3ApVaYytLwxTqcxfMyBveyb4vrVla8dMgPgBu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zen Old Mincho Black",
+      "styles": [
+        {
+          "family_name": "Zen Old Mincho Black",
+          "type": "Regular",
+          "full_name": "Zen Old Mincho Black",
+          "post_script_name": "ZenOldMincho-Black",
+          "version": "1.500",
+          "copyright": "Copyright 2021 The Zen Old Mincho Project Authors (https://github.com/googlefonts/zen-oldmincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tss3ApVaYytLwxTqcxfMyBveyb5zrlla8dMgPgBu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

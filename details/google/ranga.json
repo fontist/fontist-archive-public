@@ -1,0 +1,75 @@
+{
+  "slug": "google/ranga",
+  "name": "ranga",
+  "description": "Once Allan was a sign painter in Berlin. Grey paneling work in the subway, bad materials, a city split in two. Now things have changed. His (character) palette of activities have expanded tremendously: even Indian flavours are are no longer foreign to him. Bolder brush is used when there is need for true impact. Sensitive subjects are treated with subtlety of regular style. Slightly inclined. This project is led by TipTopTyp, a type foundry based in Berlin, Germany. To contribute, see Ranga on GitHub .",
+  "homepage": "https://fonts.google.com/specimen/Ranga",
+  "copyright": "Copyright (c) 2014 by TipTopTyp. All rights reserved under SIL openfont License 1.1",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ranga",
+      "files": [
+        "https://fonts.gstatic.com/s/ranga/v22/C8ct4cYisGb28p6CLDwZwmGE.ttf",
+        "https://fonts.gstatic.com/s/ranga/v22/C8cg4cYisGb28qY-AxgR6X2NZAn2.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ranga/v22/C8ct4cYisGb28p6CLDwZwmGE.ttf",
+        "https://fonts.gstatic.com/s/ranga/v22/C8cg4cYisGb28qY-AxgR6X2NZAn2.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ranga",
+      "files": [
+        "https://fonts.gstatic.com/s/ranga/v22/C8ct4cYisGb28p6HLDwZwmGE.woff2",
+        "https://fonts.gstatic.com/s/ranga/v22/C8cg4cYisGb28qY-AxgU6X2NZAn2.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ranga/v22/C8ct4cYisGb28p6HLDwZwmGE.woff2",
+        "https://fonts.gstatic.com/s/ranga/v22/C8cg4cYisGb28qY-AxgU6X2NZAn2.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ranga",
+      "styles": [
+        {
+          "family_name": "Ranga",
+          "type": "Regular",
+          "full_name": "Ranga Regular",
+          "post_script_name": "Ranga-Regular",
+          "version": "1.0.2",
+          "copyright": "Copyright (c) 2014 by TipTopTyp. All rights reserved under SIL openfont License 1.1",
+          "variable_font": false,
+          "font": "C8ct4cYisGb28p6CLDwZwmGE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Ranga",
+          "type": "Bold",
+          "full_name": "Ranga Bold",
+          "post_script_name": "Ranga-Bold",
+          "version": "1.0.2",
+          "copyright": "Copyright (c) 2014 by TipTopTyp. All rights reserved under SIL openfont License 1.1",
+          "variable_font": false,
+          "font": "C8cg4cYisGb28qY-AxgR6X2NZAn2.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

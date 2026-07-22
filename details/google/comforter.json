@@ -1,0 +1,58 @@
+{
+  "slug": "google/comforter",
+  "name": "comforter",
+  "description": "Comforter is a bouncy, upright brush style script. Its look is appealing for many usages. It’s contemporary, and non- traditional. It’s sophisticated, yet fun and funky. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/comforter .",
+  "homepage": "https://fonts.google.com/specimen/Comforter",
+  "copyright": "Copyright 2015 The Comforter Project Authors (https://github.com/googlefonts/comforter)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Comforter",
+      "files": [
+        "https://fonts.gstatic.com/s/comforter/v9/H4clBXOCl8nQnlaql3Qa6JG8iqeuag.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/comforter/v9/H4clBXOCl8nQnlaql3Qa6JG8iqeuag.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Comforter",
+      "files": [
+        "https://fonts.gstatic.com/s/comforter/v9/H4clBXOCl8nQnlaql3Qa7ZG8iqeuag.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/comforter/v9/H4clBXOCl8nQnlaql3Qa7ZG8iqeuag.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Comforter",
+      "styles": [
+        {
+          "family_name": "Comforter",
+          "type": "Regular",
+          "full_name": "Comforter Regular",
+          "post_script_name": "Comforter-Regular",
+          "version": "1.013; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2015 The Comforter Project Authors (https://github.com/googlefonts/comforter)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4clBXOCl8nQnlaql3Qa6JG8iqeuag.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

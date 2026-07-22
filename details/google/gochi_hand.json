@@ -1,0 +1,58 @@
+{
+  "slug": "google/gochi_hand",
+  "name": "gochi_hand",
+  "description": "Gochi Hand is a typographic interpretation of the handwriting of a teenager. The style is fresh, not like the letters made by a calligrapher, but those of an ordinary person. The text line is spontaneous but solid and consistent, expressive and works well on screen, even in small sizes. The glyphs were carefully designed with a good curve quality that makes it able to look good when printed too. Designed by Juan Pablo del Peral for Huerta Tipográfica . To contribute, see github.com/huertatipografica/gochi-hand .",
+  "homepage": "https://fonts.google.com/specimen/Gochi+Hand",
+  "copyright": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar),  with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gochi Hand",
+      "files": [
+        "https://fonts.gstatic.com/s/gochihand/v25/hES06XlsOjtJsgCkx1PkTo71-n0nXWA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gochihand/v25/hES06XlsOjtJsgCkx1PkTo71-n0nXWA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gochi Hand",
+      "files": [
+        "https://fonts.gstatic.com/s/gochihand/v25/hES06XlsOjtJsgCkx1PkTov1-n0nXWA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gochihand/v25/hES06XlsOjtJsgCkx1PkTov1-n0nXWA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gochi Hand",
+      "styles": [
+        {
+          "family_name": "Gochi Hand",
+          "type": "Regular",
+          "full_name": "Gochi Hand",
+          "post_script_name": "GochiHand-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar),  with Reserved Font Names \"Gochi\" and \"Gochi Hand\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "hES06XlsOjtJsgCkx1PkTo71-n0nXWA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

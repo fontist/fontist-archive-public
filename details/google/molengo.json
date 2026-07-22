@@ -1,0 +1,58 @@
+{
+  "slug": "google/molengo",
+  "name": "molengo",
+  "description": "Molengo is a Latin typeface for documents. It is multilingual and has some features required by many minority languages such as non-spacing mark placement. The font is produced with FontForge. The glyphs are designed in a CFF file but the production file is a TTF file with hinting instructions made with Xgridfit.",
+  "homepage": "https://fonts.google.com/specimen/Molengo",
+  "copyright": "Copyright (c) 2007, Denis Moyogo Jacquerye <moyogo@gmail.com>, with Reserved Font Name Molengo",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Molengo",
+      "files": [
+        "https://fonts.gstatic.com/s/molengo/v17/I_uuMpWeuBzZNBtQbbRQkiCvs5Y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/molengo/v17/I_uuMpWeuBzZNBtQbbRQkiCvs5Y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Molengo",
+      "files": [
+        "https://fonts.gstatic.com/s/molengo/v17/I_uuMpWeuBzZNBtQbbFQkiCvs5Y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/molengo/v17/I_uuMpWeuBzZNBtQbbFQkiCvs5Y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Molengo",
+      "styles": [
+        {
+          "family_name": "Molengo",
+          "type": "Regular",
+          "full_name": "Molengo",
+          "post_script_name": "Molengo-Regular",
+          "version": "0.11; ttfautohint (v0.8) -G 32 -r 16 -x",
+          "copyright": "Copyright (c) 2007, Denis Moyogo Jacquerye <moyogo@gmail.com>, with Reserved Font Name Molengo",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "I_uuMpWeuBzZNBtQbbRQkiCvs5Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

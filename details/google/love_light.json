@@ -1,0 +1,58 @@
+{
+  "slug": "google/love_light",
+  "name": "love_light",
+  "description": "Adopted from an original hand lettered work, Love Light is an adaptation of another font. Its heart embellishments add a bit of romantic fantasy to this beautiful calligraphic script. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/love-light .",
+  "homepage": "https://fonts.google.com/specimen/Love+Light",
+  "copyright": "Copyright 2003 The Love Light Project Authors (https://github.com/googlefonts/love-light)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Love Light",
+      "files": [
+        "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Love Light",
+      "files": [
+        "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKPCyTHuspo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lovelight/v8/t5tlIR0TNJyZWimpNAXDjKPCyTHuspo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Love Light",
+      "styles": [
+        {
+          "family_name": "Love Light",
+          "type": "Regular",
+          "full_name": "Love Light Regular",
+          "post_script_name": "LoveLight-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003 The Love Light Project Authors (https://github.com/googlefonts/love-light)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "t5tlIR0TNJyZWimpNAXDjKbCyTHuspo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/sonsie_one",
+  "name": "sonsie_one",
+  "description": "Foundry: Sorkin Type Co Sonsie One is a heavy, medium contrast, large x-height script font. It was inspired by hand painted signs seen in Munich. Sonsie One improves on its sources by adding warmth, smoother flow and of touch of funkiness. Sonsie One is best used for display purposes at medium to large sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Sonsie+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Sonsie One\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sonsie One",
+      "files": [
+        "https://fonts.gstatic.com/s/sonsieone/v22/PbymFmP_EAnPqbKaoc18YVu80lbp8JM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sonsieone/v22/PbymFmP_EAnPqbKaoc18YVu80lbp8JM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sonsie One",
+      "files": [
+        "https://fonts.gstatic.com/s/sonsieone/v22/PbymFmP_EAnPqbKaoc18YV680lbp8JM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sonsieone/v22/PbymFmP_EAnPqbKaoc18YV680lbp8JM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sonsie One",
+      "styles": [
+        {
+          "family_name": "Sonsie One",
+          "type": "Regular",
+          "full_name": "Sonsie One",
+          "post_script_name": "SonsieOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Sonsie One\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PbymFmP_EAnPqbKaoc18YVu80lbp8JM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

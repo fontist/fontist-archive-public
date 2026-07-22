@@ -1,0 +1,131 @@
+{
+  "slug": "google/edu_qld_beginner",
+  "name": "edu_qld_beginner",
+  "description": "The Foundation Fonts for Australian Schools collection is a set of handwriting fonts designed specifically to meet Australian Education standards. While weights, widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. Each Australian state teaches different handwriting styles in lower primary school (although some states do share the same style). There are essentially three stages involved with each state's styles: The foundational stage involves learning basic letter formation. The transitional stage adds joining ligatures to some letters. The cursive stage joins almost all letters (with some exceptions). The QLD School Fonts include both: Queensland Beginners Alphabet - a simple sloped print for early primary school. Queensland Beginners Cursive - transitional joining letter alternates (pre-cursive stage). Students in Queensland learn QBeginners from years 1 to 3 and QCursive from year 4. Google Workspace users are provided standard versions online, however they may download or build the complete OpenType versions from GitHub for local installations. To download the full version, or to contribute, see github.com/MezMerrit/AU-School-Handwriting-Fonts .",
+  "homepage": "https://fonts.google.com/specimen/Edu+QLD+Beginner",
+  "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Edu QLD Beginner",
+      "files": [
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3oeei6vyVWCN.woff2",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE423oeei6vyVWCN.woff2",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7a2Yeei6vyVWCN.woff2",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7j2Yeei6vyVWCN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3oeei6vyVWCN.woff2",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE423oeei6vyVWCN.woff2",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7a2Yeei6vyVWCN.woff2",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7j2Yeei6vyVWCN.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Edu QLD Beginner",
+      "files": [
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3oebi6vyVWCN.ttf",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE423oebi6vyVWCN.ttf",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7a2Yebi6vyVWCN.ttf",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7j2Yebi6vyVWCN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3oebi6vyVWCN.ttf",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE423oebi6vyVWCN.ttf",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7a2Yebi6vyVWCN.ttf",
+        "https://fonts.gstatic.com/s/eduqldbeginner/v5/AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7j2Yebi6vyVWCN.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Edu QLD Beginner",
+      "styles": [
+        {
+          "family_name": "Edu QLD Beginner",
+          "type": "Regular",
+          "full_name": "Edu QLD Beginner Regular",
+          "post_script_name": "EduQLDBeginner-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE4E3oebi6vyVWCN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Edu QLD Beginner",
+          "type": "Bold",
+          "full_name": "Edu QLD Beginner Bold",
+          "post_script_name": "EduQLDBeginner-Bold",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7j2Yebi6vyVWCN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edu QLD Beginner Medium",
+      "styles": [
+        {
+          "family_name": "Edu QLD Beginner Medium",
+          "type": "Regular",
+          "full_name": "Edu QLD Beginner Medium",
+          "post_script_name": "EduQLDBeginner-Medium",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE423oebi6vyVWCN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edu QLD Beginner SemiBold",
+      "styles": [
+        {
+          "family_name": "Edu QLD Beginner SemiBold",
+          "type": "Regular",
+          "full_name": "Edu QLD Beginner SemiBold",
+          "post_script_name": "EduQLDBeginner-SemiBold",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "AMOHz5iUuHLEMNXyohhc_Y56PR3A8dNLF_w3Ka4HKE7a2Yebi6vyVWCN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/salsa",
+  "name": "salsa",
+  "description": "Salsa was inspired by the old LP album covers from the 1970s, which is why the name is of the main musical genre of Latin America. Avoiding any stereotypes of grunge, vernacular or decorated styles, the font was designed from the vertical structure of an italic, based on behavior and nature of the flat round brush stroke. Salsa was developed as the final project in the postgraduate programme in Typography at the University of Buenos Aires. Functionally it can be used in titles and short texts, and has been developed with Swash Caps.",
+  "homepage": "https://fonts.google.com/specimen/Salsa",
+  "copyright": "Copyright (c) 2011 by John Vargas Beltrn (john.vargasbeltran@gmail.com), with Reserved Font Name Salsa.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Salsa",
+      "files": [
+        "https://fonts.gstatic.com/s/salsa/v23/gNMKW3FiRpKj-imY8ncKEZez.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/salsa/v23/gNMKW3FiRpKj-imY8ncKEZez.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Salsa",
+      "files": [
+        "https://fonts.gstatic.com/s/salsa/v23/gNMKW3FiRpKj-imd8ncKEZez.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/salsa/v23/gNMKW3FiRpKj-imd8ncKEZez.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Salsa",
+      "styles": [
+        {
+          "family_name": "Salsa",
+          "type": "Regular",
+          "full_name": "Salsa-Regular",
+          "post_script_name": "Salsa-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by John Vargas Beltrn (john.vargasbeltran@gmail.com), with Reserved Font Name Salsa.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMKW3FiRpKj-imY8ncKEZez.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

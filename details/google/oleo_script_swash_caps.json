@@ -1,0 +1,77 @@
+{
+  "slug": "google/oleo_script_swash_caps",
+  "name": "oleo_script_swash_caps",
+  "description": "Oleo is a flowy yet legible non-connected script typeface. It is perfect for situations where a quaint and casual lettering effect is desired. Suitable for various typography contexts including captions, headlines, packaging, invitations, cards, posters, advertising, greeting cards, and book jackets. Oleo Script Swash Caps is currently available in two weights, Regular and Bold. It has also a Oleo Script sister family, also available in Regular and Bold. Oleo Script Swash Caps is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. For more information see the Soytutype website, follow us on Twitter @soytutype or Google+ or contact Soytutype .",
+  "homepage": "https://fonts.google.com/specimen/Oleo+Script+Swash+Caps",
+  "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Oleo Script Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HMXquSY0Hg90.ttf",
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBbYUsn9T5dt0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HMXquSY0Hg90.ttf",
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBbYUsn9T5dt0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Oleo Script Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HMX-uSY0Hg90.woff2",
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBbYAsn9T5dt0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HMX-uSY0Hg90.woff2",
+        "https://fonts.gstatic.com/s/oleoscriptswashcaps/v14/Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBbYAsn9T5dt0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Oleo Script Swash Caps",
+      "styles": [
+        {
+          "family_name": "Oleo Script Swash Caps",
+          "type": "Regular",
+          "full_name": "Oleo Script Swash Caps",
+          "post_script_name": "OleoScriptSwashCaps-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+          "variable_font": false,
+          "font": "Noaj6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HMXquSY0Hg90.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Oleo Script Swash Caps",
+          "type": "Bold",
+          "full_name": "Oleo Script Swash Caps Bold",
+          "post_script_name": "OleoScriptSwashCaps-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Soytutype (contact@soytutype.com.ar|soytutype@gmail.com), with reserved fontname 'Oleo'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL.",
+          "variable_font": false,
+          "font": "Noag6Vb-w5SFbTTAsZP_7JkCS08K-jCzDn_HCcaBbYUsn9T5dt0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

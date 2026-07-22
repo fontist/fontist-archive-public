@@ -1,0 +1,88 @@
+{
+  "slug": "google/kapakana",
+  "name": "kapakana",
+  "description": "Kapakana is a Kana typeface designed with the concept of a copperplate script, including Hiragana, Katakana, and Latin glyphs (for pinyin use). It is a two weight font and available both as static instances and as a variable font. To contribute to the project, visit github.com/nagamaki008/kapakana",
+  "homepage": "https://fonts.google.com/specimen/Kapakana",
+  "copyright": "Copyright 2020 The Kapakana Project Authors (https://github.com/nagamaki008/kapakana)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Kapakana",
+      "files": [
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5sBbXZ4IXAA.woff2",
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5sBbXZ4IXAA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5sBbXZ4IXAA.woff2",
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5sBbXZ4IXAA.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Kapakana",
+      "files": [
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5tRbXZ4IXAA.ttf",
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5tRbXZ4IXAA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5tRbXZ4IXAA.ttf",
+        "https://fonts.gstatic.com/s/kapakana/v19/sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5tRbXZ4IXAA.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kapakana Light",
+      "styles": [
+        {
+          "family_name": "Kapakana Light",
+          "type": "Regular",
+          "full_name": "Kapakana Light",
+          "post_script_name": "Kapakana-Light",
+          "version": "1.002",
+          "copyright": "Copyright 2020 The Kapakana Project Authors (https://github.com/nagamaki008/kapakana)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "sykt-yN0m6InS7OD9BCc9iYVO-6XOlDixNA5tRbXZ4IXAA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kapakana",
+      "styles": [
+        {
+          "family_name": "Kapakana",
+          "type": "Regular",
+          "full_name": "Kapakana Regular",
+          "post_script_name": "Kapakana-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2020 The Kapakana Project Authors (https://github.com/nagamaki008/kapakana)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "sykt-yN0m6InS7OD9BCc9iYVO-6XOlDimtA5tRbXZ4IXAA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

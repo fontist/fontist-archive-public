@@ -1,0 +1,58 @@
+{
+  "slug": "google/paprika",
+  "name": "paprika",
+  "description": "Paprika will give taste and color to your texts with its clear and friendly gestures. An expressive typeface, it can be used in long texts as it gives readers a pleasant reading experience and is excellent in headlines that also need a natural feeling. To contribute, see github.com/etunni/paprika .",
+  "homepage": "https://fonts.google.com/specimen/Paprika",
+  "copyright": "Copyright 2012 The Paprika Project Authors (https://github.com/etunni/paprika)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Paprika",
+      "files": [
+        "https://fonts.gstatic.com/s/paprika/v24/8QIJdijZitv49rDfuIgOq7jkAOw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/paprika/v24/8QIJdijZitv49rDfuIgOq7jkAOw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Paprika",
+      "files": [
+        "https://fonts.gstatic.com/s/paprika/v24/8QIJdijZitv49rDfuI0Oq7jkAOw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/paprika/v24/8QIJdijZitv49rDfuI0Oq7jkAOw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Paprika",
+      "styles": [
+        {
+          "family_name": "Paprika",
+          "type": "Regular",
+          "full_name": "Paprika Regular",
+          "post_script_name": "Paprika-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2012 The Paprika Project Authors (https://github.com/etunni/paprika)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "8QIJdijZitv49rDfuIgOq7jkAOw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_cz",
+  "name": "playwrite_cz",
+  "description": "Playwrite CZ font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+CZ",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite CZ",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4aTqH_VkAS5X4.woff2",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCA4bTqH_VkAS5X4.woff2",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCNAbTqH_VkAS5X4.woff2",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bTqH_VkAS5X4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4aTqH_VkAS5X4.woff2",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCA4bTqH_VkAS5X4.woff2",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCNAbTqH_VkAS5X4.woff2",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bTqH_VkAS5X4.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite CZ",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4aTqT_VkAS5X4.ttf",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCA4bTqT_VkAS5X4.ttf",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCNAbTqT_VkAS5X4.ttf",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bTqT_VkAS5X4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4aTqT_VkAS5X4.ttf",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCA4bTqT_VkAS5X4.ttf",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCNAbTqT_VkAS5X4.ttf",
+        "https://fonts.gstatic.com/s/playwritecz/v6/8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bTqT_VkAS5X4.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite CZ Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite CZ Thin",
+          "type": "Regular",
+          "full_name": "Playwrite CZ Thin",
+          "post_script_name": "PlaywriteCZ-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4aTqT_VkAS5X4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite CZ ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite CZ ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite CZ ExtraLight",
+          "post_script_name": "PlaywriteCZ-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCA4bTqT_VkAS5X4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite CZ Light",
+      "styles": [
+        {
+          "family_name": "Playwrite CZ Light",
+          "type": "Regular",
+          "full_name": "Playwrite CZ Light",
+          "post_script_name": "PlaywriteCZ-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCNAbTqT_VkAS5X4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite CZ",
+      "styles": [
+        {
+          "family_name": "Playwrite CZ",
+          "type": "Regular",
+          "full_name": "Playwrite CZ Regular",
+          "post_script_name": "PlaywriteCZ-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "8vIa7wYp22pt_BUChSHeVxxlOPUEKoMfap_FCI4bTqT_VkAS5X4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

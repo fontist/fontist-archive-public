@@ -1,0 +1,158 @@
+{
+  "slug": "google/overlock",
+  "name": "overlock",
+  "description": "The Overlock typeface family was selected by the Letras Latinas Biennal in 2006. The initial idea of this typeface was to simulate the Overlock sewing technique. The special thing about these forms is the warm feeling that they give to your text, because of the particular rounded glyph shapes that emerge. As a result, the Overlock typeface family is great for titles and short texts in magazine style layouts. It looks its very best at bigger sizes. It comes in three weights, Regular, Bold and Black, each with a true italic. It has two set of numbers and small caps which are available as a sister family, Overlock SC",
+  "homepage": "https://fonts.google.com/specimen/Overlock",
+  "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Overlock",
+      "files": [
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XVDmdMWRiN1_T9Z4Te4u2El6GC.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XTDmdMWRiN1_T9Z7Tc6OmmkrGC7Cs.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xizcmMvL2L9TLT.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0FWJtrmp8CLTlNs.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xaz8mMvL2L9TLT.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0G2Ltrmp8CLTlNs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XVDmdMWRiN1_T9Z4Te4u2El6GC.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XTDmdMWRiN1_T9Z7Tc6OmmkrGC7Cs.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xizcmMvL2L9TLT.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0FWJtrmp8CLTlNs.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xaz8mMvL2L9TLT.ttf",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0G2Ltrmp8CLTlNs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Overlock",
+      "files": [
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XVDmdMWRiN1_T9Z4Tb4u2El6GC.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XTDmdMWRiN1_T9Z7Tc6OymkrGC7Cs.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xizcmJvL2L9TLT.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0FWJtryp8CLTlNs.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xaz8mJvL2L9TLT.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0G2Ltryp8CLTlNs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XVDmdMWRiN1_T9Z4Tb4u2El6GC.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XTDmdMWRiN1_T9Z7Tc6OymkrGC7Cs.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xizcmJvL2L9TLT.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0FWJtryp8CLTlNs.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XSDmdMWRiN1_T9Z7xaz8mJvL2L9TLT.woff2",
+        "https://fonts.gstatic.com/s/overlock/v19/Z9XQDmdMWRiN1_T9Z7Tc0G2Ltryp8CLTlNs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Overlock",
+      "styles": [
+        {
+          "family_name": "Overlock",
+          "type": "Regular",
+          "full_name": "Overlock Regular",
+          "post_script_name": "Overlock-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XVDmdMWRiN1_T9Z4Te4u2El6GC.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Overlock",
+          "type": "Italic",
+          "full_name": "Overlock Italic",
+          "post_script_name": "Overlock-Italic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XTDmdMWRiN1_T9Z7Tc6OmmkrGC7Cs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Overlock",
+          "type": "Bold",
+          "full_name": "Overlock Bold",
+          "post_script_name": "Overlock-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XSDmdMWRiN1_T9Z7xizcmMvL2L9TLT.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Overlock",
+          "type": "Bold Italic",
+          "full_name": "Overlock Bold Italic",
+          "post_script_name": "Overlock-BoldItalic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XQDmdMWRiN1_T9Z7Tc0FWJtrmp8CLTlNs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Overlock Black",
+      "styles": [
+        {
+          "family_name": "Overlock Black",
+          "type": "Regular",
+          "full_name": "Overlock Black",
+          "post_script_name": "Overlock-Black",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XSDmdMWRiN1_T9Z7xaz8mMvL2L9TLT.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Overlock Black",
+          "type": "Italic",
+          "full_name": "Overlock Black Italic",
+          "post_script_name": "Overlock-BlackItalic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Overlock\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XQDmdMWRiN1_T9Z7Tc0G2Ltrmp8CLTlNs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_devanagari_marathi",
+  "name": "tiro_devanagari_marathi",
+  "description": "Tiro Devanagari Marathi has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The Tiro Devanagari design applies a contemporary approach to the traditional styling of 19th and 20th Century metal types exemplified in those of the renowned Nirnaya Sagar Press, and is characterised by broader proportions, more generous counters, and strong diagonal strokes and terminals. The Marathi font favours traditional, vertical forms of many conjuncts as still found in Marathi literary publishing. For the Open Font License release, Tiro Devanagari Marathi has been extended to support additional characters, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Devanagari Marathi was designed by John Hudson and Fiona Ross. The italic was adapted by Paul Hanslow. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Devanagari+Marathi",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Devanagari Marathi",
+      "files": [
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkotDrDJYM2lAZ.ttf",
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpBpIu30AZbUY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkotDrDJYM2lAZ.ttf",
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpBpIu30AZbUY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Devanagari Marathi",
+      "files": [
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkotDuDJYM2lAZ.woff2",
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpBpcu30AZbUY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkotDuDJYM2lAZ.woff2",
+        "https://fonts.gstatic.com/s/tirodevanagarimarathi/v5/fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpBpcu30AZbUY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Devanagari Marathi",
+      "styles": [
+        {
+          "family_name": "Tiro Devanagari Marathi",
+          "type": "Regular",
+          "full_name": "Tiro Devanagari Marathi Regular",
+          "post_script_name": "TiroDevaMarathi-Regular",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "fC1xPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkotDrDJYM2lAZ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Devanagari Marathi",
+          "type": "Italic",
+          "full_name": "Tiro Devanagari Marathi Italic",
+          "post_script_name": "TiroDevaMarathi-Italic",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "fC1zPZBSZHrRhS3rd4M0MAPNJUHl4znXCxAkouDpBpIu30AZbUY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

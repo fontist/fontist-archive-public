@@ -1,0 +1,101 @@
+{
+  "slug": "google/kalam",
+  "name": "kalam",
+  "description": "Kalam is a handwriting-style typeface supporting the Devanagari and Latin scripts. This is an Open Source font family first published by the Indian Type Foundry in 2014. Even though Kalam's letterforms derive from handwriting, the fonts have each been optimised for text on screen. All in all, the typeface is a design that feels very personal. Like many informal handwriting-style fonts, it appears rather fresh and new when seen on screen or printed on the page. Kalam's letterforms feature a very steep slant from the top right to the bottom left. They are similar to letters used in everyday handwriting, and look like they might have been written with either a thin felt-tip pen, or a ball-point pen. In the Devanagari letterforms, the knotted-terminals are open, but some other counter forms are closed. Features like these strengthen the feeling that text set in this typeface has been written very quickly, in a rapid manner. Kalam is available in three weights: Light, Regular and Bold. Each font contains 1,025 glyphs, which includes many unique Devanagari conjuncts. These ensure full support for the major languages written with the Devanagari script. The Latin component's character set is a basic western one, which enables typesetting in English and the other Western European languages. Lipi Raval and Jonny Pinhorn developed the family for ITF; Raval designed the Devanagari component while she and Pinhorn worked together on the Latin. The Kalam project is led by Indian Type Foundry, a type design foundry based in Ahmedabad, India. To contribute, see github.com/itfoundry/kalam Updated July 2015: Updated to v2.001 with improved OpenType features.",
+  "homepage": "https://fonts.google.com/specimen/Kalam",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kalam",
+      "files": [
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtD6GgLLmCUItqGt.ttf",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMuhWMibDszkB.ttf",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtDqHQLLmCUItqGt.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtD6GgLLmCUItqGt.ttf",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMuhWMibDszkB.ttf",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtDqHQLLmCUItqGt.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kalam",
+      "files": [
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtD6GgLOmCUItqGt.woff2",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMuhTMibDszkB.woff2",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtDqHQLOmCUItqGt.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtD6GgLOmCUItqGt.woff2",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9dr0Wd4kDdMuhTMibDszkB.woff2",
+        "https://fonts.gstatic.com/s/kalam/v18/YA9Qr0Wd4kDdMtDqHQLOmCUItqGt.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kalam Light",
+      "styles": [
+        {
+          "family_name": "Kalam Light",
+          "type": "Regular",
+          "full_name": "Kalam Light",
+          "post_script_name": "Kalam-Light",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "YA9Qr0Wd4kDdMtD6GgLLmCUItqGt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kalam",
+      "styles": [
+        {
+          "family_name": "Kalam",
+          "type": "Regular",
+          "full_name": "Kalam",
+          "post_script_name": "Kalam-Regular",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "YA9dr0Wd4kDdMuhWMibDszkB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kalam",
+          "type": "Bold",
+          "full_name": "Kalam Bold",
+          "post_script_name": "Kalam-Bold",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "YA9Qr0Wd4kDdMtDqHQLLmCUItqGt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/righteous",
+  "name": "righteous",
+  "description": "Righteous was initially inspired by the all capitals letterforms from the deco posters of Hungarian artist Robert Berény for Modiano. Grid based and geometric in execution, the letterforms are highly readable at a range of point sizes. Unlike that of the inspiration source, Righteous has a full lowercase to increase flexibility of use.",
+  "homepage": "https://fonts.google.com/specimen/Righteous",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Righteous\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Righteous",
+      "files": [
+        "https://fonts.gstatic.com/s/righteous/v18/1cXxaUPXBpj2rGoU7C9mj3uEicG01A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/righteous/v18/1cXxaUPXBpj2rGoU7C9mj3uEicG01A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Righteous",
+      "files": [
+        "https://fonts.gstatic.com/s/righteous/v18/1cXxaUPXBpj2rGoU7C9minuEicG01A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/righteous/v18/1cXxaUPXBpj2rGoU7C9minuEicG01A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Righteous",
+      "styles": [
+        {
+          "family_name": "Righteous",
+          "type": "Regular",
+          "full_name": "Righteous",
+          "post_script_name": "Righteous-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Righteous\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1cXxaUPXBpj2rGoU7C9mj3uEicG01A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

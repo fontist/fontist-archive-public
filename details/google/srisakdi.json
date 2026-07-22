@@ -1,0 +1,77 @@
+{
+  "slug": "google/srisakdi",
+  "name": "srisakdi",
+  "description": "Srisakdi is a Thai and Latin family which was inspired by the Rattanakosin period. Its hand written appearance works well for articles of a retrospective nature.",
+  "homepage": "https://fonts.google.com/specimen/Srisakdi",
+  "copyright": "Copyright 2018 The Srisakdi Project Authors (https://github.com/cadsondemak/Srisakdi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Srisakdi",
+      "files": [
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJRMIlvdpDbkB0A-jq8fSx5i814.ttf",
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJWMIlvdpDbkB0A-gIAUghxoNFxW0Hz.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJRMIlvdpDbkB0A-jq8fSx5i814.ttf",
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJWMIlvdpDbkB0A-gIAUghxoNFxW0Hz.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Srisakdi",
+      "files": [
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJRMIlvdpDbkB0A-jq5fSx5i814.woff2",
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJWMIlvdpDbkB0A-gIAUgh0oNFxW0Hz.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJRMIlvdpDbkB0A-jq5fSx5i814.woff2",
+        "https://fonts.gstatic.com/s/srisakdi/v18/yMJWMIlvdpDbkB0A-gIAUgh0oNFxW0Hz.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Srisakdi",
+      "styles": [
+        {
+          "family_name": "Srisakdi",
+          "type": "Regular",
+          "full_name": "Srisakdi Regular",
+          "post_script_name": "Srisakdi-Regular",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The Srisakdi Project Authors (https://github.com/cadsondemak/Srisakdi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "yMJRMIlvdpDbkB0A-jq8fSx5i814.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Srisakdi",
+          "type": "Bold",
+          "full_name": "Srisakdi Bold",
+          "post_script_name": "Srisakdi-Bold",
+          "version": "1.000; ttfautohint (v1.6)",
+          "copyright": "Copyright 2018 The Srisakdi Project Authors (https://github.com/cadsondemak/Srisakdi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "yMJWMIlvdpDbkB0A-gIAUghxoNFxW0Hz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

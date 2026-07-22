@@ -1,0 +1,422 @@
+{
+  "slug": "google/epilogue",
+  "name": "epilogue",
+  "description": "Epilogue is a sans serif variable font with a weight axis. 9 weights, upright and italic. It supports a wide range of languages in the latin script scope. The Epilogue project is led by Tyler Finck — type designer running Etcetera Type Co in Ithaca, New-York, USA. To contribute, see github.com/Etcetera-Type-Co/Epilogue",
+  "homepage": "https://fonts.google.com/specimen/Epilogue",
+  "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Epilogue",
+      "files": [
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_UqATfVHNU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiCZXVigHPVA.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_UqATfVHNU.woff2",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_UqATfVHNU.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Epilogue",
+      "files": [
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_RqATfVHNU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDJXVigHPVA.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_RqATfVHNU.ttf",
+        "https://fonts.gstatic.com/s/epilogue/v20/O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_RqATfVHNU.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Epilogue Thin",
+      "styles": [
+        {
+          "family_name": "Epilogue Thin",
+          "type": "Regular",
+          "full_name": "Epilogue Thin",
+          "post_script_name": "Epilogue-Thin",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDLiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue Thin",
+          "type": "Italic",
+          "full_name": "Epilogue Thin Italic",
+          "post_script_name": "Epilogue-ThinItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKTp_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue ExtraLight",
+      "styles": [
+        {
+          "family_name": "Epilogue ExtraLight",
+          "type": "Regular",
+          "full_name": "Epilogue ExtraLight",
+          "post_script_name": "Epilogue-ExtraLight",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDPiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue ExtraLight",
+          "type": "Italic",
+          "full_name": "Epilogue ExtraLight Italic",
+          "post_script_name": "Epilogue-ExtraLightItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKT5_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue Light",
+      "styles": [
+        {
+          "family_name": "Epilogue Light",
+          "type": "Regular",
+          "full_name": "Epilogue Light",
+          "post_script_name": "Epilogue-Light",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXbjPiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue Light",
+          "type": "Italic",
+          "full_name": "Epilogue Light Italic",
+          "post_script_name": "Epilogue-LightItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HBUT5_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue",
+      "styles": [
+        {
+          "family_name": "Epilogue",
+          "type": "Regular",
+          "full_name": "Epilogue Regular",
+          "post_script_name": "Epilogue-Regular",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXMDPiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue",
+          "type": "Bold",
+          "full_name": "Epilogue Bold",
+          "post_script_name": "Epilogue-Bold",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OX1zTiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue",
+          "type": "Italic",
+          "full_name": "Epilogue Italic",
+          "post_script_name": "Epilogue-Italic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HAKT5_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue",
+          "type": "Bold Italic",
+          "full_name": "Epilogue Bold Italic",
+          "post_script_name": "Epilogue-BoldItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDtSJ_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue Medium",
+      "styles": [
+        {
+          "family_name": "Epilogue Medium",
+          "type": "Regular",
+          "full_name": "Epilogue Medium",
+          "post_script_name": "Epilogue-Medium",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXAjPiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue Medium",
+          "type": "Italic",
+          "full_name": "Epilogue Medium Italic",
+          "post_script_name": "Epilogue-MediumItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HA4T5_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue SemiBold",
+      "styles": [
+        {
+          "family_name": "Epilogue SemiBold",
+          "type": "Regular",
+          "full_name": "Epilogue SemiBold",
+          "post_script_name": "Epilogue-SemiBold",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OX7jTiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue SemiBold",
+          "type": "Italic",
+          "full_name": "Epilogue SemiBold Italic",
+          "post_script_name": "Epilogue-SemiBoldItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HDUSJ_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue ExtraBold",
+      "styles": [
+        {
+          "family_name": "Epilogue ExtraBold",
+          "type": "Regular",
+          "full_name": "Epilogue ExtraBold",
+          "post_script_name": "Epilogue-ExtraBold",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXsDTiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue ExtraBold",
+          "type": "Italic",
+          "full_name": "Epilogue ExtraBold Italic",
+          "post_script_name": "Epilogue-ExtraBoldItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCKSJ_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Epilogue Black",
+      "styles": [
+        {
+          "family_name": "Epilogue Black",
+          "type": "Regular",
+          "full_name": "Epilogue Black",
+          "post_script_name": "Epilogue-Black",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZMFGj5hxF0EhjimngomvnCCtqb30OXmTTiDJXVigHPVA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Epilogue Black",
+          "type": "Italic",
+          "full_name": "Epilogue Black Italic",
+          "post_script_name": "Epilogue-BlackItalic",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Epilogue Project Authors (https://github.com/Etcetera-Type-Co/Epilogue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "O4ZCFGj5hxF0EhjimlIhqAYaY7EBcUSC-HCjSJ_RqATfVHNU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

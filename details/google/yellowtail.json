@@ -1,0 +1,57 @@
+{
+  "slug": "google/yellowtail",
+  "name": "yellowtail",
+  "description": "Yellowtail is an old school flavored flat brush script typeface of medium weight. It's mix of connecting and non-connecting letterforms lend to its unique look and legibility. Yellowtail nods to classic 1930's typestyles like Gillies Gothic & Kaufmann, yet has the loose visual cadence of sign painter scripts.",
+  "homepage": "https://fonts.google.com/specimen/Yellowtail",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yellowtail",
+      "files": [
+        "https://fonts.gstatic.com/s/yellowtail/v25/OZpGg_pnoDtINPfRIlLotlzNwED-b4g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yellowtail/v25/OZpGg_pnoDtINPfRIlLotlzNwED-b4g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yellowtail",
+      "files": [
+        "https://fonts.gstatic.com/s/yellowtail/v25/OZpGg_pnoDtINPfRIlLotlnNwED-b4g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yellowtail/v25/OZpGg_pnoDtINPfRIlLotlnNwED-b4g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yellowtail",
+      "styles": [
+        {
+          "family_name": "Yellowtail",
+          "type": "Regular",
+          "full_name": "Yellowtail Regular",
+          "post_script_name": "Yellowtail-Regular",
+          "version": "001.002 ",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\nhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "variable_font": false,
+          "font": "OZpGg_pnoDtINPfRIlLotlzNwED-b4g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

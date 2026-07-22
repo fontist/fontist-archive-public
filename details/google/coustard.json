@@ -1,0 +1,80 @@
+{
+  "slug": "google/coustard",
+  "name": "coustard",
+  "description": "Coustard is a display and text serif webfont designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. Coustard has been developed from a fork of Tienne, another font in the Google Font Directory, available under the SIL Open Font License which allows for remixing fonts.",
+  "homepage": "https://fonts.google.com/specimen/Coustard",
+  "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Coustard\" and \"Coustard Regular\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Coustard",
+      "files": [
+        "https://fonts.gstatic.com/s/coustard/v17/3XFpErgg3YsZ5fqUU9UPvWXuROTd.ttf",
+        "https://fonts.gstatic.com/s/coustard/v17/3XFuErgg3YsZ5fqUU-2LkEHmb_jU3eRL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/coustard/v17/3XFpErgg3YsZ5fqUU9UPvWXuROTd.ttf",
+        "https://fonts.gstatic.com/s/coustard/v17/3XFuErgg3YsZ5fqUU-2LkEHmb_jU3eRL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Coustard",
+      "files": [
+        "https://fonts.gstatic.com/s/coustard/v17/3XFpErgg3YsZ5fqUU9UKvWXuROTd.woff2",
+        "https://fonts.gstatic.com/s/coustard/v17/3XFuErgg3YsZ5fqUU-2LkEHjb_jU3eRL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/coustard/v17/3XFpErgg3YsZ5fqUU9UKvWXuROTd.woff2",
+        "https://fonts.gstatic.com/s/coustard/v17/3XFuErgg3YsZ5fqUU-2LkEHjb_jU3eRL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Coustard",
+      "styles": [
+        {
+          "family_name": "Coustard",
+          "type": "Regular",
+          "full_name": "Coustard Regular",
+          "post_script_name": "Coustard-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Coustard\" and \"Coustard Regular\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3XFpErgg3YsZ5fqUU9UPvWXuROTd.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coustard Black",
+      "styles": [
+        {
+          "family_name": "Coustard Black",
+          "type": "Regular",
+          "full_name": "Coustard Black",
+          "post_script_name": "Coustard-Black",
+          "version": "1.001;",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved. with\nReserved Font Names \"Coustard\" and \"Coustard Black\". This\nFont Software is licensed under the SIL Open Font License, Version\n1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3XFuErgg3YsZ5fqUU-2LkEHmb_jU3eRL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

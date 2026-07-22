@@ -1,0 +1,58 @@
+{
+  "slug": "google/black_ops_one",
+  "name": "black_ops_one",
+  "description": "Black Ops One is a low contrast, semi geometric typeface inspired by military stencil lettering. It is heavy, sturdy, punchy, and looks best when used at medium to large sizes because of the small cuts found in stencils. In the July 2022 update, Black Ops One has improved language support. To contribute, see github.com/SorkinType/Black-Ops .",
+  "homepage": "https://fonts.google.com/specimen/Black+Ops+One",
+  "copyright": "Copyright 2022 The PinyonScript Project Authors (https://github.com/SorkinType/Black-Ops)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Black Ops One",
+      "files": [
+        "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3WDzRtjkho4M.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3WDzRtjkho4M.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Black Ops One",
+      "files": [
+        "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3WDnRtjkho4M.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/blackopsone/v21/qWcsB6-ypo7xBdr6Xshe96H3WDnRtjkho4M.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Black Ops One",
+      "styles": [
+        {
+          "family_name": "Black Ops One",
+          "type": "Regular",
+          "full_name": "Black Ops One Regular",
+          "post_script_name": "BlackOpsOne-Regular",
+          "version": "1.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The PinyonScript Project Authors (https://github.com/SorkinType/Black-Ops)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qWcsB6-ypo7xBdr6Xshe96H3WDzRtjkho4M.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

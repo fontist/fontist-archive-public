@@ -1,0 +1,77 @@
+{
+  "slug": "google/codystar",
+  "name": "codystar",
+  "description": "As you stroll down Manhattan streets and through Times Square, look all around you at the sizzling lights! Sparkling. Brilliant. Codystar. Designed by Crystal Kluge of Neapolitan (a DBA of Font Diner, Inc.) To contribute to the project contact Font Diner .",
+  "homepage": "https://fonts.google.com/specimen/Codystar",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar Light\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Codystar",
+      "files": [
+        "https://fonts.gstatic.com/s/codystar/v19/FwZf7-Q1xVk-40qxOuYsyuyrj0e29bfC.ttf",
+        "https://fonts.gstatic.com/s/codystar/v19/FwZY7-Q1xVk-40qxOt6A4sijpFu_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/codystar/v19/FwZf7-Q1xVk-40qxOuYsyuyrj0e29bfC.ttf",
+        "https://fonts.gstatic.com/s/codystar/v19/FwZY7-Q1xVk-40qxOt6A4sijpFu_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Codystar",
+      "files": [
+        "https://fonts.gstatic.com/s/codystar/v19/FwZf7-Q1xVk-40qxOuYsyuyuj0e29bfC.woff2",
+        "https://fonts.gstatic.com/s/codystar/v19/FwZY7-Q1xVk-40qxOt6F4sijpFu_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/codystar/v19/FwZf7-Q1xVk-40qxOuYsyuyuj0e29bfC.woff2",
+        "https://fonts.gstatic.com/s/codystar/v19/FwZY7-Q1xVk-40qxOt6F4sijpFu_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Codystar",
+      "styles": [
+        {
+          "family_name": "Codystar",
+          "type": "Light",
+          "full_name": "Codystar Light",
+          "post_script_name": "Codystar-Light",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar Light\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FwZf7-Q1xVk-40qxOuYsyuyrj0e29bfC.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Codystar",
+          "type": "Regular",
+          "full_name": "Codystar",
+          "post_script_name": "Codystar",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Codystar\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FwZY7-Q1xVk-40qxOt6A4sijpFu_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/sigmar_one",
+  "name": "sigmar_one",
+  "description": "Sigmar is a casual, display specific webfont. It's design is based upon various fonts found in mid twentieth century pulp magazine advertising.",
+  "homepage": "https://fonts.google.com/specimen/Sigmar+One",
+  "copyright": "Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sigmar One",
+      "files": [
+        "https://fonts.gstatic.com/s/sigmarone/v20/co3DmWZ8kjZuErj9Ta3dk6Pjp3Di8U0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sigmarone/v20/co3DmWZ8kjZuErj9Ta3dk6Pjp3Di8U0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sigmar One",
+      "files": [
+        "https://fonts.gstatic.com/s/sigmarone/v20/co3DmWZ8kjZuErj9Ta3dk6bjp3Di8U0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sigmarone/v20/co3DmWZ8kjZuErj9Ta3dk6bjp3Di8U0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sigmar One",
+      "styles": [
+        {
+          "family_name": "Sigmar One",
+          "type": "Regular",
+          "full_name": "Sigmar One Regular",
+          "post_script_name": "SigmarOne-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "co3DmWZ8kjZuErj9Ta3dk6Pjp3Di8U0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

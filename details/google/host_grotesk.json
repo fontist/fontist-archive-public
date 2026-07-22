@@ -1,0 +1,293 @@
+{
+  "slug": "google/host_grotesk",
+  "name": "host_grotesk",
+  "description": "Host Grotesk font family",
+  "homepage": "https://fonts.google.com/specimen/Host+Grotesk",
+  "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Host Grotesk",
+      "files": [
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj-x19MnL2jg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhOp-j94InI.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj-x19MnL2jg.woff2",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj-x19MnL2jg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Host Grotesk",
+      "files": [
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj_h19MnL2jg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhap-j94InI.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj_h19MnL2jg.ttf",
+        "https://fonts.gstatic.com/s/hostgrotesk/v5/co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj_h19MnL2jg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Host Grotesk Light",
+      "styles": [
+        {
+          "family_name": "Host Grotesk Light",
+          "type": "Regular",
+          "full_name": "Host Grotesk Light",
+          "post_script_name": "HostGrotesk-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PubnOzhap-j94InI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk Light",
+          "type": "Italic",
+          "full_name": "Host Grotesk Light Italic",
+          "post_script_name": "HostGrotesk-LightItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NeFWj_h19MnL2jg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Host Grotesk",
+      "styles": [
+        {
+          "family_name": "Host Grotesk",
+          "type": "Regular",
+          "full_name": "Host Grotesk Regular",
+          "post_script_name": "HostGrotesk-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuefOzhap-j94InI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk",
+          "type": "Bold",
+          "full_name": "Host Grotesk Bold",
+          "post_script_name": "HostGrotesk-Bold",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuQDJzhap-j94InI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk",
+          "type": "Italic",
+          "full_name": "Host Grotesk Italic",
+          "post_script_name": "HostGrotesk-Italic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NJlWj_h19MnL2jg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk",
+          "type": "Bold Italic",
+          "full_name": "Host Grotesk Bold Italic",
+          "post_script_name": "HostGrotesk-BoldItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NwVKj_h19MnL2jg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Host Grotesk Medium",
+      "styles": [
+        {
+          "family_name": "Host Grotesk Medium",
+          "type": "Regular",
+          "full_name": "Host Grotesk Medium",
+          "post_script_name": "HostGrotesk-Medium",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PudXOzhap-j94InI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk Medium",
+          "type": "Italic",
+          "full_name": "Host Grotesk Medium Italic",
+          "post_script_name": "HostGrotesk-MediumItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NFFWj_h19MnL2jg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Host Grotesk SemiBold",
+      "styles": [
+        {
+          "family_name": "Host Grotesk SemiBold",
+          "type": "Regular",
+          "full_name": "Host Grotesk SemiBold",
+          "post_script_name": "HostGrotesk-SemiBold",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuTnJzhap-j94InI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk SemiBold",
+          "type": "Italic",
+          "full_name": "Host Grotesk SemiBold Italic",
+          "post_script_name": "HostGrotesk-SemiBoldItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-N-FKj_h19MnL2jg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Host Grotesk ExtraBold",
+      "styles": [
+        {
+          "family_name": "Host Grotesk ExtraBold",
+          "type": "Regular",
+          "full_name": "Host Grotesk ExtraBold",
+          "post_script_name": "HostGrotesk-ExtraBold",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3UmWBnlCJ3U42vbbfdwMjzqHAXOdFzqU5PuWfJzhap-j94InI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Host Grotesk ExtraBold",
+          "type": "Italic",
+          "full_name": "Host Grotesk ExtraBold Italic",
+          "post_script_name": "HostGrotesk-ExtraBoldItalic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Host Grotesk Project Authors (https://github.com/Element-Type/HostGrotesk)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "co3SmWBnlCJ3U42vbbfdwMjZoULo4bgYM-BIrC-NplKj_h19MnL2jg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

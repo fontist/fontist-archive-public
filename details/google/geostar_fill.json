@@ -1,0 +1,58 @@
+{
+  "slug": "google/geostar_fill",
+  "name": "geostar_fill",
+  "description": "Geostar is a great font for large headlines on websites. Its single weight allows for easy legibility and captivates the audience at first glance. Because Geostar is so symmetrical, it is a fantastic option to add charisma and sophistication to any web page.",
+  "homepage": "https://fonts.google.com/specimen/Geostar+Fill",
+  "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Geostar.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Geostar Fill",
+      "files": [
+        "https://fonts.gstatic.com/s/geostarfill/v27/AMOWz4SWuWiXFfjEohxQ9os0U1K2w9lb4g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/geostarfill/v27/AMOWz4SWuWiXFfjEohxQ9os0U1K2w9lb4g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Geostar Fill",
+      "files": [
+        "https://fonts.gstatic.com/s/geostarfill/v27/AMOWz4SWuWiXFfjEohxQ9os0VlK2w9lb4g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/geostarfill/v27/AMOWz4SWuWiXFfjEohxQ9os0VlK2w9lb4g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Geostar Fill",
+      "styles": [
+        {
+          "family_name": "Geostar Fill",
+          "type": "Regular",
+          "full_name": "Geostar Fill",
+          "post_script_name": "GeostarFill-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Geostar.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOWz4SWuWiXFfjEohxQ9os0U1K2w9lb4g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

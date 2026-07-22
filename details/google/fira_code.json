@@ -1,0 +1,155 @@
+{
+  "slug": "google/fira_code",
+  "name": "fira_code",
+  "description": "Programmers use a lot of symbols, often encoded with several characters. For the human brain, sequences like -&gt; , &lt;= or := are single logical tokens, even if they take two or three characters on the screen. Your eye spends a non-zero amount of energy to scan, parse and join multiple characters into a single logical one. Ideally, all programming languages should be designed with full-fledged Unicode symbols for operators, but that’s not the case yet. Fira Code is an extension of the Fira Mono font containing a set of ligatures for common programming multi-character combinations. This is just a font rendering feature: underlying code remains ASCII-compatible. This helps to read and understand code faster. For some frequent sequences like .. or // , ligatures allow us to correct spacing. To contribute, see https://github.com/tonsky/FiraCode .",
+  "homepage": "https://fonts.google.com/specimen/Fira+Code",
+  "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Fira Code",
+      "files": [
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVLxN87gsj0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVLxN87gsj0.woff2",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVLxN87gsj0.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Fira Code",
+      "files": [
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVfxN87gsj0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVfxN87gsj0.ttf",
+        "https://fonts.gstatic.com/s/firacode/v27/uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVfxN87gsj0.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fira Code Light",
+      "styles": [
+        {
+          "family_name": "Fira Code Light",
+          "type": "Regular",
+          "full_name": "Fira Code Light",
+          "post_script_name": "FiraCode-Light",
+          "version": "5.002",
+          "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_GNsFVfxN87gsj0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fira Code",
+      "styles": [
+        {
+          "family_name": "Fira Code",
+          "type": "Regular",
+          "full_name": "Fira Code Regular",
+          "post_script_name": "FiraCode-Regular",
+          "version": "5.002",
+          "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_D1sFVfxN87gsj0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Fira Code",
+          "type": "Bold",
+          "full_name": "Fira Code Bold",
+          "post_script_name": "FiraCode-Bold",
+          "version": "5.002",
+          "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_NprFVfxN87gsj0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fira Code Medium",
+      "styles": [
+        {
+          "family_name": "Fira Code Medium",
+          "type": "Regular",
+          "full_name": "Fira Code Medium",
+          "post_script_name": "FiraCode-Medium",
+          "version": "5.002",
+          "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_A9sFVfxN87gsj0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fira Code SemiBold",
+      "styles": [
+        {
+          "family_name": "Fira Code SemiBold",
+          "type": "Regular",
+          "full_name": "Fira Code SemiBold",
+          "post_script_name": "FiraCode-SemiBold",
+          "version": "5.002",
+          "copyright": "Copyright 2014-2020 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uU9eCBsR6Z2vfE9aq3bL0fxyUs4tcw4W_ONrFVfxN87gsj0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

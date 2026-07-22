@@ -1,0 +1,58 @@
+{
+  "slug": "google/zcool_xiaowei",
+  "name": "zcool_xiaowei",
+  "description": "ZCOOL XiaoWei was contributed to the ZCOOL font project by designer Li Dawei and the team at Zuozi, who created the typeface as a gift for David’s daughter, “Little Fern”, on her third birthday. It is intended to help fill the dearth of logo-ready Chinese display fonts. The brush strokes are agile and recognizable, with spacing optimized to display at small or large sizes.",
+  "homepage": "https://fonts.google.com/specimen/ZCOOL+XiaoWei",
+  "copyright": "Copyright 2018 The ZCOOL XiaoWei Project Authors (https://www.github.com/googlefonts/xiaowei)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "ZCOOL XiaoWei",
+      "files": [
+        "https://fonts.gstatic.com/s/zcoolxiaowei/v15/i7dMIFFrTRywPpUVX9_RJyM1YFKQHwyVd3U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zcoolxiaowei/v15/i7dMIFFrTRywPpUVX9_RJyM1YFKQHwyVd3U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "ZCOOL XiaoWei",
+      "files": [
+        "https://fonts.gstatic.com/s/zcoolxiaowei/v15/i7dMIFFrTRywPpUVX9_RJyM1YFeQHwyVd3U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zcoolxiaowei/v15/i7dMIFFrTRywPpUVX9_RJyM1YFeQHwyVd3U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "ZCOOL XiaoWei",
+      "styles": [
+        {
+          "family_name": "ZCOOL XiaoWei",
+          "type": "Regular",
+          "full_name": "ZCOOL XiaoWei Regular",
+          "post_script_name": "ZCOOLXiaoWei-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The ZCOOL XiaoWei Project Authors (https://www.github.com/googlefonts/xiaowei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dMIFFrTRywPpUVX9_RJyM1YFKQHwyVd3U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

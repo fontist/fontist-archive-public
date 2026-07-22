@@ -1,0 +1,58 @@
+{
+  "slug": "google/aladin",
+  "name": "aladin",
+  "description": "Aladin is a calligraphic vintage face with a middle eastern touch, designed by Angel Koziupa and produced by Alejandro Paul. Casual, airy counters and friendly terminals give it an advantage as a packaging font for exotic coffees and teas. It also serves quite well on posters and book jackets where relaying the famous sense of Eastern hospitality and playfulness is a must.",
+  "homepage": "https://fonts.google.com/specimen/Aladin",
+  "copyright": "Copyright (c) 2009 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2009 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Aladin\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aladin",
+      "files": [
+        "https://fonts.gstatic.com/s/aladin/v26/ZgNSjPJFPrvJV5f16Sf4pGT2Ng.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aladin/v26/ZgNSjPJFPrvJV5f16Sf4pGT2Ng.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aladin",
+      "files": [
+        "https://fonts.gstatic.com/s/aladin/v26/ZgNSjPJFPrvJV5f17Cf4pGT2Ng.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aladin/v26/ZgNSjPJFPrvJV5f17Cf4pGT2Ng.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aladin",
+      "styles": [
+        {
+          "family_name": "Aladin",
+          "type": "Regular",
+          "full_name": "Aladin Regular",
+          "post_script_name": "Aladin-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2009 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2009 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Aladin\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZgNSjPJFPrvJV5f16Sf4pGT2Ng.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

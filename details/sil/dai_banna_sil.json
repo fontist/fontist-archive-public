@@ -1,0 +1,114 @@
+{
+  "slug": "sil/dai_banna_sil",
+  "name": "Dai Banna SIL",
+  "description": "Dai Banna SIL",
+  "homepage": "http://www.sil.org/",
+  "copyright": "Copyright (c) 1998-2011 SIL International",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/ofl",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Dai_Banna_SIL.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/daibanna/DaiBanna-2.200.zip",
+        "http://web.archive.org/web/20250824034947/https://software.sil.org/downloads/r/daibanna/DaiBanna-2.200.zip"
+      ],
+      "sha256": "bab67e560484ee9bc041d1e95ae2e36a08ceb9cde6800ef032381fae0700f691",
+      "file_size": 606774
+    }
+  },
+  "fonts": [
+    {
+      "name": "Dai Banna SIL Book",
+      "styles": [
+        {
+          "family_name": "Dai Banna SIL Book",
+          "type": "Bold",
+          "full_name": "Dai Banna SIL Book Bold",
+          "post_script_name": "DaiBannaSILBook-Bold",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILBB.ttf"
+        },
+        {
+          "family_name": "Dai Banna SIL Book",
+          "type": "Bold Italic",
+          "full_name": "Dai Banna SIL Book Bold Italic",
+          "post_script_name": "DaiBannaSILBook-BoldItalic",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILBC.ttf"
+        },
+        {
+          "family_name": "Dai Banna SIL Book",
+          "type": "Italic",
+          "full_name": "Dai Banna SIL Book Italic",
+          "post_script_name": "DaiBannaSILBook-Italic",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILBO.ttf"
+        },
+        {
+          "family_name": "Dai Banna SIL Book",
+          "type": "Regular",
+          "full_name": "Dai Banna SIL Book",
+          "post_script_name": "DaiBannaSILBook",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILBR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Dai Banna SIL Light",
+      "styles": [
+        {
+          "family_name": "Dai Banna SIL Light",
+          "type": "Bold",
+          "full_name": "Dai Banna SIL Light Bold",
+          "post_script_name": "DaiBannaSILLight-Bold",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILLB.ttf"
+        },
+        {
+          "family_name": "Dai Banna SIL Light",
+          "type": "Bold Italic",
+          "full_name": "Dai Banna SIL Light Bold Italic",
+          "post_script_name": "DaiBannaSILLight-BoldItalic",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILLC.ttf"
+        },
+        {
+          "family_name": "Dai Banna SIL Light",
+          "type": "Italic",
+          "full_name": "Dai Banna SIL Light Italic",
+          "post_script_name": "DaiBannaSILLight-Italic",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILLO.ttf"
+        },
+        {
+          "family_name": "Dai Banna SIL Light",
+          "type": "Regular",
+          "full_name": "Dai Banna SIL Light",
+          "post_script_name": "DaiBannaSILLight",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1998-2011 SIL International",
+          "description": "Copyright (c) 1998-2011 SIL International",
+          "font": "DBSILLR.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

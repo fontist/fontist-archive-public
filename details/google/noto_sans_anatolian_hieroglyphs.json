@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_anatolian_hieroglyphs",
+  "name": "noto_sans_anatolian_hieroglyphs",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Anatolian Hieroglyphs is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern Anatolian hieroglyphs script. It has 589 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Anatolian+Hieroglyphs",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/anatolian-hieroglyphs)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Anatolian Hieroglyphs",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v17/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXybIymc5QYo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v17/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXybIymc5QYo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Anatolian Hieroglyphs",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v17/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXyPIymc5QYo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansanatolianhieroglyphs/v17/ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXyPIymc5QYo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Anatolian Hieroglyphs",
+      "styles": [
+        {
+          "family_name": "Noto Sans Anatolian Hieroglyphs",
+          "type": "Regular",
+          "full_name": "Noto Sans Anatolian Hieroglyphs Regular",
+          "post_script_name": "NotoSansAnatolianHieroglyphs-Regular",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/anatolian-hieroglyphs)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ijw9s4roRME5LLRxjsRb8A0gKPSWq4BbDmHHu6j2pEtUJzZWXybIymc5QYo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_au_sa",
+  "name": "playwrite_au_sa",
+  "description": "Playwrite AU SA font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+AU+SA",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite AU SA",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgQcuBjCoV0bbE.woff2",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpRgRcuBjCoV0bbE.woff2",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpcYRcuBjCoV0bbE.woff2",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRcuBjCoV0bbE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgQcuBjCoV0bbE.woff2",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpRgRcuBjCoV0bbE.woff2",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpcYRcuBjCoV0bbE.woff2",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRcuBjCoV0bbE.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite AU SA",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgQcuVjCoV0bbE.ttf",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpRgRcuVjCoV0bbE.ttf",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpcYRcuVjCoV0bbE.ttf",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRcuVjCoV0bbE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgQcuVjCoV0bbE.ttf",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpRgRcuVjCoV0bbE.ttf",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpcYRcuVjCoV0bbE.ttf",
+        "https://fonts.gstatic.com/s/playwriteausa/v11/YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRcuVjCoV0bbE.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite AU SA Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite AU SA Thin",
+          "type": "Regular",
+          "full_name": "Playwrite AU SA Thin",
+          "post_script_name": "PlaywriteAUSA-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgQcuVjCoV0bbE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AU SA ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite AU SA ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite AU SA ExtraLight",
+          "post_script_name": "PlaywriteAUSA-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpRgRcuVjCoV0bbE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AU SA Light",
+      "styles": [
+        {
+          "family_name": "Playwrite AU SA Light",
+          "type": "Regular",
+          "full_name": "Playwrite AU SA Light",
+          "post_script_name": "PlaywriteAUSA-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpcYRcuVjCoV0bbE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite AU SA",
+      "styles": [
+        {
+          "family_name": "Playwrite AU SA",
+          "type": "Regular",
+          "full_name": "Playwrite AU SA Regular",
+          "post_script_name": "PlaywriteAUSA-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "YcmhsZpNS1SdgmHbGgtRuUElnR3CmSC5bVQVlrclpZgRcuVjCoV0bbE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

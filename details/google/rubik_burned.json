@@ -1,0 +1,58 @@
+{
+  "slug": "google/rubik_burned",
+  "name": "rubik_burned",
+  "description": "The Generative Fonts is an original, script-generated collection of fonts based on the Google Fonts Rubik by Hubert and Fischer, Meir Sadan and Cyreal. The code used to generate it can be found at github.com/NaN-xyz/Glyph-Filters . Check for more Rubik \"Filtered\" fonts ! To contribute, see github.com/NaN-xyz/Rubik-Filtered .",
+  "homepage": "https://fonts.google.com/specimen/Rubik+Burned",
+  "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rubik Burned",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rubik Burned",
+      "files": [
+        "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniGAuaCY5ZSg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rubikburned/v1/Jqzk5TmOVOqQHihKqPpscqniGAuaCY5ZSg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rubik Burned",
+      "styles": [
+        {
+          "family_name": "Rubik Burned",
+          "type": "Regular",
+          "full_name": "Rubik Burned Regular",
+          "post_script_name": "RubikBurned-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://github.com/NaN-xyz/Rubik-Filtered)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Jqzk5TmOVOqQHihKqPpscqniHQuaCY5ZSg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

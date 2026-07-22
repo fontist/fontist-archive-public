@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_nastaliq_urdu",
+  "name": "noto_nastaliq_urdu",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Nastaliq Urdu is a cursive, modulated (“serif”) Nastaliq design for texts in the Middle Eastern Arabic script, especially in the Urdu language. It has 1,138 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Nastaliq+Urdu",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nastaliq)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Nastaliq Urdu",
+      "files": [
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-DKif2-_8mEw.woff2",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qu3-DKif2-_8mEw.woff2",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3QgH5DKif2-_8mEw.woff2",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qjj5DKif2-_8mEw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-DKif2-_8mEw.woff2",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qu3-DKif2-_8mEw.woff2",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3QgH5DKif2-_8mEw.woff2",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qjj5DKif2-_8mEw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Nastaliq Urdu",
+      "files": [
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-DK2f2-_8mEw.ttf",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qu3-DK2f2-_8mEw.ttf",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3QgH5DK2f2-_8mEw.ttf",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qjj5DK2f2-_8mEw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-DK2f2-_8mEw.ttf",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qu3-DK2f2-_8mEw.ttf",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3QgH5DK2f2-_8mEw.ttf",
+        "https://fonts.gstatic.com/s/notonastaliqurdu/v23/LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qjj5DK2f2-_8mEw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Nastaliq Urdu",
+      "styles": [
+        {
+          "family_name": "Noto Nastaliq Urdu",
+          "type": "Regular",
+          "full_name": "Noto Nastaliq Urdu Regular",
+          "post_script_name": "NotoNastaliqUrdu-Regular",
+          "version": "3.007",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nastaliq)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qt_-DK2f2-_8mEw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Nastaliq Urdu",
+          "type": "Bold",
+          "full_name": "Noto Nastaliq Urdu Bold",
+          "post_script_name": "NotoNastaliqUrdu-Bold",
+          "version": "3.007",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nastaliq)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qjj5DK2f2-_8mEw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Nastaliq Urdu Medium",
+      "styles": [
+        {
+          "family_name": "Noto Nastaliq Urdu Medium",
+          "type": "Regular",
+          "full_name": "Noto Nastaliq Urdu Medium",
+          "post_script_name": "NotoNastaliqUrdu-Medium",
+          "version": "3.007",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nastaliq)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3Qu3-DK2f2-_8mEw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Nastaliq Urdu SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Nastaliq Urdu SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Nastaliq Urdu SemiBold",
+          "post_script_name": "NotoNastaliqUrdu-SemiBold",
+          "version": "3.007",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nastaliq)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LhWNMUPbN-oZdNFcBy1-DJYsEoTq5pudQ9L940pGPkB3QgH5DK2f2-_8mEw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

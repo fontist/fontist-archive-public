@@ -1,0 +1,58 @@
+{
+  "slug": "google/cagliostro",
+  "name": "cagliostro",
+  "description": "Cagliostro was inspired by the early 20th Century lettering work of Ozwald Bruce Cooper. Care was taken to preserve the original hand-lettered feel of his work while updating the style for modern use. The x-height was increased from the original style and some of the more quirky aspects were toned back. The end result is a very handsome and unique sans that is very useful for titles and short blocks of text. Documentation can be found at www.madtype.com and to contribute to the project contact Matthew Desmond at mattdesmond@gmail.com",
+  "homepage": "https://fonts.google.com/specimen/Cagliostro",
+  "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Cagliostro\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cagliostro",
+      "files": [
+        "https://fonts.gstatic.com/s/cagliostro/v22/ZgNWjP5HM73BV5amnX-TjGXEM4COoE4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cagliostro/v22/ZgNWjP5HM73BV5amnX-TjGXEM4COoE4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cagliostro",
+      "files": [
+        "https://fonts.gstatic.com/s/cagliostro/v22/ZgNWjP5HM73BV5amnX-TjGDEM4COoE4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cagliostro/v22/ZgNWjP5HM73BV5amnX-TjGDEM4COoE4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cagliostro",
+      "styles": [
+        {
+          "family_name": "Cagliostro",
+          "type": "Regular",
+          "full_name": "Cagliostro Regular",
+          "post_script_name": "Cagliostro-Regular",
+          "version": "",
+          "copyright": "Copyright (c) 2011 Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name \"Cagliostro\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZgNWjP5HM73BV5amnX-TjGXEM4COoE4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

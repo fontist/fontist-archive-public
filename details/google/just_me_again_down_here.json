@@ -1,0 +1,58 @@
+{
+  "slug": "google/just_me_again_down_here",
+  "name": "just_me_again_down_here",
+  "description": "Just Me Again Down Here was created a few weeks after my family and I moved to China, using a Wacom Tablet and Adobe Illustrator. This is my “messy” handwriting with mixed capitals and irregularities. After moving to China and finding myself without the ability to communicate in my new home country’s language, creating a font was something that reminded me that I did know how to do something and I would survive those first confusing weeks abroad.",
+  "homepage": "https://fonts.google.com/specimen/Just+Me+Again+Down+Here",
+  "copyright": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Just Me Again Down Here",
+      "files": [
+        "https://fonts.gstatic.com/s/justmeagaindownhere/v25/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAuwHvqDwc_fg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/justmeagaindownhere/v25/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAuwHvqDwc_fg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Just Me Again Down Here",
+      "files": [
+        "https://fonts.gstatic.com/s/justmeagaindownhere/v25/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAuwCvqDwc_fg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/justmeagaindownhere/v25/MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAuwCvqDwc_fg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Just Me Again Down Here",
+      "styles": [
+        {
+          "family_name": "Just Me Again Down Here",
+          "type": "Regular",
+          "full_name": "Just Me Again Down Here",
+          "post_script_name": "JustMeAgainDownHere",
+          "version": "1.002 2007",
+          "copyright": "Copyright (c) 2011 by Kimberly Geswein. All rights reserved.",
+          "description": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\r\n\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MwQmbgXtz-Wc6RUEGNMc0QpRrfUh2hSdBBMoAuwHvqDwc_fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

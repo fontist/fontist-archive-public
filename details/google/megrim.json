@@ -1,0 +1,57 @@
+{
+  "slug": "google/megrim",
+  "name": "megrim",
+  "description": "Megrim is an experimental font covering most of the basic Western Latin character set. It has stylistic alternates.",
+  "homepage": "https://fonts.google.com/specimen/Megrim",
+  "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Megrim",
+      "files": [
+        "https://fonts.gstatic.com/s/megrim/v18/46kulbz5WjvLqJZlbWXgd0RY1g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/megrim/v18/46kulbz5WjvLqJZlbWXgd0RY1g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Megrim",
+      "files": [
+        "https://fonts.gstatic.com/s/megrim/v18/46kulbz5WjvLqJZlaGXgd0RY1g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/megrim/v18/46kulbz5WjvLqJZlaGXgd0RY1g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Megrim",
+      "styles": [
+        {
+          "family_name": "Megrim",
+          "type": "Medium",
+          "full_name": "Megrim",
+          "post_script_name": "Megrim",
+          "version": "20110427 ",
+          "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License.",
+          "variable_font": false,
+          "font": "46kulbz5WjvLqJZlbWXgd0RY1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,130 @@
+{
+  "slug": "google/almarai",
+  "name": "almarai",
+  "description": "Almarai is a modern Arabic and sans serif Latin typeface family in 4 weights. The font was created by Boutros™ for optimal readability and suitability for both online and offline applications. Almarai’s beauty lies in its clarity and simplicity. Beneath the font’s geometric look lies a strict adherence to calligraphic structure and rules. Each letter has been crafted with careful attention to detail, retaining subtle hints of handwriting. Letters have low contrast and wide aperture in all four weights. These characteristics were designed to enhance the readability of the font in various media, especially on screen. To contribute, see github.com/JuergenWillrodt/Almarai .",
+  "homepage": "https://fonts.google.com/specimen/Almarai",
+  "copyright": "Copyright (c) 2019 by Almarai. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Almarai",
+      "files": [
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_anhnicoq72sXg.ttf",
+        "https://fonts.gstatic.com/s/almarai/v19/tsstApxBaigK_hnnc1qPonC3vqc.ttf",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS-aghnicoq72sXg.ttf",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_qjhnicoq72sXg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_anhnicoq72sXg.ttf",
+        "https://fonts.gstatic.com/s/almarai/v19/tsstApxBaigK_hnnc1qPonC3vqc.ttf",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS-aghnicoq72sXg.ttf",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_qjhnicoq72sXg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Almarai",
+      "files": [
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_anhn2coq72sXg.woff2",
+        "https://fonts.gstatic.com/s/almarai/v19/tsstApxBaigK_hnnc1-PonC3vqc.woff2",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS-aghn2coq72sXg.woff2",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_qjhn2coq72sXg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_anhn2coq72sXg.woff2",
+        "https://fonts.gstatic.com/s/almarai/v19/tsstApxBaigK_hnnc1-PonC3vqc.woff2",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS-aghn2coq72sXg.woff2",
+        "https://fonts.gstatic.com/s/almarai/v19/tssoApxBaigK_hnnS_qjhn2coq72sXg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Almarai Light",
+      "styles": [
+        {
+          "family_name": "Almarai Light",
+          "type": "Regular",
+          "full_name": "Almarai Light",
+          "post_script_name": "Almarai-Light",
+          "version": "1.10",
+          "copyright": "Copyright (c) 2019 by Almarai. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tssoApxBaigK_hnnS_anhnicoq72sXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Almarai",
+      "styles": [
+        {
+          "family_name": "Almarai",
+          "type": "Regular",
+          "full_name": "Almarai",
+          "post_script_name": "Almarai-Regular",
+          "version": "1.10",
+          "copyright": "Copyright (c) 2019 by Almarai. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tsstApxBaigK_hnnc1qPonC3vqc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Almarai Bold",
+      "styles": [
+        {
+          "family_name": "Almarai Bold",
+          "type": "Regular",
+          "full_name": "Almarai Bold",
+          "post_script_name": "Almarai-Bold",
+          "version": "1.10",
+          "copyright": "Copyright (c) 2019 by Almarai. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tssoApxBaigK_hnnS-aghnicoq72sXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Almarai ExtraBold",
+      "styles": [
+        {
+          "family_name": "Almarai ExtraBold",
+          "type": "Regular",
+          "full_name": "Almarai Extrabold",
+          "post_script_name": "Almarai-ExtraBold",
+          "version": "1.10",
+          "copyright": "Copyright (c) 2019 by Almarai. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tssoApxBaigK_hnnS_qjhnicoq72sXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/molle",
+  "name": "molle",
+  "description": "Foundry: Sorkin Type Co Molle is a distinctive looking bottom heavy display script inspired by lettering seen on an Italian poster. Molle is best used from medium to large sizes. To contribute to the project contact Eben Sorkin . Updated September 2015: Internal metadata corrected.",
+  "homepage": "https://fonts.google.com/specimen/Molle",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Spinnaker\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Molle",
+      "files": [
+        "https://fonts.gstatic.com/s/molle/v25/E21n_dL5hOXFhWEsXzgmVydREus.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/molle/v25/E21n_dL5hOXFhWEsXzgmVydREus.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Molle",
+      "files": [
+        "https://fonts.gstatic.com/s/molle/v25/E21n_dL5hOXFhWEsXz0mVydREus.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/molle/v25/E21n_dL5hOXFhWEsXz0mVydREus.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Molle",
+      "styles": [
+        {
+          "family_name": "Molle",
+          "type": "Regular",
+          "full_name": "Molle",
+          "post_script_name": "Molle-Regular",
+          "version": "1.001; ttfautohint (v0.92) -l 12 -r 12 -G 200 -x 10 -w \"g\"",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Spinnaker\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "E21n_dL5hOXFhWEsXzgmVydREus.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

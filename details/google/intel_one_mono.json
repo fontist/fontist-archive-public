@@ -1,0 +1,250 @@
+{
+  "slug": "google/intel_one_mono",
+  "name": "intel_one_mono",
+  "description": "Intel One Mono font family",
+  "homepage": "https://fonts.google.com/specimen/Intel+One+Mono",
+  "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Intel One Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMg__cRmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abSn3zVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofcRmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abT53zVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgk_cRmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abTL3zVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgf_ARmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQn2DVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgRvARmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQe2DVSELi3YD27.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMg__cRmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abSn3zVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofcRmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abT53zVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgk_cRmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abTL3zVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgf_ARmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQn2DVSELi3YD27.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgRvARmT9TMr2nYA.woff2",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQe2DVSELi3YD27.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Intel One Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMg__cRnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abSn3zVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofcRnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abT53zVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgk_cRnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abTL3zVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgf_ARnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQn2DVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgRvARnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQe2DVXELi3YD27.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMg__cRnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abSn3zVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofcRnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abT53zVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgk_cRnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abTL3zVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgf_ARnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQn2DVXELi3YD27.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgRvARnD9TMr2nYA.ttf",
+        "https://fonts.gstatic.com/s/intelonemono/v2/P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQe2DVXELi3YD27.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Intel One Mono Light",
+      "styles": [
+        {
+          "family_name": "Intel One Mono Light",
+          "type": "Regular",
+          "full_name": "Intel One Mono Light",
+          "post_script_name": "IntelOneMono-Light",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMg__cRnD9TMr2nYA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Intel One Mono Light",
+          "type": "Italic",
+          "full_name": "Intel One Mono Light Italic",
+          "post_script_name": "IntelOneMono-LightItalic",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abSn3zVXELi3YD27.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intel One Mono",
+      "styles": [
+        {
+          "family_name": "Intel One Mono",
+          "type": "Regular",
+          "full_name": "Intel One Mono Regular",
+          "post_script_name": "IntelOneMono-Regular",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgofcRnD9TMr2nYA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Intel One Mono",
+          "type": "Italic",
+          "full_name": "Intel One Mono Italic",
+          "post_script_name": "IntelOneMono-Italic",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abT53zVXELi3YD27.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Intel One Mono",
+          "type": "Bold",
+          "full_name": "Intel One Mono Bold",
+          "post_script_name": "IntelOneMono-Bold",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgRvARnD9TMr2nYA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Intel One Mono",
+          "type": "Bold Italic",
+          "full_name": "Intel One Mono Bold Italic",
+          "post_script_name": "IntelOneMono-BoldItalic",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQe2DVXELi3YD27.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intel One Mono Medium",
+      "styles": [
+        {
+          "family_name": "Intel One Mono Medium",
+          "type": "Regular",
+          "full_name": "Intel One Mono Medium",
+          "post_script_name": "IntelOneMono-Medium",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgk_cRnD9TMr2nYA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Intel One Mono Medium",
+          "type": "Italic",
+          "full_name": "Intel One Mono Medium Italic",
+          "post_script_name": "IntelOneMono-MediumItalic",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abTL3zVXELi3YD27.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intel One Mono SemiBold",
+      "styles": [
+        {
+          "family_name": "Intel One Mono SemiBold",
+          "type": "Regular",
+          "full_name": "Intel One Mono SemiBold",
+          "post_script_name": "IntelOneMono-SemiBold",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sWzZuLY8Lb_G1RikFkwPjBvuM8LXucmoHDSAMgf_ARnD9TMr2nYA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Intel One Mono SemiBold",
+          "type": "Italic",
+          "full_name": "Intel One Mono SemiBold Italic",
+          "post_script_name": "IntelOneMono-SemiBoldItalic",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023-2024 The Intel One Mono Project Authors (https://github.com/googlefonts/intel-one-mono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "P5sUzZuLY8Lb_G1RikFkwPjBvsk1H4RE8-pZ5gQ1abQn2DVXELi3YD27.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

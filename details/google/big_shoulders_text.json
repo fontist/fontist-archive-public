@@ -1,0 +1,153 @@
+{
+  "slug": "google/big_shoulders_text",
+  "name": "Big Shoulders Text",
+  "description": "Big Shoulders Text",
+  "homepage": "http://xotype.co",
+  "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "Big Shoulders Text": {
+      "source": "google",
+      "family": "Big Shoulders Text",
+      "files": [
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t3TIPNl6P2pc.ttf",
+        "https://fonts.gstatic.com/s/bigshoulderstext/v24/55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat3TIPNl6P2pc.ttf"
+      ],
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Big Shoulders Text",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text",
+          "type": "Bold",
+          "full_name": "Big Shoulders Text Bold",
+          "post_script_name": "BigShouldersText-Bold",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Wit3TIPNl6P2pc.ttf"
+        },
+        {
+          "family_name": "Big Shoulders Text",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text Regular",
+          "post_script_name": "BigShouldersText-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-q3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text Black",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text Black",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text Black",
+          "post_script_name": "BigShouldersText-Black",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Sat3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text ExtraBold",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text ExtraBold",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text ExtraBold",
+          "post_script_name": "BigShouldersText-ExtraBold",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-t3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text ExtraLight",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text ExtraLight",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text ExtraLight",
+          "post_script_name": "BigShouldersText-ExtraLight",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Q-q3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text Light",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text Light",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text Light",
+          "post_script_name": "BigShouldersText-Light",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3dGq3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text Medium",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text Medium",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text Medium",
+          "post_script_name": "BigShouldersText-Medium",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3b2q3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text SemiBold",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text SemiBold",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text SemiBold",
+          "post_script_name": "BigShouldersText-SemiBold",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3VGt3TIPNl6P2pc.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Big Shoulders Text Thin",
+      "styles": [
+        {
+          "family_name": "Big Shoulders Text Thin",
+          "type": "Regular",
+          "full_name": "Big Shoulders Text Thin",
+          "post_script_name": "BigShouldersText-Thin",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Big Shoulders Project Authors (https://github.com/xotypeco/big_shoulders)",
+          "font": "55xEezRtP9G3CGPIf49hxc8P0eytUxB2l66LmF6xc3kA3Y-r3TIPNl6P2pc.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

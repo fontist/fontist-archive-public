@@ -1,0 +1,149 @@
+{
+  "slug": "google/shippori_mincho",
+  "name": "shippori_mincho",
+  "description": "Shippori Mincho is an old-style Mincho style created to provide novel writers in Japan a beautiful Mincho style for free. It is based on The Tokyo Tsukiji Type Foundry No. 5 Mincho style, which had a great influence on the Japanese Mincho style, which is widely used today. The Regular was originally designed for long-form text setting in novels and the Extra Bold was originally designed for titles and headlines. Eventually it became a family of 5 weights from Regular to Extra Bold. Shippori Mincho is designed to be beautiful even when the characters are enlarged so that they can be used widely from amateurs to editorial designers. Alternate characters are also included for those who are particular about the characters. The Kanji are based on the SIL licensed font, Genryu Mincho. Shippori Mincho is the standard version of the font. Shippori Mincho B1 ( https://fonts.google.com/specimen/Shippori+Mincho+B1 ) has rounded corners and ink pooling. To contribute to the project, visit github.com/fontdasu/ShipporiMincho",
+  "homepage": "https://fonts.google.com/specimen/Shippori+Mincho",
+  "copyright": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shippori Mincho",
+      "files": [
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGGAZweH5EbgHY6YExcZfDoj0BA2_-C7LoS7g.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5JEO5--2zg.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5JEO5--2zg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGGAZweH5EbgHY6YExcZfDoj0BA2_-C7LoS7g.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5JEO5--2zg.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5JEO5--2zg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shippori Mincho",
+      "files": [
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGGAZweH5EbgHY6YExcZfDoj0BA3v-C7LoS7g.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am4ZEO5--2zg.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm4ZEO5--2zg.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm4ZEO5--2zg.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om4ZEO5--2zg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGGAZweH5EbgHY6YExcZfDoj0BA3v-C7LoS7g.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4L9am4ZEO5--2zg.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm4ZEO5--2zg.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm4ZEO5--2zg.woff2",
+        "https://fonts.gstatic.com/s/shipporimincho/v17/VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om4ZEO5--2zg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shippori Mincho",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho",
+          "type": "Regular",
+          "full_name": "Shippori Mincho Regular",
+          "post_script_name": "ShipporiMincho-Regular",
+          "version": "3.110; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGGAZweH5EbgHY6YExcZfDoj0BA2_-C7LoS7g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Shippori Mincho",
+          "type": "Bold",
+          "full_name": "Shippori Mincho Bold",
+          "post_script_name": "ShipporiMincho-Bold",
+          "version": "3.110; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGDAZweH5EbgHY6YExcZfDoj0B4Z9Cm5JEO5--2zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho Medium",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho Medium",
+          "type": "Regular",
+          "full_name": "Shippori Mincho Medium",
+          "post_script_name": "ShipporiMincho-Medium",
+          "version": "3.110; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGDAZweH5EbgHY6YExcZfDoj0B4L9am5JEO5--2zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho SemiBold",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho SemiBold",
+          "type": "Regular",
+          "full_name": "Shippori Mincho SemiBold",
+          "post_script_name": "ShipporiMincho-SemiBold",
+          "version": "3.110; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGDAZweH5EbgHY6YExcZfDoj0B4A9Gm5JEO5--2zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho ExtraBold",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho ExtraBold",
+          "type": "Regular",
+          "full_name": "Shippori Mincho ExtraBold",
+          "post_script_name": "ShipporiMincho-ExtraBold",
+          "version": "3.110; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Shippori Mincho Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VdGDAZweH5EbgHY6YExcZfDoj0B4e9Om5JEO5--2zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

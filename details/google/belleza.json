@@ -1,0 +1,58 @@
+{
+  "slug": "google/belleza",
+  "name": "belleza",
+  "description": "Belleza is a humanist sans serif typeface inspired by the world of fashion. With classic proportions, high contrast in its strokes and special counters, it provides a fresh look that reminds readers of elegant models and feminine beauty. Belleza is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. The last release in June 2022, offers an major language support update. To contribute, see github.com/etunni/belleza .",
+  "homepage": "https://fonts.google.com/specimen/Belleza",
+  "copyright": "Copyright 2012 The Belleza Project Authors (https://github.com/etunni/belleza)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Belleza",
+      "files": [
+        "https://fonts.gstatic.com/s/belleza/v18/0nkoC9_pNeMfhX4BtcbyawzruP8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/belleza/v18/0nkoC9_pNeMfhX4BtcbyawzruP8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Belleza",
+      "files": [
+        "https://fonts.gstatic.com/s/belleza/v18/0nkoC9_pNeMfhX4BtcPyawzruP8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/belleza/v18/0nkoC9_pNeMfhX4BtcPyawzruP8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Belleza",
+      "styles": [
+        {
+          "family_name": "Belleza",
+          "type": "Regular",
+          "full_name": "Belleza Regular",
+          "post_script_name": "Belleza-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2012 The Belleza Project Authors (https://github.com/etunni/belleza)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0nkoC9_pNeMfhX4BtcbyawzruP8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

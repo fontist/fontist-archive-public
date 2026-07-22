@@ -1,0 +1,58 @@
+{
+  "slug": "google/huninn",
+  "name": "huninn",
+  "description": "Huninn font family",
+  "homepage": "https://fonts.google.com/specimen/Huninn",
+  "copyright": "Copyright 2025 The Huninn Project Authors (https://github.com/justfont/Huninn)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Huninn",
+      "files": [
+        "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkpjiHQjittXw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkpjiHQjittXw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Huninn",
+      "files": [
+        "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkpiyHQjittXw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/huninn/v2/OpNNnoINg9bQ4xkpiyHQjittXw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Huninn",
+      "styles": [
+        {
+          "family_name": "Huninn",
+          "type": "Regular",
+          "full_name": "Huninn Regular",
+          "post_script_name": "Huninn-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2025 The Huninn Project Authors (https://github.com/justfont/Huninn)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "OpNNnoINg9bQ4xkpjiHQjittXw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

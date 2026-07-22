@@ -1,0 +1,58 @@
+{
+  "slug": "google/style_script",
+  "name": "style_script",
+  "description": "Style Script is a beautiful upright script with looks that vary from Casual to Formal in appearance. It takes the look and simplicity of 1950s and 60s advertising and combines it with up to date design characteristics. With three main stylistic sets, Plain, Script and Formal, Style Script transforms the Retro look into a versatile, and powerful font that can be used for nostalgic work, or 21st Century design. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/style-script .",
+  "homepage": "https://fonts.google.com/specimen/Style+Script",
+  "copyright": "Copyright 2013 The Style Script Project Authors (https://github.com/googlefonts/style-script)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Style Script",
+      "files": [
+        "https://fonts.gstatic.com/s/stylescript/v13/vm8xdRX3SV7Z0aPa88xzW5npeFT76NZnMw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stylescript/v13/vm8xdRX3SV7Z0aPa88xzW5npeFT76NZnMw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Style Script",
+      "files": [
+        "https://fonts.gstatic.com/s/stylescript/v13/vm8xdRX3SV7Z0aPa88xzW5npfVT76NZnMw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stylescript/v13/vm8xdRX3SV7Z0aPa88xzW5npfVT76NZnMw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Style Script",
+      "styles": [
+        {
+          "family_name": "Style Script",
+          "type": "Regular",
+          "full_name": "Style Script Regular",
+          "post_script_name": "StyleScript-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The Style Script Project Authors (https://github.com/googlefonts/style-script)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vm8xdRX3SV7Z0aPa88xzW5npeFT76NZnMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

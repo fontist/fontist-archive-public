@@ -1,0 +1,58 @@
+{
+  "slug": "google/moo_lah_lah",
+  "name": "moo_lah_lah",
+  "description": "Need a font with bovine fun? Moo Lah Lah has that look! It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/moolahlah .",
+  "homepage": "https://fonts.google.com/specimen/Moo+Lah+Lah",
+  "copyright": "Copyright 2003-2021 The Moo Lah Lah Project Authors (https://github.com/googlefonts/moolahlah)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Moo Lah Lah",
+      "files": [
+        "https://fonts.gstatic.com/s/moolahlah/v8/dg4h_p_opKZOA0w1AYcm55wtYQYugjW4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/moolahlah/v8/dg4h_p_opKZOA0w1AYcm55wtYQYugjW4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Moo Lah Lah",
+      "files": [
+        "https://fonts.gstatic.com/s/moolahlah/v8/dg4h_p_opKZOA0w1AYcm55woYQYugjW4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/moolahlah/v8/dg4h_p_opKZOA0w1AYcm55woYQYugjW4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Moo Lah Lah",
+      "styles": [
+        {
+          "family_name": "Moo Lah Lah",
+          "type": "Regular",
+          "full_name": "Moo Lah Lah Regular",
+          "post_script_name": "MooLahLah-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003-2021 The Moo Lah Lah Project Authors (https://github.com/googlefonts/moolahlah)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "dg4h_p_opKZOA0w1AYcm55wtYQYugjW4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

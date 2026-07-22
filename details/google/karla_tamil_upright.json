@@ -1,0 +1,77 @@
+{
+  "slug": "google/karla_tamil_upright",
+  "name": "karla_tamil_upright",
+  "description": "Karla is a grotesque sans serif typeface family that supports languages that use the Latin script and the Tamil script. This is the Tamil script part of the family, with Upright styles in two weights, Regular and Bold. The Latin part is available from the Karla specimen page. Karla Tamil does not currently work on iPhones and iPads, because iOS doesn't render OpenType Layout shaping, only AAT shaping. Mac OS X, Windows and GNU+Linux all render OpenType Layout shaping. These Tamil fonts do not have AAT shaping, so they won't render correctly, but the iOS system font does. To contribute to the project contact Jonathan Pinhorn .",
+  "homepage": "https://fonts.google.com/specimen/Karla+Tamil+Upright",
+  "copyright": "Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Karla Tamil Upright",
+      "files": [
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf",
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf",
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Karla Tamil Upright",
+      "files": [
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBd9hK8kMK4.woff2",
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKIPLKclE4o.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBd9hK8kMK4.woff2",
+        "https://fonts.gstatic.com/s/karlatamilupright/v2/IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKIPLKclE4o.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Karla Tamil Upright",
+      "styles": [
+        {
+          "family_name": "Karla Tamil Upright",
+          "type": "Regular",
+          "full_name": "Karla Tamil Upright",
+          "post_script_name": "KarlaTamilUpright-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "IFS4HfVMk95HnY0u6SeQ_cHoozW_3U5XoBJ9hK8kMK4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla Tamil Upright",
+          "type": "Bold",
+          "full_name": "Karla Tamil Upright Bold",
+          "post_script_name": "KarlaTamilUpright-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Jonathan Pinhorn (jonpinhorn.typedesign@gmail.com), with Reserved Font Names 'Karla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "IFS1HfVMk95HnY0u6SeQ_cHoozW_3U5XmK5SoKcPLKclE4o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

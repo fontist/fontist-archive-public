@@ -1,0 +1,115 @@
+{
+  "slug": "google/carlito",
+  "name": "carlito",
+  "description": "Carlito is a font designed derived from Lato (also designed by Łukasz Dziedzic) that is metric-compatible with Calibri. It comes with Latin and Cyrillic character sets. To contribute, see github.com/googlefonts/carlito",
+  "homepage": "https://fonts.google.com/specimen/Carlito",
+  "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Carlito",
+      "files": [
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn9SDPw3m-pk039PDCLTXUETuE.ttf",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn_SDPw3m-pk039DDKBSVcBXuFb0Q.ttf",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn4SDPw3m-pk039BIykaX0vUuhCyOo.ttf",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn6SDPw3m-pk039DDK59XglVspH2OprMQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn9SDPw3m-pk039PDCLTXUETuE.ttf",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn_SDPw3m-pk039DDKBSVcBXuFb0Q.ttf",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn4SDPw3m-pk039BIykaX0vUuhCyOo.ttf",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn6SDPw3m-pk039DDK59XglVspH2OprMQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Carlito",
+      "files": [
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn9SDPw3m-pk039PDWLTXUETuE.woff2",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn_SDPw3m-pk039DDKBTFcBXuFb0Q.woff2",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn4SDPw3m-pk039BIykaXgvUuhCyOo.woff2",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn6SDPw3m-pk039DDK59XglU8pH2OprMQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn9SDPw3m-pk039PDWLTXUETuE.woff2",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn_SDPw3m-pk039DDKBTFcBXuFb0Q.woff2",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn4SDPw3m-pk039BIykaXgvUuhCyOo.woff2",
+        "https://fonts.gstatic.com/s/carlito/v4/3Jn6SDPw3m-pk039DDK59XglU8pH2OprMQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Carlito",
+      "styles": [
+        {
+          "family_name": "Carlito",
+          "type": "Regular",
+          "full_name": "Carlito Regular",
+          "post_script_name": "Carlito-Regular",
+          "version": "1.104",
+          "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3Jn9SDPw3m-pk039PDCLTXUETuE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Carlito",
+          "type": "Italic",
+          "full_name": "Carlito Italic",
+          "post_script_name": "Carlito-Italic",
+          "version": "1.104",
+          "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3Jn_SDPw3m-pk039DDKBSVcBXuFb0Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Carlito",
+          "type": "Bold",
+          "full_name": "Carlito Bold",
+          "post_script_name": "Carlito-Bold",
+          "version": "1.104",
+          "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3Jn4SDPw3m-pk039BIykaX0vUuhCyOo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Carlito",
+          "type": "Bold Italic",
+          "full_name": "Carlito Bold Italic",
+          "post_script_name": "Carlito-BoldItalic",
+          "version": "1.104",
+          "copyright": "Copyright 2013 The Carlito Project Authors (https://github.com/googlefonts/carlito)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3Jn6SDPw3m-pk039DDK59XglVspH2OprMQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

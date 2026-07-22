@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_znamenny_musical_notation",
+  "name": "noto_znamenny_musical_notation",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Znammeny Musical Notation is a font that contains symbols for the Znamenny Chant musical notation . It has 527 glyphs. This font uses the COLRv0 and CPAL tables. Please visit the gf-guide color page to learn more about Color Fonts technology.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Znamenny+Musical+Notation",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/znamenny)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Znamenny Musical Notation",
+      "files": [
+        "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Znamenny Musical Notation",
+      "files": [
+        "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvs5qqdoWa7g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoznamennymusicalnotation/v7/CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvs5qqdoWa7g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Znamenny Musical Notation",
+      "styles": [
+        {
+          "family_name": "Noto Znamenny Musical Notation",
+          "type": "Regular",
+          "full_name": "Noto Znamenny Musical Notation Regular",
+          "post_script_name": "NotoZnamennyMusicalNotation-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/znamenny)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CSRW4ylQnPyaDwAMK1U_AolTaJ4Lz41GcgaIZV9YO2rO88jvtpqqdoWa7g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

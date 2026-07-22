@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_hanifi_rohingya",
+  "name": "noto_sans_hanifi_rohingya",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Hanifi Rohingya is an unmodulated (“sans serif”) design for texts in the Southeast Asian Hanifi Rohingya script. It has multiple weights and 179 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Hanifi+Rohingya",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanifi-rohingya)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Hanifi Rohingya",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6qvcudK8rN.woff2",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6qvcudK8rN.woff2",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6qvcudK8rN.woff2",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6qvcudK8rN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6qvcudK8rN.woff2",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6qvcudK8rN.woff2",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6qvcudK8rN.woff2",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6qvcudK8rN.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Hanifi Rohingya",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6vvcudK8rN.ttf",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6vvcudK8rN.ttf",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6vvcudK8rN.ttf",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6vvcudK8rN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6vvcudK8rN.ttf",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6vvcudK8rN.ttf",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6vvcudK8rN.ttf",
+        "https://fonts.gstatic.com/s/notosanshanifirohingya/v30/5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6vvcudK8rN.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Hanifi Rohingya",
+      "styles": [
+        {
+          "family_name": "Noto Sans Hanifi Rohingya",
+          "type": "Regular",
+          "full_name": "Noto Sans Hanifi Rohingya Regular",
+          "post_script_name": "NotoSansHanifiRohingya-Regular",
+          "version": "2.102",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanifi-rohingya)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYY4j6vvcudK8rN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Hanifi Rohingya",
+          "type": "Bold",
+          "full_name": "Noto Sans Hanifi Rohingya Bold",
+          "post_script_name": "NotoSansHanifiRohingya-Bold",
+          "version": "2.102",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanifi-rohingya)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIb_5T6vvcudK8rN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Hanifi Rohingya Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Hanifi Rohingya Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Hanifi Rohingya Medium",
+          "post_script_name": "NotoSansHanifiRohingya-Medium",
+          "version": "2.102",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanifi-rohingya)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIYq4j6vvcudK8rN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Hanifi Rohingya SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Hanifi Rohingya SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Hanifi Rohingya SemiBold",
+          "post_script_name": "NotoSansHanifiRohingya-SemiBold",
+          "version": "2.102",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hanifi-rohingya)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "5h17iYsoOmIC3Yu3MDXLDw3UZCgghyOEBBY7hhLNyo3tiaiuSIAqrIbG5T6vvcudK8rN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

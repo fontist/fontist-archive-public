@@ -1,0 +1,77 @@
+{
+  "slug": "google/noto_sans_duployan",
+  "name": "noto_sans_duployan",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Duployan is a design for the Duployan shorthand script. It has 10,255 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Duployan",
+  "copyright": "Copyright 2018-2019, 2022-2023 David Corbett. Copyright 2019-2022 Google LLC. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Duployan",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrFsIn6WYDvA.ttf",
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D4U0ftZS-Iw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrFsIn6WYDvA.ttf",
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D4U0ftZS-Iw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Duployan",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrE8In6WYDvA.woff2",
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D5E0ftZS-Iw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrE8In6WYDvA.woff2",
+        "https://fonts.gstatic.com/s/notosansduployan/v19/gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D5E0ftZS-Iw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Duployan",
+      "styles": [
+        {
+          "family_name": "Noto Sans Duployan",
+          "type": "Regular",
+          "full_name": "Noto Sans Duployan Regular",
+          "post_script_name": "NotoSansDuployan-Regular",
+          "version": "3.002",
+          "copyright": "Copyright 2018-2019, 2022-2023 David Corbett. Copyright 2019-2022 Google LLC. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "gokzH7nwAEdtF9N8-mdTDx_X9JM5wsvrFsIn6WYDvA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Duployan",
+          "type": "Bold",
+          "full_name": "Noto Sans Duployan Bold",
+          "post_script_name": "NotoSansDuployan-Bold",
+          "version": "3.002",
+          "copyright": "Copyright 2018-2019, 2022-2023 David Corbett. Copyright 2019-2022 Google LLC. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "gokwH7nwAEdtF9N8-mdTDx_X9JM5wsvTqu0D4U0ftZS-Iw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

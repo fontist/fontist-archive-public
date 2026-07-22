@@ -1,0 +1,58 @@
+{
+  "slug": "google/arbutus",
+  "name": "arbutus",
+  "description": "Arbutus is a sturdy, medium contrast, slab serif typeface with a faceted/spiked treatment inspired by American wood type. The generous spacing found in this design means that it can be used at fairly small sizes which makes it surprisingly versatile.",
+  "homepage": "https://fonts.google.com/specimen/Arbutus",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Arbutus\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Arbutus",
+      "files": [
+        "https://fonts.gstatic.com/s/arbutus/v30/NaPYcZ7dG_5J3poob9JtryO8fMU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arbutus/v30/NaPYcZ7dG_5J3poob9JtryO8fMU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Arbutus",
+      "files": [
+        "https://fonts.gstatic.com/s/arbutus/v30/NaPYcZ7dG_5J3poob9dtryO8fMU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arbutus/v30/NaPYcZ7dG_5J3poob9dtryO8fMU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arbutus",
+      "styles": [
+        {
+          "family_name": "Arbutus",
+          "type": "Regular",
+          "full_name": "Arbutus Regular",
+          "post_script_name": "Arbutus-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Arbutus\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "NaPYcZ7dG_5J3poob9JtryO8fMU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

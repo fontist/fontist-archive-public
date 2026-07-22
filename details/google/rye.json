@@ -1,0 +1,58 @@
+{
+  "slug": "google/rye",
+  "name": "rye",
+  "description": "Foundry: Sorkin Type Co Rye's bold attention getting shapes are useful for advertising. Rye is a medium contrast design inspired by posters using wood type. It gives off a feeling of the American West. It is suitable for use in medium to large sizes including headlines. This font was made specifically to be web type. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Rye",
+  "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Rye.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rye",
+      "files": [
+        "https://fonts.gstatic.com/s/rye/v17/r05XGLJT86YDFpTsXOqx4w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rye/v17/r05XGLJT86YDFpTsXOqx4w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rye",
+      "files": [
+        "https://fonts.gstatic.com/s/rye/v17/r05XGLJT86YDE5TsXOqx4w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rye/v17/r05XGLJT86YDE5TsXOqx4w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rye",
+      "styles": [
+        {
+          "family_name": "Rye",
+          "type": "Regular",
+          "full_name": "Rye Regular",
+          "post_script_name": "Rye-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Rye.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "r05XGLJT86YDFpTsXOqx4w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

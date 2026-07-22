@@ -1,0 +1,82 @@
+{
+  "slug": "google/birthstone_bounce",
+  "name": "birthstone_bounce",
+  "description": "Birthstone Bounce is the sibling family of Birthstone that adds more luster and playfulness to it. Available in Regular and Medium weights, this version includes caps and ending swashed forms. All the styles are uniquely compatible to one another, but distinctly different. See how easily the fonts may change according to the needs of the look. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/birthstone-bounce .",
+  "homepage": "https://fonts.google.com/specimen/Birthstone+Bounce",
+  "copyright": "Copyright 2019 The Birthstone Bounce Project Authors (https://github.com/googlefonts/birthstone-bounce)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Birthstone Bounce",
+      "files": [
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6XaxZF43lIvTWrktHOTBJZGH7dEeVJGIMYDo_8.ttf",
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacQJZP1LmD9.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6XaxZF43lIvTWrktHOTBJZGH7dEeVJGIMYDo_8.ttf",
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacQJZP1LmD9.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Birthstone Bounce",
+      "files": [
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6XaxZF43lIvTWrktHOTBJZGH7dEeVMGIMYDo_8.woff2",
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacVJZP1LmD9.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6XaxZF43lIvTWrktHOTBJZGH7dEeVMGIMYDo_8.woff2",
+        "https://fonts.gstatic.com/s/birthstonebounce/v13/ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacVJZP1LmD9.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Birthstone Bounce",
+      "styles": [
+        {
+          "family_name": "Birthstone Bounce",
+          "type": "Regular",
+          "full_name": "Birthstone Bounce Regular",
+          "post_script_name": "BirthstoneBounce-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Birthstone Bounce Project Authors (https://github.com/googlefonts/birthstone-bounce)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ga6XaxZF43lIvTWrktHOTBJZGH7dEeVJGIMYDo_8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Birthstone Bounce Medium",
+      "styles": [
+        {
+          "family_name": "Birthstone Bounce Medium",
+          "type": "Regular",
+          "full_name": "Birthstone Bounce Medium",
+          "post_script_name": "BirthstoneBounce-Medium",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Birthstone Bounce Project Authors (https://github.com/googlefonts/birthstone-bounce)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ga6SaxZF43lIvTWrktHOTBJZGH7dEd29MacQJZP1LmD9.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

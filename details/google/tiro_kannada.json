@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_kannada",
+  "name": "tiro_kannada",
+  "description": "Tiro Kannada has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The design takes inspiration from several sources: the crisp, open counters of the 19th Century types of the renowned Basel Mission Press; the styling of ligatures in types of the Gujarat Type Foundry from the 1930s; and the dynamic stroke angles of unattributed types found in a 20th Century Kannada textbook. Tiro Kannada features generously proportioned subscript letters for enhanced legibility. For the Open Font License release, Tiro Kannada has been extended to support additional characters, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Kannada was designed by John Hudson and Fiona Ross. The italic was adapted by Kaja Słojewska. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Kannada",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Kannada",
+      "files": [
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIYKSPl6tOU9Eg.ttf",
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSRm4ztKmvqaDxEDJFY7CIY6SvN-luAtEnKp.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIYKSPl6tOU9Eg.ttf",
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSRm4ztKmvqaDxEDJFY7CIY6SvN-luAtEnKp.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Kannada",
+      "files": [
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIYKTfl6tOU9Eg.woff2",
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSRm4ztKmvqaDxEDJFY7CIY6SvN7luAtEnKp.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSR44ztKmvqaDxEDJFY7CIYKTfl6tOU9Eg.woff2",
+        "https://fonts.gstatic.com/s/tirokannada/v6/CSRm4ztKmvqaDxEDJFY7CIY6SvN7luAtEnKp.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Kannada",
+      "styles": [
+        {
+          "family_name": "Tiro Kannada",
+          "type": "Regular",
+          "full_name": "Tiro Kannada Regular",
+          "post_script_name": "TiroKannada-Regular",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CSR44ztKmvqaDxEDJFY7CIYKSPl6tOU9Eg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Kannada",
+          "type": "Italic",
+          "full_name": "Tiro Kannada Italic",
+          "post_script_name": "TiroKannada-Italic",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CSRm4ztKmvqaDxEDJFY7CIY6SvN-luAtEnKp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

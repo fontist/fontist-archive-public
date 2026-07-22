@@ -1,0 +1,58 @@
+{
+  "slug": "google/mooli",
+  "name": "mooli",
+  "description": "Mooli is a Sans Serif font designed for young readers. Mooli is derived from the Mulish font family. It has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. To contribute, please see github.com/googlefonts/mooliFont .",
+  "homepage": "https://fonts.google.com/specimen/Mooli",
+  "copyright": "Copyright 2012 The Mooli Project Authors (https://github.com/googlefonts/mooliFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mooli",
+      "files": [
+        "https://fonts.gstatic.com/s/mooli/v1/-F6_fjJpLyk1bYPBBG7YpzlJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mooli/v1/-F6_fjJpLyk1bYPBBG7YpzlJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mooli",
+      "files": [
+        "https://fonts.gstatic.com/s/mooli/v1/-F6_fjJpLyk1bYPEBG7YpzlJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mooli/v1/-F6_fjJpLyk1bYPEBG7YpzlJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mooli",
+      "styles": [
+        {
+          "family_name": "Mooli",
+          "type": "Regular",
+          "full_name": "Mooli Regular",
+          "post_script_name": "Mooli-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.33]",
+          "copyright": "Copyright 2012 The Mooli Project Authors (https://github.com/googlefonts/mooliFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-F6_fjJpLyk1bYPBBG7YpzlJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

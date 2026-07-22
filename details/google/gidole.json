@@ -1,0 +1,58 @@
+{
+  "slug": "google/gidole",
+  "name": "gidole",
+  "description": "Gidole font family",
+  "homepage": "https://fonts.google.com/specimen/Gidole",
+  "copyright": "Copyright 2015 The Gidole Project Authors (https://github.com/googlefonts/gidole)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gidole",
+      "files": [
+        "https://fonts.gstatic.com/s/gidole/v24/sZlFdR6O8zVVEiMaCJtWS6EPcA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gidole/v24/sZlFdR6O8zVVEiMaCJtWS6EPcA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gidole",
+      "files": [
+        "https://fonts.gstatic.com/s/gidole/v24/sZlFdR6O8zVVEiMaDZtWS6EPcA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gidole/v24/sZlFdR6O8zVVEiMaDZtWS6EPcA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gidole",
+      "styles": [
+        {
+          "family_name": "Gidole",
+          "type": "Regular",
+          "full_name": "Gidole Regular",
+          "post_script_name": "Gidole-Regular",
+          "version": "2.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2015 The Gidole Project Authors (https://github.com/googlefonts/gidole)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "sZlFdR6O8zVVEiMaCJtWS6EPcA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

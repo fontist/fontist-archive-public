@@ -1,0 +1,82 @@
+{
+  "slug": "google/coda",
+  "name": "coda",
+  "description": "Eye-catching, no-messing, bandwidth-saving, Coda's Heavy (800) style is designed to be an unassuming, practical, impact heavy display font for the world wide web. Designed to be used in large sizes to bring bold information to web pages, it is complemented by a Regular weight for use in text and display contexts. These webfonts are designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "homepage": "https://fonts.google.com/specimen/Coda",
+  "copyright": "Copyright (c) 2010-2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Coda\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Coda",
+      "files": [
+        "https://fonts.gstatic.com/s/coda/v22/SLXHc1jY5nQ8JUIMapaN39I.ttf",
+        "https://fonts.gstatic.com/s/coda/v22/SLXIc1jY5nQ8HeIgTp6mw9t1cX8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/coda/v22/SLXHc1jY5nQ8JUIMapaN39I.ttf",
+        "https://fonts.gstatic.com/s/coda/v22/SLXIc1jY5nQ8HeIgTp6mw9t1cX8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Coda",
+      "files": [
+        "https://fonts.gstatic.com/s/coda/v22/SLXHc1jY5nQ8JUcMapaN39I.woff2",
+        "https://fonts.gstatic.com/s/coda/v22/SLXIc1jY5nQ8HeIgTpumw9t1cX8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/coda/v22/SLXHc1jY5nQ8JUcMapaN39I.woff2",
+        "https://fonts.gstatic.com/s/coda/v22/SLXIc1jY5nQ8HeIgTpumw9t1cX8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Coda",
+      "styles": [
+        {
+          "family_name": "Coda",
+          "type": "Regular",
+          "full_name": "Coda Regular",
+          "post_script_name": "Coda-Regular",
+          "version": "2.001; ttfautohint (v0.8) -r 50 -G 200 -x",
+          "copyright": "Copyright (c) 2010-2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Coda\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXHc1jY5nQ8JUIMapaN39I.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Coda ExtraBold",
+      "styles": [
+        {
+          "family_name": "Coda ExtraBold",
+          "type": "Regular",
+          "full_name": "Coda ExtraBold",
+          "post_script_name": "Coda-ExtraBold",
+          "version": "2.001; ttfautohint (v0.8) -r 50 -G 200 -x",
+          "copyright": "Copyright (c) 2010-2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names \"Coda\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXIc1jY5nQ8HeIgTp6mw9t1cX8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_runic",
+  "name": "noto_sans_runic",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Runic is an unmodulated (“sans serif”) design for texts in the historical European Runic script. It has 94 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Runic",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/runic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Runic",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Runic",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WWbhpvHtgIYg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansrunic/v18/H4c_BXWPl9DZ0Xe_nHUaus7W68WWbhpvHtgIYg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Runic",
+      "styles": [
+        {
+          "family_name": "Noto Sans Runic",
+          "type": "Regular",
+          "full_name": "Noto Sans Runic Regular",
+          "post_script_name": "NotoSansRunic-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/runic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4c_BXWPl9DZ0Xe_nHUaus7W68WWaxpvHtgIYg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

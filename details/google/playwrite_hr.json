@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_hr",
+  "name": "playwrite_hr",
+  "description": "Playwrite HR font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+HR",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite HR",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YTXAHC7tvg.woff2",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YTXAHC7tvg.woff2",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YTXAHC7tvg.woff2",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YTXAHC7tvg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YTXAHC7tvg.woff2",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YTXAHC7tvg.woff2",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YTXAHC7tvg.woff2",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YTXAHC7tvg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite HR",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YHXAHC7tvg.ttf",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YHXAHC7tvg.ttf",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YHXAHC7tvg.ttf",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YHXAHC7tvg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YHXAHC7tvg.ttf",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YHXAHC7tvg.ttf",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YHXAHC7tvg.ttf",
+        "https://fonts.gstatic.com/s/playwritehr/v6/WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YHXAHC7tvg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite HR Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite HR Thin",
+          "type": "Regular",
+          "full_name": "Playwrite HR Thin",
+          "post_script_name": "PlaywriteHR-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoA9YHXAHC7tvg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite HR ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite HR ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite HR ExtraLight",
+          "post_script_name": "PlaywriteHR-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPkoB9YHXAHC7tvg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite HR Light",
+      "styles": [
+        {
+          "family_name": "Playwrite HR Light",
+          "type": "Regular",
+          "full_name": "Playwrite HR Light",
+          "post_script_name": "PlaywriteHR-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPpQB9YHXAHC7tvg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite HR",
+      "styles": [
+        {
+          "family_name": "Playwrite HR",
+          "type": "Regular",
+          "full_name": "Playwrite HR Regular",
+          "post_script_name": "PlaywriteHR-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "WWXAljmQYQCZM5qaU_dwQYcybAQ7GFn1mFNJPsoB9YHXAHC7tvg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

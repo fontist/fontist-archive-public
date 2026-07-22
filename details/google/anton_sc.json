@@ -1,0 +1,58 @@
+{
+  "slug": "google/anton_sc",
+  "name": "anton_sc",
+  "description": "Anton is a reworking of a traditional advertising sans serif typeface. The letter forms have been digitised and then reshaped for use as a webfont, the counters have been opened up a little and the stems optimised for use as bold display font in modern web browsers. Anton language support includes now African Latin and full coverage of Vietnamese, additional to all Western, Central, and South-Eastern European languages. Anton SC is the Small Caps version of Anton . To contribute see github.com/googlefonts/AntonFont .",
+  "homepage": "https://fonts.google.com/specimen/Anton+SC",
+  "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Anton SC",
+      "files": [
+        "https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71sxLmzanB44N1.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71sxLmzanB44N1.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Anton SC",
+      "files": [
+        "https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71sxLjzanB44N1.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/antonsc/v1/4UaBrEBBsgltGn71sxLjzanB44N1.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Anton SC",
+      "styles": [
+        {
+          "family_name": "Anton SC",
+          "type": "Regular",
+          "full_name": "Anton SC Regular",
+          "post_script_name": "AntonSC-Regular",
+          "version": "2.116; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "4UaBrEBBsgltGn71sxLmzanB44N1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

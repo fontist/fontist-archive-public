@@ -1,0 +1,58 @@
+{
+  "slug": "google/lavishly_yours",
+  "name": "lavishly_yours",
+  "description": "One of the first fonts to use ornately embellished capital forms, Lavishly Yours is a charming calligraphic script. Its nearly upright style along with looped lowercase miniscules gives this font a fairly tale look. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/lavishly-yours .",
+  "homepage": "https://fonts.google.com/specimen/Lavishly+Yours",
+  "copyright": "Copyright 2014-2021 The Lavishly Yours Project Authors (https://github.com/googlefonts/lavishly-yours)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lavishly Yours",
+      "files": [
+        "https://fonts.gstatic.com/s/lavishlyyours/v7/jizDREVIvGwH5OjiZmX9r5z_WxUY0TY7ikbI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lavishlyyours/v7/jizDREVIvGwH5OjiZmX9r5z_WxUY0TY7ikbI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lavishly Yours",
+      "files": [
+        "https://fonts.gstatic.com/s/lavishlyyours/v7/jizDREVIvGwH5OjiZmX9r5z_WxUd0TY7ikbI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lavishlyyours/v7/jizDREVIvGwH5OjiZmX9r5z_WxUd0TY7ikbI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lavishly Yours",
+      "styles": [
+        {
+          "family_name": "Lavishly Yours",
+          "type": "Regular",
+          "full_name": "Lavishly Yours Regular",
+          "post_script_name": "LavishlyYours-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014-2021 The Lavishly Yours Project Authors (https://github.com/googlefonts/lavishly-yours)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizDREVIvGwH5OjiZmX9r5z_WxUY0TY7ikbI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

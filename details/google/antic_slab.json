@@ -1,0 +1,58 @@
+{
+  "slug": "google/antic_slab",
+  "name": "antic_slab",
+  "description": "Antic Slab was designed for use in the headlines of newspapers and magazines. The Antic Type System is a super family that is still evolving, and this first release of the Slab family. It complements the Sans and Didone versions, giving the designer freedom to create rhythmic and dynamic typography using all three families in the type system. Each family in the type system has a large x-height that makes it very readable, especially on the web. Each also has slight stress derived from handwriting. Antic Slab's discreet slab serifs give it a strong presence in layouts. With modern proportions and condensed letterforms, it is great for economical typesetting, on paper and on screen. The Antic Type System is in progress and is being regularly improved. If you have a request, wish to contribute improvements or even fund specific features, simply contact Santiago Orozco . You can follow Santiago on Twitter, @Typemade .",
+  "homepage": "https://fonts.google.com/specimen/Antic+Slab",
+  "copyright": "Copyright (c) 2011 by Santiago Orozco(hi@typemade.mx) with reserved name Antic Slab",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Antic Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/anticslab/v17/bWt97fPFfRzkCa9Jlp6IWcJWXW5p5Qo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anticslab/v17/bWt97fPFfRzkCa9Jlp6IWcJWXW5p5Qo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Antic Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/anticslab/v17/bWt97fPFfRzkCa9Jlp6IWcdWXW5p5Qo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anticslab/v17/bWt97fPFfRzkCa9Jlp6IWcdWXW5p5Qo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Antic Slab",
+      "styles": [
+        {
+          "family_name": "Antic Slab",
+          "type": "Regular",
+          "full_name": "Antic Slab Regular",
+          "post_script_name": "AnticSlab-Regular",
+          "version": "001.002 ",
+          "copyright": "Copyright (c) 2011 by Santiago Orozco(hi@typemade.mx) with reserved name Antic Slab",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bWt97fPFfRzkCa9Jlp6IWcJWXW5p5Qo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

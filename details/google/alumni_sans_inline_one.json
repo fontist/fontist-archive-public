@@ -1,0 +1,77 @@
+{
+  "slug": "google/alumni_sans_inline_one",
+  "name": "alumni_sans_inline_one",
+  "description": "Alumni Inline One is a stand alone font from its base font, Alumni Sans (a variable font). Inline One is a black weight designed to be used as a display font above 32pt in print (assuming 300 dpi) and above 72px in digital media. In situations that require large text, use it in combination with the Alumni Sans base design. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/alumni-sans-inline .",
+  "homepage": "https://fonts.google.com/specimen/Alumni+Sans+Inline+One",
+  "copyright": "Copyright 2014 The Alumni Sans Inline Project Authors (https://github.com/googlefonts/alumni-sans-inline)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alumni Sans Inline One",
+      "files": [
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alumni Sans Inline One",
+      "files": [
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3UZcr7xbYw.woff2",
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITc5z0fYxcrQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3UZcr7xbYw.woff2",
+        "https://fonts.gstatic.com/s/alumnisansinlineone/v7/RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITc5z0fYxcrQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alumni Sans Inline One",
+      "styles": [
+        {
+          "family_name": "Alumni Sans Inline One",
+          "type": "Regular",
+          "full_name": "Alumni Sans Inline One Regular",
+          "post_script_name": "AlumniSansInlineOne-Regular",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014 The Alumni Sans Inline Project Authors (https://github.com/googlefonts/alumni-sans-inline)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RrQBbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpD3AZcr7xbYw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Alumni Sans Inline One",
+          "type": "Italic",
+          "full_name": "Alumni Sans Inline One Italic",
+          "post_script_name": "AlumniSansInlineOne-Italic",
+          "version": "1.100; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014 The Alumni Sans Inline Project Authors (https://github.com/googlefonts/alumni-sans-inline)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RrQDbpJx9zZ3IXTBOASKp5gJAetBdaihcjbpP3ITdpz0fYxcrQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

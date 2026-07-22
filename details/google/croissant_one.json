@@ -1,0 +1,58 @@
+{
+  "slug": "google/croissant_one",
+  "name": "croissant_one",
+  "description": "Croissant is a typeface inspired by the Parisian spirit, in the people and the landscapes there. The lowercase letters have smooth round shapes, and a nice long out-stroke to connect nearly every glyph, reminding the reader of elegant French handwriting. The uppercases have a classical structure and soft terminals that embody the spirit of this multi-purpose typeface. To contribute to the project contact Eduardo Tunni .",
+  "homepage": "https://fonts.google.com/specimen/Croissant+One",
+  "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Croissant'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Croissant One",
+      "files": [
+        "https://fonts.gstatic.com/s/croissantone/v28/3y9n6bU9bTPg4m8NDy3Kq24UM3pqn5cdJ-4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/croissantone/v28/3y9n6bU9bTPg4m8NDy3Kq24UM3pqn5cdJ-4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Croissant One",
+      "files": [
+        "https://fonts.gstatic.com/s/croissantone/v28/3y9n6bU9bTPg4m8NDy3Kq24UM39qn5cdJ-4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/croissantone/v28/3y9n6bU9bTPg4m8NDy3Kq24UM39qn5cdJ-4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Croissant One",
+      "styles": [
+        {
+          "family_name": "Croissant One",
+          "type": "Regular",
+          "full_name": "Croissant One",
+          "post_script_name": "CroissantOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Croissant'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3y9n6bU9bTPg4m8NDy3Kq24UM3pqn5cdJ-4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

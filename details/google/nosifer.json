@@ -1,0 +1,58 @@
+{
+  "slug": "google/nosifer",
+  "name": "nosifer",
+  "description": "Nobody knows where Nosifer comes from. It emanates a dark stench as it drips from the Internet.",
+  "homepage": "https://fonts.google.com/specimen/Nosifer",
+  "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Nosifer\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nosifer",
+      "files": [
+        "https://fonts.gstatic.com/s/nosifer/v23/ZGjXol5JTp0g5bxZaC1RVDNdGDs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nosifer/v23/ZGjXol5JTp0g5bxZaC1RVDNdGDs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nosifer",
+      "files": [
+        "https://fonts.gstatic.com/s/nosifer/v23/ZGjXol5JTp0g5bxZaChRVDNdGDs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nosifer/v23/ZGjXol5JTp0g5bxZaChRVDNdGDs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nosifer",
+      "styles": [
+        {
+          "family_name": "Nosifer",
+          "type": "Regular",
+          "full_name": "Nosifer",
+          "post_script_name": "Nosifer-Regular",
+          "version": "001.002 ",
+          "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Nosifer\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZGjXol5JTp0g5bxZaC1RVDNdGDs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

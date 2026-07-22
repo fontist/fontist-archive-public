@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_au_tas_guides",
+  "name": "playwrite_au_tas_guides",
+  "description": "Playwrite AU TAS Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+AU+TAS+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite AU TAS Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbKL4UbaDZD.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbKL4UbaDZD.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite AU TAS Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbPL4UbaDZD.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteautasguides/v1/cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbPL4UbaDZD.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite AU TAS Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite AU TAS Guides",
+          "type": "Regular",
+          "full_name": "Playwrite AU TAS Guides Regular",
+          "post_script_name": "PlaywriteAUTASGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "cY9Vfi6cVk5RvjGtQrLqjozy3ekUDtDMDX-NNjbKL4UbaDZD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

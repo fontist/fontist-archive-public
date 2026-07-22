@@ -1,0 +1,58 @@
+{
+  "slug": "google/homemade_apple",
+  "name": "homemade_apple",
+  "description": "Nothing says down-home goodness like a delicious Homemade Apple pie. For a good one, you have to make it yourself. Should you find yourself lacking in the recipe department, use this beautifully drawn cursive handwriting script font to give a personal touch.",
+  "homepage": "https://fonts.google.com/specimen/Homemade+Apple",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Homemade Apple",
+      "files": [
+        "https://fonts.gstatic.com/s/homemadeapple/v24/Qw3EZQFXECDrI2q789EKQZJob3x9Vnksi4M7.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/homemadeapple/v24/Qw3EZQFXECDrI2q789EKQZJob3x9Vnksi4M7.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Homemade Apple",
+      "files": [
+        "https://fonts.gstatic.com/s/homemadeapple/v24/Qw3EZQFXECDrI2q789EKQZJob3x4Vnksi4M7.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/homemadeapple/v24/Qw3EZQFXECDrI2q789EKQZJob3x4Vnksi4M7.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Homemade Apple",
+      "styles": [
+        {
+          "family_name": "Homemade Apple",
+          "type": "Regular",
+          "full_name": "Homemade Apple Regular",
+          "post_script_name": "HomemadeApple-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "Qw3EZQFXECDrI2q789EKQZJob3x9Vnksi4M7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

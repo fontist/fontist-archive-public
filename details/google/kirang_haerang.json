@@ -1,0 +1,58 @@
+{
+  "slug": "google/kirang_haerang",
+  "name": "kirang_haerang",
+  "description": "Kirang Haerang is a Korean and Latin font",
+  "homepage": "https://fonts.google.com/specimen/Kirang+Haerang",
+  "copyright": "Copyright 2018 The Kirang Haerang Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kirang Haerang",
+      "files": [
+        "https://fonts.gstatic.com/s/kiranghaerang/v22/E21-_dn_gvvIjhYON1lpIU4-bcqvWPaJq4no.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kiranghaerang/v22/E21-_dn_gvvIjhYON1lpIU4-bcqvWPaJq4no.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kirang Haerang",
+      "files": [
+        "https://fonts.gstatic.com/s/kiranghaerang/v22/E21-_dn_gvvIjhYON1lpIU4-bcqqWPaJq4no.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kiranghaerang/v22/E21-_dn_gvvIjhYON1lpIU4-bcqqWPaJq4no.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kirang Haerang",
+      "styles": [
+        {
+          "family_name": "Kirang Haerang",
+          "type": "Regular",
+          "full_name": "Kirang Haerang Regular",
+          "post_script_name": "KirangHaerang-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2018 The Kirang Haerang Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "E21-_dn_gvvIjhYON1lpIU4-bcqvWPaJq4no.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

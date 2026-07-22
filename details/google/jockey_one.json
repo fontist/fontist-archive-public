@@ -1,0 +1,58 @@
+{
+  "slug": "google/jockey_one",
+  "name": "jockey_one",
+  "description": "Jockey One is a new sans serif, designed by TypeTogether - Veronika Burian and José Scaglione.",
+  "homepage": "https://fonts.google.com/specimen/Jockey+One",
+  "copyright": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Jockey\" and \"Jockey One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jockey One",
+      "files": [
+        "https://fonts.gstatic.com/s/jockeyone/v23/HTxpL2g2KjCFj4x8WI6ArIb7HYOk4xc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jockeyone/v23/HTxpL2g2KjCFj4x8WI6ArIb7HYOk4xc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jockey One",
+      "files": [
+        "https://fonts.gstatic.com/s/jockeyone/v23/HTxpL2g2KjCFj4x8WI6ArIP7HYOk4xc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jockeyone/v23/HTxpL2g2KjCFj4x8WI6ArIP7HYOk4xc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jockey One",
+      "styles": [
+        {
+          "family_name": "Jockey One",
+          "type": "Regular",
+          "full_name": "Jockey One",
+          "post_script_name": "JockeyOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Jockey\" and \"Jockey One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HTxpL2g2KjCFj4x8WI6ArIb7HYOk4xc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

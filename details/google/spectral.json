@@ -1,0 +1,330 @@
+{
+  "slug": "google/spectral",
+  "name": "spectral",
+  "description": "Spectral font family",
+  "homepage": "https://fonts.google.com/specimen/Spectral",
+  "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Spectral",
+      "files": [
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9v2s13GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qrXHafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uSsF3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qtHEafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCr-xNNww_2s0amA-M-mHnOSOuk.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCt-xNNww_2s0amA9M8kn3sTfukQHs.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vKsV3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qonFafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vmtl3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qqXCafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uCt13GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qsHDafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uetF3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qt3AafOPXHIJErY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9v2s13GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qrXHafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uSsF3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qtHEafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCr-xNNww_2s0amA-M-mHnOSOuk.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCt-xNNww_2s0amA9M8kn3sTfukQHs.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vKsV3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qonFafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vmtl3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qqXCafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uCt13GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qsHDafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uetF3GY_etWWIJ.ttf",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qt3AafOPXHIJErY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Spectral",
+      "files": [
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9v2s13DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qrXHafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uSsF3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qtHEafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCr-xNNww_2s0amA-M7mHnOSOuk.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCt-xNNww_2s0amA9M8knjsTfukQHs.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vKsV3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qonFafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vmtl3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qqXCafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uCt13DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qsHDafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uetF3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qt3AafaPXHIJErY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9v2s13DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qrXHafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uSsF3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qtHEafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCr-xNNww_2s0amA-M7mHnOSOuk.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCt-xNNww_2s0amA9M8knjsTfukQHs.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vKsV3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qonFafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9vmtl3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qqXCafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uCt13DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qsHDafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCs-xNNww_2s0amA9uetF3DY_etWWIJ.woff2",
+        "https://fonts.gstatic.com/s/spectral/v15/rnCu-xNNww_2s0amA9M8qt3AafaPXHIJErY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Spectral ExtraLight",
+      "styles": [
+        {
+          "family_name": "Spectral ExtraLight",
+          "type": "Regular",
+          "full_name": "Spectral ExtraLight",
+          "post_script_name": "Spectral-ExtraLight",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCs-xNNww_2s0amA9v2s13GY_etWWIJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral ExtraLight",
+          "type": "Italic",
+          "full_name": "Spectral ExtraLight Italic",
+          "post_script_name": "Spectral-ExtraLightItalic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCu-xNNww_2s0amA9M8qrXHafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectral Light",
+      "styles": [
+        {
+          "family_name": "Spectral Light",
+          "type": "Regular",
+          "full_name": "Spectral Light",
+          "post_script_name": "Spectral-Light",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCs-xNNww_2s0amA9uSsF3GY_etWWIJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral Light",
+          "type": "Italic",
+          "full_name": "Spectral Light Italic",
+          "post_script_name": "Spectral-LightItalic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCu-xNNww_2s0amA9M8qtHEafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectral",
+      "styles": [
+        {
+          "family_name": "Spectral",
+          "type": "Regular",
+          "full_name": "Spectral Regular",
+          "post_script_name": "Spectral-Regular",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCr-xNNww_2s0amA-M-mHnOSOuk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral",
+          "type": "Italic",
+          "full_name": "Spectral Italic",
+          "post_script_name": "Spectral-Italic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCt-xNNww_2s0amA9M8kn3sTfukQHs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral",
+          "type": "Bold",
+          "full_name": "Spectral Bold",
+          "post_script_name": "Spectral-Bold",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCs-xNNww_2s0amA9uCt13GY_etWWIJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral",
+          "type": "Bold Italic",
+          "full_name": "Spectral Bold Italic",
+          "post_script_name": "Spectral-BoldItalic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCu-xNNww_2s0amA9M8qsHDafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectral Medium",
+      "styles": [
+        {
+          "family_name": "Spectral Medium",
+          "type": "Regular",
+          "full_name": "Spectral Medium",
+          "post_script_name": "Spectral-Medium",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCs-xNNww_2s0amA9vKsV3GY_etWWIJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral Medium",
+          "type": "Italic",
+          "full_name": "Spectral Medium Italic",
+          "post_script_name": "Spectral-MediumItalic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCu-xNNww_2s0amA9M8qonFafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectral SemiBold",
+      "styles": [
+        {
+          "family_name": "Spectral SemiBold",
+          "type": "Regular",
+          "full_name": "Spectral SemiBold",
+          "post_script_name": "Spectral-SemiBold",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCs-xNNww_2s0amA9vmtl3GY_etWWIJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral SemiBold",
+          "type": "Italic",
+          "full_name": "Spectral SemiBold Italic",
+          "post_script_name": "Spectral-SemiBoldItalic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCu-xNNww_2s0amA9M8qqXCafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spectral ExtraBold",
+      "styles": [
+        {
+          "family_name": "Spectral ExtraBold",
+          "type": "Regular",
+          "full_name": "Spectral ExtraBold",
+          "post_script_name": "Spectral-ExtraBold",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCs-xNNww_2s0amA9uetF3GY_etWWIJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spectral ExtraBold",
+          "type": "Italic",
+          "full_name": "Spectral ExtraBold Italic",
+          "post_script_name": "Spectral-ExtraBoldItalic",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2017 The Spectral Project Authors (https://github.com/productiontype/Spectral)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "rnCu-xNNww_2s0amA9M8qt3AafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

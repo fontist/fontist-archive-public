@@ -1,0 +1,149 @@
+{
+  "slug": "google/abhaya_libre",
+  "name": "abhaya_libre",
+  "description": "Abhaya Libre is the unicode compliant, complete libre version of the most widely used Sinhala typeface ‘FM Abhaya’ and includes Sinhala and Latin support. Designed in 1996, ‘FM Abhaya’ is an interpretation of the Sinhala letterpress typefaces from 1960s. The name ‘Abhaya’ is derived from the King Abhaya (474 BCE to 454 BCE) who reigned Sri Lanka from the ancient kingdom of Upatissa Nuwara. ‘Abhaya Libre’ was completely redrawn from scratch based on FM Abhaya to comply with modern day usages in terms of web, tab and smaller sizes for smartphones. Available in 5 weights, Abhaya Libre enables designers to build sophisticated typographic layouts by using lighter weights for body text and heavier weights for headlines and subheadings. Each of these weights contains 925 glyphs that enables clean and precise rendering for Sinhala, Pali and Sanskrit texts. Compact ‘Da’ forms can be enabled by using stylistic sets. The Latin characters, that match the aesthetics of ‘Abhaya Libre Sinhala’, which was inspired by the style of the original Sinhala with an eminent contrast between distinctive strokes that go from thick to thin and was further modified to co-exist with the visual logics of Latin typefaces. The ductus references according to the lines of a Didone typeface add a touch of Sinhala form to certain terminations. Large counters have been added along with small ascenders and descenders for optimized screen viewing. The project is led by Mooniak , a small type foundry based in Colombo, Sri Lanka, in collaboration with Pushpananda Ekanayake . The Latin part is designed by Sol Matas . Initial development and release was funded by Google Fonts in 2015. For more information and updates, or to report any bugs or suggestions, see github.com/mooniak/abhaya-libre-font",
+  "homepage": "https://fonts.google.com/specimen/Abhaya+Libre",
+  "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Abhaya Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEge0PWovdU4w.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2ryqtxI6oYtBA.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23yqtxI6oYtBA.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zyqtxI6oYtBA.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_yqtxI6oYtBA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEge0PWovdU4w.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2ryqtxI6oYtBA.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23yqtxI6oYtBA.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zyqtxI6oYtBA.ttf",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_yqtxI6oYtBA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Abhaya Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEgfkPWovdU4w.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2ryr9xI6oYtBA.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23yr9xI6oYtBA.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zyr9xI6oYtBA.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_yr9xI6oYtBA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3tmeuGtX-Co5MNzeAOqinEgfkPWovdU4w.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYj2ryr9xI6oYtBA.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYo23yr9xI6oYtBA.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEYx2zyr9xI6oYtBA.woff2",
+        "https://fonts.gstatic.com/s/abhayalibre/v18/e3t5euGtX-Co5MNzeAOqinEY22_yr9xI6oYtBA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Abhaya Libre",
+      "styles": [
+        {
+          "family_name": "Abhaya Libre",
+          "type": "Regular",
+          "full_name": "Abhaya Libre Regular",
+          "post_script_name": "AbhayaLibre-Regular",
+          "version": "1.050 ; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "e3tmeuGtX-Co5MNzeAOqinEge0PWovdU4w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Abhaya Libre",
+          "type": "Bold",
+          "full_name": "Abhaya Libre Bold",
+          "post_script_name": "AbhayaLibre-Bold",
+          "version": "1.050 ; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "e3t5euGtX-Co5MNzeAOqinEYx2zyqtxI6oYtBA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abhaya Libre Medium",
+      "styles": [
+        {
+          "family_name": "Abhaya Libre Medium",
+          "type": "Regular",
+          "full_name": "Abhaya Libre Medium",
+          "post_script_name": "AbhayaLibre-Medium",
+          "version": "1.050 ; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "e3t5euGtX-Co5MNzeAOqinEYj2ryqtxI6oYtBA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abhaya Libre SemiBold",
+      "styles": [
+        {
+          "family_name": "Abhaya Libre SemiBold",
+          "type": "Regular",
+          "full_name": "Abhaya Libre SemiBold",
+          "post_script_name": "AbhayaLibre-SemiBold",
+          "version": "1.050 ; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "e3t5euGtX-Co5MNzeAOqinEYo23yqtxI6oYtBA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Abhaya Libre ExtraBold",
+      "styles": [
+        {
+          "family_name": "Abhaya Libre ExtraBold",
+          "type": "Regular",
+          "full_name": "Abhaya Libre ExtraBold",
+          "post_script_name": "AbhayaLibre-ExtraBold",
+          "version": "1.050 ; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 1996-2015 Pushpananda Ekanayake (pushpanandae@gmail.com) Copyright (c) 2015 Sol Matas (sol@sonnenshine.com.ar) Copyright (c) 2015 Mooniak (hello@mooniak.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "e3t5euGtX-Co5MNzeAOqinEY22_yqtxI6oYtBA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,205 @@
+{
+  "slug": "google/montagu_slab",
+  "name": "montagu_slab",
+  "description": "Montagu Slab is a slab-serif display typeface designed by Florian Karsten. The typeface draws inspiration from 19th-century classic designs and it is available as a variable font with weight and optical size axes. The optical size axis, which controls x-height, spacing, contrast and aperture, provides a wide range of variation – from low contrast and higher x-height version suitable for long texts, to a tight and high contrast display variant with prominent upturned tails. To contribute, see github.com/floriankarsten/montagu-slab .",
+  "homepage": "https://fonts.google.com/specimen/Montagu+Slab",
+  "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Montagu Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbE3P4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkBbEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkCFEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDpEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkAFFXP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkA8FXP4Fs7bOSO7.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbE3P4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkBbEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkCFEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDpEnP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkAFFXP4Fs7bOSO7.woff2",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkA8FXP4Fs7bOSO7.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "opsz",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Montagu Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbE3P9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkBbEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkCFEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDpEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkAFFXP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkA8FXP9Fs7bOSO7.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbE3P9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkBbEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkCFEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDpEnP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkAFFXP9Fs7bOSO7.ttf",
+        "https://fonts.gstatic.com/s/montaguslab/v17/6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkA8FXP9Fs7bOSO7.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "opsz",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Montagu Slab Thin",
+      "styles": [
+        {
+          "family_name": "Montagu Slab Thin",
+          "type": "Regular",
+          "full_name": "Montagu Slab Thin",
+          "post_script_name": "MontaguSlab-Thin",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbE3P9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montagu Slab ExtraLight",
+      "styles": [
+        {
+          "family_name": "Montagu Slab ExtraLight",
+          "type": "Regular",
+          "full_name": "Montagu Slab ExtraLight",
+          "post_script_name": "MontaguSlab-ExtraLight",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkBbEnP9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montagu Slab Light",
+      "styles": [
+        {
+          "family_name": "Montagu Slab Light",
+          "type": "Regular",
+          "full_name": "Montagu Slab Light",
+          "post_script_name": "MontaguSlab-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkCFEnP9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montagu Slab",
+      "styles": [
+        {
+          "family_name": "Montagu Slab",
+          "type": "Regular",
+          "full_name": "Montagu Slab Regular",
+          "post_script_name": "MontaguSlab-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDbEnP9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Montagu Slab",
+          "type": "Bold",
+          "full_name": "Montagu Slab Bold",
+          "post_script_name": "MontaguSlab-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkA8FXP9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montagu Slab Medium",
+      "styles": [
+        {
+          "family_name": "Montagu Slab Medium",
+          "type": "Regular",
+          "full_name": "Montagu Slab Medium",
+          "post_script_name": "MontaguSlab-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkDpEnP9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Montagu Slab SemiBold",
+      "styles": [
+        {
+          "family_name": "Montagu Slab SemiBold",
+          "type": "Regular",
+          "full_name": "Montagu Slab SemiBold",
+          "post_script_name": "MontaguSlab-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Montagu Slab Project Authors (https://github.com/floriankarsten/montagu-slab)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6qLhKZIQtB_zv0xUaXRDWkY_HXsphdLRZF40vm_jzR2jhk_n3T6ACkAFFXP9Fs7bOSO7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

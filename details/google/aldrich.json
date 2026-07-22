@@ -1,0 +1,58 @@
+{
+  "slug": "google/aldrich",
+  "name": "aldrich",
+  "description": "Aldrich is a rounded yet squarely proportioned font that is reminiscent of early 20th Century gothic styles. With a solid stance and confident mono-weight strokes, Aldrich is a hardworking family with roots in Midwestern ethics. Documentation can be found at www.madtype.com and to contribute to the project contact Matthew Desmond at mattdesmond@gmail.com",
+  "homepage": "https://fonts.google.com/specimen/Aldrich",
+  "copyright": "Copyright (c) Matthew Desmond, 2011. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aldrich",
+      "files": [
+        "https://fonts.gstatic.com/s/aldrich/v22/MCoTzAn-1s3IGyJMZaAS3pP5H_E.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aldrich/v22/MCoTzAn-1s3IGyJMZaAS3pP5H_E.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aldrich",
+      "files": [
+        "https://fonts.gstatic.com/s/aldrich/v22/MCoTzAn-1s3IGyJMZaUS3pP5H_E.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aldrich/v22/MCoTzAn-1s3IGyJMZaUS3pP5H_E.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aldrich",
+      "styles": [
+        {
+          "family_name": "Aldrich",
+          "type": "Regular",
+          "full_name": "Aldrich Regular",
+          "post_script_name": "Aldrich-Regular",
+          "version": "1.002 2011",
+          "copyright": "Copyright (c) Matthew Desmond, 2011. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoTzAn-1s3IGyJMZaAS3pP5H_E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

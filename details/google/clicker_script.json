@@ -1,0 +1,58 @@
+{
+  "slug": "google/clicker_script",
+  "name": "clicker_script",
+  "description": "Clicker Script finds its inspiration from RCA Records Stereo Action Series from the 1960's. This signature elegant yet slightly bouncy script truly sings, and lends a happy go lucky flavor to any design. Designed by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Clicker+Script",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Clicker Script\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Clicker Script",
+      "files": [
+        "https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq72rY2zqUKafv.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq72rY2zqUKafv.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Clicker Script",
+      "files": [
+        "https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq72rd2zqUKafv.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/clickerscript/v14/raxkHiKPvt8CMH6ZWP8PdlEq72rd2zqUKafv.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Clicker Script",
+      "styles": [
+        {
+          "family_name": "Clicker Script",
+          "type": "Regular",
+          "full_name": "Clicker Script",
+          "post_script_name": "ClickerScript-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Clicker Script\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "raxkHiKPvt8CMH6ZWP8PdlEq72rY2zqUKafv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

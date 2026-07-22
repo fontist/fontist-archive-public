@@ -1,0 +1,158 @@
+{
+  "slug": "google/sansation",
+  "name": "sansation",
+  "description": "Sansation is a sans serif typeface family.",
+  "homepage": "https://fonts.google.com/specimen/Sansation",
+  "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sansation",
+      "files": [
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YAVgPVPXbUJWq9g.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KDVv_fcpC69i6N.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjAdGPjnEg8DNA0z01grXArXN7HWQ.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjGdGPjnEg8DNA0z01Qr3ovftvXWYyz.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YEV8PVPXbUJWq9g.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KTUf_fcpC69i6N.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YAVgPVPXbUJWq9g.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KDVv_fcpC69i6N.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjAdGPjnEg8DNA0z01grXArXN7HWQ.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjGdGPjnEg8DNA0z01Qr3ovftvXWYyz.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YEV8PVPXbUJWq9g.ttf",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KTUf_fcpC69i6N.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sansation",
+      "files": [
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YAVgPUfXbUJWq9g.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KDVv_acpC69i6N.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjAdGPjnEg8DNA0z01gqHArXN7HWQ.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjGdGPjnEg8DNA0z01Qr3oqftvXWYyz.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YEV8PUfXbUJWq9g.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KTUf_acpC69i6N.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YAVgPUfXbUJWq9g.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KDVv_acpC69i6N.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjAdGPjnEg8DNA0z01gqHArXN7HWQ.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjGdGPjnEg8DNA0z01Qr3oqftvXWYyz.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjFdGPjnEg8DNA0z01YEV8PUfXbUJWq9g.woff2",
+        "https://fonts.gstatic.com/s/sansation/v1/LYjbdGPjnEg8DNA0z01Qr0KTUf_acpC69i6N.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sansation Light",
+      "styles": [
+        {
+          "family_name": "Sansation Light",
+          "type": "Light",
+          "full_name": "Sansation Light",
+          "post_script_name": "Sansation-Light",
+          "version": "1.301",
+          "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjFdGPjnEg8DNA0z01YAVgPVPXbUJWq9g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sansation Light",
+          "type": "Light Italic",
+          "full_name": "Sansation Light Italic",
+          "post_script_name": "Sansation-LightItalic",
+          "version": "1.301",
+          "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjbdGPjnEg8DNA0z01Qr0KDVv_fcpC69i6N.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sansation",
+      "styles": [
+        {
+          "family_name": "Sansation",
+          "type": "Regular",
+          "full_name": "Sansation Regular",
+          "post_script_name": "Sansation-Regular",
+          "version": "1.301",
+          "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjAdGPjnEg8DNA0z01grXArXN7HWQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sansation",
+          "type": "Italic",
+          "full_name": "Sansation Italic",
+          "post_script_name": "Sansation-Italic",
+          "version": "1.301",
+          "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjGdGPjnEg8DNA0z01Qr3ovftvXWYyz.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sansation",
+          "type": "Bold",
+          "full_name": "Sansation Bold",
+          "post_script_name": "Sansation-Bold",
+          "version": "1.301",
+          "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjFdGPjnEg8DNA0z01YEV8PVPXbUJWq9g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sansation",
+          "type": "Bold Italic",
+          "full_name": "Sansation Bold Italic",
+          "post_script_name": "Sansation-BoldItalic",
+          "version": "1.301",
+          "copyright": "Copyright (c) 2011 by Bernd Montag, with Reserved Font Name 'Sansation'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjbdGPjnEg8DNA0z01Qr0KTUf_fcpC69i6N.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

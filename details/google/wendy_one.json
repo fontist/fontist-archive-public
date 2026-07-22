@@ -1,0 +1,58 @@
+{
+  "slug": "google/wendy_one",
+  "name": "wendy_one",
+  "description": "Wendy is loosely inspired by the STABILO logotype, a brand that works as a conceptual and aesthetic reference. It evokes in me design values, form and style. The challenge was take a logotype consisting of seven letters as a starting point to develop an alphabet. I liked the idea of the original logo for the beauty of its forms: original and risky. I liked to continue the work of someone whose development was arrested at another time, to animate these characters, giving them new life through the design of a typeface that finds the balance between the old and new forms. The font was developed by Alejandro Inler in conjunction with Julieta Ulanovsky.",
+  "homepage": "https://fonts.google.com/specimen/Wendy+One",
+  "copyright": "Copyright (c) 2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Wendy'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Wendy One",
+      "files": [
+        "https://fonts.gstatic.com/s/wendyone/v20/2sDcZGJOipXfgfXV5wgDb2-4C7wFZQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wendyone/v20/2sDcZGJOipXfgfXV5wgDb2-4C7wFZQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Wendy One",
+      "files": [
+        "https://fonts.gstatic.com/s/wendyone/v20/2sDcZGJOipXfgfXV5wgDam-4C7wFZQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wendyone/v20/2sDcZGJOipXfgfXV5wgDam-4C7wFZQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wendy One",
+      "styles": [
+        {
+          "family_name": "Wendy One",
+          "type": "Regular",
+          "full_name": "Wendy One",
+          "post_script_name": "WendyOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Wendy'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2sDcZGJOipXfgfXV5wgDb2-4C7wFZQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

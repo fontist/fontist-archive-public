@@ -1,0 +1,58 @@
+{
+  "slug": "google/chicle",
+  "name": "chicle",
+  "description": "In a much needed break from complex scripts and polished packaging fonts, Koziupa and Paul decided to show their playful side. Chicle has bold, stretchable, kid-proof, pet-resistant letters. This font is made to take the abuse of software used to put together the elaborate, attention-scrambling artwork of candy, cereal, and toy packaging, or whatever boxed obscenity contains cat and dog treats. Chicle is Spanish for bubble gum. Its a definite sugar fix — no substitutes.",
+  "homepage": "https://fonts.google.com/specimen/Chicle",
+  "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Chicle\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chicle",
+      "files": [
+        "https://fonts.gstatic.com/s/chicle/v27/lJwG-pw9i2dqU-BDyWKuobYSxw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chicle/v27/lJwG-pw9i2dqU-BDyWKuobYSxw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chicle",
+      "files": [
+        "https://fonts.gstatic.com/s/chicle/v27/lJwG-pw9i2dqU-BDzGKuobYSxw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chicle/v27/lJwG-pw9i2dqU-BDzGKuobYSxw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chicle",
+      "styles": [
+        {
+          "family_name": "Chicle",
+          "type": "Regular",
+          "full_name": "Chicle Regular",
+          "post_script_name": "Chicle-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Chicle\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "lJwG-pw9i2dqU-BDyWKuobYSxw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

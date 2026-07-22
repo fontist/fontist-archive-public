@@ -1,0 +1,149 @@
+{
+  "slug": "google/hind",
+  "name": "hind",
+  "description": "Hind is an Open Source typeface supporting the Devanagari and Latin scripts. Developed explicitly for use in User Interface design, the Hind font family includes five styles. Hind’s letterforms have a humanist-style construction, which is paired with seemingly monolinear strokes. Most of these strokes have flat endings: they either terminate with a horizontal or a vertical shear, rather than on a diagonal. This helps create clear-cut counter forms between the characters. In addition to this, Hind’s letterforms feature open apertures. The entire typeface family feels very legible when used to set text. The Devanagari and Latin script components are scaled in relation to each other so that the Devanagari headline falls just below the Latin capital-height. In other words, the Devanagari base characters are 94% as tall as the Latin uppercase. Text set in the Devanagari script sits nicely alongside the Latin lowercase, too. Hind’s Devanagari vowel marks take forms that tends toward the traditional end of the design spectrum, while the knotted terminals inside of the base characters feature a treatment that appears more contemporary. Each font in the Hind family has 1146 glyphs, which include hundreds of unique Devanagari conjuncts. These ensure full support for the major languages written with the Devanagari script. The Latin component’s character set is a basic western one, which enables typesetting in English and the other Western European languages. Hind is a solid choice for UI design, and a wise selection for electronic display embedding. Manushi Parikh designed Hind for the Indian Type Foundry, who first published the fonts in 2014. The Hind project is led by Indian Type Foundry, a type design foundry based in Ahmedabad, India. To contribute, see github.com/itfoundry/hind",
+  "homepage": "https://fonts.google.com/specimen/Hind",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hind",
+      "files": [
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfMJaIRuYjDpf5Vw.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU69_a8oxmIRG5yBROzkDM.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbIRuYjDpf5Vw.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfLZcIRuYjDpf5Vw.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfNJdIRuYjDpf5Vw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfMJaIRuYjDpf5Vw.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU69_a8oxmIRG5yBROzkDM.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbIRuYjDpf5Vw.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfLZcIRuYjDpf5Vw.ttf",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfNJdIRuYjDpf5Vw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hind",
+      "files": [
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfMJaIR6YjDpf5Vw.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU69_a8oxmIRGtyBROzkDM.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbIR6YjDpf5Vw.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfLZcIR6YjDpf5Vw.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfNJdIR6YjDpf5Vw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfMJaIR6YjDpf5Vw.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU69_a8oxmIRGtyBROzkDM.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfJpbIR6YjDpf5Vw.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfLZcIR6YjDpf5Vw.woff2",
+        "https://fonts.gstatic.com/s/hind/v18/5aU19_a8oxmIfNJdIR6YjDpf5Vw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hind Light",
+      "styles": [
+        {
+          "family_name": "Hind Light",
+          "type": "Regular",
+          "full_name": "Hind Light",
+          "post_script_name": "Hind-Light",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f deva -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5aU19_a8oxmIfMJaIRuYjDpf5Vw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hind",
+      "styles": [
+        {
+          "family_name": "Hind",
+          "type": "Regular",
+          "full_name": "Hind Regular",
+          "post_script_name": "Hind-Regular",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f deva -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5aU69_a8oxmIRG5yBROzkDM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hind",
+          "type": "Bold",
+          "full_name": "Hind Bold",
+          "post_script_name": "Hind-Bold",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f deva -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5aU19_a8oxmIfNJdIRuYjDpf5Vw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hind Medium",
+      "styles": [
+        {
+          "family_name": "Hind Medium",
+          "type": "Regular",
+          "full_name": "Hind Medium",
+          "post_script_name": "Hind-Medium",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f deva -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5aU19_a8oxmIfJpbIRuYjDpf5Vw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hind SemiBold",
+      "styles": [
+        {
+          "family_name": "Hind SemiBold",
+          "type": "Regular",
+          "full_name": "Hind SemiBold",
+          "post_script_name": "Hind-SemiBold",
+          "version": "2.001;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f deva -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5aU19_a8oxmIfLZcIRuYjDpf5Vw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

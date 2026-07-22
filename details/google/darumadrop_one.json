@@ -1,0 +1,58 @@
+{
+  "slug": "google/darumadrop_one",
+  "name": "darumadrop_one",
+  "description": "Darumdrop is a flavorful handwritten font inspired by Japanese handwriting and \"Daruma Otoshi\" which is a Japanese folk craft game. To contribute to the project, visit github.com/ManiackersDesign/darumadrop",
+  "homepage": "https://fonts.google.com/specimen/Darumadrop+One",
+  "copyright": "Copyright 2020 The Darumadrop Project Authors (https://github.com/ManiackersDesign/darumadrop), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Darumadrop One",
+      "files": [
+        "https://fonts.gstatic.com/s/darumadropone/v14/cY9cfjeIW11dpCKgRLi675a87IhHBJOxZQPp.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/darumadropone/v14/cY9cfjeIW11dpCKgRLi675a87IhHBJOxZQPp.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Darumadrop One",
+      "files": [
+        "https://fonts.gstatic.com/s/darumadropone/v14/cY9cfjeIW11dpCKgRLi675a87IhCBJOxZQPp.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/darumadropone/v14/cY9cfjeIW11dpCKgRLi675a87IhCBJOxZQPp.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Darumadrop One",
+      "styles": [
+        {
+          "family_name": "Darumadrop One",
+          "type": "Regular",
+          "full_name": "Darumadrop One Regular",
+          "post_script_name": "DarumadropOne-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Darumadrop Project Authors (https://github.com/ManiackersDesign/darumadrop), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cY9cfjeIW11dpCKgRLi675a87IhHBJOxZQPp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

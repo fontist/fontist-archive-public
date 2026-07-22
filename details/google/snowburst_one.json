@@ -1,0 +1,58 @@
+{
+  "slug": "google/snowburst_one",
+  "name": "snowburst_one",
+  "description": "Foundry: Sorkin Type Co Snowburst One is a low contrast serifed display typeface inspired by one of Annet Stirling's distinctive styles of lettering. Snowburst One's personality consistently shows in both small and large sizes. Because of the thin stokes this font is best used from medium to large sizes. Despite its surprising forms Snowburst is highly legible. Readers are likely to be both surprised and entertained by its unusual but friendly forms. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Snowburst+One",
+  "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Snowburst'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Snowburst One",
+      "files": [
+        "https://fonts.gstatic.com/s/snowburstone/v21/MQpS-WezKdujBsXY3B7I-UT7eZ-UPyacPbo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/snowburstone/v21/MQpS-WezKdujBsXY3B7I-UT7eZ-UPyacPbo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Snowburst One",
+      "files": [
+        "https://fonts.gstatic.com/s/snowburstone/v21/MQpS-WezKdujBsXY3B7I-UT7eZqUPyacPbo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/snowburstone/v21/MQpS-WezKdujBsXY3B7I-UT7eZqUPyacPbo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Snowburst One",
+      "styles": [
+        {
+          "family_name": "Snowburst One",
+          "type": "Regular",
+          "full_name": "Snowburst One",
+          "post_script_name": "SnowburstOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Snowburst'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MQpS-WezKdujBsXY3B7I-UT7eZ-UPyacPbo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

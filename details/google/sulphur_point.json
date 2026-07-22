@@ -1,0 +1,101 @@
+{
+  "slug": "google/sulphur_point",
+  "name": "sulphur_point",
+  "description": "Sulphur Point is a geometric sans serif typeface, with low contrast stems, high x-height, restrained ascenders and descenders and minimal optical adjustments away from pure geometric form. Sulphur Point is intended for both display and copy use. The typeface is the result of an exploration of theories of the political production of space as manifested in the port and recreational marine facilities of Sulphur Point in Tauranga, New Zealand. The Sulphur Point project is led by Dale Sattler, a type designer based in New Zealand. To contribute, see github.com/noponies/sulphur-point",
+  "homepage": "https://fonts.google.com/specimen/Sulphur+Point",
+  "copyright": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sulphur Point",
+      "files": [
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afVU6n6kFUHPIFaU.ttf",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLp5K5vv8KaycDcazWFPBj2aRfkSu6EuTHo.ttf",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afUU9n6kFUHPIFaU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afVU6n6kFUHPIFaU.ttf",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLp5K5vv8KaycDcazWFPBj2aRfkSu6EuTHo.ttf",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afUU9n6kFUHPIFaU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sulphur Point",
+      "files": [
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afVU6n6wFUHPIFaU.woff2",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLp5K5vv8KaycDcazWFPBj2aRfwSu6EuTHo.woff2",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afUU9n6wFUHPIFaU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afVU6n6wFUHPIFaU.woff2",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLp5K5vv8KaycDcazWFPBj2aRfwSu6EuTHo.woff2",
+        "https://fonts.gstatic.com/s/sulphurpoint/v16/RLpkK5vv8KaycDcazWFPBj2afUU9n6wFUHPIFaU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sulphur Point Light",
+      "styles": [
+        {
+          "family_name": "Sulphur Point Light",
+          "type": "Regular",
+          "full_name": "Sulphur Point Light",
+          "post_script_name": "SulphurPoint-Light",
+          "version": "1.000; ttfautohint (v1.8)",
+          "copyright": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLpkK5vv8KaycDcazWFPBj2afVU6n6kFUHPIFaU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sulphur Point",
+      "styles": [
+        {
+          "family_name": "Sulphur Point",
+          "type": "Regular",
+          "full_name": "Sulphur Point Regular",
+          "post_script_name": "SulphurPoint-Regular",
+          "version": "1.000; ttfautohint (v1.8)",
+          "copyright": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLp5K5vv8KaycDcazWFPBj2aRfkSu6EuTHo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sulphur Point",
+          "type": "Bold",
+          "full_name": "Sulphur Point Bold",
+          "post_script_name": "SulphurPoint-Bold",
+          "version": "1.000; ttfautohint (v1.8)",
+          "copyright": "Copyright 2019 The Sulphur Point Project Authors (https://github.com/noponies)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLpkK5vv8KaycDcazWFPBj2afUU9n6kFUHPIFaU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

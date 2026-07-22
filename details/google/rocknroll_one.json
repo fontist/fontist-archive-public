@@ -1,0 +1,58 @@
+{
+  "slug": "google/rocknroll_one",
+  "name": "rocknroll_one",
+  "description": "RocknRoll is an original pop-style font. The strokes of varying intensity add momentum and the rounded dots create a lively and dynamic feel. To contribute to the project, visit github.com/fontworks-fonts/RocknRoll",
+  "homepage": "https://fonts.google.com/specimen/RocknRoll+One",
+  "copyright": "Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "RocknRoll One",
+      "files": [
+        "https://fonts.gstatic.com/s/rocknrollone/v16/kmK7ZqspGAfCeUiW6FFlmEC9guVhs7tfUxc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rocknrollone/v16/kmK7ZqspGAfCeUiW6FFlmEC9guVhs7tfUxc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "RocknRoll One",
+      "files": [
+        "https://fonts.gstatic.com/s/rocknrollone/v16/kmK7ZqspGAfCeUiW6FFlmEC9guBhs7tfUxc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rocknrollone/v16/kmK7ZqspGAfCeUiW6FFlmEC9guBhs7tfUxc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "RocknRoll One",
+      "styles": [
+        {
+          "family_name": "RocknRoll One",
+          "type": "Regular",
+          "full_name": "RocknRoll One Regular",
+          "post_script_name": "RocknRollOne-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The RocknRoll Project Authors (https://github.com/fontworks-fonts/RocknRoll)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmK7ZqspGAfCeUiW6FFlmEC9guVhs7tfUxc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

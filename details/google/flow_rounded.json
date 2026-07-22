@@ -1,0 +1,58 @@
+{
+  "slug": "google/flow_rounded",
+  "name": "flow_rounded",
+  "description": "Flow is a font family built for abstracting content and code for design mockups, wireframing, presentations, and websites. It's not perfect, but neither are your wireframes. Flow has sub-pixels, artifacts, overlaps and other imperfections. Flow comes in three styles: Circular , Rounded and Block . Check out danross.co/flow/ . To contribute, see github.com/HYPD/flow-typeface . To learn more, read Flow and Redacted: Check out these new options for wireframes and other early-stage designs .",
+  "homepage": "https://fonts.google.com/specimen/Flow+Rounded",
+  "copyright": "Copyright 2020 The Flow Project Authors (https://github.com/HYPD/flow-typeface)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Flow Rounded",
+      "files": [
+        "https://fonts.gstatic.com/s/flowrounded/v15/-zki91mtwsU9qlLiGwD4oQX3oZX-Xup87g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/flowrounded/v15/-zki91mtwsU9qlLiGwD4oQX3oZX-Xup87g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Flow Rounded",
+      "files": [
+        "https://fonts.gstatic.com/s/flowrounded/v15/-zki91mtwsU9qlLiGwD4oQX3pJX-Xup87g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/flowrounded/v15/-zki91mtwsU9qlLiGwD4oQX3pJX-Xup87g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Flow Rounded",
+      "styles": [
+        {
+          "family_name": "Flow Rounded",
+          "type": "Regular",
+          "full_name": "Flow Rounded Regular",
+          "post_script_name": "FlowRounded-Regular",
+          "version": "1.101; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Flow Project Authors (https://github.com/HYPD/flow-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-zki91mtwsU9qlLiGwD4oQX3oZX-Xup87g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "google/syne",
+  "name": "syne",
+  "description": "The Syne family was originally designed in 2017 for the Art Center \"Synesthésie\", based in Saint-Denis — a suburb of Paris. The Art Center aims to gather diverse artistic personalities in order to create new and enriching situations. Based on that idea, Syne is an exploration of atypical associations of weights and styles. Syne Regular is the starting point of the family. It is quite an archetypal geometric sans-serif, giving the art center a practical asset for their daily use. When getting bolder, the typeface also gets wider, forcing radical graphic design choices. Checkout the other two members of this heteroclite family: Syne Mono and Syne Tactile . A Greek script designed by George Triantafyllakos has been added in March 2022. Syne was conceptualized by Bonjour Monde and designed by Lucas Descroix with the help of Arman Mohtadji. To contribute, see gitlab.com/bonjour-monde/fonderie/syne-typeface",
+  "homepage": "https://fonts.google.com/specimen/Syne",
+  "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Syne",
+      "files": [
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6hR47NCV5Z.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6hR47NCV5Z.woff2",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6hR47NCV5Z.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Syne",
+      "files": [
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6kR47NCV5Z.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6kR47NCV5Z.ttf",
+        "https://fonts.gstatic.com/s/syne/v24/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6kR47NCV5Z.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Syne",
+      "styles": [
+        {
+          "family_name": "Syne",
+          "type": "Regular",
+          "full_name": "Syne Regular",
+          "post_script_name": "Syne-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6kR47NCV5Z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Syne",
+          "type": "Bold",
+          "full_name": "Syne Bold",
+          "post_script_name": "Syne-Bold",
+          "version": "2.200",
+          "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6kR47NCV5Z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Syne Medium",
+      "styles": [
+        {
+          "family_name": "Syne Medium",
+          "type": "Regular",
+          "full_name": "Syne Medium",
+          "post_script_name": "Syne-Medium",
+          "version": "2.200",
+          "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6kR47NCV5Z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Syne SemiBold",
+      "styles": [
+        {
+          "family_name": "Syne SemiBold",
+          "type": "Regular",
+          "full_name": "Syne SemiBold",
+          "post_script_name": "Syne-SemiBold",
+          "version": "2.200",
+          "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6kR47NCV5Z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Syne ExtraBold",
+      "styles": [
+        {
+          "family_name": "Syne ExtraBold",
+          "type": "Regular",
+          "full_name": "Syne ExtraBold",
+          "post_script_name": "Syne-ExtraBold",
+          "version": "2.200",
+          "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6kR47NCV5Z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

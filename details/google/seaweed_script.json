@@ -1,0 +1,58 @@
+{
+  "slug": "google/seaweed_script",
+  "name": "seaweed_script",
+  "description": "Hear that? That's the sound of tropical ocean breezes as they whistle gently through your laptop! Grab a drink, a hammock under a swaying palm tree and let your hair down as your fingers gently caress the keyboard just like seaweed! Enjoy Seaweed Script when a rustic tropical beachside script is called for and watch out for squid! Designed by Dave 'Squid' Cohen of Neapolitan, a Font Diner brand.",
+  "homepage": "https://fonts.google.com/specimen/Seaweed+Script",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Seaweed Script\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Seaweed Script",
+      "files": [
+        "https://fonts.gstatic.com/s/seaweedscript/v17/bx6cNx6Tne2pxOATYE8C_Rsoe0WJ-KcGVbLW.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/seaweedscript/v17/bx6cNx6Tne2pxOATYE8C_Rsoe0WJ-KcGVbLW.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Seaweed Script",
+      "files": [
+        "https://fonts.gstatic.com/s/seaweedscript/v17/bx6cNx6Tne2pxOATYE8C_Rsoe0WM-KcGVbLW.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/seaweedscript/v17/bx6cNx6Tne2pxOATYE8C_Rsoe0WM-KcGVbLW.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Seaweed Script",
+      "styles": [
+        {
+          "family_name": "Seaweed Script",
+          "type": "Regular",
+          "full_name": "Seaweed Script",
+          "post_script_name": "SeaweedScript-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Seaweed Script\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bx6cNx6Tne2pxOATYE8C_Rsoe0WJ-KcGVbLW.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

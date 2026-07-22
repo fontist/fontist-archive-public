@@ -1,0 +1,58 @@
+{
+  "slug": "google/holtwood_one_sc",
+  "name": "holtwood_one_sc",
+  "description": "Holtwood is a bold display font developed for use with modern web browsers. It has a lot of the look of some traditional woodblock poster typefaces of the Nineteenth Century but updated for the Twenty First. Holtwood was envisioned to be used in big and bold text sizes, but it still works well when running as smaller headlines too. To contribute, see github.com/googlefonts/HoltwoodFont .",
+  "homepage": "https://fonts.google.com/specimen/Holtwood+One+SC",
+  "copyright": "Copyright 2011 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Holtwood One SC",
+      "files": [
+        "https://fonts.gstatic.com/s/holtwoodonesc/v23/yYLx0hLR0P-3vMFSk1TCq3Txg5B3cbb6LZttyg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/holtwoodonesc/v23/yYLx0hLR0P-3vMFSk1TCq3Txg5B3cbb6LZttyg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Holtwood One SC",
+      "files": [
+        "https://fonts.gstatic.com/s/holtwoodonesc/v23/yYLx0hLR0P-3vMFSk1TCq3Txg5B3dLb6LZttyg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/holtwoodonesc/v23/yYLx0hLR0P-3vMFSk1TCq3Txg5B3dLb6LZttyg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Holtwood One SC",
+      "styles": [
+        {
+          "family_name": "Holtwood One SC",
+          "type": "Regular",
+          "full_name": "Holtwood One SC Regular",
+          "post_script_name": "HoltwoodOneSC-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Holtwood Project Authors (https://github.com/googlefonts/HoltwoodFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "yYLx0hLR0P-3vMFSk1TCq3Txg5B3cbb6LZttyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

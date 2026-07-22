@@ -1,0 +1,77 @@
+{
+  "slug": "google/aref_ruqaa_ink",
+  "name": "aref_ruqaa_ink",
+  "description": "Aref Ruqaa Ink is an Arabic typeface that aspires to capture the essence of the classical Ruqaa calligraphic style. This font uses the COLRv1, CPAL and SVG tables. Please visit the gf-guide color page to learn more about Color Fonts technology. The Aref Ruqaa project is led by Khaled Hosny, a type designer based in Cairo, Egypt. To contribute, see github.com/alif-type/aref-ruqaa",
+  "homepage": "https://fonts.google.com/specimen/Aref+Ruqaa+Ink",
+  "copyright": "Copyright 2015-2022 The Aref Ruqaa Project Authors (https://github.com/aliftype/aref-ruqaa), with Reserved Font Name EURM10.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aref Ruqaa Ink",
+      "files": [
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx72ThVIGpgnxL.ttf",
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WhqWBCyxWn.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx72ThVIGpgnxL.ttf",
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WhqWBCyxWn.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aref Ruqaa Ink",
+      "files": [
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx72TkVIGpgnxL.woff2",
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WkqWBCyxWn.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2fY5WOGUFlt84GTOkP6Kdx72TkVIGpgnxL.woff2",
+        "https://fonts.gstatic.com/s/arefruqaaink/v11/1q2cY5WOGUFlt84GTOkP6Kdx71xde6WkqWBCyxWn.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aref Ruqaa Ink",
+      "styles": [
+        {
+          "family_name": "Aref Ruqaa Ink",
+          "type": "Regular",
+          "full_name": "Aref Ruqaa Ink Regular",
+          "post_script_name": "ArefRuqaaInk-Regular",
+          "version": "1.005",
+          "copyright": "Copyright 2015-2022 The Aref Ruqaa Project Authors (https://github.com/aliftype/aref-ruqaa), with Reserved Font Name EURM10.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1q2fY5WOGUFlt84GTOkP6Kdx72ThVIGpgnxL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Aref Ruqaa Ink",
+          "type": "Bold",
+          "full_name": "Aref Ruqaa Ink Bold",
+          "post_script_name": "ArefRuqaaInk-Bold",
+          "version": "1.005",
+          "copyright": "Copyright 2015-2022 The Aref Ruqaa Project Authors (https://github.com/aliftype/aref-ruqaa), with Reserved Font Name EURM10.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1q2cY5WOGUFlt84GTOkP6Kdx71xde6WhqWBCyxWn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

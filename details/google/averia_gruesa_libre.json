@@ -1,0 +1,58 @@
+{
+  "slug": "google/averia_gruesa_libre",
+  "name": "averia_gruesa_libre",
+  "description": "Avería means \"breakdown\" or \"mechanical damage\" in Spanish - and is related to the root of the English word \"average.\" Averia Libre is based on the average of 725 fonts in the Google Fonts collection, and both glyph outlines and metrics are the result of the averaging process described at iotic.com/averia Averia Gruesa Libre exists in a Regular style, and there are also the Averia Libre , Averia Sans Libre and Averia Serif Libre families with 6 styles.",
+  "homepage": "https://fonts.google.com/specimen/Averia+Gruesa+Libre",
+  "copyright": "Copyright (c) 2011, Dan Sayers (i@iotic.com), with Reserved Font Name 'Averia' and 'Averia Libre'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Averia Gruesa Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZUmmJw0SLRA8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZUmmJw0SLRA8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Averia Gruesa Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZUmyJw0SLRA8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/averiagruesalibre/v22/NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZUmyJw0SLRA8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Averia Gruesa Libre",
+      "styles": [
+        {
+          "family_name": "Averia Gruesa Libre",
+          "type": "Regular",
+          "full_name": "Averia Gruesa Libre Regular",
+          "post_script_name": "AveriaGruesaLibre-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Dan Sayers (i@iotic.com), with Reserved Font Name 'Averia' and 'Averia Libre'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "NGSov4nEGEktOaDRKsY-1dhh8eEtIx3ZUmmJw0SLRA8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

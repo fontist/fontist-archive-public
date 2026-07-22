@@ -1,0 +1,58 @@
+{
+  "slug": "google/benne",
+  "name": "benne",
+  "description": "Benne is a Kannada text font developed by John Harrington. The style and weights are designed to harmonise with EB Garamond, originally designed by Georg Duffner. To contribute, see github.com/googlefonts/Benne .",
+  "homepage": "https://fonts.google.com/specimen/Benne",
+  "copyright": "Copyright 2015 The Benne Project Authors (https://github.com/googlefonts/Benne)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Benne",
+      "files": [
+        "https://fonts.gstatic.com/s/benne/v24/L0xzDFAhn18E6Vjxlt6qTDBN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/benne/v24/L0xzDFAhn18E6Vjxlt6qTDBN.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Benne",
+      "files": [
+        "https://fonts.gstatic.com/s/benne/v24/L0xzDFAhn18E6Vj0lt6qTDBN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/benne/v24/L0xzDFAhn18E6Vj0lt6qTDBN.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Benne",
+      "styles": [
+        {
+          "family_name": "Benne",
+          "type": "Regular",
+          "full_name": "Benne Regular",
+          "post_script_name": "Benne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2015 The Benne Project Authors (https://github.com/googlefonts/Benne)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "L0xzDFAhn18E6Vjxlt6qTDBN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

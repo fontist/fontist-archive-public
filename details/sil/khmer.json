@@ -1,0 +1,113 @@
+{
+  "slug": "sil/khmer",
+  "name": "Khmer",
+  "description": "Khmer",
+  "copyright": "Copyright (c) 2003-2014. SIL International. All rights reserved. Font version 7.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Khmer.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-7.100.zip",
+        "https://web.archive.org/web/20260505155635/https://software.sil.org/downloads/r/mondulkiri/Mondulkiri-7.100.zip"
+      ],
+      "sha256": "c2e5dc08f4835be9a0da5cf9dcf92105aff973e47fc31e075e8bc44bec632c85",
+      "file_size": 4347137
+    }
+  },
+  "fonts": [
+    {
+      "name": "Khmer Busra",
+      "styles": [
+        {
+          "family_name": "Khmer Busra",
+          "type": "Bold",
+          "full_name": "Khmer Busra Bold",
+          "post_script_name": "KhmerBusra-Bold",
+          "version": "7.100; 2014",
+          "copyright": "Copyright (c) 2003-2014. SIL International. All rights reserved. Font version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Busra-B.ttf"
+        },
+        {
+          "family_name": "Khmer Busra",
+          "type": "Bold Italic",
+          "full_name": "Khmer Busra Bold Italic",
+          "post_script_name": "KhmerBusra-BoldItalic",
+          "version": "7.100; 2014",
+          "copyright": "Copyright (c) 2003-2014. SIL International. All rights reserved. Font version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Busra-BI.ttf"
+        },
+        {
+          "family_name": "Khmer Busra",
+          "type": "Italic",
+          "full_name": "Khmer Busra Italic",
+          "post_script_name": "KhmerBusra-Italic",
+          "version": "7.100; 2014",
+          "copyright": "Copyright (c) 2003-2014. SIL International. All rights reserved. Font version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Busra-I.ttf"
+        },
+        {
+          "family_name": "Khmer Busra",
+          "type": "Regular",
+          "full_name": "Khmer Busra",
+          "post_script_name": "KhmerBusra",
+          "version": "7.100; 2014",
+          "copyright": "Copyright (c) 2003-2014. SIL International. All rights reserved. Font version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Busra-R.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Khmer Mondulkiri",
+      "styles": [
+        {
+          "family_name": "Khmer Mondulkiri",
+          "type": "Bold",
+          "full_name": "Khmer Mondulkiri Bold",
+          "post_script_name": "KhmerMondulkiri-Bold",
+          "version": "7.100; 2013",
+          "copyright": "Copyright (c) 2003-2013 SIL International. All rights reserved. Glyph version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Mondulkiri-B.ttf"
+        },
+        {
+          "family_name": "Khmer Mondulkiri",
+          "type": "Bold Italic",
+          "full_name": "Khmer Mondulkiri Bold Italic",
+          "post_script_name": "KhmerMondulkiri-BoldItalic",
+          "version": "7.100; 2013",
+          "copyright": "Copyright (c) 2003-2013 SIL International. All rights reserved. Glyph version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Mondulkiri-BI.ttf"
+        },
+        {
+          "family_name": "Khmer Mondulkiri",
+          "type": "Italic",
+          "full_name": "Khmer Mondulkiri Italic",
+          "post_script_name": "KhmerMondulkiri-Italic",
+          "version": "7.100; 2013",
+          "copyright": "Copyright (c) 2003-2013 SIL International. All rights reserved. Glyph version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Mondulkiri-I.ttf"
+        },
+        {
+          "family_name": "Khmer Mondulkiri",
+          "type": "Regular",
+          "full_name": "Khmer Mondulkiri",
+          "post_script_name": "KhmerMondulkiri",
+          "version": "7.100; 2013",
+          "copyright": "Copyright (c) 2003-2013 SIL International. All rights reserved. Glyph version 7.",
+          "description": "Glyph version 7.1, Opentype version 7.1. AAT version 1.1.",
+          "font": "Mondulkiri-R.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_kayah_li",
+  "name": "noto_sans_kayah_li",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Kayah Li is an unmodulated (“sans serif”) design for texts in the Southeast Asian Kayah Li script. It has multiple weights and 60 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Kayah+Li",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kayah-li)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Kayah Li",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3CZT4EXLuKVM.woff2",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WBU3CZT4EXLuKVM.woff2",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WPkwCZT4EXLuKVM.woff2",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WMAwCZT4EXLuKVM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3CZT4EXLuKVM.woff2",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WBU3CZT4EXLuKVM.woff2",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WPkwCZT4EXLuKVM.woff2",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WMAwCZT4EXLuKVM.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Kayah Li",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3CZH4EXLuKVM.ttf",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WBU3CZH4EXLuKVM.ttf",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WPkwCZH4EXLuKVM.ttf",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WMAwCZH4EXLuKVM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3CZH4EXLuKVM.ttf",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WBU3CZH4EXLuKVM.ttf",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WPkwCZH4EXLuKVM.ttf",
+        "https://fonts.gstatic.com/s/notosanskayahli/v26/B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WMAwCZH4EXLuKVM.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Kayah Li",
+      "styles": [
+        {
+          "family_name": "Noto Sans Kayah Li",
+          "type": "Regular",
+          "full_name": "Noto Sans Kayah Li Regular",
+          "post_script_name": "NotoSansKayahLi-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kayah-li)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WCc3CZH4EXLuKVM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Kayah Li",
+          "type": "Bold",
+          "full_name": "Noto Sans Kayah Li Bold",
+          "post_script_name": "NotoSansKayahLi-Bold",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kayah-li)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WMAwCZH4EXLuKVM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Kayah Li Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Kayah Li Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Kayah Li Medium",
+          "post_script_name": "NotoSansKayahLi-Medium",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kayah-li)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WBU3CZH4EXLuKVM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Kayah Li SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Kayah Li SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Kayah Li SemiBold",
+          "post_script_name": "NotoSansKayahLi-SemiBold",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/kayah-li)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "B50nF61OpWTRcGrhOVJJwOMXdca6Yecki3E06x2jVTX3WPkwCZH4EXLuKVM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/shafarik",
+  "name": "shafarik",
+  "description": "The Shafarik font, named after Pavel Jozef Šafárik (1795–1861), Slovak-born scholar and one of the founders of modern Slavic philology, is a specialized font intended for an academic presentation of Old Church Slavonic (OCS) texts written in either the Cyrillic or Glagolitic alphabets. To contribute, please see github.com/slavonic/Shafarik .",
+  "homepage": "https://fonts.google.com/specimen/Shafarik",
+  "copyright": "Copyright 2025 The Shafarik Project Authors (https://github.com/slavonic/Shafarik.git)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shafarik",
+      "files": [
+        "https://fonts.gstatic.com/s/shafarik/v3/RWmLoKaF7PojpZXlW52sbsHKqLkD.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shafarik/v3/RWmLoKaF7PojpZXlW52sbsHKqLkD.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shafarik",
+      "files": [
+        "https://fonts.gstatic.com/s/shafarik/v3/RWmLoKaF7PojpZXlW52pbsHKqLkD.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shafarik/v3/RWmLoKaF7PojpZXlW52pbsHKqLkD.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shafarik",
+      "styles": [
+        {
+          "family_name": "Shafarik",
+          "type": "Regular",
+          "full_name": "Shafarik Regular",
+          "post_script_name": "Shafarik-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Shafarik Project Authors (https://github.com/slavonic/Shafarik.git)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "RWmLoKaF7PojpZXlW52sbsHKqLkD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/forum",
+  "name": "forum",
+  "description": "Forum has antique, classic \"Roman\" proportions. It can be used to set body texts and works well in titles and headlines too. It is truly multilingual, with glyphs for Central and Eastern Europe, Baltics, Cyrillic and Asian Cyrillic communities.",
+  "homepage": "https://fonts.google.com/specimen/Forum",
+  "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Forum",
+      "files": [
+        "https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew_IWMJMa3mnT.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew_IWMJMa3mnT.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Forum",
+      "files": [
+        "https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew_ITMJMa3mnT.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/forum/v19/6aey4Ky-Vb8Ew_ITMJMa3mnT.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Forum",
+      "styles": [
+        {
+          "family_name": "Forum",
+          "type": "Regular",
+          "full_name": "Forum",
+          "post_script_name": "Forum",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6aey4Ky-Vb8Ew_IWMJMa3mnT.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

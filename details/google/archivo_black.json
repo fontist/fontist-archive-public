@@ -1,0 +1,58 @@
+{
+  "slug": "google/archivo_black",
+  "name": "archivo_black",
+  "description": "Archivo Black was designed to be used simultaneously in print and digital platforms. The technical and aesthetic characteristics of the font are both crafted for high performance typography. It was designed to be used simultaneously in print and online platforms and supports over 200 world languages. Archivo is a grotesque sans serif typeface family from Omnibus-Type. It was originally designed for highlights and headlines. This family is reminiscent of late nineteenth century American typefaces. It includes normal , Black and Narrow styles, and was derived from Chivo To contribute to the project visit github.com/Omnibus-Type",
+  "homepage": "https://fonts.google.com/specimen/Archivo+Black",
+  "copyright": "Copyright 2017 The Archivo Black Project Authors (https://github.com/Omnibus-Type/ArchivoBlack)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Archivo Black",
+      "files": [
+        "https://fonts.gstatic.com/s/archivoblack/v23/HTxqL289NzCGg4MzN6KJ7eW6OYuP_x7yx3A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/archivoblack/v23/HTxqL289NzCGg4MzN6KJ7eW6OYuP_x7yx3A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Archivo Black",
+      "files": [
+        "https://fonts.gstatic.com/s/archivoblack/v23/HTxqL289NzCGg4MzN6KJ7eW6OY6P_x7yx3A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/archivoblack/v23/HTxqL289NzCGg4MzN6KJ7eW6OY6P_x7yx3A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Archivo Black",
+      "styles": [
+        {
+          "family_name": "Archivo Black",
+          "type": "Regular",
+          "full_name": "Archivo Black Regular",
+          "post_script_name": "ArchivoBlack-Regular",
+          "version": "1.006",
+          "copyright": "Copyright 2017 The Archivo Black Project Authors (https://github.com/Omnibus-Type/ArchivoBlack)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HTxqL289NzCGg4MzN6KJ7eW6OYuP_x7yx3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

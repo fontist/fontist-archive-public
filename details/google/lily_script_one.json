@@ -1,0 +1,58 @@
+{
+  "slug": "google/lily_script_one",
+  "name": "lily_script_one",
+  "description": "Lily script is a sturdy display script with a playful, bold texture. It's soft, but clear shapes come with romantic connotations. Still its bold personality make it well-suited for charming looking headlines and texts. To contribute to the project contact Julia Petretta .",
+  "homepage": "https://fonts.google.com/specimen/Lily+Script+One",
+  "copyright": "Copyright (c) 2012, Julia Petretta (www.juliapetretta.com julia.petretta@googlemail.com), with Reserved Font Name 'Lily'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lily Script One",
+      "files": [
+        "https://fonts.gstatic.com/s/lilyscriptone/v16/LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gsSjQNsRMg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lilyscriptone/v16/LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gsSjQNsRMg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lily Script One",
+      "files": [
+        "https://fonts.gstatic.com/s/lilyscriptone/v16/LhW9MV7ZMfIPdMxeBjBvFN8SXLS4h8SjQNsRMg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lilyscriptone/v16/LhW9MV7ZMfIPdMxeBjBvFN8SXLS4h8SjQNsRMg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lily Script One",
+      "styles": [
+        {
+          "family_name": "Lily Script One",
+          "type": "Regular",
+          "full_name": "Lily Script One",
+          "post_script_name": "LilyScriptOne-Regular",
+          "version": "1.002;PS 001.001;hotconv 1.0.70;makeotf.lib2.5.58329",
+          "copyright": "Copyright (c) 2012, Julia Petretta (www.juliapetretta.com julia.petretta@googlemail.com), with Reserved Font Name 'Lily'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http//scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LhW9MV7ZMfIPdMxeBjBvFN8SXLS4gsSjQNsRMg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

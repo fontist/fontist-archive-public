@@ -1,0 +1,93 @@
+{
+  "slug": "google/judson",
+  "name": "judson",
+  "description": "Judson is a serif font designed for African literacy. It contains as many glyphs and precomposed combinations that I know of for all African languages written in Latin-derived alphabets. It uses OpenType tables for correct placement of diacritical marks, including stacked marks. Care has been taken so that all characters are easily distinguished, even in the italic face. The medium roman face has support for the International Phonetic Alphabet (IPA.) Currently Judson is only available in medium roman, italic and bold roman faces; at this time there is no bold italic.",
+  "homepage": "https://fonts.google.com/specimen/Judson",
+  "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License v1.1.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Judson",
+      "files": [
+        "https://fonts.gstatic.com/s/judson/v20/FeVRS0Fbvbc14VxRD7N01bV7kg.ttf",
+        "https://fonts.gstatic.com/s/judson/v20/FeVTS0Fbvbc14VxhDblw97BrknZf.ttf",
+        "https://fonts.gstatic.com/s/judson/v20/FeVSS0Fbvbc14Vxps5xQ3Z5nm29Gww.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/judson/v20/FeVRS0Fbvbc14VxRD7N01bV7kg.ttf",
+        "https://fonts.gstatic.com/s/judson/v20/FeVTS0Fbvbc14VxhDblw97BrknZf.ttf",
+        "https://fonts.gstatic.com/s/judson/v20/FeVSS0Fbvbc14Vxps5xQ3Z5nm29Gww.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Judson",
+      "files": [
+        "https://fonts.gstatic.com/s/judson/v20/FeVRS0Fbvbc14VxRCrN01bV7kg.woff2",
+        "https://fonts.gstatic.com/s/judson/v20/FeVTS0Fbvbc14VxhDbl197BrknZf.woff2",
+        "https://fonts.gstatic.com/s/judson/v20/FeVSS0Fbvbc14Vxps5xQ2J5nm29Gww.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/judson/v20/FeVRS0Fbvbc14VxRCrN01bV7kg.woff2",
+        "https://fonts.gstatic.com/s/judson/v20/FeVTS0Fbvbc14VxhDbl197BrknZf.woff2",
+        "https://fonts.gstatic.com/s/judson/v20/FeVSS0Fbvbc14Vxps5xQ2J5nm29Gww.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Judson",
+      "styles": [
+        {
+          "family_name": "Judson",
+          "type": "Regular",
+          "full_name": "Judson Regular",
+          "post_script_name": "Judson-Regular",
+          "version": "20110429 ",
+          "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License v1.1.",
+          "variable_font": false,
+          "font": "FeVRS0Fbvbc14VxRD7N01bV7kg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Judson",
+          "type": "Italic",
+          "full_name": "Judson Italic",
+          "post_script_name": "Judson-Italic",
+          "version": "20110429 ",
+          "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson.  Released under the terms of the SIL Open Font License v1.1.",
+          "variable_font": false,
+          "font": "FeVTS0Fbvbc14VxhDblw97BrknZf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Judson",
+          "type": "Bold",
+          "full_name": "Judson Bold",
+          "post_script_name": "Judson-Bold",
+          "version": "20110429 ",
+          "copyright": "Copyright (c) 2010, 2011 by Daniel Johnson. Released under the terms of the SIL Open Font License v1.1.",
+          "variable_font": false,
+          "font": "FeVSS0Fbvbc14Vxps5xQ3Z5nm29Gww.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

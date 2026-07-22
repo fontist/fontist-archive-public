@@ -1,0 +1,58 @@
+{
+  "slug": "google/goblin_one",
+  "name": "goblin_one",
+  "description": "Foundry: Sorkin Type Co Goblin One belongs to the category of display types called \"Latin\". This is because of its sharp triangular serifs. Goblin One was inspired by a hand painted sign above a pub in the town of Reading (UK). Goblin One is a somewhat wide medium contrast design with a large x-height. Goblin One is both attention-getting and fun. Goblin is suitable for use in medium to large sizes including headlines. This font was made specifically to be web type. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Goblin+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Goblin\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Goblin One",
+      "files": [
+        "https://fonts.gstatic.com/s/goblinone/v28/CSR64z1ZnOqZRjRCBVY_TOcATNt_pOU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/goblinone/v28/CSR64z1ZnOqZRjRCBVY_TOcATNt_pOU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Goblin One",
+      "files": [
+        "https://fonts.gstatic.com/s/goblinone/v28/CSR64z1ZnOqZRjRCBVY_TOIATNt_pOU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/goblinone/v28/CSR64z1ZnOqZRjRCBVY_TOIATNt_pOU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Goblin One",
+      "styles": [
+        {
+          "family_name": "Goblin One",
+          "type": "Regular",
+          "full_name": "Goblin One",
+          "post_script_name": "GoblinOne",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Goblin\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "CSR64z1ZnOqZRjRCBVY_TOcATNt_pOU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

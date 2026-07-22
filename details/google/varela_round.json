@@ -1,0 +1,58 @@
+{
+  "slug": "google/varela_round",
+  "name": "varela_round",
+  "description": "Varela Round is based on the well known font Varela. Its rounded corners make it perfect for a soft feel and work great at any size. It is suitable for headlines and printed collateral, and maintains its distinct properties amongst other objects. Varela Round is a great font for any website.",
+  "homepage": "https://fonts.google.com/specimen/Varela+Round",
+  "copyright": "Copyright 2023 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Varela Round",
+      "files": [
+        "https://fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIvoMGOD9gxZw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIvoMGOD9gxZw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Varela Round",
+      "files": [
+        "https://fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIvpcGOD9gxZw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/varelaround/v21/w8gdH283Tvk__Lua32TysjIvpcGOD9gxZw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Varela Round",
+      "styles": [
+        {
+          "family_name": "Varela Round",
+          "type": "Regular",
+          "full_name": "Varela Round Regular",
+          "post_script_name": "VarelaRound-Regular",
+          "version": "3.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Varela Round Project Authors (https://github.com/alefalefalef/Varela-Round-Hebrew/), with Reserved Font Names 'Varela' and 'Varela Round'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "w8gdH283Tvk__Lua32TysjIvoMGOD9gxZw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

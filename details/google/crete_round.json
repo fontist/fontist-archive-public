@@ -1,0 +1,77 @@
+{
+  "slug": "google/crete_round",
+  "name": "crete_round",
+  "description": "Crete Round is a warm slab serif providing a hint of softness to texts. It started as a tailored version of the original Crete fonts , created specially to serve as corporate typeface for the type design competition Letter2 . Crete Round is more independent from the original with modified terminals and serifs to create two new fonts that deliver a more contemporary and functional appearance. The tall x-height, low contrast and sturdy slabs prove to be surprisingly efficient for web use.",
+  "homepage": "https://fonts.google.com/specimen/Crete+Round",
+  "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Crete Round",
+      "files": [
+        "https://fonts.gstatic.com/s/creteround/v16/55xoey1sJNPjPiv1ZZZrxJ1827zAKnxN.ttf",
+        "https://fonts.gstatic.com/s/creteround/v16/55xqey1sJNPjPiv1ZZZrxK1-0bjiL2xNhKc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/creteround/v16/55xoey1sJNPjPiv1ZZZrxJ1827zAKnxN.ttf",
+        "https://fonts.gstatic.com/s/creteround/v16/55xqey1sJNPjPiv1ZZZrxK1-0bjiL2xNhKc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Crete Round",
+      "files": [
+        "https://fonts.gstatic.com/s/creteround/v16/55xoey1sJNPjPiv1ZZZrxJ1527zAKnxN.woff2",
+        "https://fonts.gstatic.com/s/creteround/v16/55xqey1sJNPjPiv1ZZZrxK1-0b3iL2xNhKc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/creteround/v16/55xoey1sJNPjPiv1ZZZrxJ1527zAKnxN.woff2",
+        "https://fonts.gstatic.com/s/creteround/v16/55xqey1sJNPjPiv1ZZZrxK1-0b3iL2xNhKc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Crete Round",
+      "styles": [
+        {
+          "family_name": "Crete Round",
+          "type": "Regular",
+          "full_name": "Crete Round",
+          "post_script_name": "CreteRound-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "55xoey1sJNPjPiv1ZZZrxJ1827zAKnxN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Crete Round",
+          "type": "Italic",
+          "full_name": "Crete Round Italic",
+          "post_script_name": "CreteRound-Italic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names \"Crete\" and \"Crete Round\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "55xqey1sJNPjPiv1ZZZrxK1-0bjiL2xNhKc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

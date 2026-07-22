@@ -1,0 +1,58 @@
+{
+  "slug": "google/reem_kufi_ink",
+  "name": "reem_kufi_ink",
+  "description": "Reem Kufi Ink is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi Ink is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi Ink is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means “a white deer,” and is also the name of Khaled's daughter. This font uses the COLRv1, CPAL and SVG tables. Please visit the gf-guide color page to learn more about Color Fonts technology. To contribute, see github.com/alif-type/reem-kufi",
+  "homepage": "https://fonts.google.com/specimen/Reem+Kufi+Ink",
+  "copyright": "Copyright 2015-2022 The Reem Kufi Project Authors (https://github.com/aliftype/reem-kufi).",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Reem Kufi Ink",
+      "files": [
+        "https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Reem Kufi Ink",
+      "files": [
+        "https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSnRjtdQnSX1ko.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/reemkufiink/v11/oPWJ_kJmmu8hCvB9iFumxZSnRjtdQnSX1ko.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Reem Kufi Ink",
+      "styles": [
+        {
+          "family_name": "Reem Kufi Ink",
+          "type": "Regular",
+          "full_name": "Reem Kufi Ink Regular",
+          "post_script_name": "ReemKufiInk-Regular",
+          "version": "1.899",
+          "copyright": "Copyright 2015-2022 The Reem Kufi Project Authors (https://github.com/aliftype/reem-kufi).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

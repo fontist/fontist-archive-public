@@ -1,0 +1,58 @@
+{
+  "slug": "google/are_you_serious",
+  "name": "are_you_serious",
+  "description": "Are You Serious doesn't take itself seriously at all. This is a fun playful font with a very joyful spirit. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/are-you-serious .",
+  "homepage": "https://fonts.google.com/specimen/Are+You+Serious",
+  "copyright": "Copyright 2004 The RU Serius Project Authors (https://github.com/googlefonts/are-you-serious)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Are You Serious",
+      "files": [
+        "https://fonts.gstatic.com/s/areyouserious/v14/ll8kK2GVSSr-PtjQ5nONVcNn4306hT9nCGRayg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/areyouserious/v14/ll8kK2GVSSr-PtjQ5nONVcNn4306hT9nCGRayg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Are You Serious",
+      "files": [
+        "https://fonts.gstatic.com/s/areyouserious/v14/ll8kK2GVSSr-PtjQ5nONVcNn4306gD9nCGRayg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/areyouserious/v14/ll8kK2GVSSr-PtjQ5nONVcNn4306gD9nCGRayg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Are You Serious",
+      "styles": [
+        {
+          "family_name": "Are You Serious",
+          "type": "Regular",
+          "full_name": "Are You Serious Regular",
+          "post_script_name": "AreYouSerious-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2004 The RU Serius Project Authors (https://github.com/googlefonts/are-you-serious)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ll8kK2GVSSr-PtjQ5nONVcNn4306hT9nCGRayg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/emilys_candy",
+  "name": "emilys_candy",
+  "description": "Sweet Emily got a quarter from her grandpa for being such a good girl! She took a walk downtown to the local dimestore for some penny candy and loaded up a heaping sackful she'd love to share with you! Enjoy! Designed by Crystal Kluge of Neapolitan (a DBA of Font Diner, Inc.) To contribute to the project, contact Font Diner .",
+  "homepage": "https://fonts.google.com/specimen/Emilys+Candy",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Emilys Candy\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Emilys Candy",
+      "files": [
+        "https://fonts.gstatic.com/s/emilyscandy/v21/2EbgL-1mD1Rnb0OGKudbk0y5r9xrX84JjA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/emilyscandy/v21/2EbgL-1mD1Rnb0OGKudbk0y5r9xrX84JjA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Emilys Candy",
+      "files": [
+        "https://fonts.gstatic.com/s/emilyscandy/v21/2EbgL-1mD1Rnb0OGKudbk0y5qtxrX84JjA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/emilyscandy/v21/2EbgL-1mD1Rnb0OGKudbk0y5qtxrX84JjA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Emilys Candy",
+      "styles": [
+        {
+          "family_name": "Emilys Candy",
+          "type": "Regular",
+          "full_name": "Emilys Candy",
+          "post_script_name": "EmilysCandy-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Emilys Candy\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2EbgL-1mD1Rnb0OGKudbk0y5r9xrX84JjA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

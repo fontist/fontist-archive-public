@@ -1,0 +1,58 @@
+{
+  "slug": "google/ruluko",
+  "name": "ruluko",
+  "description": "Ruluko is a typeface designed to aid those learning to read. The shapes you see are related to the handwriting typically used at schools in Argentina. The concept is that those who have learned to read this handwriting style may recognise this type style more easily than other typefaces often used in this context. But as a warm and stylish sans serif text type, you may use Ruluko for any purpose. Designed by Ana Sanfelippo ( @anasanfelippo ), Angélica Díaz ( @angiecinadiaz ) and Meme Hernández ( @memepeca ).",
+  "homepage": "https://fonts.google.com/specimen/Ruluko",
+  "copyright": "Copyright (c) 2011, Ana Sanfelippo, Angelica Diaz y Meme Hernandez (anasanfe@gmail.com - angiecina@gmail.com), with Reserved Font Name \"Ruluko\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ruluko",
+      "files": [
+        "https://fonts.gstatic.com/s/ruluko/v22/xMQVuFNZVaODtm0pC6WzKX_QmA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ruluko/v22/xMQVuFNZVaODtm0pC6WzKX_QmA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ruluko",
+      "files": [
+        "https://fonts.gstatic.com/s/ruluko/v22/xMQVuFNZVaODtm0pDqWzKX_QmA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ruluko/v22/xMQVuFNZVaODtm0pDqWzKX_QmA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ruluko",
+      "styles": [
+        {
+          "family_name": "Ruluko",
+          "type": "Regular",
+          "full_name": "Ruluko",
+          "post_script_name": "Ruluko",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Ana Sanfelippo, Angelica Diaz y Meme Hernandez (anasanfe@gmail.com - angiecina@gmail.com), with Reserved Font Name \"Ruluko\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xMQVuFNZVaODtm0pC6WzKX_QmA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

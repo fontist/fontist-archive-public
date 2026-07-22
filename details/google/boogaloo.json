@@ -1,0 +1,58 @@
+{
+  "slug": "google/boogaloo",
+  "name": "boogaloo",
+  "description": "Boogaloo was started in 2010 as a complement to the Salsa typeface, while thinking about type used in Latin American music genres and the culture's own identity. The structure of Boogaloo is that of classic American lettering, found so often in old LP albums cover art from the 1960s, when Latin music became very popular and preceding the birth of the musical phenomenon of Salsa. Functionally this typeface can be used to display texts that wish to remind readers of the 1960s, Latin music. There is movement, coolness and happiness across all its forms.",
+  "homepage": "https://fonts.google.com/specimen/Boogaloo",
+  "copyright": "Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Boogaloo\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Boogaloo",
+      "files": [
+        "https://fonts.gstatic.com/s/boogaloo/v25/kmK-Zq45GAvOdnaW6x1F_SrQo_1K.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/boogaloo/v25/kmK-Zq45GAvOdnaW6x1F_SrQo_1K.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Boogaloo",
+      "files": [
+        "https://fonts.gstatic.com/s/boogaloo/v25/kmK-Zq45GAvOdnaW6x1A_SrQo_1K.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/boogaloo/v25/kmK-Zq45GAvOdnaW6x1A_SrQo_1K.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Boogaloo",
+      "styles": [
+        {
+          "family_name": "Boogaloo",
+          "type": "Regular",
+          "full_name": "Boogaloo Regular",
+          "post_script_name": "Boogaloo-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Boogaloo\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmK-Zq45GAvOdnaW6x1F_SrQo_1K.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

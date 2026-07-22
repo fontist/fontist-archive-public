@@ -1,0 +1,205 @@
+{
+  "slug": "google/sono",
+  "name": "sono",
+  "description": "Sono is a soft monospace (or proportional!) variable font. It has seven weights: ExtraLight through ExtraBold. The default style is fixed-width (and obviously not kerned), but thanks to the \"mono\" axis, you can add kerning and make the design proportional. To contribute, see github.com/sursly/sono .",
+  "homepage": "https://fonts.google.com/specimen/Sono",
+  "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Sono",
+      "files": [
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxV6EWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVtkWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVhEWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVaEKdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVUUKdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkKdF3R4qYeB4Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxV6EWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVtkWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVhEWdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVaEKdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVUUKdF3R4qYeB4Q.woff2",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkKdF3R4qYeB4Q.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "MONO",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Sono",
+      "files": [
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxV6EWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVtkWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVhEWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVaEKdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVUUKdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkKdEnR4qYeB4Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxV6EWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVtkWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVhEWdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVaEKdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVUUKdEnR4qYeB4Q.ttf",
+        "https://fonts.gstatic.com/s/sono/v12/aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkKdEnR4qYeB4Q.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "MONO",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sono ExtraLight",
+      "styles": [
+        {
+          "family_name": "Sono ExtraLight",
+          "type": "Regular",
+          "full_name": "Sono ExtraLight",
+          "post_script_name": "Sono-ExtraLight",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkWdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sono Light",
+      "styles": [
+        {
+          "family_name": "Sono Light",
+          "type": "Regular",
+          "full_name": "Sono Light",
+          "post_script_name": "Sono-Light",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxV6EWdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sono",
+      "styles": [
+        {
+          "family_name": "Sono",
+          "type": "Regular",
+          "full_name": "Sono Regular",
+          "post_script_name": "Sono-Regular",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVtkWdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sono",
+          "type": "Bold",
+          "full_name": "Sono Bold",
+          "post_script_name": "Sono-Bold",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVUUKdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sono Medium",
+      "styles": [
+        {
+          "family_name": "Sono Medium",
+          "type": "Regular",
+          "full_name": "Sono Medium",
+          "post_script_name": "Sono-Medium",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVhEWdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sono SemiBold",
+      "styles": [
+        {
+          "family_name": "Sono SemiBold",
+          "type": "Regular",
+          "full_name": "Sono SemiBold",
+          "post_script_name": "Sono-SemiBold",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVaEKdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sono ExtraBold",
+      "styles": [
+        {
+          "family_name": "Sono ExtraBold",
+          "type": "Regular",
+          "full_name": "Sono ExtraBold",
+          "post_script_name": "Sono-ExtraBold",
+          "version": "2.112",
+          "copyright": "Copyright 2020 The Sono Project Authors (https://github.com/sursly/sono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "aFT97PNiY3U2Cqf_aYEN64CYaK18YWJEsV6u-QLiOsxVNkKdEnR4qYeB4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

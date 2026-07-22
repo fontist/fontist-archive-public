@@ -1,0 +1,58 @@
+{
+  "slug": "google/mochiy_pop_p_one",
+  "name": "mochiy_pop_p_one",
+  "description": "Mochiy Pop is a casual Gothic font created based on characters written by girls in their 20s in Japan. A cute display font, you can use it widely, such as for manga, magazines, movies, and signs. The included Kanji are modified versions of Noto Sans JP. Mochiy Pop P includes proportional-wdith kana. Mochiy Pop ( https://fonts.google.com/specimen/Mochiy+Pop ) includes full-width kana. To contribute to the project, visit github.com/fontdasu/Mochiypop",
+  "homepage": "https://fonts.google.com/specimen/Mochiy+Pop+P+One",
+  "copyright": "Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mochiy Pop P One",
+      "files": [
+        "https://fonts.gstatic.com/s/mochiypoppone/v12/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mochiypoppone/v12/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mochiy Pop P One",
+      "files": [
+        "https://fonts.gstatic.com/s/mochiypoppone/v12/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4a3WYZB_sU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mochiypoppone/v12/Ktk2AKuPeY_td1-h9LayHYWCjAqyN4a3WYZB_sU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mochiy Pop P One",
+      "styles": [
+        {
+          "family_name": "Mochiy Pop P One",
+          "type": "Regular",
+          "full_name": "Mochiy Pop P One Regular",
+          "post_script_name": "MochiyPopPOne-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Ktk2AKuPeY_td1-h9LayHYWCjAqyN4O3WYZB_sU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

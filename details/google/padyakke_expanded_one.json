@@ -1,0 +1,58 @@
+{
+  "slug": "google/padyakke_expanded_one",
+  "name": "padyakke_expanded_one",
+  "description": "Padyakke is a wide, airy, and friendly font for the Kannada writing system. Its gracefully balanced thin strokes rise up over sumptuously swollen bottoms. Padyakke was designed to pair with Aoife Mooney’s latin typeface BioRhyme Expanded ; thus BioRhyme’s idosyncratic bowls, not-quite-perpendicular stroke terminals, and teardrop terminals are also in Padyakke. Padyakke’s Kannada glyphs were designed by James Puckett. Padyakke’s Latin glyphs were designed by Aoife Mooney. To contribute, see github.com/DunwichType/Padyakke_Libre",
+  "homepage": "https://fonts.google.com/specimen/Padyakke+Expanded+One",
+  "copyright": "Copyright 2015 The Padyakke Project Authors (https://github.com/DunwichType/Padyakke_Libre)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Padyakke Expanded One",
+      "files": [
+        "https://fonts.gstatic.com/s/padyakkeexpandedone/v8/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/padyakkeexpandedone/v8/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Padyakke Expanded One",
+      "files": [
+        "https://fonts.gstatic.com/s/padyakkeexpandedone/v8/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYPaRkpDjeoQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/padyakkeexpandedone/v8/K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYPaRkpDjeoQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Padyakke Expanded One",
+      "styles": [
+        {
+          "family_name": "Padyakke Expanded One",
+          "type": "Regular",
+          "full_name": "Padyakke Expanded One Regular",
+          "post_script_name": "PadyakkeExpandedOne-Regular",
+          "version": "1.500; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2015 The Padyakke Project Authors (https://github.com/DunwichType/Padyakke_Libre)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "K2FvfY9El_tbR0JfHb6WWvrBaU6XAUvC4IAYOKRkpDjeoQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

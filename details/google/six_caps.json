@@ -1,0 +1,57 @@
+{
+  "slug": "google/six_caps",
+  "name": "six_caps",
+  "description": "Six Caps is a highly condensed and tight display font. It is a stripped down and 'normalised' version of the classic grotesk display forms.",
+  "homepage": "https://fonts.google.com/specimen/Six+Caps",
+  "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Six Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmabcS9XXaPCop.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmabcS9XXaPCop.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Six Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmabcX9XXaPCop.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmabcX9XXaPCop.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Six Caps",
+      "styles": [
+        {
+          "family_name": "Six Caps",
+          "type": "Regular",
+          "full_name": "Six Caps",
+          "post_script_name": "SixCaps",
+          "version": "001.000",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "6ae_4KGrU7VR7bNmabcS9XXaPCop.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

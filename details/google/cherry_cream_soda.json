@@ -1,0 +1,58 @@
+{
+  "slug": "google/cherry_cream_soda",
+  "name": "cherry_cream_soda",
+  "description": "Cruise in to your favorite soda fountain and ask the jerk behind the counter to pull you a sweet red cherry cream soda! This extra wide sans-serif will take you back to the world of the 1950s teenager complete with bubbly enthusiasm and an optimistic outlook!",
+  "homepage": "https://fonts.google.com/specimen/Cherry+Cream+Soda",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cherry Cream Soda",
+      "files": [
+        "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciTd6Cd47DJ7G.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciTd6Cd47DJ7G.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cherry Cream Soda",
+      "files": [
+        "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciTd_Cd47DJ7G.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciTd_Cd47DJ7G.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cherry Cream Soda",
+      "styles": [
+        {
+          "family_name": "Cherry Cream Soda",
+          "type": "Regular",
+          "full_name": "Cherry Cream Soda Regular",
+          "post_script_name": "CherryCreamSoda-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "UMBIrOxBrW6w2FFyi9paG0fdVdRciTd6Cd47DJ7G.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

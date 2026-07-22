@@ -1,0 +1,422 @@
+{
+  "slug": "google/gantari",
+  "name": "gantari",
+  "description": "Gantari is a sans serif font with a geometric touch, designed by Anugrah Pasau from Lafontype. Gantari is not purely geometric, proportions have been designed so that all characters can look harmonious. The font was originally designed for large sizes, but it also reads well at small sizes. To contribute, see github.com/Lafontype/Gantari .",
+  "homepage": "https://fonts.google.com/specimen/Gantari",
+  "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Gantari",
+      "files": [
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOz31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gOj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g1-Oj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0SOj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3-PT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3HPT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gPT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2JPT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWyYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVWzYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeYuzYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWzYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeeezYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeQu0YZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeTK0YZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVW0YZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeXy0YZCh37nmpWc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOz31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gOj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g1-Oj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0SOj31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3-PT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3HPT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gPT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2JPT31a5GD2qnm.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWyYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVWzYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeYuzYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWzYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeeezYZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeQu0YZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeTK0YZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVW0YZCh37nmpWc.woff2",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeXy0YZCh37nmpWc.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Gantari",
+      "files": [
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOz3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gOj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g1-Oj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0SOj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3-PT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3HPT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gPT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2JPT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWyYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVWzYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeYuzYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWzYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeeezYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeQu0YZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeTK0YZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVW0YZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeXy0YZWh37nmpWc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOz3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gOj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g1-Oj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0SOj3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3-PT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3HPT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gPT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2JPT3wa5GD2qnm.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWyYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVWzYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeYuzYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWzYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeeezYZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeQu0YZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeTK0YZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVW0YZWh37nmpWc.ttf",
+        "https://fonts.gstatic.com/s/gantari/v4/jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeXy0YZWh37nmpWc.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gantari Thin",
+      "styles": [
+        {
+          "family_name": "Gantari Thin",
+          "type": "Regular",
+          "full_name": "Gantari Thin",
+          "post_script_name": "Gantari-Thin",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOz3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari Thin",
+          "type": "Italic",
+          "full_name": "Gantari Thin Italic",
+          "post_script_name": "Gantari-ThinItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWyYZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari ExtraLight",
+      "styles": [
+        {
+          "family_name": "Gantari ExtraLight",
+          "type": "Regular",
+          "full_name": "Gantari ExtraLight",
+          "post_script_name": "Gantari-ExtraLight",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gOj3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari ExtraLight",
+          "type": "Italic",
+          "full_name": "Gantari ExtraLight Italic",
+          "post_script_name": "Gantari-ExtraLightItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVWzYZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari Light",
+      "styles": [
+        {
+          "family_name": "Gantari Light",
+          "type": "Regular",
+          "full_name": "Gantari Light",
+          "post_script_name": "Gantari-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g1-Oj3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari Light",
+          "type": "Italic",
+          "full_name": "Gantari Light Italic",
+          "post_script_name": "Gantari-LightItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeYuzYZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari",
+      "styles": [
+        {
+          "family_name": "Gantari",
+          "type": "Regular",
+          "full_name": "Gantari Regular",
+          "post_script_name": "Gantari-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0gOj3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari",
+          "type": "Bold",
+          "full_name": "Gantari Bold",
+          "post_script_name": "Gantari-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3HPT3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari",
+          "type": "Italic",
+          "full_name": "Gantari Italic",
+          "post_script_name": "Gantari-Italic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoedWzYZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari",
+          "type": "Bold Italic",
+          "full_name": "Gantari Bold Italic",
+          "post_script_name": "Gantari-BoldItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeTK0YZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari Medium",
+      "styles": [
+        {
+          "family_name": "Gantari Medium",
+          "type": "Regular",
+          "full_name": "Gantari Medium",
+          "post_script_name": "Gantari-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g0SOj3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari Medium",
+          "type": "Italic",
+          "full_name": "Gantari Medium Italic",
+          "post_script_name": "Gantari-MediumItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeeezYZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari SemiBold",
+      "styles": [
+        {
+          "family_name": "Gantari SemiBold",
+          "type": "Regular",
+          "full_name": "Gantari SemiBold",
+          "post_script_name": "Gantari-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g3-PT3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari SemiBold",
+          "type": "Italic",
+          "full_name": "Gantari SemiBold Italic",
+          "post_script_name": "Gantari-SemiBoldItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeQu0YZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari ExtraBold",
+      "styles": [
+        {
+          "family_name": "Gantari ExtraBold",
+          "type": "Regular",
+          "full_name": "Gantari ExtraBold",
+          "post_script_name": "Gantari-ExtraBold",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2gPT3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari ExtraBold",
+          "type": "Italic",
+          "full_name": "Gantari ExtraBold Italic",
+          "post_script_name": "Gantari-ExtraBoldItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeVW0YZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gantari Black",
+      "styles": [
+        {
+          "family_name": "Gantari Black",
+          "type": "Regular",
+          "full_name": "Gantari Black",
+          "post_script_name": "Gantari-Black",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyV7nvyB2HL8iZyDk4GVvSZ5MtC9g2JPT3wa5GD2qnm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gantari Black",
+          "type": "Italic",
+          "full_name": "Gantari Black Italic",
+          "post_script_name": "Gantari-BlackItalic",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Gantari Project Authors (https://github.com/Lafontype/Gantari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "jVyb7nvyB2HL8iZyJEc0qSzwj1Hs8RjoeXy0YZWh37nmpWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

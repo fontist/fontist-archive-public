@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_javanese",
+  "name": "noto_sans_javanese",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Javanese is an unmodulated (“sans serif”) design for texts in the Southeast Asian Javanese script. It has 405 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Javanese",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/javanese)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Javanese",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFxiZYWj4O8.woff2",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFxiZYWj4O8.woff2",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFxiZYWj4O8.woff2",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFxiZYWj4O8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFxiZYWj4O8.woff2",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFxiZYWj4O8.woff2",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFxiZYWj4O8.woff2",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFxiZYWj4O8.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Javanese",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFliZYWj4O8.ttf",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFliZYWj4O8.ttf",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFliZYWj4O8.ttf",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFliZYWj4O8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFliZYWj4O8.ttf",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFliZYWj4O8.ttf",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFliZYWj4O8.ttf",
+        "https://fonts.gstatic.com/s/notosansjavanese/v25/2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFliZYWj4O8.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Javanese",
+      "styles": [
+        {
+          "family_name": "Noto Sans Javanese",
+          "type": "Regular",
+          "full_name": "Noto Sans Javanese Regular",
+          "post_script_name": "NotoSansJavanese-Regular",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/javanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxJnkFFliZYWj4O8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Javanese",
+          "type": "Bold",
+          "full_name": "Noto Sans Javanese Bold",
+          "post_script_name": "NotoSansJavanese-Bold",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/javanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxH7jFFliZYWj4O8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Javanese Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Javanese Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Javanese Medium",
+          "post_script_name": "NotoSansJavanese-Medium",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/javanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxKvkFFliZYWj4O8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Javanese SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Javanese SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Javanese SemiBold",
+          "post_script_name": "NotoSansJavanese-SemiBold",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/javanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "2V01KJkDAIA6Hp4zoSScDjV0Y-eoHAHT-Z3MngEefiidxEfjFFliZYWj4O8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

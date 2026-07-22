@@ -1,0 +1,58 @@
+{
+  "slug": "google/average_sans",
+  "name": "average_sans",
+  "description": "Average Sans has the color, structure and proportions of its serif sister family, Average , which it complements harmoniously. The neutrality of the forms create a nice texture, both for texts and short headlines. Use it for online magazines, academic texts and blogs. To contribute to the project contact Eduardo Tunni .",
+  "homepage": "https://fonts.google.com/specimen/Average+Sans",
+  "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Average'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Average Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/averagesans/v17/1Ptpg8fLXP2dlAXR-HlJJNJPBdqazVoK4A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/averagesans/v17/1Ptpg8fLXP2dlAXR-HlJJNJPBdqazVoK4A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Average Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/averagesans/v17/1Ptpg8fLXP2dlAXR-HlJJNJPANqazVoK4A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/averagesans/v17/1Ptpg8fLXP2dlAXR-HlJJNJPANqazVoK4A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Average Sans",
+      "styles": [
+        {
+          "family_name": "Average Sans",
+          "type": "Regular",
+          "full_name": "Average Sans Regular",
+          "post_script_name": "AverageSans-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Average'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "1Ptpg8fLXP2dlAXR-HlJJNJPBdqazVoK4A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

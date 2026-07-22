@@ -1,0 +1,77 @@
+{
+  "slug": "google/playwrite_gb_s_guides",
+  "name": "playwrite_gb_s_guides",
+  "description": "Playwrite GB S Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+GB+S+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite GB S Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKx1QPi-Z8Fw.ttf",
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4LqeNsFwxX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKx1QPi-Z8Fw.ttf",
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4LqeNsFwxX.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite GB S Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKwlQPi-Z8Fw.woff2",
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4OqeNsFwxX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKwlQPi-Z8Fw.woff2",
+        "https://fonts.gstatic.com/s/playwritegbsguides/v1/0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4OqeNsFwxX.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite GB S Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite GB S Guides",
+          "type": "Regular",
+          "full_name": "Playwrite GB S Guides Regular",
+          "post_script_name": "PlaywriteGBSGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "0FlKVOSHl1iH-fv2BH4kIkUBqtlNCEaQLlyKx1QPi-Z8Fw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite GB S Guides",
+          "type": "Italic",
+          "full_name": "Playwrite GB S Guides Italic",
+          "post_script_name": "PlaywriteGBSGuides-Italic",
+          "version": "1.002",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "0FlEVOSHl1iH-fv2BH4kIkUBqtlNCEaQLly6xV4LqeNsFwxX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

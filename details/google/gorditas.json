@@ -1,0 +1,77 @@
+{
+  "slug": "google/gorditas",
+  "name": "gorditas",
+  "description": "Gorditas is a fun and funky display slab serif typeface family, with heart details - cute like a newborn puppy! Designed by Brenda Gallo and Gustavo Dipre .",
+  "homepage": "https://fonts.google.com/specimen/Gorditas",
+  "copyright": "Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name \"Gorditas\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gorditas",
+      "files": [
+        "https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtQDoDa4AlxYb.ttf",
+        "https://fonts.gstatic.com/s/gorditas/v24/ll84K2aTVD26DsPEtThUIooIvAoShA1i.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtQDoDa4AlxYb.ttf",
+        "https://fonts.gstatic.com/s/gorditas/v24/ll84K2aTVD26DsPEtThUIooIvAoShA1i.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gorditas",
+      "files": [
+        "https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtQDtDa4AlxYb.woff2",
+        "https://fonts.gstatic.com/s/gorditas/v24/ll84K2aTVD26DsPEtThUIooNvAoShA1i.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gorditas/v24/ll8_K2aTVD26DsPEtQDtDa4AlxYb.woff2",
+        "https://fonts.gstatic.com/s/gorditas/v24/ll84K2aTVD26DsPEtThUIooNvAoShA1i.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gorditas",
+      "styles": [
+        {
+          "family_name": "Gorditas",
+          "type": "Regular",
+          "full_name": "Gorditas",
+          "post_script_name": "Gorditas-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name \"Gorditas\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ll8_K2aTVD26DsPEtQDoDa4AlxYb.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gorditas",
+          "type": "Bold",
+          "full_name": "Gorditas Bold",
+          "post_script_name": "Gorditas-Bold",
+          "version": "001.001",
+          "copyright": "Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name \"Gorditas\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ll84K2aTVD26DsPEtThUIooIvAoShA1i.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

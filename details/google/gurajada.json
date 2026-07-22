@@ -1,0 +1,58 @@
+{
+  "slug": "google/gurajada",
+  "name": "gurajada",
+  "description": "Gurajada is Telugu handwriting font, suitable for headings, posters, and invitations. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is developed by Juan Pablo del Peral at Huerta Tipografia, a type foundry in Argentina, and originally published as Alegreya Sans . The Gurajada project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/gurajada",
+  "homepage": "https://fonts.google.com/specimen/Gurajada",
+  "copyright": "Copyright (c) 2012 SiliconAndhra (fonts.siliconandhra.org)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gurajada",
+      "files": [
+        "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Kd6A4sijpFu_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Kd6A4sijpFu_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gurajada",
+      "files": [
+        "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Kd6F4sijpFu_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gurajada/v22/FwZY7-Qx308m-l-0Kd6F4sijpFu_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gurajada",
+      "styles": [
+        {
+          "family_name": "Gurajada",
+          "type": "Regular",
+          "full_name": "Gurajada",
+          "post_script_name": "Gurajada",
+          "version": "1.0.3; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2012 SiliconAndhra (fonts.siliconandhra.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FwZY7-Qx308m-l-0Kd6A4sijpFu_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

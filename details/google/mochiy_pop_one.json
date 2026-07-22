@@ -1,0 +1,58 @@
+{
+  "slug": "google/mochiy_pop_one",
+  "name": "mochiy_pop_one",
+  "description": "Mochiy Pop is a casual Gothic font created based on characters written by girls in their 20s in Japan. A cute display font, you can use it widely, such as for manga, magazines, movies, and signs. The included Kanji are modified versions of Noto Sans JP. Mochiy Pop includes full-width kana. Mochiy Pop P ( https://fonts.google.com/specimen/Mochiy+Pop+P ) includes proportional-width kana. To contribute to the project, visit github.com/fontdasu/Mochiypop",
+  "homepage": "https://fonts.google.com/specimen/Mochiy+Pop+One",
+  "copyright": "Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mochiy Pop One",
+      "files": [
+        "https://fonts.gstatic.com/s/mochiypopone/v12/QdVPSTA9Jh-gg-5XZP2UmU4O9kwwD3s6ZKAi.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mochiypopone/v12/QdVPSTA9Jh-gg-5XZP2UmU4O9kwwD3s6ZKAi.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mochiy Pop One",
+      "files": [
+        "https://fonts.gstatic.com/s/mochiypopone/v12/QdVPSTA9Jh-gg-5XZP2UmU4O9kw1D3s6ZKAi.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mochiypopone/v12/QdVPSTA9Jh-gg-5XZP2UmU4O9kw1D3s6ZKAi.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mochiy Pop One",
+      "styles": [
+        {
+          "family_name": "Mochiy Pop One",
+          "type": "Regular",
+          "full_name": "Mochiy Pop One Regular",
+          "post_script_name": "MochiyPopOne-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVPSTA9Jh-gg-5XZP2UmU4O9kwwD3s6ZKAi.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

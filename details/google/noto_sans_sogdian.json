@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_sogdian",
+  "name": "noto_sans_sogdian",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Sogdian is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern Sogdian script. It has 345 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Sogdian",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sogdian)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Sogdian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssogdian/v17/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssogdian/v17/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Sogdian",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssogdian/v17/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo-7Pm6KHidM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssogdian/v17/taiQGn5iC4--qtsfi4Jp6eHPnfxQBo-7Pm6KHidM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Sogdian",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sogdian",
+          "type": "Regular",
+          "full_name": "Noto Sans Sogdian Regular",
+          "post_script_name": "NotoSansSogdian-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sogdian)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "taiQGn5iC4--qtsfi4Jp6eHPnfxQBo--Pm6KHidM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

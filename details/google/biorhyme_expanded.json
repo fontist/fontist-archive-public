@@ -1,0 +1,149 @@
+{
+  "slug": "google/biorhyme_expanded",
+  "name": "biorhyme_expanded",
+  "description": "BioRhyme is a Latin typeface family comprised of two widths, a normal family and an expanded family. Each family has 5 weights, and both are intended for use in large and medium sizes. To contribute, see github.com/aoifemooney/makingbiorhyme",
+  "homepage": "https://fonts.google.com/specimen/BioRhyme+Expanded",
+  "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BioRhyme Expanded",
+      "files": [
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxxcblSHSdTXrb_z.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bVSHSdTXrb_z.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dQIE1zZzytGswgU577CDY9LjbffySURXCPYsje.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxwoalSHSdTXrb_z.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aVSHSdTXrb_z.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxxcblSHSdTXrb_z.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bVSHSdTXrb_z.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dQIE1zZzytGswgU577CDY9LjbffySURXCPYsje.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxwoalSHSdTXrb_z.ttf",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aVSHSdTXrb_z.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BioRhyme Expanded",
+      "files": [
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxxcblSCSdTXrb_z.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bVSCSdTXrb_z.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dQIE1zZzytGswgU577CDY9LjbffySRRXCPYsje.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxwoalSCSdTXrb_z.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aVSCSdTXrb_z.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxxcblSCSdTXrb_z.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw4bVSCSdTXrb_z.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dQIE1zZzytGswgU577CDY9LjbffySRRXCPYsje.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9LjbffxwoalSCSdTXrb_z.woff2",
+        "https://fonts.gstatic.com/s/biorhymeexpanded/v23/i7dVIE1zZzytGswgU577CDY9Ljbffxw0aVSCSdTXrb_z.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BioRhyme Expanded ExtraLight",
+      "styles": [
+        {
+          "family_name": "BioRhyme Expanded ExtraLight",
+          "type": "Regular",
+          "full_name": "BioRhymeExpanded-ExtraLight",
+          "post_script_name": "BioRhymeExpanded-ExtraLight",
+          "version": "1.000",
+          "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "i7dVIE1zZzytGswgU577CDY9LjbffxxcblSHSdTXrb_z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme Expanded Light",
+      "styles": [
+        {
+          "family_name": "BioRhyme Expanded Light",
+          "type": "Regular",
+          "full_name": "BioRhymeExpanded-Light",
+          "post_script_name": "BioRhymeExpanded-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "i7dVIE1zZzytGswgU577CDY9Ljbffxw4bVSHSdTXrb_z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme Expanded",
+      "styles": [
+        {
+          "family_name": "BioRhyme Expanded",
+          "type": "Regular",
+          "full_name": "BioRhymeExpanded-Regular",
+          "post_script_name": "BioRhymeExpanded-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "i7dQIE1zZzytGswgU577CDY9LjbffySURXCPYsje.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "BioRhyme Expanded",
+          "type": "Bold",
+          "full_name": "BioRhyme Expanded Bold",
+          "post_script_name": "BioRhymeExpanded-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "i7dVIE1zZzytGswgU577CDY9LjbffxwoalSHSdTXrb_z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BioRhyme Expanded ExtraBold",
+      "styles": [
+        {
+          "family_name": "BioRhyme Expanded ExtraBold",
+          "type": "Regular",
+          "full_name": "BioRhymeExpanded-ExtraBold",
+          "post_script_name": "BioRhymeExpanded-ExtraBold",
+          "version": "1.000",
+          "copyright": "Copyright 2016 Aoife Mooney (aoifemooney@gmail.com www.aoifemooney.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "i7dVIE1zZzytGswgU577CDY9Ljbffxw0aVSHSdTXrb_z.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

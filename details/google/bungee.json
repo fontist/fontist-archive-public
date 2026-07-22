@@ -1,0 +1,58 @@
+{
+  "slug": "google/bungee",
+  "name": "bungee",
+  "description": "Bungee font family",
+  "homepage": "https://fonts.google.com/specimen/Bungee",
+  "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bungee",
+      "files": [
+        "https://fonts.gstatic.com/s/bungee/v17/N0bU2SZBIuF2PU_ECn50Kd_PmA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungee/v17/N0bU2SZBIuF2PU_ECn50Kd_PmA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bungee",
+      "files": [
+        "https://fonts.gstatic.com/s/bungee/v17/N0bU2SZBIuF2PU_ED350Kd_PmA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bungee/v17/N0bU2SZBIuF2PU_ED350Kd_PmA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bungee",
+      "styles": [
+        {
+          "family_name": "Bungee",
+          "type": "Regular",
+          "full_name": "Bungee Regular",
+          "post_script_name": "Bungee-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "N0bU2SZBIuF2PU_ECn50Kd_PmA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

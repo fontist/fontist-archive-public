@@ -1,0 +1,58 @@
+{
+  "slug": "google/racing_sans_one",
+  "name": "racing_sans_one",
+  "description": "Around 1800 (100 years before Helvetica and Univers) the first Sans Serif typefaces to include lowercase letters used to have very High Contrast (the difference between thick and thin lines). Maybe because the were derived from the more traditional serif typefaces of the time. But for same reason, as the genre evolved, the fashion was to create 'monoline' sans, of very little contrast. Today, contrasted Sans are very rare, and only a few are successful. While digging in old specimens, we found three that immediately caught our attention: Doric Italic and Taylor Gothic from American Type Founders (1897), and Charter Oak from Keystone Type Foundry of Philadelphia (1906). Racing Sans is a current high contrast sans, paying tribute to this forgotten genre.",
+  "homepage": "https://fonts.google.com/specimen/Racing+Sans+One",
+  "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Racing Sans.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Racing Sans One",
+      "files": [
+        "https://fonts.gstatic.com/s/racingsansone/v17/sykr-yRtm7EvTrXNxkv5jfKKyDCwL3rmWpIBtA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/racingsansone/v17/sykr-yRtm7EvTrXNxkv5jfKKyDCwL3rmWpIBtA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Racing Sans One",
+      "files": [
+        "https://fonts.gstatic.com/s/racingsansone/v17/sykr-yRtm7EvTrXNxkv5jfKKyDCwKnrmWpIBtA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/racingsansone/v17/sykr-yRtm7EvTrXNxkv5jfKKyDCwKnrmWpIBtA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Racing Sans One",
+      "styles": [
+        {
+          "family_name": "Racing Sans One",
+          "type": "Regular",
+          "full_name": "Racing Sans One",
+          "post_script_name": "RacingSansOne-Regular",
+          "version": "1.001; ttfautohint (v0.8) -G 200 -r 50",
+          "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com) and Rodrigo Fuenzalida (www.rfuenzalida.com), with Reserved Font Name Racing Sans.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sykr-yRtm7EvTrXNxkv5jfKKyDCwL3rmWpIBtA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

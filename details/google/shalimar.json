@@ -1,0 +1,58 @@
+{
+  "slug": "google/shalimar",
+  "name": "shalimar",
+  "description": "Shalimar is an upright script inspired by the calligraphic strokes of a flat nib pen. There are script style capitals that may be substituted by more Roman forms with the stylistic set. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/shalimar .",
+  "homepage": "https://fonts.google.com/specimen/Shalimar",
+  "copyright": "Copyright 2004-2021 The Shalimar Project Authors (https://github.com/googlefonts/shalimar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shalimar",
+      "files": [
+        "https://fonts.gstatic.com/s/shalimar/v9/uU9MCBoE6I6iNWFUvTPx8PCOg0uX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shalimar/v9/uU9MCBoE6I6iNWFUvTPx8PCOg0uX.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shalimar",
+      "files": [
+        "https://fonts.gstatic.com/s/shalimar/v9/uU9MCBoE6I6iNWFUvTP08PCOg0uX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shalimar/v9/uU9MCBoE6I6iNWFUvTP08PCOg0uX.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shalimar",
+      "styles": [
+        {
+          "family_name": "Shalimar",
+          "type": "Regular",
+          "full_name": "Shalimar Regular",
+          "post_script_name": "Shalimar-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004-2021 The Shalimar Project Authors (https://github.com/googlefonts/shalimar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uU9MCBoE6I6iNWFUvTPx8PCOg0uX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

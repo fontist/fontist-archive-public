@@ -1,0 +1,58 @@
+{
+  "slug": "google/langar",
+  "name": "langar",
+  "description": "Langar is a one-weight Latin/Gurmukhi display font based on informal, playful letterforms. It broadly follows the ‘upright-italic’ style of Latin fonts, experimenting with and introducing a similar style for the Gurmukhi script. Langar’s harmonised Latin/Gurmukhi design aims to expand the possibilities for both the general user and the specialised designer working with bilingual texts by providing a good quality display option. The design specifically caters to characterful display at larger sizes, providing a contrasting secondary style to most text typefaces generally available for Latin/Gurmukhi texts. To contribute, please see github.com/typeland/Langar .",
+  "homepage": "https://fonts.google.com/specimen/Langar",
+  "copyright": "Copyright 2016 The Langar Project Authors (https://github.com/typeland/Langar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Langar",
+      "files": [
+        "https://fonts.gstatic.com/s/langar/v30/kJEyBukW7AIlgjGVrTVZ99sqrQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/langar/v30/kJEyBukW7AIlgjGVrTVZ99sqrQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Langar",
+      "files": [
+        "https://fonts.gstatic.com/s/langar/v30/kJEyBukW7AIlgjGVqDVZ99sqrQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/langar/v30/kJEyBukW7AIlgjGVqDVZ99sqrQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Langar",
+      "styles": [
+        {
+          "family_name": "Langar",
+          "type": "Regular",
+          "full_name": "Langar Regular",
+          "post_script_name": "Langar-Regular",
+          "version": "1.001; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2016 The Langar Project Authors (https://github.com/typeland/Langar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kJEyBukW7AIlgjGVrTVZ99sqrQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/chocolate_classical_sans",
+  "name": "chocolate_classical_sans",
+  "description": "\"Chocolate Classical Sans\" is an open source font suitable for Traditional Chinese environments. This font uses inherited glyphs, largely adhering to the Inherited Glyphs standard maintained by the I.Font Project , combined with other commonly seen inherited glyphs, to produce a Chinese typeface with glyphs in the traditional style. . This font is produced by Tian Haidong, with modifications from Moonlit Owen. This font is based on the \"Source Han Sans\" font jointly developed by Adobe and Google, incorporating modifications and additional glyphs by using open source contributions from Steve Yuu, GuiWonder and ChiuMing. To contribute, see github.com/MoonlitOwen/ChocolateSans .",
+  "homepage": "https://fonts.google.com/specimen/Chocolate+Classical+Sans",
+  "copyright": "Copyright 2025 The Chocolate Classical Sans Project Authors (https://github.com/MoonlitOwen/ChocolateSans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chocolate Classical Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/chocolateclassicalsans/v15/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDPI2J9mHITw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chocolateclassicalsans/v15/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDPI2J9mHITw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chocolate Classical Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/chocolateclassicalsans/v15/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDOY2J9mHITw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chocolateclassicalsans/v15/nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDOY2J9mHITw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chocolate Classical Sans",
+      "styles": [
+        {
+          "family_name": "Chocolate Classical Sans",
+          "type": "Regular",
+          "full_name": "Chocolate Classical Sans Regular",
+          "post_script_name": "ChocolateClassicalSans-Regular",
+          "version": "1.005",
+          "copyright": "Copyright 2025 The Chocolate Classical Sans Project Authors (https://github.com/MoonlitOwen/ChocolateSans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "nuFqD-PLTZX4XIgT-P2ToCDudWHHflqUpTpfjWdDPI2J9mHITw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

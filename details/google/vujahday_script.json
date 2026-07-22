@@ -1,0 +1,58 @@
+{
+  "slug": "google/vujahday_script",
+  "name": "vujahday_script",
+  "description": "Vujaday! That eerie feeling that nothing like this has ever happened before. This script font comes with both a plain and a script stylistic set. Its rough edge adds to the handwritten feel. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/vujahday .",
+  "homepage": "https://fonts.google.com/specimen/Vujahday+Script",
+  "copyright": "Copyright 2003 The Vujahday Script Project Authors (https://github.com/googlefonts/vujahday)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vujahday Script",
+      "files": [
+        "https://fonts.gstatic.com/s/vujahdayscript/v10/RWmQoKGA8fEkrIPtSZ3_J7er2dUiDEtvAlaMKw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vujahdayscript/v10/RWmQoKGA8fEkrIPtSZ3_J7er2dUiDEtvAlaMKw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vujahday Script",
+      "files": [
+        "https://fonts.gstatic.com/s/vujahdayscript/v10/RWmQoKGA8fEkrIPtSZ3_J7er2dUiCUtvAlaMKw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vujahdayscript/v10/RWmQoKGA8fEkrIPtSZ3_J7er2dUiCUtvAlaMKw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vujahday Script",
+      "styles": [
+        {
+          "family_name": "Vujahday Script",
+          "type": "Regular",
+          "full_name": "Vujahday Script Regular",
+          "post_script_name": "VujahdayScript-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003 The Vujahday Script Project Authors (https://github.com/googlefonts/vujahday)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RWmQoKGA8fEkrIPtSZ3_J7er2dUiDEtvAlaMKw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

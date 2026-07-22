@@ -1,0 +1,77 @@
+{
+  "slug": "google/goldman",
+  "name": "goldman",
+  "description": "Goldman is a Latin display typeface designed by Jaikishan Patel. It was exclusively designed for posters of Genre: Passion, Science Fiction, Sports, Drama, Thriller genres. The Goldman font family includes two weights. Regular, designed for the large headers or titles, and Bold, designed for heavyweight title designs. Each font includes 640 glyphs that covers Western, Central and South Latin as well as Vietnamese. To contribute, see https://github.com/magictype/goldman",
+  "homepage": "https://fonts.google.com/specimen/Goldman",
+  "copyright": "Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Goldman",
+      "files": [
+        "https://fonts.gstatic.com/s/goldman/v21/pe0uMIWbN4JFplR2LDJ4Bt-7G98.ttf",
+        "https://fonts.gstatic.com/s/goldman/v21/pe0rMIWbN4JFplR2FI5XIteQB9Zra1U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/goldman/v21/pe0uMIWbN4JFplR2LDJ4Bt-7G98.ttf",
+        "https://fonts.gstatic.com/s/goldman/v21/pe0rMIWbN4JFplR2FI5XIteQB9Zra1U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Goldman",
+      "files": [
+        "https://fonts.gstatic.com/s/goldman/v21/pe0uMIWbN4JFplR2LDd4Bt-7G98.woff2",
+        "https://fonts.gstatic.com/s/goldman/v21/pe0rMIWbN4JFplR2FI5XItKQB9Zra1U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/goldman/v21/pe0uMIWbN4JFplR2LDd4Bt-7G98.woff2",
+        "https://fonts.gstatic.com/s/goldman/v21/pe0rMIWbN4JFplR2FI5XItKQB9Zra1U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Goldman",
+      "styles": [
+        {
+          "family_name": "Goldman",
+          "type": "Regular",
+          "full_name": "Goldman Regular",
+          "post_script_name": "Goldman-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pe0uMIWbN4JFplR2LDJ4Bt-7G98.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Goldman",
+          "type": "Bold",
+          "full_name": "Goldman Bold",
+          "post_script_name": "Goldman-Bold",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2018 The Goldman Project Authors (https://github.com/magictype/goldman)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pe0rMIWbN4JFplR2FI5XIteQB9Zra1U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

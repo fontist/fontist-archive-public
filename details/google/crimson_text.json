@@ -1,0 +1,158 @@
+{
+  "slug": "google/crimson_text",
+  "name": "crimson_text",
+  "description": "Crimson Text is a font family for book production in the tradition of beautiful oldstyle typefaces. There are a lot of great free fonts around, but one kind is missing: those Garamond-inspired types with all the little niceties like oldstyle figures, small caps, fleurons, math characters and the like. In fact, a lot of time is spend developing free knock-offs of ugly \"standards\" like Times and Helvetica. Crimson Text is inspired by the fantastic work of people like Jan Tschichold, Robert Slimbach and Jonathan Hoefler. We hope that the free type community will one day be able to enjoy Crimson Text as a beautiful workhorse. Several important bug fixes have been brought in March 2022, including the harmonisation of the line-spacing across all styles. To contribute, see github.com/googlefonts/Crimson .",
+  "homepage": "https://fonts.google.com/specimen/Crimson+Text",
+  "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Crimson Text",
+      "files": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaAJSA_JN3Q.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghWIfdd3ahG.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2C9lR1LFffg.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV9rRPfrKu.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12C9lR1LFffg.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV9rRPfrKu.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvaAJSA_JN3Q.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghWIfdd3ahG.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2C9lR1LFffg.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV9rRPfrKu.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12C9lR1LFffg.ttf",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV9rRPfrKu.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Crimson Text",
+      "files": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvbQJSA_JN3Q.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghTIfdd3ahG.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2DtlR1LFffg.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NQ9rRPfrKu.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12DtlR1LFffg.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNQ9rRPfrKu.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlp2gwHKFkZgtmSR3NB0oRJvbQJSA_JN3Q.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlpogwHKFkZgtmSR3NB0oRJfaghTIfdd3ahG.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJXsCx2DtlR1LFffg.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajCOD9NQ9rRPfrKu.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlppgwHKFkZgtmSR3NB0oRJX1C12DtlR1LFffg.woff2",
+        "https://fonts.gstatic.com/s/crimsontext/v19/wlprgwHKFkZgtmSR3NB0oRJfajDqDtNQ9rRPfrKu.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Crimson Text",
+      "styles": [
+        {
+          "family_name": "Crimson Text",
+          "type": "Regular",
+          "full_name": "Crimson Text Regular",
+          "post_script_name": "CrimsonText-Regular",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlp2gwHKFkZgtmSR3NB0oRJvaAJSA_JN3Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Crimson Text",
+          "type": "Italic",
+          "full_name": "Crimson Text Italic",
+          "post_script_name": "CrimsonText-Italic",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlpogwHKFkZgtmSR3NB0oRJfaghWIfdd3ahG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Crimson Text",
+          "type": "Bold",
+          "full_name": "Crimson Text Bold",
+          "post_script_name": "CrimsonText-Bold",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlppgwHKFkZgtmSR3NB0oRJX1C12C9lR1LFffg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Crimson Text",
+          "type": "Bold Italic",
+          "full_name": "Crimson Text Bold Italic",
+          "post_script_name": "CrimsonText-BoldItalic",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlprgwHKFkZgtmSR3NB0oRJfajDqDtNV9rRPfrKu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crimson Text SemiBold",
+      "styles": [
+        {
+          "family_name": "Crimson Text SemiBold",
+          "type": "Regular",
+          "full_name": "Crimson Text SemiBold",
+          "post_script_name": "CrimsonText-SemiBold",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlppgwHKFkZgtmSR3NB0oRJXsCx2C9lR1LFffg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Crimson Text SemiBold",
+          "type": "Italic",
+          "full_name": "Crimson Text SemiBold Italic",
+          "post_script_name": "CrimsonText-SemiBoldItalic",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlprgwHKFkZgtmSR3NB0oRJfajCOD9NV9rRPfrKu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

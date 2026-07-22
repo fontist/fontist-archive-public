@@ -1,0 +1,424 @@
+{
+  "slug": "google/noto_sans_display",
+  "name": "noto_sans_display",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Display is an unmodulated (“sans serif”) design for texts in larger font sizes in the European Latin script and in Cyrillic , Greek . It has italic styles, multiple weights and widths, and 3,316 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Display",
+  "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Display",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Ka2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Ka2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWa2wPurWM9uQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NVTSQ2iHrvWM.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Ka2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Ka2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWa2wPurWM9uQ.woff2",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWa2wPurWM9uQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Display",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Ka3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Ka3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWa3gPurWM9uQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NVTGQ2iHrvWM.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Ka3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Ka3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWa3gPurWM9uQ.ttf",
+        "https://fonts.gstatic.com/s/notosansdisplay/v30/RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWa3gPurWM9uQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Display Thin",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display Thin",
+          "type": "Regular",
+          "full_name": "Noto Sans Display Thin",
+          "post_script_name": "NotoSansDisplay-Thin",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cLVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display Thin",
+          "type": "Italic",
+          "full_name": "Noto Sans Display Thin Italic",
+          "post_script_name": "NotoSansDisplay-ThinItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXOa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Sans Display ExtraLight",
+          "post_script_name": "NotoSansDisplay-ExtraLight",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cKVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display ExtraLight",
+          "type": "Italic",
+          "full_name": "Noto Sans Display ExtraLight Italic",
+          "post_script_name": "NotoSansDisplay-ExtraLightItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXKa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display Light",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display Light",
+          "type": "Regular",
+          "full_name": "Noto Sans Display Light",
+          "post_script_name": "NotoSansDisplay-Light",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_ykKVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display Light",
+          "type": "Italic",
+          "full_name": "Noto Sans Display Light Italic",
+          "post_script_name": "NotoSansDisplay-LightItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9J43Ka3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display",
+          "type": "Regular",
+          "full_name": "Noto Sans Display Regular",
+          "post_script_name": "NotoSansDisplay-Regular",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_3cKVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display",
+          "type": "Bold",
+          "full_name": "Noto Sans Display Bold",
+          "post_script_name": "NotoSansDisplay-Bold",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_5ANVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display",
+          "type": "Italic",
+          "full_name": "Noto Sans Display Italic",
+          "post_script_name": "NotoSansDisplay-Italic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JvXKa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display",
+          "type": "Bold Italic",
+          "full_name": "Noto Sans Display Bold Italic",
+          "post_script_name": "NotoSansDisplay-BoldItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JWnWa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Display Medium",
+          "post_script_name": "NotoSansDisplay-Medium",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_0UKVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display Medium",
+          "type": "Italic",
+          "full_name": "Noto Sans Display Medium Italic",
+          "post_script_name": "NotoSansDisplay-MediumItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9Jj3Ka3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Display SemiBold",
+          "post_script_name": "NotoSansDisplay-SemiBold",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_6kNVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display SemiBold",
+          "type": "Italic",
+          "full_name": "Noto Sans Display SemiBold Italic",
+          "post_script_name": "NotoSansDisplay-SemiBoldItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JY3Wa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Display ExtraBold",
+          "post_script_name": "NotoSansDisplay-ExtraBold",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp__cNVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display ExtraBold",
+          "type": "Italic",
+          "full_name": "Noto Sans Display ExtraBold Italic",
+          "post_script_name": "NotoSansDisplay-ExtraBoldItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JPXWa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Display Black",
+      "styles": [
+        {
+          "family_name": "Noto Sans Display Black",
+          "type": "Regular",
+          "full_name": "Noto Sans Display Black",
+          "post_script_name": "NotoSansDisplay-Black",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpbK4fy6r6tOBEJg0IAKzqdFZVZxpMkXJMhnB9XjO1o90LuV-PT4Doq_AKp_94NVTGQ2iHrvWM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Display Black",
+          "type": "Italic",
+          "full_name": "Noto Sans Display Black Italic",
+          "post_script_name": "NotoSansDisplay-BlackItalic",
+          "version": "2.003",
+          "copyright": "Copyright 2015 Google Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.",
+          "variable_font": true,
+          "font": "RLpZK4fy6r6tOBEJg0IAKzqdFZVZxrktbnDB5UzBIup9PwAcHtEsOFNBZqyu6r9JFHWa3gPurWM9uQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

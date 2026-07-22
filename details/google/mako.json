@@ -1,0 +1,58 @@
+{
+  "slug": "google/mako",
+  "name": "mako",
+  "description": "Mako is a minimal sans serif designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. The July 2023 update features a bigger glyphset and some minor aesthetic modifications. To contribute, see github.com/googlefonts/MakoFont .",
+  "homepage": "https://fonts.google.com/specimen/Mako",
+  "copyright": "Copyright 2007 The Mako Project Authors (https://github.com/googlefonts/MakoFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mako",
+      "files": [
+        "https://fonts.gstatic.com/s/mako/v19/H4coBX6Mmc_Z0ST09g478Lo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mako/v19/H4coBX6Mmc_Z0ST09g478Lo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mako",
+      "files": [
+        "https://fonts.gstatic.com/s/mako/v19/H4coBX6Mmc_Z0SH09g478Lo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mako/v19/H4coBX6Mmc_Z0SH09g478Lo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mako",
+      "styles": [
+        {
+          "family_name": "Mako",
+          "type": "Regular",
+          "full_name": "Mako Regular",
+          "post_script_name": "Mako-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.33]",
+          "copyright": "Copyright 2007 The Mako Project Authors (https://github.com/googlefonts/MakoFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4coBX6Mmc_Z0ST09g478Lo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

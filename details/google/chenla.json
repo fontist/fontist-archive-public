@@ -1,0 +1,57 @@
+{
+  "slug": "google/chenla",
+  "name": "chenla",
+  "description": "The Chenla fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong , has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "homepage": "https://fonts.google.com/specimen/Chenla",
+  "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Chenla.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chenla",
+      "files": [
+        "https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9eXxfonUPL6Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9eXxfonUPL6Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chenla",
+      "files": [
+        "https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9eWhfonUPL6Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chenla/v25/SZc43FDpIKu8WZ9eWhfonUPL6Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chenla",
+      "styles": [
+        {
+          "family_name": "Chenla",
+          "type": "Regular",
+          "full_name": "Chenla",
+          "post_script_name": "Chenla",
+          "version": "6.00 December 28, 2010",
+          "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Chenla.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc43FDpIKu8WZ9eXxfonUPL6Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

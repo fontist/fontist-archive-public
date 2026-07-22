@@ -1,0 +1,149 @@
+{
+  "slug": "google/hind_madurai",
+  "name": "hind_madurai",
+  "description": "Hind Madurai is a family of five Tamil fonts, which are part of the Indian Type Foundry’s larger Open Source Hind Multi-Script project. In addition to Tamil, the Hind Madurai fonts also include Latin-script characters. Developed explicitly for use in User Interface design, Hind’s letterforms have a humanist-style construction, paired with seemingly monolinear strokes. Most of these strokes have flat endings: they either terminate with a horizontal or a vertical shear, rather than on a diagonal. This helps create clear-cut counter forms between the characters. Additionally, Hind’s letterforms feature open apertures and counterforms. The entire family feels very legible when used to set text. The Tamil and Latin script components are scaled in relation to each other so that the head of the Tamil characters falls just below the Latin capital-height. Depending in the font weight, Tamil letters appear to be about 80–85% of the height of the Latin uppercase. Text set in the Tamil script sits nicely alongside the Latin’s lowercase, too. Although Hind Madurai is a “monolinear sans” face, much of its design features tends toward the traditional end of the design spectrum. Each font in the Hind Madurai family has 552 glyphs, which includes all of the characters needed to write Tamil. The Latin character set is Adobe Latin 3, enabling typesetting for English and other Western European languages. Hind Madurai is a solid alternate when choosing typefaces for UI design, and a wise selection for electronic display embedding. Jyotish Sonowal designed Hind Madurai for ITF, who first published the fonts in 2015. Hind Madurai is named after Madurai, a city in Tamil Nadu, India. The Hind Madurai project is led by Indian Type Foundry, a type design foundry based in Ahmedabad, India. To contribute, see github.com/itfoundry/hind-madurai",
+  "homepage": "https://fonts.google.com/specimen/Hind+Madurai",
+  "copyright": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hind Madurai",
+      "files": [
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfXaUnecsoMJ0b_g.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xx0e2p98ZvDXdZQIOcpqjn8Y0DceA0OQ.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfBaQnecsoMJ0b_g.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfKaMnecsoMJ0b_g.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfTaInecsoMJ0b_g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfXaUnecsoMJ0b_g.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xx0e2p98ZvDXdZQIOcpqjn8Y0DceA0OQ.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfBaQnecsoMJ0b_g.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfKaMnecsoMJ0b_g.ttf",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfTaInecsoMJ0b_g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hind Madurai",
+      "files": [
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfXaUnfMsoMJ0b_g.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xx0e2p98ZvDXdZQIOcpqjn9I0DceA0OQ.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfBaQnfMsoMJ0b_g.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfKaMnfMsoMJ0b_g.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfTaInfMsoMJ0b_g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfXaUnfMsoMJ0b_g.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xx0e2p98ZvDXdZQIOcpqjn9I0DceA0OQ.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfBaQnfMsoMJ0b_g.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfKaMnfMsoMJ0b_g.woff2",
+        "https://fonts.gstatic.com/s/hindmadurai/v13/f0Xu0e2p98ZvDXdZQIOcpqjfTaInfMsoMJ0b_g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hind Madurai Light",
+      "styles": [
+        {
+          "family_name": "Hind Madurai Light",
+          "type": "Regular",
+          "full_name": "Hind Madurai Light",
+          "post_script_name": "HindMadurai-Light",
+          "version": "1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f taml -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xu0e2p98ZvDXdZQIOcpqjfXaUnecsoMJ0b_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hind Madurai",
+      "styles": [
+        {
+          "family_name": "Hind Madurai",
+          "type": "Regular",
+          "full_name": "Hind Madurai Regular",
+          "post_script_name": "HindMadurai-Regular",
+          "version": "1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f taml -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xx0e2p98ZvDXdZQIOcpqjn8Y0DceA0OQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Hind Madurai",
+          "type": "Bold",
+          "full_name": "Hind Madurai Bold",
+          "post_script_name": "HindMadurai-Bold",
+          "version": "1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f taml -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xu0e2p98ZvDXdZQIOcpqjfTaInecsoMJ0b_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hind Madurai Medium",
+      "styles": [
+        {
+          "family_name": "Hind Madurai Medium",
+          "type": "Regular",
+          "full_name": "Hind Madurai Medium",
+          "post_script_name": "HindMadurai-Medium",
+          "version": "1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f taml -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xu0e2p98ZvDXdZQIOcpqjfBaQnecsoMJ0b_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hind Madurai SemiBold",
+      "styles": [
+        {
+          "family_name": "Hind Madurai SemiBold",
+          "type": "Regular",
+          "full_name": "Hind Madurai SemiBold",
+          "post_script_name": "HindMadurai-SemiBold",
+          "version": "1.001;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.5.33-1714) -l 8 -r 50 -G 200 -x 13 -D latn -f taml -w G -W -c -X \"\"",
+          "copyright": "Copyright (c) 2015 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xu0e2p98ZvDXdZQIOcpqjfKaMnecsoMJ0b_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

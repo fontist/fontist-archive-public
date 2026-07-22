@@ -1,0 +1,149 @@
+{
+  "slug": "google/battambang",
+  "name": "battambang",
+  "description": "Battambang is a Khmer font for body text. The shape is similar to the Battambang legacy font released in the 1990s. To contribute, see github.com/danhhong/Battambang .",
+  "homepage": "https://fonts.google.com/specimen/Battambang",
+  "copyright": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Battambang",
+      "files": [
+        "https://fonts.gstatic.com/s/battambang/v26/uk-kEGe7raEw-HjkzZabNhGp5w50_o9T7Q.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNtmLxyRa8oZK9I0.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-mEGe7raEw-HjkzZabDnWj4yxx7o8.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNsmMxyRa8oZK9I0.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNvGOxyRa8oZK9I0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/battambang/v26/uk-kEGe7raEw-HjkzZabNhGp5w50_o9T7Q.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNtmLxyRa8oZK9I0.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-mEGe7raEw-HjkzZabDnWj4yxx7o8.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNsmMxyRa8oZK9I0.ttf",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNvGOxyRa8oZK9I0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Battambang",
+      "files": [
+        "https://fonts.gstatic.com/s/battambang/v26/uk-kEGe7raEw-HjkzZabNhGp4g50_o9T7Q.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNtmLxyFa8oZK9I0.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-mEGe7raEw-HjkzZabDnCj4yxx7o8.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNsmMxyFa8oZK9I0.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNvGOxyFa8oZK9I0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/battambang/v26/uk-kEGe7raEw-HjkzZabNhGp4g50_o9T7Q.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNtmLxyFa8oZK9I0.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-mEGe7raEw-HjkzZabDnCj4yxx7o8.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNsmMxyFa8oZK9I0.woff2",
+        "https://fonts.gstatic.com/s/battambang/v26/uk-lEGe7raEw-HjkzZabNvGOxyFa8oZK9I0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Battambang Thin",
+      "styles": [
+        {
+          "family_name": "Battambang Thin",
+          "type": "Regular",
+          "full_name": "Battambang Thin",
+          "post_script_name": "Battambang-Thin",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uk-kEGe7raEw-HjkzZabNhGp5w50_o9T7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battambang Light",
+      "styles": [
+        {
+          "family_name": "Battambang Light",
+          "type": "Regular",
+          "full_name": "Battambang Light",
+          "post_script_name": "Battambang-Light",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uk-lEGe7raEw-HjkzZabNtmLxyRa8oZK9I0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battambang",
+      "styles": [
+        {
+          "family_name": "Battambang",
+          "type": "Regular",
+          "full_name": "Battambang Regular",
+          "post_script_name": "Battambang-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uk-mEGe7raEw-HjkzZabDnWj4yxx7o8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Battambang",
+          "type": "Bold",
+          "full_name": "Battambang Bold",
+          "post_script_name": "Battambang-Bold",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uk-lEGe7raEw-HjkzZabNsmMxyRa8oZK9I0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Battambang Black",
+      "styles": [
+        {
+          "family_name": "Battambang Black",
+          "type": "Regular",
+          "full_name": "Battambang Black",
+          "post_script_name": "Battambang-Black",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Battambang Khmer Project Authors (https://github.com/danhhong/Battambang)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uk-lEGe7raEw-HjkzZabNvGOxyRa8oZK9I0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

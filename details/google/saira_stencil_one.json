@@ -1,0 +1,58 @@
+{
+  "slug": "google/saira_stencil_one",
+  "name": "saira_stencil_one",
+  "description": "Saira Stencil is the stencil version of Saira , designed by Héctor Gatti and developed by Omnibus-Type Team. To contribute, see github.com/Omnibus-Type/Saira/tree/master/SairaStencilOne .",
+  "homepage": "https://fonts.google.com/specimen/Saira+Stencil+One",
+  "copyright": "Copyright 2019 The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Saira Stencil One",
+      "files": [
+        "https://fonts.gstatic.com/s/sairastencilone/v18/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsMawif2YQ2.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sairastencilone/v18/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsMawif2YQ2.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Saira Stencil One",
+      "files": [
+        "https://fonts.gstatic.com/s/sairastencilone/v18/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsJawif2YQ2.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sairastencilone/v18/SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsJawif2YQ2.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Saira Stencil One",
+      "styles": [
+        {
+          "family_name": "Saira Stencil One",
+          "type": "Regular",
+          "full_name": "Saira Stencil One Regular",
+          "post_script_name": "SairaStencilOne-Regular",
+          "version": "1.004",
+          "copyright": "Copyright 2019 The Saira Stencil Project Authors (https://github.com/Omnibus-Type/Saira)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXSc03I6HkvZGJ1GvvipLoYSTEL9AsMawif2YQ2.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

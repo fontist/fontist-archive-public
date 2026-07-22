@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_nko_unjoined",
+  "name": "noto_sans_nko_unjoined",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans N’Ko Unjoined is an unmodulated (“sans serif”) design for display texts in the African N’Ko script. It has 184 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+NKo+Unjoined",
+  "copyright": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nko)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans NKo Unjoined",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEKxf5wbh3T.woff2",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEKxf5wbh3T.woff2",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEKxf5wbh3T.woff2",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEKxf5wbh3T.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEKxf5wbh3T.woff2",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEKxf5wbh3T.woff2",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEKxf5wbh3T.woff2",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEKxf5wbh3T.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans NKo Unjoined",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEPxf5wbh3T.ttf",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEPxf5wbh3T.ttf",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEPxf5wbh3T.ttf",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEPxf5wbh3T.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEPxf5wbh3T.ttf",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEPxf5wbh3T.ttf",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEPxf5wbh3T.ttf",
+        "https://fonts.gstatic.com/s/notosansnkounjoined/v4/MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEPxf5wbh3T.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans NKo Unjoined",
+      "styles": [
+        {
+          "family_name": "Noto Sans NKo Unjoined",
+          "type": "Regular",
+          "full_name": "Noto Sans NKo Unjoined Regular",
+          "post_script_name": "NotoSansNKoUnjoined-Regular",
+          "version": "2.004",
+          "copyright": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rvF2gEPxf5wbh3T.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans NKo Unjoined",
+          "type": "Bold",
+          "full_name": "Noto Sans NKo Unjoined Bold",
+          "post_script_name": "NotoSansNKoUnjoined-Bold",
+          "version": "2.004",
+          "copyright": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsi3QEPxf5wbh3T.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans NKo Unjoined Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans NKo Unjoined Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans NKo Unjoined Medium",
+          "post_script_name": "NotoSansNKoUnjoined-Medium",
+          "version": "2.004",
+          "copyright": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rv32gEPxf5wbh3T.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans NKo Unjoined SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans NKo Unjoined SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans NKo Unjoined SemiBold",
+          "post_script_name": "NotoSansNKoUnjoined-SemiBold",
+          "version": "2.004",
+          "copyright": "Copyright 2023 The Noto Project Authors (https://github.com/notofonts/nko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "MCo_zBjx1d3VUhJFK9MYlNCXJ6VvqwGPz3szPOBB5nuzMdWs0rsb3QEPxf5wbh3T.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

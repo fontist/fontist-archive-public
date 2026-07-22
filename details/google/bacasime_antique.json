@@ -1,0 +1,58 @@
+{
+  "slug": "google/bacasime_antique",
+  "name": "bacasime_antique",
+  "description": "Bacasime Antique is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Baskerville Old Face that minimizes text reflow in Office Open XML documents. Bacasime Antique is based on Playfair, which is stylistically a transitional design. To contribute, please visit github.com/docrepair-fonts/bacasime-antique-fonts .",
+  "homepage": "https://fonts.google.com/specimen/Bacasime+Antique",
+  "copyright": "Copyright 2023 The Bacasime Antique Project Authors (https://github.com/docrepair-fonts/bacasime-antique-fonts), with Reserved Font Name \"Playfair\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bacasime Antique",
+      "files": [
+        "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bacasime Antique",
+      "files": [
+        "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwGtSUrV_BE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bacasimeantique/v1/tDbX2pGXkFYEykldjZSrmI6T_XWZOwGtSUrV_BE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bacasime Antique",
+      "styles": [
+        {
+          "family_name": "Bacasime Antique",
+          "type": "Regular",
+          "full_name": "Bacasime Antique Regular",
+          "post_script_name": "BacasimeAntique-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Bacasime Antique Project Authors (https://github.com/docrepair-fonts/bacasime-antique-fonts), with Reserved Font Name \"Playfair\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tDbX2pGXkFYEykldjZSrmI6T_XWZOwStSUrV_BE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

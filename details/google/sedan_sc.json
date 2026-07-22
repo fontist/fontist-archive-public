@@ -1,0 +1,58 @@
+{
+  "slug": "google/sedan_sc",
+  "name": "sedan_sc",
+  "description": "Sedan is a Garalde typeface prized for its timeless elegance, perfect for enhancing publications. With balanced proportions, subtle contrasts, and graceful serifs, Sedan offer both clarity and sophistication. Its versatility makes it ideal for various print materials, from magazines to scholarly journals, ensuring text remains inviting and accessible while exuding classic charm. Sedan embodies the enduring allure of Garalde designs in publishing. Check out the classic Sedan family, with a Regular and Italic styles. To contribute, see github.com/googlefonts/sedan .",
+  "homepage": "https://fonts.google.com/specimen/Sedan+SC",
+  "copyright": "Copyright 2023 The Sedan SC Project Authors (https://github.com/googlefonts/sedan)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sedan SC",
+      "files": [
+        "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Dq8fSx5i814.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Dq8fSx5i814.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sedan SC",
+      "files": [
+        "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Dq5fSx5i814.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedansc/v2/yMJRMIlvYZ3Jn1Y30Dq5fSx5i814.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sedan SC",
+      "styles": [
+        {
+          "family_name": "Sedan SC",
+          "type": "Regular",
+          "full_name": "Sedan SC Regular",
+          "post_script_name": "SedanSC-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Sedan SC Project Authors (https://github.com/googlefonts/sedan)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "yMJRMIlvYZ3Jn1Y30Dq8fSx5i814.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

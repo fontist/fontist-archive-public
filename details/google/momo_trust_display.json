@@ -1,0 +1,58 @@
+{
+  "slug": "google/momo_trust_display",
+  "name": "momo_trust_display",
+  "description": "Momo Trust Display font family",
+  "homepage": "https://fonts.google.com/specimen/Momo+Trust+Display",
+  "copyright": "Copyright 2024 The Momo Trust Project Authors (https://github.com/typeassociates/MomoTrustDisplay)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Momo Trust Display",
+      "files": [
+        "https://fonts.gstatic.com/s/momotrustdisplay/v2/WWXPlieNYgyPZLyBUuEkKZFhFHyjqb1un2xNNgNa1A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/momotrustdisplay/v2/WWXPlieNYgyPZLyBUuEkKZFhFHyjqb1un2xNNgNa1A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Momo Trust Display",
+      "files": [
+        "https://fonts.gstatic.com/s/momotrustdisplay/v2/WWXPlieNYgyPZLyBUuEkKZFhFHyjqb1ummxNNgNa1A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/momotrustdisplay/v2/WWXPlieNYgyPZLyBUuEkKZFhFHyjqb1ummxNNgNa1A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Momo Trust Display",
+      "styles": [
+        {
+          "family_name": "Momo Trust Display",
+          "type": "Regular",
+          "full_name": "Momo Trust Display Regular",
+          "post_script_name": "MomoTrustDisplay-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Momo Trust Project Authors (https://github.com/typeassociates/MomoTrustDisplay)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "WWXPlieNYgyPZLyBUuEkKZFhFHyjqb1un2xNNgNa1A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

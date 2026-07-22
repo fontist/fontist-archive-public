@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_gurmukhi",
+  "name": "tiro_gurmukhi",
+  "description": "Tiro Gurmukhi has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The design reintroduces the stroke modulation of traditional Punjabi manuscript styles that is absent from the monolinear typefaces that became conventional for the script in the 20th Century. This gives Tiro Gurmukhi a strong traditional flavour while also something fresh in the context of modern typography. For the Open Font License release, Tiro Gurmukhi has been extended to support additional characters, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Gurmukhi was designed by John Hudson and Fiona Ross. The italic was adapted by Paul Hanslow. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Gurmukhi",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Gurmukhi",
+      "files": [
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Gurmukhi",
+      "files": [
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7JvlyvHAQsyA2Y.woff2",
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3d4ckXSYq-Uqjc048JUF7JvpyzNACk3E2YljQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3dmckXSYq-Uqjc048JUF7JvlyvHAQsyA2Y.woff2",
+        "https://fonts.gstatic.com/s/tirogurmukhi/v6/x3d4ckXSYq-Uqjc048JUF7JvpyzNACk3E2YljQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Gurmukhi",
+      "styles": [
+        {
+          "family_name": "Tiro Gurmukhi",
+          "type": "Regular",
+          "full_name": "Tiro Gurmukhi Regular",
+          "post_script_name": "TiroGurmukhi-Regular",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "x3dmckXSYq-Uqjc048JUF7Jvly7HAQsyA2Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Gurmukhi",
+          "type": "Italic",
+          "full_name": "Tiro Gurmukhi Italic",
+          "post_script_name": "TiroGurmukhi-Italic",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "x3d4ckXSYq-Uqjc048JUF7JvpyzNBSk3E2YljQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

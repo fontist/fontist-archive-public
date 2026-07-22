@@ -1,0 +1,58 @@
+{
+  "slug": "google/adamina",
+  "name": "adamina",
+  "description": "Adamina is a typeface designed for text setting in small sizes. For this purpose the x-height is increased and contrast lowered. Proportions are transitional and compact. Refined design features like one-sided flaring and asymmetrical serifs are there to provide a pleasant reading experience. Designed by Alexei Vanyashin for Cyreal. To contribute to the project, visit github.com/cyrealtype/Adamina Updated: January 2016 to Version 1.012, to correct GPOS table (enabling kerning.)",
+  "homepage": "https://fonts.google.com/specimen/Adamina",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Adamina'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Adamina",
+      "files": [
+        "https://fonts.gstatic.com/s/adamina/v22/j8_r6-DH1bjoc-dwu-reETl4Bno.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/adamina/v22/j8_r6-DH1bjoc-dwu-reETl4Bno.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Adamina",
+      "files": [
+        "https://fonts.gstatic.com/s/adamina/v22/j8_r6-DH1bjoc-dwu-_eETl4Bno.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/adamina/v22/j8_r6-DH1bjoc-dwu-_eETl4Bno.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Adamina",
+      "styles": [
+        {
+          "family_name": "Adamina",
+          "type": "Regular",
+          "full_name": "Adamina Regular",
+          "post_script_name": "Adamina-Regular",
+          "version": "1.013",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Adamina'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "j8_r6-DH1bjoc-dwu-reETl4Bno.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

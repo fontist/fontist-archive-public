@@ -1,0 +1,58 @@
+{
+  "slug": "google/pinyon_script",
+  "name": "pinyon_script",
+  "description": "Pinyon Script is a romantic round hand script-style font. It also features swashes that are confident and showy, somehow giving the type a feeling suggestive of the American West. Perhaps this is why, despite its refinement and aristocratic style, Pinyon Script manages to feel so friendly. Pinyon Script uses high stroke contrast and is very slanted, making it most suitable for use at larger sizes. After expanding the glyphset and language support in June 2022, Pinyon Script now supports African Pri, thanks to the 2024 update. To contribute, visit github.com/SorkinType/Pinyon .",
+  "homepage": "https://fonts.google.com/specimen/Pinyon+Script",
+  "copyright": "Copyright 2022 The PinyonScript Project Authors (https://github.com/SorkinType/Pinyon)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pinyon Script",
+      "files": [
+        "https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8aOLQO4bhiDY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8aOLQO4bhiDY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pinyon Script",
+      "files": [
+        "https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8aOfQO4bhiDY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pinyonscript/v24/6xKpdSJbL9-e9LuoeQiDRQR8aOfQO4bhiDY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pinyon Script",
+      "styles": [
+        {
+          "family_name": "Pinyon Script",
+          "type": "Regular",
+          "full_name": "Pinyon Script Regular",
+          "post_script_name": "PinyonScript-Regular",
+          "version": "1.008; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The PinyonScript Project Authors (https://github.com/SorkinType/Pinyon)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "6xKpdSJbL9-e9LuoeQiDRQR8aOLQO4bhiDY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

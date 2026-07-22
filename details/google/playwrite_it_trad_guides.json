@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_it_trad_guides",
+  "name": "playwrite_it_trad_guides",
+  "description": "Playwrite IT Trad Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+IT+Trad+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite IT Trad Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite IT Trad Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUBoV-e6yHgQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteittradguides/v2/SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUBoV-e6yHgQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite IT Trad Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite IT Trad Guides",
+          "type": "Regular",
+          "full_name": "Playwrite IT Trad Guides Regular",
+          "post_script_name": "PlaywriteITTradGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "SlGDmReYo5oYZX5BFVcEySBSPE50BiuP2AHaRsRUA4V-e6yHgQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

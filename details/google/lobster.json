@@ -1,0 +1,58 @@
+{
+  "slug": "google/lobster",
+  "name": "lobster",
+  "description": "The Lobster font took a different approach. The new OpenType format gives us the possibility to have multiple versions of each letter, and that's exactly what we are doing: Instead of compromising the design of our letters to force connections, we do what lettering artist do. We draw many versions of each letter and a lot of different letter-pairs (aka \"ligatures\") so we always use the best possible variation of each letter depending of the context of the letter inside each word. All this happens automatically in any browser that supports ligatures.",
+  "homepage": "https://fonts.google.com/specimen/Lobster",
+  "copyright": "Copyright 2010 The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lobster",
+      "files": [
+        "https://fonts.gstatic.com/s/lobster/v32/neILzCirqoswsqX9_oWsMqEzSJQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lobster/v32/neILzCirqoswsqX9_oWsMqEzSJQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lobster",
+      "files": [
+        "https://fonts.gstatic.com/s/lobster/v32/neILzCirqoswsqX9_oCsMqEzSJQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lobster/v32/neILzCirqoswsqX9_oCsMqEzSJQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lobster",
+      "styles": [
+        {
+          "family_name": "Lobster",
+          "type": "Regular",
+          "full_name": "Lobster Regular",
+          "post_script_name": "Lobster-Regular",
+          "version": "2.100",
+          "copyright": "Copyright 2010 The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "neILzCirqoswsqX9_oWsMqEzSJQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

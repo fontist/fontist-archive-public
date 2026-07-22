@@ -1,0 +1,77 @@
+{
+  "slug": "google/arapey",
+  "name": "arapey",
+  "description": "Arapey (Ah-ra-pay) is a contemporary modern typeface. The first sketches of this typography were made during a vacation in Arapey, a small town the north of Uruguay, hence its name. While this font style has reminiscences of a Bodoni, the structures, soft lines and finishes give the words that use it a calm and distinguished feeling. The italics are gentle, rhythmic, and bring a special glamour to both text use and titles.",
+  "homepage": "https://fonts.google.com/specimen/Arapey",
+  "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Arapey\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Arapey",
+      "files": [
+        "https://fonts.gstatic.com/s/arapey/v17/-W__XJn-UDDA2RC6Z9AcZkIzeg.ttf",
+        "https://fonts.gstatic.com/s/arapey/v17/-W_9XJn-UDDA2RCKZdoYREcjeo0k.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arapey/v17/-W__XJn-UDDA2RC6Z9AcZkIzeg.ttf",
+        "https://fonts.gstatic.com/s/arapey/v17/-W_9XJn-UDDA2RCKZdoYREcjeo0k.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Arapey",
+      "files": [
+        "https://fonts.gstatic.com/s/arapey/v17/-W__XJn-UDDA2RC6YtAcZkIzeg.woff2",
+        "https://fonts.gstatic.com/s/arapey/v17/-W_9XJn-UDDA2RCKZdodREcjeo0k.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arapey/v17/-W__XJn-UDDA2RC6YtAcZkIzeg.woff2",
+        "https://fonts.gstatic.com/s/arapey/v17/-W_9XJn-UDDA2RCKZdodREcjeo0k.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arapey",
+      "styles": [
+        {
+          "family_name": "Arapey",
+          "type": "Regular",
+          "full_name": "Arapey Regular",
+          "post_script_name": "Arapey-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Arapey\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-W__XJn-UDDA2RC6Z9AcZkIzeg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arapey",
+          "type": "Italic",
+          "full_name": "Arapey Italic",
+          "post_script_name": "Arapey-Italic",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Arapey\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-W_9XJn-UDDA2RCKZdoYREcjeo0k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

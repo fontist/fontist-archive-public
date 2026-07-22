@@ -1,0 +1,58 @@
+{
+  "slug": "google/do_hyeon",
+  "name": "do_hyeon",
+  "description": "Do Hyeon Is a Korean and Latin font",
+  "homepage": "https://fonts.google.com/specimen/Do+Hyeon",
+  "copyright": "Copyright 2018 The Do Hyeon Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Do Hyeon",
+      "files": [
+        "https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HFE3ZwaH__-C.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HFE3ZwaH__-C.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Do Hyeon",
+      "files": [
+        "https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HFEyZwaH__-C.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dohyeon/v21/TwMN-I8CRRU2zM86HFEyZwaH__-C.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Do Hyeon",
+      "styles": [
+        {
+          "family_name": "Do Hyeon",
+          "type": "Regular",
+          "full_name": "Do Hyeon Regular",
+          "post_script_name": "DoHyeon-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2018 The Do Hyeon Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMN-I8CRRU2zM86HFE3ZwaH__-C.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

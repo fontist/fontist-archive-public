@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_grantha",
+  "name": "noto_sans_grantha",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Grantha is an unmodulated (“sans serif”) design for texts in the Indic Grantha script. It has 478 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Grantha",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/grantha)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Grantha",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansgrantha/v20/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8cFeulHc6N.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansgrantha/v20/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8cFeulHc6N.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Grantha",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansgrantha/v20/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansgrantha/v20/3y976akwcCjmsU8NDyrKo3IQfQ4o-r8ZFeulHc6N.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Grantha",
+      "styles": [
+        {
+          "family_name": "Noto Sans Grantha",
+          "type": "Regular",
+          "full_name": "Noto Sans Grantha Regular",
+          "post_script_name": "NotoSansGrantha-Regular",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/grantha)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "3y976akwcCjmsU8NDyrKo3IQfQ4o-r8cFeulHc6N.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

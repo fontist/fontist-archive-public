@@ -1,0 +1,58 @@
+{
+  "slug": "google/new_amsterdam",
+  "name": "new_amsterdam",
+  "description": "New Amsterdam font family",
+  "homepage": "https://fonts.google.com/specimen/New+Amsterdam",
+  "copyright": "Copyright 2024 The New Amsterdam Project Authors (https://github.com/vladimirnikolic1/NewAmsterdam)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "New Amsterdam",
+      "files": [
+        "https://fonts.gstatic.com/s/newamsterdam/v1/YA9Vr02Y5lucHqUlbEe51kBtl7mGiv_Q7dA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/newamsterdam/v1/YA9Vr02Y5lucHqUlbEe51kBtl7mGiv_Q7dA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "New Amsterdam",
+      "files": [
+        "https://fonts.gstatic.com/s/newamsterdam/v1/YA9Vr02Y5lucHqUlbEe51kBtl7yGiv_Q7dA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/newamsterdam/v1/YA9Vr02Y5lucHqUlbEe51kBtl7yGiv_Q7dA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "New Amsterdam",
+      "styles": [
+        {
+          "family_name": "New Amsterdam",
+          "type": "Regular",
+          "full_name": "New Amsterdam Regular",
+          "post_script_name": "NewAmsterdam-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The New Amsterdam Project Authors (https://github.com/vladimirnikolic1/NewAmsterdam)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "YA9Vr02Y5lucHqUlbEe51kBtl7mGiv_Q7dA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

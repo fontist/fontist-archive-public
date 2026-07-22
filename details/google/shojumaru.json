@@ -1,0 +1,58 @@
+{
+  "slug": "google/shojumaru",
+  "name": "shojumaru",
+  "description": "Shojumaru draws inspiration from a movie poster for a 1957 film titled Sayonara, starring Marlon Brando. It breaks the formula of a chop suey style by mixing chop suey and traditional letterforms to create a powerful and unique letterforms all its own.",
+  "homepage": "https://fonts.google.com/specimen/Shojumaru",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Shojumaru\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shojumaru",
+      "files": [
+        "https://fonts.gstatic.com/s/shojumaru/v16/rax_HiWfutkLLnaKCtlMBBJek0vA8A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shojumaru/v16/rax_HiWfutkLLnaKCtlMBBJek0vA8A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shojumaru",
+      "files": [
+        "https://fonts.gstatic.com/s/shojumaru/v16/rax_HiWfutkLLnaKCtlMARJek0vA8A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shojumaru/v16/rax_HiWfutkLLnaKCtlMARJek0vA8A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shojumaru",
+      "styles": [
+        {
+          "family_name": "Shojumaru",
+          "type": "Regular",
+          "full_name": "Shojumaru",
+          "post_script_name": "Shojumaru-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name \"Shojumaru\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax_HiWfutkLLnaKCtlMBBJek0vA8A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/convergence",
+  "name": "convergence",
+  "description": "Convergence is a low contrast Upright Italic Sans Serif Typeface with a large x-height. It was created by two designers with very different ideas, who took advantage of their divergent criteria to draw glyphs that made the Upright and Italic styles converge without mixing them. In this way, it was possible to converge the inclination of an Upright Sans Serif with a Sans Serif Italic. Looking at the font in detail, the bottom halves of the glyphs have Transitive serifs while the upper halves conserve the Sans Serif terminals. Other specific details can be seen in the a, g, and e glyphs, which have an Italic structure, not an Upright one. In addition, the glyph for the letter r has a relatively closed instroke. The references used to develop this font were Bree from TypeTogether, Parisine de Porchez Typofonderie, and, undeniably, Ludovico Degli Arrighi's manuscript about the structure the \"humanistic cursive\" that is Convergence. Designed by Nicolas Silva ( @zar_nicolas20 ) and John Vargas ( @vargas74 )",
+  "homepage": "https://fonts.google.com/specimen/Convergence",
+  "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com> and John Vargas Beltran <http://www.johnvargasbeltran.com/>, with Reserved Font Names \"Convergence\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Convergence",
+      "files": [
+        "https://fonts.gstatic.com/s/convergence/v16/rax5HiePvdgXPmmMHcIPYRhasU7Q8Cad.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/convergence/v16/rax5HiePvdgXPmmMHcIPYRhasU7Q8Cad.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Convergence",
+      "files": [
+        "https://fonts.gstatic.com/s/convergence/v16/rax5HiePvdgXPmmMHcIPYRhfsU7Q8Cad.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/convergence/v16/rax5HiePvdgXPmmMHcIPYRhfsU7Q8Cad.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Convergence",
+      "styles": [
+        {
+          "family_name": "Convergence",
+          "type": "Regular",
+          "full_name": "Convergence-Regular",
+          "post_script_name": "Convergence-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com> and John Vargas Beltran <http://www.johnvargasbeltran.com/>, with Reserved Font Names \"Convergence\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax5HiePvdgXPmmMHcIPYRhasU7Q8Cad.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

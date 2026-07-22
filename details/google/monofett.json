@@ -1,0 +1,58 @@
+{
+  "slug": "google/monofett",
+  "name": "monofett",
+  "description": "Monofett started as designs for custom mountain bike branding. As a font it is designed to be a bold, eye catching decal-like display face with a sense of an edgy but technical function. In 2023 the font have been updated, offering a better language support. To contribute, see github.com/googlefonts/monofett .",
+  "homepage": "https://fonts.google.com/specimen/Monofett",
+  "copyright": "Copyright 2010 The Monofett Project Authors (https://github.com/googlefonts/monofett), with Reserved Font Name Monofett.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Monofett",
+      "files": [
+        "https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW43SuRwr0VJ7.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW43SuRwr0VJ7.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Monofett",
+      "files": [
+        "https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW43XuRwr0VJ7.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monofett/v24/mFTyWbofw6zc9NtnW43XuRwr0VJ7.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Monofett",
+      "styles": [
+        {
+          "family_name": "Monofett",
+          "type": "Regular",
+          "full_name": "Monofett Regular",
+          "post_script_name": "Monofett-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.28]",
+          "copyright": "Copyright 2010 The Monofett Project Authors (https://github.com/googlefonts/monofett), with Reserved Font Name Monofett.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "mFTyWbofw6zc9NtnW43SuRwr0VJ7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

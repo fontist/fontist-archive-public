@@ -1,0 +1,77 @@
+{
+  "slug": "google/playwrite_at_guides",
+  "name": "playwrite_at_guides",
+  "description": "Playwrite AT Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+AT+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite AT Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDcjSsYUVUjg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDcjSsYUVUjg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite AT Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDdzSsYUVUjg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/playwriteatguides/v1/QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDdzSsYUVUjg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite AT Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite AT Guides",
+          "type": "Regular",
+          "full_name": "Playwrite AT Guides Regular",
+          "post_script_name": "PlaywriteATGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "QdVKSS0gJR2xneUeQPfE-FVA1BlZQRpBRbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite AT Guides",
+          "type": "Italic",
+          "full_name": "Playwrite AT Guides Italic",
+          "post_script_name": "PlaywriteATGuides-Italic",
+          "version": "1.002",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "QdVISS0gJR2xneUeQPfE-FVA1BlZQRpBdboDcjSsYUVUjg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

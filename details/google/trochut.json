@@ -1,0 +1,96 @@
+{
+  "slug": "google/trochut",
+  "name": "trochut",
+  "description": "Trochut is a funny geometric typeface developed by Andreu Balius as an homage to Joan Trochut Blanchart (1920-1980) from its Bisonte type specimen. Useful for your cool magazine stuff, it also works quite well on posters, book jackets and other display uses on the web. Trochut currently includes Regular, Italic and Bold styles. More are available from TypeRepublic .",
+  "homepage": "https://fonts.google.com/specimen/Trochut",
+  "copyright": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Trochut",
+      "files": [
+        "https://fonts.gstatic.com/s/trochut/v24/CHyjV-fDDlP9bDIw5nSIfVIPLns.ttf",
+        "https://fonts.gstatic.com/s/trochut/v24/CHyhV-fDDlP9bDIw1naCeXAKPns8jw.ttf",
+        "https://fonts.gstatic.com/s/trochut/v24/CHymV-fDDlP9bDIw3sinWVokMnIllmA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trochut/v24/CHyjV-fDDlP9bDIw5nSIfVIPLns.ttf",
+        "https://fonts.gstatic.com/s/trochut/v24/CHyhV-fDDlP9bDIw1naCeXAKPns8jw.ttf",
+        "https://fonts.gstatic.com/s/trochut/v24/CHymV-fDDlP9bDIw3sinWVokMnIllmA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Trochut",
+      "files": [
+        "https://fonts.gstatic.com/s/trochut/v24/CHyjV-fDDlP9bDIw5nGIfVIPLns.woff2",
+        "https://fonts.gstatic.com/s/trochut/v24/CHyhV-fDDlP9bDIw1naCfHAKPns8jw.woff2",
+        "https://fonts.gstatic.com/s/trochut/v24/CHymV-fDDlP9bDIw3sinWV8kMnIllmA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trochut/v24/CHyjV-fDDlP9bDIw5nGIfVIPLns.woff2",
+        "https://fonts.gstatic.com/s/trochut/v24/CHyhV-fDDlP9bDIw1naCfHAKPns8jw.woff2",
+        "https://fonts.gstatic.com/s/trochut/v24/CHymV-fDDlP9bDIw3sinWV8kMnIllmA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Trochut",
+      "styles": [
+        {
+          "family_name": "Trochut",
+          "type": "Regular",
+          "full_name": "Trochut",
+          "post_script_name": "Trochut",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CHyjV-fDDlP9bDIw5nSIfVIPLns.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Trochut",
+          "type": "Italic",
+          "full_name": "Trochut Italic",
+          "post_script_name": "Trochut-Italic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CHyhV-fDDlP9bDIw1naCeXAKPns8jw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Trochut",
+          "type": "Bold",
+          "full_name": "Trochut Bold",
+          "post_script_name": "Trochut-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Andreu Balius (www.andreubalius.com|mail@andreubalius.com), with Reserved Font Name Trochut",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CHymV-fDDlP9bDIw3sinWVokMnIllmA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/hi_melody",
+  "name": "hi_melody",
+  "description": "Hi Melody is a Korean and Latin font.",
+  "homepage": "https://fonts.google.com/specimen/Hi+Melody",
+  "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hi Melody",
+      "files": [
+        "https://fonts.gstatic.com/s/himelody/v19/46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/himelody/v19/46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hi Melody",
+      "files": [
+        "https://fonts.gstatic.com/s/himelody/v19/46ktlbP8Vnz0pJcqCTbEem9E31BBGA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/himelody/v19/46ktlbP8Vnz0pJcqCTbEem9E31BBGA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hi Melody",
+      "styles": [
+        {
+          "family_name": "Hi Melody",
+          "type": "Regular",
+          "full_name": "Hi Melody Regular",
+          "post_script_name": "HiMelody-Regular",
+          "version": "3.00",
+          "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "46ktlbP8Vnz0pJcqCTbEf29E31BBGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

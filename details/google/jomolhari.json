@@ -1,0 +1,58 @@
+{
+  "slug": "google/jomolhari",
+  "name": "jomolhari",
+  "description": "Jomolhari is a free, Unicode compatible, Tibetan script font named after Mt Jomolhari on the border of Bhutan and Tibet. This font can be used for Tibetan and Dzongkha text. It was inspired by Bhutanese manuscript examples and was originally designed for use in publishing traditional Buddhist texts.",
+  "homepage": "https://fonts.google.com/specimen/Jomolhari",
+  "copyright": "Copyright (c) 2006 by Christopher Fynn. All rights reserved.",
+  "spdx_license": "OFL-1.0-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jomolhari",
+      "files": [
+        "https://fonts.gstatic.com/s/jomolhari/v21/EvONzA1M1Iw_CBd2hsQCF1IZKq5INg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jomolhari/v21/EvONzA1M1Iw_CBd2hsQCF1IZKq5INg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jomolhari",
+      "files": [
+        "https://fonts.gstatic.com/s/jomolhari/v21/EvONzA1M1Iw_CBd2hsQCElIZKq5INg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jomolhari/v21/EvONzA1M1Iw_CBd2hsQCElIZKq5INg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jomolhari",
+      "styles": [
+        {
+          "family_name": "Jomolhari",
+          "type": "Regular",
+          "full_name": "Jomolhari Regular",
+          "post_script_name": "Jomolhari-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2006 by Christopher Fynn. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EvONzA1M1Iw_CBd2hsQCF1IZKq5INg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/cossette_titre",
+  "name": "cossette_titre",
+  "description": "Cossette Titre font family",
+  "homepage": "https://fonts.google.com/specimen/Cossette+Titre",
+  "copyright": "Copyright 2025 The Cossette Titre Project Authors (https://github.com/googlefonts/cossette-fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cossette Titre",
+      "files": [
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hYGpvKz1nGbxMXUWz9OdPzuiEZrPeE8cA2.ttf",
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hbGpvKz1nGbxMXUWz9OdPzuhmlg9OM2tw_RXR-.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hYGpvKz1nGbxMXUWz9OdPzuiEZrPeE8cA2.ttf",
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hbGpvKz1nGbxMXUWz9OdPzuhmlg9OM2tw_RXR-.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cossette Titre",
+      "files": [
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hYGpvKz1nGbxMXUWz9OdPzuiEcrPeE8cA2.woff2",
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hbGpvKz1nGbxMXUWz9OdPzuhmlg9OJ2tw_RXR-.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hYGpvKz1nGbxMXUWz9OdPzuiEcrPeE8cA2.woff2",
+        "https://fonts.gstatic.com/s/cossettetitre/v3/11hbGpvKz1nGbxMXUWz9OdPzuhmlg9OJ2tw_RXR-.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cossette Titre",
+      "styles": [
+        {
+          "family_name": "Cossette Titre",
+          "type": "Regular",
+          "full_name": "Cossette Titre Regular",
+          "post_script_name": "CossetteTitre-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Cossette Titre Project Authors (https://github.com/googlefonts/cossette-fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "11hYGpvKz1nGbxMXUWz9OdPzuiEZrPeE8cA2.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cossette Titre",
+          "type": "Bold",
+          "full_name": "Cossette Titre Bold",
+          "post_script_name": "CossetteTitre-Bold",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Cossette Titre Project Authors (https://github.com/googlefonts/cossette-fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "11hbGpvKz1nGbxMXUWz9OdPzuhmlg9OM2tw_RXR-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

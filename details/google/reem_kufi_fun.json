@@ -1,0 +1,131 @@
+{
+  "slug": "google/reem_kufi_fun",
+  "name": "reem_kufi_fun",
+  "description": "Reem Kufi Fun is a Kufic typeface based on early Kufic (Mushafi) models, but retrofitted to the Fatimid Kufic grid and with borrowing from its forms. Reem Kufi Ink is largely based on the Kufic designs of the late master of Arabic calligraphy Mohammed Abdul Qadir who revived this art in the 20th century and formalised its rules. Reem Kufi Fun is particularly suitable for display settings, in titles or decorations. Due to its unmistakable old Kufic style, it gives a feeling of something old, historical, or Islamic. The Arabic component was designed by Khaled Hosny, who combined it with the Latin component by Santiago Orozco. Reem is an Arabic female name that literally means “a white deer,” and is also the name of Khaled's daughter. This font uses the COLRv0 and CPAL tables. Please visit the gf-guide color page to learn more about Color Fonts technology. To contribute, see github.com/alif-type/reem-kufi",
+  "homepage": "https://fonts.google.com/specimen/Reem+Kufi+Fun",
+  "copyright": "Copyright 2015-2022 The Reem Kufi Fun Project Authors (https://github.com/aliftype/reem-kufi).",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Reem Kufi Fun",
+      "files": [
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3nClrvqZzZXq.woff2",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYR3nClrvqZzZXq.woff2",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChob92XClrvqZzZXq.woff2",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChobE2XClrvqZzZXq.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3nClrvqZzZXq.woff2",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYR3nClrvqZzZXq.woff2",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChob92XClrvqZzZXq.woff2",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChobE2XClrvqZzZXq.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Reem Kufi Fun",
+      "files": [
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3nCgrvqZzZXq.ttf",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYR3nCgrvqZzZXq.ttf",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChob92XCgrvqZzZXq.ttf",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChobE2XCgrvqZzZXq.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3nCgrvqZzZXq.ttf",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYR3nCgrvqZzZXq.ttf",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChob92XCgrvqZzZXq.ttf",
+        "https://fonts.gstatic.com/s/reemkufifun/v13/uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChobE2XCgrvqZzZXq.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Reem Kufi Fun",
+      "styles": [
+        {
+          "family_name": "Reem Kufi Fun",
+          "type": "Regular",
+          "full_name": "Reem Kufi Fun Regular",
+          "post_script_name": "ReemKufiFun-Regular",
+          "version": "1.899",
+          "copyright": "Copyright 2015-2022 The Reem Kufi Fun Project Authors (https://github.com/aliftype/reem-kufi).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYj3nCgrvqZzZXq.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Reem Kufi Fun",
+          "type": "Bold",
+          "full_name": "Reem Kufi Fun Bold",
+          "post_script_name": "ReemKufiFun-Bold",
+          "version": "1.899",
+          "copyright": "Copyright 2015-2022 The Reem Kufi Fun Project Authors (https://github.com/aliftype/reem-kufi).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChobE2XCgrvqZzZXq.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reem Kufi Fun Medium",
+      "styles": [
+        {
+          "family_name": "Reem Kufi Fun Medium",
+          "type": "Regular",
+          "full_name": "Reem Kufi Fun Medium",
+          "post_script_name": "ReemKufiFun-Medium",
+          "version": "1.899",
+          "copyright": "Copyright 2015-2022 The Reem Kufi Fun Project Authors (https://github.com/aliftype/reem-kufi).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChoYR3nCgrvqZzZXq.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reem Kufi Fun SemiBold",
+      "styles": [
+        {
+          "family_name": "Reem Kufi Fun SemiBold",
+          "type": "Regular",
+          "full_name": "Reem Kufi Fun SemiBold",
+          "post_script_name": "ReemKufiFun-SemiBold",
+          "version": "1.899",
+          "copyright": "Copyright 2015-2022 The Reem Kufi Fun Project Authors (https://github.com/aliftype/reem-kufi).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "uK_m4rOFYukkmyUEbF43fIryZEk5qRZ8nrKChob92XCgrvqZzZXq.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

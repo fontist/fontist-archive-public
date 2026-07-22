@@ -1,0 +1,58 @@
+{
+  "slug": "google/sankofa_display",
+  "name": "sankofa_display",
+  "description": "Sankofa Display is a captivating African typeface that draws inspiration from a rich tapestry of African art styles, with a particular focus on straight-line geometric designs. This typeface embodies the essence of Africa's diverse cultural heritage, blending elements from various artistic traditions. To contribute, see github.com/batsimadz/Sankofa-Display .",
+  "homepage": "https://fonts.google.com/specimen/Sankofa+Display",
+  "copyright": "Copyright 2024 The Sankofa Display Project Authors (https://github.com/batsimadz/Sankofa-Display)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sankofa Display",
+      "files": [
+        "https://fonts.gstatic.com/s/sankofadisplay/v2/Ktk1ALSRd4LucUDghJ2rTqXOoh33F6mZVY9Y5w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sankofadisplay/v2/Ktk1ALSRd4LucUDghJ2rTqXOoh33F6mZVY9Y5w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sankofa Display",
+      "files": [
+        "https://fonts.gstatic.com/s/sankofadisplay/v2/Ktk1ALSRd4LucUDghJ2rTqXOoh33EqmZVY9Y5w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sankofadisplay/v2/Ktk1ALSRd4LucUDghJ2rTqXOoh33EqmZVY9Y5w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sankofa Display",
+      "styles": [
+        {
+          "family_name": "Sankofa Display",
+          "type": "Regular",
+          "full_name": "Sankofa Display Regular",
+          "post_script_name": "SankofaDisplay-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Sankofa Display Project Authors (https://github.com/batsimadz/Sankofa-Display)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "Ktk1ALSRd4LucUDghJ2rTqXOoh33F6mZVY9Y5w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

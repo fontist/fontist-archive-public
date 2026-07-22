@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_serif_ottoman_siyaq",
+  "name": "noto_serif_ottoman_siyaq",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Ottoman Siyaq Numbers is a modulated (“serif”) design for the Arabic form of the Siyaq numeral system, used in Iran, Turkey, the Arabian Peninsula, and South Asia for accounting and finance. It has 63 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Ottoman+Siyaq",
+  "copyright": "Copyright 2022 Google LLC. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Serif Ottoman Siyaq",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Serif Ottoman Siyaq",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLI7gA00kAdA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifottomansiyaq/v2/fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLI7gA00kAdA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Ottoman Siyaq",
+      "styles": [
+        {
+          "family_name": "Noto Serif Ottoman Siyaq",
+          "type": "Regular",
+          "full_name": "Noto Serif Ottoman Siyaq Regular",
+          "post_script_name": "NotoSerifOttomanSiyaq-Regular",
+          "version": "1.006; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 Google LLC. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "fC1yPZ9IYnzRhTrrc4s8cSvYI0eozzaFOQ01qoHLJrgA00kAdA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

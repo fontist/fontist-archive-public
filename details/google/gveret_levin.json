@@ -1,0 +1,58 @@
+{
+  "slug": "google/gveret_levin",
+  "name": "gveret_levin",
+  "description": "Gveret Levin font family",
+  "homepage": "https://fonts.google.com/specimen/Gveret+Levin",
+  "copyright": "Copyright 2024 The Gveret Levin Project Authors (https://github.com/AlefAlefAlef/gveret-levin)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gveret Levin",
+      "files": [
+        "https://fonts.gstatic.com/s/gveretlevin/v4/0QInMXVI5YS9Rnn7ar449p-O85bS8ANesw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gveretlevin/v4/0QInMXVI5YS9Rnn7ar449p-O85bS8ANesw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gveret Levin",
+      "files": [
+        "https://fonts.gstatic.com/s/gveretlevin/v4/0QInMXVI5YS9Rnn7ar449p-O9pbS8ANesw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gveretlevin/v4/0QInMXVI5YS9Rnn7ar449p-O9pbS8ANesw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gveret Levin",
+      "styles": [
+        {
+          "family_name": "Gveret Levin",
+          "type": "Regular",
+          "full_name": "Gveret Levin Regular",
+          "post_script_name": "GveretLevin-Regular",
+          "version": "2.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Gveret Levin Project Authors (https://github.com/AlefAlefAlef/gveret-levin)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "0QInMXVI5YS9Rnn7ar449p-O85bS8ANesw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

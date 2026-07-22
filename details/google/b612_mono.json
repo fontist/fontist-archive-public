@@ -1,0 +1,115 @@
+{
+  "slug": "google/b612_mono",
+  "name": "b612_mono",
+  "description": "B612 is an highly legible open source font family, designed and tested to be used on aircraft cockpit screens. Its design makes it particularly suitable for degraded contexts (ensuring legibility and readability of data), with a positive effect on reducing visual fatigue and cognitive load. Particular attention was given to the uniformity of the typeface, whether being used for isolated terms, reading information on a map, mixing capital letters and numbers, waypoint lists, long or abbreviated texts, specific terms and data in the aeronautical field. In 2010, Airbus initiated a research collaboration with ENAC and Université de Toulouse III on a prospective study to define and validate an “Aeronautical Font”: the challenge was to improve the display of textual data information on all cockpit screens, concerning more specifically legibility, readability and reading comfort, and to enhance the overall cockpit consistency. The typographical research was conducted through iterations from experimentation to design. Two years later, Airbus came to Intactile DESIGN in order to design and develop the eight variants of the font. Baptized B612 in reference to the imaginary asteroid of the aviator Antoine de Saint‑Exupéry, the font has been optimised following a calligraphic approach, in order to preserve the readable qualities of humanist typefaces like réales and incises, but also the technical and functional image of sans serif or bitmap. B612 is a two-weight font family including roman and italic styles but also a monospaced variation, B612 Mono. It was designed in 2012 by Nicolas Chauveau, Thomas Paillot and Jonathan Favre-Lamarine from the design agency Intactile DESIGN , and Jean-Luc Vinot from ENAC (French National University of Civil Aviation) Interactive Informatics Team for Laurent Spaggiari from the Airbus Human Factors department — prior research by Jean‑Luc Vinot (DGAC/DSNA) and Sylvie Athènes (Université de Toulouse III). In 2017, Airbus agreed to publish the font with an open source license (Eclipse Public License) within the Polarsys project , an industry-oriented project hosted by the Eclipse foundation. B612 project was awarded the Observeur du Design: Industry Star in 2018. Updated 2019-03: Updated to latest upstream release. The B612 project is led by Polarsys, an Eclipse Working Group created by large industry players and by tools providers to collaborate on the creation and support of Open Source tools for the development of embedded systems. To contribute, see github.com/polarsys/b612",
+  "homepage": "https://fonts.google.com/specimen/B612+Mono",
+  "copyright": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "B612 Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK_Zq85QVWbN1eW6lJl1wTcquRTtg.ttf",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK5Zq85QVWbN1eW6lJV1Q7YiOFDtqtf.ttf",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayv4os9Pv7JGSg.ttf",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmKkZq85QVWbN1eW6lJV1TZkp8VLnbdWSg4x.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK_Zq85QVWbN1eW6lJl1wTcquRTtg.ttf",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK5Zq85QVWbN1eW6lJV1Q7YiOFDtqtf.ttf",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayv4os9Pv7JGSg.ttf",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmKkZq85QVWbN1eW6lJV1TZkp8VLnbdWSg4x.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "B612 Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK_Zq85QVWbN1eW6lJl0gTcquRTtg.woff2",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK5Zq85QVWbN1eW6lJV1Q7diOFDtqtf.woff2",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayv4p89Pv7JGSg.woff2",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmKkZq85QVWbN1eW6lJV1TZkp8VOnbdWSg4x.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK_Zq85QVWbN1eW6lJl0gTcquRTtg.woff2",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK5Zq85QVWbN1eW6lJV1Q7diOFDtqtf.woff2",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmK6Zq85QVWbN1eW6lJdayv4p89Pv7JGSg.woff2",
+        "https://fonts.gstatic.com/s/b612mono/v16/kmKkZq85QVWbN1eW6lJV1TZkp8VOnbdWSg4x.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "B612 Mono",
+      "styles": [
+        {
+          "family_name": "B612 Mono",
+          "type": "Regular",
+          "full_name": "B612 Mono Regular",
+          "post_script_name": "B612Mono-Regular",
+          "version": "1.008",
+          "copyright": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmK_Zq85QVWbN1eW6lJl1wTcquRTtg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "B612 Mono",
+          "type": "Italic",
+          "full_name": "B612 Mono Italic",
+          "post_script_name": "B612Mono-Italic",
+          "version": "1.008",
+          "copyright": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmK5Zq85QVWbN1eW6lJV1Q7YiOFDtqtf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "B612 Mono",
+          "type": "Bold",
+          "full_name": "B612 Mono Bold",
+          "post_script_name": "B612Mono-Bold",
+          "version": "1.008",
+          "copyright": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmK6Zq85QVWbN1eW6lJdayv4os9Pv7JGSg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "B612 Mono",
+          "type": "Bold Italic",
+          "full_name": "B612 Mono Bold Italic",
+          "post_script_name": "B612Mono-BoldItalic",
+          "version": "1.008",
+          "copyright": "Copyright 2012 The B612 Project Authors (https://github.com/polarsys/b612)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmKkZq85QVWbN1eW6lJV1TZkp8VLnbdWSg4x.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/staatliches",
+  "name": "staatliches",
+  "description": "Staatliches is a clean cut display face with charmingly unconventional proportions. The alphabet was designed in response to Herbert Bayer’s title lettering on the cover of the first Bauhaus exhibition catalogue , which was published in 1923. It features full sets of capitals, numbers, punctuation, and symbols, in addition to alternate widths, discretionary ligatures, and common Latin accents.",
+  "homepage": "https://fonts.google.com/specimen/Staatliches",
+  "copyright": "Copyright 2018 The Staatliches Project Authors (https://github.com/googlefonts/staatliches)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Staatliches",
+      "files": [
+        "https://fonts.gstatic.com/s/staatliches/v15/HI_OiY8KO6hCsQSoAPmtMbectJG9O9PS.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/staatliches/v15/HI_OiY8KO6hCsQSoAPmtMbectJG9O9PS.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Staatliches",
+      "files": [
+        "https://fonts.gstatic.com/s/staatliches/v15/HI_OiY8KO6hCsQSoAPmtMbeZtJG9O9PS.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/staatliches/v15/HI_OiY8KO6hCsQSoAPmtMbeZtJG9O9PS.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Staatliches",
+      "styles": [
+        {
+          "family_name": "Staatliches",
+          "type": "Regular",
+          "full_name": "Staatliches Regular",
+          "post_script_name": "Staatliches-Regular",
+          "version": "1.000; ttfautohint (v1.8.2) -l 8 -r 50 -G 200 -x 14 -D latn -f none -a qsq -X \"\"",
+          "copyright": "Copyright 2018 The Staatliches Project Authors (https://github.com/googlefonts/staatliches)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_OiY8KO6hCsQSoAPmtMbectJG9O9PS.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

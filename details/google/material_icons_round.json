@@ -1,0 +1,57 @@
+{
+  "slug": "google/material_icons_round",
+  "name": "material_icons_round",
+  "description": "Material Icons Round font family",
+  "homepage": "https://fonts.google.com/specimen/Material+Icons+Round",
+  "copyright": "Copyright 2019 Google LLC. All Rights Reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "otf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Material Icons Round",
+      "files": [
+        "https://fonts.gstatic.com/s/materialiconsround/v109/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmMq_fTTvg-.otf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/materialiconsround/v109/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmMq_fTTvg-.otf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Material Icons Round",
+      "files": [
+        "https://fonts.gstatic.com/s/materialiconsround/v109/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmPq_fTTvg-.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/materialiconsround/v109/LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmPq_fTTvg-.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Material Icons Round",
+      "styles": [
+        {
+          "family_name": "Material Icons Round",
+          "type": "Regular",
+          "full_name": "Material Icons Round Regular",
+          "post_script_name": "MaterialIconsRound-Regular",
+          "version": "2022-08-02T22:00:44.367947",
+          "copyright": "Copyright 2019 Google LLC. All Rights Reserved.",
+          "variable_font": false,
+          "font": "LDItaoyNOAY6Uewc665JcIzCKsKc_M9flwmMq_fTTvg-.otf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

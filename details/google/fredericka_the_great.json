@@ -1,0 +1,58 @@
+{
+  "slug": "google/fredericka_the_great",
+  "name": "fredericka_the_great",
+  "description": "Fredericka recalls my college days of nights spent creating handdrawn presentation boards, architectural sketches and student union posters. She's fun, she's casual, she's preppy, she's classic, she's Great! Designed by Crystal Kluge of Tart Workshop.",
+  "homepage": "https://fonts.google.com/specimen/Fredericka+the+Great",
+  "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Fredericka the Great\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fredericka the Great",
+      "files": [
+        "https://fonts.gstatic.com/s/frederickathegreat/v23/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV-9Skz7Ylch2L.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/frederickathegreat/v23/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV-9Skz7Ylch2L.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fredericka the Great",
+      "files": [
+        "https://fonts.gstatic.com/s/frederickathegreat/v23/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV-9Shz7Ylch2L.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/frederickathegreat/v23/9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV-9Shz7Ylch2L.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fredericka the Great",
+      "styles": [
+        {
+          "family_name": "Fredericka the Great",
+          "type": "Regular",
+          "full_name": "Fredericka the Great",
+          "post_script_name": "FrederickatheGreat-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Fredericka the Great\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "9Bt33CxNwt7aOctW2xjbCstzwVKsIBVV-9Skz7Ylch2L.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "google/tinos",
+  "name": "tinos",
+  "description": "Tinos was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms. Updated in May 2013 with improved hinting and released under the Apache 2.0 license.",
+  "homepage": "https://fonts.google.com/specimen/Tinos",
+  "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tinos",
+      "files": [
+        "https://fonts.gstatic.com/s/tinos/v25/buE4poGnedXvwgX8dGVh8TI-.ttf",
+        "https://fonts.gstatic.com/s/tinos/v25/buE2poGnedXvwjX-fmFD9CI-4NU.ttf",
+        "https://fonts.gstatic.com/s/tinos/v25/buE1poGnedXvwj1AW0Fp2i43-cxL.ttf",
+        "https://fonts.gstatic.com/s/tinos/v25/buEzpoGnedXvwjX-Rt1s0CoV_NxLeiw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tinos/v25/buE4poGnedXvwgX8dGVh8TI-.ttf",
+        "https://fonts.gstatic.com/s/tinos/v25/buE2poGnedXvwjX-fmFD9CI-4NU.ttf",
+        "https://fonts.gstatic.com/s/tinos/v25/buE1poGnedXvwj1AW0Fp2i43-cxL.ttf",
+        "https://fonts.gstatic.com/s/tinos/v25/buEzpoGnedXvwjX-Rt1s0CoV_NxLeiw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tinos",
+      "files": [
+        "https://fonts.gstatic.com/s/tinos/v25/buE4poGnedXvwgX5dGVh8TI-.woff2",
+        "https://fonts.gstatic.com/s/tinos/v25/buE2poGnedXvwjX-fmRD9CI-4NU.woff2",
+        "https://fonts.gstatic.com/s/tinos/v25/buE1poGnedXvwj1AW0Fs2i43-cxL.woff2",
+        "https://fonts.gstatic.com/s/tinos/v25/buEzpoGnedXvwjX-Rt1s0C8V_NxLeiw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tinos/v25/buE4poGnedXvwgX5dGVh8TI-.woff2",
+        "https://fonts.gstatic.com/s/tinos/v25/buE2poGnedXvwjX-fmRD9CI-4NU.woff2",
+        "https://fonts.gstatic.com/s/tinos/v25/buE1poGnedXvwj1AW0Fs2i43-cxL.woff2",
+        "https://fonts.gstatic.com/s/tinos/v25/buEzpoGnedXvwjX-Rt1s0C8V_NxLeiw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tinos",
+      "styles": [
+        {
+          "family_name": "Tinos",
+          "type": "Regular",
+          "full_name": "Tinos Regular",
+          "post_script_name": "Tinos-Regular",
+          "version": "1.23",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "buE4poGnedXvwgX8dGVh8TI-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tinos",
+          "type": "Italic",
+          "full_name": "Tinos Italic",
+          "post_script_name": "Tinos-Italic",
+          "version": "1.23",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "buE2poGnedXvwjX-fmFD9CI-4NU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tinos",
+          "type": "Bold",
+          "full_name": "Tinos Bold",
+          "post_script_name": "Tinos-Bold",
+          "version": "1.23",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "buE1poGnedXvwj1AW0Fp2i43-cxL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tinos",
+          "type": "Bold Italic",
+          "full_name": "Tinos Bold Italic",
+          "post_script_name": "Tinos-BoldItalic",
+          "version": "1.23",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "buEzpoGnedXvwjX-Rt1s0CoV_NxLeiw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

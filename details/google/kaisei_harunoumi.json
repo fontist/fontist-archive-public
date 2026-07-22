@@ -1,0 +1,101 @@
+{
+  "slug": "google/kaisei_harunoumi",
+  "name": "kaisei_harunoumi",
+  "description": "Kaisei Haru No Umi's Kana is an organic wavy design that gives natural and friendly look. Katakana is designed slightly smaller to give more old-style typesetting impression. Better when set in text size. To contribute to the project, visit https://github.com/FontKai-Kaisei/Kaisei",
+  "homepage": "https://fonts.google.com/specimen/Kaisei+HarunoUmi",
+  "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kaisei HarunoUmi",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_RiZQSLqBQoAHhK_C6N_nzy_jcGsv5sM8u3mk.ttf",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QlMcFwmC9FAU.ttf",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWlMcFwmC9FAU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_RiZQSLqBQoAHhK_C6N_nzy_jcGsv5sM8u3mk.ttf",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QlMcFwmC9FAU.ttf",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWlMcFwmC9FAU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kaisei HarunoUmi",
+      "files": [
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_RiZQSLqBQoAHhK_C6N_nzy_jcGs75sM8u3mk.woff2",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QlMIFwmC9FAU.woff2",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWlMIFwmC9FAU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_RiZQSLqBQoAHhK_C6N_nzy_jcGs75sM8u3mk.woff2",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QlMIFwmC9FAU.woff2",
+        "https://fonts.gstatic.com/s/kaiseiharunoumi/v11/HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWlMIFwmC9FAU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kaisei HarunoUmi",
+      "styles": [
+        {
+          "family_name": "Kaisei HarunoUmi",
+          "type": "Regular",
+          "full_name": "Kaisei HarunoUmi Regular",
+          "post_script_name": "KaiseiHarunoUmi-Regular",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_RiZQSLqBQoAHhK_C6N_nzy_jcGsv5sM8u3mk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Kaisei HarunoUmi",
+          "type": "Bold",
+          "full_name": "Kaisei HarunoUmi Bold",
+          "post_script_name": "KaiseiHarunoUmi-Bold",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_WiZQSLqBQoAHhK_C6N_nzy_jcInfWlMcFwmC9FAU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kaisei HarunoUmi Medium",
+      "styles": [
+        {
+          "family_name": "Kaisei HarunoUmi Medium",
+          "type": "Regular",
+          "full_name": "Kaisei HarunoUmi Medium",
+          "post_script_name": "KaiseiHarunoUmi-Medium",
+          "version": "5.003",
+          "copyright": "Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_WiZQSLqBQoAHhK_C6N_nzy_jcIj_QlMcFwmC9FAU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/lustria",
+  "name": "lustria",
+  "description": "Lustria is a rounded-serif text typeface with details that make it interesting to use at larger display sizes as well. Started in 1999, this typeface has been aged to perfection and is finally ready for public consumption.",
+  "homepage": "https://fonts.google.com/specimen/Lustria",
+  "copyright": "Copyright (c) 2011, Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name Lustria",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lustria",
+      "files": [
+        "https://fonts.gstatic.com/s/lustria/v14/9oRONYodvDEyjuhOrCg5MtPyAcg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lustria/v14/9oRONYodvDEyjuhOrCg5MtPyAcg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lustria",
+      "files": [
+        "https://fonts.gstatic.com/s/lustria/v14/9oRONYodvDEyjuhOrC05MtPyAcg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lustria/v14/9oRONYodvDEyjuhOrC05MtPyAcg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lustria",
+      "styles": [
+        {
+          "family_name": "Lustria",
+          "type": "Regular",
+          "full_name": "Lustria",
+          "post_script_name": "Lustria-Regular",
+          "version": "001.001",
+          "copyright": "Copyright (c) 2011, Matthew Desmond (http://www.madtype.com | mattdesmond@gmail.com), with Reserved Font Name Lustria",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "9oRONYodvDEyjuhOrCg5MtPyAcg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

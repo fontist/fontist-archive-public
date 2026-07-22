@@ -1,0 +1,54 @@
+{
+  "slug": "sil/ezra_sil",
+  "name": "Ezra SIL",
+  "description": "Ezra SIL",
+  "homepage": "http://www.sil.org",
+  "copyright": "Hebrew layout intelligence copyright (c) 2003 & 2007 Ralph Hancock (http://www.hancock.dircon.co.uk/) and John Hudson (http://www.tiro.com), and licensed under the MIT/X11 License.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Ezra_SIL.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip",
+        "https://web.archive.org/web/20260505155322/https://software.sil.org/downloads/r/ezra/EzraSIL-2.51.zip"
+      ],
+      "sha256": "f16bcb3ec4473ac6a9f138ee0dbde7cc2f835e93a90cbe8649b3f32677760cc1",
+      "file_size": 380503
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ezra SIL",
+      "styles": [
+        {
+          "family_name": "Ezra SIL",
+          "type": "Regular",
+          "full_name": "Ezra SIL",
+          "post_script_name": "EzraSIL",
+          "version": "2.51, 2007",
+          "copyright": "Hebrew layout intelligence copyright (c) 2003 & 2007 Ralph Hancock (http://www.hancock.dircon.co.uk/) and John Hudson (http://www.tiro.com), and licensed under the MIT/X11 License.",
+          "description": "This type design is based on the typeface of the Biblia Hebraica Stuttgartensia (c) 1967/77,1983.",
+          "font": "SILEOT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Ezra SIL SR",
+      "styles": [
+        {
+          "family_name": "Ezra SIL SR",
+          "type": "Regular",
+          "full_name": "Ezra SIL SR",
+          "post_script_name": "EzraSILSR",
+          "version": "2.51; 2007",
+          "copyright": "Hebrew layout intelligence copyright (c) 2003 & 2007 Ralph Hancock (http://www.hancock.dircon.co.uk/) and John Hudson (http://www.tiro.com), and licensed under the MIT/X11 License.",
+          "description": "This type design is based on the typeface of the Biblia Hebraica Stuttgartensia (c) 1967/77,1983, but with modified cantillation.",
+          "font": "SILEOTSR.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

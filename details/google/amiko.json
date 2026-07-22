@@ -1,0 +1,101 @@
+{
+  "slug": "google/amiko",
+  "name": "amiko",
+  "description": "Amiko is a clean and utilitarian Devanagari and Latin typeface family, specifically designed for maximum legibility at the smallest possible text sizes. It is intended for body text on the web and low resolution screens. It was designed in a studio collaboration by Pablo Impallari, Rodrigo Fuenzalida and Andres Torresi. Thank you to Pria Ravichandran, Erin McLaughlin, Girish Dalvi, Dan Reynolds and all those who have shared their knowledge and helped with reviews to improve Amiko. The Amiko project is led by Impallari Type, a type design foundry based in Rosario, Argentina. To contribute, see github.com/impallari/Amiko-Devanagari",
+  "homepage": "https://fonts.google.com/specimen/Amiko",
+  "copyright": "Copyright (c) 2014, Impallari Type (www.impallari.com).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Amiko",
+      "files": [
+        "https://fonts.gstatic.com/s/amiko/v15/WwkQxPq1DFK04tqlc17MMZgJ.ttf",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uJ9XXrEGoQAUco5.ttf",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uIZXHrEGoQAUco5.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amiko/v15/WwkQxPq1DFK04tqlc17MMZgJ.ttf",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uJ9XXrEGoQAUco5.ttf",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uIZXHrEGoQAUco5.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Amiko",
+      "files": [
+        "https://fonts.gstatic.com/s/amiko/v15/WwkQxPq1DFK04tqgc17MMZgJ.woff2",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uJ9XXrBGoQAUco5.woff2",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uIZXHrBGoQAUco5.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amiko/v15/WwkQxPq1DFK04tqgc17MMZgJ.woff2",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uJ9XXrBGoQAUco5.woff2",
+        "https://fonts.gstatic.com/s/amiko/v15/WwkdxPq1DFK04uIZXHrBGoQAUco5.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Amiko",
+      "styles": [
+        {
+          "family_name": "Amiko",
+          "type": "Regular",
+          "full_name": "Amiko Regular",
+          "post_script_name": "Amiko-Regular",
+          "version": "1.001; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2014, Impallari Type (www.impallari.com).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkQxPq1DFK04tqlc17MMZgJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amiko",
+          "type": "Bold",
+          "full_name": "Amiko Bold",
+          "post_script_name": "Amiko-Bold",
+          "version": "1.001; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2014, Impallari Type (www.impallari.com).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkdxPq1DFK04uIZXHrEGoQAUco5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amiko SemiBold",
+      "styles": [
+        {
+          "family_name": "Amiko SemiBold",
+          "type": "Regular",
+          "full_name": "Amiko SemiBold",
+          "post_script_name": "Amiko-SemiBold",
+          "version": "1.001; ttfautohint (v1.3)",
+          "copyright": "Copyright (c) 2014, Impallari Type (www.impallari.com).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkdxPq1DFK04uJ9XXrEGoQAUco5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

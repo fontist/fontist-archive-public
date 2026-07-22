@@ -1,0 +1,58 @@
+{
+  "slug": "google/shrikhand",
+  "name": "shrikhand",
+  "description": "Shrikhand supports the Gujarati and Latin writing systems. The name (શ્રીખંડ) is a sweet and creamy Gujarati dessert that is a particular favourite of the designer, Jonny Pinhorn. In the three or four years prior to the initial development of this font in June 2015, Jonny lived in Ahmedabad, Gujarat, working for Indian Type Foundry. During this time India had a profound effect on his design philosophy and general worldview. Shrikhand is the culmination of three years absorbing the colourful and vibrant hand-painted lettering that can be seen on the streets in Gujarat. Big, bold, and unapologetic, Shrikhand is a display type that evolved from discussions with colleagues about how good the Gujarati script looks when it is free to be as curvaceous and expressive as possible. To contribute, see github.com/jonpinhorn/shrikhand",
+  "homepage": "https://fonts.google.com/specimen/Shrikhand",
+  "copyright": "Copyright (c) 2015 Jonny Pinhorn (jonpinhorn.typedesign@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shrikhand",
+      "files": [
+        "https://fonts.gstatic.com/s/shrikhand/v17/a8IbNovtLWfR7T7bMJwbBIiQ0zhMtA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shrikhand/v17/a8IbNovtLWfR7T7bMJwbBIiQ0zhMtA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shrikhand",
+      "files": [
+        "https://fonts.gstatic.com/s/shrikhand/v17/a8IbNovtLWfR7T7bMJwbAYiQ0zhMtA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shrikhand/v17/a8IbNovtLWfR7T7bMJwbAYiQ0zhMtA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shrikhand",
+      "styles": [
+        {
+          "family_name": "Shrikhand",
+          "type": "Regular",
+          "full_name": "Shrikhand Regular",
+          "post_script_name": "Shrikhand-Regular",
+          "version": "1.001;PS 1.001;hotconv 1.0.88;makeotf.lib2.5.647800",
+          "copyright": "Copyright (c) 2015 Jonny Pinhorn (jonpinhorn.typedesign@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "a8IbNovtLWfR7T7bMJwbBIiQ0zhMtA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

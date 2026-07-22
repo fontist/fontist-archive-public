@@ -1,0 +1,58 @@
+{
+  "slug": "google/varela",
+  "name": "varela",
+  "description": "Varela is a modern sans-serif font that blends styles of many great typefaces. Its uniqueness stems from vertical cuts on lowercase letters such as \"a, c, e, g, s\" and uppercase letters such as \"C, G, J, S\". Because it is extremely clean and minimalistic in design, it is able to sit well in body text at small sizes, or be used for headlines and menu items. Varela is a great font for anything containing text or content.",
+  "homepage": "https://fonts.google.com/specimen/Varela",
+  "copyright": "Copyright (c) 2011 by Admix Designs. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Varela",
+      "files": [
+        "https://fonts.gstatic.com/s/varela/v17/DPEtYwqExx0AWHXJBBQFfvzDsQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/varela/v17/DPEtYwqExx0AWHXJBBQFfvzDsQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Varela",
+      "files": [
+        "https://fonts.gstatic.com/s/varela/v17/DPEtYwqExx0AWHXJARQFfvzDsQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/varela/v17/DPEtYwqExx0AWHXJARQFfvzDsQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Varela",
+      "styles": [
+        {
+          "family_name": "Varela",
+          "type": "Regular",
+          "full_name": "Varela",
+          "post_script_name": "Varela",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Admix Designs. All rights reserved.",
+          "description": "Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Varela.\r\r- This Font Software is licensed under the SIL Open Font License, Version 1.1.\r- This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "DPEtYwqExx0AWHXJBBQFfvzDsQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

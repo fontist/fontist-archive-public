@@ -1,0 +1,58 @@
+{
+  "slug": "google/freckle_face",
+  "name": "freckle_face",
+  "description": "Freckle Face draws its inspiration from Pillbury's Funny Face drink mix packages. I loved these drink mixes when I was a kid, not only because of the great flavors, but also the fun packaging. Who knew I'd renew the love affair later by finding myself loving the lettering too! Designed by Brian J. Bonislawsky for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Freckle+Face",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Freckle Face\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Freckle Face",
+      "files": [
+        "https://fonts.gstatic.com/s/freckleface/v16/AMOWz4SXrmKHCvXTohxY-YI0U1K2w9lb4g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/freckleface/v16/AMOWz4SXrmKHCvXTohxY-YI0U1K2w9lb4g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Freckle Face",
+      "files": [
+        "https://fonts.gstatic.com/s/freckleface/v16/AMOWz4SXrmKHCvXTohxY-YI0VlK2w9lb4g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/freckleface/v16/AMOWz4SXrmKHCvXTohxY-YI0VlK2w9lb4g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Freckle Face",
+      "styles": [
+        {
+          "family_name": "Freckle Face",
+          "type": "Regular",
+          "full_name": "Freckle Face",
+          "post_script_name": "FreckleFace-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Freckle Face\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOWz4SXrmKHCvXTohxY-YI0U1K2w9lb4g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

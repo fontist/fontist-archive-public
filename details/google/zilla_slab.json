@@ -1,0 +1,243 @@
+{
+  "slug": "google/zilla_slab",
+  "name": "zilla_slab",
+  "description": "Zilla Slab is Mozilla's core typeface, used for the Mozilla wordmark, headlines and throughout their designs. A contemporary slab serif, based on Typotheque's Tesla, it is constructed with smooth curves and true italics, which gives text an unexpectedly sophisticated industrial look and a friendly approachability in all weights. Designed by Typotheque , this project is led by Mozilla. To contribute, see github.com/mozilla/zilla-slab",
+  "homepage": "https://fonts.google.com/specimen/Zilla+Slab",
+  "copyright": "Copyright 2017, The Mozilla Foundation",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zilla Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYpEY2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CVHapXnp2fazkfg.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFWj0w_HyIRlE.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj86-F6NVlFqdA.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CDHepXnp2fazkfg.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYuUe2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CIHCpXnp2fazkfg.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CRHGpXnp2fazkfg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYpEY2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CVHapXnp2fazkfg.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFWj0w_HyIRlE.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj86-F6NVlFqdA.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CDHepXnp2fazkfg.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYuUe2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CIHCpXnp2fazkfg.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf2HSjWlhzbaw.ttf",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CRHGpXnp2fazkfg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zilla Slab",
+      "files": [
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYpEY2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CVHapW3p2fazkfg.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFWjgw_HyIRlE.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj86_V6NVlFqdA.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CDHepW3p2fazkfg.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYuUe2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CIHCpW3p2fazkfg.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CRHGpW3p2fazkfg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYpEY2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CVHapW3p2fazkfg.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa6ZfeM_74wlPZtksIFWjgw_HyIRlE.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa4ZfeM_74wlPZtksIFaj86_V6NVlFqdA.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYskZ2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CDHepW3p2fazkfg.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYuUe2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CIHCpW3p2fazkfg.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFa5ZfeM_74wlPZtksIFYoEf2HGjWlhzbaw.woff2",
+        "https://fonts.gstatic.com/s/zillaslab/v12/dFanZfeM_74wlPZtksIFaj8CRHGpW3p2fazkfg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zilla Slab Light",
+      "styles": [
+        {
+          "family_name": "Zilla Slab Light",
+          "type": "Regular",
+          "full_name": "Zilla Slab Light",
+          "post_script_name": "ZillaSlab-Light",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "variable_font": false,
+          "font": "dFa5ZfeM_74wlPZtksIFYpEY2HSjWlhzbaw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab Light",
+          "type": "Italic",
+          "full_name": "Zilla Slab Light Italic",
+          "post_script_name": "ZillaSlab-LightItalic",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFanZfeM_74wlPZtksIFaj8CVHapXnp2fazkfg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zilla Slab",
+      "styles": [
+        {
+          "family_name": "Zilla Slab",
+          "type": "Regular",
+          "full_name": "Zilla Slab",
+          "post_script_name": "ZillaSlab-Regular",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFa6ZfeM_74wlPZtksIFWj0w_HyIRlE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab",
+          "type": "Italic",
+          "full_name": "Zilla Slab Italic",
+          "post_script_name": "ZillaSlab-Italic",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFa4ZfeM_74wlPZtksIFaj86-F6NVlFqdA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab",
+          "type": "Bold",
+          "full_name": "Zilla Slab Bold",
+          "post_script_name": "ZillaSlab-Bold",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFa5ZfeM_74wlPZtksIFYoEf2HSjWlhzbaw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab",
+          "type": "Bold Italic",
+          "full_name": "Zilla Slab Bold Italic",
+          "post_script_name": "ZillaSlab-BoldItalic",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFanZfeM_74wlPZtksIFaj8CRHGpXnp2fazkfg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zilla Slab Medium",
+      "styles": [
+        {
+          "family_name": "Zilla Slab Medium",
+          "type": "Regular",
+          "full_name": "Zilla Slab Medium",
+          "post_script_name": "ZillaSlab-Medium",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFa5ZfeM_74wlPZtksIFYskZ2HSjWlhzbaw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab Medium",
+          "type": "Italic",
+          "full_name": "Zilla Slab Medium Italic",
+          "post_script_name": "ZillaSlab-MediumItalic",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFanZfeM_74wlPZtksIFaj8CDHepXnp2fazkfg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zilla Slab SemiBold",
+      "styles": [
+        {
+          "family_name": "Zilla Slab SemiBold",
+          "type": "Regular",
+          "full_name": "Zilla Slab SemiBold",
+          "post_script_name": "ZillaSlab-SemiBold",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFa5ZfeM_74wlPZtksIFYuUe2HSjWlhzbaw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zilla Slab SemiBold",
+          "type": "Italic",
+          "full_name": "Zilla Slab SemiBold Italic",
+          "post_script_name": "ZillaSlab-SemiBoldItalic",
+          "version": "1.1; 2017; ttfautohint (v1.6)",
+          "copyright": "Copyright 2017, The Mozilla Foundation",
+          "description": "Licensed under the Open Font License, version 1.1 or later.",
+          "variable_font": false,
+          "font": "dFanZfeM_74wlPZtksIFaj8CIHCpXnp2fazkfg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

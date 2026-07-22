@@ -1,0 +1,77 @@
+{
+  "slug": "google/fondamento",
+  "name": "fondamento",
+  "description": "Fondamento and Fondamento Italic are calligraphic lettering styles based on the traditional Foundational Hand, a basic teaching style created by Edward Johnston in the early 20th century. The letterforms are clear and cleanly legible, basic and formal.",
+  "homepage": "https://fonts.google.com/specimen/Fondamento",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fondamento\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fondamento",
+      "files": [
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaHrEJGsxNmFTPDnkaJx63j5pN1MwI.ttf",
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaFrEJGsxNmFTPDnkaJ96_p4rFwIwJePw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaHrEJGsxNmFTPDnkaJx63j5pN1MwI.ttf",
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaFrEJGsxNmFTPDnkaJ96_p4rFwIwJePw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fondamento",
+      "files": [
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaHrEJGsxNmFTPDnkaJx6jj5pN1MwI.woff2",
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaFrEJGsxNmFTPDnkaJ96_p57FwIwJePw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaHrEJGsxNmFTPDnkaJx6jj5pN1MwI.woff2",
+        "https://fonts.gstatic.com/s/fondamento/v22/4UaFrEJGsxNmFTPDnkaJ96_p57FwIwJePw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fondamento",
+      "styles": [
+        {
+          "family_name": "Fondamento",
+          "type": "Regular",
+          "full_name": "Fondamento Regular",
+          "post_script_name": "Fondamento-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fondamento\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4UaHrEJGsxNmFTPDnkaJx63j5pN1MwI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Fondamento",
+          "type": "Italic",
+          "full_name": "Fondamento-Italic",
+          "post_script_name": "Fondamento-Italic",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Fondamento Italic\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4UaFrEJGsxNmFTPDnkaJ96_p4rFwIwJePw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

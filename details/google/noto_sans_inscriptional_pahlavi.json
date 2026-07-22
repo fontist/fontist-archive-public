@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_inscriptional_pahlavi",
+  "name": "noto_sans_inscriptional_pahlavi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Inscriptional Pahlavi is an unmodulated (“sans serif”) design for texts in the historical Middle Eastern Inscriptional Pahlavi script. It has 35 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Inscriptional+Pahlavi",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-pahlavi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Inscriptional Pahlavi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v18/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCVtqVOAYK0QA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v18/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCVtqVOAYK0QA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Inscriptional Pahlavi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v18/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCVt-VOAYK0QA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansinscriptionalpahlavi/v18/ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCVt-VOAYK0QA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Inscriptional Pahlavi",
+      "styles": [
+        {
+          "family_name": "Noto Sans Inscriptional Pahlavi",
+          "type": "Regular",
+          "full_name": "Noto Sans Inscriptional Pahlavi Regular",
+          "post_script_name": "NotoSansInscriptionalPahlavi-Regular",
+          "version": "2.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/inscriptional-pahlavi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "ll8UK3GaVDuxR-TEqFPIbsR79Xxz9WEKbwsjpz7VklYlC7FCVtqVOAYK0QA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

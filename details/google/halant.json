@@ -1,0 +1,149 @@
+{
+  "slug": "google/halant",
+  "name": "halant",
+  "description": "Halant is a typeface family supporting the Devanagari and Latin scripts. This is an Open Source font family, first published by the Indian Type Foundry in 2014. The Devanagari glyphs in the Halant project were designed by Vivek Sadamate and Ninad Kale. The Latin is by Jonny Pinhorn. The Indian Type Foundry first published Halant in 2014.",
+  "homepage": "https://fonts.google.com/specimen/Halant",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Halant",
+      "files": [
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-4-0qaujRI2PbsX39Jmky12eg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-4-0qaujRI2PbsX39Jmky12eg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Halant",
+      "files": [
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2Pbsvc_pCngZqcwdRXg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-4-0qaujRI2PbsX2tJmky12eg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvK_tCngZqcwdRXg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvB_xCngZqcwdRXg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvY_1CngZqcwdRXg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2Pbsvc_pCngZqcwdRXg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-4-0qaujRI2PbsX2tJmky12eg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvK_tCngZqcwdRXg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvB_xCngZqcwdRXg.woff2",
+        "https://fonts.gstatic.com/s/halant/v17/u-490qaujRI2PbsvY_1CngZqcwdRXg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Halant Light",
+      "styles": [
+        {
+          "family_name": "Halant Light",
+          "type": "Regular",
+          "full_name": "Halant Light",
+          "post_script_name": "Halant-Light",
+          "version": "1.101;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-490qaujRI2Pbsvc_pCmwZqcwdRXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Halant",
+      "styles": [
+        {
+          "family_name": "Halant",
+          "type": "Regular",
+          "full_name": "Halant Regular",
+          "post_script_name": "Halant-Regular",
+          "version": "1.101;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-4-0qaujRI2PbsX39Jmky12eg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Halant",
+          "type": "Bold",
+          "full_name": "Halant Bold",
+          "post_script_name": "Halant-Bold",
+          "version": "1.101;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-490qaujRI2PbsvY_1CmwZqcwdRXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Halant Medium",
+      "styles": [
+        {
+          "family_name": "Halant Medium",
+          "type": "Regular",
+          "full_name": "Halant Medium",
+          "post_script_name": "Halant-Medium",
+          "version": "1.101;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-490qaujRI2PbsvK_tCmwZqcwdRXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Halant SemiBold",
+      "styles": [
+        {
+          "family_name": "Halant SemiBold",
+          "type": "Regular",
+          "full_name": "Halant SemiBold",
+          "post_script_name": "Halant-SemiBold",
+          "version": "1.101;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "u-490qaujRI2PbsvB_xCmwZqcwdRXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "google/elsie_swash_caps",
+  "name": "elsie_swash_caps",
+  "description": "Elsie is inspired by feminine energy. This new typeface was created to celebrate the world of women, glamour and fashion. It combines the strength of Bodoni with the softness of italics. Sensitive, attractive, full of personality, innovative and subtle with both classic and new design features. I aimed to add expressive features to the letters, providing nuances that make this a unique vision of Bodoni type. It provides an option to the type which readers often encounter. The font was developed by Alejandro Inler in conjunction with Ana Sanfelippo. There are two Elsie families, a Regular family and this Swash Caps family, each with a regular weight and a black weight suitable for large display usage.",
+  "homepage": "https://fonts.google.com/specimen/Elsie+Swash+Caps",
+  "copyright": "Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Elsie Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845DNN8xGZyVX5MVo_upKf7KnjK0ferVKGWsUo8.ttf",
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845ENN8xGZyVX5MVo_upKf7KnjK0RW74DG2HToawrdU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845DNN8xGZyVX5MVo_upKf7KnjK0ferVKGWsUo8.ttf",
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845ENN8xGZyVX5MVo_upKf7KnjK0RW74DG2HToawrdU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Elsie Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845DNN8xGZyVX5MVo_upKf7KnjK0fe_VKGWsUo8.woff2",
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845ENN8xGZyVX5MVo_upKf7KnjK0RW74DGiHToawrdU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845DNN8xGZyVX5MVo_upKf7KnjK0fe_VKGWsUo8.woff2",
+        "https://fonts.gstatic.com/s/elsieswashcaps/v25/845ENN8xGZyVX5MVo_upKf7KnjK0RW74DGiHToawrdU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Elsie Swash Caps",
+      "styles": [
+        {
+          "family_name": "Elsie Swash Caps",
+          "type": "Regular",
+          "full_name": "Elsie Swash Caps Regular",
+          "post_script_name": "ElsieSwashCaps-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "845DNN8xGZyVX5MVo_upKf7KnjK0ferVKGWsUo8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elsie Swash Caps Black",
+      "styles": [
+        {
+          "family_name": "Elsie Swash Caps Black",
+          "type": "Regular",
+          "full_name": "Elsie Swash Caps Black",
+          "post_script_name": "ElsieSwashCaps-Black",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2010-2012, Alejandro Inler (alejandroinler@gmail.com), with Reserved Font Name 'Elsie'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "845ENN8xGZyVX5MVo_upKf7KnjK0RW74DG2HToawrdU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

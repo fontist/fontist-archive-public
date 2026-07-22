@@ -1,0 +1,58 @@
+{
+  "slug": "google/metal_mania",
+  "name": "metal_mania",
+  "description": "Metal Mania was inspired by lots of Heavy Metal album covers and posters. Only the most 'Metal' elements were combined to make the quintessential Heavy Metal font. Looks good on concert posters and guitar picks! Long live Metal Mania. First drawn were the inline forms and then they were traced, utilizing a playful 'cutout' effect. Designed by Dathan Boardman of Open Window.",
+  "homepage": "https://fonts.google.com/specimen/Metal+Mania",
+  "copyright": "Copyright (c) 2012 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Metal Mania\"",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Metal Mania",
+      "files": [
+        "https://fonts.gstatic.com/s/metalmania/v23/RWmMoKWb4e8kqMfBUdPFJeXCg6UKDXlq.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/metalmania/v23/RWmMoKWb4e8kqMfBUdPFJeXCg6UKDXlq.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Metal Mania",
+      "files": [
+        "https://fonts.gstatic.com/s/metalmania/v23/RWmMoKWb4e8kqMfBUdPFJeXHg6UKDXlq.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/metalmania/v23/RWmMoKWb4e8kqMfBUdPFJeXHg6UKDXlq.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Metal Mania",
+      "styles": [
+        {
+          "family_name": "Metal Mania",
+          "type": "Regular",
+          "full_name": "Metal Mania",
+          "post_script_name": "MetalMania-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Metal Mania\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RWmMoKWb4e8kqMfBUdPFJeXCg6UKDXlq.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

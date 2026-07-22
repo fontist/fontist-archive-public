@@ -1,0 +1,133 @@
+{
+  "slug": "google/ar_one_sans",
+  "name": "ar_one_sans",
+  "description": "AR One Sans is a type family for use in augmented reality environments and user interfaces. The family's low contrast, generous spacing and robust shapes make it work well in busy backgrounds with high readability. The design of letterforms is based on research and thorough testing on various devices ranging from high-end headsets to low-resolution smartphone-based devices. It has optical weights for high and low-resolution duplexed to avoid text reflow, making it easy to deliver a seamless user experience across platforms/devices. The functionality of the text has been tested thoroughly to make the reading experience better even in longer texts. AR One Sans language support includes full coverage of Vietnamese, additional to all Western, Central, and South-Eastern European languages. To contribute see github.com/niteeshy/ar-one-sans .",
+  "homepage": "https://fonts.google.com/specimen/AR+One+Sans",
+  "copyright": "Copyright 2018 The AR One Project Authors (https://github.com/niteeshy/ar-one-sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "AR One Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DWg3no5mBF4.woff2",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWk39DWg3no5mBF4.woff2",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWqH6DWg3no5mBF4.woff2",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWpj6DWg3no5mBF4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DWg3no5mBF4.woff2",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWk39DWg3no5mBF4.woff2",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWqH6DWg3no5mBF4.woff2",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWpj6DWg3no5mBF4.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "ARRR",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "AR One Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DW03no5mBF4.ttf",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWk39DW03no5mBF4.ttf",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWqH6DW03no5mBF4.ttf",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWpj6DW03no5mBF4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DW03no5mBF4.ttf",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWk39DW03no5mBF4.ttf",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWqH6DW03no5mBF4.ttf",
+        "https://fonts.gstatic.com/s/aronesans/v6/TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWpj6DW03no5mBF4.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "ARRR",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "AR One Sans",
+      "styles": [
+        {
+          "family_name": "AR One Sans",
+          "type": "Regular",
+          "full_name": "AR One Sans Regular",
+          "post_script_name": "AROneSans-Regular",
+          "version": "1.001;gftools[0.9.33]",
+          "copyright": "Copyright 2018 The AR One Project Authors (https://github.com/niteeshy/ar-one-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWn_9DW03no5mBF4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "AR One Sans",
+          "type": "Bold",
+          "full_name": "AR One Sans Bold",
+          "post_script_name": "AROneSans-Bold",
+          "version": "1.001;gftools[0.9.33]",
+          "copyright": "Copyright 2018 The AR One Project Authors (https://github.com/niteeshy/ar-one-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWpj6DW03no5mBF4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AR One Sans Medium",
+      "styles": [
+        {
+          "family_name": "AR One Sans Medium",
+          "type": "Regular",
+          "full_name": "AR One Sans Medium",
+          "post_script_name": "AROneSans-Medium",
+          "version": "1.001;gftools[0.9.33]",
+          "copyright": "Copyright 2018 The AR One Project Authors (https://github.com/niteeshy/ar-one-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWk39DW03no5mBF4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AR One Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "AR One Sans SemiBold",
+          "type": "Regular",
+          "full_name": "AR One Sans SemiBold",
+          "post_script_name": "AROneSans-SemiBold",
+          "version": "1.001;gftools[0.9.33]",
+          "copyright": "Copyright 2018 The AR One Project Authors (https://github.com/niteeshy/ar-one-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "TUZezwhrmbFp0Srr_tH6fv6RcUejHO_u7GF5aXfv-U2QzBLF6gslWqH6DW03no5mBF4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

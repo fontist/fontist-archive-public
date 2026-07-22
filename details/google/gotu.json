@@ -1,0 +1,58 @@
+{
+  "slug": "google/gotu",
+  "name": "gotu",
+  "description": "Rotund curves, large loops and voluminous counters. Gotu reimagines Devanagari calligraphy while at the same time reinterprets what high contrast Latin typefaces can be. Though the Devanagari is penned with a traditional canted nib, the structures are improvised with an expressive whim that belies conventions of structure and challenges notions of consistency. Swooping calligraphic strokes inspire forms that are lyrical without being too opulent. The same spirit resonates within a modulated sans serif style Latin as letters retain a calligraphic stress and keep the delicate typographic quirks. Furnished with such typographic subtleties, Gotu can lend its distinct style to a quaint monograph, a striking headline, an ornate invite or even a chic brand. This project is led by Ek Type, a collective of type designers based in Mumbai focused on designing contemporary Indian typefaces. To contribute, see github.com/EkType/Gotu",
+  "homepage": "https://fonts.google.com/specimen/Gotu",
+  "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gotu",
+      "files": [
+        "https://fonts.gstatic.com/s/gotu/v18/o-0FIpksx3QOlH0Lioh6-hU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gotu/v18/o-0FIpksx3QOlH0Lioh6-hU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gotu",
+      "files": [
+        "https://fonts.gstatic.com/s/gotu/v18/o-0FIpksx3QOlHgLioh6-hU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gotu/v18/o-0FIpksx3QOlHgLioh6-hU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gotu",
+      "styles": [
+        {
+          "family_name": "Gotu",
+          "type": "Regular",
+          "full_name": "Gotu",
+          "post_script_name": "Gotu-Regular",
+          "version": "2.320;hotconv 1.0.109;makeotfexe 2.5.65596; ttfautohint (v1.8.1)",
+          "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "o-0FIpksx3QOlH0Lioh6-hU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

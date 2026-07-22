@@ -1,0 +1,77 @@
+{
+  "slug": "google/sanchez",
+  "name": "sanchez",
+  "description": "Sanchez is a slab serif typeface family from Chilean type foundry LatinoType .",
+  "homepage": "https://fonts.google.com/specimen/Sanchez",
+  "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sanchez",
+      "files": [
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm2sZJORluHnXbITm5b_BwE1l0.ttf",
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm0sZJORluHnXbIfmxR-D4Bxl3gkw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm2sZJORluHnXbITm5b_BwE1l0.ttf",
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm0sZJORluHnXbIfmxR-D4Bxl3gkw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sanchez",
+      "files": [
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm2sZJORluHnXbITmtb_BwE1l0.woff2",
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm0sZJORluHnXbIfmxR_T4Bxl3gkw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm2sZJORluHnXbITmtb_BwE1l0.woff2",
+        "https://fonts.gstatic.com/s/sanchez/v17/Ycm0sZJORluHnXbIfmxR_T4Bxl3gkw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sanchez",
+      "styles": [
+        {
+          "family_name": "Sanchez",
+          "type": "Regular",
+          "full_name": "Sanchez",
+          "post_script_name": "Sanchez-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Ycm2sZJORluHnXbITm5b_BwE1l0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sanchez",
+          "type": "Italic",
+          "full_name": "Sanchez Italic",
+          "post_script_name": "Sanchez-Italic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, LatinoType (www.latinotype.com), with Reserved Font Name 'Sanchez'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Ycm0sZJORluHnXbIfmxR-D4Bxl3gkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

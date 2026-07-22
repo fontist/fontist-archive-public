@@ -1,0 +1,58 @@
+{
+  "slug": "google/viaoda_libre",
+  "name": "viaoda_libre",
+  "description": "Viaoda Libre is a display family inspired by Vietnamese cultural symbolism. Its design feels traditional yet it features some modern elements. Viaoda Libre works well in large titles and subtitles. We're actively working on the family. We hope to improve the Vietnamese in future releases. Contact at gydient.com Contribute at github.com/bettergui/ViaodaLibre",
+  "homepage": "https://fonts.google.com/specimen/Viaoda+Libre",
+  "copyright": "Copyright 2020 The Viaodalibre Project Authors (https://github.com/bettergui/ViaodaLibre)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Viaoda Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/viaodalibre/v20/vEFW2_lWCgoR6OKuRz9kcRVJb2IY2tOHXg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/viaodalibre/v20/vEFW2_lWCgoR6OKuRz9kcRVJb2IY2tOHXg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Viaoda Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/viaodalibre/v20/vEFW2_lWCgoR6OKuRz9kcRVJamIY2tOHXg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/viaodalibre/v20/vEFW2_lWCgoR6OKuRz9kcRVJamIY2tOHXg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Viaoda Libre",
+      "styles": [
+        {
+          "family_name": "Viaoda Libre",
+          "type": "Regular",
+          "full_name": "Viaoda Libre Regular",
+          "post_script_name": "ViaodaLibre-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Viaodalibre Project Authors (https://github.com/bettergui/ViaodaLibre)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "vEFW2_lWCgoR6OKuRz9kcRVJb2IY2tOHXg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

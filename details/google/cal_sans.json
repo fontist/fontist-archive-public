@@ -1,0 +1,58 @@
+{
+  "slug": "google/cal_sans",
+  "name": "cal_sans",
+  "description": "Cal Sans font family",
+  "homepage": "https://fonts.google.com/specimen/Cal+Sans",
+  "copyright": "Copyright 2021 The Cal Sans Project Authors (https://github.com/calcom/font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cal Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/calsans/v2/fdN99sWUv3gWqXxqqSBbvloE4LZx.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/calsans/v2/fdN99sWUv3gWqXxqqSBbvloE4LZx.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cal Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/calsans/v2/fdN99sWUv3gWqXxqqSBevloE4LZx.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/calsans/v2/fdN99sWUv3gWqXxqqSBevloE4LZx.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cal Sans",
+      "styles": [
+        {
+          "family_name": "Cal Sans",
+          "type": "Regular",
+          "full_name": "Cal Sans Regular",
+          "post_script_name": "CalSans-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2021 The Cal Sans Project Authors (https://github.com/calcom/font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "fdN99sWUv3gWqXxqqSBbvloE4LZx.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

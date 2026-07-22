@@ -1,0 +1,336 @@
+{
+  "slug": "google/karla",
+  "name": "karla",
+  "description": "Karla is a grotesque sans serif family which has been expanded now to a variable font with a weight axis ranging from ExtraLight to ExtraBold plus full support of Western, Central, and South-Eastern European languages. To contribute, see github.com/googlefonts/karla .",
+  "homepage": "https://fonts.google.com/specimen/Karla",
+  "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Karla",
+      "files": [
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2qEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUElKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUElKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUElKZbLXGxGR.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2qEUNLR7fHGw.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV0lKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUElKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUElKZbLXGxGR.woff2",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUElKZbLXGxGR.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Karla",
+      "files": [
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2qFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUElPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUElPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUElPZbLXGxGR.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2qFENLR7fHGw.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV0lPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUElPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUElPZbLXGxGR.ttf",
+        "https://fonts.gstatic.com/s/karla/v33/qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUElPZbLXGxGR.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Karla ExtraLight",
+      "styles": [
+        {
+          "family_name": "Karla ExtraLight",
+          "type": "Regular",
+          "full_name": "Karla ExtraLight",
+          "post_script_name": "Karla-ExtraLight",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTDeJqqFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla ExtraLight",
+          "type": "Italic",
+          "full_name": "Karla ExtraLight Italic",
+          "post_script_name": "Karla-ExtraLightItalic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCV0lPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karla Light",
+      "styles": [
+        {
+          "family_name": "Karla Light",
+          "type": "Regular",
+          "full_name": "Karla Light",
+          "post_script_name": "Karla-Light",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTDppqqFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla Light",
+          "type": "Italic",
+          "full_name": "Karla Light Italic",
+          "post_script_name": "Karla-LightItalic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNkcV0lPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karla",
+      "styles": [
+        {
+          "family_name": "Karla",
+          "type": "Regular",
+          "full_name": "Karla Regular",
+          "post_script_name": "Karla-Regular",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTD-JqqFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla",
+          "type": "Bold",
+          "full_name": "Karla Bold",
+          "post_script_name": "Karla-Bold",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTDH52qFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla",
+          "type": "Italic",
+          "full_name": "Karla Italic",
+          "post_script_name": "Karla-Italic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlCV0lPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla",
+          "type": "Bold Italic",
+          "full_name": "Karla Bold Italic",
+          "post_script_name": "Karla-BoldItalic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmlUElPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karla Medium",
+      "styles": [
+        {
+          "family_name": "Karla Medium",
+          "type": "Regular",
+          "full_name": "Karla Medium",
+          "post_script_name": "Karla-Medium",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTDypqqFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla Medium",
+          "type": "Italic",
+          "full_name": "Karla Medium Italic",
+          "post_script_name": "Karla-MediumItalic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNlwV0lPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karla SemiBold",
+      "styles": [
+        {
+          "family_name": "Karla SemiBold",
+          "type": "Regular",
+          "full_name": "Karla SemiBold",
+          "post_script_name": "Karla-SemiBold",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTDJp2qFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla SemiBold",
+          "type": "Italic",
+          "full_name": "Karla SemiBold Italic",
+          "post_script_name": "Karla-SemiBoldItalic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNmcUElPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Karla ExtraBold",
+      "styles": [
+        {
+          "family_name": "Karla ExtraBold",
+          "type": "Regular",
+          "full_name": "Karla ExtraBold",
+          "post_script_name": "Karla-ExtraBold",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBIXvYC6trAT55ZBi1ueQVIjQTDeJ2qFENLR7fHGw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Karla ExtraBold",
+          "type": "Italic",
+          "full_name": "Karla ExtraBold Italic",
+          "post_script_name": "Karla-ExtraBoldItalic",
+          "version": "2.004;gftools[0.9.33]",
+          "copyright": "Copyright 2019 The Karla Project Authors (https://github.com/googlefonts/karla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "qkBKXvYC6trAT7RQNNK2EG7SIwPWMNnCUElPZbLXGxGR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

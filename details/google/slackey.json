@@ -1,0 +1,58 @@
+{
+  "slug": "google/slackey",
+  "name": "slackey",
+  "description": "Don't let the name fool you! Slackey really pulls its weight when you need a fun, chunky display font. So next time you have a weighty headlining chore to do, let Slackey do all the heavy lifting! Designed with a good work ethic and plenty of manual labor by Squid.",
+  "homepage": "https://fonts.google.com/specimen/Slackey",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Slackey",
+      "files": [
+        "https://fonts.gstatic.com/s/slackey/v29/N0bV2SdQO-5yM0-dKlRaJdbWgdY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/slackey/v29/N0bV2SdQO-5yM0-dKlRaJdbWgdY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Slackey",
+      "files": [
+        "https://fonts.gstatic.com/s/slackey/v29/N0bV2SdQO-5yM0-dKlFaJdbWgdY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/slackey/v29/N0bV2SdQO-5yM0-dKlFaJdbWgdY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Slackey",
+      "styles": [
+        {
+          "family_name": "Slackey",
+          "type": "Regular",
+          "full_name": "Slackey Regular",
+          "post_script_name": "Slackey-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "N0bV2SdQO-5yM0-dKlRaJdbWgdY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

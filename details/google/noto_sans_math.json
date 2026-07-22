@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_math",
+  "name": "noto_sans_math",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Math is a font that contains symbols for mathematical notation . It has 2,655 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Math",
+  "copyright": "Copyright 2022 Google LLC. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Math",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmath/v18/7Aump_cpkSecTWaHRlH2hyV5UHkG-V048PW0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmath/v18/7Aump_cpkSecTWaHRlH2hyV5UHkG-V048PW0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Math",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmath/v18/7Aump_cpkSecTWaHRlH2hyV5UHkD-V048PW0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmath/v18/7Aump_cpkSecTWaHRlH2hyV5UHkD-V048PW0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Math",
+      "styles": [
+        {
+          "family_name": "Noto Sans Math",
+          "type": "Regular",
+          "full_name": "Noto Sans Math Regular",
+          "post_script_name": "NotoSansMath-Regular",
+          "version": "3.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 Google LLC. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "7Aump_cpkSecTWaHRlH2hyV5UHkG-V048PW0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

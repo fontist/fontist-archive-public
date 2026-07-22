@@ -1,0 +1,77 @@
+{
+  "slug": "google/delius_unicase",
+  "name": "delius_unicase",
+  "description": "Delius Unicase is part of a high quality comic book lettering typeface super-family. It has mixed uppercase and lowercase letters for 'unicase' uses, such as in comic strip lettering. It has companion families, Delius and Delius Swash Caps. A round marker was used to define Delius's stroke: the line gets thicker at both ends to define the beginning and end of the stroke, as a marker line would do, and the ductus imitates the movements of handwriting.",
+  "homepage": "https://fonts.google.com/specimen/Delius+Unicase",
+  "copyright": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Delius Unicase",
+      "files": [
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845BNMEwEIOVT8BmgfSzIr_6mmLHd-73LXWs.ttf",
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845CNMEwEIOVT8BmgfSzIr_6mlp7WMr_BmmlS5aw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845BNMEwEIOVT8BmgfSzIr_6mmLHd-73LXWs.ttf",
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845CNMEwEIOVT8BmgfSzIr_6mlp7WMr_BmmlS5aw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Delius Unicase",
+      "files": [
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845BNMEwEIOVT8BmgfSzIr_6mmLCd-73LXWs.woff2",
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845CNMEwEIOVT8BmgfSzIr_6mlp7WMr6BmmlS5aw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845BNMEwEIOVT8BmgfSzIr_6mmLCd-73LXWs.woff2",
+        "https://fonts.gstatic.com/s/deliusunicase/v30/845CNMEwEIOVT8BmgfSzIr_6mlp7WMr6BmmlS5aw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Delius Unicase",
+      "styles": [
+        {
+          "family_name": "Delius Unicase",
+          "type": "Regular",
+          "full_name": "Delius Unicase",
+          "post_script_name": "DeliusUnicase-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "845BNMEwEIOVT8BmgfSzIr_6mmLHd-73LXWs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Delius Unicase",
+          "type": "Bold",
+          "full_name": "Delius Unicase Bold",
+          "post_script_name": "DeliusUnicase-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010, 2011, Natalia Raices<nraices@gmail.com>, with Reserved Font Name \"Delius\" \"Delius Unicase\" \"Delius Swash Caps\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "845CNMEwEIOVT8BmgfSzIr_6mlp7WMr_BmmlS5aw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

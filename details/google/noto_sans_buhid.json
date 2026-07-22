@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_buhid",
+  "name": "noto_sans_buhid",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Buhid is an unmodulated (“sans serif”) design for texts in the Southeast Asian Buhid script. It has 44 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Buhid",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/buhid)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Buhid",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansbuhid/v23/Dxxy8jiXMW75w3OmoDXVWJD7YwzAe6tgnaFoGA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansbuhid/v23/Dxxy8jiXMW75w3OmoDXVWJD7YwzAe6tgnaFoGA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Buhid",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansbuhid/v23/Dxxy8jiXMW75w3OmoDXVWJD7YwzAfqtgnaFoGA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansbuhid/v23/Dxxy8jiXMW75w3OmoDXVWJD7YwzAfqtgnaFoGA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Buhid",
+      "styles": [
+        {
+          "family_name": "Noto Sans Buhid",
+          "type": "Regular",
+          "full_name": "Noto Sans Buhid Regular",
+          "post_script_name": "NotoSansBuhid-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/buhid)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Dxxy8jiXMW75w3OmoDXVWJD7YwzAe6tgnaFoGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

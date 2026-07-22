@@ -1,0 +1,111 @@
+{
+  "slug": "google/ubuntu_mono",
+  "name": "ubuntu_mono",
+  "description": "The Ubuntu Font Family are a set of matching new libre/open fonts in development during 2010-2011. The development is being funded by Canonical Ltd on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation is being undertaken by Dalton Maag . Both the final font Truetype/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve. The new Ubuntu Font Family was started to enable the personality of Ubuntu to be seen and felt in every menu, button and dialog. The typeface is sans-serif, uses OpenType features and is manually hinted for clarity on desktop and mobile computing screens. The scope of the Ubuntu Font Family includes all the languages used by the various Ubuntu users around the world in tune with Ubuntu's philosophy which states that every user should be able to use their software in the language of their choice. So the Ubuntu Font Family project will be extended to cover many more written languages. Ubuntu and Canonical are registered trademarks of Canonical Ltd.",
+  "homepage": "https://fonts.google.com/specimen/Ubuntu+Mono",
+  "copyright": "Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0",
+  "spdx_license": "Ubuntu-font-1.0",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ubuntu Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOjCneDtsqEr0keqCMhbBc9AMX6lJBP.ttf",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOhCneDtsqEr0keqCMhbCc_CsHYkYBPY3o.ttf",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO-CneDtsqEr0keqCMhbC-BL-Hyv4xGemO1.ttf",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO8CneDtsqEr0keqCMhbCc_Mn33tYhkf3O1GVg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOjCneDtsqEr0keqCMhbBc9AMX6lJBP.ttf",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOhCneDtsqEr0keqCMhbCc_CsHYkYBPY3o.ttf",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO-CneDtsqEr0keqCMhbC-BL-Hyv4xGemO1.ttf",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO8CneDtsqEr0keqCMhbCc_Mn33tYhkf3O1GVg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ubuntu Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOjCneDtsqEr0keqCMhbBc4AMX6lJBP.woff2",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOhCneDtsqEr0keqCMhbCc_CsTYkYBPY3o.woff2",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO-CneDtsqEr0keqCMhbC-BL-H3v4xGemO1.woff2",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO8CneDtsqEr0keqCMhbCc_Mn33tY1kf3O1GVg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOjCneDtsqEr0keqCMhbBc4AMX6lJBP.woff2",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFOhCneDtsqEr0keqCMhbCc_CsTYkYBPY3o.woff2",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO-CneDtsqEr0keqCMhbC-BL-H3v4xGemO1.woff2",
+        "https://fonts.gstatic.com/s/ubuntumono/v19/KFO8CneDtsqEr0keqCMhbCc_Mn33tY1kf3O1GVg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ubuntu Mono",
+      "styles": [
+        {
+          "family_name": "Ubuntu Mono",
+          "type": "Regular",
+          "full_name": "Ubuntu Mono",
+          "post_script_name": "UbuntuMono-Regular",
+          "version": "0.80",
+          "copyright": "Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0",
+          "variable_font": false,
+          "font": "KFOjCneDtsqEr0keqCMhbBc9AMX6lJBP.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Ubuntu Mono",
+          "type": "Italic",
+          "full_name": "Ubuntu Mono Italic",
+          "post_script_name": "UbuntuMono-Italic",
+          "version": "0.80",
+          "copyright": "Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0",
+          "variable_font": false,
+          "font": "KFOhCneDtsqEr0keqCMhbCc_CsHYkYBPY3o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Ubuntu Mono",
+          "type": "Bold",
+          "full_name": "Ubuntu Mono Bold",
+          "post_script_name": "UbuntuMono-Bold",
+          "version": "0.80",
+          "copyright": "Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0",
+          "variable_font": false,
+          "font": "KFO-CneDtsqEr0keqCMhbC-BL-Hyv4xGemO1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Ubuntu Mono",
+          "type": "Bold Italic",
+          "full_name": "Ubuntu Mono Bold Italic",
+          "post_script_name": "UbuntuMono-BoldItalic",
+          "version": "0.80",
+          "copyright": "Copyright 2011 Canonical Ltd.  Licensed under the Ubuntu Font Licence 1.0",
+          "variable_font": false,
+          "font": "KFO8CneDtsqEr0keqCMhbCc_Mn33tYhkf3O1GVg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

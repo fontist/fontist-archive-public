@@ -1,0 +1,58 @@
+{
+  "slug": "google/tenor_sans",
+  "name": "tenor_sans",
+  "description": "Tenor Sans is a humanist sans-serif typeface designed by Denis Masharov. Intended for the setting of body text, it can also be applied to headlines. Optimized for print and web, it has excellent legibility characteristics in its letterforms. It contains an extended Latin and extended Cyrillic alphabets, Western and Central European, Cyrillic, Turkish, Baltic, Icelandic and Celtic.",
+  "homepage": "https://fonts.google.com/specimen/Tenor+Sans",
+  "copyright": "Copyright (c) 2010, 2011, Denis Masharov <denis.masharov@gmail.com>. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tenor Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISr3JyC22IyqI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISr3JyC22IyqI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tenor Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISr3dyC22IyqI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tenorsans/v21/bx6ANxqUneKx06UkIXISr3dyC22IyqI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tenor Sans",
+      "styles": [
+        {
+          "family_name": "Tenor Sans",
+          "type": "Regular",
+          "full_name": "Tenor Sans",
+          "post_script_name": "TenorSans",
+          "version": "1.1",
+          "copyright": "Copyright (c) 2010, 2011, Denis Masharov <denis.masharov@gmail.com>. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bx6ANxqUneKx06UkIXISr3JyC22IyqI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

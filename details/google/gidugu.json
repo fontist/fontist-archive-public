@@ -1,0 +1,57 @@
+{
+  "slug": "google/gidugu",
+  "name": "gidugu",
+  "description": "Gidugu is a Telugu font suitable for headlines, invitations and posters and is best used at large sizes. Gidugu is named after Gidugu Venkata Ramamurthy, who championed using Telugu as a language for everyone, not only a scholastic language. The Telugu is designed and developed by Purushoth Kumar Guttula, and made available under the SIL Open Font License v1.1 by Silicon Andhra. The Latin is newly designed for this project by Eduardo Tunni, a type designer in Buenos Aires, Argentina. The Gidugu project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/googlefonts/gidugu",
+  "homepage": "https://fonts.google.com/specimen/Gidugu",
+  "copyright": "Copyright 2025 The Gidugu Project Authors (https://github.com/googlefonts/gidugu)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gidugu",
+      "files": [
+        "https://fonts.gstatic.com/s/gidugu/v28/L0x8DFMkk1Uf6w3RvPCmRSlUig.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gidugu/v28/L0x8DFMkk1Uf6w3RvPCmRSlUig.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gidugu",
+      "files": [
+        "https://fonts.gstatic.com/s/gidugu/v28/L0x8DFMkk1Uf6w3RufCmRSlUig.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gidugu/v28/L0x8DFMkk1Uf6w3RufCmRSlUig.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gidugu",
+      "styles": [
+        {
+          "family_name": "Gidugu",
+          "type": "Regular",
+          "full_name": "Gidugu Regular",
+          "post_script_name": "Gidugu-Regular",
+          "version": "2.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Gidugu Project Authors (https://github.com/googlefonts/gidugu)",
+          "variable_font": false,
+          "font": "L0x8DFMkk1Uf6w3RvPCmRSlUig.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

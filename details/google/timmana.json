@@ -1,0 +1,58 @@
+{
+  "slug": "google/timmana",
+  "name": "timmana",
+  "description": "Timmana is a Telugu display typeface, mainly suitable for headings, posters and decorative invitations. As a web font it should be used in very large pixel sizes, while in print the design may be used in a broader range of sizes, perhaps even as small as at 16pt. Designed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Timmana project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/timmana",
+  "homepage": "https://fonts.google.com/specimen/Timmana",
+  "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Sergiy Tkachenko (www.4thfebruary.com.ua info@4thfebruary.com.ua), with Reserved Font Names 'Sansus', 'Webissimo'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Timmana",
+      "files": [
+        "https://fonts.gstatic.com/s/timmana/v14/6xKvdShfL9yK-rvpCmvbKHwJUOM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/timmana/v14/6xKvdShfL9yK-rvpCmvbKHwJUOM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Timmana",
+      "files": [
+        "https://fonts.gstatic.com/s/timmana/v14/6xKvdShfL9yK-rvpCm7bKHwJUOM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/timmana/v14/6xKvdShfL9yK-rvpCm7bKHwJUOM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Timmana",
+      "styles": [
+        {
+          "family_name": "Timmana",
+          "type": "Regular",
+          "full_name": "Timmana",
+          "post_script_name": "Timmana",
+          "version": "1.0.4; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Sergiy Tkachenko (www.4thfebruary.com.ua info@4thfebruary.com.ua), with Reserved Font Names 'Sansus', 'Webissimo'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6xKvdShfL9yK-rvpCmvbKHwJUOM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

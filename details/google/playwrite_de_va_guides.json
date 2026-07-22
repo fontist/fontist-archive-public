@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_de_va_guides",
+  "name": "playwrite_de_va_guides",
+  "description": "Playwrite DE VA Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DE+VA+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite DE VA Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UB9SNQIUdqQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UB9SNQIUdqQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite DE VA Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UBpSNQIUdqQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedevaguides/v1/WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UBpSNQIUdqQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DE VA Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite DE VA Guides",
+          "type": "Regular",
+          "full_name": "Playwrite DE VA Guides Regular",
+          "post_script_name": "PlaywriteDEVAGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "WwkPxOmkDVqm-ojMLT_kdMUoBpMYm6KTeb28UB9SNQIUdqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

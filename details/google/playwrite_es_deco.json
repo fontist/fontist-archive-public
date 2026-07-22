@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_es_deco",
+  "name": "playwrite_es_deco",
+  "description": "Playwrite ES Deco font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+ES+Deco",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite ES Deco",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrZxPA9p5Cljpw.woff2",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4SrdxPA9p5Cljpw.woff2",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4lLdxPA9p5Cljpw.woff2",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdxPA9p5Cljpw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrZxPA9p5Cljpw.woff2",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4SrdxPA9p5Cljpw.woff2",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4lLdxPA9p5Cljpw.woff2",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdxPA9p5Cljpw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite ES Deco",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrZxOQ9p5Cljpw.ttf",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4SrdxOQ9p5Cljpw.ttf",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4lLdxOQ9p5Cljpw.ttf",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdxOQ9p5Cljpw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrZxOQ9p5Cljpw.ttf",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4SrdxOQ9p5Cljpw.ttf",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4lLdxOQ9p5Cljpw.ttf",
+        "https://fonts.gstatic.com/s/playwriteesdeco/v11/7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdxOQ9p5Cljpw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite ES Deco Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite ES Deco Thin",
+          "type": "Regular",
+          "full_name": "Playwrite ES Deco Thin",
+          "post_script_name": "PlaywriteESDeco-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrZxOQ9p5Cljpw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite ES Deco ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite ES Deco ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite ES Deco ExtraLight",
+          "post_script_name": "PlaywriteESDeco-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4SrdxOQ9p5Cljpw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite ES Deco Light",
+      "styles": [
+        {
+          "family_name": "Playwrite ES Deco Light",
+          "type": "Regular",
+          "full_name": "Playwrite ES Deco Light",
+          "post_script_name": "PlaywriteESDeco-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4lLdxOQ9p5Cljpw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite ES Deco",
+      "styles": [
+        {
+          "family_name": "Playwrite ES Deco",
+          "type": "Regular",
+          "full_name": "Playwrite ES Deco Regular",
+          "post_script_name": "PlaywriteESDeco-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "7AuWp-g3kjKKGkePXEf2jxctfDxlvGM7-RllW8uEsjJ4yrdxOQ9p5Cljpw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

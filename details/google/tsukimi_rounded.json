@@ -1,0 +1,149 @@
+{
+  "slug": "google/tsukimi_rounded",
+  "name": "tsukimi_rounded",
+  "description": "Tsukimi Rounded is kana font that is based san-go(Japanese traditional go-number sized type, #3) in Tsukiji Type Foundry’s specimen books. Original san-go type is Mincho style but Tsukimi Rounded is sans-serif typeface with rounded terminals. To contribute to the project, visit github.com/mt-funa/Tsukimi-Rounded",
+  "homepage": "https://fonts.google.com/specimen/Tsukimi+Rounded",
+  "copyright": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tsukimi Rounded",
+      "files": [
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqN7MT3T9X8g.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7tPXMOP5gP1A.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqN7MT3T9X8g.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qN7MT3T9X8g.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqN7MT3T9X8g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqN7MT3T9X8g.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7tPXMOP5gP1A.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqN7MT3T9X8g.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qN7MT3T9X8g.ttf",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqN7MT3T9X8g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tsukimi Rounded",
+      "files": [
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqMrMT3T9X8g.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7tOHMOP5gP1A.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqMrMT3T9X8g.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qMrMT3T9X8g.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqMrMT3T9X8g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqMrMT3T9X8g.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoc3LJNksWZO0LvnZwkF3HtoB7tOHMOP5gP1A.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqMrMT3T9X8g.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qMrMT3T9X8g.woff2",
+        "https://fonts.gstatic.com/s/tsukimirounded/v14/sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqMrMT3T9X8g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tsukimi Rounded Light",
+      "styles": [
+        {
+          "family_name": "Tsukimi Rounded Light",
+          "type": "Regular",
+          "full_name": "Tsukimi Rounded Light",
+          "post_script_name": "TsukimiRounded-Light",
+          "version": "1.032; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoZ3LJNksWZO0LvnZwkF3HtoB7VkVsqN7MT3T9X8g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tsukimi Rounded",
+      "styles": [
+        {
+          "family_name": "Tsukimi Rounded",
+          "type": "Regular",
+          "full_name": "Tsukimi Rounded Regular",
+          "post_script_name": "TsukimiRounded-Regular",
+          "version": "1.032; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoc3LJNksWZO0LvnZwkF3HtoB7tPXMOP5gP1A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tsukimi Rounded",
+          "type": "Bold",
+          "full_name": "Tsukimi Rounded Bold",
+          "post_script_name": "TsukimiRounded-Bold",
+          "version": "1.032; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoZ3LJNksWZO0LvnZwkF3HtoB7VgVwqN7MT3T9X8g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tsukimi Rounded Medium",
+      "styles": [
+        {
+          "family_name": "Tsukimi Rounded Medium",
+          "type": "Regular",
+          "full_name": "Tsukimi Rounded Medium",
+          "post_script_name": "TsukimiRounded-Medium",
+          "version": "1.032; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoZ3LJNksWZO0LvnZwkF3HtoB7VyVoqN7MT3T9X8g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tsukimi Rounded SemiBold",
+      "styles": [
+        {
+          "family_name": "Tsukimi Rounded SemiBold",
+          "type": "Regular",
+          "full_name": "Tsukimi Rounded SemiBold",
+          "post_script_name": "TsukimiRounded-SemiBold",
+          "version": "1.032; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Tsukimi Rounded Project Authors (https://github.com/mt-funa/Tsukimi-Rounded), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoZ3LJNksWZO0LvnZwkF3HtoB7V5V0qN7MT3T9X8g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

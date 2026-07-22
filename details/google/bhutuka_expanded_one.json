@@ -1,0 +1,58 @@
+{
+  "slug": "google/bhutuka_expanded_one",
+  "name": "bhutuka_expanded_one",
+  "description": "BhuTuka Expanded One is a Gurmukhi companion to Aoife Mooney’s BioRhyme Expanded Light typeface. To contribute, see github.com/erinmclaughlin/BhuTuka-Extended-One .",
+  "homepage": "https://fonts.google.com/specimen/BhuTuka+Expanded+One",
+  "copyright": "Copyright 2017 The BhuTuka Expanded One Project Authors (https://github.com/erinmclaughlin/BhuTuka-Extended-One)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BhuTuka Expanded One",
+      "files": [
+        "https://fonts.gstatic.com/s/bhutukaexpandedone/v9/SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJCyX8pg_RVH1.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bhutukaexpandedone/v9/SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJCyX8pg_RVH1.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BhuTuka Expanded One",
+      "files": [
+        "https://fonts.gstatic.com/s/bhutukaexpandedone/v9/SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJCyS8pg_RVH1.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bhutukaexpandedone/v9/SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJCyS8pg_RVH1.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BhuTuka Expanded One",
+      "styles": [
+        {
+          "family_name": "BhuTuka Expanded One",
+          "type": "Regular",
+          "full_name": "BhuTuka Expanded One Regular",
+          "post_script_name": "BhuTukaExpandedOne-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The BhuTuka Expanded One Project Authors (https://github.com/erinmclaughlin/BhuTuka-Extended-One)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXXc0jZ4WUJcClHTtv0t7IaDRsBsWRiJCyX8pg_RVH1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

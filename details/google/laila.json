@@ -1,0 +1,149 @@
+{
+  "slug": "google/laila",
+  "name": "laila",
+  "description": "Laila is an informal sans serif design with brush terminals. It has a very contemporary, 21st century appearance. Text set in Laila appears friendly, or even cute! Laila looks especially good in headlines. It is a display typeface, but it may also be used to set shorter passages of text, too. Laila’s Latin component has a high x-height and open counter forms. In terms of the thickness of its strokes, everything is mostly monolinear. The Devanagari component is even more fluid, appearing lively and graceful. The height is between the Latin x-height and capital height. The strokes thickness is a little lighter than in the Latin; in text blocks, texts set in each script will have similar color. Hitesh Malaviya designed the Devanagari, and the Latin is by Jonny Pinhorn. To contribute, see github.com/itfoundry/laila",
+  "homepage": "https://fonts.google.com/specimen/Laila",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Laila",
+      "files": [
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzxogNAh14nVcfe.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjMdG_8nE8jDIRdiidIrEIu.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLypowNAh14nVcfe.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLyFpANAh14nVcfe.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzhpQNAh14nVcfe.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzxogNAh14nVcfe.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjMdG_8nE8jDIRdiidIrEIu.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLypowNAh14nVcfe.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLyFpANAh14nVcfe.ttf",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzhpQNAh14nVcfe.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Laila",
+      "files": [
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzxogNFh14nVcfe.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjMdG_8nE8jDIRYiidIrEIu.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLypowNFh14nVcfe.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLyFpANFh14nVcfe.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzhpQNFh14nVcfe.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzxogNFh14nVcfe.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjMdG_8nE8jDIRYiidIrEIu.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLypowNFh14nVcfe.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLyFpANFh14nVcfe.woff2",
+        "https://fonts.gstatic.com/s/laila/v20/LYjBdG_8nE8jDLzhpQNFh14nVcfe.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Laila Light",
+      "styles": [
+        {
+          "family_name": "Laila Light",
+          "type": "Regular",
+          "full_name": "Laila Light",
+          "post_script_name": "Laila-Light",
+          "version": "1.302;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjBdG_8nE8jDLzxogNAh14nVcfe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laila",
+      "styles": [
+        {
+          "family_name": "Laila",
+          "type": "Regular",
+          "full_name": "Laila Regular",
+          "post_script_name": "Laila-Regular",
+          "version": "1.302;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjMdG_8nE8jDIRdiidIrEIu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Laila",
+          "type": "Bold",
+          "full_name": "Laila Bold",
+          "post_script_name": "Laila-Bold",
+          "version": "1.302;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjBdG_8nE8jDLzhpQNAh14nVcfe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laila Medium",
+      "styles": [
+        {
+          "family_name": "Laila Medium",
+          "type": "Regular",
+          "full_name": "Laila Medium",
+          "post_script_name": "Laila-Medium",
+          "version": "1.302;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjBdG_8nE8jDLypowNAh14nVcfe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laila SemiBold",
+      "styles": [
+        {
+          "family_name": "Laila SemiBold",
+          "type": "Regular",
+          "full_name": "Laila SemiBold",
+          "post_script_name": "Laila-SemiBold",
+          "version": "1.302;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.1) -l 8 -r 50 -G 200 -x 14 -D latn -f deva -w gGD -W -c",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjBdG_8nE8jDLyFpANAh14nVcfe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

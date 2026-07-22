@@ -1,0 +1,58 @@
+{
+  "slug": "google/potta_one",
+  "name": "potta_one",
+  "description": "Potta One is a single style family which features letterforms that have been inspired by brush lettering. To contribute to the project, visit github.com/go108go/Potta",
+  "homepage": "https://fonts.google.com/specimen/Potta+One",
+  "copyright": "Copyright 2020 The Potta Project Authors (https://github.com/go108go/Potta), all rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Potta One",
+      "files": [
+        "https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-YfxQ3Z5nm29Gww.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-YfxQ3Z5nm29Gww.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Potta One",
+      "files": [
+        "https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-YfxQ2J5nm29Gww.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pottaone/v19/FeVSS05Bp6cy7xI-YfxQ2J5nm29Gww.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Potta One",
+      "styles": [
+        {
+          "family_name": "Potta One",
+          "type": "Regular",
+          "full_name": "Potta One Regular",
+          "post_script_name": "PottaOne-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Potta Project Authors (https://github.com/go108go/Potta), all rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FeVSS05Bp6cy7xI-YfxQ3Z5nm29Gww.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

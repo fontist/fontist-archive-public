@@ -1,0 +1,58 @@
+{
+  "slug": "google/zen_antique",
+  "name": "zen_antique",
+  "description": "Zen Antique features two kinds of Antique Japanese with Kanji. The impression of the weights (thickness) of strokes are different among characters—Hiragana and Latin alphabets are slightly lighter, while Katakana and Kanji are slightly heavier, which gives the unique rhythm and taste in this font. Zen Antique Soft has a slightly rounded effect on the corners. To contribute to the project, visit github.com/googlefonts/zen-antique Zen Antique には、古風な雰囲気の二種類の漢字を含む日本語書体があります。 文字によって画線の太さに変化があり、ひらがなと欧文は細め、カタカナと漢字は太めで、フォントに独特のリズムと味わいを与えています。 また、 Zen Antique Soft では、角が少し丸くなっています。 このプロジェクトに参加して貢献したい方は、次の URL をご参照ください。 github.com/googlefonts/zen-antique To learn more, read Say Hello to our big new Japanese collection with Zen Fonts (English), The Story of Zen Fonts - interview with Yoshimichi Ohira (English), Zenフォント: 新しい日本語フォントコレクションの登場 - 日本語フォントの複雑な美しさについて - (Japanese), and Zenフォントのおはなし：大平善道さんとのインタビュー (Japanese).",
+  "homepage": "https://fonts.google.com/specimen/Zen+Antique",
+  "copyright": "Copyright 2021 The Zen Antique Project Authors (https://github.com/googlefonts/zen-antique)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zen Antique",
+      "files": [
+        "https://fonts.gstatic.com/s/zenantique/v14/AYCPpXPnd91Ma_Zf-Ri2JXJq7PKP5Z_G.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenantique/v14/AYCPpXPnd91Ma_Zf-Ri2JXJq7PKP5Z_G.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zen Antique",
+      "files": [
+        "https://fonts.gstatic.com/s/zenantique/v14/AYCPpXPnd91Ma_Zf-Ri2JXJv7PKP5Z_G.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenantique/v14/AYCPpXPnd91Ma_Zf-Ri2JXJv7PKP5Z_G.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zen Antique",
+      "styles": [
+        {
+          "family_name": "Zen Antique",
+          "type": "Regular",
+          "full_name": "Zen Antique Regular",
+          "post_script_name": "ZenAntique-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Zen Antique Project Authors (https://github.com/googlefonts/zen-antique)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCPpXPnd91Ma_Zf-Ri2JXJq7PKP5Z_G.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

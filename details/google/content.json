@@ -1,0 +1,75 @@
+{
+  "slug": "google/content",
+  "name": "content",
+  "description": "The Content fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong , has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "homepage": "https://fonts.google.com/specimen/Content",
+  "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Content.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Content",
+      "files": [
+        "https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwUaDyIiL0RCg.ttf",
+        "https://fonts.gstatic.com/s/content/v27/zrfg0HLayePhU_AwaRzdBirfWCHvkAI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwUaDyIiL0RCg.ttf",
+        "https://fonts.gstatic.com/s/content/v27/zrfg0HLayePhU_AwaRzdBirfWCHvkAI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Content",
+      "files": [
+        "https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwUaXyIiL0RCg.woff2",
+        "https://fonts.gstatic.com/s/content/v27/zrfg0HLayePhU_AwaRzdBi_fWCHvkAI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/content/v27/zrfl0HLayePhU_AwUaXyIiL0RCg.woff2",
+        "https://fonts.gstatic.com/s/content/v27/zrfg0HLayePhU_AwaRzdBi_fWCHvkAI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Content",
+      "styles": [
+        {
+          "family_name": "Content",
+          "type": "Regular",
+          "full_name": "Content",
+          "post_script_name": "Content",
+          "version": "6.00 December 28, 2010",
+          "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Content.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "zrfl0HLayePhU_AwUaDyIiL0RCg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Content",
+          "type": "Bold",
+          "full_name": "Content Bold",
+          "post_script_name": "Content-Bold",
+          "version": "6.00 December 28, 2010",
+          "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Content.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "zrfg0HLayePhU_AwaRzdBirfWCHvkAI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

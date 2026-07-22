@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_ogham",
+  "name": "noto_sans_ogham",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Ogham is an unmodulated (“sans serif”) design for texts in the historical European Ogham script. It has 34 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Ogham",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ogham)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Ogham",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansogham/v18/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansogham/v18/kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Ogham",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansogham/v18/kmKlZqk1GBDGN0mY6k5lmEmww4hrsplaQxcoCA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansogham/v18/kmKlZqk1GBDGN0mY6k5lmEmww4hrsplaQxcoCA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Ogham",
+      "styles": [
+        {
+          "family_name": "Noto Sans Ogham",
+          "type": "Regular",
+          "full_name": "Noto Sans Ogham Regular",
+          "post_script_name": "NotoSansOgham-Regular",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/ogham)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "kmKlZqk1GBDGN0mY6k5lmEmww4hrt5laQxcoCA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

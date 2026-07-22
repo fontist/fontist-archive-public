@@ -1,0 +1,155 @@
+{
+  "slug": "google/teko",
+  "name": "teko",
+  "description": "Teko is an Open Source typeface that currently supports the Devanagari and Latin scripts. This font family has been created for use in headlines and other display-sized text on screen. Five font styles make up the initial release. Display families with extensive character sets are rare for any script. With Indian typefaces, however, large character sets are even less common. ITF’s designs are an exception. The Teko typeface features letterforms with low stroke contrast, square proportions and a structure that appears visually simple. The Regular, Medium and Semibold fonts are recommended for use in long headlines, while Bold is intended primarily for setting just one or two words. The Light is a beautiful variant that may be put to exceptionally good use in large headlines on websites. At display sizes, Teko works equally well on screen or in print. Each font contains 1090 glyphs, offering full support for the conjuncts and ligatures required by languages written with the Devanagari script. Teko is an excellent choice for use in advertising or for news tickers on television screens (breaking news, etc.) Manushi Parikh designed the Teko typeface for the Indian Type Foundry, who published it in 2014. In 2023, Marc Foley converted the family to a variable font. To contribute, see github.com/googlefonts/teko .",
+  "homepage": "https://fonts.google.com/specimen/Teko",
+  "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Teko",
+      "files": [
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN9JG7S33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8XG7S33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8lG7S33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_JHLS33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_wHLS33TKEvkCF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN9JG7S33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8XG7S33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8lG7S33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_JHLS33TKEvkCF.woff2",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_wHLS33TKEvkCF.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Teko",
+      "files": [
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN9JG7Sy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8XG7Sy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8lG7Sy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_JHLSy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_wHLSy3TKEvkCF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN9JG7Sy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8XG7Sy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN8lG7Sy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_JHLSy3TKEvkCF.ttf",
+        "https://fonts.gstatic.com/s/teko/v23/LYjYdG7kmE0gV69VVPPdFl06VN_wHLSy3TKEvkCF.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Teko Light",
+      "styles": [
+        {
+          "family_name": "Teko Light",
+          "type": "Regular",
+          "full_name": "Teko Light",
+          "post_script_name": "Teko-Light",
+          "version": "2.000;gftools[0.9.28.dev9+g7d2139d.d20230707]",
+          "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LYjYdG7kmE0gV69VVPPdFl06VN9JG7Sy3TKEvkCF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teko",
+      "styles": [
+        {
+          "family_name": "Teko",
+          "type": "Regular",
+          "full_name": "Teko Regular",
+          "post_script_name": "Teko-Regular",
+          "version": "2.000;gftools[0.9.28.dev9+g7d2139d.d20230707]",
+          "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LYjYdG7kmE0gV69VVPPdFl06VN8XG7Sy3TKEvkCF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Teko",
+          "type": "Bold",
+          "full_name": "Teko Bold",
+          "post_script_name": "Teko-Bold",
+          "version": "2.000;gftools[0.9.28.dev9+g7d2139d.d20230707]",
+          "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LYjYdG7kmE0gV69VVPPdFl06VN_wHLSy3TKEvkCF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teko Medium",
+      "styles": [
+        {
+          "family_name": "Teko Medium",
+          "type": "Regular",
+          "full_name": "Teko Medium",
+          "post_script_name": "Teko-Medium",
+          "version": "2.000;gftools[0.9.28.dev9+g7d2139d.d20230707]",
+          "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LYjYdG7kmE0gV69VVPPdFl06VN8lG7Sy3TKEvkCF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teko SemiBold",
+      "styles": [
+        {
+          "family_name": "Teko SemiBold",
+          "type": "Regular",
+          "full_name": "Teko SemiBold",
+          "post_script_name": "Teko-SemiBold",
+          "version": "2.000;gftools[0.9.28.dev9+g7d2139d.d20230707]",
+          "copyright": "Copyright 2023 The Teko Project Authors (https://www.github.com/googlefonts/teko)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LYjYdG7kmE0gV69VVPPdFl06VN_JHLSy3TKEvkCF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

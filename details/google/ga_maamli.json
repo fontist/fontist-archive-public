@@ -1,0 +1,58 @@
+{
+  "slug": "google/ga_maamli",
+  "name": "ga_maamli",
+  "description": "Ga Maamli font family",
+  "homepage": "https://fonts.google.com/specimen/Ga+Maamli",
+  "copyright": "Copyright 2023 The Ga Maamli Project Authors (https://github.com/SorkinType/GaMaamli)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ga Maamli",
+      "files": [
+        "https://fonts.gstatic.com/s/gamaamli/v3/uU9NCBsQ4c-DPW1Yo3rR2t6CilKOdQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gamaamli/v3/uU9NCBsQ4c-DPW1Yo3rR2t6CilKOdQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ga Maamli",
+      "files": [
+        "https://fonts.gstatic.com/s/gamaamli/v3/uU9NCBsQ4c-DPW1Yo3rR396CilKOdQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gamaamli/v3/uU9NCBsQ4c-DPW1Yo3rR396CilKOdQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ga Maamli",
+      "styles": [
+        {
+          "family_name": "Ga Maamli",
+          "type": "Regular",
+          "full_name": "Ga Maamli Regular",
+          "post_script_name": "GaMaamli-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Ga Maamli Project Authors (https://github.com/SorkinType/GaMaamli)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "uU9NCBsQ4c-DPW1Yo3rR2t6CilKOdQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "sil/nuosu_sil",
+  "name": "Nuosu SIL",
+  "description": "Nuosu SIL",
+  "homepage": "http://www.sil.org/",
+  "copyright": "Copyright (c) 1999-2020 SIL International",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Nuosu_SIL.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/nuosu/NuosuSIL-2.200.zip",
+        "https://web.archive.org/web/20260505160039/https://software.sil.org/downloads/r/nuosu/NuosuSIL-2.200.zip"
+      ],
+      "sha256": "db6db52db1eac2c1e89d4434504e4300238686773c2a69708cc233f893aefce4",
+      "file_size": 160601
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nuosu SIL",
+      "styles": [
+        {
+          "family_name": "Nuosu SIL",
+          "type": "Regular",
+          "full_name": "Nuosu SIL",
+          "post_script_name": "NuosuSIL-Regular",
+          "version": "2.200",
+          "copyright": "Copyright (c) 1999-2020 SIL International",
+          "description": "Yi script font",
+          "font": "NuosuSIL-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

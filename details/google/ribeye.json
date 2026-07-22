@@ -1,0 +1,58 @@
+{
+  "slug": "google/ribeye",
+  "name": "ribeye",
+  "description": "Ribeye and Ribeye Marrow are reminiscent of a cartoon tattoo style of lettering, but exhibit a playfulness that breaks traditional weight distribution across its letterforms. An edgy attitude, friendly syncopation, and highly legible letterforms makes these fonts a real pair of charmers.",
+  "homepage": "https://fonts.google.com/specimen/Ribeye",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Ribeye\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ribeye",
+      "files": [
+        "https://fonts.gstatic.com/s/ribeye/v27/L0x8DFMxk1MP9R3RvPCmRSlUig.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ribeye/v27/L0x8DFMxk1MP9R3RvPCmRSlUig.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ribeye",
+      "files": [
+        "https://fonts.gstatic.com/s/ribeye/v27/L0x8DFMxk1MP9R3RufCmRSlUig.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ribeye/v27/L0x8DFMxk1MP9R3RufCmRSlUig.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ribeye",
+      "styles": [
+        {
+          "family_name": "Ribeye",
+          "type": "Regular",
+          "full_name": "Ribeye",
+          "post_script_name": "Ribeye-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Ribeye\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "L0x8DFMxk1MP9R3RvPCmRSlUig.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

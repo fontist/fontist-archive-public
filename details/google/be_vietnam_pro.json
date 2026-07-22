@@ -1,0 +1,416 @@
+{
+  "slug": "google/be_vietnam_pro",
+  "name": "be_vietnam_pro",
+  "description": "Be Vietnam Pro is a Neo Grotesk which is well suited to tech companies and startups. We have refined Vietnamese letterforms with diacritics adaptive forms and engineered them for the best readability. To contribute, see github.com/bettergui/BeVietnamPro .",
+  "homepage": "https://fonts.google.com/specimen/Be+Vietnam+Pro",
+  "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Be Vietnam Pro",
+      "files": [
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUBX8YYbAiah8.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSZZIneh-waA.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JF8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ18yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_EwwD3s6ZKAi.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HwyBX8YYbAiah8.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJl8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIV8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2RbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIF8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3RbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI18yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80RbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Il8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1RbgJdhapcUU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUBX8YYbAiah8.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSZZIneh-waA.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JF8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ18yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_EwwD3s6ZKAi.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HwyBX8YYbAiah8.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJl8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIV8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2RbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIF8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3RbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI18yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80RbgJdhapcUU.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Il8yT7wrcwap.ttf",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1RbgJdhapcUU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Be Vietnam Pro",
+      "files": [
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUBXoYYbAiah8.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSYJIneh-waA.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JF83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ183T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Ew1D3s6ZKAi.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HwyBXoYYbAiah8.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJl83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIV83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2Rb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIF83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3Rb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI183T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80Rb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Il83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1Rb0JdhapcUU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HRUBXoYYbAiah8.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSYJIneh-waA.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HT4JF83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HScJ183T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVPSTAyLFyeg_IDWvOJmVES_Ew1D3s6ZKAi.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVNSTAyLFyeg_IDWvOJmVES_HwyBXoYYbAiah8.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HTEJl83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HToIV83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2Rb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSMIF83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3Rb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HSQI183T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80Rb0JdhapcUU.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVMSTAyLFyeg_IDWvOJmVES_HS0Il83T7wrcwap.woff2",
+        "https://fonts.gstatic.com/s/bevietnampro/v12/QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1Rb0JdhapcUU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Be Vietnam Pro Thin",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro Thin",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro Thin",
+          "post_script_name": "BeVietnamPro-Thin",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVNSTAyLFyeg_IDWvOJmVES_HRUBX8YYbAiah8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro Thin",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro Thin Italic",
+          "post_script_name": "BeVietnamPro-ThinItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVLSTAyLFyeg_IDWvOJmVES_HwyPRsSZZIneh-waA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro ExtraLight",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro ExtraLight",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro ExtraLight",
+          "post_script_name": "BeVietnamPro-ExtraLight",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HT4JF8yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro ExtraLight",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro ExtraLight Italic",
+          "post_script_name": "BeVietnamPro-ExtraLightItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPbczRbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro Light",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro Light",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro Light",
+          "post_script_name": "BeVietnamPro-Light",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HScJ18yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro Light",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro Light Italic",
+          "post_script_name": "BeVietnamPro-LightItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPdMwRbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro Regular",
+          "post_script_name": "BeVietnamPro-Regular",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVPSTAyLFyeg_IDWvOJmVES_EwwD3s6ZKAi.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro Italic",
+          "post_script_name": "BeVietnamPro-Italic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVNSTAyLFyeg_IDWvOJmVES_HwyBX8YYbAiah8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro",
+          "type": "Bold",
+          "full_name": "Be Vietnam Pro Bold",
+          "post_script_name": "BeVietnamPro-Bold",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HSMIF8yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro",
+          "type": "Bold Italic",
+          "full_name": "Be Vietnam Pro Bold Italic",
+          "post_script_name": "BeVietnamPro-BoldItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPcM3RbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro Medium",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro Medium",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro Medium",
+          "post_script_name": "BeVietnamPro-Medium",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HTEJl8yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro Medium",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro Medium Italic",
+          "post_script_name": "BeVietnamPro-MediumItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPYsxRbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro SemiBold",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro SemiBold",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro SemiBold",
+          "post_script_name": "BeVietnamPro-SemiBold",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HToIV8yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro SemiBold",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro SemiBold Italic",
+          "post_script_name": "BeVietnamPro-SemiBoldItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPac2RbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro ExtraBold",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro ExtraBold",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro ExtraBold",
+          "post_script_name": "BeVietnamPro-ExtraBold",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HSQI18yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro ExtraBold",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro ExtraBold Italic",
+          "post_script_name": "BeVietnamPro-ExtraBoldItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPd80RbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Be Vietnam Pro Black",
+      "styles": [
+        {
+          "family_name": "Be Vietnam Pro Black",
+          "type": "Regular",
+          "full_name": "Be Vietnam Pro Black",
+          "post_script_name": "BeVietnamPro-Black",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVMSTAyLFyeg_IDWvOJmVES_HS0Il8yT7wrcwap.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Be Vietnam Pro Black",
+          "type": "Italic",
+          "full_name": "Be Vietnam Pro Black Italic",
+          "post_script_name": "BeVietnamPro-BlackItalic",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Be Vietnam Pro Project Authors (https://github.com/bettergui/BeVietnamPro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QdVKSTAyLFyeg_IDWvOJmVES_HwyPfs1RbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,422 @@
+{
+  "slug": "google/albert_sans",
+  "name": "albert_sans",
+  "description": "Albert Sans is a modern geometric sans serif family, inspired by the type-characteristics of scandinavian architects and designers in the early 20th century. The Albert Sans family includes ten weights from Thin to Black and supports over two hundred languages. Designed by the Danish type designer Andreas Rasmussen from a.Foundry. To contribute, see github.com/usted/Albert-Sans .",
+  "homepage": "https://fonts.google.com/specimen/Albert+Sans",
+  "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Albert Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7of3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6If3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6If3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6If3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6If3bRUz1r5t.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_qY32TxAj1g.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7of3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al74f3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6If3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6If3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6If3bRUz1r5t.woff2",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6If3bRUz1r5t.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Albert Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7ofybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6IfybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6IfybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6IfybRUz1r5t.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_rI32TxAj1g.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7ofybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al74fybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6IfybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6IfybRUz1r5t.ttf",
+        "https://fonts.gstatic.com/s/albertsans/v4/i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6IfybRUz1r5t.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Albert Sans Thin",
+      "styles": [
+        {
+          "family_name": "Albert Sans Thin",
+          "type": "Regular",
+          "full_name": "Albert Sans Thin",
+          "post_script_name": "AlbertSans-Thin",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5L_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans Thin",
+          "type": "Italic",
+          "full_name": "Albert Sans Thin Italic",
+          "post_script_name": "AlbertSans-ThinItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX7ofybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Albert Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Albert Sans ExtraLight",
+          "post_script_name": "AlbertSans-ExtraLight",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5P_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Albert Sans ExtraLight Italic",
+          "post_script_name": "AlbertSans-ExtraLightItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX74fybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans Light",
+      "styles": [
+        {
+          "family_name": "Albert Sans Light",
+          "type": "Regular",
+          "full_name": "Albert Sans Light",
+          "post_script_name": "AlbertSans-Light",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSH9ZP_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans Light",
+          "type": "Italic",
+          "full_name": "Albert Sans Light Italic",
+          "post_script_name": "AlbertSans-LightItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9BJ74fybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans",
+      "styles": [
+        {
+          "family_name": "Albert Sans",
+          "type": "Regular",
+          "full_name": "Albert Sans Regular",
+          "post_script_name": "AlbertSans-Regular",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHq5P_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans",
+          "type": "Bold",
+          "full_name": "Albert Sans Bold",
+          "post_script_name": "AlbertSans-Bold",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHTJT_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans",
+          "type": "Italic",
+          "full_name": "Albert Sans Italic",
+          "post_script_name": "AlbertSans-Italic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9AX74fybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans",
+          "type": "Bold Italic",
+          "full_name": "Albert Sans Bold Italic",
+          "post_script_name": "AlbertSans-BoldItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Dw6IfybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans Medium",
+      "styles": [
+        {
+          "family_name": "Albert Sans Medium",
+          "type": "Regular",
+          "full_name": "Albert Sans Medium",
+          "post_script_name": "AlbertSans-Medium",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHmZP_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans Medium",
+          "type": "Italic",
+          "full_name": "Albert Sans Medium Italic",
+          "post_script_name": "AlbertSans-MediumItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9Al74fybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Albert Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Albert Sans SemiBold",
+          "post_script_name": "AlbertSans-SemiBold",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHdZT_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Albert Sans SemiBold Italic",
+          "post_script_name": "AlbertSans-SemiBoldItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9DJ6IfybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Albert Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Albert Sans ExtraBold",
+          "post_script_name": "AlbertSans-ExtraBold",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHK5T_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Albert Sans ExtraBold Italic",
+          "post_script_name": "AlbertSans-ExtraBoldItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9CX6IfybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Albert Sans Black",
+      "styles": [
+        {
+          "family_name": "Albert Sans Black",
+          "type": "Regular",
+          "full_name": "Albert Sans Black",
+          "post_script_name": "AlbertSans-Black",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dZIFdwYjGaAMFtZd_QA3xXSKZqhr-TenSHApT_rI32TxAj1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Albert Sans Black",
+          "type": "Italic",
+          "full_name": "Albert Sans Black Italic",
+          "post_script_name": "AlbertSans-BlackItalic",
+          "version": "1.025",
+          "copyright": "Copyright 2021 The Albert Sans Project Authors (https://github.com/usted/Albert-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "i7dfIFdwYjGaAMFtZd_QA1Zeelmy79QJ1HOSY9C-6IfybRUz1r5t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

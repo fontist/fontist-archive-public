@@ -1,0 +1,113 @@
+{
+  "slug": "google/tuffy",
+  "name": "tuffy",
+  "description": "Tuffy is a grotesque sans-serif type.",
+  "homepage": "https://fonts.google.com/specimen/Tuffy",
+  "copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, Michael Everson (http://www.evertype.com), with Reserved Font Name \"Tuffy\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tuffy",
+      "files": [
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7rxzF4xmyfYe.ttf",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2GY56bHkJl7oxxHYhEzOYenEU.ttf",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2FY56bHkJl7oTPOKhu4uoXhVzg.ttf",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2DY56bHkJl7oxxJTRr6O41gEzgZoQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7rxzF4xmyfYe.ttf",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2GY56bHkJl7oxxHYhEzOYenEU.ttf",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2FY56bHkJl7oTPOKhu4uoXhVzg.ttf",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2DY56bHkJl7oxxJTRr6O41gEzgZoQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tuffy",
+      "files": [
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7rx2F4xmyfYe.woff2",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2GY56bHkJl7oxxHY1EzOYenEU.woff2",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2FY56bHkJl7oTPOKhr4uoXhVzg.woff2",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2DY56bHkJl7oxxJTRr6Os1gEzgZoQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2IY56bHkJl7rx2F4xmyfYe.woff2",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2GY56bHkJl7oxxHY1EzOYenEU.woff2",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2FY56bHkJl7oTPOKhr4uoXhVzg.woff2",
+        "https://fonts.gstatic.com/s/tuffy/v1/1q2DY56bHkJl7oxxJTRr6Os1gEzgZoQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tuffy",
+      "styles": [
+        {
+          "family_name": "Tuffy",
+          "type": "Regular",
+          "full_name": "Tuffy Regular",
+          "post_script_name": "Tuffy-Regular",
+          "version": "1.272; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, Michael Everson (http://www.evertype.com), with Reserved Font Name \"Tuffy\"",
+          "variable_font": false,
+          "font": "1q2IY56bHkJl7rxzF4xmyfYe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tuffy",
+          "type": "Italic",
+          "full_name": "Tuffy Italic",
+          "post_script_name": "Tuffy-Italic",
+          "version": "1.272; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, Michael Everson (http://www.evertype.com), with Reserved Font Name \"Tuffy",
+          "variable_font": false,
+          "font": "1q2GY56bHkJl7oxxHYhEzOYenEU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tuffy",
+          "type": "Bold",
+          "full_name": "Tuffy Bold",
+          "post_script_name": "Tuffy-Bold",
+          "version": "001.271 ",
+          "copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, Michael Everson (http://www.evertype.com), with Reserved Font Name \"Tuffy\"\n",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "1q2FY56bHkJl7oTPOKhu4uoXhVzg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tuffy",
+          "type": "BoldItalic",
+          "full_name": "Tuffy Bold Italic",
+          "post_script_name": "Tuffy-BoldItalic",
+          "version": "001.271 ",
+          "copyright": "Copyright (c) 2011, Thatcher Ulrich (http://tulrich.com), Karoly Barta, Michael Everson (http://www.evertype.com), with Reserved Font Name \"Tuffy\"\n",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "1q2DY56bHkJl7oxxJTRr6O41gEzgZoQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

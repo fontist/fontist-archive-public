@@ -1,0 +1,58 @@
+{
+  "slug": "google/kolker_brush",
+  "name": "kolker_brush",
+  "description": "Kolker Brush is a weighty hand lettered brush script. As with any script, it is never recommended to use all caps when editing copy. Use Kolker Brush for situations that require a bit of punch. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/kolker-brush .",
+  "homepage": "https://fonts.google.com/specimen/Kolker+Brush",
+  "copyright": "Copyright 2004 The Kolker Brush Project Authors (https://github.com/googlefonts/kolker-brush)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kolker Brush",
+      "files": [
+        "https://fonts.gstatic.com/s/kolkerbrush/v8/iJWDBXWRZjfKWdvmzwvvog3-7KJ6x8qNUQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kolkerbrush/v8/iJWDBXWRZjfKWdvmzwvvog3-7KJ6x8qNUQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kolker Brush",
+      "files": [
+        "https://fonts.gstatic.com/s/kolkerbrush/v8/iJWDBXWRZjfKWdvmzwvvog3-6aJ6x8qNUQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kolkerbrush/v8/iJWDBXWRZjfKWdvmzwvvog3-6aJ6x8qNUQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kolker Brush",
+      "styles": [
+        {
+          "family_name": "Kolker Brush",
+          "type": "Regular",
+          "full_name": "Kolker Brush Regular",
+          "post_script_name": "KolkerBrush-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004 The Kolker Brush Project Authors (https://github.com/googlefonts/kolker-brush)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "iJWDBXWRZjfKWdvmzwvvog3-7KJ6x8qNUQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/grand_hotel",
+  "name": "grand_hotel",
+  "description": "Grand Hotel finds its inspiration from the title screen of the 1937 film \"Cafe Metropole\" starring Tyrone Power. This condensed upright connecting script has a classic vibe to it. It has a wonderful weight to it that feels subtly tied to Holiday and Bakery themed designs, even though it can work outside that genre. Designed by Brian J. Bonislawsky and Jim Lyles for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Grand+Hotel",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Grand Hotel\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Grand Hotel",
+      "files": [
+        "https://fonts.gstatic.com/s/grandhotel/v21/7Au7p_IgjDKdCRWuR1azpmQNEl0O0kEx.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grandhotel/v21/7Au7p_IgjDKdCRWuR1azpmQNEl0O0kEx.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Grand Hotel",
+      "files": [
+        "https://fonts.gstatic.com/s/grandhotel/v21/7Au7p_IgjDKdCRWuR1azpmQIEl0O0kEx.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grandhotel/v21/7Au7p_IgjDKdCRWuR1azpmQIEl0O0kEx.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Grand Hotel",
+      "styles": [
+        {
+          "family_name": "Grand Hotel",
+          "type": "Regular",
+          "full_name": "Grand Hotel",
+          "post_script_name": "GrandHotel-Regular",
+          "version": "001.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Grand Hotel\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "7Au7p_IgjDKdCRWuR1azpmQNEl0O0kEx.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "google/danfo",
+  "name": "danfo",
+  "description": "",
+  "homepage": "https://fonts.google.com/specimen/Danfo",
+  "copyright": "Copyright 2024 The Tac Project Authors (https://github.com/Afrotype/Danfo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Danfo",
+      "files": [
+        "https://fonts.gstatic.com/s/danfo/v5/snf3s0u_98t16THfK1Csj3N41ZqbYDe5Tr1ToPrNKQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/danfo/v5/snf3s0u_98t16THfK1Csj3N41ZqbYDe5Tr1ToPrNKQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "ELSH"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Danfo",
+      "files": [
+        "https://fonts.gstatic.com/s/danfo/v5/snf3s0u_98t16THfK1Csj3N41ZqbYDe5S71ToPrNKQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/danfo/v5/snf3s0u_98t16THfK1Csj3N41ZqbYDe5S71ToPrNKQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "ELSH"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Danfo",
+      "styles": [
+        {
+          "family_name": "Danfo",
+          "type": "Regular",
+          "full_name": "Danfo Regular",
+          "post_script_name": "Danfo-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2024 The Tac Project Authors (https://github.com/Afrotype/Danfo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "snf3s0u_98t16THfK1Csj3N41ZqbYDe5S71ToPrNKQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

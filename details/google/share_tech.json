@@ -1,0 +1,58 @@
+{
+  "slug": "google/share_tech",
+  "name": "share_tech",
+  "description": "Share Tech is a sans serif, based on the Share family. There is also Share Tech Mono .",
+  "homepage": "https://fonts.google.com/specimen/Share+Tech",
+  "copyright": "Copyright 2012 The Share Tech Project Authors (post@carrois.com), with Reserved Font Name 'Share’.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Share Tech",
+      "files": [
+        "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Share Tech",
+      "files": [
+        "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwH8DmTcibrA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sharetech/v23/7cHtv4Uyi5K0OeZ7bohUwH8DmTcibrA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Share Tech",
+      "styles": [
+        {
+          "family_name": "Share Tech",
+          "type": "Regular",
+          "full_name": "Share Tech Regular",
+          "post_script_name": "ShareTech-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2012 The Share Tech Project Authors (post@carrois.com), with Reserved Font Name 'Share’.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "7cHtv4Uyi5K0OeZ7bohUwHoDmTcibrA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

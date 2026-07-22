@@ -1,0 +1,58 @@
+{
+  "slug": "google/maname",
+  "name": "maname",
+  "description": "Maname font family",
+  "homepage": "https://fonts.google.com/specimen/Maname",
+  "copyright": "Copyright 2015-2023 The Maname Project Authors (https://github.com/mooniak/maname-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Maname",
+      "files": [
+        "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my42FkGGI6q_Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Maname",
+      "files": [
+        "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my43VkGGI6q_Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/maname/v2/gNMFW3J8RpCx9my43VkGGI6q_Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Maname",
+      "styles": [
+        {
+          "family_name": "Maname",
+          "type": "Regular",
+          "full_name": "Maname Regular",
+          "post_script_name": "Maname-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2015-2023 The Maname Project Authors (https://github.com/mooniak/maname-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "gNMFW3J8RpCx9my42FkGGI6q_Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

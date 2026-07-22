@@ -1,0 +1,58 @@
+{
+  "slug": "google/snippet",
+  "name": "snippet",
+  "description": "Snippet’s light weight and unusual construction give texts a special flow and make you want to look twice! In headlines Snippet’s many details show and help you create a clean but witty look.",
+  "homepage": "https://fonts.google.com/specimen/Snippet",
+  "copyright": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Snippet",
+      "files": [
+        "https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu2v_Afcp9QWc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu2v_Afcp9QWc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Snippet",
+      "files": [
+        "https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu2vrAfcp9QWc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/snippet/v21/bWt47f7XfQH9Gupu2vrAfcp9QWc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Snippet",
+      "styles": [
+        {
+          "family_name": "Snippet",
+          "type": "Regular",
+          "full_name": "Snippet",
+          "post_script_name": "Snippet",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011 Gesine Todt Ê(www.gesine-todt.de), with Reserved Font Name \"Snippet\". This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "bWt47f7XfQH9Gupu2v_Afcp9QWc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

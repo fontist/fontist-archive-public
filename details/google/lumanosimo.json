@@ -1,0 +1,58 @@
+{
+  "slug": "google/lumanosimo",
+  "name": "lumanosimo",
+  "description": "Lumanosimo is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Lucida Handwriting that minimizes text reflow in Office Open XML documents. Lumanosimo is based on Paprika, which is an expressive typeface. To contribute, please visit github.com/docrepair-fonts/lumanosimo-fonts .",
+  "homepage": "https://fonts.google.com/specimen/Lumanosimo",
+  "copyright": "Copyright 2023 The Lumanosimo Project Authors (https://github.com/docrepair-fonts/lumanosimo-fonts).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lumanosimo",
+      "files": [
+        "https://fonts.gstatic.com/s/lumanosimo/v5/K2F0fZBYg_JDSEZHEfO8AoqKAyLzfWo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lumanosimo/v5/K2F0fZBYg_JDSEZHEfO8AoqKAyLzfWo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lumanosimo",
+      "files": [
+        "https://fonts.gstatic.com/s/lumanosimo/v5/K2F0fZBYg_JDSEZHEfO8Ao-KAyLzfWo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lumanosimo/v5/K2F0fZBYg_JDSEZHEfO8Ao-KAyLzfWo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lumanosimo",
+      "styles": [
+        {
+          "family_name": "Lumanosimo",
+          "type": "Regular",
+          "full_name": "Lumanosimo Regular",
+          "post_script_name": "Lumanosimo-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2023 The Lumanosimo Project Authors (https://github.com/docrepair-fonts/lumanosimo-fonts).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "K2F0fZBYg_JDSEZHEfO8AoqKAyLzfWo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

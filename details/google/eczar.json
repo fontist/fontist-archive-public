@@ -1,0 +1,155 @@
+{
+  "slug": "google/eczar",
+  "name": "eczar",
+  "description": "Eczar started as a student project in 2010–11 during Vaibhav Singh’s MA studies in Typeface Design at the University of Reading. Eczar was designed to bring liveliness and vigor to multi-script typesetting in Latin and Devanagari – with the intention of providing an alternative to existing designs by imparting a strong mix of personality and performance, both at text sizes and in display settings. The family offers a wide expressive range and the display qualities of the design intensify with corresponding increase in weight, making the heaviest weights best suited for headlines and display purposes. To contribute, see github.com/rosettatype/eczar .",
+  "homepage": "https://fonts.google.com/specimen/Eczar",
+  "copyright": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Eczar",
+      "files": [
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6WrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXL96WrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXw9mWrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmWrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXndmWrDIVKWJKWg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6WrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXL96WrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXw9mWrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmWrDIVKWJKWg.woff2",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXndmWrDIVKWJKWg.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Eczar",
+      "files": [
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6WqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXL96WqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXw9mWqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmWqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXndmWqTIVKWJKWg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6WqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXL96WqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXw9mWqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmWqTIVKWJKWg.ttf",
+        "https://fonts.gstatic.com/s/eczar/v27/BXR2vF3Pi-DLmxcpJB-qbNTyTMDXndmWqTIVKWJKWg.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Eczar",
+      "styles": [
+        {
+          "family_name": "Eczar",
+          "type": "Regular",
+          "full_name": "Eczar Regular",
+          "post_script_name": "Eczar-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "BXR2vF3Pi-DLmxcpJB-qbNTyTMDXHd6WqTIVKWJKWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Eczar",
+          "type": "Bold",
+          "full_name": "Eczar Bold",
+          "post_script_name": "Eczar-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmWqTIVKWJKWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eczar Medium",
+      "styles": [
+        {
+          "family_name": "Eczar Medium",
+          "type": "Regular",
+          "full_name": "Eczar Medium",
+          "post_script_name": "Eczar-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "BXR2vF3Pi-DLmxcpJB-qbNTyTMDXL96WqTIVKWJKWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eczar SemiBold",
+      "styles": [
+        {
+          "family_name": "Eczar SemiBold",
+          "type": "Regular",
+          "full_name": "Eczar SemiBold",
+          "post_script_name": "Eczar-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "BXR2vF3Pi-DLmxcpJB-qbNTyTMDXw9mWqTIVKWJKWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eczar ExtraBold",
+      "styles": [
+        {
+          "family_name": "Eczar ExtraBold",
+          "type": "Regular",
+          "full_name": "Eczar ExtraBold",
+          "post_script_name": "Eczar-ExtraBold",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Eczar Project Authors (https://github.com/rosettatype/eczar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "BXR2vF3Pi-DLmxcpJB-qbNTyTMDXndmWqTIVKWJKWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

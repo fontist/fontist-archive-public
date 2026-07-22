@@ -1,0 +1,58 @@
+{
+  "slug": "google/tauri",
+  "name": "tauri",
+  "description": "Foundry: Sorkin Type Co Tauri is a semi condensed sans typeface with a sense of restraint, clarity and rigor. Tauri's unique qualities do not shout and instead emerge slowly and organically as it is used. Tauri is useful from small to medium sizes but has enough subtle detail to be used at large sizes as well if it is more tightly spaced. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Tauri",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Tauri'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tauri",
+      "files": [
+        "https://fonts.gstatic.com/s/tauri/v20/TwMA-IISS0AM3IpVWHU_TBqO.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tauri/v20/TwMA-IISS0AM3IpVWHU_TBqO.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tauri",
+      "files": [
+        "https://fonts.gstatic.com/s/tauri/v20/TwMA-IISS0AM3IpQWHU_TBqO.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tauri/v20/TwMA-IISS0AM3IpQWHU_TBqO.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tauri",
+      "styles": [
+        {
+          "family_name": "Tauri",
+          "type": "Regular",
+          "full_name": "Tauri-Regular",
+          "post_script_name": "TauriRegular",
+          "version": "1.003; ttfautohint (v0.93.8-669f) -l 13 -r 13 -G 200 -x 13 -w \"gG\" -W -c",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name 'Tauri'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMA-IISS0AM3IpVWHU_TBqO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

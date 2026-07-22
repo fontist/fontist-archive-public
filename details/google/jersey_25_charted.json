@@ -1,0 +1,58 @@
+{
+  "slug": "google/jersey_25_charted",
+  "name": "jersey_25_charted",
+  "description": "The Soft Type Collection is designed for knitters to chart out their typographic projects. Jersey is a sporty, versatile sans-serif typeface, knittable in various sizes. Each typeface has a “Regular” and “Charted” version, and some include multiple scales so you can fit type on your knits, no matter the project's size. Check out the non-charted version Jersey 25 . In this collection, the number following the typeface's name indicates the height of the capital letters for that typeface. For this particular style, it's best to use a minimum of 30pt font size to ensure that it's clear, legible, and visually appealing across different platforms and mediums. To contribute, please see github.com/scfried/soft-type-jersey .",
+  "homepage": "https://fonts.google.com/specimen/Jersey+25+Charted",
+  "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jersey 25 Charted",
+      "files": [
+        "https://fonts.gstatic.com/s/jersey25charted/v3/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2uUGQW93Cg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jersey25charted/v3/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2uUGQW93Cg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jersey 25 Charted",
+      "files": [
+        "https://fonts.gstatic.com/s/jersey25charted/v3/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2rUGQW93Cg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jersey25charted/v3/6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2rUGQW93Cg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jersey 25 Charted",
+      "styles": [
+        {
+          "family_name": "Jersey 25 Charted",
+          "type": "Regular",
+          "full_name": "Jersey 25 Charted Regular",
+          "post_script_name": "Jersey25Charted-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "6NUM8EWHIhCWbxOqtLkv94Rlu6EkGv2uUGQW93Cg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

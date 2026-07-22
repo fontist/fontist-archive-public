@@ -1,0 +1,58 @@
+{
+  "slug": "google/triodion",
+  "name": "triodion",
+  "description": "Triodion is a contemporary Church Slavonic font that reproduces the typeface most commonly used in liturgical books published in St. Petersburg and Moscow at the end of the 19th and beginning of the 20th century and the current editions printed in Moscow by the Publishing House of the Moscow Patriarchate. To contribute, please see github.com/slavonic/Triodion .",
+  "homepage": "https://fonts.google.com/specimen/Triodion",
+  "copyright": "Copyright 2025 The Triodion Project Authors (https://github.com/slavonic/Triodion).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Triodion",
+      "files": [
+        "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr5u-W10l_X.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr5u-W10l_X.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Triodion",
+      "files": [
+        "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr8u-W10l_X.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/triodion/v3/IFSnHe5TgMVEmMQV5mr8u-W10l_X.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Triodion",
+      "styles": [
+        {
+          "family_name": "Triodion",
+          "type": "Regular",
+          "full_name": "Triodion Regular",
+          "post_script_name": "Triodion-Regular",
+          "version": "1.202; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2025 The Triodion Project Authors (https://github.com/slavonic/Triodion).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "IFSnHe5TgMVEmMQV5mr5u-W10l_X.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

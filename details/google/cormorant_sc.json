@@ -1,0 +1,149 @@
+{
+  "slug": "google/cormorant_sc",
+  "name": "cormorant_sc",
+  "description": "Cormorant is a free display type family developed by Christian Thalmann. The project currently comprises a total of 45 font files spanning 9 different visual styles (Roman, Italic, Infant, Infant Italic, Garamond, Garamond Italic, Upright Cursive, Small Caps, and Unicase) and 5 weights (Light, Regular, Medium, SemiBold, and Bold.) Cormorant was conceived, drawn, spaced, kerned, programmed, interpolated, and produced in its entirety by Christian Thalmann of Catharsis Fonts. For an illustrated presentation and description of the family, please visit its B&#275;hance page . While this project was heavily inspired by Claude Garamont's immortal legacy, Christian did not use any specific font as a starting point or direct reference for the designs. Most glyphs were drawn from scratch; when he needed guidance on a specific character, he searched for the term Garamond and skimmed through the results for a general impression. He is grateful to the creative souls on the Typophile, TypeDrawers and Typografie forums, and Github, for a wealth of knowledge about type design, and for providing a large amount of excellent feedback on Cormorant during its development. He also thanks the tireless folks at Glyphs, in particular Rainer Erich Scheichelbauer of Schriftlabor and Georg Seifert. Special thanks go to Dave Crossland and Google Fonts for making the libre release of this font family possible through generous funding of the development process. The Cormorant project is led by Christian Thalmann, a type designer based in Zurich, Switzerland. To contribute, see github.com/CatharsisFonts/Cormorant",
+  "homepage": "https://fonts.google.com/specimen/Cormorant+SC",
+  "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cormorant SC",
+      "files": [
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmABIU_R3y8DOWGA.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0yb5GD4kxqXBmOVLG30OGwserDow9Tbu-Q.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmWBMU_R3y8DOWGA.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmdBQU_R3y8DOWGA.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmEBUU_R3y8DOWGA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmABIU_R3y8DOWGA.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0yb5GD4kxqXBmOVLG30OGwserDow9Tbu-Q.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmWBMU_R3y8DOWGA.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmdBQU_R3y8DOWGA.ttf",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmEBUU_R3y8DOWGA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cormorant SC",
+      "files": [
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmABIU-B3y8DOWGA.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0yb5GD4kxqXBmOVLG30OGwseqTow9Tbu-Q.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmWBMU-B3y8DOWGA.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmdBQU-B3y8DOWGA.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmEBUU-B3y8DOWGA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmABIU-B3y8DOWGA.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0yb5GD4kxqXBmOVLG30OGwseqTow9Tbu-Q.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmWBMU-B3y8DOWGA.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmdBQU-B3y8DOWGA.woff2",
+        "https://fonts.gstatic.com/s/cormorantsc/v19/0ybmGD4kxqXBmOVLG30OGwsmEBUU-B3y8DOWGA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cormorant SC Light",
+      "styles": [
+        {
+          "family_name": "Cormorant SC Light",
+          "type": "Regular",
+          "full_name": "Cormorant SC Light",
+          "post_script_name": "CormorantSC-Light",
+          "version": "4.000",
+          "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0ybmGD4kxqXBmOVLG30OGwsmABIU_R3y8DOWGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cormorant SC",
+      "styles": [
+        {
+          "family_name": "Cormorant SC",
+          "type": "Regular",
+          "full_name": "Cormorant SC Regular",
+          "post_script_name": "CormorantSC-Regular",
+          "version": "4.000",
+          "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0yb5GD4kxqXBmOVLG30OGwserDow9Tbu-Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cormorant SC",
+          "type": "Bold",
+          "full_name": "Cormorant SC Bold",
+          "post_script_name": "CormorantSC-Bold",
+          "version": "4.000",
+          "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0ybmGD4kxqXBmOVLG30OGwsmEBUU_R3y8DOWGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cormorant SC Medium",
+      "styles": [
+        {
+          "family_name": "Cormorant SC Medium",
+          "type": "Regular",
+          "full_name": "Cormorant SC Medium",
+          "post_script_name": "CormorantSC-Medium",
+          "version": "4.000",
+          "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0ybmGD4kxqXBmOVLG30OGwsmWBMU_R3y8DOWGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cormorant SC SemiBold",
+      "styles": [
+        {
+          "family_name": "Cormorant SC SemiBold",
+          "type": "Regular",
+          "full_name": "Cormorant SC SemiBold",
+          "post_script_name": "CormorantSC-SemiBold",
+          "version": "4.000",
+          "copyright": "Copyright 2015 The Cormorant Project Authors (github.com/CatharsisFonts/Cormorant)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0ybmGD4kxqXBmOVLG30OGwsmdBQU_R3y8DOWGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/smooch",
+  "name": "smooch",
+  "description": "Smooch is a brushy handwritten script font full of speedy personality. It has a contemporary feel often accomplished with stranded brush strokes. It is slightly bolder than other hand-lettered scripts by its creator and has up to five stylistic sets as well as initial and final positional forms expanding its utility. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/smooch .",
+  "homepage": "https://fonts.google.com/specimen/Smooch",
+  "copyright": "Copyright 2017 The Smooch Project Authors (https://github.com/googlefonts/smooch)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Smooch",
+      "files": [
+        "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUBjqp_6hVdYg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUBjqp_6hVdYg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Smooch",
+      "files": [
+        "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUBi6p_6hVdYg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/smooch/v9/o-0LIps4xW8U1xUBi6p_6hVdYg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Smooch",
+      "styles": [
+        {
+          "family_name": "Smooch",
+          "type": "Regular",
+          "full_name": "Smooch Regular",
+          "post_script_name": "Smooch-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Smooch Project Authors (https://github.com/googlefonts/smooch)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "o-0LIps4xW8U1xUBjqp_6hVdYg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

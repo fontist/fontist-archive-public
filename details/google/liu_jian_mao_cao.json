@@ -1,0 +1,58 @@
+{
+  "slug": "google/liu_jian_mao_cao",
+  "name": "liu_jian_mao_cao",
+  "description": "Liu Jian Mao Cao is a grass script font based on the work of calligrapher Liu Zhengjiang. Like most grass scripts, LiuJian is boundless and expressive, but is also tempered with mellow approachability. Like water, its flow is full and gentle, restoring a still image to movement. The latin script included in the font was designed by Kimberly Geswein. To contribute, see github.com/googlefonts/liujianmaocao .",
+  "homepage": "https://fonts.google.com/specimen/Liu+Jian+Mao+Cao",
+  "copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Liu Jian Mao Cao",
+      "files": [
+        "https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOoferVKGWsUo8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOoferVKGWsUo8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Liu Jian Mao Cao",
+      "files": [
+        "https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOofe_VKGWsUo8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/liujianmaocao/v24/845DNN84HJrccNonurqXILGpvCOofe_VKGWsUo8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Liu Jian Mao Cao",
+      "styles": [
+        {
+          "family_name": "Liu Jian Mao Cao",
+          "type": "Regular",
+          "full_name": "Liu Jian Mao Cao Regular",
+          "post_script_name": "LiuJianMaoCao-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "845DNN84HJrccNonurqXILGpvCOoferVKGWsUo8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

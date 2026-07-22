@@ -1,0 +1,115 @@
+{
+  "slug": "google/almendra",
+  "name": "almendra",
+  "description": "Almendra is a typeface design based on calligraphy. Its style is related to the chancery and gothic hands. It is intended to be used in long texts, especially young children's literature. Almendra's black and white forms generate a nice texture in small sizes, while its many details appear when given the opportunity in huge sizes. The main challenge was to make compatible dialectic elements, especially balancing legibility and formal identity. Almendra was selected to be exhibited at the Bienal Iberoamericana de Diseo in 2010 and was part of the German editorial project Typodarium 2012. This is the Regular family, and there are sister Small Cap and Display families.",
+  "homepage": "https://fonts.google.com/specimen/Almendra",
+  "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Almendra",
+      "files": [
+        "https://fonts.gstatic.com/s/almendra/v28/H4ckBXKAlMnTn0CskyY6wr-wg763.ttf",
+        "https://fonts.gstatic.com/s/almendra/v28/H4ciBXKAlMnTn0CskxY4yLuShq63czE.ttf",
+        "https://fonts.gstatic.com/s/almendra/v28/H4cjBXKAlMnTn0Cskx6G7Zu4qKK-aihq.ttf",
+        "https://fonts.gstatic.com/s/almendra/v28/H4chBXKAlMnTn0CskxY48Ae9oqacbzhqDtg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almendra/v28/H4ckBXKAlMnTn0CskyY6wr-wg763.ttf",
+        "https://fonts.gstatic.com/s/almendra/v28/H4ciBXKAlMnTn0CskxY4yLuShq63czE.ttf",
+        "https://fonts.gstatic.com/s/almendra/v28/H4cjBXKAlMnTn0Cskx6G7Zu4qKK-aihq.ttf",
+        "https://fonts.gstatic.com/s/almendra/v28/H4chBXKAlMnTn0CskxY48Ae9oqacbzhqDtg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Almendra",
+      "files": [
+        "https://fonts.gstatic.com/s/almendra/v28/H4ckBXKAlMnTn0CskyY_wr-wg763.woff2",
+        "https://fonts.gstatic.com/s/almendra/v28/H4ciBXKAlMnTn0CskxY4yL6Shq63czE.woff2",
+        "https://fonts.gstatic.com/s/almendra/v28/H4cjBXKAlMnTn0Cskx6G7Zu9qKK-aihq.woff2",
+        "https://fonts.gstatic.com/s/almendra/v28/H4chBXKAlMnTn0CskxY48Ae9oqOcbzhqDtg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/almendra/v28/H4ckBXKAlMnTn0CskyY_wr-wg763.woff2",
+        "https://fonts.gstatic.com/s/almendra/v28/H4ciBXKAlMnTn0CskxY4yL6Shq63czE.woff2",
+        "https://fonts.gstatic.com/s/almendra/v28/H4cjBXKAlMnTn0Cskx6G7Zu9qKK-aihq.woff2",
+        "https://fonts.gstatic.com/s/almendra/v28/H4chBXKAlMnTn0CskxY48Ae9oqOcbzhqDtg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Almendra",
+      "styles": [
+        {
+          "family_name": "Almendra",
+          "type": "Regular",
+          "full_name": "Almendra Regular",
+          "post_script_name": "Almendra-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4ckBXKAlMnTn0CskyY6wr-wg763.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Almendra",
+          "type": "Italic",
+          "full_name": "Almendra Italic",
+          "post_script_name": "Almendra-Italic",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4ciBXKAlMnTn0CskxY4yLuShq63czE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Almendra",
+          "type": "Bold",
+          "full_name": "Almendra Bold",
+          "post_script_name": "Almendra-Bold",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4cjBXKAlMnTn0Cskx6G7Zu4qKK-aihq.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Almendra",
+          "type": "Bold Italic",
+          "full_name": "Almendra Bold Italic",
+          "post_script_name": "Almendra-BoldItalic",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Ana Sanfelippo (anasanfe@gmail.com), with Reserved Font Name 'Almendra'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4chBXKAlMnTn0CskxY48Ae9oqacbzhqDtg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

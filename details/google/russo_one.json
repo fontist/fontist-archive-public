@@ -1,0 +1,58 @@
+{
+  "slug": "google/russo_one",
+  "name": "russo_one",
+  "description": "Russo means Russian. It seems strange that in a such font there is no snow, vodka or bears. What I wanted to show is that Russian culture is quite varied and modern. In Russia, too, some people love good fonts and typography. Russo One is designed for headlines and logotypes. It is simple and original, stylish and casual. Russo One is a Unicode typeface family that supports languages that use the Cyrillic, Baltic, Turkish, Central Europe, Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Jovanny Lemonad .",
+  "homepage": "https://fonts.google.com/specimen/Russo+One",
+  "copyright": "Copyright (c) 2011-2012, Jovanny Lemonad (jovanny.ru), with Reserved Font Name \"Russo\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Russo One",
+      "files": [
+        "https://fonts.gstatic.com/s/russoone/v18/Z9XUDmZRWg6M1LvRYsH-yMOInrib9Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/russoone/v18/Z9XUDmZRWg6M1LvRYsH-yMOInrib9Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Russo One",
+      "files": [
+        "https://fonts.gstatic.com/s/russoone/v18/Z9XUDmZRWg6M1LvRYsH-zcOInrib9Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/russoone/v18/Z9XUDmZRWg6M1LvRYsH-zcOInrib9Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Russo One",
+      "styles": [
+        {
+          "family_name": "Russo One",
+          "type": "Regular",
+          "full_name": "Russo One",
+          "post_script_name": "RussoOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Jovanny Lemonad (jovanny.ru), with Reserved Font Name \"Russo\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Z9XUDmZRWg6M1LvRYsH-yMOInrib9Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

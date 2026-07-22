@@ -1,0 +1,101 @@
+{
+  "slug": "google/benchnine",
+  "name": "benchnine",
+  "description": "The design of BenchNine is loosely based on the look of the ink spreads and bleeds characteristic of traditional or vernacular woodcut type. The design takes a mash-up of a number of old Stephenson Blake designs and rounds the corners a little. In theory the face should work well for headlines that want to stand out just a little from the crowd.",
+  "homepage": "https://fonts.google.com/specimen/BenchNine",
+  "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BenchNine",
+      "files": [
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT--tRhWa8q0v8ag.ttf",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcbv8612zF4jxrwMosrV8N1jU2gog.ttf",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT6-xRhWa8q0v8ag.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT--tRhWa8q0v8ag.ttf",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcbv8612zF4jxrwMosrV8N1jU2gog.ttf",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT6-xRhWa8q0v8ag.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BenchNine",
+      "files": [
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT--tRgGa8q0v8ag.woff2",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcbv8612zF4jxrwMosrUsN1jU2gog.woff2",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT6-xRgGa8q0v8ag.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT--tRgGa8q0v8ag.woff2",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcbv8612zF4jxrwMosrUsN1jU2gog.woff2",
+        "https://fonts.gstatic.com/s/benchnine/v17/ahcev8612zF4jxrwMosT6-xRgGa8q0v8ag.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BenchNine Light",
+      "styles": [
+        {
+          "family_name": "BenchNine Light",
+          "type": "Regular",
+          "full_name": "BenchNine Light",
+          "post_script_name": "BenchNine-Light",
+          "version": "1 ; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w \"g\"",
+          "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ahcev8612zF4jxrwMosT--tRhWa8q0v8ag.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BenchNine",
+      "styles": [
+        {
+          "family_name": "BenchNine",
+          "type": "Regular",
+          "full_name": "BenchNine Regular",
+          "post_script_name": "BenchNine-Regular",
+          "version": "1 ; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w \"g\"",
+          "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ahcbv8612zF4jxrwMosrV8N1jU2gog.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "BenchNine",
+          "type": "Bold",
+          "full_name": "BenchNine Bold",
+          "post_script_name": "BenchNine-Bold",
+          "version": "1 ; ttfautohint (v0.92.18-e454-dirty) -l 8 -r 50 -G 200 -x 0 -w \"g\"",
+          "copyright": "Copyright (c) 2012, vernon adams (vern@newtypography.co.uk), with Reserved Font Name 'BenchNine'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ahcev8612zF4jxrwMosT6-xRhWa8q0v8ag.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/unifrakturcook",
+  "name": "unifrakturcook",
+  "description": "UnifrakturCook is a blackletter font. It is based on Peter Wiegel’s font Koch fette deutsche Schrift which is in turn based on a 1910 typeface by Rudolf Koch. While the glyph design of Peter Wiegel’s font has hardly been changed at all, UnifrakturCook uses smart font technologies for displaying the font’s ligatures (OpenType, Apple Advanced Typography and SIL Graphite). An experimental feature is the distinction of good blackletter typography between required ligatures ‹ch, ck, ſt, tz› that must be kept when letterspacing is increased, and regular ligatures (for instance, ‹fi, fl›) that are broken up when letterspacing is increased. Using the ligatures: Whenever you type a sequence such as ‹tz›, it will automatically be displayed as a ligature. When you want to oppress a ligature, for instance in the German word «Zeitzone» ‘time zone’ that should have no tz-ligature, then you put a zero width non-joiner between the ‹t› and the ‹z› or, alternatively, you write «Zeit&amp;zwnj;zone» in the HTML code. Unfortunately, this will only work on a browser that is capable of displaying ligatures. Of course, UnifrakturMaguntia provides the character ‹ſ› (U+017F LATIN SMALL LETTER LONG S)! UnifrakturCook is optimized for @font-face linking on the internet by combining standards compliance with a permissive license. UnifrakturCook has first been published in 2010 at UnifrakturCook . It has been edited with FontForge, the libre outline font editor. OpenType features have been added with FontForge directly. AAT features have been added with ftxenhancer of the Apple Font Tools. Graphite has been added with the Graphite Compiler. For more information about AAT and Graphite, you may want to check out the Free Tengwar Font Project: Adding Graphite and AAT to a font .",
+  "homepage": "https://fonts.google.com/specimen/UnifrakturCook",
+  "copyright": "Copyright (c) 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook.\nCopyright (c) 2009 Peter Wiegel.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "UnifrakturCook",
+      "files": [
+        "https://fonts.gstatic.com/s/unifrakturcook/v25/IurA6Yli8YOdcoky-0PTTdkm56n05Uw13ILXs-h6.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unifrakturcook/v25/IurA6Yli8YOdcoky-0PTTdkm56n05Uw13ILXs-h6.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "UnifrakturCook",
+      "files": [
+        "https://fonts.gstatic.com/s/unifrakturcook/v25/IurA6Yli8YOdcoky-0PTTdkm56n05Uww3ILXs-h6.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unifrakturcook/v25/IurA6Yli8YOdcoky-0PTTdkm56n05Uww3ILXs-h6.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "UnifrakturCook",
+      "styles": [
+        {
+          "family_name": "UnifrakturCook",
+          "type": "Bold",
+          "full_name": "UnifrakturCook",
+          "post_script_name": "UnifrakturCook-Bold",
+          "version": "2011-09-01 ",
+          "copyright": "Copyright (c) 2010 j. 'mach' wust with Reserved Font Name UnifrakturCook.\nCopyright (c) 2009 Peter Wiegel.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "IurA6Yli8YOdcoky-0PTTdkm56n05Uw13ILXs-h6.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

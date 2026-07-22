@@ -1,0 +1,58 @@
+{
+  "slug": "google/ephesis",
+  "name": "ephesis",
+  "description": "Ephesis is a contemporary script great for casual invitations, cards, tubes, scrapbooking. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/ephesis .",
+  "homepage": "https://fonts.google.com/specimen/Ephesis",
+  "copyright": "Copyright 2004-2021 The Ephesis Project Authors (https://github.com/googlefonts/ephesis)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ephesis",
+      "files": [
+        "https://fonts.gstatic.com/s/ephesis/v11/uU9PCBUS8IerL2VG7xPb3vyHmlI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ephesis/v11/uU9PCBUS8IerL2VG7xPb3vyHmlI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ephesis",
+      "files": [
+        "https://fonts.gstatic.com/s/ephesis/v11/uU9PCBUS8IerL2VG7xbb3vyHmlI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ephesis/v11/uU9PCBUS8IerL2VG7xbb3vyHmlI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ephesis",
+      "styles": [
+        {
+          "family_name": "Ephesis",
+          "type": "Regular",
+          "full_name": "Ephesis Regular",
+          "post_script_name": "Ephesis-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004-2021 The Ephesis Project Authors (https://github.com/googlefonts/ephesis)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uU9PCBUS8IerL2VG7xPb3vyHmlI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

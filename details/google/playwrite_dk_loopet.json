@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_dk_loopet",
+  "name": "playwrite_dk_loopet",
+  "description": "Playwrite DK Loopet font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DK+Loopet",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite DK Loopet",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwOgUuQovSE8_.woff2",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75LJwegUuQovSE8_.woff2",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75IXwegUuQovSE8_.woff2",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwegUuQovSE8_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwOgUuQovSE8_.woff2",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75LJwegUuQovSE8_.woff2",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75IXwegUuQovSE8_.woff2",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwegUuQovSE8_.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite DK Loopet",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwOgRuQovSE8_.ttf",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75LJwegRuQovSE8_.ttf",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75IXwegRuQovSE8_.ttf",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwegRuQovSE8_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwOgRuQovSE8_.ttf",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75LJwegRuQovSE8_.ttf",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75IXwegRuQovSE8_.ttf",
+        "https://fonts.gstatic.com/s/playwritedkloopet/v6/memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwegRuQovSE8_.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DK Loopet Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite DK Loopet Thin",
+          "type": "Regular",
+          "full_name": "Playwrite DK Loopet Thin",
+          "post_script_name": "PlaywriteDKLoopet-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwOgRuQovSE8_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DK Loopet ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite DK Loopet ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite DK Loopet ExtraLight",
+          "post_script_name": "PlaywriteDKLoopet-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75LJwegRuQovSE8_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DK Loopet Light",
+      "styles": [
+        {
+          "family_name": "Playwrite DK Loopet Light",
+          "type": "Regular",
+          "full_name": "Playwrite DK Loopet Light",
+          "post_script_name": "PlaywriteDKLoopet-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75IXwegRuQovSE8_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite DK Loopet",
+      "styles": [
+        {
+          "family_name": "Playwrite DK Loopet",
+          "type": "Regular",
+          "full_name": "Playwrite DK Loopet Regular",
+          "post_script_name": "PlaywriteDKLoopet-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "memVYbuzy2qb3rtJGfM1FvY-GacDcsPvtaDfqfgbBWmV75JJwegRuQovSE8_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

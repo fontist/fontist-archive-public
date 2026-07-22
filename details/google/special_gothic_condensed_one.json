@@ -1,0 +1,58 @@
+{
+  "slug": "google/special_gothic_condensed_one",
+  "name": "special_gothic_condensed_one",
+  "description": "Special Gothic Condensed One font family",
+  "homepage": "https://fonts.google.com/specimen/Special+Gothic+Condensed+One",
+  "copyright": "Copyright 2022 The Special-Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Special Gothic Condensed One",
+      "files": [
+        "https://fonts.gstatic.com/s/specialgothiccondensedone/v2/R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PUZt_5YtxbX8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialgothiccondensedone/v2/R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PUZt_5YtxbX8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Special Gothic Condensed One",
+      "files": [
+        "https://fonts.gstatic.com/s/specialgothiccondensedone/v2/R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PUZ5_5YtxbX8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialgothiccondensedone/v2/R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PUZ5_5YtxbX8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Special Gothic Condensed One",
+      "styles": [
+        {
+          "family_name": "Special Gothic Condensed One",
+          "type": "Regular",
+          "full_name": "Special Gothic Condensed One Regular",
+          "post_script_name": "SpecialGothicCondensedOne-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Special-Gothic Project Authors (https://github.com/AlistairMcCready/Special-Gothic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "R70Njzwei_mJM7OsFDzX7EL9NBO6IPvd-Avolzh49w7PUZt_5YtxbX8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/ceviche_one",
+  "name": "ceviche_one",
+  "description": "Ceviche One is a bold expressionist sans. Tasty, wild and delicious curves are inspired in lettering from the 1960s. Ceviche One is a great and dynamic option for large headlines, displays and posters.",
+  "homepage": "https://fonts.google.com/specimen/Ceviche+One",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Cecivhe\" and \"Ceviche One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ceviche One",
+      "files": [
+        "https://fonts.gstatic.com/s/cevicheone/v17/gyB4hws1IcA6JzR-GB_JX6zdZ4vZVbgZ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cevicheone/v17/gyB4hws1IcA6JzR-GB_JX6zdZ4vZVbgZ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ceviche One",
+      "files": [
+        "https://fonts.gstatic.com/s/cevicheone/v17/gyB4hws1IcA6JzR-GB_JX6zYZ4vZVbgZ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cevicheone/v17/gyB4hws1IcA6JzR-GB_JX6zYZ4vZVbgZ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ceviche One",
+      "styles": [
+        {
+          "family_name": "Ceviche One",
+          "type": "Regular",
+          "full_name": "Ceviche One",
+          "post_script_name": "CevicheOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Cecivhe\" and \"Ceviche One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gyB4hws1IcA6JzR-GB_JX6zdZ4vZVbgZ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

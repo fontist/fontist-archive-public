@@ -1,0 +1,58 @@
+{
+  "slug": "google/lacquer",
+  "name": "lacquer",
+  "description": "Lacquer is an expressive display font featuring heavy drips and dozens of alternate glyphs. Lacquer was hand drawn using a paint pen by Niki Polyocan and was extrapolated and finished by Eli Block at Google Creative Lab. You can see all of Lacquer’s glyphs on the font’s web specimen . To contribute, see github.com/Lacquer-Font/Lacquer .",
+  "homepage": "https://fonts.google.com/specimen/Lacquer",
+  "copyright": "Copyright 2019 The Lacquer Project Authors (https://github.com/Lacquer-Font/Lacquer)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lacquer",
+      "files": [
+        "https://fonts.gstatic.com/s/lacquer/v16/EYqzma1QwqpG4_BBB7-AXhttQ5I.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lacquer/v16/EYqzma1QwqpG4_BBB7-AXhttQ5I.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lacquer",
+      "files": [
+        "https://fonts.gstatic.com/s/lacquer/v16/EYqzma1QwqpG4_BBB7qAXhttQ5I.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lacquer/v16/EYqzma1QwqpG4_BBB7qAXhttQ5I.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lacquer",
+      "styles": [
+        {
+          "family_name": "Lacquer",
+          "type": "Regular",
+          "full_name": "Lacquer Regular",
+          "post_script_name": "Lacquer-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2019 The Lacquer Project Authors (https://github.com/Lacquer-Font/Lacquer)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EYqzma1QwqpG4_BBB7-AXhttQ5I.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/piedra",
+  "name": "piedra",
+  "description": "The world may seem cartoonish to you, pilgrim, but the funnies ain't really that funny. The Flintstones are so last century. The Hulks are in, and they're here to stay. Piedra is the rocky, fear-inducing face of galvanized triceps and überchiseled jawlines. Be intimidated, be very intimidated. You don't believe it?",
+  "homepage": "https://fonts.google.com/specimen/Piedra",
+  "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Piedra\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Piedra",
+      "files": [
+        "https://fonts.gstatic.com/s/piedra/v27/ke8kOg8aN0Bn7hTunEyHN_M3gA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/piedra/v27/ke8kOg8aN0Bn7hTunEyHN_M3gA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Piedra",
+      "files": [
+        "https://fonts.gstatic.com/s/piedra/v27/ke8kOg8aN0Bn7hTumUyHN_M3gA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/piedra/v27/ke8kOg8aN0Bn7hTumUyHN_M3gA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Piedra",
+      "styles": [
+        {
+          "family_name": "Piedra",
+          "type": "Regular",
+          "full_name": "Piedra Regular",
+          "post_script_name": "Piedra-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Piedra\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ke8kOg8aN0Bn7hTunEyHN_M3gA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/creepster",
+  "name": "creepster",
+  "description": "Creepster is a fright-filled font, perfect for all of your grisly graphic needs!",
+  "homepage": "https://fonts.google.com/specimen/Creepster",
+  "copyright": "Copyright (c) 2011, Font Diner, Inc (diner@fontdiner.com), with Reserved Font Names \"Creepster\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Creepster",
+      "files": [
+        "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4hdXf4XB0Tow.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4hdXf4XB0Tow.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Creepster",
+      "files": [
+        "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4hcHf4XB0Tow.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4hcHf4XB0Tow.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Creepster",
+      "styles": [
+        {
+          "family_name": "Creepster",
+          "type": "Regular",
+          "full_name": "Creepster",
+          "post_script_name": "Creepster-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Font Diner, Inc (diner@fontdiner.com), with Reserved Font Names \"Creepster\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AlZy_zVUqJz4yMrniH4hdXf4XB0Tow.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/zcool_qingke_huangyou",
+  "name": "zcool_qingke_huangyou",
+  "description": "ZCool QingKe HuangYou was designed and produced by Zheng Qingke, and donated to the ZCOOL font project for public use. It features innovative character shapes and rounded lines, with right angles adjusted to a rounded 4pt corner radius. The lower right corner of the radicals are notched at a 45 degree angle, which raises the visual center of the font, effectively solving readability issues due to stroke crossing.",
+  "homepage": "https://fonts.google.com/specimen/ZCOOL+QingKe+HuangYou",
+  "copyright": "Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "ZCOOL QingKe HuangYou",
+      "files": [
+        "https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIi_28c8bHWA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIi_28c8bHWA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "ZCOOL QingKe HuangYou",
+      "files": [
+        "https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIjv28c8bHWA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zcoolqingkehuangyou/v16/2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIjv28c8bHWA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "ZCOOL QingKe HuangYou",
+      "styles": [
+        {
+          "family_name": "ZCOOL QingKe HuangYou",
+          "type": "Regular",
+          "full_name": "ZCOOL QingKe HuangYou Regular",
+          "post_script_name": "ZCOOLQingKeHuangYou-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The ZCOOL QingKe HuangYou Project Authors (https://www.github.com/googlefonts/zcool-qingke-huangyou)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2Eb5L_R5IXJEWhD3AOhSvFC554MOOahI4mRIi_28c8bHWA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

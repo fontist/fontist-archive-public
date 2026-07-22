@@ -1,0 +1,149 @@
+{
+  "slug": "google/tillana",
+  "name": "tillana",
+  "description": "Tillana is a refreshingly informal family of typefaces for Devanagari and Latin. The fonts were first published by the Indian Type Foundry as an open source project in 2014. Coming in at 1,021 glyphs per weight, Tillana has all of the characters necessary to set a variety of European languages, as well as Indian languages like Hindi, Marathi, Nepali, and more. The Tillana family includes five styles, which range in weight from Regular through Extra Bold. Tillana’s Latin do not connect; this part of the family is a non-joining script type. The Devanagari part is one of the few “true cursive” designs currently available for the script. Characters from both writing systems appear as if they were fluidly handwritten, particularly the Devanagari. Tillana’s letterforms are slanted at a 10 degree angle. The strokes are show visible contrast, and the dynamic counter forms are one of the design’s most prominent features. The forms involve many loops and hooks and most of the knots are loops rather than closed, black forms. All vertical strokes in both scripts have swelling at their tops and bottoms, and the Devanagari characters’ central vertical strokes almost always break through the headline. Handwriting artefacts are present in the Latin letters, too, such as hook on the descender of the lowercase q. Tillana’s Devanagari base character height falls vertically between the Latin upper and lowercase letter heights. The Latin characters have a small x-height and long ascenders and descenders. Lipi Raval designed the Devanagari components of Tillana, and worked together with Jonny Pinhorn on the Latin. This project is led by Indian Type Foundry, a type foundry based in Ahmedabad, Gujurat, India, who design contemporary Indian typeface families. To contribute, see github.com/itfoundry/tillana",
+  "homepage": "https://fonts.google.com/specimen/Tillana",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tillana",
+      "files": [
+        "https://fonts.gstatic.com/s/tillana/v15/VuJxdNvf35P4qJ1OeKbXOIFneRo.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQFL-HIlMZRNcp0o.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQH75HIlMZRNcp0o.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQBr4HIlMZRNcp0o.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQAb7HIlMZRNcp0o.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tillana/v15/VuJxdNvf35P4qJ1OeKbXOIFneRo.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQFL-HIlMZRNcp0o.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQH75HIlMZRNcp0o.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQBr4HIlMZRNcp0o.ttf",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQAb7HIlMZRNcp0o.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tillana",
+      "files": [
+        "https://fonts.gstatic.com/s/tillana/v15/VuJxdNvf35P4qJ1OeKPXOIFneRo.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQFL-HIxMZRNcp0o.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQH75HIxMZRNcp0o.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQBr4HIxMZRNcp0o.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQAb7HIxMZRNcp0o.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tillana/v15/VuJxdNvf35P4qJ1OeKPXOIFneRo.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQFL-HIxMZRNcp0o.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQH75HIxMZRNcp0o.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQBr4HIxMZRNcp0o.woff2",
+        "https://fonts.gstatic.com/s/tillana/v15/VuJ0dNvf35P4qJ1OQAb7HIxMZRNcp0o.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tillana",
+      "styles": [
+        {
+          "family_name": "Tillana",
+          "type": "Regular",
+          "full_name": "Tillana Regular",
+          "post_script_name": "Tillana-Regular",
+          "version": "2.003;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJxdNvf35P4qJ1OeKbXOIFneRo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tillana",
+          "type": "Bold",
+          "full_name": "Tillana Bold",
+          "post_script_name": "Tillana-Bold",
+          "version": "2.003;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJ0dNvf35P4qJ1OQBr4HIlMZRNcp0o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tillana Medium",
+      "styles": [
+        {
+          "family_name": "Tillana Medium",
+          "type": "Regular",
+          "full_name": "Tillana Medium",
+          "post_script_name": "Tillana-Medium",
+          "version": "2.003;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJ0dNvf35P4qJ1OQFL-HIlMZRNcp0o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tillana SemiBold",
+      "styles": [
+        {
+          "family_name": "Tillana SemiBold",
+          "type": "Regular",
+          "full_name": "Tillana SemiBold",
+          "post_script_name": "Tillana-SemiBold",
+          "version": "2.003;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJ0dNvf35P4qJ1OQH75HIlMZRNcp0o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tillana ExtraBold",
+      "styles": [
+        {
+          "family_name": "Tillana ExtraBold",
+          "type": "Regular",
+          "full_name": "Tillana ExtraBold",
+          "post_script_name": "Tillana-ExtraBold",
+          "version": "2.003;PS 1.0;hotconv 1.0.79;makeotf.lib2.5.61930; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VuJ0dNvf35P4qJ1OQAb7HIlMZRNcp0o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

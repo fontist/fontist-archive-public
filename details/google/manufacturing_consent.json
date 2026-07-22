@@ -1,0 +1,58 @@
+{
+  "slug": "google/manufacturing_consent",
+  "name": "manufacturing_consent",
+  "description": "Manufacturing Consent font family",
+  "homepage": "https://fonts.google.com/specimen/Manufacturing+Consent",
+  "copyright": "Copyright 2019 The Manufacturing Consent Project Authors (https://github.com/googlefonts/manufacturing-consent-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Manufacturing Consent",
+      "files": [
+        "https://fonts.gstatic.com/s/manufacturingconsent/v1/N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakikR6QvbfFYLA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/manufacturingconsent/v1/N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakikR6QvbfFYLA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Manufacturing Consent",
+      "files": [
+        "https://fonts.gstatic.com/s/manufacturingconsent/v1/N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakikQqQvbfFYLA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/manufacturingconsent/v1/N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakikQqQvbfFYLA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Manufacturing Consent",
+      "styles": [
+        {
+          "family_name": "Manufacturing Consent",
+          "type": "Regular",
+          "full_name": "Manufacturing Consent Regular",
+          "post_script_name": "ManufacturingConsent-Regular",
+          "version": "3.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2019 The Manufacturing Consent Project Authors (https://github.com/googlefonts/manufacturing-consent-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "N0bL2TVONuFkPkuHfiECSLCwuZS-D-IsakikR6QvbfFYLA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

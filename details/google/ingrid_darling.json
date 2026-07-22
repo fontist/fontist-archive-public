@@ -1,0 +1,58 @@
+{
+  "slug": "google/ingrid_darling",
+  "name": "ingrid_darling",
+  "description": "Ingrid Darling is a cute script font originally created for greeting cards. It is based on a cursive hand writing style that has a playful, whimsical appeal. It would be best served as a display font and should be used sparingly rather than in larger bodies of type. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/ingrid-darling .",
+  "homepage": "https://fonts.google.com/specimen/Ingrid+Darling",
+  "copyright": "Copyright 2014-2021 The Ingrid Darling Project Authors (https://github.com/googlefonts/ingrid-darling)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ingrid Darling",
+      "files": [
+        "https://fonts.gstatic.com/s/ingriddarling/v7/LDIrapaJNxUtSuFdw-9yf4rCPsLOub458jGL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ingriddarling/v7/LDIrapaJNxUtSuFdw-9yf4rCPsLOub458jGL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ingrid Darling",
+      "files": [
+        "https://fonts.gstatic.com/s/ingriddarling/v7/LDIrapaJNxUtSuFdw-9yf4rCPsLLub458jGL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ingriddarling/v7/LDIrapaJNxUtSuFdw-9yf4rCPsLLub458jGL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ingrid Darling",
+      "styles": [
+        {
+          "family_name": "Ingrid Darling",
+          "type": "Regular",
+          "full_name": "Ingrid Darling Regular",
+          "post_script_name": "IngridDarling-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014-2021 The Ingrid Darling Project Authors (https://github.com/googlefonts/ingrid-darling)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LDIrapaJNxUtSuFdw-9yf4rCPsLOub458jGL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

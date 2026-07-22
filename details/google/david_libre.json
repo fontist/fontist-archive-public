@@ -1,0 +1,101 @@
+{
+  "slug": "google/david_libre",
+  "name": "david_libre",
+  "description": "David Libre is a Libre David Hebrew, based on David Hadash Formal, released by Monotype Corporation in 2012. David Hadash Formal is a modern digitization made from original large scale technical drawings for the typeface drawn by Ismar David. Google has worked with Monotype to release the 3 book weights (Regular, Medium and Bold) under the SIL Open Font License and create a new version for use by the public. This project includes working with the David Hadash sources to create a new version, that fits the requirements of Israeli instituions, since David is the official font for Israeli correspondence. Some glyphs were updated, such as the Sheqel symbol. It was redesigned to be recognizable by contemporary Hebrew readers, since the original Sheqel symbol is too far from today's standard. Latin characters from the Gentium typeface were derived and integrated to accommodate cases in which Latin and Hebrew characters will be used in tandem. Each font includes OpenType features required for diacritic marks (nikud) and Hebrew-specific uses, including alternative Hebrew-height numerals (available as Stylistic Set 1) an alternative \"Hebrew ampersand\" symbol designed by Ismar David (available in Stylistic Set 2) and an alternative Sheqel symbol designed by Ismar David (available in Stylistic Set 3.) Every effort was made to keep the original designs intact, and the type's original spacing is well preserved. However, several changes have been made to fit with David Libre's goal to be used as a free alternative to the David font commonly installed on PCs. In order to be compatible with documents previously set in the version of David bundled with Microsoft Windows, David Hadash's glyph size has been reduced by 12.5%. This was made to prevent cases in which documents previously typed in Microsoft's David to take up more pages and cause odd line breaks. Please note that this does not guarantee full compatibility with that David, only a close approximation. Diacritic marks have been repositioned. Biblical cantillation marks are not supported. The construction of David Libre was made by Meir Sadan, commissioned by Google for the Google Fonts project. The David Libre project is led by Meir Sadan, a type designer based in Tel Aviv, Israel. To contribute, see github.com/meirsadan/david-libre .",
+  "homepage": "https://fonts.google.com/specimen/David+Libre",
+  "copyright": "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "David Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfus0W_99N64iuYSvp4W_l86p6TYS-Y.ttf",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8GIw7qbSjORSo9W.ttf",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8HAxbqbSjORSo9W.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfus0W_99N64iuYSvp4W_l86p6TYS-Y.ttf",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8GIw7qbSjORSo9W.ttf",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8HAxbqbSjORSo9W.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "David Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfus0W_99N64iuYSvp4W_l56p6TYS-Y.woff2",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8GIw7qeSjORSo9W.woff2",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8HAxbqeSjORSo9W.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfus0W_99N64iuYSvp4W_l56p6TYS-Y.woff2",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8GIw7qeSjORSo9W.woff2",
+        "https://fonts.gstatic.com/s/davidlibre/v17/snfzs0W_99N64iuYSvp4W8HAxbqeSjORSo9W.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "David Libre",
+      "styles": [
+        {
+          "family_name": "David Libre",
+          "type": "Regular",
+          "full_name": "David Libre Regular",
+          "post_script_name": "DavidLibre-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": false,
+          "font": "snfus0W_99N64iuYSvp4W_l86p6TYS-Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "David Libre",
+          "type": "Bold",
+          "full_name": "David Libre Bold",
+          "post_script_name": "DavidLibre-Bold",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": false,
+          "font": "snfzs0W_99N64iuYSvp4W8HAxbqbSjORSo9W.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "David Libre Medium",
+      "styles": [
+        {
+          "family_name": "David Libre Medium",
+          "type": "Regular",
+          "full_name": "David Libre Medium",
+          "post_script_name": "DavidLibre-Medium",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org/",
+          "variable_font": false,
+          "font": "snfzs0W_99N64iuYSvp4W8GIw7qbSjORSo9W.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

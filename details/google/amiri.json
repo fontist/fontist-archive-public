@@ -1,0 +1,115 @@
+{
+  "slug": "google/amiri",
+  "name": "amiri",
+  "description": "Amiri is a classical Arabic typeface in Naskh style for typesetting books and other running text. Its design is a revival of the beautiful typeface pioneered in early 20th century by Bulaq Press in Cairo, also known as Amiria Press, after which the font is named. Read more about the project at aliftype.com/amiri/ To contribute, see github.com/aliftype/amiri .",
+  "homepage": "https://fonts.google.com/specimen/Amiri",
+  "copyright": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Amiri",
+      "files": [
+        "https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUpvrIw74NL.ttf",
+        "https://fonts.gstatic.com/s/amiri/v30/J7afnpd8CGxBHpUrtLYS6pNLAjk.ttf",
+        "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/amiri/v30/J7aanpd8CGxBHpUrjAo9zptgHjAavCA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUpvrIw74NL.ttf",
+        "https://fonts.gstatic.com/s/amiri/v30/J7afnpd8CGxBHpUrtLYS6pNLAjk.ttf",
+        "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY4xJ9CGyAa.ttf",
+        "https://fonts.gstatic.com/s/amiri/v30/J7aanpd8CGxBHpUrjAo9zptgHjAavCA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Amiri",
+      "files": [
+        "https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUsvrIw74NL.woff2",
+        "https://fonts.gstatic.com/s/amiri/v30/J7afnpd8CGxBHpUrtLMS6pNLAjk.woff2",
+        "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/amiri/v30/J7aanpd8CGxBHpUrjAo9zp5gHjAavCA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amiri/v30/J7aRnpd8CGxBHqUsvrIw74NL.woff2",
+        "https://fonts.gstatic.com/s/amiri/v30/J7afnpd8CGxBHpUrtLMS6pNLAjk.woff2",
+        "https://fonts.gstatic.com/s/amiri/v30/J7acnpd8CGxBHp2VkZY9xJ9CGyAa.woff2",
+        "https://fonts.gstatic.com/s/amiri/v30/J7aanpd8CGxBHpUrjAo9zp5gHjAavCA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Amiri",
+      "styles": [
+        {
+          "family_name": "Amiri",
+          "type": "Regular",
+          "full_name": "Amiri Regular",
+          "post_script_name": "Amiri-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "J7aRnpd8CGxBHqUpvrIw74NL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amiri",
+          "type": "Italic",
+          "full_name": "Amiri Italic",
+          "post_script_name": "Amiri-Italic",
+          "version": "1.002",
+          "copyright": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "J7afnpd8CGxBHpUrtLYS6pNLAjk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amiri",
+          "type": "Bold",
+          "full_name": "Amiri Bold",
+          "post_script_name": "Amiri-Bold",
+          "version": "1.002",
+          "copyright": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "J7acnpd8CGxBHp2VkZY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Amiri",
+          "type": "Bold Italic",
+          "full_name": "Amiri Bold Italic",
+          "post_script_name": "Amiri-BoldItalic",
+          "version": "1.002",
+          "copyright": "Copyright 2010-2022 The Amiri Project Authors (https://github.com/aliftype/amiri).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "J7aanpd8CGxBHpUrjAo9zptgHjAavCA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

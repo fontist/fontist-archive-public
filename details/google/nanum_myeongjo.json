@@ -1,0 +1,101 @@
+{
+  "slug": "google/nanum_myeongjo",
+  "name": "nanum_myeongjo",
+  "description": "The Nanum fonts (Korean : 나눔글꼴) are unicode fonts designed especially for the Korean-language script, designed by Sandoll Communications (Korean : 산돌 커뮤니케이션) and Fontrix (Korean : 폰트릭스). The publisher is Naver. Nanum Myeongjo is a contemporary serif with a warm touch and is expertly hinted for screen use.",
+  "homepage": "https://fonts.google.com/specimen/Nanum+Myeongjo",
+  "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nanum Myeongjo",
+      "files": [
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy1LreHQ8juyl.ttf",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0pfCs5Kos.ttf",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFA0pfCs5Kos.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy1LreHQ8juyl.ttf",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0pfCs5Kos.ttf",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFA0pfCs5Kos.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nanum Myeongjo",
+      "files": [
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy1LueHQ8juyl.woff2",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1AxpfCs5Kos.woff2",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFAxpfCs5Kos.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Btx3DZF0dXLMZlywRbVRNhxy1LueHQ8juyl.woff2",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pXV1AxpfCs5Kos.woff2",
+        "https://fonts.gstatic.com/s/nanummyeongjo/v31/9Bty3DZF0dXLMZlywRbVRNhxy2pLVFAxpfCs5Kos.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "NanumMyeongjo",
+      "styles": [
+        {
+          "family_name": "NanumMyeongjo",
+          "type": "Regular",
+          "full_name": "NanumMyeongjo",
+          "post_script_name": "NanumMyeongjo",
+          "version": "2.032;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "9Btx3DZF0dXLMZlywRbVRNhxy1LreHQ8juyl.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "NanumMyeongjo",
+          "type": "Bold",
+          "full_name": "NanumMyeongjoBold",
+          "post_script_name": "NanumMyeongjoBold",
+          "version": "2.032;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "9Bty3DZF0dXLMZlywRbVRNhxy2pXV1A0pfCs5Kos.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NanumMyeongjoExtraBold",
+      "styles": [
+        {
+          "family_name": "NanumMyeongjoExtraBold",
+          "type": "Regular",
+          "full_name": "NanumMyeongjoExtraBold",
+          "post_script_name": "NanumMyeongjoExtraBold",
+          "version": "2.032;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+          "description": "NHN Corporation",
+          "variable_font": false,
+          "font": "9Bty3DZF0dXLMZlywRbVRNhxy2pLVFA0pfCs5Kos.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

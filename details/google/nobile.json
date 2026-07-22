@@ -1,0 +1,152 @@
+{
+  "slug": "google/nobile",
+  "name": "nobile",
+  "description": "&quot;Nobile&quot; is designed to work with the technologies of digital screens and handheld devices without losing the distinctive look more usually found in fonts designed for printing. Going back to William Morris's baseline &quot;Have nothing in your house that you do not know to be useful, or believe to be beautiful&quot;, the aim was to design a font that could function well, have good legibility on screen yet also be good looking, not only at larger display sizes but also right down to small text sizes.",
+  "homepage": "https://fonts.google.com/specimen/Nobile",
+  "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nobile",
+      "files": [
+        "https://fonts.gstatic.com/s/nobile/v19/m8JTjflSeaOVl1i2XqfXeLVdbw.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JRjflSeaOVl1iGXK3TWrBNb3OD.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iOqo7zcJ5BZmqa3A.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJUnc5RFRG-K3Mud.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iO4ojzcJ5BZmqa3A.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJVvdZRFRG-K3Mud.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nobile/v19/m8JTjflSeaOVl1i2XqfXeLVdbw.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JRjflSeaOVl1iGXK3TWrBNb3OD.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iOqo7zcJ5BZmqa3A.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJUnc5RFRG-K3Mud.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iO4ojzcJ5BZmqa3A.ttf",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJVvdZRFRG-K3Mud.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nobile",
+      "files": [
+        "https://fonts.gstatic.com/s/nobile/v19/m8JTjflSeaOVl1i2W6fXeLVdbw.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JRjflSeaOVl1iGXK3WWrBNb3OD.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iOqo7zdZ5BZmqa3A.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJUnc5RARG-K3Mud.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iO4ojzdZ5BZmqa3A.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJVvdZRARG-K3Mud.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nobile/v19/m8JTjflSeaOVl1i2W6fXeLVdbw.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JRjflSeaOVl1iGXK3WWrBNb3OD.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iOqo7zdZ5BZmqa3A.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJUnc5RARG-K3Mud.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JQjflSeaOVl1iO4ojzdZ5BZmqa3A.woff2",
+        "https://fonts.gstatic.com/s/nobile/v19/m8JWjflSeaOVl1iGXJVvdZRARG-K3Mud.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nobile",
+      "styles": [
+        {
+          "family_name": "Nobile",
+          "type": "Regular",
+          "full_name": "Nobile",
+          "post_script_name": "Nobile-Regular",
+          "version": "001.001",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "m8JTjflSeaOVl1i2XqfXeLVdbw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Nobile",
+          "type": "Italic",
+          "full_name": "Nobile Italic",
+          "post_script_name": "Nobile-Italic",
+          "version": "1.000;PS 001.000;hotconv 1.0.38",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "m8JRjflSeaOVl1iGXK3TWrBNb3OD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Nobile",
+          "type": "Bold",
+          "full_name": "Nobile Bold",
+          "post_script_name": "Nobile-Bold",
+          "version": "001.000",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "m8JQjflSeaOVl1iO4ojzcJ5BZmqa3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Nobile",
+          "type": "Bold Italic",
+          "full_name": "Nobile Bold Italic",
+          "post_script_name": "Nobile-BoldItalic",
+          "version": "1.000;PS 001.000;hotconv 1.0.38",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "m8JWjflSeaOVl1iGXJVvdZRFRG-K3Mud.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nobile Medium",
+      "styles": [
+        {
+          "family_name": "Nobile Medium",
+          "type": "Regular",
+          "full_name": "Nobile Medium",
+          "post_script_name": "Nobile-Medium",
+          "version": "001.000",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "m8JQjflSeaOVl1iOqo7zcJ5BZmqa3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Nobile Medium",
+          "type": "Italic",
+          "full_name": "Nobile Medium Italic",
+          "post_script_name": "Nobile-MediumItalic",
+          "version": "1.000;PS 001.000;hotconv 1.0.38",
+          "copyright": "Copyright (c) 2010 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "m8JWjflSeaOVl1iGXJUnc5RFRG-K3Mud.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

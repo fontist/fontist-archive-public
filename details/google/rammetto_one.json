@@ -1,0 +1,58 @@
+{
+  "slug": "google/rammetto_one",
+  "name": "rammetto_one",
+  "description": "Rammetto is a typeface based on the Stephenson Blake uppercase display font, Basuto, released in 1926. The Rammetto design refines some of the old font's forms, introduces a full set of lowercase characters and adds extended support for European languages. To contribute, see github.com/googlefonts/RammettoFont .",
+  "homepage": "https://fonts.google.com/specimen/Rammetto+One",
+  "copyright": "Copyright 2011 The Rammetto Project Authors (https://github.com/googlefonts/RammettoFont), with Reserved Font Name Rammetto.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rammetto One",
+      "files": [
+        "https://fonts.gstatic.com/s/rammettoone/v21/LhWiMV3HOfMbMetJG3lQDpp9Mvuciu-_SQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rammettoone/v21/LhWiMV3HOfMbMetJG3lQDpp9Mvuciu-_SQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rammetto One",
+      "files": [
+        "https://fonts.gstatic.com/s/rammettoone/v21/LhWiMV3HOfMbMetJG3lQDpp9N_uciu-_SQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rammettoone/v21/LhWiMV3HOfMbMetJG3lQDpp9N_uciu-_SQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rammetto One",
+      "styles": [
+        {
+          "family_name": "Rammetto One",
+          "type": "Regular",
+          "full_name": "Rammetto One Regular",
+          "post_script_name": "RammettoOne-Regular",
+          "version": "1.100; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Rammetto Project Authors (https://github.com/googlefonts/RammettoFont), with Reserved Font Name Rammetto.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "LhWiMV3HOfMbMetJG3lQDpp9Mvuciu-_SQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

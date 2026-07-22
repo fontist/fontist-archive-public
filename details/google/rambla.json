@@ -1,0 +1,115 @@
+{
+  "slug": "google/rambla",
+  "name": "rambla",
+  "description": "Rambla is a humanist sans for medium-long texts. It’s slightly condensed, with a generous x-height and short ascenders and descenders. Its proportions are economical in both height and width. It’s elegant at large sizes and legible at the same time, with a lot of rhythm in small sizes. To contribute to the project contact Martin Sommaruga .",
+  "homepage": "https://fonts.google.com/specimen/Rambla",
+  "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rambla",
+      "files": [
+        "https://fonts.gstatic.com/s/rambla/v14/snfrs0ip98hx6mr0I7IONthkwQ.ttf",
+        "https://fonts.gstatic.com/s/rambla/v14/snfps0ip98hx6mrEIbgKFN10wYKa.ttf",
+        "https://fonts.gstatic.com/s/rambla/v14/snfos0ip98hx6mrMn50qPvN4yJuDYQ.ttf",
+        "https://fonts.gstatic.com/s/rambla/v14/snfus0ip98hx6mrEIYC2O_l86p6TYS-Y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rambla/v14/snfrs0ip98hx6mr0I7IONthkwQ.ttf",
+        "https://fonts.gstatic.com/s/rambla/v14/snfps0ip98hx6mrEIbgKFN10wYKa.ttf",
+        "https://fonts.gstatic.com/s/rambla/v14/snfos0ip98hx6mrMn50qPvN4yJuDYQ.ttf",
+        "https://fonts.gstatic.com/s/rambla/v14/snfus0ip98hx6mrEIYC2O_l86p6TYS-Y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rambla",
+      "files": [
+        "https://fonts.gstatic.com/s/rambla/v14/snfrs0ip98hx6mr0JrIONthkwQ.woff2",
+        "https://fonts.gstatic.com/s/rambla/v14/snfps0ip98hx6mrEIbgPFN10wYKa.woff2",
+        "https://fonts.gstatic.com/s/rambla/v14/snfos0ip98hx6mrMn50qO_N4yJuDYQ.woff2",
+        "https://fonts.gstatic.com/s/rambla/v14/snfus0ip98hx6mrEIYC2O_l56p6TYS-Y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rambla/v14/snfrs0ip98hx6mr0JrIONthkwQ.woff2",
+        "https://fonts.gstatic.com/s/rambla/v14/snfps0ip98hx6mrEIbgPFN10wYKa.woff2",
+        "https://fonts.gstatic.com/s/rambla/v14/snfos0ip98hx6mrMn50qO_N4yJuDYQ.woff2",
+        "https://fonts.gstatic.com/s/rambla/v14/snfus0ip98hx6mrEIYC2O_l56p6TYS-Y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rambla",
+      "styles": [
+        {
+          "family_name": "Rambla",
+          "type": "Regular",
+          "full_name": "Rambla",
+          "post_script_name": "Rambla-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "snfrs0ip98hx6mr0I7IONthkwQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rambla",
+          "type": "Italic",
+          "full_name": "Rambla Italic",
+          "post_script_name": "Rambla-Italic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "snfps0ip98hx6mrEIbgKFN10wYKa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rambla",
+          "type": "Bold",
+          "full_name": "Rambla Bold",
+          "post_script_name": "Rambla-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "snfos0ip98hx6mrMn50qPvN4yJuDYQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rambla",
+          "type": "Bold Italic",
+          "full_name": "Rambla Bold Italic",
+          "post_script_name": "Rambla-BoldItalic",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011-2012, Martin Sommaruga (martin@estudiotrama.com), with Reserved Font Name 'Rambla'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "snfus0ip98hx6mrEIYC2O_l86p6TYS-Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,422 @@
+{
+  "slug": "google/chivo",
+  "name": "chivo",
+  "description": "Chivo (\"Goat\" in Spanish) is Omnibus-Type's first grotesque family. The strength of Chivo Black makes it ideal for highlights and headlines whilst Chivo Regular's elegance is ideal for continuous reading. Its design details make it an indispensable ally for any designer. In october 2022, the family is upgraded to a variable font ranging from Thin to Black, including matching italics. The glyphset has also been extended, supporting now a wider number of languages. The family was developed by Héctor Gatti. To contribute, see github.com/Omnibus-Type/Chivo .",
+  "homepage": "https://fonts.google.com/specimen/Chivo",
+  "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Chivo",
+      "files": [
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB7ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PB_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_jh_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_YhjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_WxjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PBjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG1GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFw01GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzY02rTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzh02rTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG02rTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rTN33AiasJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB7ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PB_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_jh_ukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_YhjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_WxjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PBjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjukmDSFXjQiQ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG1GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFw01GrTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzY02rTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzh02rTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG02rTN33AiasJ.woff2",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rTN33AiasJ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Chivo",
+      "files": [
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB7ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PB_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_jh_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_Yhjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_Wxjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PBjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG1GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFw01GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzY02rWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzh02rWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG02rWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rWN33AiasJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB7ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PB_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_jh_ul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_Yhjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_Wxjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_PBjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9b4kzIxd1KFppkaRKvDRPJVDf_FRjul2DSFXjQiQ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG1GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFw01GrWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzY02rWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzh02rWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG02rWN33AiasJ.ttf",
+        "https://fonts.gstatic.com/s/chivo/v21/va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rWN33AiasJ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chivo Thin",
+      "styles": [
+        {
+          "family_name": "Chivo Thin",
+          "type": "Regular",
+          "full_name": "Chivo Thin",
+          "post_script_name": "Chivo-Thin",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_vB7ul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo Thin",
+          "type": "Italic",
+          "full_name": "Chivo Thin Italic",
+          "post_script_name": "Chivo-ThinItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1WrWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo ExtraLight",
+      "styles": [
+        {
+          "family_name": "Chivo ExtraLight",
+          "type": "Regular",
+          "full_name": "Chivo ExtraLight",
+          "post_script_name": "Chivo-ExtraLight",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_PB_ul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo ExtraLight",
+          "type": "Italic",
+          "full_name": "Chivo ExtraLight Italic",
+          "post_script_name": "Chivo-ExtraLightItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG1GrWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo Light",
+      "styles": [
+        {
+          "family_name": "Chivo Light",
+          "type": "Regular",
+          "full_name": "Chivo Light",
+          "post_script_name": "Chivo-Light",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_4h_ul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo Light",
+          "type": "Italic",
+          "full_name": "Chivo Light Italic",
+          "post_script_name": "Chivo-LightItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFxY1GrWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo",
+      "styles": [
+        {
+          "family_name": "Chivo",
+          "type": "Regular",
+          "full_name": "Chivo Regular",
+          "post_script_name": "Chivo-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_vB_ul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo",
+          "type": "Bold",
+          "full_name": "Chivo Bold",
+          "post_script_name": "Chivo-Bold",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_Wxjul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo",
+          "type": "Italic",
+          "full_name": "Chivo Italic",
+          "post_script_name": "Chivo-Italic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFwG1GrWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo",
+          "type": "Bold Italic",
+          "full_name": "Chivo Bold Italic",
+          "post_script_name": "Chivo-BoldItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzh02rWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo Medium",
+      "styles": [
+        {
+          "family_name": "Chivo Medium",
+          "type": "Regular",
+          "full_name": "Chivo Medium",
+          "post_script_name": "Chivo-Medium",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_jh_ul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo Medium",
+          "type": "Italic",
+          "full_name": "Chivo Medium Italic",
+          "post_script_name": "Chivo-MediumItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFw01GrWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo SemiBold",
+      "styles": [
+        {
+          "family_name": "Chivo SemiBold",
+          "type": "Regular",
+          "full_name": "Chivo SemiBold",
+          "post_script_name": "Chivo-SemiBold",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_Yhjul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo SemiBold",
+          "type": "Italic",
+          "full_name": "Chivo SemiBold Italic",
+          "post_script_name": "Chivo-SemiBoldItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFzY02rWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo ExtraBold",
+      "styles": [
+        {
+          "family_name": "Chivo ExtraBold",
+          "type": "Regular",
+          "full_name": "Chivo ExtraBold",
+          "post_script_name": "Chivo-ExtraBold",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_PBjul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo ExtraBold",
+          "type": "Italic",
+          "full_name": "Chivo ExtraBold Italic",
+          "post_script_name": "Chivo-ExtraBoldItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyG02rWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chivo Black",
+      "styles": [
+        {
+          "family_name": "Chivo Black",
+          "type": "Regular",
+          "full_name": "Chivo Black",
+          "post_script_name": "Chivo-Black",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9b4kzIxd1KFppkaRKvDRPJVDf_FRjul2DSFXjQiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chivo Black",
+          "type": "Italic",
+          "full_name": "Chivo Black Italic",
+          "post_script_name": "Chivo-BlackItalic",
+          "version": "2.002",
+          "copyright": "Copyright 2019 The Chivo Project Authors (https://github.com/Omnibus-Type/Chivo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "va9Z4kzIxd1KFrBtW-13ZHhT-jDqdFyv02rWN33AiasJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

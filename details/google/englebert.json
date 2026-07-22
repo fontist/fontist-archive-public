@@ -1,0 +1,58 @@
+{
+  "slug": "google/englebert",
+  "name": "englebert",
+  "description": "Englebert draws inspiration from the title screen of the 1930's film titled Der blue Engel, starring Marlene Dietrich. It is casual and playful in a mild manner, yet striking enough to catch the eye. To contribute, see github.com/librefonts/englebert .",
+  "homepage": "https://fonts.google.com/specimen/Englebert",
+  "copyright": "Copyright 2012 The Englebert Project Authors (https://github.com/librefonts/englebert)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Englebert",
+      "files": [
+        "https://fonts.gstatic.com/s/englebert/v24/xn7iYH8w2XGrC8AR4HSxT_fYdN-WZw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/englebert/v24/xn7iYH8w2XGrC8AR4HSxT_fYdN-WZw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Englebert",
+      "files": [
+        "https://fonts.gstatic.com/s/englebert/v24/xn7iYH8w2XGrC8AR4HSxSvfYdN-WZw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/englebert/v24/xn7iYH8w2XGrC8AR4HSxSvfYdN-WZw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Englebert",
+      "styles": [
+        {
+          "family_name": "Englebert",
+          "type": "Regular",
+          "full_name": "Englebert",
+          "post_script_name": "Englebert-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2012 The Englebert Project Authors (https://github.com/librefonts/englebert)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "xn7iYH8w2XGrC8AR4HSxT_fYdN-WZw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

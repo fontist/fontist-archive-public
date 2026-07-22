@@ -1,0 +1,58 @@
+{
+  "slug": "google/gugi",
+  "name": "gugi",
+  "description": "Gugi is a Korean and Latin font.",
+  "homepage": "https://fonts.google.com/specimen/Gugi",
+  "copyright": "Copyright (c) 2017 by TAE System & Typefaces Co.. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gugi",
+      "files": [
+        "https://fonts.gstatic.com/s/gugi/v21/A2BVn5dXywshVA6A9DEfgqM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gugi/v21/A2BVn5dXywshVA6A9DEfgqM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gugi",
+      "files": [
+        "https://fonts.gstatic.com/s/gugi/v21/A2BVn5dXywshVAuA9DEfgqM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gugi/v21/A2BVn5dXywshVAuA9DEfgqM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gugi",
+      "styles": [
+        {
+          "family_name": "Gugi",
+          "type": "Regular",
+          "full_name": "Gugi Regular",
+          "post_script_name": "Gugi-Regular",
+          "version": "3.00",
+          "copyright": "Copyright (c) 2017 by TAE System & Typefaces Co.. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "A2BVn5dXywshVA6A9DEfgqM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "google/pixelify_sans",
+  "name": "pixelify_sans",
+  "description": "Pixelify Sans fonts are a unique style of typography that originated in the 1980s with the rise of computer graphics and video games. Pixel fonts are characterized by their blocky, pixelated appearance, which is achieved by using a grid of small, square pixels to create each letterform. To contribute, please see github.com/eifetx/Pixelify-Sans .",
+  "homepage": "https://fonts.google.com/specimen/Pixelify+Sans",
+  "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Pixelify Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0H1db5JagkmX.woff2",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTb0H1db5JagkmX.woff2",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQ3131db5JagkmX.woff2",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO131db5JagkmX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0H1db5JagkmX.woff2",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTb0H1db5JagkmX.woff2",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQ3131db5JagkmX.woff2",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO131db5JagkmX.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Pixelify Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0H1Yb5JagkmX.ttf",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTb0H1Yb5JagkmX.ttf",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQ3131Yb5JagkmX.ttf",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO131Yb5JagkmX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0H1Yb5JagkmX.ttf",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTb0H1Yb5JagkmX.ttf",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQ3131Yb5JagkmX.ttf",
+        "https://fonts.gstatic.com/s/pixelifysans/v3/CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO131Yb5JagkmX.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pixelify Sans",
+      "styles": [
+        {
+          "family_name": "Pixelify Sans",
+          "type": "Regular",
+          "full_name": "Pixelify Sans Regular",
+          "post_script_name": "PixelifySans-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTp0H1Yb5JagkmX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Pixelify Sans",
+          "type": "Bold",
+          "full_name": "Pixelify Sans Bold",
+          "post_script_name": "PixelifySans-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQO131Yb5JagkmX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pixelify Sans Medium",
+      "styles": [
+        {
+          "family_name": "Pixelify Sans Medium",
+          "type": "Regular",
+          "full_name": "Pixelify Sans Medium",
+          "post_script_name": "PixelifySans-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TTb0H1Yb5JagkmX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pixelify Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Pixelify Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Pixelify Sans SemiBold",
+          "post_script_name": "PixelifySans-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "CHy2V-3HFUT7aC4iv1TxGDR9DHEserHN25py2TQ3131Yb5JagkmX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

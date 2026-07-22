@@ -1,0 +1,58 @@
+{
+  "slug": "google/ramaraja",
+  "name": "ramaraja",
+  "description": "Ramaraja is an Open Source typeface supporting both the Telugu and Latin scripts. It was developed mainly for use in news publications and is suitable for text, headings, posters, and invitations. Developed by Appaji Ambarisha Darbha in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Ramaraja project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/ramaraja",
+  "homepage": "https://fonts.google.com/specimen/Ramaraja",
+  "copyright": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org), with Reserved Font Name 'Crimson'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ramaraja",
+      "files": [
+        "https://fonts.gstatic.com/s/ramaraja/v17/SlGTmQearpYAYG1CABIkqnB6aSQU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ramaraja/v17/SlGTmQearpYAYG1CABIkqnB6aSQU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ramaraja",
+      "files": [
+        "https://fonts.gstatic.com/s/ramaraja/v17/SlGTmQearpYAYG1CABIhqnB6aSQU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ramaraja/v17/SlGTmQearpYAYG1CABIhqnB6aSQU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ramaraja",
+      "styles": [
+        {
+          "family_name": "Ramaraja",
+          "type": "Regular",
+          "full_name": "Ramaraja",
+          "post_script_name": "Ramaraja",
+          "version": "1.0.4; ttfautohint (v1.2.25-373a) -l 7 -r 28 -G 50 -x 13 -D telu -f latn -w G -X \"\"",
+          "copyright": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2010, Sebastian Kosch (sebastian@aldusleaf.org), with Reserved Font Name 'Crimson'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SlGTmQearpYAYG1CABIkqnB6aSQU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

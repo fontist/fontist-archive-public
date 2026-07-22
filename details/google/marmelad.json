@@ -1,0 +1,58 @@
+{
+  "slug": "google/marmelad",
+  "name": "marmelad",
+  "description": "Marmelad is designed specifically for medium to large-size headlines and remains well-balanced for long text setting because of its regular proportions and medium contrast. Ascenders and descenders are elegant and details refined. The name and overall feel refers to marmalade sweets - soft and ductile. All vertical strokes are rounded towards the baseline, which is why technically there is no sense for overshoots in rounded letters like O. Marmelad performs well on screen because of its soft rounded features and generous x-height. The font supports Latin and Cyrillic. In 2022, the kerning is improved and the Latin language coverage expanded. To contribute, see github.com/cyrealtype/Marmelad-Cyrillic .",
+  "homepage": "https://fonts.google.com/specimen/Marmelad",
+  "copyright": "Copyright 2016 The Marmelad Project Authors (https://github.com/cyrealtype/Marmelad-Cyrillic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Marmelad",
+      "files": [
+        "https://fonts.gstatic.com/s/marmelad/v19/Qw3eZQdSHj_jK2e-8tFLG-YMC0R8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marmelad/v19/Qw3eZQdSHj_jK2e-8tFLG-YMC0R8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Marmelad",
+      "files": [
+        "https://fonts.gstatic.com/s/marmelad/v19/Qw3eZQdSHj_jK2e-8tFOG-YMC0R8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marmelad/v19/Qw3eZQdSHj_jK2e-8tFOG-YMC0R8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Marmelad",
+      "styles": [
+        {
+          "family_name": "Marmelad",
+          "type": "Regular",
+          "full_name": "Marmelad Regular",
+          "post_script_name": "Marmelad-Regular",
+          "version": "1.110; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The Marmelad Project Authors (https://github.com/cyrealtype/Marmelad-Cyrillic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Qw3eZQdSHj_jK2e-8tFLG-YMC0R8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

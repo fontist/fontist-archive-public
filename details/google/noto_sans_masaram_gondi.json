@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_masaram_gondi",
+  "name": "noto_sans_masaram_gondi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Masaram Gondi is an unmodulated (“sans serif”) design for texts in the Indic Masaram Gondi script. It has 187 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Masaram+Gondi",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/masaram-gondi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Masaram Gondi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmasaramgondi/v19/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmasaramgondi/v19/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Masaram Gondi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmasaramgondi/v19/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGb7RI9WSWX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmasaramgondi/v19/6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGb7RI9WSWX.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Masaram Gondi",
+      "styles": [
+        {
+          "family_name": "Noto Sans Masaram Gondi",
+          "type": "Regular",
+          "full_name": "Noto Sans Masaram Gondi Regular",
+          "post_script_name": "NotoSansMasaramGondi-Regular",
+          "version": "1.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/masaram-gondi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6xK_dThFKcWIu4bpRBjRYRV7KZCbUq6n_1kPnuGe7RI9WSWX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

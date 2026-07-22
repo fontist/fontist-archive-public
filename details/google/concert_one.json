@@ -1,0 +1,58 @@
+{
+  "slug": "google/concert_one",
+  "name": "concert_one",
+  "description": "Concert One is a rounded grotesque typeface inspired by 19th century 3D lettering from a leaflet announcing a chamber concert. To contribute to the project contact Johan Kallas or Mihkel Virkus .",
+  "homepage": "https://fonts.google.com/specimen/Concert+One",
+  "copyright": "Copyright (c) 2011, 2011 Johan Kallas (johankallas@gmail.com), Copyright (c) 2011, 2011 Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name Concert.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Concert One",
+      "files": [
+        "https://fonts.gstatic.com/s/concertone/v24/VEM1Ro9xs5PjtzCu-srDqRTlhv-CuVAQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/concertone/v24/VEM1Ro9xs5PjtzCu-srDqRTlhv-CuVAQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Concert One",
+      "files": [
+        "https://fonts.gstatic.com/s/concertone/v24/VEM1Ro9xs5PjtzCu-srDqRTghv-CuVAQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/concertone/v24/VEM1Ro9xs5PjtzCu-srDqRTghv-CuVAQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Concert One",
+      "styles": [
+        {
+          "family_name": "Concert One",
+          "type": "Regular",
+          "full_name": "Concert One",
+          "post_script_name": "ConcertOne-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011, 2011 Johan Kallas (johankallas@gmail.com), Copyright (c) 2011, 2011 Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name Concert.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VEM1Ro9xs5PjtzCu-srDqRTlhv-CuVAQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

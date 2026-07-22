@@ -1,0 +1,58 @@
+{
+  "slug": "google/allison",
+  "name": "allison",
+  "description": "Allison is a casual handwriting script. The lowercase forms carry an obvious flat pen calligraphic influence while the uppercase letters are more brushy in style. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/allison .",
+  "homepage": "https://fonts.google.com/specimen/Allison",
+  "copyright": "Copyright 2020 The Allison Project Authors (https://github.com/googlefonts/allison)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Allison",
+      "files": [
+        "https://fonts.gstatic.com/s/allison/v13/X7nl4b88AP2nkbvZOCaQ4MTgAgk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allison/v13/X7nl4b88AP2nkbvZOCaQ4MTgAgk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Allison",
+      "files": [
+        "https://fonts.gstatic.com/s/allison/v13/X7nl4b88AP2nkbvZOCOQ4MTgAgk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allison/v13/X7nl4b88AP2nkbvZOCOQ4MTgAgk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Allison",
+      "styles": [
+        {
+          "family_name": "Allison",
+          "type": "Regular",
+          "full_name": "Allison Regular",
+          "post_script_name": "Allison-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Allison Project Authors (https://github.com/googlefonts/allison)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "X7nl4b88AP2nkbvZOCaQ4MTgAgk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

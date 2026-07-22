@@ -1,0 +1,57 @@
+{
+  "slug": "google/league_script",
+  "name": "league_script",
+  "description": "This ain’t no Lucida. League Script is a modern, coquettish script font that sits somewhere between your high school girlfriend’s love notes and handwritten letters from the ’20s. Designed for the League of Moveable Type , it includes ligatures and will act as the framework for future script designs.",
+  "homepage": "https://fonts.google.com/specimen/League+Script",
+  "copyright": "Copyright (c) 2010, Haley Fiege (haley@kingdomofawesome.com",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "League Script",
+      "files": [
+        "https://fonts.gstatic.com/s/leaguescript/v30/CSR54zpSlumSWj9CGVsoBZdeaNNUuOwkC2s.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/leaguescript/v30/CSR54zpSlumSWj9CGVsoBZdeaNNUuOwkC2s.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "League Script",
+      "files": [
+        "https://fonts.gstatic.com/s/leaguescript/v30/CSR54zpSlumSWj9CGVsoBZdeaNZUuOwkC2s.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/leaguescript/v30/CSR54zpSlumSWj9CGVsoBZdeaNZUuOwkC2s.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "League Script",
+      "styles": [
+        {
+          "family_name": "League Script",
+          "type": "League Script",
+          "full_name": "League Script",
+          "post_script_name": "LeagueScript",
+          "version": "1.001 ",
+          "copyright": "Copyright (c) 2010, Haley Fiege (haley@kingdomofawesome.com",
+          "variable_font": false,
+          "font": "CSR54zpSlumSWj9CGVsoBZdeaNNUuOwkC2s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_elbasan",
+  "name": "noto_sans_elbasan",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Elbasan is an unmodulated (“sans serif”) design for texts in the historical European Elbasan script and in Greek . It has 79 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Elbasan",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elbasan)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Elbasan",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanselbasan/v17/-F6rfiZqLzI2JPCgQBnw400qp1trvHdlre4dFcFh.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanselbasan/v17/-F6rfiZqLzI2JPCgQBnw400qp1trvHdlre4dFcFh.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Elbasan",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanselbasan/v17/-F6rfiZqLzI2JPCgQBnw400qp1trvHdgre4dFcFh.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanselbasan/v17/-F6rfiZqLzI2JPCgQBnw400qp1trvHdgre4dFcFh.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Elbasan",
+      "styles": [
+        {
+          "family_name": "Noto Sans Elbasan",
+          "type": "Regular",
+          "full_name": "Noto Sans Elbasan Regular",
+          "post_script_name": "NotoSansElbasan-Regular",
+          "version": "2.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/elbasan)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-F6rfiZqLzI2JPCgQBnw400qp1trvHdlre4dFcFh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,66 @@
+{
+  "slug": "google/tilt_prism",
+  "name": "tilt_prism",
+  "description": "Tilt is a family of type inspired by the dimensional lettering found in storefront signage. It’s comprised of three related variable font styles that you might find in a shop window — Tilt Neon , Tilt Prism, and Tilt Warp . All three are based around the same letter model of a sign painter’s geometric sans serif, similar to the typefaces Futura or Avant Garde, but with the kinds of details you might expect to see when the letter is built up with a brush. The three styles are designed and built as variable fonts. They allow users to rotate the orientation of their glyphs with “Rotation in X” and “Rotation in Y” axes. The rotation is limited to ±45° so that the letterforms never rotate past a readable range. To contribute, see github.com/googlefonts/Tilt-Fonts .",
+  "homepage": "https://fonts.google.com/specimen/Tilt+Prism",
+  "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Tilt Prism",
+      "files": [
+        "https://fonts.gstatic.com/s/tiltprism/v16/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbwpDSrn86NKw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiltprism/v16/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbwpDSrn86NKw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "XROT",
+        "YROT"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Tilt Prism",
+      "files": [
+        "https://fonts.gstatic.com/s/tiltprism/v16/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbwoTSrn86NKw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiltprism/v16/5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbwoTSrn86NKw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "XROT",
+        "YROT"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tilt Prism",
+      "styles": [
+        {
+          "family_name": "Tilt Prism",
+          "type": "Regular",
+          "full_name": "Tilt Prism Regular",
+          "post_script_name": "TiltPrism-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "5h11iZgyPHoZ3YikNzWGfWey2dCAZXT-bH9V4VGn-FJ7tLI25oc_rIbwoTSrn86NKw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

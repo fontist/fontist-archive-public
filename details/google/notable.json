@@ -1,0 +1,58 @@
+{
+  "slug": "google/notable",
+  "name": "notable",
+  "description": "Notable is an uppercase sans serif display font; it’s letterforms are based on those found on U.S. currency. Notable was designed by Eli Block , Hana Tanimura , and Noemie Le Coz for Notable Women , an initiative by former Treasurer of the United States, Rosie Rios. Notable Women is an augmented reality experiment that lets anyone see 100 historic American women where they’ve historically been left out: U.S. currency.",
+  "homepage": "https://fonts.google.com/specimen/Notable",
+  "copyright": "Copyright 2018 The Notable Project Authors (https://github.com/googlefonts/notable)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Notable",
+      "files": [
+        "https://fonts.gstatic.com/s/notable/v20/gNMEW3N_SIqx-WX9-HMoFIez5MI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notable/v20/gNMEW3N_SIqx-WX9-HMoFIez5MI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Notable",
+      "files": [
+        "https://fonts.gstatic.com/s/notable/v20/gNMEW3N_SIqx-WX9-HYoFIez5MI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notable/v20/gNMEW3N_SIqx-WX9-HYoFIez5MI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Notable",
+      "styles": [
+        {
+          "family_name": "Notable",
+          "type": "Regular",
+          "full_name": "Notable Regular",
+          "post_script_name": "Notable-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2018 The Notable Project Authors (https://github.com/googlefonts/notable)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMEW3N_SIqx-WX9-HMoFIez5MI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

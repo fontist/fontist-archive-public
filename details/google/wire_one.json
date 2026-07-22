@@ -1,0 +1,58 @@
+{
+  "slug": "google/wire_one",
+  "name": "wire_one",
+  "description": "Wire One is a condensed monoline sans brought to you by Alexei Vanyashin and Gayaneh Bagdasaryan from Cyreal Type Foundry . Its modular-based characters are flavored with a sense of art nouveau. Nearly hairline thickness suggests usage for body text above 12px. While at display sizes it reveals its tiny dot terminals to create a sharp mood in headlines. It is recommended to adjust letter-spacing for sizes below 30px to 0.033em and up. For 12 px we recommend the value of 0.085em. To contribute, see github.com/cyrealtype/Wire-One .",
+  "homepage": "https://fonts.google.com/specimen/Wire+One",
+  "copyright": "Copyright 2011 The Wire One Project Authors (https://github.com/cyrealtype/Wire-One)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Wire One",
+      "files": [
+        "https://fonts.gstatic.com/s/wireone/v30/qFdH35Wah5htUhV75WGiWdrCwwcJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wireone/v30/qFdH35Wah5htUhV75WGiWdrCwwcJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Wire One",
+      "files": [
+        "https://fonts.gstatic.com/s/wireone/v30/qFdH35Wah5htUhV75WGnWdrCwwcJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/wireone/v30/qFdH35Wah5htUhV75WGnWdrCwwcJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wire One",
+      "styles": [
+        {
+          "family_name": "Wire One",
+          "type": "Regular",
+          "full_name": "Wire One Regular",
+          "post_script_name": "WireOne-Regular",
+          "version": "1.102; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2011 The Wire One Project Authors (https://github.com/cyrealtype/Wire-One)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qFdH35Wah5htUhV75WGiWdrCwwcJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

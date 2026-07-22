@@ -1,0 +1,58 @@
+{
+  "slug": "google/duru_sans",
+  "name": "duru_sans",
+  "description": "Foundry: Sorkin Type Co Duru Sans is low contrast a classic 20th century style sans design. Duru Sans is a new take on mixing the humanist urge with the modernist one. Duru Sans also somehow manages to be elegant and a workhorse type at the same time. Duru Sans can be used at a wide range of sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Duru+Sans",
+  "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Duru Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/durusans/v21/xn7iYH8xwmSyTvEV_HOxT_fYdN-WZw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/durusans/v21/xn7iYH8xwmSyTvEV_HOxT_fYdN-WZw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Duru Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/durusans/v21/xn7iYH8xwmSyTvEV_HOxSvfYdN-WZw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/durusans/v21/xn7iYH8xwmSyTvEV_HOxSvfYdN-WZw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Duru Sans",
+      "styles": [
+        {
+          "family_name": "Duru Sans",
+          "type": "Regular",
+          "full_name": "Duru Sans Regular",
+          "post_script_name": "DuruSans-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Duru.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xn7iYH8xwmSyTvEV_HOxT_fYdN-WZw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

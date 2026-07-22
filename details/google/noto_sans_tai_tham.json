@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_tai_tham",
+  "name": "noto_sans_tai_tham",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Tai Tham is an unmodulated (“sans serif”) design for texts in the Southeast Asian Lanna (Tai Tham) script. It has multiple weights and 799 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Tai+Tham",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-tham)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Tai Tham",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbPg-uyaRGKMw.woff2",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBBcbPg-uyaRGKMw.woff2",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBPscPg-uyaRGKMw.woff2",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBMIcPg-uyaRGKMw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbPg-uyaRGKMw.woff2",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBBcbPg-uyaRGKMw.woff2",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBPscPg-uyaRGKMw.woff2",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBMIcPg-uyaRGKMw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Tai Tham",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbPgquyaRGKMw.ttf",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBBcbPgquyaRGKMw.ttf",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBPscPgquyaRGKMw.ttf",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBMIcPgquyaRGKMw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbPgquyaRGKMw.ttf",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBBcbPgquyaRGKMw.ttf",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBPscPgquyaRGKMw.ttf",
+        "https://fonts.gstatic.com/s/notosanstaitham/v25/kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBMIcPgquyaRGKMw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Tai Tham",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tai Tham",
+          "type": "Regular",
+          "full_name": "Noto Sans Tai Tham Regular",
+          "post_script_name": "NotoSansTaiTham-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-tham)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBCUbPgquyaRGKMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Tai Tham",
+          "type": "Bold",
+          "full_name": "Noto Sans Tai Tham Bold",
+          "post_script_name": "NotoSansTaiTham-Bold",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-tham)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBMIcPgquyaRGKMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Tai Tham Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tai Tham Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Tai Tham Medium",
+          "post_script_name": "NotoSansTaiTham-Medium",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-tham)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBBcbPgquyaRGKMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Tai Tham SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Tai Tham SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Tai Tham SemiBold",
+          "post_script_name": "NotoSansTaiTham-SemiBold",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/tai-tham)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "kJEbBv0U4hgtwxDUw2x9q7tbjLIfbPGHBoaVSAZ3MdLJBPscPgquyaRGKMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

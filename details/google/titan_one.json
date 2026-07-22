@@ -1,0 +1,58 @@
+{
+  "slug": "google/titan_one",
+  "name": "titan_one",
+  "description": "Titan One is a really fat display type with a happy and cheerful personality. It takes most of its essence from hand lettering with big brushes. It is designed to be used mainly on headers and short texts.",
+  "homepage": "https://fonts.google.com/specimen/Titan+One",
+  "copyright": "Copyright (c) 2011 Rodrigo Fuenzalida (hello@rfuenzalida.com), with Reserved Font Name \"Titan One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Titan One",
+      "files": [
+        "https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjykzIn2Etikg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjykzIn2Etikg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Titan One",
+      "files": [
+        "https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjyljIn2Etikg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/titanone/v17/mFTzWbsGxbbS_J5cQcjyljIn2Etikg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Titan One",
+      "styles": [
+        {
+          "family_name": "Titan One",
+          "type": "Regular",
+          "full_name": "Titan One",
+          "post_script_name": "TitanOne",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Rodrigo Fuenzalida (hello@rfuenzalida.com), with Reserved Font Name \"Titan One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "mFTzWbsGxbbS_J5cQcjykzIn2Etikg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

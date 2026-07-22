@@ -1,0 +1,58 @@
+{
+  "slug": "google/fugaz_one",
+  "name": "fugaz_one",
+  "description": "Fugaz One is a sans serif with very geometric features and gestural characteristics, which brings it away from its formal beginnings. Combined with its italic inclination, Fugaz One has become a very dynamic font.",
+  "homepage": "https://fonts.google.com/specimen/Fugaz+One",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Fugaz\" and \"Fugaz One\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fugaz One",
+      "files": [
+        "https://fonts.gstatic.com/s/fugazone/v21/rax_HiWKp9EAITukFslMBBJek0vA8A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fugazone/v21/rax_HiWKp9EAITukFslMBBJek0vA8A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fugaz One",
+      "files": [
+        "https://fonts.gstatic.com/s/fugazone/v21/rax_HiWKp9EAITukFslMARJek0vA8A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fugazone/v21/rax_HiWKp9EAITukFslMARJek0vA8A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fugaz One",
+      "styles": [
+        {
+          "family_name": "Fugaz One",
+          "type": "Regular",
+          "full_name": "Fugaz One",
+          "post_script_name": "FugazOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (info@latinotype.com),  with Reserved Font Names \"Fugaz\" and \"Fugaz One\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rax_HiWKp9EAITukFslMBBJek0vA8A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

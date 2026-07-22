@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_hr_lijeva_guides",
+  "name": "playwrite_hr_lijeva_guides",
+  "description": "Playwrite HR Lijeva Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+HR+Lijeva+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite HR Lijeva Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObhgDgMKYJO.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObhgDgMKYJO.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite HR Lijeva Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObkgDgMKYJO.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritehrlijevaguides/v1/uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObkgDgMKYJO.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite HR Lijeva Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite HR Lijeva Guides",
+          "type": "Regular",
+          "full_name": "Playwrite HR Lijeva Guides Regular",
+          "post_script_name": "PlaywriteHRLijevaGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "uU9aCAgH7I63K35cu3bRkqamzjr8EW133LJaXDO-QObhgDgMKYJO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_devanagari_sanskrit",
+  "name": "tiro_devanagari_sanskrit",
+  "description": "Tiro Devanagari Sanskrit has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The Tiro Devanagari design applies a contemporary approach to the traditional styling of 19th and 20th Century metal types exemplified in those of the renowned Nirnaya Sagar Press, and is characterised by broader proportions, more generous counters, and strong diagonal strokes and terminals. The Sanskrit font favours traditional forms of conjuncts. For the Open Font License release, Tiro Devanagari Sanskrit has been extended to support additional characters, including signs for Vedic texts, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Devanagari Sanskrit was designed by John Hudson and Fiona Ross. The italic was adapted by Paul Hanslow. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Devanagari+Sanskrit",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Devanagari Sanskrit",
+      "files": [
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59pEoEqgtOh0w.ttf",
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZEIsuoNax06MM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59pEoEqgtOh0w.ttf",
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZEIsuoNax06MM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Devanagari Sanskrit",
+      "files": [
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59pF4EqgtOh0w.woff2",
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZEIsroNax06MM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59pF4EqgtOh0w.woff2",
+        "https://fonts.gstatic.com/s/tirodevanagarisanskrit/v5/MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZEIsroNax06MM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Devanagari Sanskrit",
+      "styles": [
+        {
+          "family_name": "Tiro Devanagari Sanskrit",
+          "type": "Regular",
+          "full_name": "Tiro Devanagari Sanskrit Regular",
+          "post_script_name": "TiroDevaSanskrit-Regular",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoAzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59pEoEqgtOh0w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Devanagari Sanskrit",
+          "type": "Italic",
+          "full_name": "Tiro Devanagari Sanskrit Italic",
+          "post_script_name": "TiroDevaSanskrit-Italic",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MCoGzBbr09vVUgVBM8FWu_yZdZkhkg-I0nUlb59ZEIsuoNax06MM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

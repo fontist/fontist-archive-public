@@ -1,0 +1,58 @@
+{
+  "slug": "google/atomic_age",
+  "name": "atomic_age",
+  "description": "Foundry: Sorkin Type Co Atomic Age was inspired by 1950s era connected scripts seen on nameplates of American cars. Atomic Age looses the connection but keeps the spirit of these letters to make a highly legible somewhat mechanical looking font. Atomic Age is usable from very small sizes all the way up to large display sizes. To contribute to the project, visit github.com/EbenSorkin/Atomic-Age Updated: January 2016 to Version 1.007, to correct encoding, improve hinting, and tightened inter-letter spacing (so the vertical and horizontal metrics have changed, causing some reflow.)",
+  "homepage": "https://fonts.google.com/specimen/Atomic+Age",
+  "copyright": "Copyright (c) 2013 - 2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Atomic Age'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Atomic Age",
+      "files": [
+        "https://fonts.gstatic.com/s/atomicage/v29/f0Xz0eug6sdmRFkYZZGL58Ht9a8GYeA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/atomicage/v29/f0Xz0eug6sdmRFkYZZGL58Ht9a8GYeA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Atomic Age",
+      "files": [
+        "https://fonts.gstatic.com/s/atomicage/v29/f0Xz0eug6sdmRFkYZZGL58Tt9a8GYeA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/atomicage/v29/f0Xz0eug6sdmRFkYZZGL58Tt9a8GYeA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Atomic Age",
+      "styles": [
+        {
+          "family_name": "Atomic Age",
+          "type": "Regular",
+          "full_name": "Atomic Age Regular",
+          "post_script_name": "AtomicAge-Regular",
+          "version": "1.008; ttfautohint (v1.4.1) -l 6 -r 46 -G 0 -x 0 -H 200 -D latn -f none -m \"\" -w g -X \"\"",
+          "copyright": "Copyright (c) 2013 - 2016, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Atomic Age'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "f0Xz0eug6sdmRFkYZZGL58Ht9a8GYeA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

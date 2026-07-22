@@ -1,0 +1,58 @@
+{
+  "slug": "google/dela_gothic_one",
+  "name": "dela_gothic_one",
+  "description": "DelaGothic is a flat, very thick Gothic body. Its stability and strength make it ideal for use on posters and packaging. To contribute to the project, visit github.com/syakuzen/DelaGothic",
+  "homepage": "https://fonts.google.com/specimen/Dela+Gothic+One",
+  "copyright": "Copyright 2020 The Dela Gothic Project Authors (https://github.com/syakuzen/DelaGothic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Dela Gothic One",
+      "files": [
+        "https://fonts.gstatic.com/s/delagothicone/v19/hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/delagothicone/v19/hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Dela Gothic One",
+      "files": [
+        "https://fonts.gstatic.com/s/delagothicone/v19/hESp6XxvMDRA-2eD0lXpDa6QkBAGQEsJQAlbUA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/delagothicone/v19/hESp6XxvMDRA-2eD0lXpDa6QkBAGQEsJQAlbUA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Dela Gothic One",
+      "styles": [
+        {
+          "family_name": "Dela Gothic One",
+          "type": "Regular",
+          "full_name": "Dela Gothic One Regular",
+          "post_script_name": "DelaGothicOne-Regular",
+          "version": "1.005",
+          "copyright": "Copyright 2020 The Dela Gothic Project Authors (https://github.com/syakuzen/DelaGothic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "hESp6XxvMDRA-2eD0lXpDa6QkBAGRUsJQAlbUA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

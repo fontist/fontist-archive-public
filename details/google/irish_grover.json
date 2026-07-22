@@ -1,0 +1,58 @@
+{
+  "slug": "google/irish_grover",
+  "name": "irish_grover",
+  "description": "Presenting Irish Grover! No, it's not a coveted new AKC breed. No, it's not a tasty seasonal pilsner. It's a fun, flamboyant, new display font by Squid that's way better than any of those possibilities. Sure and it's free for Pete's sake! And you can't say that about dogs or beer.",
+  "homepage": "https://fonts.google.com/specimen/Irish+Grover",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Irish Grover",
+      "files": [
+        "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf-P5Oaiw4cw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf-P5Oaiw4cw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Irish Grover",
+      "files": [
+        "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf_f5Oaiw4cw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/irishgrover/v23/buExpoi6YtLz2QW7LA4flVgf_f5Oaiw4cw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Irish Grover",
+      "styles": [
+        {
+          "family_name": "Irish Grover",
+          "type": "Regular",
+          "full_name": "Irish Grover Regular",
+          "post_script_name": "IrishGrover-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "buExpoi6YtLz2QW7LA4flVgf-P5Oaiw4cw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

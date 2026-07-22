@@ -1,0 +1,58 @@
+{
+  "slug": "google/gravitas_one",
+  "name": "gravitas_one",
+  "description": "Foundry: Sorkin Type Co Gravitas One is modeled on the \"UK fat face\" which is a kind of very heavy advertising type created during the industrial revolution in England. The letter forms are characterized by an attention getting and strong contrast between the very heavy vertical shapes and the thin horizontal ones. The contrast of the design means that it will be most useful when set from medium to large sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Gravitas+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Gravitas\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gravitas One",
+      "files": [
+        "https://fonts.gstatic.com/s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmaDWRNr3DzbQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmaDWRNr3DzbQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gravitas One",
+      "files": [
+        "https://fonts.gstatic.com/s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmaCGRNr3DzbQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gravitasone/v21/5h1diZ4hJ3cblKy3LWakKQmaCGRNr3DzbQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gravitas One",
+      "styles": [
+        {
+          "family_name": "Gravitas One",
+          "type": "Regular",
+          "full_name": "Gravitas One",
+          "post_script_name": "GravitasOne",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Gravitas\".\n\nThis Font Software is licensed under the SIL Open Font License,\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+          "variable_font": false,
+          "font": "5h1diZ4hJ3cblKy3LWakKQmaDWRNr3DzbQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/orienta",
+  "name": "orienta",
+  "description": "Orienta is a spacious sans serif, with excellent visual performance at very small text sizes. The balance between forms and counterforms creates strong legibility. If used in titles, you can see the details are all carefully designed, especially in the strokes of each letter. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/orienta .",
+  "homepage": "https://fonts.google.com/specimen/Orienta",
+  "copyright": "Copyright 2012 The Orienta Project Authors (https://github.com/etunni/orienta) with Reserved Font Name 'Orienta'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Orienta",
+      "files": [
+        "https://fonts.gstatic.com/s/orienta/v16/PlI9FlK4Jrl5Y9zNeyeo9HRFhcU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/orienta/v16/PlI9FlK4Jrl5Y9zNeyeo9HRFhcU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Orienta",
+      "files": [
+        "https://fonts.gstatic.com/s/orienta/v16/PlI9FlK4Jrl5Y9zNeyKo9HRFhcU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/orienta/v16/PlI9FlK4Jrl5Y9zNeyKo9HRFhcU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Orienta",
+      "styles": [
+        {
+          "family_name": "Orienta",
+          "type": "Regular",
+          "full_name": "Orienta Regular",
+          "post_script_name": "Orienta-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2012 The Orienta Project Authors (https://github.com/etunni/orienta) with Reserved Font Name 'Orienta'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PlI9FlK4Jrl5Y9zNeyeo9HRFhcU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

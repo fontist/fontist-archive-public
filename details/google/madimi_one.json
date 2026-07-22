@@ -1,0 +1,58 @@
+{
+  "slug": "google/madimi_one",
+  "name": "madimi_one",
+  "description": "Madimi is a rounded sans with a mixed geometric and organic design. The design covers all of Google Latin Core. Madimi takes inspiration from the gentle curved geometry of certain Southern Afrikan graphic symbols. Circles are a main feature, the circle being a shape that represents the womb of a woman in KiNtu symbologies. The idea behind Madimi is to enact the subtle visual subtext of Afrikan visual traditions. Madimi is simple, clean and round edged but still remains clear and easy to read. To contribute, see github.com/TaVaTake/madimi .",
+  "homepage": "https://fonts.google.com/specimen/Madimi+One",
+  "copyright": "Copyright 2024 The Madimi One Project Authors (https://github.com/TaVaTake/madimi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Madimi One",
+      "files": [
+        "https://fonts.gstatic.com/s/madimione/v1/2V0YKIEADpA8U6RygDnZZFQoBoHMd2U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/madimione/v1/2V0YKIEADpA8U6RygDnZZFQoBoHMd2U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Madimi One",
+      "files": [
+        "https://fonts.gstatic.com/s/madimione/v1/2V0YKIEADpA8U6RygDnZZFEoBoHMd2U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/madimione/v1/2V0YKIEADpA8U6RygDnZZFEoBoHMd2U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Madimi One",
+      "styles": [
+        {
+          "family_name": "Madimi One",
+          "type": "Regular",
+          "full_name": "Madimi One Regular",
+          "post_script_name": "MadimiOne-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Madimi One Project Authors (https://github.com/TaVaTake/madimi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "2V0YKIEADpA8U6RygDnZZFQoBoHMd2U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

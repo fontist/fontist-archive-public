@@ -1,0 +1,77 @@
+{
+  "slug": "google/fruktur",
+  "name": "fruktur",
+  "description": "Fruktur initially appears to be a playful and powerful black letter type with a warm friendly feeling. However its construction is closer to that of an upright italic. Fruktur offers some of the feeling of a black letter but with higher legibility and greater utility than is typical of black letter type. Fruktur will be most useful from medium to large sizes. To contribute to the project, visit github.com/EbenSorkin/Fruktur Updated: January 2016, to v1.004 with additional language support, improved hinting (visible in Windows browsers at smaller font sizes) and other minor fixes. August 2022, expanded glyph set, better language support. Italic style has been added to complement Roman.",
+  "homepage": "https://fonts.google.com/specimen/Fruktur",
+  "copyright": "Copyright 2022 The Fruktur Project Authors (https://github.com/SorkinType/Fruktur)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fruktur",
+      "files": [
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc53FHsOru5QYsMfz3GkUrS8DI.ttf",
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc73FHsOru5QYsMTz_MlWjX4DJXgQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc53FHsOru5QYsMfz3GkUrS8DI.ttf",
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc73FHsOru5QYsMTz_MlWjX4DJXgQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fruktur",
+      "files": [
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc53FHsOru5QYsMfzjGkUrS8DI.woff2",
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc73FHsOru5QYsMTz_MkGjX4DJXgQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc53FHsOru5QYsMfzjGkUrS8DI.woff2",
+        "https://fonts.gstatic.com/s/fruktur/v28/SZc73FHsOru5QYsMTz_MkGjX4DJXgQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fruktur",
+      "styles": [
+        {
+          "family_name": "Fruktur",
+          "type": "Regular",
+          "full_name": "Fruktur Regular",
+          "post_script_name": "Fruktur-Regular",
+          "version": "1.008; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Fruktur Project Authors (https://github.com/SorkinType/Fruktur)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc53FHsOru5QYsMfz3GkUrS8DI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Fruktur",
+          "type": "Italic",
+          "full_name": "Fruktur Italic",
+          "post_script_name": "Fruktur-Italic",
+          "version": "1.008; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Fruktur Project Authors (https://github.com/SorkinType/Fruktur)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc73FHsOru5QYsMTz_MlWjX4DJXgQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

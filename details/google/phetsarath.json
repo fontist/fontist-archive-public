@@ -1,0 +1,77 @@
+{
+  "slug": "google/phetsarath",
+  "name": "phetsarath",
+  "description": "Phetsarath is a font for the Lao language, used in the Lao People's Democratic Republic. It was commissioned by the Ministry of Posts and Telecommunications of the national government.",
+  "homepage": "https://fonts.google.com/specimen/Phetsarath",
+  "copyright": "Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Phetsarath",
+      "files": [
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bQ2SpTP-plK0uWayAYAd79nd_QeZA.ttf",
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bT2SpTP-plK0uWayAYOWLSudf7ZZlIHD0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bQ2SpTP-plK0uWayAYAd79nd_QeZA.ttf",
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bT2SpTP-plK0uWayAYOWLSudf7ZZlIHD0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Phetsarath",
+      "files": [
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bQ2SpTP-plK0uWayAYAdv9nd_QeZA.woff2",
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bT2SpTP-plK0uWayAYOWLSudL7ZZlIHD0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bQ2SpTP-plK0uWayAYAdv9nd_QeZA.woff2",
+        "https://fonts.gstatic.com/s/phetsarath/v3/N0bT2SpTP-plK0uWayAYOWLSudL7ZZlIHD0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Phetsarath",
+      "styles": [
+        {
+          "family_name": "Phetsarath",
+          "type": "Regular",
+          "full_name": "Phetsarath Regular",
+          "post_script_name": "Phetsarath-Regular",
+          "version": "1.01",
+          "copyright": "Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "N0bQ2SpTP-plK0uWayAYAd79nd_QeZA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Phetsarath",
+          "type": "Bold",
+          "full_name": "Phetsarath Bold",
+          "post_script_name": "Phetsarath-Bold",
+          "version": "1.01",
+          "copyright": "Copyright (c) 2011, Ministry of Posts and Telecommunications, Laos (www.phetsarath.gov.la)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "N0bT2SpTP-plK0uWayAYOWLSudf7ZZlIHD0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

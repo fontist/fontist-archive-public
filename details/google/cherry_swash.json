@@ -1,0 +1,77 @@
+{
+  "slug": "google/cherry_swash",
+  "name": "cherry_swash",
+  "description": "Cherry Swash is a contemporary slab-serif, with no stroke contrast yet eye-catching form with its elegant swash capitals. This typeface will look at its best in your headlines and logos.",
+  "homepage": "https://fonts.google.com/specimen/Cherry+Swash",
+  "copyright": "Copyright (c) 2012, Natalia Kasatkina (kasatkinanataliya@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cherry Swash",
+      "files": [
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy58QHi-EwWMbg.ttf",
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeaGy6QZ3WfYg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy58QHi-EwWMbg.ttf",
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeaGy6QZ3WfYg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cherry Swash",
+      "files": [
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy58RXi-EwWMbg.woff2",
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeaHi6QZ3WfYg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dNIFByZjaNAMxtZcnfAy58RXi-EwWMbg.woff2",
+        "https://fonts.gstatic.com/s/cherryswash/v22/i7dSIFByZjaNAMxtZcnfAy5E_FeaHi6QZ3WfYg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cherry Swash",
+      "styles": [
+        {
+          "family_name": "Cherry Swash",
+          "type": "Regular",
+          "full_name": "Cherry Swash",
+          "post_script_name": "CherrySwash-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Natalia Kasatkina (kasatkinanataliya@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dNIFByZjaNAMxtZcnfAy58QHi-EwWMbg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cherry Swash",
+          "type": "Bold",
+          "full_name": "Cherry Swash Bold",
+          "post_script_name": "CherrySwash-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Natalia Kasatkina (kasatkinanataliya@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dSIFByZjaNAMxtZcnfAy5E_FeaGy6QZ3WfYg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

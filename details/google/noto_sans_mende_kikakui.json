@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_mende_kikakui",
+  "name": "noto_sans_mende_kikakui",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Mende Kikakui is an unmodulated (“sans serif”) design for texts in the African Mende script. It has 228 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Mende+Kikakui",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mende-kikakui)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Mende Kikakui",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmendekikakui/v30/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmendekikakui/v30/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Mende Kikakui",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmendekikakui/v30/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx6aDJLAHer.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmendekikakui/v30/11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx6aDJLAHer.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Mende Kikakui",
+      "styles": [
+        {
+          "family_name": "Noto Sans Mende Kikakui",
+          "type": "Regular",
+          "full_name": "Noto Sans Mende Kikakui Regular",
+          "post_script_name": "NotoSansMendeKikakui-Regular",
+          "version": "2.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mende-kikakui)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "11hRGoLHz17aKjQCWj-JHcLvu2Q5zZrnkbNCLUx_aDJLAHer.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

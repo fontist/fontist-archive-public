@@ -1,0 +1,58 @@
+{
+  "slug": "google/alata",
+  "name": "alata",
+  "description": "Alata is a geometric low contrast sans design. It can feel monumental, serious and archaic and occasionally eccentric. It draws inspiration from both Early 20th C poster lettering and epigraphic Greek mono line letters. Curiously the capitals letters draw influence from UK Lettering while in contrast the lower case is more 'continental' or European in character. Alata offers a wide range of figures including oldstyle figures, small numbers including superiors and fractions. Alata also offers case sensitive forms. Alata is an original typeface designed by Spyros Zevelakis. . Eben Sorkin expanded the language support and refined the design in 2018. Alata is published by Sorkin Type . To contribute, see Alata GitHub",
+  "homepage": "https://fonts.google.com/specimen/Alata",
+  "copyright": "Copyright 2019 The Alata Project Authors (https://github.com/SorkinType/Alata)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alata",
+      "files": [
+        "https://fonts.gstatic.com/s/alata/v12/PbytFmztEwbIofe6xKcRQEOX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alata/v12/PbytFmztEwbIofe6xKcRQEOX.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alata",
+      "files": [
+        "https://fonts.gstatic.com/s/alata/v12/PbytFmztEwbIofe_xKcRQEOX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alata/v12/PbytFmztEwbIofe_xKcRQEOX.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alata",
+      "styles": [
+        {
+          "family_name": "Alata",
+          "type": "Regular",
+          "full_name": "Alata Regular",
+          "post_script_name": "Alata-Regular",
+          "version": "1.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2019 The Alata Project Authors (https://github.com/SorkinType/Alata)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "PbytFmztEwbIofe6xKcRQEOX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

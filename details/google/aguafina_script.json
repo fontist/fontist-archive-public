@@ -1,0 +1,58 @@
+{
+  "slug": "google/aguafina_script",
+  "name": "aguafina_script",
+  "description": "Semi-formal and eye-catching elegance is the name of the game, says Aguafina Script. Graceful, but not too casual. Knowledgeable and artistic, but not too imposing. The characters flow into each other, making a very saucy script with appetizing color. The narrow lowercase allows for efficient use of space, while the long ascenders and descenders help maintain the legibility. A unique find among scripts, Aguafina is useful for product packaging, glossy magazine work, and book covers.",
+  "homepage": "https://fonts.google.com/specimen/Aguafina+Script",
+  "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Aguafina Script\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aguafina Script",
+      "files": [
+        "https://fonts.gstatic.com/s/aguafinascript/v24/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aguafinascript/v24/If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aguafina Script",
+      "files": [
+        "https://fonts.gstatic.com/s/aguafinascript/v24/If2QXTv_ZzSxGIO30LemWEOmt1bHr84pgicOrg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aguafinascript/v24/If2QXTv_ZzSxGIO30LemWEOmt1bHr84pgicOrg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aguafina Script",
+      "styles": [
+        {
+          "family_name": "Aguafina Script",
+          "type": "Regular",
+          "full_name": "Aguafina Script Regular",
+          "post_script_name": "AguafinaScript-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2007 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2007 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Aguafina Script\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "If2QXTv_ZzSxGIO30LemWEOmt1bHqs4pgicOrg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

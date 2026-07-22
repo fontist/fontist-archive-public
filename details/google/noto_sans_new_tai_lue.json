@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_new_tai_lue",
+  "name": "noto_sans_new_tai_lue",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans New Tai Lue is an unmodulated (“sans serif”) design for texts in the Southeast Asian New Tai Lue script. It has 95 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+New+Tai+Lue",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/new-tai-lue)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans New Tai Lue",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUPghFPKzeY.woff2",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUPghFPKzeY.woff2",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUPghFPKzeY.woff2",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUPghFPKzeY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUPghFPKzeY.woff2",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUPghFPKzeY.woff2",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUPghFPKzeY.woff2",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUPghFPKzeY.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans New Tai Lue",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUbghFPKzeY.ttf",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUbghFPKzeY.ttf",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUbghFPKzeY.ttf",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUbghFPKzeY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUbghFPKzeY.ttf",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUbghFPKzeY.ttf",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUbghFPKzeY.ttf",
+        "https://fonts.gstatic.com/s/notosansnewtailue/v24/H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUbghFPKzeY.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans New Tai Lue",
+      "styles": [
+        {
+          "family_name": "Noto Sans New Tai Lue",
+          "type": "Regular",
+          "full_name": "Noto Sans New Tai Lue Regular",
+          "post_script_name": "NotoSansNewTaiLue-Regular",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/new-tai-lue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdeXAYUbghFPKzeY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans New Tai Lue",
+          "type": "Bold",
+          "full_name": "Noto Sans New Tai Lue Bold",
+          "post_script_name": "NotoSansNewTaiLue-Bold",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/new-tai-lue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdQLHYUbghFPKzeY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans New Tai Lue Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans New Tai Lue Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans New Tai Lue Medium",
+          "post_script_name": "NotoSansNewTaiLue-Medium",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/new-tai-lue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pddfAYUbghFPKzeY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans New Tai Lue SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans New Tai Lue SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans New Tai Lue SemiBold",
+          "post_script_name": "NotoSansNewTaiLue-SemiBold",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/new-tai-lue)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "H4cKBW-Pl9DZ0Xe_nHUapt7PovLXAhAnY7wqaLy-OJgU3p_pdTvHYUbghFPKzeY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

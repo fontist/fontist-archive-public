@@ -1,0 +1,58 @@
+{
+  "slug": "google/offside",
+  "name": "offside",
+  "description": "The main feature of Offside is its simple structure and monoline stroke. It is modern, slightly condensed, with large counters to achieve excellent readability on the web, even in small sizes. Its design details make it also suitable for writing headlines or signage with great clarity and prestige. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/offside .",
+  "homepage": "https://fonts.google.com/specimen/Offside",
+  "copyright": "Copyright 2012 The Offside Project Authors (https://github.com/etunni/offside) with Reserved Font Name 'Offside'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Offside",
+      "files": [
+        "https://fonts.gstatic.com/s/offside/v26/HI_KiYMWKa9QrAykQ5HiRp-dhpQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/offside/v26/HI_KiYMWKa9QrAykQ5HiRp-dhpQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Offside",
+      "files": [
+        "https://fonts.gstatic.com/s/offside/v26/HI_KiYMWKa9QrAykQ5TiRp-dhpQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/offside/v26/HI_KiYMWKa9QrAykQ5TiRp-dhpQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Offside",
+      "styles": [
+        {
+          "family_name": "Offside",
+          "type": "Regular",
+          "full_name": "Offside Regular",
+          "post_script_name": "Offside-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2012 The Offside Project Authors (https://github.com/etunni/offside) with Reserved Font Name 'Offside'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_KiYMWKa9QrAykQ5HiRp-dhpQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

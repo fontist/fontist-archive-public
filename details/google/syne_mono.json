@@ -1,0 +1,58 @@
+{
+  "slug": "google/syne_mono",
+  "name": "syne_mono",
+  "description": "The Syne family was originally designed in 2017 for the Art Center \"Synesthésie\", based in Saint-Denis — a suburb of Paris. The Art Center aims to gather diverse artistic personalities in order to create new and enriching situations. Based on that idea, Syne is an exploration of atypical associations of weights and styles. Syne Mono is another take on letting go of control. Based on Syne Regular, it has been processed by Bonjour Monde’s DataFace tool, automatically switching on-curve points into off-curve ones and vice-versa. Checkout the other two members of this heteroclite family: Syne and Syne Tactile . Syne was conceptualized by Bonjour Monde and designed by Lucas Descroix with the help of Arman Mohtadji. To contribute, see gitlab.com/bonjour-monde/fonderie/syne-typeface",
+  "homepage": "https://fonts.google.com/specimen/Syne+Mono",
+  "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Syne Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/synemono/v16/K2FzfZNHj_FHBmRbFvHzIqCkDyvqZA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/synemono/v16/K2FzfZNHj_FHBmRbFvHzIqCkDyvqZA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Syne Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/synemono/v16/K2FzfZNHj_FHBmRbFvHzJ6CkDyvqZA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/synemono/v16/K2FzfZNHj_FHBmRbFvHzJ6CkDyvqZA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Syne Mono",
+      "styles": [
+        {
+          "family_name": "Syne Mono",
+          "type": "Regular",
+          "full_name": "Syne Mono Regular",
+          "post_script_name": "SyneMono-Regular",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Syne Project Authors (https://gitlab.com/bonjour-monde/fonderie/syne-typeface)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "K2FzfZNHj_FHBmRbFvHzIqCkDyvqZA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_nushu",
+  "name": "noto_sans_nushu",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Nushu is an unmodulated (“sans serif”) design for the East Asian Nüshu script with a simplified skeleton and large counters. It is suitable for shorter texts, especially in smaller font sizes and user interface contexts. It has 402 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Nushu",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nushu)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Nushu",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnushu/v20/rnCw-xRQ3B7652emAbAe_Ai1IYaFWFAMArZKqQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnushu/v20/rnCw-xRQ3B7652emAbAe_Ai1IYaFWFAMArZKqQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Nushu",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansnushu/v20/rnCw-xRQ3B7652emAbAe_Ai1IYaFXVAMArZKqQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansnushu/v20/rnCw-xRQ3B7652emAbAe_Ai1IYaFXVAMArZKqQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Nushu",
+      "styles": [
+        {
+          "family_name": "Noto Sans Nushu",
+          "type": "Regular",
+          "full_name": "Noto Sans Nushu Regular",
+          "post_script_name": "NotoSansNushu-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/nushu)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rnCw-xRQ3B7652emAbAe_Ai1IYaFWFAMArZKqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

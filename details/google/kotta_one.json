@@ -1,0 +1,58 @@
+{
+  "slug": "google/kotta_one",
+  "name": "kotta_one",
+  "description": "Kotta One is a new and unusual text typeface that mixes the characteristics of an italic with legibility of a roman. Kotta uses a true calligraphic construction, with a structure based on a real italic hand, not simple mechanical slanted forms. Like Renaissance typefaces it is an independent style, not merely an accompaniment for a roman. Kotta One is also a modern style, angular and geometric, exploring the ideas of American typographer Williams Addison Dwiggins and his M-Formula. Sharp lines and strong horizontal strokes give it a rhythm that reads well in long texts.",
+  "homepage": "https://fonts.google.com/specimen/Kotta+One",
+  "copyright": "Copyright (c) 2012 by Ania Kruk (hello@aniakruk.com), with Reserved Font Name \"Kotta\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kotta One",
+      "files": [
+        "https://fonts.gstatic.com/s/kottaone/v21/S6u_w41LXzPc_jlfNWqPHA3s5dwt7w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kottaone/v21/S6u_w41LXzPc_jlfNWqPHA3s5dwt7w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kotta One",
+      "files": [
+        "https://fonts.gstatic.com/s/kottaone/v21/S6u_w41LXzPc_jlfNWqPGQ3s5dwt7w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kottaone/v21/S6u_w41LXzPc_jlfNWqPGQ3s5dwt7w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kotta One",
+      "styles": [
+        {
+          "family_name": "Kotta One",
+          "type": "Regular",
+          "full_name": "Kotta One",
+          "post_script_name": "KottaOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012 by Ania Kruk (hello@aniakruk.com), with Reserved Font Name \"Kotta\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "S6u_w41LXzPc_jlfNWqPHA3s5dwt7w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

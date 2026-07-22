@@ -1,0 +1,58 @@
+{
+  "slug": "google/jersey_15_charted",
+  "name": "jersey_15_charted",
+  "description": "The Soft Type Collection is designed for knitters to chart out their typographic projects. Jersey is a sporty, versitile sans-serif typeface, knittable at various sizes. Each typeface has a “Regular” and “Charted” version, and some include multiple scales so you can fit type on your knits, no matter the project's size. Check out the non-charted version Jersey 15 . In this collection, the number following the typeface's name indicates the height of the capital letters for that typeface. To contribute, please see github.com/scfried/soft-type-jersey .",
+  "homepage": "https://fonts.google.com/specimen/Jersey+15+Charted",
+  "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jersey 15 Charted",
+      "files": [
+        "https://fonts.gstatic.com/s/jersey15charted/v4/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jersey15charted/v4/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jersey 15 Charted",
+      "files": [
+        "https://fonts.gstatic.com/s/jersey15charted/v4/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv9r2024gxi.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jersey15charted/v4/nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv9r2024gxi.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jersey 15 Charted",
+      "styles": [
+        {
+          "family_name": "Jersey 15 Charted",
+          "type": "Regular",
+          "full_name": "Jersey 15 Charted Regular",
+          "post_script_name": "Jersey15Charted-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "nuFjD-rCQIjoVp1Sva2ToCTudGbLeRv4r2024gxi.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

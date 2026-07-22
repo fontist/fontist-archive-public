@@ -1,0 +1,58 @@
+{
+  "slug": "google/hachi_maru_pop",
+  "name": "hachi_maru_pop",
+  "description": "HachiMaruPop is a cute font that was popular among young Japanese girls in the 1970s and 1980s. It has an informal handwritten appearance which works well at larger sizes. To contribute to the project, visit github.com/noriokanisawa/HachiMaruPop",
+  "homepage": "https://fonts.google.com/specimen/Hachi+Maru+Pop",
+  "copyright": "Copyright 2020 The Hachi Maru Pop Project Authors (https://github.com/noriokanisawa/HachiMaruPop)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hachi Maru Pop",
+      "files": [
+        "https://fonts.gstatic.com/s/hachimarupop/v23/HI_TiYoRLqpLrEiMAuO9Ysfz7rW1EM_btd8u.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hachimarupop/v23/HI_TiYoRLqpLrEiMAuO9Ysfz7rW1EM_btd8u.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hachi Maru Pop",
+      "files": [
+        "https://fonts.gstatic.com/s/hachimarupop/v23/HI_TiYoRLqpLrEiMAuO9Ysfz7rWwEM_btd8u.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hachimarupop/v23/HI_TiYoRLqpLrEiMAuO9Ysfz7rWwEM_btd8u.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hachi Maru Pop",
+      "styles": [
+        {
+          "family_name": "Hachi Maru Pop",
+          "type": "Regular",
+          "full_name": "Hachi Maru Pop Regular",
+          "post_script_name": "HachiMaruPop-Regular",
+          "version": "1.300",
+          "copyright": "Copyright 2020 The Hachi Maru Pop Project Authors (https://github.com/noriokanisawa/HachiMaruPop)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_TiYoRLqpLrEiMAuO9Ysfz7rW1EM_btd8u.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

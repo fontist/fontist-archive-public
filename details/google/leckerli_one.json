@@ -1,0 +1,58 @@
+{
+  "slug": "google/leckerli_one",
+  "name": "leckerli_one",
+  "description": "Leckerli is your new fat friend for any display-fun! Its irregular brush shapes indulge you with their sweet character and cheering loops. It is also useful for shorter texts.",
+  "homepage": "https://fonts.google.com/specimen/Leckerli+One",
+  "copyright": "Copyright (c) 2011 Gesine Todt (www.gesine-todt.de), with Reserved Font Names \"Leckerli\"",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Leckerli One",
+      "files": [
+        "https://fonts.gstatic.com/s/leckerlione/v22/V8mCoQH8VCsNttEnxnGQ-1itLZxcBtItFw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/leckerlione/v22/V8mCoQH8VCsNttEnxnGQ-1itLZxcBtItFw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Leckerli One",
+      "files": [
+        "https://fonts.gstatic.com/s/leckerlione/v22/V8mCoQH8VCsNttEnxnGQ-1itKJxcBtItFw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/leckerlione/v22/V8mCoQH8VCsNttEnxnGQ-1itKJxcBtItFw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Leckerli One",
+      "styles": [
+        {
+          "family_name": "Leckerli One",
+          "type": "Regular",
+          "full_name": "Leckerli One",
+          "post_script_name": "LeckerliOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Gesine Todt (www.gesine-todt.de), with Reserved Font Names \"Leckerli\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "V8mCoQH8VCsNttEnxnGQ-1itLZxcBtItFw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

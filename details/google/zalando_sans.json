@@ -1,0 +1,381 @@
+{
+  "slug": "google/zalando_sans",
+  "name": "zalando_sans",
+  "description": "Zalando Sans font family",
+  "homepage": "https://fonts.google.com/specimen/Zalando+Sans",
+  "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Zalando Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7PzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT9lPzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT87PzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT8JPzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_lODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_cODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7ODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-SODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFQa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfI9Qa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfNFQa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfONQa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfA9Xa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfDZXa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFXa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfHhXa0Imhihp69o.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7PzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT9lPzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT87PzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT8JPzkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_lODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_cODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7ODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-SODkWYUMEgzhp.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFQa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfI9Qa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfNFQa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfONQa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfA9Xa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfDZXa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFXa0Imhihp69o.woff2",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfHhXa0Imhihp69o.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Zalando Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7PzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT9lPzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT87PzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT8JPzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_lODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_cODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7ODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-SODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFQa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfI9Qa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfNFQa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfONQa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfA9Xa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfDZXa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFXa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfHhXa0cmhihp69o.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7PzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT9lPzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT87PzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT8JPzkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_lODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_cODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7ODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-SODkTYUMEgzhp.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFQa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfI9Qa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfNFQa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfONQa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfA9Xa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfDZXa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFXa0cmhihp69o.ttf",
+        "https://fonts.gstatic.com/s/zalandosans/v2/FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfHhXa0cmhihp69o.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zalando Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Zalando Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Zalando Sans ExtraLight",
+          "post_script_name": "ZalandoSans-ExtraLight",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7PzkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Zalando Sans ExtraLight Italic",
+          "post_script_name": "ZalandoSans-ExtraLightItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFQa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zalando Sans Light",
+      "styles": [
+        {
+          "family_name": "Zalando Sans Light",
+          "type": "Regular",
+          "full_name": "Zalando Sans Light",
+          "post_script_name": "ZalandoSans-Light",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT9lPzkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans Light",
+          "type": "Italic",
+          "full_name": "Zalando Sans Light Italic",
+          "post_script_name": "ZalandoSans-LightItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfI9Qa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zalando Sans",
+      "styles": [
+        {
+          "family_name": "Zalando Sans",
+          "type": "Regular",
+          "full_name": "Zalando Sans Regular",
+          "post_script_name": "ZalandoSans-Regular",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT87PzkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans",
+          "type": "Bold",
+          "full_name": "Zalando Sans Bold",
+          "post_script_name": "ZalandoSans-Bold",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_cODkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans",
+          "type": "Italic",
+          "full_name": "Zalando Sans Italic",
+          "post_script_name": "ZalandoSans-Italic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfNFQa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans",
+          "type": "Bold Italic",
+          "full_name": "Zalando Sans Bold Italic",
+          "post_script_name": "ZalandoSans-BoldItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfDZXa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zalando Sans Medium",
+      "styles": [
+        {
+          "family_name": "Zalando Sans Medium",
+          "type": "Regular",
+          "full_name": "Zalando Sans Medium",
+          "post_script_name": "ZalandoSans-Medium",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT8JPzkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans Medium",
+          "type": "Italic",
+          "full_name": "Zalando Sans Medium Italic",
+          "post_script_name": "ZalandoSans-MediumItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfONQa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zalando Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Zalando Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Zalando Sans SemiBold",
+          "post_script_name": "ZalandoSans-SemiBold",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT_lODkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Zalando Sans SemiBold Italic",
+          "post_script_name": "ZalandoSans-SemiBoldItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfA9Xa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zalando Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Zalando Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Zalando Sans ExtraBold",
+          "post_script_name": "ZalandoSans-ExtraBold",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-7ODkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Zalando Sans ExtraBold Italic",
+          "post_script_name": "ZalandoSans-ExtraBoldItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfFFXa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zalando Sans Black",
+      "styles": [
+        {
+          "family_name": "Zalando Sans Black",
+          "type": "Regular",
+          "full_name": "Zalando Sans Black",
+          "post_script_name": "ZalandoSans-Black",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ67-Asy1Em_lq_aK3hpr-RrktWHD54lnesO2lsVvrnhgw8zPbXoT-SODkTYUMEgzhp.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Zalando Sans Black",
+          "type": "Italic",
+          "full_name": "Zalando Sans Black Italic",
+          "post_script_name": "ZalandoSans-BlackItalic",
+          "version": "1.700",
+          "copyright": "Copyright 2025 The Zalando Sans Project Authors (https://github.com/zalando/sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "FwZ47-Asy1Em_lq_aK3hpr-7p3m1_EcrANmrLqEupLPVedRVp2x5pirzfHhXa0cmhihp69o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

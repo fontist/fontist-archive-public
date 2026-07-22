@@ -1,0 +1,70 @@
+{
+  "slug": "google/sixtyfour_convergence",
+  "name": "sixtyfour_convergence",
+  "description": "Sixtyfour Convergence font family",
+  "homepage": "https://fonts.google.com/specimen/Sixtyfour+Convergence",
+  "copyright": "Copyright 2021 The Sixtyfour Convergence Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Sixtyfour Convergence",
+      "files": [
+        "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102ho5kk3grz3g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102ho5kk3grz3g.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "BLED",
+        "SCAN",
+        "XELA",
+        "YELA"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Sixtyfour Convergence",
+      "files": [
+        "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102hotkk3grz3g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sixtyfourconvergence/v5/m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102hotkk3grz3g.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "BLED",
+        "SCAN",
+        "XELA",
+        "YELA"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sixtyfour Convergence",
+      "styles": [
+        {
+          "family_name": "Sixtyfour Convergence",
+          "type": "Regular",
+          "full_name": "Sixtyfour Convergence Regular",
+          "post_script_name": "SixtyfourConvergence-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2021 The Sixtyfour Convergence Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "m8IQjepPf7mIglv5K__zM9srGA7wurbybZMfZsqG2Q6EWlJro5FJSJ4acT9PoOPwGgieaK7zkSpdXP-GrR9Yw9Tg7E4HGLbUKPlOh102hotkk3grz3g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

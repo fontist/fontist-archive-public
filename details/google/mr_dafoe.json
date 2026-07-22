@@ -1,0 +1,58 @@
+{
+  "slug": "google/mr_dafoe",
+  "name": "mr_dafoe",
+  "description": "The Charles Bluemlein Script Collection is an intriguing reminder of the heady days of hand lettering and calligraphy in the United States. From the early 1930s through World War II, there were about 200 professional hand letterers working in New York City alone. This occupation saw its demise with the advent of photo lettering, and after digital typography it became virtually extinct. The odd way in which the Bluemlein scripts were assembled and created - by collecting different signatures and then building complete alphabets from them - is a fascinating calligraphic adventure. Because the set of constructed designs looked nothing like the original signatures, fictitious names were assigned to the new script typefaces. The typeface styles were then showcased in Higgins Ink catalogs. Alejandro Paul and Sudtipos bring the Bluemlein scripts back to life in a set of expanded digital versions, reflecting the demands of today’s designer. Extreme care has been taken to render the original scripts authentically, keeping the fictitious names originally assigned to them by Bluemlein.",
+  "homepage": "https://fonts.google.com/specimen/Mr+Dafoe",
+  "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Mr Dafoe\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mr Dafoe",
+      "files": [
+        "https://fonts.gstatic.com/s/mrdafoe/v15/lJwE-pIzkS5NXuMMrGiqg7MCxz_C.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mrdafoe/v15/lJwE-pIzkS5NXuMMrGiqg7MCxz_C.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mr Dafoe",
+      "files": [
+        "https://fonts.gstatic.com/s/mrdafoe/v15/lJwE-pIzkS5NXuMMrGivg7MCxz_C.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mrdafoe/v15/lJwE-pIzkS5NXuMMrGivg7MCxz_C.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mr Dafoe",
+      "styles": [
+        {
+          "family_name": "Mr Dafoe",
+          "type": "Regular",
+          "full_name": "Mr Dafoe Regular",
+          "post_script_name": "MrDafoe-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2004 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Mr Dafoe\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "lJwE-pIzkS5NXuMMrGiqg7MCxz_C.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

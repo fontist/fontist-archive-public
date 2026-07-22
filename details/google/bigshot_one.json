@@ -1,0 +1,58 @@
+{
+  "slug": "google/bigshot_one",
+  "name": "bigshot_one",
+  "description": "Bigshot One is a contemporary Didone. The design plays within its systematic features and likes to be cheeky. Bigshot One also likes to show-off and prefers big display sizes.",
+  "homepage": "https://fonts.google.com/specimen/Bigshot+One",
+  "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bigshot One",
+      "files": [
+        "https://fonts.gstatic.com/s/bigshotone/v31/u-470qukhRkkO6BD_7cM_gxuUQJBXv_-.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bigshotone/v31/u-470qukhRkkO6BD_7cM_gxuUQJBXv_-.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bigshot One",
+      "files": [
+        "https://fonts.gstatic.com/s/bigshotone/v31/u-470qukhRkkO6BD_7cM_gxrUQJBXv_-.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bigshotone/v31/u-470qukhRkkO6BD_7cM_gxrUQJBXv_-.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bigshot One",
+      "styles": [
+        {
+          "family_name": "Bigshot One",
+          "type": "Regular",
+          "full_name": "Bigshot One Regular",
+          "post_script_name": "BigshotOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved.",
+          "description": "Copyright (c) 2011 Bigshot One by Gesine Todt www.gesine-todt.de. All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "u-470qukhRkkO6BD_7cM_gxuUQJBXv_-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

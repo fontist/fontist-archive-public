@@ -1,0 +1,58 @@
+{
+  "slug": "google/felipa",
+  "name": "felipa",
+  "description": "Felipa is a carefully written calligraphic font based on a traditional Italian chancery cursive, though reinterpreted with a contemporary feeling.",
+  "homepage": "https://fonts.google.com/specimen/Felipa",
+  "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Felipa\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Felipa",
+      "files": [
+        "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_wSNSEwM2zpA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_wSNSEwM2zpA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Felipa",
+      "files": [
+        "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_wTdSEwM2zpA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/felipa/v27/FwZa7-owz1Eu4F_wTdSEwM2zpA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Felipa",
+      "styles": [
+        {
+          "family_name": "Felipa",
+          "type": "Regular",
+          "full_name": "Felipa",
+          "post_script_name": "Felipa-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Felipa\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FwZa7-owz1Eu4F_wSNSEwM2zpA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,125 @@
+{
+  "slug": "google/farro",
+  "name": "farro",
+  "description": "Farro is an artsy, four-weighted, display typeface that has a peculiar personality flowing through its European humanist silhouette. To contribute, see github.com/grayscaleltd/farro> .",
+  "homepage": "https://fonts.google.com/specimen/Farro",
+  "copyright": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Farro",
+      "files": [
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3hNJ6-WkJUQUq7.ttf",
+        "https://fonts.gstatic.com/s/farro/v15/i7dEIFl3byGNHZVNHLq2cV5d.ttf",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa25NZ6-WkJUQUq7.ttf",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3xM56-WkJUQUq7.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3hNJ6-WkJUQUq7.ttf",
+        "https://fonts.gstatic.com/s/farro/v15/i7dEIFl3byGNHZVNHLq2cV5d.ttf",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa25NZ6-WkJUQUq7.ttf",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3xM56-WkJUQUq7.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Farro",
+      "files": [
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3hNJ67WkJUQUq7.woff2",
+        "https://fonts.gstatic.com/s/farro/v15/i7dEIFl3byGNHZVIHLq2cV5d.woff2",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa25NZ67WkJUQUq7.woff2",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3xM567WkJUQUq7.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3hNJ67WkJUQUq7.woff2",
+        "https://fonts.gstatic.com/s/farro/v15/i7dEIFl3byGNHZVIHLq2cV5d.woff2",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa25NZ67WkJUQUq7.woff2",
+        "https://fonts.gstatic.com/s/farro/v15/i7dJIFl3byGNHa3xM567WkJUQUq7.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Farro Light",
+      "styles": [
+        {
+          "family_name": "Farro Light",
+          "type": "Regular",
+          "full_name": "Farro Light",
+          "post_script_name": "Farro-Light",
+          "version": "1.101",
+          "copyright": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dJIFl3byGNHa3hNJ6-WkJUQUq7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Farro",
+      "styles": [
+        {
+          "family_name": "Farro",
+          "type": "Regular",
+          "full_name": "Farro Regular",
+          "post_script_name": "Farro-Regular",
+          "version": "1.101",
+          "copyright": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dEIFl3byGNHZVNHLq2cV5d.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Farro",
+          "type": "Bold",
+          "full_name": "Farro Bold",
+          "post_script_name": "Farro-Bold",
+          "version": "1.101",
+          "copyright": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dJIFl3byGNHa3xM56-WkJUQUq7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Farro Medium",
+      "styles": [
+        {
+          "family_name": "Farro Medium",
+          "type": "Regular",
+          "full_name": "Farro Medium",
+          "post_script_name": "Farro-Medium",
+          "version": "1.101",
+          "copyright": "Copyright 2018 The Farro Project Authors (https://github.com/grayscaleltd/farro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dJIFl3byGNHa25NZ6-WkJUQUq7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

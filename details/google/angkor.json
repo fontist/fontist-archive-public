@@ -1,0 +1,58 @@
+{
+  "slug": "google/angkor",
+  "name": "angkor",
+  "description": "Angkor is a Khmer font for headlines and even banner designs. To contribute, see github.com/danhhong/Angkor .",
+  "homepage": "https://fonts.google.com/specimen/Angkor",
+  "copyright": "Copyright 2020 The Angkor Project Authors (https://github.com/danhhong/Angkor)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Angkor",
+      "files": [
+        "https://fonts.gstatic.com/s/angkor/v35/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/angkor/v35/H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Angkor",
+      "files": [
+        "https://fonts.gstatic.com/s/angkor/v35/H4cmBXyAlsPdnlb-9yw-4Lqggw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/angkor/v35/H4cmBXyAlsPdnlb-9yw-4Lqggw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Angkor",
+      "styles": [
+        {
+          "family_name": "Angkor",
+          "type": "Regular",
+          "full_name": "Angkor Regular",
+          "post_script_name": "Angkor-Regular",
+          "version": "8.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Angkor Project Authors (https://github.com/danhhong/Angkor)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4cmBXyAlsPdnlb-8iw-4Lqggw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/asset",
+  "name": "asset",
+  "description": "Asset was inspired by the engraved letters found on United States dollar bills. Asset belongs to the \"fat face\" category because it is so bold or heavy. It is also a high contrast design and very extended or wide. Although it is legible at medium sizes it will shine most when used large where both its restraint and passion can be seen. This font was made specifically to be used on the web, but will work well in print. To contribute, see github.com/SorkinType/Asset .",
+  "homepage": "https://fonts.google.com/specimen/Asset",
+  "copyright": "Copyright 2023 The Asset Project Authors (https://github.com/SorkinType/Asset)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Asset",
+      "files": [
+        "https://fonts.gstatic.com/s/asset/v30/SLXGc1na-mM4cWImRJqExst1.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/asset/v30/SLXGc1na-mM4cWImRJqExst1.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Asset",
+      "files": [
+        "https://fonts.gstatic.com/s/asset/v30/SLXGc1na-mM4cWIjRJqExst1.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/asset/v30/SLXGc1na-mM4cWIjRJqExst1.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Asset",
+      "styles": [
+        {
+          "family_name": "Asset",
+          "type": "Regular",
+          "full_name": "Asset Regular",
+          "post_script_name": "Asset-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Asset Project Authors (https://github.com/SorkinType/Asset)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXGc1na-mM4cWImRJqExst1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

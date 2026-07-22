@@ -1,0 +1,58 @@
+{
+  "slug": "google/sail",
+  "name": "sail",
+  "description": "Sail is a Didot script for headline, display and poster uses. A fresh air comes to all the glyphs, its windy uppercases are especially suited for display texts and web navigation. Elegant swashes and a clean lowercases also make it suitable for larger paragraphs.",
+  "homepage": "https://fonts.google.com/specimen/Sail",
+  "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Sail\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sail",
+      "files": [
+        "https://fonts.gstatic.com/s/sail/v17/DPEjYwiBxwYJFBTDADYAbvw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sail/v17/DPEjYwiBxwYJFBTDADYAbvw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sail",
+      "files": [
+        "https://fonts.gstatic.com/s/sail/v17/DPEjYwiBxwYJFBHDADYAbvw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sail/v17/DPEjYwiBxwYJFBHDADYAbvw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sail",
+      "styles": [
+        {
+          "family_name": "Sail",
+          "type": "Regular",
+          "full_name": "Sail",
+          "post_script_name": "Sail-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by LatinoType Limitada (luciano@latinotype.com), with Reserved Font Names \"Sail\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "DPEjYwiBxwYJFBTDADYAbvw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

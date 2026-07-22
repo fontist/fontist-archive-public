@@ -1,0 +1,422 @@
+{
+  "slug": "google/suse",
+  "name": "suse",
+  "description": "SUSE font family",
+  "homepage": "https://fonts.google.com/specimen/SUSE",
+  "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "SUSE",
+      "files": [
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG71q4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG7lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbHY7lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG7lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbG07lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFY6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFh6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEv6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL_bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrez-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrYD-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrWz5bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrVX5bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL5bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrRv5bHNwY8QGjKU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG71q4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG7lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbHY7lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG7lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbG07lq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFY6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFh6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEv6Vq4ZnJSZtQG.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL_bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrez-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrYD-bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrWz5bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrVX5bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL5bHNwY8QGjKU.woff2",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrRv5bHNwY8QGjKU.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "SUSE",
+      "files": [
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG71q9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG7lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbHY7lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG7lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbG07lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFY6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFh6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEv6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL_bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrez-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrYD-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrWz5bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrVX5bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL5bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrRv5bHZwY8QGjKU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG71q9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG7lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbHY7lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbGG7lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbG07lq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFY6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbFh6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEG6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQsbhb078Wt81NpzELmC2QqjbEv6Vq9ZnJSZtQG.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL_bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrez-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrbL-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrYD-bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrWz5bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrVX5bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrTL5bHZwY8QGjKU.ttf",
+        "https://fonts.gstatic.com/s/suse/v4/MwQqbhb078Wt2VpbM5qPYP6EiqROrRv5bHZwY8QGjKU.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "SUSE Thin",
+      "styles": [
+        {
+          "family_name": "SUSE Thin",
+          "type": "Regular",
+          "full_name": "SUSE Thin",
+          "post_script_name": "SUSE-Thin",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbGG71q9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE Thin",
+          "type": "Italic",
+          "full_name": "SUSE Thin Italic",
+          "post_script_name": "SUSE-ThinItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrbL_bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE ExtraLight",
+      "styles": [
+        {
+          "family_name": "SUSE ExtraLight",
+          "type": "Regular",
+          "full_name": "SUSE ExtraLight",
+          "post_script_name": "SUSE-ExtraLight",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbEG7lq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE ExtraLight",
+          "type": "Italic",
+          "full_name": "SUSE ExtraLight Italic",
+          "post_script_name": "SUSE-ExtraLightItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrTL-bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE Light",
+      "styles": [
+        {
+          "family_name": "SUSE Light",
+          "type": "Regular",
+          "full_name": "SUSE Light",
+          "post_script_name": "SUSE-Light",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbHY7lq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE Light",
+          "type": "Italic",
+          "full_name": "SUSE Light Italic",
+          "post_script_name": "SUSE-LightItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrez-bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE",
+      "styles": [
+        {
+          "family_name": "SUSE",
+          "type": "Regular",
+          "full_name": "SUSE Regular",
+          "post_script_name": "SUSE-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbGG7lq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE",
+          "type": "Bold",
+          "full_name": "SUSE Bold",
+          "post_script_name": "SUSE-Bold",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbFh6Vq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE",
+          "type": "Italic",
+          "full_name": "SUSE Italic",
+          "post_script_name": "SUSE-Italic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrbL-bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE",
+          "type": "Bold Italic",
+          "full_name": "SUSE Bold Italic",
+          "post_script_name": "SUSE-BoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrVX5bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE Medium",
+      "styles": [
+        {
+          "family_name": "SUSE Medium",
+          "type": "Regular",
+          "full_name": "SUSE Medium",
+          "post_script_name": "SUSE-Medium",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbG07lq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE Medium",
+          "type": "Italic",
+          "full_name": "SUSE Medium Italic",
+          "post_script_name": "SUSE-MediumItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrYD-bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE SemiBold",
+      "styles": [
+        {
+          "family_name": "SUSE SemiBold",
+          "type": "Regular",
+          "full_name": "SUSE SemiBold",
+          "post_script_name": "SUSE-SemiBold",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbFY6Vq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE SemiBold",
+          "type": "Italic",
+          "full_name": "SUSE SemiBold Italic",
+          "post_script_name": "SUSE-SemiBoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrWz5bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE ExtraBold",
+      "styles": [
+        {
+          "family_name": "SUSE ExtraBold",
+          "type": "Regular",
+          "full_name": "SUSE ExtraBold",
+          "post_script_name": "SUSE-ExtraBold",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbEG6Vq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE ExtraBold",
+          "type": "Italic",
+          "full_name": "SUSE ExtraBold Italic",
+          "post_script_name": "SUSE-ExtraBoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrTL5bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SUSE Black",
+      "styles": [
+        {
+          "family_name": "SUSE Black",
+          "type": "Regular",
+          "full_name": "SUSE Black",
+          "post_script_name": "SUSE-Black",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQsbhb078Wt81NpzELmC2QqjbEv6Vq9ZnJSZtQG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "SUSE Black",
+          "type": "Italic",
+          "full_name": "SUSE Black Italic",
+          "post_script_name": "SUSE-BlackItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2025 The SUSE Project Authors (https://github.com/SUSE/suse-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "MwQqbhb078Wt2VpbM5qPYP6EiqROrRv5bHZwY8QGjKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

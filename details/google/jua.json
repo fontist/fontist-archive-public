@@ -1,0 +1,58 @@
+{
+  "slug": "google/jua",
+  "name": "jua",
+  "description": "Jua is a Korean and Latin font",
+  "homepage": "https://fonts.google.com/specimen/Jua",
+  "copyright": "Copyright 2018 The BM JUA Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jua",
+      "files": [
+        "https://fonts.gstatic.com/s/jua/v18/co3KmW9ljjAjc-DZCsKgsg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jua/v18/co3KmW9ljjAjc-DZCsKgsg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jua",
+      "files": [
+        "https://fonts.gstatic.com/s/jua/v18/co3KmW9ljjAjduDZCsKgsg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jua/v18/co3KmW9ljjAjduDZCsKgsg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jua",
+      "styles": [
+        {
+          "family_name": "Jua",
+          "type": "Regular",
+          "full_name": "Jua Regular",
+          "post_script_name": "Jua-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2018 The BM JUA Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "co3KmW9ljjAjc-DZCsKgsg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

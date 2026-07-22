@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_no_guides",
+  "name": "playwrite_no_guides",
+  "description": "Playwrite NO Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+NO+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite NO Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite NO Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2qZ2vnLeAs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritenoguides/v1/DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2qZ2vnLeAs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite NO Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite NO Guides",
+          "type": "Regular",
+          "full_name": "Playwrite NO Guides Regular",
+          "post_script_name": "PlaywriteNOGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "DPEwYx-Cyg4cQ2aAcFshOLL79zJKccqHe2-Z2vnLeAs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

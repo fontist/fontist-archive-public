@@ -1,0 +1,115 @@
+{
+  "slug": "google/cambay",
+  "name": "cambay",
+  "description": "Cambay is a libre Devanagari typeface family designed to match the Latin Cantarell . It comes in two weights, Regular and Bold, in upright and oblique styles. The oblique styles are slanted with only the absolutely necessary optical corrections. This project is led by Pooja Saxena, a type designer based in Bangalore, India. To contribute, see Cambay on GitHub .",
+  "homepage": "https://fonts.google.com/specimen/Cambay",
+  "copyright": "Copyright (c) 2014 Pooja Saxena (www.poojasaxena.in)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cambay",
+      "files": [
+        "https://fonts.gstatic.com/s/cambay/v14/SLXJc1rY6H0_ZDsGbrSIz9JsaA.ttf",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXLc1rY6H0_ZDs2bL6M7dd8aGZk.ttf",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0pusx_lwYX99kA.ttf",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXMc1rY6H0_ZDs2bIYwwvN0Q3ptkDMN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cambay/v14/SLXJc1rY6H0_ZDsGbrSIz9JsaA.ttf",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXLc1rY6H0_ZDs2bL6M7dd8aGZk.ttf",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0pusx_lwYX99kA.ttf",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXMc1rY6H0_ZDs2bIYwwvN0Q3ptkDMN.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cambay",
+      "files": [
+        "https://fonts.gstatic.com/s/cambay/v14/SLXJc1rY6H0_ZDsGa7SIz9JsaA.woff2",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXLc1rY6H0_ZDs2bL6J7dd8aGZk.woff2",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0puswvlwYX99kA.woff2",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXMc1rY6H0_ZDs2bIYwwvNxQ3ptkDMN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cambay/v14/SLXJc1rY6H0_ZDsGa7SIz9JsaA.woff2",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXLc1rY6H0_ZDs2bL6J7dd8aGZk.woff2",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXKc1rY6H0_ZDs-0puswvlwYX99kA.woff2",
+        "https://fonts.gstatic.com/s/cambay/v14/SLXMc1rY6H0_ZDs2bIYwwvNxQ3ptkDMN.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cambay",
+      "styles": [
+        {
+          "family_name": "Cambay",
+          "type": "Regular",
+          "full_name": "Cambay Regular",
+          "post_script_name": "Cambay-Regular",
+          "version": "1.181;PS 001.181;hotconv 1.0.70;makeotf.lib2.5.58329",
+          "copyright": "Copyright (c) 2014 Pooja Saxena (www.poojasaxena.in)",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXJc1rY6H0_ZDsGbrSIz9JsaA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cambay",
+          "type": "Italic",
+          "full_name": "Cambay Italic",
+          "post_script_name": "Cambay-Italic",
+          "version": "1.019;PS 001.019;hotconv 1.0.70;makeotf.lib2.5.58329",
+          "copyright": "Copyright (c) 2014 Pooja Saxena (www.poojasaxena.in)",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXLc1rY6H0_ZDs2bL6M7dd8aGZk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cambay",
+          "type": "Bold",
+          "full_name": "Cambay Bold",
+          "post_script_name": "Cambay-Bold",
+          "version": "1.096;PS 001.096;hotconv 1.0.70;makeotf.lib2.5.58329",
+          "copyright": "Copyright (c) 2014 Pooja Saxena (www.poojasaxena.in)",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXKc1rY6H0_ZDs-0pusx_lwYX99kA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cambay",
+          "type": "Bold Italic",
+          "full_name": "Cambay Bold Italic",
+          "post_script_name": "Cambay-BoldItalic",
+          "version": "1.006;PS 001.006;hotconv 1.0.70;makeotf.lib2.5.58329",
+          "copyright": "Copyright (c) 2014 Pooja Saxena (www.poojasaxena.in)",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SLXMc1rY6H0_ZDs2bIYwwvN0Q3ptkDMN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/poly",
+  "name": "poly",
+  "description": "Poly is a medium contrast serif font. With short ascenders and a very high x-height, Poly is efficient in small sizes. Thanks to its careful balance between the x-height and glyph widths, it allows more economy and legibility than standard web serifs, even in small sizes. This font was originally designed to compose texts in agglutinative languages; these contain very long words. The goal was to develop a typeface that would tolerate cramped tracking and that would increase the number of letters on a single line. Poly is a Unicode typeface family that supports Open Type features and languages that use the Latin script and its variants, especially Native South American language families.",
+  "homepage": "https://fonts.google.com/specimen/Poly",
+  "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Poly",
+      "files": [
+        "https://fonts.gstatic.com/s/poly/v18/MQpb-W6wKNitRLCAq2Lpris.ttf",
+        "https://fonts.gstatic.com/s/poly/v18/MQpV-W6wKNitdLKKr0DsviuGWA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poly/v18/MQpb-W6wKNitRLCAq2Lpris.ttf",
+        "https://fonts.gstatic.com/s/poly/v18/MQpV-W6wKNitdLKKr0DsviuGWA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Poly",
+      "files": [
+        "https://fonts.gstatic.com/s/poly/v18/MQpb-W6wKNitRLWAq2Lpris.woff2",
+        "https://fonts.gstatic.com/s/poly/v18/MQpV-W6wKNitdLKKqkDsviuGWA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poly/v18/MQpb-W6wKNitRLWAq2Lpris.woff2",
+        "https://fonts.gstatic.com/s/poly/v18/MQpV-W6wKNitdLKKqkDsviuGWA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Poly",
+      "styles": [
+        {
+          "family_name": "Poly",
+          "type": "Regular",
+          "full_name": "Poly-Regular",
+          "post_script_name": "Poly-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MQpb-W6wKNitRLCAq2Lpris.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Poly",
+          "type": "Italic",
+          "full_name": "Poly-Italic",
+          "post_script_name": "Poly-Italic",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2010 by Jos Nicols Silva Schwarzenberg.<info@nsilva.com>, with Reserved Font Names \"Poly\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MQpV-W6wKNitdLKKr0DsviuGWA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/cookie",
+  "name": "cookie",
+  "description": "Cookie is a script typeface based on brush calligraphy. It has a little bit of 1950s style that makes you think about all the beautiful ads and pin-ups from this time. It is sweet and friendly - but not too decorative; simple and legible even in text sizes.",
+  "homepage": "https://fonts.google.com/specimen/Cookie",
+  "copyright": "Copyright (c) 2011 by Ania Kruk (hello@aniakruk.com), with Reserved Font Name Cookie.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cookie",
+      "files": [
+        "https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbfNlQCT9tPdpw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbfNlQCT9tPdpw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cookie",
+      "files": [
+        "https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbfNkACT9tPdpw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cookie/v23/syky-y18lb0tSbfNkACT9tPdpw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cookie",
+      "styles": [
+        {
+          "family_name": "Cookie",
+          "type": "Regular",
+          "full_name": "Cookie-Regular",
+          "post_script_name": "Cookie-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011 by Ania Kruk (hello@aniakruk.com), with Reserved Font Name Cookie.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "syky-y18lb0tSbfNlQCT9tPdpw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

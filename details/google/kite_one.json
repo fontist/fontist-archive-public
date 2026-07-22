@@ -1,0 +1,58 @@
+{
+  "slug": "google/kite_one",
+  "name": "kite_one",
+  "description": "Kite One is a rounded, monoline, humanist sans serif typeface. With an inclination of 7 degrees, it gives a fluid reading experience. Long ascenders and descenders, soft shapes, open counterforms and soft terminals, make Kite One a typeface that is very suitable for long texts, especially those associated with the natural world or children’s tales. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/Kite-One .",
+  "homepage": "https://fonts.google.com/specimen/Kite+One",
+  "copyright": "Copyright 2011 The Kite One Project Authors (https://github.com/etunni/Kite-One) with Reserved Font Name is \"Kite\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kite One",
+      "files": [
+        "https://fonts.gstatic.com/s/kiteone/v23/70lQu7shLnA_E02vyq1b6HnGO4uA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kiteone/v23/70lQu7shLnA_E02vyq1b6HnGO4uA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kite One",
+      "files": [
+        "https://fonts.gstatic.com/s/kiteone/v23/70lQu7shLnA_E02vyq1e6HnGO4uA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kiteone/v23/70lQu7shLnA_E02vyq1e6HnGO4uA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kite One",
+      "styles": [
+        {
+          "family_name": "Kite One",
+          "type": "Regular",
+          "full_name": "Kite One Regular",
+          "post_script_name": "KiteOne-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2011 The Kite One Project Authors (https://github.com/etunni/Kite-One) with Reserved Font Name is \"Kite\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "70lQu7shLnA_E02vyq1b6HnGO4uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/aubrey",
+  "name": "aubrey",
+  "description": "Aubrey is a playful condensed decorative font with an art nouveau essence. Horizontal elements are unexpectedly cut and swapped with sloped curves creating off-beats in the overall rhythm. Spurs are added to twist and stress the movement. Aubrey can be a good choice for designing holiday decorations and greetings. Works best in medium and large sizes. Designed by Gayaneh Bagdasaryan. To contribute, see github.com/cyrealtype/Aubrey .",
+  "homepage": "https://fonts.google.com/specimen/Aubrey",
+  "copyright": "Copyright 2011 The Aubrey Project Authors (https://github.com/cyrealtype/Aubrey)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aubrey",
+      "files": [
+        "https://fonts.gstatic.com/s/aubrey/v29/q5uGsou7NPBw-p7vugNsCxVEgA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aubrey/v29/q5uGsou7NPBw-p7vugNsCxVEgA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aubrey",
+      "files": [
+        "https://fonts.gstatic.com/s/aubrey/v29/q5uGsou7NPBw-p7vvwNsCxVEgA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aubrey/v29/q5uGsou7NPBw-p7vvwNsCxVEgA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aubrey",
+      "styles": [
+        {
+          "family_name": "Aubrey",
+          "type": "Regular",
+          "full_name": "Aubrey Regular",
+          "post_script_name": "Aubrey-Regular",
+          "version": "1.102; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2011 The Aubrey Project Authors (https://github.com/cyrealtype/Aubrey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "q5uGsou7NPBw-p7vugNsCxVEgA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

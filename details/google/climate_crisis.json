@@ -1,0 +1,64 @@
+{
+  "slug": "google/climate_crisis",
+  "name": "climate_crisis",
+  "description": "Climate Crisis, is a variable font designed to help visualise the urgency of climate change, designed for Helsingin Sanomat, the largest Nordic newspaper. The typeface’s weight responds to the levels of Arctic sea ice from 1979 to 2019 and predictions for 2050, based on data from the National Snow and Ice Data Center. Case study on the mini website . To contribute, see github.com/dancoull/ClimateCrisis .",
+  "homepage": "https://fonts.google.com/specimen/Climate+Crisis",
+  "copyright": "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Climate Crisis",
+      "files": [
+        "https://fonts.gstatic.com/s/climatecrisis/v14/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6iKUrGb7PsQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/climatecrisis/v14/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6iKUrGb7PsQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "YEAR"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Climate Crisis",
+      "files": [
+        "https://fonts.gstatic.com/s/climatecrisis/v14/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/climatecrisis/v14/wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "YEAR"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Climate Crisis",
+      "styles": [
+        {
+          "family_name": "Climate Crisis",
+          "type": "Regular",
+          "full_name": "Climate Crisis Regular",
+          "post_script_name": "ClimateCrisis-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2020 The Climate Crisis Project Authors (https://github.com/dancoull/ClimateCrisis)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "wEOpEB3AntNeKCPBVW9XOKlmp3AUgWFN1DvIvcM0gFp6jaUrGb7PsQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

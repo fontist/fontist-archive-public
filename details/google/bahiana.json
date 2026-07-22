@@ -1,0 +1,58 @@
+{
+  "slug": "google/bahiana",
+  "name": "bahiana",
+  "description": "Bahiana has a rustic, fresh and casual look. Its ideal for composing condensed titles and short texts. The family has OpenType alternatives to make the texture more organic. There are 490 glyphs and diacritics, supporting over 103 Latin languages (including Guarani.) Designed by Daniela Raskovsky and Pablo Cosgaya.",
+  "homepage": "https://fonts.google.com/specimen/Bahiana",
+  "copyright": "Copyright 2016 The Bahiana Project Authors (omnibus.type@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bahiana",
+      "files": [
+        "https://fonts.gstatic.com/s/bahiana/v25/uU9PCBUV4YenPWJU7xPb3vyHmlI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bahiana/v25/uU9PCBUV4YenPWJU7xPb3vyHmlI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bahiana",
+      "files": [
+        "https://fonts.gstatic.com/s/bahiana/v25/uU9PCBUV4YenPWJU7xbb3vyHmlI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bahiana/v25/uU9PCBUV4YenPWJU7xbb3vyHmlI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bahiana",
+      "styles": [
+        {
+          "family_name": "Bahiana",
+          "type": "Regular",
+          "full_name": "Bahiana Regular",
+          "post_script_name": "Bahiana-Regular",
+          "version": "1.005",
+          "copyright": "Copyright 2016 The Bahiana Project Authors (omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uU9PCBUV4YenPWJU7xPb3vyHmlI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

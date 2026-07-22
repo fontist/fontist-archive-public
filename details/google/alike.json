@@ -1,0 +1,58 @@
+{
+  "slug": "google/alike",
+  "name": "alike",
+  "description": "Alike is a text typeface with expressive and tense letterforms. Its design features are said to have Czech influence, but are softened for a friendlier feel. The proportions are regular and the contrast is low for a pleasant reading experience. Alike Angular is a complementary titling style. Designed by Sveta Sebyakina in 2009, and in collaboration with Alexei Vanyashin it was first released in 2011 by Cyreal. To contribute to the project, visit github.com/cyrealtype/Alike",
+  "homepage": "https://fonts.google.com/specimen/Alike",
+  "copyright": "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike) with Reserved Font Name \"Alike\" and \"Alike Angular\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alike",
+      "files": [
+        "https://fonts.gstatic.com/s/alike/v22/HI_EiYEYI6BIoEjBSZXAQ4-d.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alike/v22/HI_EiYEYI6BIoEjBSZXAQ4-d.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alike",
+      "files": [
+        "https://fonts.gstatic.com/s/alike/v22/HI_EiYEYI6BIoEjESZXAQ4-d.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alike/v22/HI_EiYEYI6BIoEjESZXAQ4-d.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alike",
+      "styles": [
+        {
+          "family_name": "Alike",
+          "type": "Regular",
+          "full_name": "Alike Regular",
+          "post_script_name": "Alike-Regular",
+          "version": "1.301; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2009 The Alike Project Authors (https://github.com/cyrealtype/Alike) with Reserved Font Name \"Alike\" and \"Alike Angular\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_EiYEYI6BIoEjBSZXAQ4-d.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

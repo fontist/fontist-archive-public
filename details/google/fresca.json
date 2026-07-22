@@ -1,0 +1,58 @@
+{
+  "slug": "google/fresca",
+  "name": "fresca",
+  "description": "A very friendly font for display use with a fresh atmosphere, Fresca gives the text an alternative to comic settings.",
+  "homepage": "https://fonts.google.com/specimen/Fresca",
+  "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Fresca\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fresca",
+      "files": [
+        "https://fonts.gstatic.com/s/fresca/v24/6ae94K--SKgCzbM2Gr0W13DKPA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fresca/v24/6ae94K--SKgCzbM2Gr0W13DKPA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fresca",
+      "files": [
+        "https://fonts.gstatic.com/s/fresca/v24/6ae94K--SKgCzbM2H70W13DKPA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fresca/v24/6ae94K--SKgCzbM2H70W13DKPA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fresca",
+      "styles": [
+        {
+          "family_name": "Fresca",
+          "type": "Regular",
+          "full_name": "Fresca-Regular",
+          "post_script_name": "Fresca-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Fresca\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6ae94K--SKgCzbM2Gr0W13DKPA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

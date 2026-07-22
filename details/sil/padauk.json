@@ -1,0 +1,74 @@
+{
+  "slug": "sil/padauk",
+  "name": "Padauk",
+  "description": "Padauk",
+  "homepage": "http://scripts.sil.org",
+  "copyright": "Copyright (c) 2002-2019 SIL International",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Padauk.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/padauk/Padauk-4.000.zip",
+        "https://web.archive.org/web/20260505160120/https://software.sil.org/downloads/r/padauk/Padauk-4.000.zip"
+      ],
+      "sha256": "dd5311eaf0204b75044a856dbb2176a5db2bfe8ad00276ac5ff89f72d9d211fc",
+      "file_size": 1316567
+    }
+  },
+  "fonts": [
+    {
+      "name": "Padauk",
+      "styles": [
+        {
+          "family_name": "Padauk",
+          "type": "Bold",
+          "full_name": "Padauk Bold",
+          "post_script_name": "Padauk-Bold",
+          "version": "4.000",
+          "copyright": "Copyright (c) 2002-2019 SIL International",
+          "description": "Burmese Unicode TrueType font with OpenType and Graphite support",
+          "font": "Padauk-Bold.ttf"
+        },
+        {
+          "family_name": "Padauk",
+          "type": "Regular",
+          "full_name": "Padauk",
+          "post_script_name": "Padauk-Regular",
+          "version": "4.000",
+          "copyright": "Copyright (c) 2002-2019 SIL International",
+          "description": "Burmese Unicode TrueType font with OpenType and Graphite support",
+          "font": "Padauk-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Padauk Book",
+      "styles": [
+        {
+          "family_name": "Padauk Book",
+          "type": "Bold",
+          "full_name": "Padauk Book Bold",
+          "post_script_name": "PadaukBook-Bold",
+          "version": "4.000",
+          "copyright": "Copyright (c) 2002-2019 SIL International",
+          "description": "Burmese Unicode TrueType font with OpenType and Graphite support",
+          "font": "PadaukBook-Bold.ttf"
+        },
+        {
+          "family_name": "Padauk Book",
+          "type": "Regular",
+          "full_name": "Padauk Book",
+          "post_script_name": "PadaukBook-Regular",
+          "version": "4.000",
+          "copyright": "Copyright (c) 2002-2019 SIL International",
+          "description": "Burmese Unicode TrueType font with OpenType and Graphite support",
+          "font": "PadaukBook-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/junge",
+  "name": "junge",
+  "description": "Junge is an elegant and slim text typeface inspired by the calligraphy of Günther Junge. Thanks to a combination of features it performs equally well in most ranges. At small sizes it builds the impression of flittering strokes. In large headlines its refined detailing become visible. It is not as strictly structured as a text typeface, and has subtle irregularities reminiscent of its calligraphic origin. Junge is designed by Alexei Vanyashin ( @avanyashin )",
+  "homepage": "https://fonts.google.com/specimen/Junge",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Junge\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Junge",
+      "files": [
+        "https://fonts.gstatic.com/s/junge/v26/gokgH670Gl1lUqAdvhB7SnKm.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/junge/v26/gokgH670Gl1lUqAdvhB7SnKm.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Junge",
+      "files": [
+        "https://fonts.gstatic.com/s/junge/v26/gokgH670Gl1lUqAYvhB7SnKm.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/junge/v26/gokgH670Gl1lUqAYvhB7SnKm.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Junge",
+      "styles": [
+        {
+          "family_name": "Junge",
+          "type": "Regular",
+          "full_name": "Junge",
+          "post_script_name": "Junge-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Junge\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Junge\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gokgH670Gl1lUqAdvhB7SnKm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

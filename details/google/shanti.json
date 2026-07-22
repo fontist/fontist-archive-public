@@ -1,0 +1,58 @@
+{
+  "slug": "google/shanti",
+  "name": "shanti",
+  "description": "Shanti One is a straightforward sans serif designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. The September 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/googlefonts/ShantiFont .",
+  "homepage": "https://fonts.google.com/specimen/Shanti",
+  "copyright": "Copyright 2011 The Shanti Project Authors (https://github.com/googlefonts/ShantiFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Shanti",
+      "files": [
+        "https://fonts.gstatic.com/s/shanti/v25/t5thIREMM4uSDgzgU0ezpKfwzA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shanti/v25/t5thIREMM4uSDgzgU0ezpKfwzA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Shanti",
+      "files": [
+        "https://fonts.gstatic.com/s/shanti/v25/t5thIREMM4uSDgzgVkezpKfwzA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/shanti/v25/t5thIREMM4uSDgzgVkezpKfwzA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shanti",
+      "styles": [
+        {
+          "family_name": "Shanti",
+          "type": "Regular",
+          "full_name": "Shanti Regular",
+          "post_script_name": "Shanti-Regular",
+          "version": "1.100; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2011 The Shanti Project Authors (https://github.com/googlefonts/ShantiFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "t5thIREMM4uSDgzgU0ezpKfwzA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

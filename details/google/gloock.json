@@ -1,0 +1,58 @@
+{
+  "slug": "google/gloock",
+  "name": "gloock",
+  "description": "Gloock is a contemporary high-contrast serif typeface intended for display use. It draws inspiration from newspaper's headlines but with a contemporary approach. Its main focus is the smooth relationship between the thin and thick strokes. It's a perfect typeface for headlines and has a great performance anywhere in big sizes. To contribute, see github.com/duartp/gloock .",
+  "homepage": "https://fonts.google.com/specimen/Gloock",
+  "copyright": "Copyright 2022 The Gloock Project Authors (https://github.com/duartp/gloock)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gloock",
+      "files": [
+        "https://fonts.gstatic.com/s/gloock/v8/Iurb6YFw84WUY4N5jxylBrdRjQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gloock/v8/Iurb6YFw84WUY4N5jxylBrdRjQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gloock",
+      "files": [
+        "https://fonts.gstatic.com/s/gloock/v8/Iurb6YFw84WUY4N5ihylBrdRjQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gloock/v8/Iurb6YFw84WUY4N5ihylBrdRjQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gloock",
+      "styles": [
+        {
+          "family_name": "Gloock",
+          "type": "Regular",
+          "full_name": "Gloock Regular",
+          "post_script_name": "Gloock-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Gloock Project Authors (https://github.com/duartp/gloock)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Iurb6YFw84WUY4N5jxylBrdRjQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

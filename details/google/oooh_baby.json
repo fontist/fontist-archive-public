@@ -1,0 +1,58 @@
+{
+  "slug": "google/oooh_baby",
+  "name": "oooh_baby",
+  "description": "Oooh Baby. This cute little font is perfect for scrapping and fun play! It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/oooh-baby .",
+  "homepage": "https://fonts.google.com/specimen/Oooh+Baby",
+  "copyright": "Copyright 2004-2021 The Oooh Baby Project Authors (https://github.com/googlefonts/oooh-baby)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Oooh Baby",
+      "files": [
+        "https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQDb2-4C7wFZQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQDb2-4C7wFZQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Oooh Baby",
+      "files": [
+        "https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQDam-4C7wFZQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ooohbaby/v4/2sDcZGJWgJTT2Jf76xQDam-4C7wFZQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Oooh Baby",
+      "styles": [
+        {
+          "family_name": "Oooh Baby",
+          "type": "Regular",
+          "full_name": "Oooh Baby Regular",
+          "post_script_name": "OoohBaby-Regular",
+          "version": "1.011; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004-2021 The Oooh Baby Project Authors (https://github.com/googlefonts/oooh-baby)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2sDcZGJWgJTT2Jf76xQDb2-4C7wFZQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

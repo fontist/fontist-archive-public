@@ -1,0 +1,58 @@
+{
+  "slug": "google/kosugi",
+  "name": "kosugi",
+  "description": "Kosugi is a Gothic design, with low stroke contrast and monospaced metrics. Initially developed by MOTOYA and released for the Android platform under the Apache license, the typeface is based on a design from the 1950s. It aims for beauty and readability, and evokes the Japanese cedar trees that have straight and thick trunks and branches. Originally available as \"MotoyaLCedar W3 mono\", it is now available under the name Kosugi. A Rounded version is available as Kosugi Maru .",
+  "homepage": "https://fonts.google.com/specimen/Kosugi",
+  "copyright": "Copyright 2010 The Kosugi Project Authors (https://github.com/googlefonts/kosugi)",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kosugi",
+      "files": [
+        "https://fonts.gstatic.com/s/kosugi/v19/pxiFyp4_v8FCjlI4NLr6f1pdEQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kosugi/v19/pxiFyp4_v8FCjlI4NLr6f1pdEQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kosugi",
+      "files": [
+        "https://fonts.gstatic.com/s/kosugi/v19/pxiFyp4_v8FCjlI4Mbr6f1pdEQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kosugi/v19/pxiFyp4_v8FCjlI4Mbr6f1pdEQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kosugi",
+      "styles": [
+        {
+          "family_name": "Kosugi",
+          "type": "Regular",
+          "full_name": "Kosugi Regular",
+          "post_script_name": "Kosugi-Regular",
+          "version": "4.002",
+          "copyright": "Copyright 2010 The Kosugi Project Authors (https://github.com/googlefonts/kosugi)",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "pxiFyp4_v8FCjlI4NLr6f1pdEQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

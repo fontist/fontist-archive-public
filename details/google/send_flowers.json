@@ -1,0 +1,58 @@
+{
+  "slug": "google/send_flowers",
+  "name": "send_flowers",
+  "description": "Send Flowers is a mono-weight script font with clean connecting strokes and a highly legible style. It has a cute look, but since it is a cursive it has a bit more sophistication that is appropriate for an older audience. It's old school juvenile, with a delicate appeal. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/send-flowers .",
+  "homepage": "https://fonts.google.com/specimen/Send+Flowers",
+  "copyright": "Copyright 1998-2021 The Send Flowers Project Authors (https://github.com/googlefonts/send-flowers)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Send Flowers",
+      "files": [
+        "https://fonts.gstatic.com/s/sendflowers/v7/If2PXTjtZS-0Xqy13uCQSULvxwjjouU1iw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sendflowers/v7/If2PXTjtZS-0Xqy13uCQSULvxwjjouU1iw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Send Flowers",
+      "files": [
+        "https://fonts.gstatic.com/s/sendflowers/v7/If2PXTjtZS-0Xqy13uCQSULvwgjjouU1iw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sendflowers/v7/If2PXTjtZS-0Xqy13uCQSULvwgjjouU1iw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Send Flowers",
+      "styles": [
+        {
+          "family_name": "Send Flowers",
+          "type": "Regular",
+          "full_name": "Send Flowers Regular",
+          "post_script_name": "SendFlowers-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 1998-2021 The Send Flowers Project Authors (https://github.com/googlefonts/send-flowers)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "If2PXTjtZS-0Xqy13uCQSULvxwjjouU1iw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

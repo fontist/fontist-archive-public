@@ -1,0 +1,58 @@
+{
+  "slug": "google/bangers",
+  "name": "bangers",
+  "description": "Bangers is a comicbook style font which packs a punch! It was designed in the style of mid-20th century superhero comics cover lettering in mind. To contribute, see github.com/googlefonts/bangers .",
+  "homepage": "https://fonts.google.com/specimen/Bangers",
+  "copyright": "Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bangers",
+      "files": [
+        "https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACL5la2bxii28.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACL5la2bxii28.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bangers",
+      "files": [
+        "https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACL5xa2bxii28.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACL5xa2bxii28.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bangers",
+      "styles": [
+        {
+          "family_name": "Bangers",
+          "type": "Regular",
+          "full_name": "Bangers Regular",
+          "post_script_name": "Bangers-Regular",
+          "version": "2.100; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.31]",
+          "copyright": "Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FeVQS0BTqb0h60ACL5la2bxii28.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

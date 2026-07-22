@@ -1,0 +1,58 @@
+{
+  "slug": "google/sedgwick_ave",
+  "name": "sedgwick_ave",
+  "description": "The Sedgwick Ave project expresses handwritten graffiti letterforms with two designs: This is Sedgwick Ave, ideal for text size usage, and accompanied by Sedgwick Ave Display , intended for larger size usage.",
+  "homepage": "https://fonts.google.com/specimen/Sedgwick+Ave",
+  "copyright": "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sedgwick Ave",
+      "files": [
+        "https://fonts.gstatic.com/s/sedgwickave/v13/uK_04rKEYuguzAcSYRdWTJq8Xmg1Vcf5JA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedgwickave/v13/uK_04rKEYuguzAcSYRdWTJq8Xmg1Vcf5JA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sedgwick Ave",
+      "files": [
+        "https://fonts.gstatic.com/s/sedgwickave/v13/uK_04rKEYuguzAcSYRdWTJq8W2g1Vcf5JA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedgwickave/v13/uK_04rKEYuguzAcSYRdWTJq8W2g1Vcf5JA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sedgwick Ave",
+      "styles": [
+        {
+          "family_name": "Sedgwick Ave",
+          "type": "Regular",
+          "full_name": "Sedgwick Ave Regular",
+          "post_script_name": "SedgwickAve-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uK_04rKEYuguzAcSYRdWTJq8Xmg1Vcf5JA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

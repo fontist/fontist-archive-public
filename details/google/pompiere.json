@@ -1,0 +1,58 @@
+{
+  "slug": "google/pompiere",
+  "name": "pompiere",
+  "description": "Foundry: Sorkin Type Co Pompiere is a low contrast condensed sans serif font. However unlike most sans it has very tall ascenders and and very small x height. Pompiere is playful and even a little sweet. This font was inspired by a handmade sign seen outside of NYC firefighters Squad Co. 18 in the West Village of Manhattan. Because of its small x height and modest weight it will work best at medium to large sizes. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Pompiere",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Pompiere\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pompiere",
+      "files": [
+        "https://fonts.gstatic.com/s/pompiere/v21/VEMyRoxis5Dwuyeov6Wt5jDtreOL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pompiere/v21/VEMyRoxis5Dwuyeov6Wt5jDtreOL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pompiere",
+      "files": [
+        "https://fonts.gstatic.com/s/pompiere/v21/VEMyRoxis5Dwuyeov6Wo5jDtreOL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pompiere/v21/VEMyRoxis5Dwuyeov6Wo5jDtreOL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pompiere ",
+      "styles": [
+        {
+          "family_name": "Pompiere ",
+          "type": "Regular",
+          "full_name": "Pompiere ",
+          "post_script_name": "Pompiere-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Pompiere\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "VEMyRoxis5Dwuyeov6Wt5jDtreOL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

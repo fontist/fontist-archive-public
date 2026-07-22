@@ -1,0 +1,58 @@
+{
+  "slug": "google/milonga",
+  "name": "milonga",
+  "description": "Milonga is a Font inspired on “tangueros” art. This is a tribute to the “rioplatense” culture, so colored, full of love and hate, family, friends and enemies stories told in countless Tangos and Milongas (folk music genre from Argentina). This graceful, flowing and rhythmic font is formed by graphic elements found in a kind of classic painting from this area called “fileteado porteño”; with terminations involving petals, round and pointy details. Milonga is useful for headlines, where the characteristics of the font are highlighted.",
+  "homepage": "https://fonts.google.com/specimen/Milonga",
+  "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Brenda Gallo (gbrenda1987@gmail.com),\rCopyright (c) 2011, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Milonga.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Milonga",
+      "files": [
+        "https://fonts.gstatic.com/s/milonga/v24/SZc53FHnIaK9W5kffz3GkUrS8DI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/milonga/v24/SZc53FHnIaK9W5kffz3GkUrS8DI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Milonga",
+      "files": [
+        "https://fonts.gstatic.com/s/milonga/v24/SZc53FHnIaK9W5kffzjGkUrS8DI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/milonga/v24/SZc53FHnIaK9W5kffzjGkUrS8DI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Milonga",
+      "styles": [
+        {
+          "family_name": "Milonga",
+          "type": "Regular",
+          "full_name": "Milonga",
+          "post_script_name": "Milonga-Regular",
+          "version": "1.000; ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+          "copyright": "Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com),\rCopyright (c) 2011, Brenda Gallo (gbrenda1987@gmail.com),\rCopyright (c) 2011, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name Milonga.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc53FHnIaK9W5kffz3GkUrS8DI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

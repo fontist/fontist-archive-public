@@ -1,0 +1,58 @@
+{
+  "slug": "google/ewert",
+  "name": "ewert",
+  "description": "Ewert is slab serif wood type inspired by and loosely based on the collection of cultural infographic maps by Estonian graphic artist Olev Soans. Ewert has been higly simplified for screen usage yet still includes the characteristic \"ornamental leg\" of the letterform. Ewert was designed by Johan Kallas and Mihkel Virkus.",
+  "homepage": "https://fonts.google.com/specimen/Ewert",
+  "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ewert",
+      "files": [
+        "https://fonts.gstatic.com/s/ewert/v27/va9I4kzO2tFODYBvS-J3kbDP.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ewert/v27/va9I4kzO2tFODYBvS-J3kbDP.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ewert",
+      "files": [
+        "https://fonts.gstatic.com/s/ewert/v27/va9I4kzO2tFODYBqS-J3kbDP.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ewert/v27/va9I4kzO2tFODYBqS-J3kbDP.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ewert",
+      "styles": [
+        {
+          "family_name": "Ewert",
+          "type": "Regular",
+          "full_name": "Ewert",
+          "post_script_name": "Ewert-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011 Mihkel Virkus (mihkelvirkus@gmail.com) with Reserved Font Name Ewert.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "va9I4kzO2tFODYBvS-J3kbDP.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

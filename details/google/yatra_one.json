@@ -1,0 +1,57 @@
+{
+  "slug": "google/yatra_one",
+  "name": "yatra_one",
+  "description": "Yatra One is a Devanagari and Latin libre font inspired by the hand-painted signage of the Mumbai local railway. This heavy weight high-contrast display face preserves the idiosyncratic character of brush-painted signage by featuring angular cuts and open knots. Notably, the Latin adopts a Devanagari brush angle. A Mumbai native, Yatra offers basic Marathi alternates. The Yatra One project is led by Catherine Leigh Schmidt, a type designer based in the USA. To contribute, see github.com/cathschmidt/yatra-one",
+  "homepage": "https://fonts.google.com/specimen/Yatra+One",
+  "copyright": "Copyright 2014 The Yatra Project Authors.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yatra One",
+      "files": [
+        "https://fonts.gstatic.com/s/yatraone/v16/C8ch4copsHzj8p7NaF0xw1OBbRDvXw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yatraone/v16/C8ch4copsHzj8p7NaF0xw1OBbRDvXw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yatra One",
+      "files": [
+        "https://fonts.gstatic.com/s/yatraone/v16/C8ch4copsHzj8p7NaF0xxlOBbRDvXw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yatraone/v16/C8ch4copsHzj8p7NaF0xxlOBbRDvXw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yatra One",
+      "styles": [
+        {
+          "family_name": "Yatra One",
+          "type": "Regular",
+          "full_name": "Yatra One Regular",
+          "post_script_name": "YatraOne-Regular",
+          "version": "1.002g;PS 1.0;hotconv 1.0.86;makeotf.lib2.5.63406; ttfautohint (v1.4.1)",
+          "copyright": "Copyright 2014 The Yatra Project Authors.",
+          "variable_font": false,
+          "font": "C8ch4copsHzj8p7NaF0xw1OBbRDvXw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

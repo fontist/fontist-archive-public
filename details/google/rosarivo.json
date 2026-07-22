@@ -1,0 +1,77 @@
+{
+  "slug": "google/rosarivo",
+  "name": "rosarivo",
+  "description": "Rosarivo is a typeface designed for use in letterpress printing. It is an elegant and luxurious typeface with high quality details. It works especially well in delicate editorial design. Its letterpress origins mean it has a lighter color than a typical Roman text type. Its features include carefully designed serifs, gradual stroke and marked contrast, calligraphic and humanistic forms, and large ascenders and descenders. It is designed to work well in long texts with generous line spacing. It originates from work presented to the post-graduate course in Typeface Design at the University of Buenos Aires in 2011. Rosarivo is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. To contribute to the project contact Pablo Ugerman .",
+  "homepage": "https://fonts.google.com/specimen/Rosarivo",
+  "copyright": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar),  with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rosarivo",
+      "files": [
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI-Fl2lO6N9f8HaNAeC2nhMnNy5.ttf",
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI4Fl2lO6N9f8HaNDeA0Hxumcy5ZX8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI-Fl2lO6N9f8HaNAeC2nhMnNy5.ttf",
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI4Fl2lO6N9f8HaNDeA0Hxumcy5ZX8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rosarivo",
+      "files": [
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI-Fl2lO6N9f8HaNAeH2nhMnNy5.woff2",
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI4Fl2lO6N9f8HaNDeA0Hlumcy5ZX8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI-Fl2lO6N9f8HaNAeH2nhMnNy5.woff2",
+        "https://fonts.gstatic.com/s/rosarivo/v24/PlI4Fl2lO6N9f8HaNDeA0Hlumcy5ZX8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rosarivo",
+      "styles": [
+        {
+          "family_name": "Rosarivo",
+          "type": "Regular",
+          "full_name": "Rosarivo",
+          "post_script_name": "Rosarivo-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar),  with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PlI-Fl2lO6N9f8HaNAeC2nhMnNy5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rosarivo",
+          "type": "Italic",
+          "full_name": "Rosarivo Italic",
+          "post_script_name": "Rosarivo-Italic",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, UGR Design (www.ugrdesign.com.ar),  with Reserved Font Names \"Rosarivo\", \"Rosarivo Pro\", \"Rosarivo UGR\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PlI4Fl2lO6N9f8HaNDeA0Hxumcy5ZX8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

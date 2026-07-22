@@ -1,0 +1,58 @@
+{
+  "slug": "google/warnes",
+  "name": "warnes",
+  "description": "The retro look of this typeface reminds us of the metal badges used in the past to show car model names. The family name “Warnes” is the name of a street in the city of Buenos Aires where all the shops are garages selling spare parts. The February 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/warnes .",
+  "homepage": "https://fonts.google.com/specimen/Warnes",
+  "copyright": "Copyright 2012 The Warnes Project Authors (https://github.com/etunni/warnes), with Reserved Font Name 'Warnes'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Warnes",
+      "files": [
+        "https://fonts.gstatic.com/s/warnes/v29/pONn1hc0GsW6sW5OpiC2o6Lkqg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/warnes/v29/pONn1hc0GsW6sW5OpiC2o6Lkqg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Warnes",
+      "files": [
+        "https://fonts.gstatic.com/s/warnes/v29/pONn1hc0GsW6sW5OoyC2o6Lkqg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/warnes/v29/pONn1hc0GsW6sW5OoyC2o6Lkqg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Warnes",
+      "styles": [
+        {
+          "family_name": "Warnes",
+          "type": "Regular",
+          "full_name": "Warnes Regular",
+          "post_script_name": "Warnes-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2012 The Warnes Project Authors (https://github.com/etunni/warnes), with Reserved Font Name 'Warnes'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pONn1hc0GsW6sW5OpiC2o6Lkqg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

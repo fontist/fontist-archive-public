@@ -1,0 +1,58 @@
+{
+  "slug": "google/courgette",
+  "name": "courgette",
+  "description": "Foundry: Sorkin Type Co Courgette is a medium low contrast brushy italic script type. A brushy italic style is traditionally for display and unsurprisingly Courgette works well in display. However Courgette's low contrast and carefully made forms mean that it also works well in smaller sizes and even in massed text. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Courgette",
+  "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Courgette",
+      "files": [
+        "https://fonts.gstatic.com/s/courgette/v19/wEO_EBrAnc9BLjLQAUkFUfAL3EsHiA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/courgette/v19/wEO_EBrAnc9BLjLQAUkFUfAL3EsHiA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Courgette",
+      "files": [
+        "https://fonts.gstatic.com/s/courgette/v19/wEO_EBrAnc9BLjLQAUkFVPAL3EsHiA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/courgette/v19/wEO_EBrAnc9BLjLQAUkFVPAL3EsHiA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Courgette",
+      "styles": [
+        {
+          "family_name": "Courgette",
+          "type": "Regular",
+          "full_name": "Courgette Regular",
+          "post_script_name": "Courgette-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Courgette\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wEO_EBrAnc9BLjLQAUkFUfAL3EsHiA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "google/solway",
+  "name": "solway",
+  "description": "Solway is a playful slab-serif with a charming and understated tone of voice, inspired by the warmth of community and the idyll of rural-living. It is a contemporary family defined by the soft corners, ball terminals, rounded slabs that give it a welcoming and friendly appeal. Its monoline structure and minimal stroke contrast aspire to cohesion and stability. Available in five weights, it is suitable for a variety of projects. It could find perfect expression within lifestyle brands or nature, travel and foodie blogs. To contribute, see github.com/mashavp/Solway .",
+  "homepage": "https://fonts.google.com/specimen/Solway",
+  "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Solway",
+      "files": [
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuLlgZms0QW3mqyg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOQz46Cs2uTAOCWgnA9kuYMUg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCudlkZms0QW3mqyg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuPl8Zms0QW3mqyg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuIlwZms0QW3mqyg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuLlgZms0QW3mqyg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOQz46Cs2uTAOCWgnA9kuYMUg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCudlkZms0QW3mqyg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuPl8Zms0QW3mqyg.ttf",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuIlwZms0QW3mqyg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Solway",
+      "files": [
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuLlgZn80QW3mqyg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOQz46Cs2uTAOCWh3A9kuYMUg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCudlkZn80QW3mqyg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuPl8Zn80QW3mqyg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuIlwZn80QW3mqyg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuLlgZn80QW3mqyg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOQz46Cs2uTAOCWh3A9kuYMUg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCudlkZn80QW3mqyg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuPl8Zn80QW3mqyg.woff2",
+        "https://fonts.gstatic.com/s/solway/v19/AMOTz46Cs2uTAOCuIlwZn80QW3mqyg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Solway Light",
+      "styles": [
+        {
+          "family_name": "Solway Light",
+          "type": "Regular",
+          "full_name": "Solway Light",
+          "post_script_name": "Solway-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOTz46Cs2uTAOCuLlgZms0QW3mqyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solway",
+      "styles": [
+        {
+          "family_name": "Solway",
+          "type": "Regular",
+          "full_name": "Solway Regular",
+          "post_script_name": "Solway-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOQz46Cs2uTAOCWgnA9kuYMUg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Solway",
+          "type": "Bold",
+          "full_name": "Solway Bold",
+          "post_script_name": "Solway-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOTz46Cs2uTAOCuPl8Zms0QW3mqyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solway Medium",
+      "styles": [
+        {
+          "family_name": "Solway Medium",
+          "type": "Regular",
+          "full_name": "Solway Medium",
+          "post_script_name": "Solway-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOTz46Cs2uTAOCudlkZms0QW3mqyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solway ExtraBold",
+      "styles": [
+        {
+          "family_name": "Solway ExtraBold",
+          "type": "Regular",
+          "full_name": "Solway ExtraBold",
+          "post_script_name": "Solway-ExtraBold",
+          "version": "1.000",
+          "copyright": "Copyright 2018 The Solway Project Authors (https://github.com/mashavp/Solway)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOTz46Cs2uTAOCuIlwZms0QW3mqyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/joan",
+  "name": "joan",
+  "description": "Inspired by the roman cut by Francesco Griffo, it is a tribute to the Italian style, a model to follow even in the 15th century. Joan is characterized by neat serifs as well as sharp terminals and is intended for books and magazines. At the moment, only the roman is available. The italic variant is under development. To contribute, see github.com/PaoloBiagini/Joan .",
+  "homepage": "https://fonts.google.com/specimen/Joan",
+  "copyright": "Copyright 2021 The Joan Project Authors (https://github.com/PaoloBiagini/Joan)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Joan",
+      "files": [
+        "https://fonts.gstatic.com/s/joan/v12/ZXupe1oZsqWRbRdH8X1p_Ng.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/joan/v12/ZXupe1oZsqWRbRdH8X1p_Ng.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Joan",
+      "files": [
+        "https://fonts.gstatic.com/s/joan/v12/ZXupe1oZsqWRbRJH8X1p_Ng.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/joan/v12/ZXupe1oZsqWRbRJH8X1p_Ng.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Joan",
+      "styles": [
+        {
+          "family_name": "Joan",
+          "type": "Regular",
+          "full_name": "Joan Regular",
+          "post_script_name": "Joan-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.30]",
+          "copyright": "Copyright 2021 The Joan Project Authors (https://github.com/PaoloBiagini/Joan)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZXupe1oZsqWRbRdH8X1p_Ng.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

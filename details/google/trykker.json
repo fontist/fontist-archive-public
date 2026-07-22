@@ -1,0 +1,58 @@
+{
+  "slug": "google/trykker",
+  "name": "trykker",
+  "description": "Foundry: Sorkin Type Co Trykker is a high contrast serifed text face. Trykker has a pleasant old fashioned elegance derived from on 16th century text faces. Trykker can be used from small sizes to larger display settings. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Trykker",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Trykker\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Trykker",
+      "files": [
+        "https://fonts.gstatic.com/s/trykker/v22/KtktALyWZJXudUPzhNnoOd2j22U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trykker/v22/KtktALyWZJXudUPzhNnoOd2j22U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Trykker",
+      "files": [
+        "https://fonts.gstatic.com/s/trykker/v22/KtktALyWZJXudUPzhNzoOd2j22U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trykker/v22/KtktALyWZJXudUPzhNzoOd2j22U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Trykker",
+      "styles": [
+        {
+          "family_name": "Trykker",
+          "type": "Regular",
+          "full_name": "Trykker Regular",
+          "post_script_name": "Trykker-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Trykker\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "KtktALyWZJXudUPzhNnoOd2j22U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

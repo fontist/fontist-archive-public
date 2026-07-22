@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_music",
+  "name": "noto_music",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Music is a font that contains symbols for the modern, Byzantine and Greek musical notations . It has 579 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Music",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/music)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Music",
+      "files": [
+        "https://fonts.gstatic.com/s/notomusic/v21/pe0rMIiSN5pO63htf1sxIteQB9Zra1U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notomusic/v21/pe0rMIiSN5pO63htf1sxIteQB9Zra1U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Music",
+      "files": [
+        "https://fonts.gstatic.com/s/notomusic/v21/pe0rMIiSN5pO63htf1sxItKQB9Zra1U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notomusic/v21/pe0rMIiSN5pO63htf1sxItKQB9Zra1U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Music",
+      "styles": [
+        {
+          "family_name": "Noto Music",
+          "type": "Regular",
+          "full_name": "Noto Music Regular",
+          "post_script_name": "NotoMusic-Regular",
+          "version": "2.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/music)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pe0rMIiSN5pO63htf1sxIteQB9Zra1U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

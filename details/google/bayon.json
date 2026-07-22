@@ -1,0 +1,58 @@
+{
+  "slug": "google/bayon",
+  "name": "bayon",
+  "description": "Bayon is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/Bayon .",
+  "homepage": "https://fonts.google.com/specimen/Bayon",
+  "copyright": "Copyright 2019 The Bayon Project Authors (https://github.com/danhhong/Bayon)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bayon",
+      "files": [
+        "https://fonts.gstatic.com/s/bayon/v36/9XUrlJNmn0LPFl-pOhYEd2NJ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bayon/v36/9XUrlJNmn0LPFl-pOhYEd2NJ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bayon",
+      "files": [
+        "https://fonts.gstatic.com/s/bayon/v36/9XUrlJNmn0LPFl-sOhYEd2NJ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bayon/v36/9XUrlJNmn0LPFl-sOhYEd2NJ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bayon",
+      "styles": [
+        {
+          "family_name": "Bayon",
+          "type": "Regular",
+          "full_name": "Bayon Regular",
+          "post_script_name": "Bayon-Regular",
+          "version": "8.001; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Bayon Project Authors (https://github.com/danhhong/Bayon)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "9XUrlJNmn0LPFl-pOhYEd2NJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

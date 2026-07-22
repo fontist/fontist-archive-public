@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_serif_balinese",
+  "name": "noto_serif_balinese",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Balinese is a modulated (“serif”) design for texts in the Southeast Asian Balinese script. It has 217 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Balinese",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/balinese)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Serif Balinese",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifbalinese/v21/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXRbgJdhapcUU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifbalinese/v21/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXRbgJdhapcUU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Serif Balinese",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifbalinese/v21/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXRb0JdhapcUU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifbalinese/v21/QdVKSS0-JginysQSRvuCmUMB_wVeQAxXRb0JdhapcUU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Balinese",
+      "styles": [
+        {
+          "family_name": "Noto Serif Balinese",
+          "type": "Regular",
+          "full_name": "Noto Serif Balinese Regular",
+          "post_script_name": "NotoSerifBalinese-Regular",
+          "version": "2.007; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/balinese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "QdVKSS0-JginysQSRvuCmUMB_wVeQAxXRbgJdhapcUU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

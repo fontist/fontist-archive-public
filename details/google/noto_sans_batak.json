@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_batak",
+  "name": "noto_sans_batak",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Batak is an unmodulated (“sans serif”) design for texts in the Southeast Asian Batak script. It has 66 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Batak",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/batak)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Batak",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansbatak/v23/gok2H6TwAEdtF9N8-mdTCQvT-Zdgo4_PHuk74A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansbatak/v23/gok2H6TwAEdtF9N8-mdTCQvT-Zdgo4_PHuk74A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Batak",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansbatak/v23/gok2H6TwAEdtF9N8-mdTCQvT-Zdgpo_PHuk74A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansbatak/v23/gok2H6TwAEdtF9N8-mdTCQvT-Zdgpo_PHuk74A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Batak",
+      "styles": [
+        {
+          "family_name": "Noto Sans Batak",
+          "type": "Regular",
+          "full_name": "Noto Sans Batak Regular",
+          "post_script_name": "NotoSansBatak-Regular",
+          "version": "2.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/batak)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "gok2H6TwAEdtF9N8-mdTCQvT-Zdgo4_PHuk74A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

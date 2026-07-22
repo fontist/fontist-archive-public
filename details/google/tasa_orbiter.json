@@ -1,0 +1,155 @@
+{
+  "slug": "google/tasa_orbiter",
+  "name": "tasa_orbiter",
+  "description": "TASA Orbiter font family",
+  "homepage": "https://fonts.google.com/specimen/TASA+Orbiter",
+  "copyright": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "TASA Orbiter",
+      "files": [
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4C8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVEwC8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVKAF8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVJkF8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVP4F8pm095IuGcc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4C8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVEwC8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVKAF8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVJkF8pm095IuGcc.woff2",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVP4F8pm095IuGcc.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "TASA Orbiter",
+      "files": [
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4C8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVEwC8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVKAF8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVJkF8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVP4F8py095IuGcc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4C8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVEwC8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVKAF8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVJkF8py095IuGcc.ttf",
+        "https://fonts.gstatic.com/s/tasaorbiter/v2/3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVP4F8py095IuGcc.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "TASA Orbiter",
+      "styles": [
+        {
+          "family_name": "TASA Orbiter",
+          "type": "Regular",
+          "full_name": "TASA Orbiter Regular",
+          "post_script_name": "TASAOrbiter-Regular",
+          "version": "2.011",
+          "copyright": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVH4C8py095IuGcc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "TASA Orbiter",
+          "type": "Bold",
+          "full_name": "TASA Orbiter Bold",
+          "post_script_name": "TASAOrbiter-Bold",
+          "version": "2.011",
+          "copyright": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVJkF8py095IuGcc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TASA Orbiter Medium",
+      "styles": [
+        {
+          "family_name": "TASA Orbiter Medium",
+          "type": "Regular",
+          "full_name": "TASA Orbiter Medium",
+          "post_script_name": "TASAOrbiter-Medium",
+          "version": "2.011",
+          "copyright": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVEwC8py095IuGcc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TASA Orbiter SemiBold",
+      "styles": [
+        {
+          "family_name": "TASA Orbiter SemiBold",
+          "type": "Regular",
+          "full_name": "TASA Orbiter SemiBold",
+          "post_script_name": "TASAOrbiter-SemiBold",
+          "version": "2.011",
+          "copyright": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVKAF8py095IuGcc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TASA Orbiter ExtraBold",
+      "styles": [
+        {
+          "family_name": "TASA Orbiter ExtraBold",
+          "type": "Regular",
+          "full_name": "TASA Orbiter ExtraBold",
+          "post_script_name": "TASAOrbiter-ExtraBold",
+          "version": "2.011",
+          "copyright": "Copyright 2022-2025 The TASA Typeface Collection Project Authors (https://github.com/localremotetw/TASA-Typeface-Collection)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "3XF4Erw3860rsdSUVZx78hPcTvQoDGHxaFGfVP4F8py095IuGcc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

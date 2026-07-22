@@ -1,0 +1,58 @@
+{
+  "slug": "google/mynerve",
+  "name": "mynerve",
+  "description": "Mynerve is a handwriting typeface designed to annotate and comment on documents with a fresh style. In addition, two sets of alternates allow variations when letters are repeated to emulate realistic script, together with some ligatures for frequent combinations. It can be used for informal texts, notes, or any project that would benefit from a casual script looking font. With a Latin Plus language coverage currently supports 219 Latin based languages. To contribute, see github.com/carolinashort/MyNerve .",
+  "homepage": "https://fonts.google.com/specimen/Mynerve",
+  "copyright": "Copyright 2022 The Mynerve Project Authors (https://github.com/carolinashort/MyNerve)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mynerve",
+      "files": [
+        "https://fonts.gstatic.com/s/mynerve/v8/P5sCzZKPdNjb4jt7xCRuiZ-uydg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mynerve/v8/P5sCzZKPdNjb4jt7xCRuiZ-uydg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mynerve",
+      "files": [
+        "https://fonts.gstatic.com/s/mynerve/v8/P5sCzZKPdNjb4jt7xCFuiZ-uydg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mynerve/v8/P5sCzZKPdNjb4jt7xCFuiZ-uydg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mynerve",
+      "styles": [
+        {
+          "family_name": "Mynerve",
+          "type": "Regular",
+          "full_name": "Mynerve Regular",
+          "post_script_name": "Mynerve-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Mynerve Project Authors (https://github.com/carolinashort/MyNerve)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "P5sCzZKPdNjb4jt7xCRuiZ-uydg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

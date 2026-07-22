@@ -1,0 +1,58 @@
+{
+  "slug": "google/puppies_play",
+  "name": "puppies_play",
+  "description": "Puppies Play is a fun, bouncy script with connectors that give a playful flow. Perfect for baby shower invitations, nursery rhymes, and other items that require a fun, children's look. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/puppies-play .",
+  "homepage": "https://fonts.google.com/specimen/Puppies+Play",
+  "copyright": "Copyright 2009-2021 The Puppies Play Project Authors (https://github.com/googlefonts/puppies-play)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Puppies Play",
+      "files": [
+        "https://fonts.gstatic.com/s/puppiesplay/v11/wlp2gwHZEV99rG6M3NR9uB9vaAJSA_JN3Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/puppiesplay/v11/wlp2gwHZEV99rG6M3NR9uB9vaAJSA_JN3Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Puppies Play",
+      "files": [
+        "https://fonts.gstatic.com/s/puppiesplay/v11/wlp2gwHZEV99rG6M3NR9uB9vbQJSA_JN3Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/puppiesplay/v11/wlp2gwHZEV99rG6M3NR9uB9vbQJSA_JN3Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Puppies Play",
+      "styles": [
+        {
+          "family_name": "Puppies Play",
+          "type": "Regular",
+          "full_name": "Puppies Play Regular",
+          "post_script_name": "PuppiesPlay-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2009-2021 The Puppies Play Project Authors (https://github.com/googlefonts/puppies-play)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlp2gwHZEV99rG6M3NR9uB9vaAJSA_JN3Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

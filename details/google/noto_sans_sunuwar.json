@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_sunuwar",
+  "name": "noto_sans_sunuwar",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Sunuwar is an unmodulated (“sans serif”) design for texts in the South Asian Sunuwar script. It has 85 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Sunuwar",
+  "copyright": "Copyright 2021 The Noto Sunuwar Project Authors (https://github.com/ScriptEncodingInitiative/sunuwar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Sunuwar",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfho_Du2akOrkv.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfho_Du2akOrkv.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Sunuwar",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfho_Gu2akOrkv.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssunuwar/v1/FwZB7_04xUkosG2xJo2gm7nF0DTfho_Gu2akOrkv.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Sunuwar",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sunuwar",
+          "type": "Regular",
+          "full_name": "Noto Sans Sunuwar Regular",
+          "post_script_name": "NotoSansSunuwar-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2021 The Noto Sunuwar Project Authors (https://github.com/ScriptEncodingInitiative/sunuwar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "FwZB7_04xUkosG2xJo2gm7nF0DTfho_Du2akOrkv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

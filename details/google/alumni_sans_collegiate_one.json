@@ -1,0 +1,77 @@
+{
+  "slug": "google/alumni_sans_collegiate_one",
+  "name": "alumni_sans_collegiate_one",
+  "description": "Alumni Sans Collegiate One is stand alone font based on Alumni . While it is a variable font available in Roman and Italic versions of each weight, the Collegiate version offers a display option adding a decorative outline to the ExtraBold style. Use this variation for situations requiring a sporty look. Collegiate One is designed to be used as a display font above 32pt in print (assuming 300 dpi) and above 96px in digital media. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/alumni-sans-collegiate .",
+  "homepage": "https://fonts.google.com/specimen/Alumni+Sans+Collegiate+One",
+  "copyright": "Copyright 2014 The Alumni Sans Collegiate Project Authors (https://github.com/googlefonts/alumni-sans-collegiate)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alumni Sans Collegiate One",
+      "files": [
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alumni Sans Collegiate One",
+      "files": [
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdfyDiPw2ta.woff2",
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjmtxntaDFU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdfyDiPw2ta.woff2",
+        "https://fonts.gstatic.com/s/alumnisanscollegiateone/v7/MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjmtxntaDFU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alumni Sans Collegiate One",
+      "styles": [
+        {
+          "family_name": "Alumni Sans Collegiate One",
+          "type": "Regular",
+          "full_name": "Alumni Sans Collegiate One Regular",
+          "post_script_name": "AlumniSansCollegiateOne-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2014 The Alumni Sans Collegiate Project Authors (https://github.com/googlefonts/alumni-sans-collegiate)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MQpB-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhjdayDiPw2ta.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Alumni Sans Collegiate One",
+          "type": "Italic",
+          "full_name": "Alumni Sans Collegiate One Italic",
+          "post_script_name": "AlumniSansCollegiateOne-Italic",
+          "version": "1.100",
+          "copyright": "Copyright 2014 The Alumni Sans Collegiate Project Authors (https://github.com/googlefonts/alumni-sans-collegiate)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MQpD-XChK8G5CtmK_AuGxQrdNvPSXkn0RM-XqjWWhgdYwjytxntaDFU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

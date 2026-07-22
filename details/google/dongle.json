@@ -1,0 +1,101 @@
+{
+  "slug": "google/dongle",
+  "name": "dongle",
+  "description": "Dongle(동글) is a rounded sans-serif typeface for display. It is a modular Hangeul with the de-square frame, creating a playful and rhythmic movement. The name, Dongle(동글) comes from a Korean onomatopoeia, meaning 'rounded or curved shape(with adorable impression)’. To contribute to the project, visit https://github.com/yangheeryu/Dongle",
+  "homepage": "https://fonts.google.com/specimen/Dongle",
+  "copyright": "Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Dongle",
+      "files": [
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeEcxrYjWNzXvVPA.ttf",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqmveRPah6RxA.ttf",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeActrYjWNzXvVPA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeEcxrYjWNzXvVPA.ttf",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqmveRPah6RxA.ttf",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeActrYjWNzXvVPA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Dongle",
+      "files": [
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeEcxrZzWNzXvVPA.woff2",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqmuORPah6RxA.woff2",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeActrZzWNzXvVPA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeEcxrZzWNzXvVPA.woff2",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoF3Ltdjt6VPkqmuORPah6RxA.woff2",
+        "https://fonts.gstatic.com/s/dongle/v16/sJoG3Ltdjt6VPkqeActrZzWNzXvVPA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Dongle Light",
+      "styles": [
+        {
+          "family_name": "Dongle Light",
+          "type": "Regular",
+          "full_name": "Dongle Light",
+          "post_script_name": "Dongle-Light",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoG3Ltdjt6VPkqeEcxrYjWNzXvVPA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dongle",
+      "styles": [
+        {
+          "family_name": "Dongle",
+          "type": "Regular",
+          "full_name": "Dongle Regular",
+          "post_script_name": "Dongle-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoF3Ltdjt6VPkqmveRPah6RxA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Dongle",
+          "type": "Bold",
+          "full_name": "Dongle Bold",
+          "post_script_name": "Dongle-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoG3Ltdjt6VPkqeActrYjWNzXvVPA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

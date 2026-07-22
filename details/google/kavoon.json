@@ -1,0 +1,58 @@
+{
+  "slug": "google/kavoon",
+  "name": "kavoon",
+  "description": "Foundry: Sorkin Type Co Kavoon is a display face based on experiments with brush and ink. Kavoon's expressive features make words vivid and powerfully draw the reader in. Kavoon may be used from medium to large sizes. To contribute to the project, visit github.com/EbenSorkin/Kavoon Updated: February 2016, to v1.004 with additional language support, improved hinting, and other minor fixes.",
+  "homepage": "https://fonts.google.com/specimen/Kavoon",
+  "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Kavoon'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kavoon",
+      "files": [
+        "https://fonts.gstatic.com/s/kavoon/v25/pxiFyp4_scRYhlU4NLr6f1pdEQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kavoon/v25/pxiFyp4_scRYhlU4NLr6f1pdEQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kavoon",
+      "files": [
+        "https://fonts.gstatic.com/s/kavoon/v25/pxiFyp4_scRYhlU4Mbr6f1pdEQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kavoon/v25/pxiFyp4_scRYhlU4Mbr6f1pdEQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kavoon",
+      "styles": [
+        {
+          "family_name": "Kavoon",
+          "type": "Regular",
+          "full_name": "Kavoon",
+          "post_script_name": "Kavoon-Regular",
+          "version": "1.004; ttfautohint (v1.4.1)",
+          "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Kavoon'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pxiFyp4_scRYhlU4NLr6f1pdEQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

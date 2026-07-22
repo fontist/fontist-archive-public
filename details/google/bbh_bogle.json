@@ -1,0 +1,58 @@
+{
+  "slug": "google/bbh_bogle",
+  "name": "bbh_bogle",
+  "description": "BBH Bogle font family",
+  "homepage": "https://fonts.google.com/specimen/BBH+Bogle",
+  "copyright": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "BBH Bogle",
+      "files": [
+        "https://fonts.gstatic.com/s/bbhbogle/v1/GFDoWA58rVDJf-fOV9ALq5hcOA0hUA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bbhbogle/v1/GFDoWA58rVDJf-fOV9ALq5hcOA0hUA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "BBH Bogle",
+      "files": [
+        "https://fonts.gstatic.com/s/bbhbogle/v1/GFDoWA58rVDJf-fOV9ALrphcOA0hUA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bbhbogle/v1/GFDoWA58rVDJf-fOV9ALrphcOA0hUA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "BBH Bogle",
+      "styles": [
+        {
+          "family_name": "BBH Bogle",
+          "type": "Regular",
+          "full_name": "BBH Bogle Regular",
+          "post_script_name": "BBHBogle-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The BBH Project Authors (https://github.com/Studio-DRAMA/BBH)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "GFDoWA58rVDJf-fOV9ALq5hcOA0hUA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "google/varta",
+  "name": "varta",
+  "description": "Varta is a sans serif family that fuses warm humanity with bright clarity and professional crispness whos congenial personality emerges at larger sizes. It is a variable font that has been designed to render well down to surprisingly small sizes and on both low and high-quality screens, which provides a broad range of utility. Its features make it well suited to a variety of tasks, including sign systems, editorial design, packaging, and extended reading on screens. To contribute, see https://github.com/SorkinType/Varta Varta is published by Sorkin Type .",
+  "homepage": "https://fonts.google.com/specimen/Varta",
+  "copyright": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Varta",
+      "files": [
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j4Ej7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD4Ej7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj4Ej7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajkEj7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9UzkEj7E-9PGLfQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j4Ej7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD4Ej7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj4Ej7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajkEj7E-9PGLfQ.woff2",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9UzkEj7E-9PGLfQ.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Varta",
+      "files": [
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j4EirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD4EirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj4EirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajkEirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9UzkEirE-9PGLfQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x96j4EirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD4EirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj4EirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajkEirE-9PGLfQ.ttf",
+        "https://fonts.gstatic.com/s/varta/v25/Qw3AZQpJHj_6LzHUngWbrFkDH1x9UzkEirE-9PGLfQ.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Varta Light",
+      "styles": [
+        {
+          "family_name": "Varta Light",
+          "type": "Regular",
+          "full_name": "Varta Light",
+          "post_script_name": "Varta-Light",
+          "version": "1.004",
+          "copyright": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Qw3AZQpJHj_6LzHUngWbrFkDH1x96j4EirE-9PGLfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Varta",
+      "styles": [
+        {
+          "family_name": "Varta",
+          "type": "Regular",
+          "full_name": "Varta Regular",
+          "post_script_name": "Varta-Regular",
+          "version": "1.004",
+          "copyright": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Qw3AZQpJHj_6LzHUngWbrFkDH1x9tD4EirE-9PGLfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Varta",
+          "type": "Bold",
+          "full_name": "Varta Bold",
+          "post_script_name": "Varta-Bold",
+          "version": "1.004",
+          "copyright": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Qw3AZQpJHj_6LzHUngWbrFkDH1x9UzkEirE-9PGLfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Varta Medium",
+      "styles": [
+        {
+          "family_name": "Varta Medium",
+          "type": "Regular",
+          "full_name": "Varta Medium",
+          "post_script_name": "Varta-Medium",
+          "version": "1.004",
+          "copyright": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Qw3AZQpJHj_6LzHUngWbrFkDH1x9hj4EirE-9PGLfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Varta SemiBold",
+      "styles": [
+        {
+          "family_name": "Varta SemiBold",
+          "type": "Regular",
+          "full_name": "Varta SemiBold",
+          "post_script_name": "Varta-SemiBold",
+          "version": "1.004",
+          "copyright": "Copyright 2019 The Varta Project Authors (https://github.com/SorkinType/Varta)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Qw3AZQpJHj_6LzHUngWbrFkDH1x9ajkEirE-9PGLfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

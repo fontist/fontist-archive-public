@@ -1,0 +1,58 @@
+{
+  "slug": "google/jim_nightshade",
+  "name": "jim_nightshade",
+  "description": "Certain calligraphic pen styles have always had a mysterious and almost dark vibe to them from my viewpoint. Jim Nightshade is one of those styles. Named after a character from the story, \"Something Wicked This Way Comes\", Jim Nightshade is a flat nib calligraphic typestyle with charisma and a dark flair. Letterforms follow that of a traditional italic hand but with more angular strokes to accentuate the look.",
+  "homepage": "https://fonts.google.com/specimen/Jim+Nightshade",
+  "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Jim Nightshade\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jim Nightshade",
+      "files": [
+        "https://fonts.gstatic.com/s/jimnightshade/v21/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jimnightshade/v21/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jim Nightshade",
+      "files": [
+        "https://fonts.gstatic.com/s/jimnightshade/v21/PlIkFlu9Pb08Q8HLM1PxmB0g-OS9V3qKaMxD.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jimnightshade/v21/PlIkFlu9Pb08Q8HLM1PxmB0g-OS9V3qKaMxD.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jim Nightshade",
+      "styles": [
+        {
+          "family_name": "Jim Nightshade",
+          "type": "Regular",
+          "full_name": "Jim Nightshade",
+          "post_script_name": "JimNightshade-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Jim Nightshade\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/habibi",
+  "name": "habibi",
+  "description": "Foundry: Sorkin Type Co Habibi is a high contrast serifed text face. Habibi is easy to read and offers a certain elegance to go with this. Habibi draws both on the qualities of 15th and 16th century text faces and on crisp contenporary ones. Habibi can be used from small sizes to larger display settings. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Habibi",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Habibi\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Habibi",
+      "files": [
+        "https://fonts.gstatic.com/s/habibi/v22/CSR-4zFWkuqcTTNCShJeZOYySQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/habibi/v22/CSR-4zFWkuqcTTNCShJeZOYySQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Habibi",
+      "files": [
+        "https://fonts.gstatic.com/s/habibi/v22/CSR-4zFWkuqcTTNCTxJeZOYySQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/habibi/v22/CSR-4zFWkuqcTTNCTxJeZOYySQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Habibi",
+      "styles": [
+        {
+          "family_name": "Habibi",
+          "type": "Regular",
+          "full_name": "Habibi",
+          "post_script_name": "Habibi-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Habibi\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CSR-4zFWkuqcTTNCShJeZOYySQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

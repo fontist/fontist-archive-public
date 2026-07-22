@@ -1,0 +1,58 @@
+{
+  "slug": "google/antic_didone",
+  "name": "antic_didone",
+  "description": "Antic Didone was designed for use in the headlines of newspapers and magazines. The Antic Type System is a super family that is still evolving, and this first release of the Didone family. It complements the Sans and Didone versions, giving the designer freedom to create rhythmic and dynamic typography using all three families in the type system. Each family in the type system has a large x-height that makes it very readable, especially on the web. Each also has slight stress derived from handwriting. Antic Didone's minuscule ornate serifs create a unique texture. With modern proportions and condensed letterforms, it is great for economical typesetting, on paper and on screen. The Antic Type System is in progress and is being regularly improved. If you have a request, wish to contribute improvements or even fund specific features, simply contact Santiago Orozco . You can follow Santiago on Twitter, @Typemade .",
+  "homepage": "https://fonts.google.com/specimen/Antic+Didone",
+  "copyright": "Copyright (c) 2011, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Antic Didone.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Antic Didone",
+      "files": [
+        "https://fonts.gstatic.com/s/anticdidone/v17/RWmPoKKX6u8sp8fIWdnDKqDiqYsGBGBzCw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anticdidone/v17/RWmPoKKX6u8sp8fIWdnDKqDiqYsGBGBzCw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Antic Didone",
+      "files": [
+        "https://fonts.gstatic.com/s/anticdidone/v17/RWmPoKKX6u8sp8fIWdnDKqDirIsGBGBzCw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/anticdidone/v17/RWmPoKKX6u8sp8fIWdnDKqDirIsGBGBzCw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Antic Didone",
+      "styles": [
+        {
+          "family_name": "Antic Didone",
+          "type": "Regular",
+          "full_name": "Antic Didone Regular",
+          "post_script_name": "AnticDidone-Regular",
+          "version": "2.001",
+          "copyright": "Copyright (c) 2011, Santiago Orozco (hi@typemade.mx), with Reserved Font Name Antic Didone.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RWmPoKKX6u8sp8fIWdnDKqDiqYsGBGBzCw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

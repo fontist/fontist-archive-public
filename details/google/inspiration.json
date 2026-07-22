@@ -1,0 +1,58 @@
+{
+  "slug": "google/inspiration",
+  "name": "inspiration",
+  "description": "Have a party with Inspiration. A fun, script font with a less-than-serious bounce. You may have seen the use of Inspiration in the logo for Michaels craft stores. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/inspiration .",
+  "homepage": "https://fonts.google.com/specimen/Inspiration",
+  "copyright": "Copyright 2004 The Inspiration Project Authors (https://github.com/googlefonts/inspiration)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Inspiration",
+      "files": [
+        "https://fonts.gstatic.com/s/inspiration/v7/x3dkckPPZa6L4wIg5cZOEvoGnSrlBBsy.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inspiration/v7/x3dkckPPZa6L4wIg5cZOEvoGnSrlBBsy.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Inspiration",
+      "files": [
+        "https://fonts.gstatic.com/s/inspiration/v7/x3dkckPPZa6L4wIg5cZOEvoDnSrlBBsy.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/inspiration/v7/x3dkckPPZa6L4wIg5cZOEvoDnSrlBBsy.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inspiration",
+      "styles": [
+        {
+          "family_name": "Inspiration",
+          "type": "Regular",
+          "full_name": "Inspiration Regular",
+          "post_script_name": "Inspiration-Regular",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2004 The Inspiration Project Authors (https://github.com/googlefonts/inspiration)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "x3dkckPPZa6L4wIg5cZOEvoGnSrlBBsy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

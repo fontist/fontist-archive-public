@@ -1,0 +1,58 @@
+{
+  "slug": "google/pathway_gothic_one",
+  "name": "pathway_gothic_one",
+  "description": "Pathway Gothic One is a narrow grotesque sans typeface, a very popular style in the history of typography. This book weight is the first of many. The March 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. To contribute, see github.com/etunni/pathway-gothic .",
+  "homepage": "https://fonts.google.com/specimen/Pathway+Gothic+One",
+  "copyright": "Copyright 2013 The Pathway Gothic Project Authors (https://github.com/etunni/pathway-gothic), with Reserved Font Name 'Pathway'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pathway Gothic One",
+      "files": [
+        "https://fonts.gstatic.com/s/pathwaygothicone/v16/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-dTFxeb80flQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pathwaygothicone/v16/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-dTFxeb80flQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pathway Gothic One",
+      "files": [
+        "https://fonts.gstatic.com/s/pathwaygothicone/v16/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-dSVxeb80flQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pathwaygothicone/v16/MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-dSVxeb80flQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pathway Gothic One",
+      "styles": [
+        {
+          "family_name": "Pathway Gothic One",
+          "type": "Regular",
+          "full_name": "Pathway Gothic One Regular",
+          "post_script_name": "PathwayGothicOne-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.26]",
+          "copyright": "Copyright 2013 The Pathway Gothic Project Authors (https://github.com/etunni/pathway-gothic), with Reserved Font Name 'Pathway'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MwQrbgD32-KAvjkYGNUUxAtW7pEBwx-dTFxeb80flQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

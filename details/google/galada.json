@@ -1,0 +1,58 @@
+{
+  "slug": "google/galada",
+  "name": "galada",
+  "description": "Galada is a Bengali and Latin font that started with the famous Latin Lobster font, and extended the design to Bengali. The Bengali was developed as a studio collaboration by Jeremie Hornus, Yoann Minet, and Juan Bruce. The Galada project is led by Black Foundry, a type design foundry based in Paris, France. To contribute, see github.com/TypefactoryNet/Galada",
+  "homepage": "https://fonts.google.com/specimen/Galada",
+  "copyright": "Copyright (c) 2010 by Pablo Impallari (www.impallari.com). Copyright (c) 2015 by black foundry (www.black-foundry.com)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Galada",
+      "files": [
+        "https://fonts.gstatic.com/s/galada/v21/H4cmBXyGmcjXlUX-8iw-4Lqggw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/galada/v21/H4cmBXyGmcjXlUX-8iw-4Lqggw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Galada",
+      "files": [
+        "https://fonts.gstatic.com/s/galada/v21/H4cmBXyGmcjXlUX-9yw-4Lqggw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/galada/v21/H4cmBXyGmcjXlUX-9yw-4Lqggw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Galada",
+      "styles": [
+        {
+          "family_name": "Galada",
+          "type": "Regular",
+          "full_name": "Galada Regular",
+          "post_script_name": "Galada-Regular",
+          "version": "1.261;PS 1.261;hotconv 1.0.86;makeotf.lib2.5.63406",
+          "copyright": "Copyright (c) 2010 by Pablo Impallari (www.impallari.com). Copyright (c) 2015 by black foundry (www.black-foundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4cmBXyGmcjXlUX-8iw-4Lqggw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

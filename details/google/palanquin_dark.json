@@ -1,0 +1,125 @@
+{
+  "slug": "google/palanquin_dark",
+  "name": "palanquin_dark",
+  "description": "Palanquin is a Unicode-compliant Latin and Devanagari text type family designed for the digital age. The Devanagari is monolinear and was designed alongside the sans serif Latin. Palanquin Dark is the heavier display family, with 4 weights. Palanquin is a text family with seven text weights. The Palanquin superfamily is versatile and strikes a balance between typographic conventions and that bit of sparkle. Many thanks to Michael for all the technical assistance. Heartfelt thanks to Maggi for the sincere support. The Palanquin project is led by Pria Ravichandran, a type designer from India. To contribute, see github.com/VanillaandCream/Palanquin",
+  "homepage": "https://fonts.google.com/specimen/Palanquin+Dark",
+  "copyright": "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Palanquin Dark",
+      "files": [
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn75YHgl1nqmANMB-26xC7yuF_6OTEo9VtfE.ttf",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8Z6ZW41fcvN2KT4.ttf",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8ZWYm41fcvN2KT4.ttf",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8YyY241fcvN2KT4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn75YHgl1nqmANMB-26xC7yuF_6OTEo9VtfE.ttf",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8Z6ZW41fcvN2KT4.ttf",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8ZWYm41fcvN2KT4.ttf",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8YyY241fcvN2KT4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Palanquin Dark",
+      "files": [
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn75YHgl1nqmANMB-26xC7yuF_6LTEo9VtfE.woff2",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8Z6ZW4wfcvN2KT4.woff2",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8ZWYm4wfcvN2KT4.woff2",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8YyY24wfcvN2KT4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn75YHgl1nqmANMB-26xC7yuF_6LTEo9VtfE.woff2",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8Z6ZW4wfcvN2KT4.woff2",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8ZWYm4wfcvN2KT4.woff2",
+        "https://fonts.gstatic.com/s/palanquindark/v17/xn76YHgl1nqmANMB-26xC7yuF8YyY24wfcvN2KT4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Palanquin Dark",
+      "styles": [
+        {
+          "family_name": "Palanquin Dark",
+          "type": "Regular",
+          "full_name": "Palanquin Dark Regular",
+          "post_script_name": "PalanquinDark-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+          "description": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xn75YHgl1nqmANMB-26xC7yuF_6OTEo9VtfE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Palanquin Dark",
+          "type": "Bold",
+          "full_name": "Palanquin Dark Bold",
+          "post_script_name": "PalanquinDark-Bold",
+          "version": "1.001",
+          "copyright": "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+          "description": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xn76YHgl1nqmANMB-26xC7yuF8YyY241fcvN2KT4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palanquin Dark Medium",
+      "styles": [
+        {
+          "family_name": "Palanquin Dark Medium",
+          "type": "Regular",
+          "full_name": "Palanquin Dark Medium",
+          "post_script_name": "PalanquinDark-Medium",
+          "version": "1.001",
+          "copyright": "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+          "description": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xn76YHgl1nqmANMB-26xC7yuF8Z6ZW41fcvN2KT4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Palanquin Dark SemiBold",
+      "styles": [
+        {
+          "family_name": "Palanquin Dark SemiBold",
+          "type": "Regular",
+          "full_name": "Palanquin Dark SemiBold",
+          "post_script_name": "PalanquinDark-SemiBold",
+          "version": "1.001",
+          "copyright": "Copyright 2014 Pria Ravichandran (pria.ravichandran@gmail.com)",
+          "description": "Licenced under the SIL Open Font License, Version 1.1, available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xn76YHgl1nqmANMB-26xC7yuF8ZWYm41fcvN2KT4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

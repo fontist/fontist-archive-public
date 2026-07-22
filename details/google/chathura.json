@@ -1,0 +1,149 @@
+{
+  "slug": "google/chathura",
+  "name": "chathura",
+  "description": "Chathura was developed initially as an ASCII font in 2009 in the Ezi Fonts collection, which consists 42 Telugu ASCII fonts. In 2015 Chathura was developed into a Unicode font family with support for Telugu and Latin. The design is useful for invitations, headings, in print and on the web. Each letter has rectangular forms and a uniform stroke thickness. The Telugu component was designed by Appaji Ambarisha Darbha. The Latin component was added from Rajdhani, a Latin and Devanagari font family developed by Shiva Nalleperumal at Indian Type Foundry. The Chathura project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/Chathura",
+  "homepage": "https://fonts.google.com/specimen/Chathura",
+  "copyright": "Copyright 2009 The Chathura Project Authors.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chathura",
+      "files": [
+        "https://fonts.gstatic.com/s/chathura/v22/_gP91R7-rzUuVjim42dEq0SbTvZyuDo.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eMiWSxYPp7oSNy.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP71R7-rzUuVjim418goUC5S-Zy.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42ecjmSxYPp7oSNy.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eAjWSxYPp7oSNy.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chathura/v22/_gP91R7-rzUuVjim42dEq0SbTvZyuDo.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eMiWSxYPp7oSNy.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP71R7-rzUuVjim418goUC5S-Zy.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42ecjmSxYPp7oSNy.ttf",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eAjWSxYPp7oSNy.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chathura",
+      "files": [
+        "https://fonts.gstatic.com/s/chathura/v22/_gP91R7-rzUuVjim42dEq0GbTvZyuDo.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eMiWS0YPp7oSNy.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP71R7-rzUuVjim418loUC5S-Zy.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42ecjmS0YPp7oSNy.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eAjWS0YPp7oSNy.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chathura/v22/_gP91R7-rzUuVjim42dEq0GbTvZyuDo.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eMiWS0YPp7oSNy.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP71R7-rzUuVjim418loUC5S-Zy.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42ecjmS0YPp7oSNy.woff2",
+        "https://fonts.gstatic.com/s/chathura/v22/_gP81R7-rzUuVjim42eAjWS0YPp7oSNy.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chathura Thin",
+      "styles": [
+        {
+          "family_name": "Chathura Thin",
+          "type": "Regular",
+          "full_name": "Chathura Thin",
+          "post_script_name": "Chathura-Thin",
+          "version": "1.002 2016",
+          "copyright": "Copyright 2009 The Chathura Project Authors.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_gP91R7-rzUuVjim42dEq0SbTvZyuDo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chathura Light",
+      "styles": [
+        {
+          "family_name": "Chathura Light",
+          "type": "Regular",
+          "full_name": "Chathura Light",
+          "post_script_name": "Chathura-Light",
+          "version": "1.002 2016",
+          "copyright": "Copyright 2009 The Chathura Project Authors.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_gP81R7-rzUuVjim42eMiWSxYPp7oSNy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chathura",
+      "styles": [
+        {
+          "family_name": "Chathura",
+          "type": "Regular",
+          "full_name": "Chathura Regular",
+          "post_script_name": "Chathura-Regular",
+          "version": "1.002 2016",
+          "copyright": "Copyright 2009 The Chathura Project Authors.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_gP71R7-rzUuVjim418goUC5S-Zy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Chathura",
+          "type": "Bold",
+          "full_name": "Chathura Bold",
+          "post_script_name": "Chathura-Bold",
+          "version": "1.002 2016",
+          "copyright": "Copyright 2009 The Chathura Project Authors.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_gP81R7-rzUuVjim42ecjmSxYPp7oSNy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chathura ExtraBold",
+      "styles": [
+        {
+          "family_name": "Chathura ExtraBold",
+          "type": "Regular",
+          "full_name": "Chathura ExtraBold",
+          "post_script_name": "Chathura-ExtraBold",
+          "version": "1.002 2016",
+          "copyright": "Copyright 2009 The Chathura Project Authors.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_gP81R7-rzUuVjim42eAjWSxYPp7oSNy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

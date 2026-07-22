@@ -1,0 +1,58 @@
+{
+  "slug": "google/purple_purse",
+  "name": "purple_purse",
+  "description": "Purple Purse draws its inspiration from a vintage Ivory Soap ad from the 1950's. Somewhat of a cross between Bodoni and Pixie, this font finds that it never truly takes itself seriously. The fun little bounce of the typeface gives it a perky personality. To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Purple+Purse",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Purple Purse\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Purple Purse",
+      "files": [
+        "https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qyeBb_ujA4ug.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qyeBb_ujA4ug.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Purple Purse",
+      "files": [
+        "https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qyfRb_ujA4ug.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/purplepurse/v25/qWctB66gv53iAp-Vfs4My6qyfRb_ujA4ug.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Purple Purse",
+      "styles": [
+        {
+          "family_name": "Purple Purse",
+          "type": "Regular",
+          "full_name": "Purple Purse",
+          "post_script_name": "PurplePurse-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Purple Purse\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qWctB66gv53iAp-Vfs4My6qyeBb_ujA4ug.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

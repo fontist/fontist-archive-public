@@ -1,0 +1,336 @@
+{
+  "slug": "google/geom",
+  "name": "geom",
+  "description": "Geom font family",
+  "homepage": "https://fonts.google.com/specimen/Geom",
+  "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Geom",
+      "files": [
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GghnrF52lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggg5rF52lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GggLrF52lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjnq152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjeq152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggi5q152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GgiQq152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7-gwniCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x77YwniCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x74QwniCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x72g3niCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x71E3niCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7zY3niCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7x83niCD19jLBvU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GghnrF52lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggg5rF52lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GggLrF52lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjnq152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjeq152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggi5q152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GgiQq152lCGh0sjL.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7-gwniCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x77YwniCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x74QwniCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x72g3niCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x71E3niCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7zY3niCD19jLBvU.woff2",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7x83niCD19jLBvU.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Geom",
+      "files": [
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GghnrF5zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggg5rF5zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GggLrF5zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjnq15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjeq15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggi5q15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GgiQq15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7-gwniWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x77YwniWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x74QwniWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x72g3niWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x71E3niWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7zY3niWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7x83niWD19jLBvU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GghnrF5zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggg5rF5zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GggLrF5zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjnq15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggjeq15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0Ggi5q15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n_4bw6Cf6j2N-_7PYnX8v0GgiQq15zlCGh0sjL.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7-gwniWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x77YwniWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x74QwniWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x72g3niWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x71E3niWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7zY3niWD19jLBvU.ttf",
+        "https://fonts.gstatic.com/s/geom/v1/X7n54bw6Cf6j8taNEy5ONFFaHR3x7x83niWD19jLBvU.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Geom Light",
+      "styles": [
+        {
+          "family_name": "Geom Light",
+          "type": "Regular",
+          "full_name": "Geom Light",
+          "post_script_name": "Geom-Light",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0GghnrF5zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom Light",
+          "type": "Italic",
+          "full_name": "Geom Light Italic",
+          "post_script_name": "Geom-LightItalic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x7-gwniWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geom",
+      "styles": [
+        {
+          "family_name": "Geom",
+          "type": "Regular",
+          "full_name": "Geom Regular",
+          "post_script_name": "Geom-Regular",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0Ggg5rF5zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom",
+          "type": "Bold",
+          "full_name": "Geom Bold",
+          "post_script_name": "Geom-Bold",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0Ggjeq15zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom",
+          "type": "Italic",
+          "full_name": "Geom Italic",
+          "post_script_name": "Geom-Italic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x77YwniWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom",
+          "type": "Bold Italic",
+          "full_name": "Geom Bold Italic",
+          "post_script_name": "Geom-BoldItalic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x71E3niWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geom Medium",
+      "styles": [
+        {
+          "family_name": "Geom Medium",
+          "type": "Regular",
+          "full_name": "Geom Medium",
+          "post_script_name": "Geom-Medium",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0GggLrF5zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom Medium",
+          "type": "Italic",
+          "full_name": "Geom Medium Italic",
+          "post_script_name": "Geom-MediumItalic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x74QwniWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geom SemiBold",
+      "styles": [
+        {
+          "family_name": "Geom SemiBold",
+          "type": "Regular",
+          "full_name": "Geom SemiBold",
+          "post_script_name": "Geom-SemiBold",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0Ggjnq15zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom SemiBold",
+          "type": "Italic",
+          "full_name": "Geom SemiBold Italic",
+          "post_script_name": "Geom-SemiBoldItalic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x72g3niWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geom ExtraBold",
+      "styles": [
+        {
+          "family_name": "Geom ExtraBold",
+          "type": "Regular",
+          "full_name": "Geom ExtraBold",
+          "post_script_name": "Geom-ExtraBold",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0Ggi5q15zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom ExtraBold",
+          "type": "Italic",
+          "full_name": "Geom ExtraBold Italic",
+          "post_script_name": "Geom-ExtraBoldItalic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x7zY3niWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Geom Black",
+      "styles": [
+        {
+          "family_name": "Geom Black",
+          "type": "Regular",
+          "full_name": "Geom Black",
+          "post_script_name": "Geom-Black",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n_4bw6Cf6j2N-_7PYnX8v0GgiQq15zlCGh0sjL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Geom Black",
+          "type": "Italic",
+          "full_name": "Geom Black Italic",
+          "post_script_name": "Geom-BlackItalic",
+          "version": "1.102",
+          "copyright": "Copyright 2022 The Geom Project Authors (https://github.com/ThanosPoulakidas/Geom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "X7n54bw6Cf6j8taNEy5ONFFaHR3x7x83niWD19jLBvU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "google/khand",
+  "name": "khand",
+  "description": "Khand is a family of compact mono-linear fonts with very open counter forms. Developed for display typography, the family is primarily intended for headline usage. Its letterforms are dynamic, and everything is designed according to a modular system. All of its shapes bear a strong commonality to one another, but the typeface strikes a good balancing act and avoids too much repetitiveness. The lighter styles are suitable for short paragraphs of running text, while the heavier styles have been optimized for headlines or single word settings. The base character height in the Khand fonts is ‘big on the body.’ Across a line of text, the consonantal forms take up the majority of vertical space. Vowel marks above and below have been shortened – keeping these to a minimum allows for lines of text to be set more closely together vertically. The reduction of interlinear space is paramount for successful headline typesetting, and Khand performs much better in display applications than similar fonts with more elongated vowel marks. Because of their reduced height, the typeface’s vowel mark forms have been simplified somewhat out of necessity, but this stylistic reduction is in-keeping with the modular feeling of the typeface’s overall design. Dot-shaped marks appear rounded in order to help maintain their differentiation from other marks. Khand’s Devanagari component was designed by Sanchit Sawaria and Jyotish Sonowal. The Latin component was designed by Satya Rajpurohit. To contribute, see github.com/itfoundry/khand",
+  "homepage": "https://fonts.google.com/specimen/Khand",
+  "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Khand",
+      "files": [
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bL5cFE3ZwaH__-C.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMA-IINQlQQ0YpVWHU_TBqO.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKhcVE3ZwaH__-C.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKNdlE3ZwaH__-C.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bLpd1E3ZwaH__-C.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bL5cFE3ZwaH__-C.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMA-IINQlQQ0YpVWHU_TBqO.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKhcVE3ZwaH__-C.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKNdlE3ZwaH__-C.ttf",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bLpd1E3ZwaH__-C.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Khand",
+      "files": [
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bL5cFEyZwaH__-C.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMA-IINQlQQ0YpQWHU_TBqO.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKhcVEyZwaH__-C.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKNdlEyZwaH__-C.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bLpd1EyZwaH__-C.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bL5cFEyZwaH__-C.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMA-IINQlQQ0YpQWHU_TBqO.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKhcVEyZwaH__-C.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bKNdlEyZwaH__-C.woff2",
+        "https://fonts.gstatic.com/s/khand/v22/TwMN-IINQlQQ0bLpd1EyZwaH__-C.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Khand Light",
+      "styles": [
+        {
+          "family_name": "Khand Light",
+          "type": "Regular",
+          "full_name": "Khand Light",
+          "post_script_name": "Khand-Light",
+          "version": "1.102;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.8.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMN-IINQlQQ0bL5cFE3ZwaH__-C.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khand",
+      "styles": [
+        {
+          "family_name": "Khand",
+          "type": "Regular",
+          "full_name": "Khand Regular",
+          "post_script_name": "Khand-Regular",
+          "version": "1.102;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.8.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMA-IINQlQQ0YpVWHU_TBqO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Khand",
+          "type": "Bold",
+          "full_name": "Khand Bold",
+          "post_script_name": "Khand-Bold",
+          "version": "1.102;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.8.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMN-IINQlQQ0bLpd1E3ZwaH__-C.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khand Medium",
+      "styles": [
+        {
+          "family_name": "Khand Medium",
+          "type": "Regular",
+          "full_name": "Khand Medium",
+          "post_script_name": "Khand-Medium",
+          "version": "1.102;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.8.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMN-IINQlQQ0bKhcVE3ZwaH__-C.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Khand SemiBold",
+      "styles": [
+        {
+          "family_name": "Khand SemiBold",
+          "type": "Regular",
+          "full_name": "Khand SemiBold",
+          "post_script_name": "Khand-SemiBold",
+          "version": "1.102;PS 1.0;hotconv 1.0.78;makeotf.lib2.5.61930; ttfautohint (v1.8.3)",
+          "copyright": "Copyright (c) 2014 Indian Type Foundry (info@indiantypefoundry.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TwMN-IINQlQQ0bKNdlE3ZwaH__-C.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

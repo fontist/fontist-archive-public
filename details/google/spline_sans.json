@@ -1,0 +1,155 @@
+{
+  "slug": "google/spline_sans",
+  "name": "spline_sans",
+  "description": "Spline Sans is a grotesque sans serif typeface family, purpose-built for UI interfaces, checkout processes, and paragraphs of text. Space efficiency is accomplished by condensing traditional grotesque proportions. The cool and restrained tone is accented with strategic \"thorn\" traps, which blossom into view when set at larger sizes. Spline Sans is an original typeface initiated by the Spline Team , and designed by Eben Sorkin and Mirko Velimirović, with project management by Faride Mereb, testing and design feedback by Gonçalo Teixeira, and concept by Alejandro León. Spline Sans supports an extended Latin glyph set, enabling the typesetting of English, Western, Central and Eastern European languages. To contribute ideas and feedback, see github.com/SorkinType/SplineSans",
+  "homepage": "https://fonts.google.com/specimen/Spline+Sans",
+  "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Spline Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YF9vlUfE2kw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YF9vlUfE2kw.woff2",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YF9vlUfE2kw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Spline Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
+        "https://fonts.gstatic.com/s/splinesans/v16/_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Spline Sans Light",
+      "styles": [
+        {
+          "family_name": "Spline Sans Light",
+          "type": "Regular",
+          "full_name": "Spline Sans Light",
+          "post_script_name": "SplineSans-Light",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpZlnYEtvlUfE2kw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spline Sans",
+      "styles": [
+        {
+          "family_name": "Spline Sans",
+          "type": "Regular",
+          "full_name": "Spline Sans Regular",
+          "post_script_name": "SplineSans-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpOFnYEtvlUfE2kw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Spline Sans",
+          "type": "Bold",
+          "full_name": "Spline Sans Bold",
+          "post_script_name": "SplineSans-Bold",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp317YEtvlUfE2kw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spline Sans Medium",
+      "styles": [
+        {
+          "family_name": "Spline Sans Medium",
+          "type": "Regular",
+          "full_name": "Spline Sans Medium",
+          "post_script_name": "SplineSans-Medium",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRpClnYEtvlUfE2kw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spline Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Spline Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Spline Sans SemiBold",
+          "post_script_name": "SplineSans-SemiBold",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Spline Sans Project Authors (https://github.com/SorkinType/SplineSans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "_6_sED73Uf-2WfU2LzycEZousNzn1a1lKWRp5l7YEtvlUfE2kw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

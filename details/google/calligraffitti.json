@@ -1,0 +1,58 @@
+{
+  "slug": "google/calligraffitti",
+  "name": "calligraffitti",
+  "description": "Calligraffitti by Open Window owes its credit to mom and all her years of Calligraphic experience. This impromptu rendering of her calligraphic alphabet captures her years or formal practice blended with a rare encounter with the mood altering music of Santana.",
+  "homepage": "https://fonts.google.com/specimen/Calligraffitti",
+  "copyright": "Copyright (c) 2010 by Open Window. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Calligraffitti",
+      "files": [
+        "https://fonts.gstatic.com/s/calligraffitti/v20/46k2lbT3XjDVqJw3DCmCFjE0vnFZM5ZBpYN-.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/calligraffitti/v20/46k2lbT3XjDVqJw3DCmCFjE0vnFZM5ZBpYN-.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Calligraffitti",
+      "files": [
+        "https://fonts.gstatic.com/s/calligraffitti/v20/46k2lbT3XjDVqJw3DCmCFjE0vnFcM5ZBpYN-.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/calligraffitti/v20/46k2lbT3XjDVqJw3DCmCFjE0vnFcM5ZBpYN-.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Calligraffitti",
+      "styles": [
+        {
+          "family_name": "Calligraffitti",
+          "type": "Regular",
+          "full_name": "Calligraffitti Regular",
+          "post_script_name": "Calligraffitti-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010 by Open Window. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "46k2lbT3XjDVqJw3DCmCFjE0vnFZM5ZBpYN-.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

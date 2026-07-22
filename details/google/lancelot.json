@@ -1,0 +1,57 @@
+{
+  "slug": "google/lancelot",
+  "name": "lancelot",
+  "description": "Lancelot is a new ornate serif type based on French traditions. It has two sets of capitals, swash and classical.",
+  "homepage": "https://fonts.google.com/specimen/Lancelot",
+  "copyright": "Copyright (c) 2011 by Marion Kadi. All rights reserved. Licenced under SIL OFL v1.1",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lancelot",
+      "files": [
+        "https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4JY4xJ9CGyAa.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4JY4xJ9CGyAa.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lancelot",
+      "files": [
+        "https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4JY9xJ9CGyAa.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lancelot/v28/J7acnppxBGtQEulG4JY9xJ9CGyAa.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lancelot",
+      "styles": [
+        {
+          "family_name": "Lancelot",
+          "type": "Regular",
+          "full_name": "Lancelot",
+          "post_script_name": "Lancelot",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011 by Marion Kadi. All rights reserved. Licenced under SIL OFL v1.1",
+          "variable_font": false,
+          "font": "J7acnppxBGtQEulG4JY4xJ9CGyAa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "google/ballet",
+  "name": "ballet",
+  "description": "Ballet is a reinterpretation of the classic Spencerian script style with a few whimsical twists in two different versions: Ballet aligned and crooked, both with Latin GF Plus character set (+630 characters/+800 glyphs). Ballet is designed by Maximiliano Sproviero and developed by Eduardo Tunni. To contribute, see github.com/Omnibus-Type/Ballet",
+  "homepage": "https://fonts.google.com/specimen/Ballet",
+  "copyright": "Copyright 2020 The Ballet Project Authors (https://github.com/Omnibus-Type/Ballet)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Ballet",
+      "files": [
+        "https://fonts.gstatic.com/s/ballet/v30/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4S-EiAou6Y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ballet/v30/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4S-EiAou6Y.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "opsz"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Ballet",
+      "files": [
+        "https://fonts.gstatic.com/s/ballet/v30/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4G-EiAou6Y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ballet/v30/QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4G-EiAou6Y.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "opsz"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ballet",
+      "styles": [
+        {
+          "family_name": "Ballet",
+          "type": "Regular",
+          "full_name": "Ballet Regular",
+          "post_script_name": "Ballet-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Ballet Project Authors (https://github.com/Omnibus-Type/Ballet)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "QGYyz_MYZA-HM4NjuGOVnUEXme1I4Xi3C4G-EiAou6Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

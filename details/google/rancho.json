@@ -1,0 +1,58 @@
+{
+  "slug": "google/rancho",
+  "name": "rancho",
+  "description": "Rancho is a comfortable brush script typeface that works just as well in a barn or at the country club.",
+  "homepage": "https://fonts.google.com/specimen/Rancho",
+  "copyright": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rancho",
+      "files": [
+        "https://fonts.gstatic.com/s/rancho/v22/46kulbzmXjLaqZRlbWXgd0RY1g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rancho/v22/46kulbzmXjLaqZRlbWXgd0RY1g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rancho",
+      "files": [
+        "https://fonts.gstatic.com/s/rancho/v22/46kulbzmXjLaqZRlaGXgd0RY1g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rancho/v22/46kulbzmXjLaqZRlaGXgd0RY1g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rancho",
+      "styles": [
+        {
+          "family_name": "Rancho",
+          "type": "Regular",
+          "full_name": "Rancho Regular",
+          "post_script_name": "Rancho-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "46kulbzmXjLaqZRlbWXgd0RY1g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

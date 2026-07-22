@@ -1,0 +1,58 @@
+{
+  "slug": "google/baumans",
+  "name": "baumans",
+  "description": "Baumans is a geometric typeface for headlines. Its letterforms are inspired by Bauhaus typefaces and preconstructivist forms. The concept of the typeface fits with Moholy-Nagy's typography statement that type must be clear, legible, and communicate its message. The main distinctive features are the sharp corners in MVW, curved Z and unicase-like N. Contrast is monolinear and proportions are balanced. Baumans is suitable for medium to large sizes and optimized for screen. Designed by Henadij Zarechnjuk.",
+  "homepage": "https://fonts.google.com/specimen/Baumans",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Baumans\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Baumans",
+      "files": [
+        "https://fonts.gstatic.com/s/baumans/v18/-W_-XJj9QyTd3QfpR_oyaksqY5Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/baumans/v18/-W_-XJj9QyTd3QfpR_oyaksqY5Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Baumans",
+      "files": [
+        "https://fonts.gstatic.com/s/baumans/v18/-W_-XJj9QyTd3QfpR_8yaksqY5Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/baumans/v18/-W_-XJj9QyTd3QfpR_8yaksqY5Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Baumans",
+      "styles": [
+        {
+          "family_name": "Baumans",
+          "type": "Regular",
+          "full_name": "Baumans Regular",
+          "post_script_name": "Baumans-Regular",
+          "version": "001.002",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Baumans\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Baumans\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-W_-XJj9QyTd3QfpR_oyaksqY5Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

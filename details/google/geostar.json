@@ -1,0 +1,58 @@
+{
+  "slug": "google/geostar",
+  "name": "geostar",
+  "description": "Geostar is a great font for large headlines on websites. Its single weight allows for easy legibility and captivates the audience at first glance. Because Geostar is so symmetrical, it is a fantastic option to add charisma and sophistication to any web page.",
+  "homepage": "https://fonts.google.com/specimen/Geostar",
+  "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Geostar.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Geostar",
+      "files": [
+        "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOftSq9-trEvlQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOftSq9-trEvlQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Geostar",
+      "files": [
+        "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOftS-9-trEvlQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/geostar/v27/sykz-yx4n701VLOftS-9-trEvlQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Geostar",
+      "styles": [
+        {
+          "family_name": "Geostar",
+          "type": "Regular",
+          "full_name": "Geostar",
+          "post_script_name": "Geostar-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Geostar.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sykz-yx4n701VLOftSq9-trEvlQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

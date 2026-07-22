@@ -1,0 +1,58 @@
+{
+  "slug": "google/butcherman",
+  "name": "butcherman",
+  "description": "Butcherman is a zombified display font, hacked and chopped and left for dead, yet still crawling.",
+  "homepage": "https://fonts.google.com/specimen/Butcherman",
+  "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Butcherman",
+      "files": [
+        "https://fonts.gstatic.com/s/butcherman/v25/2EbiL-thF0loflXUBOdb1zWzq_5uT84.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/butcherman/v25/2EbiL-thF0loflXUBOdb1zWzq_5uT84.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Butcherman",
+      "files": [
+        "https://fonts.gstatic.com/s/butcherman/v25/2EbiL-thF0loflXUBOdb1zCzq_5uT84.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/butcherman/v25/2EbiL-thF0loflXUBOdb1zCzq_5uT84.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Butcherman",
+      "styles": [
+        {
+          "family_name": "Butcherman",
+          "type": "Regular",
+          "full_name": "Butcherman Regular",
+          "post_script_name": "Butcherman-Regular",
+          "version": "001.004 ",
+          "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name  \"Butcherman\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2EbiL-thF0loflXUBOdb1zWzq_5uT84.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

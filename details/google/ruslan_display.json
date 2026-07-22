@@ -1,0 +1,58 @@
+{
+  "slug": "google/ruslan_display",
+  "name": "ruslan_display",
+  "description": "The Ruslan Display font is based on a 1970s typeface made by Ukrainian designer Oleg Snarsky, which evokes the ustav and semiustav styles of the 11th–16th centuries, known as the Ruthenian period. This is featured in the signage of Kiev's Teremky metro station, and in a collection of Snarsky's typefaces in the book “Шрифты-алфавиты для рекламных и декоративно-оформительских работ“ published in 1979 and available online . It was digitized and extended with an original Latin complement by Russian designer Denis Masharov, in collaboration with Vladimir Rabdu, in 2011. The name means ‘lion’ . Suitable for lettering, Ruslan Display can also be used to set short texts and supports Latin and Cyrillic.",
+  "homepage": "https://fonts.google.com/specimen/Ruslan+Display",
+  "copyright": "Copyright 2011 Oleg Snarsky, Denis Masharov, Vladimir Rabdu.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ruslan Display",
+      "files": [
+        "https://fonts.gstatic.com/s/ruslandisplay/v27/Gw6jwczl81XcIZuckK_e3UpfdzxrldyFvm1n.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ruslandisplay/v27/Gw6jwczl81XcIZuckK_e3UpfdzxrldyFvm1n.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ruslan Display",
+      "files": [
+        "https://fonts.gstatic.com/s/ruslandisplay/v27/Gw6jwczl81XcIZuckK_e3UpfdzxuldyFvm1n.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ruslandisplay/v27/Gw6jwczl81XcIZuckK_e3UpfdzxuldyFvm1n.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ruslan Display",
+      "styles": [
+        {
+          "family_name": "Ruslan Display",
+          "type": "Regular",
+          "full_name": "Ruslan Display Regular",
+          "post_script_name": "RuslanDisplay",
+          "version": "1.001",
+          "copyright": "Copyright 2011 Oleg Snarsky, Denis Masharov, Vladimir Rabdu.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gw6jwczl81XcIZuckK_e3UpfdzxrldyFvm1n.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

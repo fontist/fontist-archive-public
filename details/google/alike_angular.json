@@ -1,0 +1,58 @@
+{
+  "slug": "google/alike_angular",
+  "name": "alike_angular",
+  "description": "Alike Angular is a complementary titling style to Alike . It shares the same proportions as its counterpart for compatibility, and is designed for larger display sizes. As opposed to the soft Regular, its letterforms consist of only straight splines. Additional expressive features are introduced in characters like T, Z, M, E. Designed by Sveta Sebyakina in 2009, and in collaboration with Alexei Vanyashin it was first released in 2011 by Cyreal. To contribute to the project, visit github.com/cyrealtype/Alike-Angular",
+  "homepage": "https://fonts.google.com/specimen/Alike+Angular",
+  "copyright": "Copyright 2009 The Alike Angular Project Authors (https://github.com/cyrealtype/Alike-Angular) with Reserved Font Name \"Alike\" and \"Alike Angular\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alike Angular",
+      "files": [
+        "https://fonts.gstatic.com/s/alikeangular/v27/3qTrojWunjGQtEBlIcwMbSoI3kM6bB7FKjE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alikeangular/v27/3qTrojWunjGQtEBlIcwMbSoI3kM6bB7FKjE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alike Angular",
+      "files": [
+        "https://fonts.gstatic.com/s/alikeangular/v27/3qTrojWunjGQtEBlIcwMbSoI3kY6bB7FKjE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alikeangular/v27/3qTrojWunjGQtEBlIcwMbSoI3kY6bB7FKjE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alike Angular",
+      "styles": [
+        {
+          "family_name": "Alike Angular",
+          "type": "Regular",
+          "full_name": "Alike Angular Regular",
+          "post_script_name": "AlikeAngular-Regular",
+          "version": "1.300; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2009 The Alike Angular Project Authors (https://github.com/cyrealtype/Alike-Angular) with Reserved Font Name \"Alike\" and \"Alike Angular\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qTrojWunjGQtEBlIcwMbSoI3kM6bB7FKjE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

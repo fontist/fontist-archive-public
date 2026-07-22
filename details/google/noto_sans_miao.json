@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_miao",
+  "name": "noto_sans_miao",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Miao is an unmodulated (“sans serif”) design for texts in the East Asian Pollard Phonetic script. It has 365 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Miao",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/miao)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Miao",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmiao/v19/Dxxz8jmXMW75w3OmoDXVV4zyZUjgUYVslLhx.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmiao/v19/Dxxz8jmXMW75w3OmoDXVV4zyZUjgUYVslLhx.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Miao",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmiao/v19/Dxxz8jmXMW75w3OmoDXVV4zyZUjlUYVslLhx.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmiao/v19/Dxxz8jmXMW75w3OmoDXVV4zyZUjlUYVslLhx.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Miao",
+      "styles": [
+        {
+          "family_name": "Noto Sans Miao",
+          "type": "Regular",
+          "full_name": "Noto Sans Miao Regular",
+          "post_script_name": "NotoSansMiao-Regular",
+          "version": "2.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/miao)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Dxxz8jmXMW75w3OmoDXVV4zyZUjgUYVslLhx.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

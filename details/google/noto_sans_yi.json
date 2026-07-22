@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_yi",
+  "name": "noto_sans_yi",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Yi is an unmodulated (“sans serif”) design for texts in the East Asian Yi script. It has 1,251 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Yi",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Yi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansyi/v22/sJoD3LFXjsSdcnzn071rO3apxVDJNVgSNg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansyi/v22/sJoD3LFXjsSdcnzn071rO3apxVDJNVgSNg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Yi",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansyi/v22/sJoD3LFXjsSdcnzn071rO3apwFDJNVgSNg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansyi/v22/sJoD3LFXjsSdcnzn071rO3apwFDJNVgSNg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Yi",
+      "styles": [
+        {
+          "family_name": "Noto Sans Yi",
+          "type": "Regular",
+          "full_name": "Noto Sans Yi Regular",
+          "post_script_name": "NotoSansYi-Regular",
+          "version": "2.002; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/yi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoD3LFXjsSdcnzn071rO3apxVDJNVgSNg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

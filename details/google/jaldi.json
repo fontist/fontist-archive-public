@@ -1,0 +1,77 @@
+{
+  "slug": "google/jaldi",
+  "name": "jaldi",
+  "description": "Jaldi is the Hindi word for soon, and the typeface family is a contemporary sans-serif Devanagari with subtle rounded corners. Designed by Nicolas Silva and Pablo Cosgaya, Jaldi is developed to match with the Latin design of the Asap family , named after the acronym \"As Soon As Possible.\" This family is specially developed for screen reading and use as a webfont, and like Asap is has a special twist: Jaldi offers a standardised character width on all styles, which means that lines of text always remain the same length. This useful feature allows users to change type styles on-the-go without reflowing text bodies. Asap is based on Ancha, designed by Pablo Cosgaya and Hector Gatti in collaboration with Andres Torresi. This project is led by Omnibus Type, a type foundry based in Argentina. To contribute, visit github.com/Omnibus-Type/Jaldi .",
+  "homepage": "https://fonts.google.com/specimen/Jaldi",
+  "copyright": "Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Jaldi",
+      "files": [
+        "https://fonts.gstatic.com/s/jaldi/v14/or3sQ67z0_CI30NUZpD_B6g8.ttf",
+        "https://fonts.gstatic.com/s/jaldi/v14/or3hQ67z0_CI33voSbT3LLQ1niPn.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jaldi/v14/or3sQ67z0_CI30NUZpD_B6g8.ttf",
+        "https://fonts.gstatic.com/s/jaldi/v14/or3hQ67z0_CI33voSbT3LLQ1niPn.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Jaldi",
+      "files": [
+        "https://fonts.gstatic.com/s/jaldi/v14/or3sQ67z0_CI30NRZpD_B6g8.woff2",
+        "https://fonts.gstatic.com/s/jaldi/v14/or3hQ67z0_CI33voSbTyLLQ1niPn.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/jaldi/v14/or3sQ67z0_CI30NRZpD_B6g8.woff2",
+        "https://fonts.gstatic.com/s/jaldi/v14/or3hQ67z0_CI33voSbTyLLQ1niPn.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jaldi",
+      "styles": [
+        {
+          "family_name": "Jaldi",
+          "type": "Regular",
+          "full_name": "Jaldi",
+          "post_script_name": "Jaldi-Regular",
+          "version": "1.007",
+          "copyright": "Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+          "variable_font": false,
+          "font": "or3sQ67z0_CI30NUZpD_B6g8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Jaldi",
+          "type": "Bold",
+          "full_name": "Jaldi Bold",
+          "post_script_name": "Jaldi-Bold",
+          "version": "1.007",
+          "copyright": "Copyright (c) 2011-2015, Omnibus-Type (www.omnibus-type.com omnibus.type@gmail.com) with Reserved Font Name 'Jaldi' and 'Asap'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. ",
+          "variable_font": false,
+          "font": "or3hQ67z0_CI33voSbT3LLQ1niPn.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

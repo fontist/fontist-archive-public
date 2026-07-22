@@ -1,0 +1,77 @@
+{
+  "slug": "google/ropa_sans",
+  "name": "ropa_sans",
+  "description": "Ropa Sans is an open-source subset of the Ropa Sans Pro family. Ropa Sans Pro consists of 8 weights plus extra designed italics and small caps, with extensive coverage of Latin and essential coverage of Cyrillic and Greek scripts, and is available commercially from lettersoup.de . This Open Font License version, Ropa Sans, consists of the regular weight and the corresponding italic, and covers Latin-based languages only. While the upright styles pay a distant homage to the technical aesthetics of the early-20th century DIN series, the strongly humanistic italics breathe in quirky freshness and create a unique flavour. The step to a remarkable Italic with its extreme ink-traps caused a hard change of nearly all shapes of the first slices of Roman.",
+  "homepage": "https://fonts.google.com/specimen/Ropa+Sans",
+  "copyright": "Copyright 2013 The Ropa Sans Project Authors (nikoltchev@lettersoup.de), with Reserved Font Name \"Ropa Sans\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ropa Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/ropasans/v16/EYqxmaNOzLlWtsZSScyKWjloU5KP2g.ttf",
+        "https://fonts.gstatic.com/s/ropasans/v16/EYq3maNOzLlWtsZSScy6WDNscZef2mNE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ropasans/v16/EYqxmaNOzLlWtsZSScyKWjloU5KP2g.ttf",
+        "https://fonts.gstatic.com/s/ropasans/v16/EYq3maNOzLlWtsZSScy6WDNscZef2mNE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ropa Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/ropasans/v16/EYqxmaNOzLlWtsZSScyKXzloU5KP2g.woff2",
+        "https://fonts.gstatic.com/s/ropasans/v16/EYq3maNOzLlWtsZSScy6WDNpcZef2mNE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ropasans/v16/EYqxmaNOzLlWtsZSScyKXzloU5KP2g.woff2",
+        "https://fonts.gstatic.com/s/ropasans/v16/EYq3maNOzLlWtsZSScy6WDNpcZef2mNE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ropa Sans",
+      "styles": [
+        {
+          "family_name": "Ropa Sans",
+          "type": "Regular",
+          "full_name": "Ropa Sans Regular",
+          "post_script_name": "RopaSans-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2013 The Ropa Sans Project Authors (nikoltchev@lettersoup.de), with Reserved Font Name \"Ropa Sans\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EYqxmaNOzLlWtsZSScyKWjloU5KP2g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Ropa Sans",
+          "type": "Italic",
+          "full_name": "Ropa Sans Italic",
+          "post_script_name": "RopaSans-Italic",
+          "version": "1.100",
+          "copyright": "Copyright 2013 The Ropa Sans Project Authors (nikoltchev@lettersoup.de), with Reserved Font Name \"Ropa Sans\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EYq3maNOzLlWtsZSScy6WDNscZef2mNE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

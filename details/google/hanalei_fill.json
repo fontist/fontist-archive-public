@@ -1,0 +1,58 @@
+{
+  "slug": "google/hanalei_fill",
+  "name": "hanalei_fill",
+  "description": "Hanalei Fill is for the Polynesian fan. Inspired by the bamboo lettering of the iconic Mai Kai restaurant logo, Hanalei Fill has all the flavor of the genre without compromise. Great for titling and larger typesetting. Hanalei Fill is a compliment to Hanalei (the outline version.) Designed by Brian J. Bonislawsky for Astigmatic (AOETI). To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Hanalei+Fill",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Hanalei Fill\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Hanalei Fill",
+      "files": [
+        "https://fonts.gstatic.com/s/hanaleifill/v23/fC1mPYtObGbfyQznIaQzPQiMVwLBplm9aw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hanaleifill/v23/fC1mPYtObGbfyQznIaQzPQiMVwLBplm9aw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Hanalei Fill",
+      "files": [
+        "https://fonts.gstatic.com/s/hanaleifill/v23/fC1mPYtObGbfyQznIaQzPQiMUgLBplm9aw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/hanaleifill/v23/fC1mPYtObGbfyQznIaQzPQiMUgLBplm9aw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hanalei Fill",
+      "styles": [
+        {
+          "family_name": "Hanalei Fill",
+          "type": "Regular",
+          "full_name": "Hanalei Fill",
+          "post_script_name": "HanaleiFill-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Hanalei Fill\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "fC1mPYtObGbfyQznIaQzPQiMVwLBplm9aw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

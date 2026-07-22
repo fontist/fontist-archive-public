@@ -1,0 +1,58 @@
+{
+  "slug": "google/miltonian_tattoo",
+  "name": "miltonian_tattoo",
+  "description": "Miltonian is a fun 'tattoo' font; this is the Tattoo variant with filled-in forms. For nice effects, the two fonts can be combined by overlaying them. Also included are a few dingbats that can be used for decoration. Updated: January 2016 to version 1.008",
+  "homepage": "https://fonts.google.com/specimen/Miltonian+Tattoo",
+  "copyright": "Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). Igino Marini (www.ikern.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Miltonian Tattoo",
+      "files": [
+        "https://fonts.gstatic.com/s/miltoniantattoo/v34/EvOUzBRL0o0kCxF-lcMCQxlpVsA_FwP8MDBku-s.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/miltoniantattoo/v34/EvOUzBRL0o0kCxF-lcMCQxlpVsA_FwP8MDBku-s.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Miltonian Tattoo",
+      "files": [
+        "https://fonts.gstatic.com/s/miltoniantattoo/v34/EvOUzBRL0o0kCxF-lcMCQxlpVsA_Fwb8MDBku-s.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/miltoniantattoo/v34/EvOUzBRL0o0kCxF-lcMCQxlpVsA_Fwb8MDBku-s.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Miltonian Tattoo",
+      "styles": [
+        {
+          "family_name": "Miltonian Tattoo",
+          "type": "Regular",
+          "full_name": "Miltonian Tattoo",
+          "post_script_name": "MiltonianTattoo-Regular",
+          "version": "1.008",
+          "copyright": "Copyright (c) 2011 by Pablo Impallari (www.impallari.com impallari@gmail.com). Igino Marini (www.ikern.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EvOUzBRL0o0kCxF-lcMCQxlpVsA_FwP8MDBku-s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

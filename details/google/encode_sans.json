@@ -1,0 +1,253 @@
+{
+  "slug": "google/encode_sans",
+  "name": "encode_sans",
+  "description": "Encode Sans is a versatile workhorse sans-serif superfamily ready for all kinds of typographic challenges, offering a unique blend of warmth and practicality. Its humanist aspects of simple letterforms and open apertures keep it crisp and legible, while its geometric approach of rounded letters with partially-straightened sides delivers a friendly but precise tone. It includes 5 widths from Condensed to Expanded, each with 9 weights from Light to Black. To simplify the use of smallcaps in word processors, there are also small-cap versions of each family. This project was initially designed by Pablo Impallari and Andres Torresi, refined by Jacques Le Bailly, and upgraded as a variable font by Stephen Nixon and Marc Foley. To contribute, see github.com/thundernixon/Encode-Sans",
+  "homepage": "https://fonts.google.com/specimen/Encode+Sans",
+  "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Encode Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtCP7FJCt2c.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtCP7FJCt2c.woff2",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtCP7FJCt2c.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Encode Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtWP7FJCt2c.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtWP7FJCt2c.ttf",
+        "https://fonts.gstatic.com/s/encodesans/v23/LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtWP7FJCt2c.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Encode Sans Thin",
+      "styles": [
+        {
+          "family_name": "Encode Sans Thin",
+          "type": "Regular",
+          "full_name": "Encode Sans Thin",
+          "post_script_name": "EncodeSans-Thin",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHiZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Encode Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Encode Sans ExtraLight",
+          "post_script_name": "EncodeSans-ExtraLight",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHjZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans Light",
+      "styles": [
+        {
+          "family_name": "Encode Sans Light",
+          "type": "Regular",
+          "full_name": "Encode Sans Light",
+          "post_script_name": "EncodeSans-Light",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGD_jZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans",
+      "styles": [
+        {
+          "family_name": "Encode Sans",
+          "type": "Regular",
+          "full_name": "Encode Sans Regular",
+          "post_script_name": "EncodeSans-Regular",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGGHjZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Encode Sans",
+          "type": "Bold",
+          "full_name": "Encode Sans Bold",
+          "post_script_name": "EncodeSans-Bold",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGIbkZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans Medium",
+      "styles": [
+        {
+          "family_name": "Encode Sans Medium",
+          "type": "Regular",
+          "full_name": "Encode Sans Medium",
+          "post_script_name": "EncodeSans-Medium",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGFPjZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Encode Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Encode Sans SemiBold",
+          "post_script_name": "EncodeSans-SemiBold",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGL_kZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Encode Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Encode Sans ExtraBold",
+          "post_script_name": "EncodeSans-ExtraBold",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGOHkZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Encode Sans Black",
+      "styles": [
+        {
+          "family_name": "Encode Sans Black",
+          "type": "Regular",
+          "full_name": "Encode Sans Black",
+          "post_script_name": "EncodeSans-Black",
+          "version": "3.002",
+          "copyright": "Copyright 2020 The Encode Project Authors (https://github.com/thundernixon/Encode-Sans), with Reserved Font Name 'Encode Sans'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "LDIcapOFNxEwR-Bd1O9uYNmnUQomAgE25imKSbHhROjLsZBWTSrQGMjkZtWP7FJCt2c.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

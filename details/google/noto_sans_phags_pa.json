@@ -1,0 +1,39 @@
+{
+  "slug": "google/noto_sans_phags_pa",
+  "name": "Noto Sans Phags Pa",
+  "description": "Noto Sans Phags Pa",
+  "homepage": "http://www.google.com/get/noto/",
+  "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "Noto Sans Phags Pa": {
+      "source": "google",
+      "family": "Noto Sans Phags Pa",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansphagspa/v15/pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChkqkSsrvNXiA.ttf"
+      ],
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans PhagsPa",
+      "styles": [
+        {
+          "family_name": "Noto Sans PhagsPa",
+          "type": "Regular",
+          "full_name": "Noto Sans PhagsPa Regular",
+          "post_script_name": "NotoSansPhagsPa-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+          "description": "Designed by Monotype design team.",
+          "font": "pxiZyoo6v8ZYyWh5WuPeJzMkd4SrGChkqkSsrvNXiA.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

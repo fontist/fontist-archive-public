@@ -1,0 +1,58 @@
+{
+  "slug": "google/coming_soon",
+  "name": "coming_soon",
+  "description": "Coming Soon by Open Window is based on the handwriting from mom when she was in 6th grade. Solid balance, masterful strokes, and just a touch of lemonade stand for good measure!",
+  "homepage": "https://fonts.google.com/specimen/Coming+Soon",
+  "copyright": "Copyright (c) 2010 by Open Window. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Coming Soon",
+      "files": [
+        "https://fonts.gstatic.com/s/comingsoon/v20/qWcuB6mzpYL7AJ2VfdQR1u-SUjjzsykh.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/comingsoon/v20/qWcuB6mzpYL7AJ2VfdQR1u-SUjjzsykh.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Coming Soon",
+      "files": [
+        "https://fonts.gstatic.com/s/comingsoon/v20/qWcuB6mzpYL7AJ2VfdQR1u-XUjjzsykh.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/comingsoon/v20/qWcuB6mzpYL7AJ2VfdQR1u-XUjjzsykh.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Coming Soon",
+      "styles": [
+        {
+          "family_name": "Coming Soon",
+          "type": "Regular",
+          "full_name": "Coming Soon Regular",
+          "post_script_name": "ComingSoon-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010 by Open Window. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "qWcuB6mzpYL7AJ2VfdQR1u-SUjjzsykh.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

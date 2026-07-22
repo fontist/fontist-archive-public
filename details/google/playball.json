@@ -1,0 +1,58 @@
+{
+  "slug": "google/playball",
+  "name": "playball",
+  "description": "An athletic look was the inspiration for Playball. Take advantage of the sweeping swashes to give a true sports look. Perfect for baseball banners and the like. Playball comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/play-ball .",
+  "homepage": "https://fonts.google.com/specimen/Playball",
+  "copyright": "Copyright 2011 The Playball Project Authors (https://github.com/googlefonts/play-ball)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playball",
+      "files": [
+        "https://fonts.gstatic.com/s/playball/v22/TK3gWksYAxQ7jbsKcj8Dl-tPKo2t.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playball/v22/TK3gWksYAxQ7jbsKcj8Dl-tPKo2t.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playball",
+      "files": [
+        "https://fonts.gstatic.com/s/playball/v22/TK3gWksYAxQ7jbsKcj8Gl-tPKo2t.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playball/v22/TK3gWksYAxQ7jbsKcj8Gl-tPKo2t.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playball",
+      "styles": [
+        {
+          "family_name": "Playball",
+          "type": "Regular",
+          "full_name": "Playball Regular",
+          "post_script_name": "Playball-Regular",
+          "version": "1.010",
+          "copyright": "Copyright 2011 The Playball Project Authors (https://github.com/googlefonts/play-ball)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TK3gWksYAxQ7jbsKcj8Dl-tPKo2t.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

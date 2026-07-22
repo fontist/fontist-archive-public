@@ -1,0 +1,77 @@
+{
+  "slug": "google/xanh_mono",
+  "name": "xanh_mono",
+  "description": "Xanh Mono is a mono-serif typeface, designed by Lam Bao and Duy Dao. In Vietnamese, “Xanh” has a lot of meanings, including blue; green; young; etc. We believe that Xanh Mono will not only present a fresh and gentle look, but also a stylish and unique approach for both reading and display purposes. Xanh Mono là một mặt chữ mono có chân, được thiết kế bởi Lâm Bảo và Duy Đào từ xưởng đúc chữ kĩ thuật số đầu tiên tại Việt Nam, còn được biết đến là Yellow Type Foundry. Xanh Mono theo sự lắng đọng, nhẹ nhàng nhưng vẫn đủ cá tính để vừa sử dụng cho trải nghiệm đọc và tiêu đề lớn.Bảo và Duy hy vọng Xanh Mono sẽ là sự lựa chọn phông chữ tuyệt vời dành cho bạn. To contribute see https://github.com/yellow-type-foundry/xanhmono .",
+  "homepage": "https://fonts.google.com/specimen/Xanh+Mono",
+  "copyright": "Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry/xanhmono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Xanh Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70YjykVmvKCep-vWhSYmACQXzLhTg.ttf",
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70ejykVmvKCep-vWhSomgqUfTfxTo24.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70YjykVmvKCep-vWhSYmACQXzLhTg.ttf",
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70ejykVmvKCep-vWhSomgqUfTfxTo24.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Xanh Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70YjykVmvKCep-vWhSYnQCQXzLhTg.woff2",
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70ejykVmvKCep-vWhSomgqRfTfxTo24.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70YjykVmvKCep-vWhSYnQCQXzLhTg.woff2",
+        "https://fonts.gstatic.com/s/xanhmono/v19/R70ejykVmvKCep-vWhSomgqRfTfxTo24.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Xanh Mono",
+      "styles": [
+        {
+          "family_name": "Xanh Mono",
+          "type": "Regular",
+          "full_name": "Xanh Mono Regular",
+          "post_script_name": "XanhMono-Regular",
+          "version": "3.101; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry/xanhmono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "R70YjykVmvKCep-vWhSYmACQXzLhTg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Xanh Mono",
+          "type": "Italic",
+          "full_name": "Xanh Mono Italic",
+          "post_script_name": "XanhMono-Italic",
+          "version": "3.101; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The XanhMono Project Authors (https://github.com/yellow-type-foundry/xanhmono)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "R70ejykVmvKCep-vWhSomgqUfTfxTo24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

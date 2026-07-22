@@ -1,0 +1,116 @@
+{
+  "slug": "google/simonetta",
+  "name": "simonetta",
+  "description": "The Simonetta font is named in honour of Simonetta Vespucci. She was considered to be the most beautiful woman in Renaissance Florence and was nicknamed 'La Bella Simonetta.' She was a model for Sandro Botticelli's painting 'The Birth of Venus' and many of his other female characters. The Simonetta font is inspired by Italian Humanistic typefaces, but it is contemporary and has many original features. It has one-sided serifs and soft drops, is slightly slanted (some two degrees) and the Italics have the same slant. The Romans and Italics differ from each other only in their shapes, with the italics being much more calligraphic and angular. Designed by Gayaneh Bagdasaryan for Brownfox. To contribute to the project contact Gayaneh Bagdasaryan .",
+  "homepage": "https://fonts.google.com/specimen/Simonetta",
+  "copyright": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Simonetta",
+      "files": [
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dickHVYrCU5BU15c4BfPACvy_1BA.ttf",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dkckHVYrCU5BU15c4xfvoGnSrlBBsy.ttf",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dnckHVYrCU5BU15c45-N0mtwTpDQIrGg.ttf",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3d5ckHVYrCU5BU15c4xfsKCsA7tLwc7Gn88.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dickHVYrCU5BU15c4BfPACvy_1BA.ttf",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dkckHVYrCU5BU15c4xfvoGnSrlBBsy.ttf",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dnckHVYrCU5BU15c45-N0mtwTpDQIrGg.ttf",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3d5ckHVYrCU5BU15c4xfsKCsA7tLwc7Gn88.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Simonetta",
+      "files": [
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dickHVYrCU5BU15c4BefACvy_1BA.woff2",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dkckHVYrCU5BU15c4xfvoDnSrlBBsy.woff2",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dnckHVYrCU5BU15c45-N0msgTpDQIrGg.woff2",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3d5ckHVYrCU5BU15c4xfsKCsA7oLwc7Gn88.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dickHVYrCU5BU15c4BefACvy_1BA.woff2",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dkckHVYrCU5BU15c4xfvoDnSrlBBsy.woff2",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3dnckHVYrCU5BU15c45-N0msgTpDQIrGg.woff2",
+        "https://fonts.gstatic.com/s/simonetta/v29/x3d5ckHVYrCU5BU15c4xfsKCsA7oLwc7Gn88.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Simonetta",
+      "styles": [
+        {
+          "family_name": "Simonetta",
+          "type": "Regular",
+          "full_name": "Simonetta Regular",
+          "post_script_name": "Simonetta-Regular",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+          "variable_font": false,
+          "font": "x3dickHVYrCU5BU15c4BfPACvy_1BA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Simonetta",
+          "type": "Italic",
+          "full_name": "Simonetta Italic",
+          "post_script_name": "Simonetta-Italic",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+          "variable_font": false,
+          "font": "x3dkckHVYrCU5BU15c4xfvoGnSrlBBsy.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Simonetta Black",
+      "styles": [
+        {
+          "family_name": "Simonetta Black",
+          "type": "Regular",
+          "full_name": "Simonetta Black",
+          "post_script_name": "Simonetta-Black",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+          "variable_font": false,
+          "font": "x3dnckHVYrCU5BU15c45-N0mtwTpDQIrGg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Simonetta Black",
+          "type": "Italic",
+          "full_name": "Simonetta Black Italic",
+          "post_script_name": "Simonetta-BlackItalic",
+          "version": "1.004",
+          "copyright": "Copyright (c) 2011-2012, Brownfox (www.brownfox.org gayaneh.b@gmail.com), with Reserved Font Name \"Simonetta\"",
+          "variable_font": false,
+          "font": "x3d5ckHVYrCU5BU15c4xfsKCsA7tLwc7Gn88.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

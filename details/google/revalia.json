@@ -1,0 +1,58 @@
+{
+  "slug": "google/revalia",
+  "name": "revalia",
+  "description": "Revalia is a display sans-serif typeface design, loosely based on the packaging labels of 20th century canned goods. The design has a high x-height, wide letter shapes and the design flirts with medieval letterforms. To contribute to the project contact Johan Kallas and Mihkel Virkus .",
+  "homepage": "https://fonts.google.com/specimen/Revalia",
+  "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011, Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name Revalia.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Revalia",
+      "files": [
+        "https://fonts.gstatic.com/s/revalia/v24/WwkexPimBE2-4ZPEeVruNIgJSNM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/revalia/v24/WwkexPimBE2-4ZPEeVruNIgJSNM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Revalia",
+      "files": [
+        "https://fonts.gstatic.com/s/revalia/v24/WwkexPimBE2-4ZPEeV_uNIgJSNM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/revalia/v24/WwkexPimBE2-4ZPEeV_uNIgJSNM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Revalia",
+      "styles": [
+        {
+          "family_name": "Revalia",
+          "type": "Regular",
+          "full_name": "Revalia-Regular",
+          "post_script_name": "Revalia-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Johan Kallas (johankallas@gmail.com), Copyright (c) 2011, Mihkel Virkus (mihkelvirkus@gmail.com), with Reserved Font Name Revalia.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WwkexPimBE2-4ZPEeVruNIgJSNM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

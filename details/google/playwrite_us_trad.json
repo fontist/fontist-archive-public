@@ -1,0 +1,136 @@
+{
+  "slug": "google/playwrite_us_trad",
+  "name": "playwrite_us_trad",
+  "description": "Playwrite US Trad font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+US+Trad",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Playwrite US Trad",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8pgiqKf5uBNig.woff2",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1k8tgiqKf5uBNig.woff2",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1TctgiqKf5uBNig.woff2",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgiqKf5uBNig.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8pgiqKf5uBNig.woff2",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1k8tgiqKf5uBNig.woff2",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1TctgiqKf5uBNig.woff2",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgiqKf5uBNig.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Playwrite US Trad",
+      "files": [
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8pgj6Kf5uBNig.ttf",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1k8tgj6Kf5uBNig.ttf",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1Tctgj6Kf5uBNig.ttf",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgj6Kf5uBNig.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8pgj6Kf5uBNig.ttf",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1k8tgj6Kf5uBNig.ttf",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1Tctgj6Kf5uBNig.ttf",
+        "https://fonts.gstatic.com/s/playwriteustrad/v11/fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgj6Kf5uBNig.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite US Trad Thin",
+      "styles": [
+        {
+          "family_name": "Playwrite US Trad Thin",
+          "type": "Regular",
+          "full_name": "Playwrite US Trad Thin",
+          "post_script_name": "PlaywriteUSTrad-Thin",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8pgj6Kf5uBNig.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite US Trad ExtraLight",
+      "styles": [
+        {
+          "family_name": "Playwrite US Trad ExtraLight",
+          "type": "Regular",
+          "full_name": "Playwrite US Trad ExtraLight",
+          "post_script_name": "PlaywriteUSTrad-ExtraLight",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1k8tgj6Kf5uBNig.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite US Trad Light",
+      "styles": [
+        {
+          "family_name": "Playwrite US Trad Light",
+          "type": "Regular",
+          "full_name": "Playwrite US Trad Light",
+          "post_script_name": "PlaywriteUSTrad-Light",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1Tctgj6Kf5uBNig.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Playwrite US Trad",
+      "styles": [
+        {
+          "family_name": "Playwrite US Trad",
+          "type": "Regular",
+          "full_name": "Playwrite US Trad Regular",
+          "post_script_name": "PlaywriteUSTrad-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "fdNX9tyHsnVPjW9trmV7wQ0stdwRBYclCsCdzOb1-cd1E8tgj6Kf5uBNig.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

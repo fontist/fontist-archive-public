@@ -1,0 +1,115 @@
+{
+  "slug": "google/cantarell",
+  "name": "cantarell",
+  "description": "The Cantarell typeface family was designed during Dave Crossland's study of MA Typeface Design in 2009 in the Department of Typography at the University of Reading (UK). The typeface is designed as a contemporary Humanist sans serif, and was developed for on-screen reading; in particular, reading web pages on an HTC Dream mobile phone. This family was developed using only open-source softwares, mainly FontForge. Typeface designs are tools too, and therefore these font files are licensed in a way that respects your freedom — you are invited to extend them to meet your needs, such as to add the glyphs missing from your own writing systems, under the terms of the Open Font License. In October 2022 some metadata were fixed such as license clification, style name and style linking. Users may notice that the style \"Oblique\" has changed to \"Italic\". To contribute, see github.com/davelab6/cantarell .",
+  "homepage": "https://fonts.google.com/specimen/Cantarell",
+  "copyright": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cantarell",
+      "files": [
+        "https://fonts.gstatic.com/s/cantarell/v18/B50NF7ZDq37KMUvlO01Ji6hqHK-CLA.ttf",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50LF7ZDq37KMUvlO015iaJuPqqSLJYf.ttf",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50IF7ZDq37KMUvlO01xN4dOFISeJY8GgQ.ttf",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50WF7ZDq37KMUvlO015iZrSEY6aB4oWgWHB.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cantarell/v18/B50NF7ZDq37KMUvlO01Ji6hqHK-CLA.ttf",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50LF7ZDq37KMUvlO015iaJuPqqSLJYf.ttf",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50IF7ZDq37KMUvlO01xN4dOFISeJY8GgQ.ttf",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50WF7ZDq37KMUvlO015iZrSEY6aB4oWgWHB.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cantarell",
+      "files": [
+        "https://fonts.gstatic.com/s/cantarell/v18/B50NF7ZDq37KMUvlO01JjqhqHK-CLA.woff2",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50LF7ZDq37KMUvlO015iaJrPqqSLJYf.woff2",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50IF7ZDq37KMUvlO01xN4dOEYSeJY8GgQ.woff2",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50WF7ZDq37KMUvlO015iZrSEY6fB4oWgWHB.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cantarell/v18/B50NF7ZDq37KMUvlO01JjqhqHK-CLA.woff2",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50LF7ZDq37KMUvlO015iaJrPqqSLJYf.woff2",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50IF7ZDq37KMUvlO01xN4dOEYSeJY8GgQ.woff2",
+        "https://fonts.gstatic.com/s/cantarell/v18/B50WF7ZDq37KMUvlO015iZrSEY6fB4oWgWHB.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cantarell",
+      "styles": [
+        {
+          "family_name": "Cantarell",
+          "type": "Regular",
+          "full_name": "Cantarell Regular",
+          "post_script_name": "Cantarell-Regular",
+          "version": "1.004",
+          "copyright": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "B50NF7ZDq37KMUvlO01Ji6hqHK-CLA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cantarell",
+          "type": "Italic",
+          "full_name": "Cantarell Italic",
+          "post_script_name": "Cantarell-Italic",
+          "version": "1.004",
+          "copyright": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "B50LF7ZDq37KMUvlO015iaJuPqqSLJYf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cantarell",
+          "type": "Bold",
+          "full_name": "Cantarell Bold",
+          "post_script_name": "Cantarell-Bold",
+          "version": "1.004",
+          "copyright": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "B50IF7ZDq37KMUvlO01xN4dOFISeJY8GgQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cantarell",
+          "type": "Bold Italic",
+          "full_name": "Cantarell Bold Italic",
+          "post_script_name": "Cantarell-BoldItalic",
+          "version": "1.004",
+          "copyright": "Copyright 2009 The Cantarell Project Authors (https://github.com/davelab6/cantarell)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "B50WF7ZDq37KMUvlO015iZrSEY6aB4oWgWHB.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

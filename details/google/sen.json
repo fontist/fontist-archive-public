@@ -1,0 +1,155 @@
+{
+  "slug": "google/sen",
+  "name": "sen",
+  "description": "Sen – a Geohumanist sans, is Philatype’s first typeface released under the SIL Open Font License (OFL). Sen is a geometrically constructed sans-serif with a sensible, friendly look. Think of it as a more neutral version of geometric classics such as Avenir or Futura with a humanist touch. It’s unassuming, unique, and most importantly, easy to read. In June 2023, the font is updated as a variable font, going from Regular to ExtraBold. To contribute, please see github.com/philatype/Sen .",
+  "homepage": "https://fonts.google.com/specimen/Sen",
+  "copyright": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Sen",
+      "files": [
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISCq5H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISBi5H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISPS-H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISM2-H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISKq-H4vKlD9q78A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISCq5H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISBi5H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISPS-H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISM2-H4vKlD9q78A.woff2",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISKq-H4vKlD9q78A.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Sen",
+      "files": [
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISCq5H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISBi5H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISPS-H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISM2-H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISKq-H47KlD9q78A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISCq5H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISBi5H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISPS-H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISM2-H47KlD9q78A.ttf",
+        "https://fonts.gstatic.com/s/sen/v12/6xK0dSxYI9_dkN18-vZKK2EISKq-H47KlD9q78A.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sen",
+      "styles": [
+        {
+          "family_name": "Sen",
+          "type": "Regular",
+          "full_name": "Sen Regular",
+          "post_script_name": "Sen-Regular",
+          "version": "2.000;gftools[0.9.31]",
+          "copyright": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6xK0dSxYI9_dkN18-vZKK2EISCq5H47KlD9q78A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sen",
+          "type": "Bold",
+          "full_name": "Sen Bold",
+          "post_script_name": "Sen-Bold",
+          "version": "2.000;gftools[0.9.31]",
+          "copyright": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6xK0dSxYI9_dkN18-vZKK2EISM2-H47KlD9q78A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sen Medium",
+      "styles": [
+        {
+          "family_name": "Sen Medium",
+          "type": "Regular",
+          "full_name": "Sen Medium",
+          "post_script_name": "Sen-Medium",
+          "version": "2.000;gftools[0.9.31]",
+          "copyright": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6xK0dSxYI9_dkN18-vZKK2EISBi5H47KlD9q78A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sen SemiBold",
+      "styles": [
+        {
+          "family_name": "Sen SemiBold",
+          "type": "Regular",
+          "full_name": "Sen SemiBold",
+          "post_script_name": "Sen-SemiBold",
+          "version": "2.000;gftools[0.9.31]",
+          "copyright": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6xK0dSxYI9_dkN18-vZKK2EISPS-H47KlD9q78A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sen ExtraBold",
+      "styles": [
+        {
+          "family_name": "Sen ExtraBold",
+          "type": "Regular",
+          "full_name": "Sen ExtraBold",
+          "post_script_name": "Sen-ExtraBold",
+          "version": "2.000;gftools[0.9.31]",
+          "copyright": "Copyright 2023 The Sen Project Authors (https://github.com/philatype/Sen/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "6xK0dSxYI9_dkN18-vZKK2EISKq-H47KlD9q78A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

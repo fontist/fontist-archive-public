@@ -1,0 +1,58 @@
+{
+  "slug": "google/walter_turncoat",
+  "name": "walter_turncoat",
+  "description": "Contrary to popular lore, Walter Turncoat was NOT a traitor executed during the Revolutionary War. Actually, Walter spent his days carefully executing new typefaces doing his part to help establish a free press! Ever the patriot, Squid honors old Walter with this spiffy font sure to bring out the Yankee Doodle in you. * All characters described above are fictitious with the possible exception of Squid, whose existence remains an ongoing debate. Nevertheless you should check out his other fonts.",
+  "homepage": "https://fonts.google.com/specimen/Walter+Turncoat",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Walter Turncoat",
+      "files": [
+        "https://fonts.gstatic.com/s/walterturncoat/v24/snfys0Gs98ln43n0d-14ULoToe67YB2dQ5ZPqQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/walterturncoat/v24/snfys0Gs98ln43n0d-14ULoToe67YB2dQ5ZPqQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Walter Turncoat",
+      "files": [
+        "https://fonts.gstatic.com/s/walterturncoat/v24/snfys0Gs98ln43n0d-14ULoToe67ZR2dQ5ZPqQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/walterturncoat/v24/snfys0Gs98ln43n0d-14ULoToe67ZR2dQ5ZPqQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Walter Turncoat",
+      "styles": [
+        {
+          "family_name": "Walter Turncoat",
+          "type": "Regular",
+          "full_name": "Walter Turncoat Regular",
+          "post_script_name": "WalterTurncoat-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "snfys0Gs98ln43n0d-14ULoToe67YB2dQ5ZPqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

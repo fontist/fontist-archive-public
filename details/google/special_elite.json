@@ -1,0 +1,58 @@
+{
+  "slug": "google/special_elite",
+  "name": "special_elite",
+  "description": "Special Elite mimics the Smith Corona Special Elite Type Number NR6 and Remington Noiseless typewriter models. A little bit of inked up grunge and a little old school analog flavor work together to give you a vintage typewriter typeface for your website and designs.",
+  "homepage": "https://fonts.google.com/specimen/Special+Elite",
+  "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Special Elite",
+      "files": [
+        "https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0nhncESXFtUsM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0nhncESXFtUsM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Special Elite",
+      "files": [
+        "https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0nhnIESXFtUsM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/specialelite/v20/XLYgIZbkc4JPUL5CVArUVL0nhnIESXFtUsM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Special Elite",
+      "styles": [
+        {
+          "family_name": "Special Elite",
+          "type": "Regular",
+          "full_name": "Special Elite Regular",
+          "post_script_name": "SpecialElite-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "XLYgIZbkc4JPUL5CVArUVL0nhncESXFtUsM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

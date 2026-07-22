@@ -1,0 +1,58 @@
+{
+  "slug": "google/lalezar",
+  "name": "lalezar",
+  "description": "Lalezar is an Arabic and Latin display typeface for popular culture. During the 1960s and 1970s a genre of filmmaking emerged in Iran which was commonly known as Film-Farsi. The main focus of the films produced in this period was on popular subjects such as romances, musicals and unrealistic heroic characters. The movie posters designed to represent these films were also intended to exaggerate these elements by the use of provocative imagery and a particular type of display lettering. These bold and dynamic letterforms were so popular and widely used that perhaps one can consider them the most significant component of film posters in that period. Lalezar is an attempt to revive the appealing qualities in this genre of lettering and transform them into a modern Arabic display typeface and a suitable Latin companion. Although the main inspiration comes from a style of lettering that was used to represent the Persian language, here the objective is to design a typeface that can be used for most of the languages that use the Arabic script for their written communication. The Lalezar project is led by Borna Izadpanah, a type designer based in London, UK. To contribute, see github.com/BornaIz/Lalezar",
+  "homepage": "https://fonts.google.com/specimen/Lalezar",
+  "copyright": "Copyright 2015 The Lalezar Project Authors (https://github.com/BornaIz/Lalezar)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lalezar",
+      "files": [
+        "https://fonts.gstatic.com/s/lalezar/v16/zrfl0HLVx-HwTP82UaDyIiL0RCg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lalezar/v16/zrfl0HLVx-HwTP82UaDyIiL0RCg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lalezar",
+      "files": [
+        "https://fonts.gstatic.com/s/lalezar/v16/zrfl0HLVx-HwTP82UaXyIiL0RCg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lalezar/v16/zrfl0HLVx-HwTP82UaXyIiL0RCg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lalezar",
+      "styles": [
+        {
+          "family_name": "Lalezar",
+          "type": "Regular",
+          "full_name": "Lalezar Regular",
+          "post_script_name": "Lalezar-Regular",
+          "version": "1.004",
+          "copyright": "Copyright 2015 The Lalezar Project Authors (https://github.com/BornaIz/Lalezar)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "zrfl0HLVx-HwTP82UaDyIiL0RCg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

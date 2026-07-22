@@ -1,0 +1,77 @@
+{
+  "slug": "google/abeezee",
+  "name": "abeezee",
+  "description": "ABeeZee is a children's learning font. Open, friendly and simple, the definite shapes support the process of learning to read and write. The italic carefully reminds young readers of fluent writing movements and inspires them to create their own unique handwriting. Learn more at carrois.com . To contribute, see github.com/googlefonts/abeezee .",
+  "homepage": "https://fonts.google.com/specimen/ABeeZee",
+  "copyright": "Copyright 2011 The ABeeZee Project Authors (https://github.com/googlefonts/abeezee) with Reserved Font Name ABeeZee",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "ABeeZee",
+      "files": [
+        "https://fonts.gstatic.com/s/abeezee/v23/esDR31xSG-6AGleN6tKukbcHCpE.ttf",
+        "https://fonts.gstatic.com/s/abeezee/v23/esDT31xSG-6AGleN2tCklZUCGpG-GQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/abeezee/v23/esDR31xSG-6AGleN6tKukbcHCpE.ttf",
+        "https://fonts.gstatic.com/s/abeezee/v23/esDT31xSG-6AGleN2tCklZUCGpG-GQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "ABeeZee",
+      "files": [
+        "https://fonts.gstatic.com/s/abeezee/v23/esDR31xSG-6AGleN6teukbcHCpE.woff2",
+        "https://fonts.gstatic.com/s/abeezee/v23/esDT31xSG-6AGleN2tCkkJUCGpG-GQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/abeezee/v23/esDR31xSG-6AGleN6teukbcHCpE.woff2",
+        "https://fonts.gstatic.com/s/abeezee/v23/esDT31xSG-6AGleN2tCkkJUCGpG-GQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "ABeeZee",
+      "styles": [
+        {
+          "family_name": "ABeeZee",
+          "type": "Regular",
+          "full_name": "ABeeZee Regular",
+          "post_script_name": "ABeeZee-Regular",
+          "version": "1.003; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2011 The ABeeZee Project Authors (https://github.com/googlefonts/abeezee) with Reserved Font Name ABeeZee",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "esDR31xSG-6AGleN6tKukbcHCpE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "ABeeZee",
+          "type": "Italic",
+          "full_name": "ABeeZee Italic",
+          "post_script_name": "ABeeZee-Italic",
+          "version": "1.003; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2011 The ABeeZee Project Authors (https://github.com/googlefonts/abeezee) with Reserved Font Name ABeeZee",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "esDT31xSG-6AGleN2tCklZUCGpG-GQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

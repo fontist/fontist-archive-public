@@ -1,0 +1,58 @@
+{
+  "slug": "google/coral_pixels",
+  "name": "coral_pixels",
+  "description": "Coral Pixels font family",
+  "homepage": "https://fonts.google.com/specimen/Coral+Pixels",
+  "copyright": "Copyright 2024 The Coral Pixels Project Authors (https://github.com/tanukifont/Coral-Pixels)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Coral Pixels",
+      "files": [
+        "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyyeBb_ujA4ug.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyyeBb_ujA4ug.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Coral Pixels",
+      "files": [
+        "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyyfRb_ujA4ug.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/coralpixels/v1/qWctB66zpZ3zAtrlR8Mb1LyyfRb_ujA4ug.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Coral Pixels",
+      "styles": [
+        {
+          "family_name": "Coral Pixels",
+          "type": "Regular",
+          "full_name": "Coral Pixels Regular",
+          "post_script_name": "CoralPixels-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Coral Pixels Project Authors (https://github.com/tanukifont/Coral-Pixels)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "qWctB66zpZ3zAtrlR8Mb1LyyeBb_ujA4ug.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

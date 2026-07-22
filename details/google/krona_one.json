@@ -1,0 +1,58 @@
+{
+  "slug": "google/krona_one",
+  "name": "krona_one",
+  "description": "Foundry: Sorkin Type Co Krona is a low contrast semi-extended style sans serif. Krona is both readable and full of personality. Krona can be used from small sizes to larger display settings. Krona was inspired by hand lettering on early 20th century Swedish posters. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Krona+One",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Krona\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Krona One",
+      "files": [
+        "https://fonts.gstatic.com/s/kronaone/v15/jAnEgHdjHcjgfIb1ZcUCMY-h3cWkWg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kronaone/v15/jAnEgHdjHcjgfIb1ZcUCMY-h3cWkWg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Krona One",
+      "files": [
+        "https://fonts.gstatic.com/s/kronaone/v15/jAnEgHdjHcjgfIb1ZcUCNI-h3cWkWg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kronaone/v15/jAnEgHdjHcjgfIb1ZcUCNI-h3cWkWg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Krona One",
+      "styles": [
+        {
+          "family_name": "Krona One",
+          "type": "Regular",
+          "full_name": "Krona One",
+          "post_script_name": "KronaOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Krona\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jAnEgHdjHcjgfIb1ZcUCMY-h3cWkWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

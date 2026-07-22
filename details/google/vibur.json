@@ -1,0 +1,57 @@
+{
+  "slug": "google/vibur",
+  "name": "vibur",
+  "description": "Vibur is a font based on handwriting. Author of the typeface Johan Kallas set out to create a display font from his own handwriting by making it more pronounced and re-modelling the strokes - making it nicer than his actual handwriting is - that can be used for various typesetting contexts. It comes with numerous ligatures that can be activated with OpenType features. The curvy style is best combined with playful and bright designs.",
+  "homepage": "https://fonts.google.com/specimen/Vibur",
+  "copyright": "Copyright (c) 2010, Johan Kallas (johan.kallas@gmail.com). All rights reserved. Licenced under SIL OFL v1.1",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Vibur",
+      "files": [
+        "https://fonts.gstatic.com/s/vibur/v24/DPEiYwmEzw0QRjTpLjoJd-Xa.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vibur/v24/DPEiYwmEzw0QRjTpLjoJd-Xa.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Vibur",
+      "files": [
+        "https://fonts.gstatic.com/s/vibur/v24/DPEiYwmEzw0QRjTsLjoJd-Xa.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/vibur/v24/DPEiYwmEzw0QRjTsLjoJd-Xa.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Vibur",
+      "styles": [
+        {
+          "family_name": "Vibur",
+          "type": "Medium",
+          "full_name": "Vibur",
+          "post_script_name": "Vibur",
+          "version": "1.004 ",
+          "copyright": "Copyright (c) 2010, Johan Kallas (johan.kallas@gmail.com). All rights reserved. Licenced under SIL OFL v1.1",
+          "variable_font": false,
+          "font": "DPEiYwmEzw0QRjTpLjoJd-Xa.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

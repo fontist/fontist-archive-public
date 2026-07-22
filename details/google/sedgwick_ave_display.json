@@ -1,0 +1,58 @@
+{
+  "slug": "google/sedgwick_ave_display",
+  "name": "sedgwick_ave_display",
+  "description": "The Sedgwick Ave project expresses handwritten graffiti letterforms with two designs: This is Sedgwick Ave Display, intended for larger size usage, accompanied by Sedgwick Ave , ideal for text size usage.",
+  "homepage": "https://fonts.google.com/specimen/Sedgwick+Ave+Display",
+  "copyright": "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sedgwick Ave Display",
+      "files": [
+        "https://fonts.gstatic.com/s/sedgwickavedisplay/v23/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM2czd-YnOzUD.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedgwickavedisplay/v23/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM2czd-YnOzUD.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sedgwick Ave Display",
+      "files": [
+        "https://fonts.gstatic.com/s/sedgwickavedisplay/v23/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM2c2d-YnOzUD.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sedgwickavedisplay/v23/xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM2c2d-YnOzUD.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sedgwick Ave Display",
+      "styles": [
+        {
+          "family_name": "Sedgwick Ave Display",
+          "type": "Regular",
+          "full_name": "Sedgwick Ave Display Regular",
+          "post_script_name": "SedgwickAveDisplay-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xfuu0XPgU3jZPUoUo3ScvmPi-NapQ8OxM2czd-YnOzUD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

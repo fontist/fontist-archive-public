@@ -1,0 +1,58 @@
+{
+  "slug": "google/zen_tokyo_zoo",
+  "name": "zen_tokyo_zoo",
+  "description": "Zen Loop Family is one of three Latin fonts designed by Yoshimichi Ohira, as part of the Zen Fonts collection. Tokyo Zoo was originally designed for an animal exhibition. The stripes suggest zoo cages but overall it’s a fun and stylish design. To contribute, see github.com/googlefonts/zen-tokyo-zoo .",
+  "homepage": "https://fonts.google.com/specimen/Zen+Tokyo+Zoo",
+  "copyright": "Copyright 2021 The Zen Tokyo Zoo Project Authors (https://github.com/googlefonts/zen-tokyo-zoo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zen Tokyo Zoo",
+      "files": [
+        "https://fonts.gstatic.com/s/zentokyozoo/v8/NGSyv5ffC0J_BK6aFNtr6sRv8a1uRWe9amg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zentokyozoo/v8/NGSyv5ffC0J_BK6aFNtr6sRv8a1uRWe9amg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zen Tokyo Zoo",
+      "files": [
+        "https://fonts.gstatic.com/s/zentokyozoo/v8/NGSyv5ffC0J_BK6aFNtr6sRv8ahuRWe9amg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zentokyozoo/v8/NGSyv5ffC0J_BK6aFNtr6sRv8ahuRWe9amg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zen Tokyo Zoo",
+      "styles": [
+        {
+          "family_name": "Zen Tokyo Zoo",
+          "type": "Regular",
+          "full_name": "Zen Tokyo Zoo Regular",
+          "post_script_name": "ZenTokyoZoo-Regular",
+          "version": "1.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Zen Tokyo Zoo Project Authors (https://github.com/googlefonts/zen-tokyo-zoo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "NGSyv5ffC0J_BK6aFNtr6sRv8a1uRWe9amg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

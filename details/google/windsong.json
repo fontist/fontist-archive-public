@@ -1,0 +1,82 @@
+{
+  "slug": "google/windsong",
+  "name": "windsong",
+  "description": "WindSong is a beautiful elongated script with multiple stylistic sets that gives a powerful solution to the design needs of the graphic design professional. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/windsong .",
+  "homepage": "https://fonts.google.com/specimen/WindSong",
+  "copyright": "Copyright 2013 The WindSong Project Authors (https://github.com/googlefonts/windsong)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "WindSong",
+      "files": [
+        "https://fonts.gstatic.com/s/windsong/v13/KR1WBsyu-P-GFEW57r95HdG6vjH3.ttf",
+        "https://fonts.gstatic.com/s/windsong/v13/KR1RBsyu-P-GFEW57oeNNPWylS3-jVXm.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/windsong/v13/KR1WBsyu-P-GFEW57r95HdG6vjH3.ttf",
+        "https://fonts.gstatic.com/s/windsong/v13/KR1RBsyu-P-GFEW57oeNNPWylS3-jVXm.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "WindSong",
+      "files": [
+        "https://fonts.gstatic.com/s/windsong/v13/KR1WBsyu-P-GFEW57r98HdG6vjH3.woff2",
+        "https://fonts.gstatic.com/s/windsong/v13/KR1RBsyu-P-GFEW57oeNNPW3lS3-jVXm.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/windsong/v13/KR1WBsyu-P-GFEW57r98HdG6vjH3.woff2",
+        "https://fonts.gstatic.com/s/windsong/v13/KR1RBsyu-P-GFEW57oeNNPW3lS3-jVXm.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "WindSong",
+      "styles": [
+        {
+          "family_name": "WindSong",
+          "type": "Regular",
+          "full_name": "WindSong Regular",
+          "post_script_name": "WindSong-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The WindSong Project Authors (https://github.com/googlefonts/windsong)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "KR1WBsyu-P-GFEW57r95HdG6vjH3.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WindSong Medium",
+      "styles": [
+        {
+          "family_name": "WindSong Medium",
+          "type": "Regular",
+          "full_name": "WindSong Medium",
+          "post_script_name": "WindSong-Medium",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2013 The WindSong Project Authors (https://github.com/googlefonts/windsong)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "KR1RBsyu-P-GFEW57oeNNPWylS3-jVXm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

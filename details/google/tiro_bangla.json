@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_bangla",
+  "name": "tiro_bangla",
+  "description": "Tiro Bangla has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The design follows manuscript traditions of letterform construction, and was inspired by the proportions and overall texture of handset metal type used by leading Kolkata publishing houses in pre-mechanical typography. For the Open Font License release, Tiro Bangla has been extended to support additional characters, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Bangla was designed by John Hudson and Fiona Ross. The italic was adapted by Neelakash Kshetrimayum. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Bangla",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Bangla",
+      "files": [
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSgHe1Tm95E3O8b5i2V8MG9-UPeuz4i.ttf",
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSiHe1Tm95E3O8b5i2V8PG_80f8vi4imBM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSgHe1Tm95E3O8b5i2V8MG9-UPeuz4i.ttf",
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSiHe1Tm95E3O8b5i2V8PG_80f8vi4imBM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Bangla",
+      "files": [
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSgHe1Tm95E3O8b5i2V8MG4-UPeuz4i.woff2",
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSiHe1Tm95E3O8b5i2V8PG_80L8vi4imBM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSgHe1Tm95E3O8b5i2V8MG4-UPeuz4i.woff2",
+        "https://fonts.gstatic.com/s/tirobangla/v6/IFSiHe1Tm95E3O8b5i2V8PG_80L8vi4imBM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Bangla",
+      "styles": [
+        {
+          "family_name": "Tiro Bangla",
+          "type": "Regular",
+          "full_name": "Tiro Bangla Regular",
+          "post_script_name": "TiroBangla-Regular",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "IFSgHe1Tm95E3O8b5i2V8MG9-UPeuz4i.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Bangla",
+          "type": "Italic",
+          "full_name": "Tiro Bangla Italic",
+          "post_script_name": "TiroBangla-Italic",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "IFSiHe1Tm95E3O8b5i2V8PG_80f8vi4imBM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/linden_hill",
+  "name": "linden_hill",
+  "description": "Linden Hill is a revival of Frederic Goudy’s Deepdene with roman and italic styles. To learn more, see bitbucket.org/sortsmill/sortsmill-fonts and theleagueofmoveabletype.com/linden-hill",
+  "homepage": "https://fonts.google.com/specimen/Linden+Hill",
+  "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\n",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Linden Hill",
+      "files": [
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F61fjxoKSg9Yc3hZgO8ygFI7CwC009k.ttf",
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F63fjxoKSg9Yc3hZgO8yjFK5igg1l9kn-s.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F61fjxoKSg9Yc3hZgO8ygFI7CwC009k.ttf",
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F63fjxoKSg9Yc3hZgO8yjFK5igg1l9kn-s.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Linden Hill",
+      "files": [
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F61fjxoKSg9Yc3hZgO8ygFN7CwC009k.woff2",
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F63fjxoKSg9Yc3hZgO8yjFK5i0g1l9kn-s.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F61fjxoKSg9Yc3hZgO8ygFN7CwC009k.woff2",
+        "https://fonts.gstatic.com/s/lindenhill/v27/-F63fjxoKSg9Yc3hZgO8yjFK5i0g1l9kn-s.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Linden Hill",
+      "styles": [
+        {
+          "family_name": "Linden Hill",
+          "type": "Regular",
+          "full_name": "Linden Hill Regular",
+          "post_script_name": "LindenHill-Regular",
+          "version": "1.202 ",
+          "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\n",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-F61fjxoKSg9Yc3hZgO8ygFI7CwC009k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Linden Hill",
+          "type": "Italic",
+          "full_name": "Linden Hill Italic",
+          "post_script_name": "LindenHill-Italic",
+          "version": "1.201 ",
+          "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\n",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-F63fjxoKSg9Yc3hZgO8yjFK5igg1l9kn-s.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/amarante",
+  "name": "amarante",
+  "description": "Foundry: Sorkin Type Co Amarante is a medium contrast condensed type. It uses unconventional Art Nouveau inspired shapes. Amarante is a display face but works surprisingly well in text and headlines too. Amarante supports a very broad range of languages. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Amarante",
+  "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Amarante\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Amarante",
+      "files": [
+        "https://fonts.gstatic.com/s/amarante/v30/xMQXuF1KTa6EvGx9bq-3C3rAmD-b.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amarante/v30/xMQXuF1KTa6EvGx9bq-3C3rAmD-b.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Amarante",
+      "files": [
+        "https://fonts.gstatic.com/s/amarante/v30/xMQXuF1KTa6EvGx9bq-yC3rAmD-b.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/amarante/v30/xMQXuF1KTa6EvGx9bq-yC3rAmD-b.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Amarante",
+      "styles": [
+        {
+          "family_name": "Amarante",
+          "type": "Regular",
+          "full_name": "Amarante Regular",
+          "post_script_name": "Amarante-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name \"Amarante\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xMQXuF1KTa6EvGx9bq-3C3rAmD-b.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

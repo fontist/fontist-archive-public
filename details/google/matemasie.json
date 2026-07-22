@@ -1,0 +1,58 @@
+{
+  "slug": "google/matemasie",
+  "name": "matemasie",
+  "description": "Matemasie font family",
+  "homepage": "https://fonts.google.com/specimen/Matemasie",
+  "copyright": "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMSS/Matemasie-Font/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Matemasie",
+      "files": [
+        "https://fonts.gstatic.com/s/matemasie/v4/OD5BuMCN3ne3Gmr7dlL3rEq4DL6w2w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/matemasie/v4/OD5BuMCN3ne3Gmr7dlL3rEq4DL6w2w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Matemasie",
+      "files": [
+        "https://fonts.gstatic.com/s/matemasie/v4/OD5BuMCN3ne3Gmr7dlL3qUq4DL6w2w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/matemasie/v4/OD5BuMCN3ne3Gmr7dlL3qUq4DL6w2w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Matemasie",
+      "styles": [
+        {
+          "family_name": "Matemasie",
+          "type": "Regular",
+          "full_name": "Matemasie Regular",
+          "post_script_name": "Matemasie-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Matemasie Project Authors (https://github.com/YADAMSS/Matemasie-Font/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "OD5BuMCN3ne3Gmr7dlL3rEq4DL6w2w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

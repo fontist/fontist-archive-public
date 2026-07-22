@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_cypro_minoan",
+  "name": "noto_sans_cypro_minoan",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Cypro Minoan is a design for the historical European Cypro-Minoan script. It has 104 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Cypro+Minoan",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypro-minoan)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Cypro Minoan",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanscyprominoan/v1/2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGq9eSf8_eQSE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanscyprominoan/v1/2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGq9eSf8_eQSE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Cypro Minoan",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanscyprominoan/v1/2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGq9KSf8_eQSE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanscyprominoan/v1/2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGq9KSf8_eQSE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Cypro Minoan",
+      "styles": [
+        {
+          "family_name": "Noto Sans Cypro Minoan",
+          "type": "Regular",
+          "full_name": "Noto Sans Cypro Minoan Regular",
+          "post_script_name": "NotoSansCyproMinoan-Regular",
+          "version": "1.503; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/cypro-minoan)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2Eb2L_dtDUlkNmPHB_UVtEzp3ZlPGqZ_4nAGq9eSf8_eQSE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

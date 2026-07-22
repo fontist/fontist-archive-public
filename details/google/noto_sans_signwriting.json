@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_signwriting",
+  "name": "noto_sans_signwriting",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans SignWriting is a design for the Sign-Language SignWriting script. It has 37,886 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+SignWriting",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sign-writing)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans SignWriting",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssignwriting/v5/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssignwriting/v5/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans SignWriting",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssignwriting/v5/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssignwriting/v5/Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUFFCARYQemg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans SignWriting",
+      "styles": [
+        {
+          "family_name": "Noto Sans SignWriting",
+          "type": "Regular",
+          "full_name": "Noto Sans SignWriting Regular",
+          "post_script_name": "NotoSansSignWriting-Regular",
+          "version": "2.005; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sign-writing)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Noas6VX_wIWFbTTCrYmvy9A2UnkL-2SZAWiUEVCARYQemg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

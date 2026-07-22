@@ -1,0 +1,58 @@
+{
+  "slug": "google/keania_one",
+  "name": "keania_one",
+  "description": "Keania is a re-development of Kenia . As a stencil font its idea stems from experiences of travel and life in Kenya, especially from the large lettering seen on shop fronts and market stands. The shapes play with sharp and soft corners and create a rhythmic pattern of black and white. This font is great for magazine headings, adverts and sporty content. To contribute to the project contact Julia Petretta .",
+  "homepage": "https://fonts.google.com/specimen/Keania+One",
+  "copyright": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Keania'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Keania One",
+      "files": [
+        "https://fonts.gstatic.com/s/keaniaone/v26/zOL54pXJk65E8pXardnuycRuv-hHkOs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/keaniaone/v26/zOL54pXJk65E8pXardnuycRuv-hHkOs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Keania One",
+      "files": [
+        "https://fonts.gstatic.com/s/keaniaone/v26/zOL54pXJk65E8pXardnuycFuv-hHkOs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/keaniaone/v26/zOL54pXJk65E8pXardnuycFuv-hHkOs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Keania One",
+      "styles": [
+        {
+          "family_name": "Keania One",
+          "type": "Regular",
+          "full_name": "Keania One",
+          "post_script_name": "KeaniaOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Keania'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "zOL54pXJk65E8pXardnuycRuv-hHkOs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

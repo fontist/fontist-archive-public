@@ -1,0 +1,77 @@
+{
+  "slug": "google/allan",
+  "name": "allan",
+  "description": "Once Allan was a sign painter in Berlin. Grey paneling work in the subway, bad materials, a city split in two. Now things have changed. His (character) palette of activities have expanded tremendously: he happily spends time traveling, experimenting in the gastronomic field, all kinds of festivities are no longer foreign to him. He comes with alternate features, and hints. A typeface suited for bigger sizes and display use. Truly a type that you like to see!",
+  "homepage": "https://fonts.google.com/specimen/Allan",
+  "copyright": "Copyright (c) 2010-2012, Anton Koovit (anton@korkork.com), with Reserved Font Name 'Allan'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Allan",
+      "files": [
+        "https://fonts.gstatic.com/s/allan/v26/ea8XadU7WuTxEtb2P9SF8nZE.ttf",
+        "https://fonts.gstatic.com/s/allan/v26/ea8aadU7WuTxEu5KEPCN2WpNgEKU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allan/v26/ea8XadU7WuTxEtb2P9SF8nZE.ttf",
+        "https://fonts.gstatic.com/s/allan/v26/ea8aadU7WuTxEu5KEPCN2WpNgEKU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Allan",
+      "files": [
+        "https://fonts.gstatic.com/s/allan/v26/ea8XadU7WuTxEtbzP9SF8nZE.woff2",
+        "https://fonts.gstatic.com/s/allan/v26/ea8aadU7WuTxEu5KEPCI2WpNgEKU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allan/v26/ea8XadU7WuTxEtbzP9SF8nZE.woff2",
+        "https://fonts.gstatic.com/s/allan/v26/ea8aadU7WuTxEu5KEPCI2WpNgEKU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Allan",
+      "styles": [
+        {
+          "family_name": "Allan",
+          "type": "Regular",
+          "full_name": "Allan Regular",
+          "post_script_name": "Allan-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010-2012, Anton Koovit (anton@korkork.com), with Reserved Font Name 'Allan'",
+          "description": "http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ea8XadU7WuTxEtb2P9SF8nZE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Allan",
+          "type": "Bold",
+          "full_name": "Allan Bold",
+          "post_script_name": "Allan-Bold",
+          "version": "1.005",
+          "copyright": "Copyright (c) 2010-2012, Anton Koovit (anton@korkork.com), with Reserved Font Name 'Allan'",
+          "description": "http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ea8aadU7WuTxEu5KEPCN2WpNgEKU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

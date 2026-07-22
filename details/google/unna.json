@@ -1,0 +1,115 @@
+{
+  "slug": "google/unna",
+  "name": "unna",
+  "description": "Unna has a soft look that is expressed through delicated serifs and strong stems, thus accentuating the typical neoclassical vertical texture. The type designer, Jorge de Buen, was inspired to name this design with the surname of his mother.",
+  "homepage": "https://fonts.google.com/specimen/Unna",
+  "copyright": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Unna",
+      "files": [
+        "https://fonts.gstatic.com/s/unna/v25/AYCEpXzofN0NCpgBlGHCWFM.ttf",
+        "https://fonts.gstatic.com/s/unna/v25/AYCKpXzofN0NOpoLkEPHSFNyxw.ttf",
+        "https://fonts.gstatic.com/s/unna/v25/AYCLpXzofN0NMiQusGnpRFpr3vc.ttf",
+        "https://fonts.gstatic.com/s/unna/v25/AYCJpXzofN0NOpozLGzjQHhuzvef5Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unna/v25/AYCEpXzofN0NCpgBlGHCWFM.ttf",
+        "https://fonts.gstatic.com/s/unna/v25/AYCKpXzofN0NOpoLkEPHSFNyxw.ttf",
+        "https://fonts.gstatic.com/s/unna/v25/AYCLpXzofN0NMiQusGnpRFpr3vc.ttf",
+        "https://fonts.gstatic.com/s/unna/v25/AYCJpXzofN0NOpozLGzjQHhuzvef5Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Unna",
+      "files": [
+        "https://fonts.gstatic.com/s/unna/v25/AYCEpXzofN0NCp0BlGHCWFM.woff2",
+        "https://fonts.gstatic.com/s/unna/v25/AYCKpXzofN0NOpoLlUPHSFNyxw.woff2",
+        "https://fonts.gstatic.com/s/unna/v25/AYCLpXzofN0NMiQusGzpRFpr3vc.woff2",
+        "https://fonts.gstatic.com/s/unna/v25/AYCJpXzofN0NOpozLGzjRXhuzvef5Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/unna/v25/AYCEpXzofN0NCp0BlGHCWFM.woff2",
+        "https://fonts.gstatic.com/s/unna/v25/AYCKpXzofN0NOpoLlUPHSFNyxw.woff2",
+        "https://fonts.gstatic.com/s/unna/v25/AYCLpXzofN0NMiQusGzpRFpr3vc.woff2",
+        "https://fonts.gstatic.com/s/unna/v25/AYCJpXzofN0NOpozLGzjRXhuzvef5Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Unna",
+      "styles": [
+        {
+          "family_name": "Unna",
+          "type": "Regular",
+          "full_name": "Unna Regular",
+          "post_script_name": "Unna-Regular",
+          "version": "2.007; ttfautohint (v1.5)",
+          "copyright": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCEpXzofN0NCpgBlGHCWFM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Unna",
+          "type": "Italic",
+          "full_name": "Unna Italic",
+          "post_script_name": "Unna-Italic",
+          "version": "2.007; ttfautohint (v1.5)",
+          "copyright": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCKpXzofN0NOpoLkEPHSFNyxw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Unna",
+          "type": "Bold",
+          "full_name": "Unna Bold",
+          "post_script_name": "Unna-Bold",
+          "version": "2.007; ttfautohint (v1.5)",
+          "copyright": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCLpXzofN0NMiQusGnpRFpr3vc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Unna",
+          "type": "Bold Italic",
+          "full_name": "Unna Bold Italic",
+          "post_script_name": "Unna-BoldItalic",
+          "version": "2.007; ttfautohint (v1.5)",
+          "copyright": "Copyright 2016 The Unna Project Authors (omnibus.type@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCJpXzofN0NOpozLGzjQHhuzvef5Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,149 @@
+{
+  "slug": "google/koh_santepheap",
+  "name": "koh_santepheap",
+  "description": "Koh Santepheap is a Khmer font for body text, that pairs well with Latin serif fonts and for bilingual (English - Khmer) text. To contribute, see github.com/danhhong/KohSantepheap .",
+  "homepage": "https://fonts.google.com/specimen/Koh+Santepheap",
+  "copyright": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Koh Santepheap",
+      "files": [
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMfW3p6SJbwyGj2rBZyeOrTjNuFHVyTtjNJUWU.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtNP3y5mD9ASHz5.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMdW3p6SJbwyGj2rBZyeOrTjOPhF1ixsyNJ.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtdOHy5mD9ASHz5.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtlOny5mD9ASHz5.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMfW3p6SJbwyGj2rBZyeOrTjNuFHVyTtjNJUWU.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtNP3y5mD9ASHz5.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMdW3p6SJbwyGj2rBZyeOrTjOPhF1ixsyNJ.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtdOHy5mD9ASHz5.ttf",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtlOny5mD9ASHz5.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Koh Santepheap",
+      "files": [
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMfW3p6SJbwyGj2rBZyeOrTjNuFHVmTtjNJUWU.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtNP3y8mD9ASHz5.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMdW3p6SJbwyGj2rBZyeOrTjOPkF1ixsyNJ.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtdOHy8mD9ASHz5.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtlOny8mD9ASHz5.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMfW3p6SJbwyGj2rBZyeOrTjNuFHVmTtjNJUWU.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtNP3y8mD9ASHz5.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMdW3p6SJbwyGj2rBZyeOrTjOPkF1ixsyNJ.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtdOHy8mD9ASHz5.woff2",
+        "https://fonts.gstatic.com/s/kohsantepheap/v15/gNMeW3p6SJbwyGj2rBZyeOrTjNtlOny8mD9ASHz5.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Koh Santepheap Thin",
+      "styles": [
+        {
+          "family_name": "Koh Santepheap Thin",
+          "type": "Regular",
+          "full_name": "Koh Santepheap Thin",
+          "post_script_name": "KohSantepheap-Thin",
+          "version": "2.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMfW3p6SJbwyGj2rBZyeOrTjNuFHVyTtjNJUWU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koh Santepheap Light",
+      "styles": [
+        {
+          "family_name": "Koh Santepheap Light",
+          "type": "Regular",
+          "full_name": "Koh Santepheap Light",
+          "post_script_name": "KohSantepheap-Light",
+          "version": "2.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMeW3p6SJbwyGj2rBZyeOrTjNtNP3y5mD9ASHz5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koh Santepheap",
+      "styles": [
+        {
+          "family_name": "Koh Santepheap",
+          "type": "Regular",
+          "full_name": "Koh Santepheap Regular",
+          "post_script_name": "KohSantepheap-Regular",
+          "version": "2.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMdW3p6SJbwyGj2rBZyeOrTjOPhF1ixsyNJ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Koh Santepheap",
+          "type": "Bold",
+          "full_name": "Koh Santepheap Bold",
+          "post_script_name": "KohSantepheap-Bold",
+          "version": "2.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMeW3p6SJbwyGj2rBZyeOrTjNtdOHy5mD9ASHz5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Koh Santepheap Black",
+      "styles": [
+        {
+          "family_name": "Koh Santepheap Black",
+          "type": "Regular",
+          "full_name": "Koh Santepheap Black",
+          "post_script_name": "KohSantepheap-Black",
+          "version": "2.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Koh Santepheap Project Authors (https://github.com/danhhong/KohSantepheap)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gNMeW3p6SJbwyGj2rBZyeOrTjNtlOny5mD9ASHz5.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

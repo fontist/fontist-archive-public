@@ -1,0 +1,58 @@
+{
+  "slug": "google/dotgothic16",
+  "name": "dotgothic16",
+  "description": "Dotgothic 16 is based on the old 16x16 Gothic bitmap font that recreates the feel of pixel fonts from old video games, cell phones and computer screens on print. With its high readability, this font has become more popular in recent years due to the growing popularity of pixel art. To contribute to the project, visit github.com/fontworks-fonts/DotGothic16",
+  "homepage": "https://fonts.google.com/specimen/DotGothic16",
+  "copyright": "Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "DotGothic16",
+      "files": [
+        "https://fonts.gstatic.com/s/dotgothic16/v21/v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dotgothic16/v21/v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "DotGothic16",
+      "files": [
+        "https://fonts.gstatic.com/s/dotgothic16/v21/v6-QGYjBJFKgyw5nSoDAGE7O435YPFrT.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dotgothic16/v21/v6-QGYjBJFKgyw5nSoDAGE7O435YPFrT.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "DotGothic16",
+      "styles": [
+        {
+          "family_name": "DotGothic16",
+          "type": "Regular",
+          "full_name": "DotGothic16 Regular",
+          "post_script_name": "DotGothic16-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "v6-QGYjBJFKgyw5nSoDAGE7L435YPFrT.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

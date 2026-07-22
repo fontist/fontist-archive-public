@@ -1,0 +1,77 @@
+{
+  "slug": "google/dm_serif_text",
+  "name": "dm_serif_text",
+  "description": "DM Serif Text is a lower-contrast counterpart to the high-contrast DM Serif Display . While the serifs remain delicate, the DM Serif Text family is a more robust variant of the Display sibling, intended for smaller sub-headings and text sizes. DM Serif Text supports a Latin Extended glyph set, enabling typesetting for English and other Western European languages. It was designed by Colophon Foundry (UK), that started from the Latin portion of Adobe Source Serif 4 , by Frank Grießhammer et al. To contribute, see github.com/googlefonts/dm-fonts",
+  "homepage": "https://fonts.google.com/specimen/DM+Serif+Text",
+  "copyright": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "DM Serif Text",
+      "files": [
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCu-xZa_krGokauCeNq1wWyafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCw-xZa_krGokauCeNq1wWyWfGFWFAMArZKqQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCu-xZa_krGokauCeNq1wWyafOPXHIJErY.ttf",
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCw-xZa_krGokauCeNq1wWyWfGFWFAMArZKqQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "DM Serif Text",
+      "files": [
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCu-xZa_krGokauCeNq1wWyafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCw-xZa_krGokauCeNq1wWyWfGFXVAMArZKqQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCu-xZa_krGokauCeNq1wWyafaPXHIJErY.woff2",
+        "https://fonts.gstatic.com/s/dmseriftext/v13/rnCw-xZa_krGokauCeNq1wWyWfGFXVAMArZKqQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "DM Serif Text",
+      "styles": [
+        {
+          "family_name": "DM Serif Text",
+          "type": "Regular",
+          "full_name": "DM Serif Text Regular",
+          "post_script_name": "DMSerifText-Regular",
+          "version": "5.200; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rnCu-xZa_krGokauCeNq1wWyafOPXHIJErY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "DM Serif Text",
+          "type": "Italic",
+          "full_name": "DM Serif Text Italic",
+          "post_script_name": "DMSerifText-Italic",
+          "version": "5.200; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "rnCw-xZa_krGokauCeNq1wWyWfGFWFAMArZKqQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/glegoo",
+  "name": "glegoo",
+  "description": "Glegoo, a truly modern slab serif. It has a precise balance of shapes, counterforms and strokes. Glegoo is slightly condensed, has a large x-height, short ascenders/descenders and large counterforms. These attributes all add up to help reading text, even in very small sizes. Its careful design and proper choice of weight generate a nice texture in paragraphs of text, but the design is also intended to work well when composing headlines with presence and elegance. Large usage will show off the delicate modulation of strokes that are in this font. Updated August 2014: A Bold style was added, the family was hinted with ttfautohint, and a Devanagari subset was included. Contribute to the project at github.com/etunni/glegoo",
+  "homepage": "https://fonts.google.com/specimen/Glegoo",
+  "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), Copyright 2011-13 Lohit Fonts Project contributors (http://fedorahosted.org/lohit)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Glegoo",
+      "files": [
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmt-HQyrTKWaw2Ji6mZAI91xw.ttf",
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmu-HQyrTKWaw2xN4a9CKRpzimMsg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmt-HQyrTKWaw2Ji6mZAI91xw.ttf",
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmu-HQyrTKWaw2xN4a9CKRpzimMsg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Glegoo",
+      "files": [
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmt-HQyrTKWaw2JjqmZAI91xw.woff2",
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmu-HQyrTKWaw2xN4a9DaRpzimMsg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmt-HQyrTKWaw2JjqmZAI91xw.woff2",
+        "https://fonts.gstatic.com/s/glegoo/v17/_Xmu-HQyrTKWaw2xN4a9DaRpzimMsg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Glegoo",
+      "styles": [
+        {
+          "family_name": "Glegoo",
+          "type": "Regular",
+          "full_name": "Glegoo",
+          "post_script_name": "Glegoo-Regular",
+          "version": "2.0.1; ttfautohint (v0.9) -r 48 -G 60",
+          "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), Copyright 2011-13 Lohit Fonts Project contributors (http://fedorahosted.org/lohit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_Xmt-HQyrTKWaw2Ji6mZAI91xw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Glegoo",
+          "type": "Bold",
+          "full_name": "Glegoo Bold",
+          "post_script_name": "Glegoo-Bold",
+          "version": "2.0.1; ttfautohint (v0.9) -r 48 -G 60",
+          "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), Copyright 2011-13 Lohit Fonts Project contributors (http://fedorahosted.org/lohit)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "_Xmu-HQyrTKWaw2xN4a9CKRpzimMsg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

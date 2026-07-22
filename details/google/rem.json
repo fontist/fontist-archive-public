@@ -1,0 +1,422 @@
+{
+  "slug": "google/rem",
+  "name": "rem",
+  "description": "The REM font family is a sans serif font ready for corporate and display uses. It features a heavy low contrast combined with outstrokes that get slightly thinner, which is the opposite of the conventional approach. All together gives it a contemporary feeling suitable for modern branding. With more than 960 glyphs the font is ready for complex type setting with four sets of figures, Small Caps and some alternate glyphs. The name REM is an acronym for \"Rapid Eye Movement,\" which refers to a stage of sleep characterized by quick, random eye movements. I dreamt of it and began drawing it from my dream. To contribute, see github.com/octaviopardo/REM",
+  "homepage": "https://fonts.google.com/specimen/REM",
+  "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "REM",
+      "files": [
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLrrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPJzqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPPDqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPBztrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPCXtrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELtrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPGvtrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXgebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxXkebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpG3kebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXkebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpd3kebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpm34ebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpon4ebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxX4ebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqp7H4ebaiNbBVWkw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLrrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPJzqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPPDqrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPBztrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPCXtrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELtrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPGvtrT8UbIqIfBU.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXgebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxXkebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpG3kebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXkebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpd3kebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpm34ebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpon4ebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxX4ebaiNbBVWkw.woff2",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqp7H4ebaiNbBVWkw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "REM",
+      "files": [
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLrrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPJzqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPPDqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPBztrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPCXtrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELtrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPGvtrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXgeaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxXkeaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpG3keaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXkeaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpd3keaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpm34eaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpon4eaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxX4eaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqp7H4eaKiNbBVWkw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLrrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPJzqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPMLqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPPDqrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPBztrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPCXtrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPELtrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzgHAIoSDyHbRjfsYumpRvUPGvtrToUbIqIfBU.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXgeaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxXkeaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpG3keaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpRXkeaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpd3keaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpm34eaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpon4eaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqpxX4eaKiNbBVWkw.ttf",
+        "https://fonts.gstatic.com/s/rem/v4/WnzmHAIoSDytZCogaeLNP7XTKQqp7H4eaKiNbBVWkw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "REM Thin",
+      "styles": [
+        {
+          "family_name": "REM Thin",
+          "type": "Regular",
+          "full_name": "REM Thin",
+          "post_script_name": "REM-Thin",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPMLrrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM Thin",
+          "type": "Italic",
+          "full_name": "REM Thin Italic",
+          "post_script_name": "REM-ThinItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpRXgeaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM ExtraLight",
+      "styles": [
+        {
+          "family_name": "REM ExtraLight",
+          "type": "Regular",
+          "full_name": "REM ExtraLight",
+          "post_script_name": "REM-ExtraLight",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPELqrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM ExtraLight",
+          "type": "Italic",
+          "full_name": "REM ExtraLight Italic",
+          "post_script_name": "REM-ExtraLightItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpxXkeaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM Light",
+      "styles": [
+        {
+          "family_name": "REM Light",
+          "type": "Regular",
+          "full_name": "REM Light",
+          "post_script_name": "REM-Light",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPJzqrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM Light",
+          "type": "Italic",
+          "full_name": "REM Light Italic",
+          "post_script_name": "REM-LightItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpG3keaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM",
+      "styles": [
+        {
+          "family_name": "REM",
+          "type": "Regular",
+          "full_name": "REM Regular",
+          "post_script_name": "REM-Regular",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPMLqrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM",
+          "type": "Bold",
+          "full_name": "REM Bold",
+          "post_script_name": "REM-Bold",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPCXtrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM",
+          "type": "Italic",
+          "full_name": "REM Italic",
+          "post_script_name": "REM-Italic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpRXkeaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM",
+          "type": "Bold Italic",
+          "full_name": "REM Bold Italic",
+          "post_script_name": "REM-BoldItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpon4eaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM Medium",
+      "styles": [
+        {
+          "family_name": "REM Medium",
+          "type": "Regular",
+          "full_name": "REM Medium",
+          "post_script_name": "REM-Medium",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPPDqrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM Medium",
+          "type": "Italic",
+          "full_name": "REM Medium Italic",
+          "post_script_name": "REM-MediumItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpd3keaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM SemiBold",
+      "styles": [
+        {
+          "family_name": "REM SemiBold",
+          "type": "Regular",
+          "full_name": "REM SemiBold",
+          "post_script_name": "REM-SemiBold",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPBztrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM SemiBold",
+          "type": "Italic",
+          "full_name": "REM SemiBold Italic",
+          "post_script_name": "REM-SemiBoldItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpm34eaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM ExtraBold",
+      "styles": [
+        {
+          "family_name": "REM ExtraBold",
+          "type": "Regular",
+          "full_name": "REM ExtraBold",
+          "post_script_name": "REM-ExtraBold",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPELtrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM ExtraBold",
+          "type": "Italic",
+          "full_name": "REM ExtraBold Italic",
+          "post_script_name": "REM-ExtraBoldItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqpxX4eaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "REM Black",
+      "styles": [
+        {
+          "family_name": "REM Black",
+          "type": "Regular",
+          "full_name": "REM Black",
+          "post_script_name": "REM-Black",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzgHAIoSDyHbRjfsYumpRvUPGvtrToUbIqIfBU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "REM Black",
+          "type": "Italic",
+          "full_name": "REM Black Italic",
+          "post_script_name": "REM-BlackItalic",
+          "version": "1.005;gftools[0.9.28]",
+          "copyright": "Copyright 2019 The REM Project Authors (https://github.com/octaviopardo/REM)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnzmHAIoSDytZCogaeLNP7XTKQqp7H4eaKiNbBVWkw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/zcool_kuaile",
+  "name": "zcool_kuaile",
+  "description": "ZCool Kuaile was created by a team of font design trainees under the leadership of typographer Liu Bingke. First, Liu created the character shape framework and design standards; then, a group of over 100 typography apprentices participated in building out the character set. Finally, Liu and other designers from his workshop, including Yang Kang and Wu Shaojie, edited and adjusted the characters to unify the design.",
+  "homepage": "https://fonts.google.com/specimen/ZCOOL+KuaiLe",
+  "copyright": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "ZCOOL KuaiLe",
+      "files": [
+        "https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2WpozzoXhC2g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2WpozzoXhC2g.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "ZCOOL KuaiLe",
+      "files": [
+        "https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2Wo4zzoXhC2g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zcoolkuaile/v22/tssqApdaRQokwFjFJjvM6h2Wo4zzoXhC2g.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "ZCOOL KuaiLe",
+      "styles": [
+        {
+          "family_name": "ZCOOL KuaiLe",
+          "type": "Regular",
+          "full_name": "ZCOOL KuaiLe Regular",
+          "post_script_name": "ZCOOLKuaiLe-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "tssqApdaRQokwFjFJjvM6h2WpozzoXhC2g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

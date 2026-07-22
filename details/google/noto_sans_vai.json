@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_vai",
+  "name": "noto_sans_vai",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Vai is an unmodulated (“sans serif”) design for texts in the African Vai script. It has 305 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Vai",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vai)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Vai",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansvai/v19/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansvai/v19/NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Vai",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansvai/v19/NaPecZTSBuhTirw6IaFn_UrURMHsDIRSfr0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansvai/v19/NaPecZTSBuhTirw6IaFn_UrURMHsDIRSfr0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Vai",
+      "styles": [
+        {
+          "family_name": "Noto Sans Vai",
+          "type": "Regular",
+          "full_name": "Noto Sans Vai Regular",
+          "post_script_name": "NotoSansVai-Regular",
+          "version": "2.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/vai)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "NaPecZTSBuhTirw6IaFn_UrURMTsDIRSfr0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

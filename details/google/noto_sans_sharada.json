@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_sharada",
+  "name": "noto_sans_sharada",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Sharada is an unmodulated (“sans serif”) design for texts in the Indic Sharada script. It has 239 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Sharada",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sharada)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Sharada",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwoXLPOwr4H8a.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwoXLPOwr4H8a.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Sharada",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwoXOPOwr4H8a.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssharada/v18/gok0H7rwAEdtF9N8-mdTGALG6p0kwoXOPOwr4H8a.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Sharada",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sharada",
+          "type": "Regular",
+          "full_name": "Noto Sans Sharada Regular",
+          "post_script_name": "NotoSansSharada-Regular",
+          "version": "2.006; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sharada)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gok0H7rwAEdtF9N8-mdTGALG6p0kwoXLPOwr4H8a.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

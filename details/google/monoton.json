@@ -1,0 +1,57 @@
+{
+  "slug": "google/monoton",
+  "name": "monoton",
+  "description": "Monoton is a contemporary take on metalpress fonts like, for example, 'Prisma' (originally designed in 1931 by Rudolf Koch.) Monoton is a pure display webfont designed to be used at font sizes above 30 points. Monoton has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "homepage": "https://fonts.google.com/specimen/Monoton",
+  "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Monoton",
+      "files": [
+        "https://fonts.gstatic.com/s/monoton/v22/5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monoton/v22/5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Monoton",
+      "files": [
+        "https://fonts.gstatic.com/s/monoton/v22/5h1aiZUrOngCibe4fkPBQ2S7FU8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monoton/v22/5h1aiZUrOngCibe4fkPBQ2S7FU8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Monoton",
+      "styles": [
+        {
+          "family_name": "Monoton",
+          "type": "Regular",
+          "full_name": "Monoton",
+          "post_script_name": "Monoton-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "5h1aiZUrOngCibe4fkbBQ2S7FU8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

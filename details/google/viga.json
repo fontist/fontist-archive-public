@@ -1,0 +1,58 @@
+{
+  "slug": "google/viga",
+  "name": "viga",
+  "description": "Viga is a sans serif with a good performance on screen. Its anatomy gives it a great personality and also makes it useful for reading on screen.",
+  "homepage": "https://fonts.google.com/specimen/Viga",
+  "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Viga\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Viga",
+      "files": [
+        "https://fonts.gstatic.com/s/viga/v15/xMQbuFFdSaiX_QIjD4e2OX8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/viga/v15/xMQbuFFdSaiX_QIjD4e2OX8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Viga",
+      "files": [
+        "https://fonts.gstatic.com/s/viga/v15/xMQbuFFdSaiX_QcjD4e2OX8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/viga/v15/xMQbuFFdSaiX_QcjD4e2OX8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Viga",
+      "styles": [
+        {
+          "family_name": "Viga",
+          "type": "Regular",
+          "full_name": "Viga-Regular",
+          "post_script_name": "Viga-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Viga\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xMQbuFFdSaiX_QIjD4e2OX8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

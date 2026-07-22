@@ -1,0 +1,58 @@
+{
+  "slug": "google/grey_qo",
+  "name": "grey_qo",
+  "description": "A contemporary calligraphic script, Grey Qo combines traditional uppercase calligraphics with more stylized script lowercase forms. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/grey-qo .",
+  "homepage": "https://fonts.google.com/specimen/Grey+Qo",
+  "copyright": "Copyright 2008-2021 The Grey Qo Project Authors (https://github.com/googlefonts/grey-qo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Grey Qo",
+      "files": [
+        "https://fonts.gstatic.com/s/greyqo/v11/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/greyqo/v11/BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Grey Qo",
+      "files": [
+        "https://fonts.gstatic.com/s/greyqo/v11/BXRrvF_Nmv_TyXxNDO5Q9Wf0QcE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/greyqo/v11/BXRrvF_Nmv_TyXxNDO5Q9Wf0QcE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Grey Qo",
+      "styles": [
+        {
+          "family_name": "Grey Qo",
+          "type": "Regular",
+          "full_name": "Grey Qo Regular",
+          "post_script_name": "GreyQo-Regular",
+          "version": "2.010",
+          "copyright": "Copyright 2008-2021 The Grey Qo Project Authors (https://github.com/googlefonts/grey-qo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BXRrvF_Nmv_TyXxNDOtQ9Wf0QcE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

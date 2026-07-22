@@ -1,0 +1,58 @@
+{
+  "slug": "google/permanent_marker",
+  "name": "permanent_marker",
+  "description": "Permanent Marker represents the look and feel of a favorite writing instrument.",
+  "homepage": "https://fonts.google.com/specimen/Permanent+Marker",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Permanent Marker",
+      "files": [
+        "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004HaqIfrT5nlk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004HaqIfrT5nlk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Permanent Marker",
+      "files": [
+        "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004Ha-IfrT5nlk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004Ha-IfrT5nlk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Permanent Marker",
+      "styles": [
+        {
+          "family_name": "Permanent Marker",
+          "type": "Regular",
+          "full_name": "Permanent Marker Regular",
+          "post_script_name": "PermanentMarker-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "Fh4uPib9Iyv2ucM6pGQMWimMp004HaqIfrT5nlk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

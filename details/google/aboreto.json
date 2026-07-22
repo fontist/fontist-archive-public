@@ -1,0 +1,58 @@
+{
+  "slug": "google/aboreto",
+  "name": "aboreto",
+  "description": "Aboreto is a display typeface based on early renaissance majuscule alphabet done by Luca della Robbia, a 15th century Florentine sculptor. The typeface is not a straightforward digitalization (it even couldn’t be as the early Latin alphabet didn’t include all the letters we use today) but more of a revival which keeps current needs and technologies in mind. Aboreto has vertical stress, a feature more typical of later-century typefaces. Another uniqueness lies in the construction, because it is essentially a sans-serif typeface that has only occasional indication of serifs – either via the “hidden” serifs caused by stroke tapering or by slightly thickening the stroke endings. Aboreto comes in one weight - a high contrast regular that is on the thinner side. To contribute, see github.com/domija/Aboreto .",
+  "homepage": "https://fonts.google.com/specimen/Aboreto",
+  "copyright": "Copyright 2022 The Aboreto Project Authors (https://github.com/domija/Aboreto)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Aboreto",
+      "files": [
+        "https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8blKTeA2yuxSY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8blKTeA2yuxSY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Aboreto",
+      "files": [
+        "https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8blKHeA2yuxSY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/aboreto/v2/5DCXAKLhwDDQ4N8blKHeA2yuxSY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Aboreto",
+      "styles": [
+        {
+          "family_name": "Aboreto",
+          "type": "Regular",
+          "full_name": "Aboreto Regular",
+          "post_script_name": "Aboreto-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Aboreto Project Authors (https://github.com/domija/Aboreto)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5DCXAKLhwDDQ4N8blKTeA2yuxSY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

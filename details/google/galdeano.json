@@ -1,0 +1,58 @@
+{
+  "slug": "google/galdeano",
+  "name": "galdeano",
+  "description": "Galdeano is a humanist san serif typeface with strong variation in its stroke weight. The general form is slightly condensed. It has soft variation in its contrast, diagonal stress and open forms to improve legibility. The relation between x-height, ascender and descenders gives the text a bright color on the screen. It has only the necessary curves and it is a little darker for better rasterization. The typeface works smooth at text sizes and shows strong personality in larger sizes too. It is best recommended for short text and headlines, but it is also comfortable for reading on screen. Designed by Dario Muhafara for tipo foundry .",
+  "homepage": "https://fonts.google.com/specimen/Galdeano",
+  "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Galdeano\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Galdeano",
+      "files": [
+        "https://fonts.gstatic.com/s/galdeano/v23/uU9MCBoQ4YOqOW1boDPx8PCOg0uX.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/galdeano/v23/uU9MCBoQ4YOqOW1boDPx8PCOg0uX.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Galdeano",
+      "files": [
+        "https://fonts.gstatic.com/s/galdeano/v23/uU9MCBoQ4YOqOW1boDP08PCOg0uX.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/galdeano/v23/uU9MCBoQ4YOqOW1boDP08PCOg0uX.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Galdeano",
+      "styles": [
+        {
+          "family_name": "Galdeano",
+          "type": "Regular",
+          "full_name": "Galdeano Regular",
+          "post_script_name": "Galdeano-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name \"Galdeano\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uU9MCBoQ4YOqOW1boDPx8PCOg0uX.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

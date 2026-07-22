@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_bassa_vah",
+  "name": "noto_sans_bassa_vah",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Bassa Vah is an unmodulated (“sans serif”) design for texts in the African Bassa Vah script. It has 45 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Bassa+Vah",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bassa-vah)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Bassa Vah",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6s34gH-GD7.woff2",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6s34gH-GD7.woff2",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6s34gH-GD7.woff2",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6s34gH-GD7.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6s34gH-GD7.woff2",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6s34gH-GD7.woff2",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6s34gH-GD7.woff2",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6s34gH-GD7.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Bassa Vah",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6p34gH-GD7.ttf",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6p34gH-GD7.ttf",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6p34gH-GD7.ttf",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6p34gH-GD7.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6p34gH-GD7.ttf",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6p34gH-GD7.ttf",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6p34gH-GD7.ttf",
+        "https://fonts.gstatic.com/s/notosansbassavah/v21/PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6p34gH-GD7.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Bassa Vah",
+      "styles": [
+        {
+          "family_name": "Noto Sans Bassa Vah",
+          "type": "Regular",
+          "full_name": "Noto Sans Bassa Vah Regular",
+          "post_script_name": "NotoSansBassaVah-Regular",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bassa-vah)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MaAc6p34gH-GD7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Bassa Vah",
+          "type": "Bold",
+          "full_name": "Noto Sans Bassa Vah Bold",
+          "post_script_name": "NotoSansBassaVah-Bold",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bassa-vah)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4P9Bs6p34gH-GD7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Bassa Vah Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Bassa Vah Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Bassa Vah Medium",
+          "post_script_name": "NotoSansBassaVah-Medium",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bassa-vah)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4MoAc6p34gH-GD7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Bassa Vah SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Bassa Vah SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Bassa Vah SemiBold",
+          "post_script_name": "NotoSansBassaVah-SemiBold",
+          "version": "2.002",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/bassa-vah)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PN_bRee-r3f7LnqsD5sax12gjZn7mBpL5YwUpA2MBdcFn4PEBs6p34gH-GD7.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

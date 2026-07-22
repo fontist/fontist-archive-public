@@ -1,0 +1,58 @@
+{
+  "slug": "google/koulen",
+  "name": "koulen",
+  "description": "Koulen is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/Koulen .",
+  "homepage": "https://fonts.google.com/specimen/Koulen",
+  "copyright": "Copyright 2019 The Koulen Project Authors (https://github.com/danhhong/Koulen)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Koulen",
+      "files": [
+        "https://fonts.gstatic.com/s/koulen/v30/AMOQz46as3KIBPeWgnA9kuYMUg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/koulen/v30/AMOQz46as3KIBPeWgnA9kuYMUg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Koulen",
+      "files": [
+        "https://fonts.gstatic.com/s/koulen/v30/AMOQz46as3KIBPeWh3A9kuYMUg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/koulen/v30/AMOQz46as3KIBPeWh3A9kuYMUg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Koulen",
+      "styles": [
+        {
+          "family_name": "Koulen",
+          "type": "Regular",
+          "full_name": "Koulen Regular",
+          "post_script_name": "Koulen-Regular",
+          "version": "8.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Koulen Project Authors (https://github.com/danhhong/Koulen)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AMOQz46as3KIBPeWgnA9kuYMUg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

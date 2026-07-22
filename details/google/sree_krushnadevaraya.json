@@ -1,0 +1,58 @@
+{
+  "slug": "google/sree_krushnadevaraya",
+  "name": "sree_krushnadevaraya",
+  "description": "Sree Krushnadevaraya is a Telugu font suitable for headlines, invitations and posters and is best used in large sizes. It is named after the king who encouraged Telugu literature and poetry through his court, Bhuavana-Vijayam. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Joana Correia da Silva for Sorkin Type Co, a type foundry in Boston USA, and originally published as Cantata One . The Sree Krushnadevaraya project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/sreekrushnadevaraya .",
+  "homepage": "https://fonts.google.com/specimen/Sree+Krushnadevaraya",
+  "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Cantata'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sree Krushnadevaraya",
+      "files": [
+        "https://fonts.gstatic.com/s/sreekrushnadevaraya/v23/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWb2FhQuXir.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sreekrushnadevaraya/v23/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWb2FhQuXir.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sree Krushnadevaraya",
+      "files": [
+        "https://fonts.gstatic.com/s/sreekrushnadevaraya/v23/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWe2FhQuXir.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sreekrushnadevaraya/v23/R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWe2FhQuXir.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sree Krushnadevaraya",
+      "styles": [
+        {
+          "family_name": "Sree Krushnadevaraya",
+          "type": "Regular",
+          "full_name": "Sree Krushnadevaraya",
+          "post_script_name": "SreeKrushnadevaraya",
+          "version": "1.0.5; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Cantata'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "R70FjzQeifmPepmyQQjQ9kvwMkWYPfTA_EWb2FhQuXir.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

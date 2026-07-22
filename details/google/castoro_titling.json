@@ -1,0 +1,58 @@
+{
+  "slug": "google/castoro_titling",
+  "name": "castoro_titling",
+  "description": "Castoro Titling is an all-caps font in which the uppercase of the Castoro text typeface has been ‘re-hung’ on the proportions of Roman inscriptional letters. These lighter, elegant forms are ideal for larger sizes. The font covers the same set of extended diacritics for European orthographies and for transliteration of Indian languages. Castoro Titling was designed by John Hudson. To contribute, see github.com/TiroTypeworks/Castoro .",
+  "homepage": "https://fonts.google.com/specimen/Castoro+Titling",
+  "copyright": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Castoro Titling",
+      "files": [
+        "https://fonts.gstatic.com/s/castorotitling/v10/buEupouwccj03leTfjUAhEZWlrNqYgckeo9RMw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/castorotitling/v10/buEupouwccj03leTfjUAhEZWlrNqYgckeo9RMw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Castoro Titling",
+      "files": [
+        "https://fonts.gstatic.com/s/castorotitling/v10/buEupouwccj03leTfjUAhEZWlrNqZwckeo9RMw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/castorotitling/v10/buEupouwccj03leTfjUAhEZWlrNqZwckeo9RMw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Castoro Titling",
+      "styles": [
+        {
+          "family_name": "Castoro Titling",
+          "type": "Regular",
+          "full_name": "Castoro Titling Regular",
+          "post_script_name": "CastoroTitling-Regular",
+          "version": "2.04",
+          "copyright": "Copyright 2020 The Castoro Project Authors (https://github.com/TiroTypeworks/Castoro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "buEupouwccj03leTfjUAhEZWlrNqYgckeo9RMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/long_cang",
+  "name": "long_cang",
+  "description": "Based on modern calligrapher Chen Xiaomin's handwritten script. LongCang features textured strokes of middling thickness that are raw and primal, yet refined.",
+  "homepage": "https://fonts.google.com/specimen/Long+Cang",
+  "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Long Cang",
+      "files": [
+        "https://fonts.gstatic.com/s/longcang/v21/LYjAdGP8kkgoTec8zkRgrXArXN7HWQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/longcang/v21/LYjAdGP8kkgoTec8zkRgrXArXN7HWQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Long Cang",
+      "files": [
+        "https://fonts.gstatic.com/s/longcang/v21/LYjAdGP8kkgoTec8zkRgqHArXN7HWQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/longcang/v21/LYjAdGP8kkgoTec8zkRgqHArXN7HWQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Long Cang",
+      "styles": [
+        {
+          "family_name": "Long Cang",
+          "type": "Regular",
+          "full_name": "Long Cang Regular",
+          "post_script_name": "LongCang-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2018 The LongCang Project Authors (https://github.com/googlefonts/longcang)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjAdGP8kkgoTec8zkRgrXArXN7HWQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

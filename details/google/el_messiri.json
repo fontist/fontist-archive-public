@@ -1,0 +1,131 @@
+{
+  "slug": "google/el_messiri",
+  "name": "el_messiri",
+  "description": "El Messiri is a modern Arabic typeface family designed by Mohamed Gaber (Arabic) that began with Jovanny Lemonad's Latin and Cyrillic typeface Philosopher . The Arabic started with the concept of a curvy Arabic typeface inspired by the beauty of Naskh and drawn as if with a brush instead of the traditional bamboo pen. The idea took form with wide counters that improve readability at smaller text sizes, and has subtle details that make it a great display face at larger sizes. El Messiri current comes in 4 weights (Light, Regular, SemiBold and Bold) and the Arabic component has a wide glyph set that supports the Arabic, Farsi and Urdu languages. The font has been upgraded to a variable font with a weight axis (Regular to Bold) in August 2021. To contribute, see github.com/Gue3bara/El-Messiri",
+  "homepage": "https://fonts.google.com/specimen/El+Messiri",
+  "copyright": "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "El Messiri",
+      "files": [
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65lhj3OoapG.woff2",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65lhj3OoapG.woff2",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5lhj3OoapG.woff2",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5lhj3OoapG.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65lhj3OoapG.woff2",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65lhj3OoapG.woff2",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5lhj3OoapG.woff2",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5lhj3OoapG.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "El Messiri",
+      "files": [
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65ghj3OoapG.ttf",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65ghj3OoapG.ttf",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5ghj3OoapG.ttf",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5ghj3OoapG.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65ghj3OoapG.ttf",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65ghj3OoapG.ttf",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5ghj3OoapG.ttf",
+        "https://fonts.gstatic.com/s/elmessiri/v25/K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5ghj3OoapG.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "El Messiri",
+      "styles": [
+        {
+          "family_name": "El Messiri",
+          "type": "Regular",
+          "full_name": "El Messiri Regular",
+          "post_script_name": "ElMessiri-Regular",
+          "version": "2.020",
+          "copyright": "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXwe65ghj3OoapG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "El Messiri",
+          "type": "Bold",
+          "full_name": "El Messiri Bold",
+          "post_script_name": "ElMessiri-Bold",
+          "version": "2.020",
+          "copyright": "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUXfK5ghj3OoapG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Messiri Medium",
+      "styles": [
+        {
+          "family_name": "El Messiri Medium",
+          "type": "Regular",
+          "full_name": "El Messiri Medium",
+          "post_script_name": "ElMessiri-Medium",
+          "version": "2.020",
+          "copyright": "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuXCe65ghj3OoapG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "El Messiri SemiBold",
+      "styles": [
+        {
+          "family_name": "El Messiri SemiBold",
+          "type": "Regular",
+          "full_name": "El Messiri SemiBold",
+          "post_script_name": "ElMessiri-SemiBold",
+          "version": "2.020",
+          "copyright": "Copyright 2015 The El Messiri Project Authors (https://github.com/Gue3bara/El-Messiri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "K2FhfZBRmr9vQ1pHEey6GIGo8_pv3myYjuUufK5ghj3OoapG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

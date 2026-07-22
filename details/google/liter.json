@@ -1,0 +1,58 @@
+{
+  "slug": "google/liter",
+  "name": "liter",
+  "description": "Liter font family",
+  "homepage": "https://fonts.google.com/specimen/Liter",
+  "copyright": "Copyright 2023 The Liter Project Authors (https://github.com/skugiz/liter)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Liter",
+      "files": [
+        "https://fonts.gstatic.com/s/liter/v4/SLXGc1nX4GQ4d2ImRJqExst1.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/liter/v4/SLXGc1nX4GQ4d2ImRJqExst1.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Liter",
+      "files": [
+        "https://fonts.gstatic.com/s/liter/v4/SLXGc1nX4GQ4d2IjRJqExst1.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/liter/v4/SLXGc1nX4GQ4d2IjRJqExst1.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Liter",
+      "styles": [
+        {
+          "family_name": "Liter",
+          "type": "Regular",
+          "full_name": "Liter Regular",
+          "post_script_name": "Liter-Regular",
+          "version": "1.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2023 The Liter Project Authors (https://github.com/skugiz/liter)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "SLXGc1nX4GQ4d2ImRJqExst1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

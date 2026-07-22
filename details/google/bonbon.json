@@ -1,0 +1,58 @@
+{
+  "slug": "google/bonbon",
+  "name": "bonbon",
+  "description": "Bonbon is a fancy handwriting font for cheerful and bright headlines. The letterforms are artistic and naive as if they are written in a teenage girl's diary. It is drawn with a fine marker by author Ksenia Erulevich. Curves are carefully adjusted so that the font will also work well in print - making it a good choice for appetizing product design, greeting cards, or titling in children's books. Extra ornamental characters are included.",
+  "homepage": "https://fonts.google.com/specimen/Bonbon",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bonbon",
+      "files": [
+        "https://fonts.gstatic.com/s/bonbon/v32/0FlVVPeVlFec4ee_cDEAbQY5-A.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bonbon/v32/0FlVVPeVlFec4ee_cDEAbQY5-A.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bonbon",
+      "files": [
+        "https://fonts.gstatic.com/s/bonbon/v32/0FlVVPeVlFec4ee_dTEAbQY5-A.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bonbon/v32/0FlVVPeVlFec4ee_dTEAbQY5-A.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bonbon",
+      "styles": [
+        {
+          "family_name": "Bonbon",
+          "type": "Regular",
+          "full_name": "Bonbon Regular",
+          "post_script_name": "Bonbon-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Bonbon\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlVVPeVlFec4ee_cDEAbQY5-A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

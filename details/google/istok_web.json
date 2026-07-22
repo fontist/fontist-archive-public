@@ -1,0 +1,115 @@
+{
+  "slug": "google/istok_web",
+  "name": "istok_web",
+  "description": "Istok Web is an original typeface, in development since 2008. At first some basic letters were based on specially modified METAFONT sources from the CM Bright font family from the TeX community. (METAFONT is very flexible technology.) But in fact Istok fonts are now very far from this origin. Contours of the font are designed in the freely distributable font editor, FontForge . Most glyphs are manually hinted with the aim to be rendered on LCD displays. I used xgridfit as a tool for programming truetype instructions. Less frequently utilized symbols have automatic instructions produced by FontForge autohinting, until manual hinting can be done. Manual and automatic instructions are intended to look homogeneous. The original sources and truetype fonts are available at code.google.com/p/istok and this 'Web' version has modified vertical metrics. Updated: June 2014 to version 1.0.2g",
+  "homepage": "https://fonts.google.com/specimen/Istok+Web",
+  "copyright": "Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Istok Web",
+      "files": [
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTvojGmgSyUukBzKslZAWF-9kIIaQ.ttf",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTpojGmgSyUukBzKslpA2t61EcYaQ7F.ttf",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5a_mkUYBfcMw.ttf",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qT0ojGmgSyUukBzKslpA1PG-2MQQhLMMygN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTvojGmgSyUukBzKslZAWF-9kIIaQ.ttf",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTpojGmgSyUukBzKslpA2t61EcYaQ7F.ttf",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5a_mkUYBfcMw.ttf",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qT0ojGmgSyUukBzKslpA1PG-2MQQhLMMygN.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Istok Web",
+      "files": [
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTvojGmgSyUukBzKslZBGF-9kIIaQ.woff2",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTpojGmgSyUukBzKslpA2t_1EcYaQ7F.woff2",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5a-2kUYBfcMw.woff2",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qT0ojGmgSyUukBzKslpA1PG-2MVQhLMMygN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTvojGmgSyUukBzKslZBGF-9kIIaQ.woff2",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTpojGmgSyUukBzKslpA2t_1EcYaQ7F.woff2",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qTqojGmgSyUukBzKslhvU5a-2kUYBfcMw.woff2",
+        "https://fonts.gstatic.com/s/istokweb/v26/3qT0ojGmgSyUukBzKslpA1PG-2MVQhLMMygN.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Istok Web",
+      "styles": [
+        {
+          "family_name": "Istok Web",
+          "type": "Regular",
+          "full_name": "Istok Web Regular",
+          "post_script_name": "IstokWeb-Regular",
+          "version": "1.0.2g",
+          "copyright": "Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qTvojGmgSyUukBzKslZAWF-9kIIaQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Istok Web",
+          "type": "Italic",
+          "full_name": "Istok Web Italic",
+          "post_script_name": "IstokWeb-Italic",
+          "version": "1.0.2g",
+          "copyright": "Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qTpojGmgSyUukBzKslpA2t61EcYaQ7F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Istok Web",
+          "type": "Bold",
+          "full_name": "Istok Web Bold",
+          "post_script_name": "IstokWeb-Bold",
+          "version": "1.0.2g",
+          "copyright": "Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qTqojGmgSyUukBzKslhvU5a_mkUYBfcMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Istok Web",
+          "type": "BoldItalic",
+          "full_name": "Istok Web Bold Italic",
+          "post_script_name": "IstokWeb-BoldItalic",
+          "version": "1.0.2g",
+          "copyright": "Copyright (c) 2008-2014, Andrey V. Panov (panov@canopus.iacp.dvo.ru), with Reserved Font Name Istok",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qT0ojGmgSyUukBzKslpA1PG-2MQQhLMMygN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

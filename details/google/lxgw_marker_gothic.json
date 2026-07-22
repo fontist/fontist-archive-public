@@ -1,0 +1,58 @@
+{
+  "slug": "google/lxgw_marker_gothic",
+  "name": "lxgw_marker_gothic",
+  "description": "LXGW Marker Gothic font family",
+  "homepage": "https://fonts.google.com/specimen/LXGW+Marker+Gothic",
+  "copyright": "Copyright 2024 The LXGW Marker Gothic Project Authors (https://github.com/lxgw/LxgwMarkerGothic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "LXGW Marker Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBjuw_cZe26Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBjuw_cZe26Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "LXGW Marker Gothic",
+      "files": [
+        "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBi-w_cZe26Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lxgwmarkergothic/v1/Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBi-w_cZe26Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW Marker Gothic",
+      "styles": [
+        {
+          "family_name": "LXGW Marker Gothic",
+          "type": "Regular",
+          "full_name": "LXGW Marker Gothic Regular",
+          "post_script_name": "LXGWMarkerGothic-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2024 The LXGW Marker Gothic Project Authors (https://github.com/lxgw/LxgwMarkerGothic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "Gg8oN4AaXyDVTi_NlS1-xCtMQxY3lToBjuw_cZe26Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/schoolbell",
+  "name": "schoolbell",
+  "description": "Do you hear it? It's the sweet sound that let's you know when it's time to eat lunch in the cafeteria, head out to recess, or hop on the bus to head home! It's Schoolbell, the delightfully playful handwriting font from the finest lettering artist in the 2nd Grade!",
+  "homepage": "https://fonts.google.com/specimen/Schoolbell",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Schoolbell",
+      "files": [
+        "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIVxIQ6mRqfiQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIVxIQ6mRqfiQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Schoolbell",
+      "files": [
+        "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIVxcQ6mRqfiQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/schoolbell/v18/92zQtBZWOrcgoe-fgnJIVxcQ6mRqfiQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Schoolbell",
+      "styles": [
+        {
+          "family_name": "Schoolbell",
+          "type": "Regular",
+          "full_name": "Schoolbell Regular",
+          "post_script_name": "Schoolbell-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "92zQtBZWOrcgoe-fgnJIVxIQ6mRqfiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/telex",
+  "name": "telex",
+  "description": "Telex is a humanist sans serif conceived to be a web font with nice legibility at normal text sizes. Originally based on grid fitting shapes it became a multi-purpose typeface with low contrast, open counter forms, wide proportions and a touch of freshness. Designed by Andrés Torresi for Huerta Tipográfica .",
+  "homepage": "https://fonts.google.com/specimen/Telex",
+  "copyright": "Copyright 2011 The Telex Project Authors (info@andrestorresi.com.ar), with Reserved Font Name Telex.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Telex",
+      "files": [
+        "https://fonts.gstatic.com/s/telex/v18/ieVw2Y1fKWmIO9fTB1piKFIf.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/telex/v18/ieVw2Y1fKWmIO9fTB1piKFIf.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Telex",
+      "files": [
+        "https://fonts.gstatic.com/s/telex/v18/ieVw2Y1fKWmIO9fWB1piKFIf.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/telex/v18/ieVw2Y1fKWmIO9fWB1piKFIf.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Telex",
+      "styles": [
+        {
+          "family_name": "Telex",
+          "type": "Regular",
+          "full_name": "Telex Regular",
+          "post_script_name": "Telex-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Telex Project Authors (info@andrestorresi.com.ar), with Reserved Font Name Telex.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ieVw2Y1fKWmIO9fTB1piKFIf.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

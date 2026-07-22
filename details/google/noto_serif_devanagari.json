@@ -1,0 +1,253 @@
+{
+  "slug": "google/noto_serif_devanagari",
+  "name": "noto_serif_devanagari",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Devanagari is a modulated (“serif”) design for texts in the Indic Devanagari script. It has multiple weights and widths, and 871 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Devanagari",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Serif Devanagari",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-og-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-ow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTBgow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-ow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTAMow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDgpA-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDZpA-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-pA-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTCXpA-CMUe1u_dv.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-og-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-ow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTBgow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-ow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTAMow-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDgpA-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDZpA-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-pA-CMUe1u_dv.woff2",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTCXpA-CMUe1u_dv.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Serif Devanagari",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-og-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-ow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTBgow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-ow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTAMow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDgpA-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDZpA-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-pA-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTCXpA-HMUe1u_dv.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-og-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-ow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTBgow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-ow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTAMow-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDgpA-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDZpA-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-pA-HMUe1u_dv.ttf",
+        "https://fonts.gstatic.com/s/notoserifdevanagari/v34/x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTCXpA-HMUe1u_dv.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Devanagari Thin",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari Thin",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari Thin",
+          "post_script_name": "NotoSerifDevanagari-Thin",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-og-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari ExtraLight",
+          "post_script_name": "NotoSerifDevanagari-ExtraLight",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-ow-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari Light",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari Light",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari Light",
+          "post_script_name": "NotoSerifDevanagari-Light",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTBgow-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari Regular",
+          "post_script_name": "NotoSerifDevanagari-Regular",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTA-ow-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Serif Devanagari",
+          "type": "Bold",
+          "full_name": "Noto Serif Devanagari Bold",
+          "post_script_name": "NotoSerifDevanagari-Bold",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDZpA-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari Medium",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari Medium",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari Medium",
+          "post_script_name": "NotoSerifDevanagari-Medium",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTAMow-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari SemiBold",
+          "post_script_name": "NotoSerifDevanagari-SemiBold",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTDgpA-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari ExtraBold",
+          "post_script_name": "NotoSerifDevanagari-ExtraBold",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTC-pA-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Devanagari Black",
+      "styles": [
+        {
+          "family_name": "Noto Serif Devanagari Black",
+          "type": "Regular",
+          "full_name": "Noto Serif Devanagari Black",
+          "post_script_name": "NotoSerifDevanagari-Black",
+          "version": "2.006",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/devanagari)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "x3dYcl3IZKmUqiMk48ZHXJ5jwU-DZGRSaQ4Hh2dGyFzPLcQPVbnRNeFsw0xRWb6uxTCXpA-HMUe1u_dv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

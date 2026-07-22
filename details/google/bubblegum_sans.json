@@ -1,0 +1,58 @@
+{
+  "slug": "google/bubblegum_sans",
+  "name": "bubblegum_sans",
+  "description": "Bubblegum Sans is upbeat, flavor-loaded, brushalicious letters for the sunny side of the street. It bounces with joy and tells a great story. Designed by Angel Koziupa and produced by Ale Paul, this typeface is a loud 21st century shoutout to the kind of the 1930s lettering that sold everything to everyone through every medium. From Sudtipos .",
+  "homepage": "https://fonts.google.com/specimen/Bubblegum+Sans",
+  "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Bubblegum Sans\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bubblegum Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/bubblegumsans/v22/AYCSpXb_Z9EORv1M5QTjEzMEtdaHzoPPb7R4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bubblegumsans/v22/AYCSpXb_Z9EORv1M5QTjEzMEtdaHzoPPb7R4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bubblegum Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/bubblegumsans/v22/AYCSpXb_Z9EORv1M5QTjEzMEtdaCzoPPb7R4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bubblegumsans/v22/AYCSpXb_Z9EORv1M5QTjEzMEtdaCzoPPb7R4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bubblegum Sans",
+      "styles": [
+        {
+          "family_name": "Bubblegum Sans",
+          "type": "Regular",
+          "full_name": "Bubblegum Sans Regular",
+          "post_script_name": "BubblegumSans-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Bubblegum Sans\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCSpXb_Z9EORv1M5QTjEzMEtdaHzoPPb7R4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

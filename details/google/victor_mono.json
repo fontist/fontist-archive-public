@@ -1,0 +1,336 @@
+{
+  "slug": "google/victor_mono",
+  "name": "victor_mono",
+  "description": "Victor Mono is a monospaced font with optional semi-connected cursive italics and programming symbol ligatures. The typeface is slender, crisp and narrow, with a large x-height and clear punctuation, making it legible and ideal for code. The typeface was created to meet specific requirements for code and programming: narrow enough to fit a lot of text wide enough to be scannable strict, geometric and readable regular style more friendly and flowing italics programming symbol ligatures To contribute, see github.com/rubjo/victor-mono-font",
+  "homepage": "https://fonts.google.com/specimen/Victor+Mono",
+  "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Victor Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaPdUMtba8p.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNgdyOV0Y9bQ.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaPdUMtba8p.woff2",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaPdUMtba8p.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Victor Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaKdUMtba8p.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNhNyOV0Y9bQ.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaKdUMtba8p.ttf",
+        "https://fonts.gstatic.com/s/victormono/v5/Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaKdUMtba8p.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Victor Mono Thin",
+      "styles": [
+        {
+          "family_name": "Victor Mono Thin",
+          "type": "Regular",
+          "full_name": "Victor Mono Thin",
+          "post_script_name": "VictorMono-Thin",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO8_NhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono Thin",
+          "type": "Italic",
+          "full_name": "Victor Mono Thin Italic",
+          "post_script_name": "VictorMono-ThinItalic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lxtaKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victor Mono ExtraLight",
+      "styles": [
+        {
+          "family_name": "Victor Mono ExtraLight",
+          "type": "Regular",
+          "full_name": "Victor Mono ExtraLight",
+          "post_script_name": "VictorMono-ExtraLight",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyu87NhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono ExtraLight",
+          "type": "Italic",
+          "full_name": "Victor Mono ExtraLight Italic",
+          "post_script_name": "VictorMono-ExtraLightItalic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen842lx9aKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victor Mono Light",
+      "styles": [
+        {
+          "family_name": "Victor Mono Light",
+          "type": "Regular",
+          "full_name": "Victor Mono Light",
+          "post_script_name": "VictorMono-Light",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyZc7NhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono Light",
+          "type": "Italic",
+          "full_name": "Victor Mono Light Italic",
+          "post_script_name": "VictorMono-LightItalic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8417x9aKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victor Mono",
+      "styles": [
+        {
+          "family_name": "Victor Mono",
+          "type": "Regular",
+          "full_name": "Victor Mono Regular",
+          "post_script_name": "VictorMono-Regular",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyO87NhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono",
+          "type": "Bold",
+          "full_name": "Victor Mono Bold",
+          "post_script_name": "VictorMono-Bold",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy3MnNhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono",
+          "type": "Italic",
+          "full_name": "Victor Mono Italic",
+          "post_script_name": "VictorMono-Italic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840lx9aKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono",
+          "type": "Bold Italic",
+          "full_name": "Victor Mono Bold Italic",
+          "post_script_name": "VictorMono-BoldItalic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen843CwNaKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victor Mono Medium",
+      "styles": [
+        {
+          "family_name": "Victor Mono Medium",
+          "type": "Regular",
+          "full_name": "Victor Mono Medium",
+          "post_script_name": "VictorMono-Medium",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCyCc7NhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono Medium",
+          "type": "Italic",
+          "full_name": "Victor Mono Medium Italic",
+          "post_script_name": "VictorMono-MediumItalic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen840Xx9aKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Victor Mono SemiBold",
+      "styles": [
+        {
+          "family_name": "Victor Mono SemiBold",
+          "type": "Regular",
+          "full_name": "Victor Mono SemiBold",
+          "post_script_name": "VictorMono-SemiBold",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6H-LGQWyfv-LGy7lEO09xRn-T81AVB_tCy5cnNhNyOV0Y9bQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Victor Mono SemiBold",
+          "type": "Italic",
+          "full_name": "Victor Mono SemiBold Italic",
+          "post_script_name": "VictorMono-SemiBoldItalic",
+          "version": "1.561;gftools[0.9.30]",
+          "copyright": "Copyright 2023 The Victor Mono Project Authors (https://github.com/rubjo/victor-mono-font)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "Yq6B-LGQWyfv-LGy7lEO0_ZYrRskvW7bUNen8437wNaKdUMtba8p.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

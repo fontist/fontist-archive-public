@@ -1,0 +1,77 @@
+{
+  "slug": "google/comic_relief",
+  "name": "comic_relief",
+  "description": "Comic Relief is a typeface designed to be metrically equivalent to the popular Comic Sans MS. Comic Relief can be used in place of Comic Sans MS without having to move, resize, or reset any part of the copy. Perfect for missing cat posters and all of your WordArt needs! To contribute, see github.com/loudifier/Comic-Relief .",
+  "homepage": "https://fonts.google.com/specimen/Comic+Relief",
+  "copyright": "Copyright 2013 The Comic Relief Project Authors (https://github.com/loudifier/Comic-Relief)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Comic Relief",
+      "files": [
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCauqZkHrvL55SZ8uaEhHMY2XBJhDgs-Kg.ttf",
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCaxqZkHrvL55SZ8uaEhHMYO4D1FBiAiI1y92w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCauqZkHrvL55SZ8uaEhHMY2XBJhDgs-Kg.ttf",
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCaxqZkHrvL55SZ8uaEhHMYO4D1FBiAiI1y92w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Comic Relief",
+      "files": [
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCauqZkHrvL55SZ8uaEhHMY2WRJhDgs-Kg.woff2",
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCaxqZkHrvL55SZ8uaEhHMYO4D1FAyAiI1y92w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCauqZkHrvL55SZ8uaEhHMY2WRJhDgs-Kg.woff2",
+        "https://fonts.gstatic.com/s/comicrelief/v2/BCaxqZkHrvL55SZ8uaEhHMYO4D1FAyAiI1y92w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Comic Relief",
+      "styles": [
+        {
+          "family_name": "Comic Relief",
+          "type": "Regular",
+          "full_name": "Comic Relief Regular",
+          "post_script_name": "ComicRelief-Regular",
+          "version": "1.200; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2013 The Comic Relief Project Authors (https://github.com/loudifier/Comic-Relief)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "BCauqZkHrvL55SZ8uaEhHMY2XBJhDgs-Kg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Comic Relief",
+          "type": "Bold",
+          "full_name": "Comic Relief Bold",
+          "post_script_name": "ComicRelief-Bold",
+          "version": "1.200; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2013 The Comic Relief Project Authors (https://github.com/loudifier/Comic-Relief)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "BCaxqZkHrvL55SZ8uaEhHMYO4D1FBiAiI1y92w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

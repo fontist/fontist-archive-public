@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_serif_khitan_small_script",
+  "name": "noto_serif_khitan_small_script",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Khitan Small Script is a design for the historical East Asian Khitan small script script. It has 11,365 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Khitan+Small+Script",
+  "copyright": "Copyright 2022 Google LLC. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Serif Khitan Small Script",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsZ8lb39iddA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsZ8lb39iddA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Serif Khitan Small Script",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsYslb39iddA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifkhitansmallscript/v4/jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsYslb39iddA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Khitan Small Script",
+      "styles": [
+        {
+          "family_name": "Noto Serif Khitan Small Script",
+          "type": "Regular",
+          "full_name": "Noto Serif Khitan Small Script Regular",
+          "post_script_name": "NotoSerifKhitanSmallScript-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 Google LLC. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizzRFVKsm4Bt9PrbSzC4KLlQUF5lRJg5j-l5PvyhfTdd4TsZ8lb39iddA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

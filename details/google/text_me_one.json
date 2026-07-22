@@ -1,0 +1,58 @@
+{
+  "slug": "google/text_me_one",
+  "name": "text_me_one",
+  "description": "Text Me One is a monolinear font that plays with the shapes of open counters and un-connecting lines. A relatively large x-height and prominent in-strokes and out-strokes aid legibility. Its flavour is playful, with a hint of pop, and is ideal for large format lettering or continuous body text. To contribute to the project contact Julia Petretta .",
+  "homepage": "https://fonts.google.com/specimen/Text+Me+One",
+  "copyright": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Text Me'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Text Me One",
+      "files": [
+        "https://fonts.gstatic.com/s/textmeone/v26/i7dOIFdlayuLUvgoFvHQFWZcalayGhyV.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/textmeone/v26/i7dOIFdlayuLUvgoFvHQFWZcalayGhyV.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Text Me One",
+      "files": [
+        "https://fonts.gstatic.com/s/textmeone/v26/i7dOIFdlayuLUvgoFvHQFWZZalayGhyV.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/textmeone/v26/i7dOIFdlayuLUvgoFvHQFWZZalayGhyV.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Text Me One",
+      "styles": [
+        {
+          "family_name": "Text Me One",
+          "type": "Regular",
+          "full_name": "Text Me One",
+          "post_script_name": "TextMeOne-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Text Me'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "i7dOIFdlayuLUvgoFvHQFWZcalayGhyV.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

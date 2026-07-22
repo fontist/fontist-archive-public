@@ -1,0 +1,4954 @@
+{
+  "generated_at": "2026-07-20T09:45:01Z",
+  "ucode_version": "0.3.3",
+  "font": {
+    "source_file": "/tmp/fa-20260720-3018-vn5j9u/extracted/archive/unicodebmpfallback-6.1/UnicodeBMPFallback.ttf",
+    "source_sha256": "16a8459b6cb57992f03bd0eb86c928152431dbc1fbf8052cb2c2d98c6f590e1f",
+    "source_format": "ttf",
+    "font_index": 0,
+    "num_fonts_in_source": 1,
+    "family_name": "Unicode BMP Fallback SIL",
+    "subfamily_name": "Regular",
+    "full_name": "Unicode BMP Fallback SIL",
+    "postscript_name": "UnicodeBMPFallbackSIL",
+    "version": "Version 6.1",
+    "font_revision": 6.0999908447265625,
+    "weight_class": 400,
+    "width_class": 5,
+    "italic": null,
+    "bold": null,
+    "panose": "0 0 4 0 0 0 0 0 0 0",
+    "total_codepoints": 61058,
+    "total_glyphs": 61078,
+    "cmap_subtables": [
+      4
+    ],
+    "codepoint_ranges": [
+      {
+        "first_cp": 32,
+        "last_cp": 126
+      },
+      {
+        "first_cp": 160,
+        "last_cp": 887
+      },
+      {
+        "first_cp": 890,
+        "last_cp": 894
+      },
+      {
+        "first_cp": 900,
+        "last_cp": 906
+      },
+      {
+        "first_cp": 908,
+        "last_cp": 908
+      },
+      {
+        "first_cp": 910,
+        "last_cp": 929
+      },
+      {
+        "first_cp": 931,
+        "last_cp": 1319
+      },
+      {
+        "first_cp": 1329,
+        "last_cp": 1366
+      },
+      {
+        "first_cp": 1369,
+        "last_cp": 1375
+      },
+      {
+        "first_cp": 1377,
+        "last_cp": 1415
+      },
+      {
+        "first_cp": 1417,
+        "last_cp": 1418
+      },
+      {
+        "first_cp": 1423,
+        "last_cp": 1423
+      },
+      {
+        "first_cp": 1425,
+        "last_cp": 1479
+      },
+      {
+        "first_cp": 1488,
+        "last_cp": 1514
+      },
+      {
+        "first_cp": 1520,
+        "last_cp": 1524
+      },
+      {
+        "first_cp": 1536,
+        "last_cp": 1540
+      },
+      {
+        "first_cp": 1542,
+        "last_cp": 1563
+      },
+      {
+        "first_cp": 1566,
+        "last_cp": 1805
+      },
+      {
+        "first_cp": 1807,
+        "last_cp": 1866
+      },
+      {
+        "first_cp": 1869,
+        "last_cp": 1969
+      },
+      {
+        "first_cp": 1984,
+        "last_cp": 2042
+      },
+      {
+        "first_cp": 2048,
+        "last_cp": 2093
+      },
+      {
+        "first_cp": 2096,
+        "last_cp": 2110
+      },
+      {
+        "first_cp": 2112,
+        "last_cp": 2139
+      },
+      {
+        "first_cp": 2142,
+        "last_cp": 2142
+      },
+      {
+        "first_cp": 2208,
+        "last_cp": 2208
+      },
+      {
+        "first_cp": 2210,
+        "last_cp": 2220
+      },
+      {
+        "first_cp": 2276,
+        "last_cp": 2302
+      },
+      {
+        "first_cp": 2304,
+        "last_cp": 2423
+      },
+      {
+        "first_cp": 2425,
+        "last_cp": 2431
+      },
+      {
+        "first_cp": 2433,
+        "last_cp": 2435
+      },
+      {
+        "first_cp": 2437,
+        "last_cp": 2444
+      },
+      {
+        "first_cp": 2447,
+        "last_cp": 2448
+      },
+      {
+        "first_cp": 2451,
+        "last_cp": 2472
+      },
+      {
+        "first_cp": 2474,
+        "last_cp": 2480
+      },
+      {
+        "first_cp": 2482,
+        "last_cp": 2482
+      },
+      {
+        "first_cp": 2486,
+        "last_cp": 2489
+      },
+      {
+        "first_cp": 2492,
+        "last_cp": 2500
+      },
+      {
+        "first_cp": 2503,
+        "last_cp": 2504
+      },
+      {
+        "first_cp": 2507,
+        "last_cp": 2510
+      },
+      {
+        "first_cp": 2519,
+        "last_cp": 2519
+      },
+      {
+        "first_cp": 2524,
+        "last_cp": 2525
+      },
+      {
+        "first_cp": 2527,
+        "last_cp": 2531
+      },
+      {
+        "first_cp": 2534,
+        "last_cp": 2555
+      },
+      {
+        "first_cp": 2561,
+        "last_cp": 2563
+      },
+      {
+        "first_cp": 2565,
+        "last_cp": 2570
+      },
+      {
+        "first_cp": 2575,
+        "last_cp": 2576
+      },
+      {
+        "first_cp": 2579,
+        "last_cp": 2600
+      },
+      {
+        "first_cp": 2602,
+        "last_cp": 2608
+      },
+      {
+        "first_cp": 2610,
+        "last_cp": 2611
+      },
+      {
+        "first_cp": 2613,
+        "last_cp": 2614
+      },
+      {
+        "first_cp": 2616,
+        "last_cp": 2617
+      },
+      {
+        "first_cp": 2620,
+        "last_cp": 2620
+      },
+      {
+        "first_cp": 2622,
+        "last_cp": 2626
+      },
+      {
+        "first_cp": 2631,
+        "last_cp": 2632
+      },
+      {
+        "first_cp": 2635,
+        "last_cp": 2637
+      },
+      {
+        "first_cp": 2641,
+        "last_cp": 2641
+      },
+      {
+        "first_cp": 2649,
+        "last_cp": 2652
+      },
+      {
+        "first_cp": 2654,
+        "last_cp": 2654
+      },
+      {
+        "first_cp": 2662,
+        "last_cp": 2677
+      },
+      {
+        "first_cp": 2689,
+        "last_cp": 2691
+      },
+      {
+        "first_cp": 2693,
+        "last_cp": 2701
+      },
+      {
+        "first_cp": 2703,
+        "last_cp": 2705
+      },
+      {
+        "first_cp": 2707,
+        "last_cp": 2728
+      },
+      {
+        "first_cp": 2730,
+        "last_cp": 2736
+      },
+      {
+        "first_cp": 2738,
+        "last_cp": 2739
+      },
+      {
+        "first_cp": 2741,
+        "last_cp": 2745
+      },
+      {
+        "first_cp": 2748,
+        "last_cp": 2757
+      },
+      {
+        "first_cp": 2759,
+        "last_cp": 2761
+      },
+      {
+        "first_cp": 2763,
+        "last_cp": 2765
+      },
+      {
+        "first_cp": 2768,
+        "last_cp": 2768
+      },
+      {
+        "first_cp": 2784,
+        "last_cp": 2787
+      },
+      {
+        "first_cp": 2790,
+        "last_cp": 2801
+      },
+      {
+        "first_cp": 2817,
+        "last_cp": 2819
+      },
+      {
+        "first_cp": 2821,
+        "last_cp": 2828
+      },
+      {
+        "first_cp": 2831,
+        "last_cp": 2832
+      },
+      {
+        "first_cp": 2835,
+        "last_cp": 2856
+      },
+      {
+        "first_cp": 2858,
+        "last_cp": 2864
+      },
+      {
+        "first_cp": 2866,
+        "last_cp": 2867
+      },
+      {
+        "first_cp": 2869,
+        "last_cp": 2873
+      },
+      {
+        "first_cp": 2876,
+        "last_cp": 2884
+      },
+      {
+        "first_cp": 2887,
+        "last_cp": 2888
+      },
+      {
+        "first_cp": 2891,
+        "last_cp": 2893
+      },
+      {
+        "first_cp": 2902,
+        "last_cp": 2903
+      },
+      {
+        "first_cp": 2908,
+        "last_cp": 2909
+      },
+      {
+        "first_cp": 2911,
+        "last_cp": 2915
+      },
+      {
+        "first_cp": 2918,
+        "last_cp": 2935
+      },
+      {
+        "first_cp": 2946,
+        "last_cp": 2947
+      },
+      {
+        "first_cp": 2949,
+        "last_cp": 2954
+      },
+      {
+        "first_cp": 2958,
+        "last_cp": 2960
+      },
+      {
+        "first_cp": 2962,
+        "last_cp": 2965
+      },
+      {
+        "first_cp": 2969,
+        "last_cp": 2970
+      },
+      {
+        "first_cp": 2972,
+        "last_cp": 2972
+      },
+      {
+        "first_cp": 2974,
+        "last_cp": 2975
+      },
+      {
+        "first_cp": 2979,
+        "last_cp": 2980
+      },
+      {
+        "first_cp": 2984,
+        "last_cp": 2986
+      },
+      {
+        "first_cp": 2990,
+        "last_cp": 3001
+      },
+      {
+        "first_cp": 3006,
+        "last_cp": 3010
+      },
+      {
+        "first_cp": 3014,
+        "last_cp": 3016
+      },
+      {
+        "first_cp": 3018,
+        "last_cp": 3021
+      },
+      {
+        "first_cp": 3024,
+        "last_cp": 3024
+      },
+      {
+        "first_cp": 3031,
+        "last_cp": 3031
+      },
+      {
+        "first_cp": 3046,
+        "last_cp": 3066
+      },
+      {
+        "first_cp": 3073,
+        "last_cp": 3075
+      },
+      {
+        "first_cp": 3077,
+        "last_cp": 3084
+      },
+      {
+        "first_cp": 3086,
+        "last_cp": 3088
+      },
+      {
+        "first_cp": 3090,
+        "last_cp": 3112
+      },
+      {
+        "first_cp": 3114,
+        "last_cp": 3123
+      },
+      {
+        "first_cp": 3125,
+        "last_cp": 3129
+      },
+      {
+        "first_cp": 3133,
+        "last_cp": 3140
+      },
+      {
+        "first_cp": 3142,
+        "last_cp": 3144
+      },
+      {
+        "first_cp": 3146,
+        "last_cp": 3149
+      },
+      {
+        "first_cp": 3157,
+        "last_cp": 3158
+      },
+      {
+        "first_cp": 3160,
+        "last_cp": 3161
+      },
+      {
+        "first_cp": 3168,
+        "last_cp": 3171
+      },
+      {
+        "first_cp": 3174,
+        "last_cp": 3183
+      },
+      {
+        "first_cp": 3192,
+        "last_cp": 3199
+      },
+      {
+        "first_cp": 3202,
+        "last_cp": 3203
+      },
+      {
+        "first_cp": 3205,
+        "last_cp": 3212
+      },
+      {
+        "first_cp": 3214,
+        "last_cp": 3216
+      },
+      {
+        "first_cp": 3218,
+        "last_cp": 3240
+      },
+      {
+        "first_cp": 3242,
+        "last_cp": 3251
+      },
+      {
+        "first_cp": 3253,
+        "last_cp": 3257
+      },
+      {
+        "first_cp": 3260,
+        "last_cp": 3268
+      },
+      {
+        "first_cp": 3270,
+        "last_cp": 3272
+      },
+      {
+        "first_cp": 3274,
+        "last_cp": 3277
+      },
+      {
+        "first_cp": 3285,
+        "last_cp": 3286
+      },
+      {
+        "first_cp": 3294,
+        "last_cp": 3294
+      },
+      {
+        "first_cp": 3296,
+        "last_cp": 3299
+      },
+      {
+        "first_cp": 3302,
+        "last_cp": 3311
+      },
+      {
+        "first_cp": 3313,
+        "last_cp": 3314
+      },
+      {
+        "first_cp": 3330,
+        "last_cp": 3331
+      },
+      {
+        "first_cp": 3333,
+        "last_cp": 3340
+      },
+      {
+        "first_cp": 3342,
+        "last_cp": 3344
+      },
+      {
+        "first_cp": 3346,
+        "last_cp": 3386
+      },
+      {
+        "first_cp": 3389,
+        "last_cp": 3396
+      },
+      {
+        "first_cp": 3398,
+        "last_cp": 3400
+      },
+      {
+        "first_cp": 3402,
+        "last_cp": 3406
+      },
+      {
+        "first_cp": 3415,
+        "last_cp": 3415
+      },
+      {
+        "first_cp": 3424,
+        "last_cp": 3427
+      },
+      {
+        "first_cp": 3430,
+        "last_cp": 3445
+      },
+      {
+        "first_cp": 3449,
+        "last_cp": 3455
+      },
+      {
+        "first_cp": 3458,
+        "last_cp": 3459
+      },
+      {
+        "first_cp": 3461,
+        "last_cp": 3478
+      },
+      {
+        "first_cp": 3482,
+        "last_cp": 3505
+      },
+      {
+        "first_cp": 3507,
+        "last_cp": 3515
+      },
+      {
+        "first_cp": 3517,
+        "last_cp": 3517
+      },
+      {
+        "first_cp": 3520,
+        "last_cp": 3526
+      },
+      {
+        "first_cp": 3530,
+        "last_cp": 3530
+      },
+      {
+        "first_cp": 3535,
+        "last_cp": 3540
+      },
+      {
+        "first_cp": 3542,
+        "last_cp": 3542
+      },
+      {
+        "first_cp": 3544,
+        "last_cp": 3551
+      },
+      {
+        "first_cp": 3570,
+        "last_cp": 3572
+      },
+      {
+        "first_cp": 3585,
+        "last_cp": 3642
+      },
+      {
+        "first_cp": 3647,
+        "last_cp": 3675
+      },
+      {
+        "first_cp": 3713,
+        "last_cp": 3714
+      },
+      {
+        "first_cp": 3716,
+        "last_cp": 3716
+      },
+      {
+        "first_cp": 3719,
+        "last_cp": 3720
+      },
+      {
+        "first_cp": 3722,
+        "last_cp": 3722
+      },
+      {
+        "first_cp": 3725,
+        "last_cp": 3725
+      },
+      {
+        "first_cp": 3732,
+        "last_cp": 3735
+      },
+      {
+        "first_cp": 3737,
+        "last_cp": 3743
+      },
+      {
+        "first_cp": 3745,
+        "last_cp": 3747
+      },
+      {
+        "first_cp": 3749,
+        "last_cp": 3749
+      },
+      {
+        "first_cp": 3751,
+        "last_cp": 3751
+      },
+      {
+        "first_cp": 3754,
+        "last_cp": 3755
+      },
+      {
+        "first_cp": 3757,
+        "last_cp": 3769
+      },
+      {
+        "first_cp": 3771,
+        "last_cp": 3773
+      },
+      {
+        "first_cp": 3776,
+        "last_cp": 3780
+      },
+      {
+        "first_cp": 3782,
+        "last_cp": 3782
+      },
+      {
+        "first_cp": 3784,
+        "last_cp": 3789
+      },
+      {
+        "first_cp": 3792,
+        "last_cp": 3801
+      },
+      {
+        "first_cp": 3804,
+        "last_cp": 3807
+      },
+      {
+        "first_cp": 3840,
+        "last_cp": 3911
+      },
+      {
+        "first_cp": 3913,
+        "last_cp": 3948
+      },
+      {
+        "first_cp": 3953,
+        "last_cp": 3991
+      },
+      {
+        "first_cp": 3993,
+        "last_cp": 4028
+      },
+      {
+        "first_cp": 4030,
+        "last_cp": 4044
+      },
+      {
+        "first_cp": 4046,
+        "last_cp": 4058
+      },
+      {
+        "first_cp": 4096,
+        "last_cp": 4293
+      },
+      {
+        "first_cp": 4295,
+        "last_cp": 4295
+      },
+      {
+        "first_cp": 4301,
+        "last_cp": 4301
+      },
+      {
+        "first_cp": 4304,
+        "last_cp": 4680
+      },
+      {
+        "first_cp": 4682,
+        "last_cp": 4685
+      },
+      {
+        "first_cp": 4688,
+        "last_cp": 4694
+      },
+      {
+        "first_cp": 4696,
+        "last_cp": 4696
+      },
+      {
+        "first_cp": 4698,
+        "last_cp": 4701
+      },
+      {
+        "first_cp": 4704,
+        "last_cp": 4744
+      },
+      {
+        "first_cp": 4746,
+        "last_cp": 4749
+      },
+      {
+        "first_cp": 4752,
+        "last_cp": 4784
+      },
+      {
+        "first_cp": 4786,
+        "last_cp": 4789
+      },
+      {
+        "first_cp": 4792,
+        "last_cp": 4798
+      },
+      {
+        "first_cp": 4800,
+        "last_cp": 4800
+      },
+      {
+        "first_cp": 4802,
+        "last_cp": 4805
+      },
+      {
+        "first_cp": 4808,
+        "last_cp": 4822
+      },
+      {
+        "first_cp": 4824,
+        "last_cp": 4880
+      },
+      {
+        "first_cp": 4882,
+        "last_cp": 4885
+      },
+      {
+        "first_cp": 4888,
+        "last_cp": 4954
+      },
+      {
+        "first_cp": 4957,
+        "last_cp": 4988
+      },
+      {
+        "first_cp": 4992,
+        "last_cp": 5017
+      },
+      {
+        "first_cp": 5024,
+        "last_cp": 5108
+      },
+      {
+        "first_cp": 5120,
+        "last_cp": 5788
+      },
+      {
+        "first_cp": 5792,
+        "last_cp": 5872
+      },
+      {
+        "first_cp": 5888,
+        "last_cp": 5900
+      },
+      {
+        "first_cp": 5902,
+        "last_cp": 5908
+      },
+      {
+        "first_cp": 5920,
+        "last_cp": 5942
+      },
+      {
+        "first_cp": 5952,
+        "last_cp": 5971
+      },
+      {
+        "first_cp": 5984,
+        "last_cp": 5996
+      },
+      {
+        "first_cp": 5998,
+        "last_cp": 6000
+      },
+      {
+        "first_cp": 6002,
+        "last_cp": 6003
+      },
+      {
+        "first_cp": 6016,
+        "last_cp": 6109
+      },
+      {
+        "first_cp": 6112,
+        "last_cp": 6121
+      },
+      {
+        "first_cp": 6128,
+        "last_cp": 6137
+      },
+      {
+        "first_cp": 6144,
+        "last_cp": 6158
+      },
+      {
+        "first_cp": 6160,
+        "last_cp": 6169
+      },
+      {
+        "first_cp": 6176,
+        "last_cp": 6263
+      },
+      {
+        "first_cp": 6272,
+        "last_cp": 6314
+      },
+      {
+        "first_cp": 6320,
+        "last_cp": 6389
+      },
+      {
+        "first_cp": 6400,
+        "last_cp": 6428
+      },
+      {
+        "first_cp": 6432,
+        "last_cp": 6443
+      },
+      {
+        "first_cp": 6448,
+        "last_cp": 6459
+      },
+      {
+        "first_cp": 6464,
+        "last_cp": 6464
+      },
+      {
+        "first_cp": 6468,
+        "last_cp": 6509
+      },
+      {
+        "first_cp": 6512,
+        "last_cp": 6516
+      },
+      {
+        "first_cp": 6528,
+        "last_cp": 6571
+      },
+      {
+        "first_cp": 6576,
+        "last_cp": 6601
+      },
+      {
+        "first_cp": 6608,
+        "last_cp": 6618
+      },
+      {
+        "first_cp": 6622,
+        "last_cp": 6683
+      },
+      {
+        "first_cp": 6686,
+        "last_cp": 6750
+      },
+      {
+        "first_cp": 6752,
+        "last_cp": 6780
+      },
+      {
+        "first_cp": 6783,
+        "last_cp": 6793
+      },
+      {
+        "first_cp": 6800,
+        "last_cp": 6809
+      },
+      {
+        "first_cp": 6816,
+        "last_cp": 6829
+      },
+      {
+        "first_cp": 6912,
+        "last_cp": 6987
+      },
+      {
+        "first_cp": 6992,
+        "last_cp": 7036
+      },
+      {
+        "first_cp": 7040,
+        "last_cp": 7155
+      },
+      {
+        "first_cp": 7164,
+        "last_cp": 7223
+      },
+      {
+        "first_cp": 7227,
+        "last_cp": 7241
+      },
+      {
+        "first_cp": 7245,
+        "last_cp": 7295
+      },
+      {
+        "first_cp": 7360,
+        "last_cp": 7367
+      },
+      {
+        "first_cp": 7376,
+        "last_cp": 7414
+      },
+      {
+        "first_cp": 7424,
+        "last_cp": 7654
+      },
+      {
+        "first_cp": 7676,
+        "last_cp": 7957
+      },
+      {
+        "first_cp": 7960,
+        "last_cp": 7965
+      },
+      {
+        "first_cp": 7968,
+        "last_cp": 8005
+      },
+      {
+        "first_cp": 8008,
+        "last_cp": 8013
+      },
+      {
+        "first_cp": 8016,
+        "last_cp": 8023
+      },
+      {
+        "first_cp": 8025,
+        "last_cp": 8025
+      },
+      {
+        "first_cp": 8027,
+        "last_cp": 8027
+      },
+      {
+        "first_cp": 8029,
+        "last_cp": 8029
+      },
+      {
+        "first_cp": 8031,
+        "last_cp": 8061
+      },
+      {
+        "first_cp": 8064,
+        "last_cp": 8116
+      },
+      {
+        "first_cp": 8118,
+        "last_cp": 8132
+      },
+      {
+        "first_cp": 8134,
+        "last_cp": 8147
+      },
+      {
+        "first_cp": 8150,
+        "last_cp": 8155
+      },
+      {
+        "first_cp": 8157,
+        "last_cp": 8175
+      },
+      {
+        "first_cp": 8178,
+        "last_cp": 8180
+      },
+      {
+        "first_cp": 8182,
+        "last_cp": 8190
+      },
+      {
+        "first_cp": 8192,
+        "last_cp": 8292
+      },
+      {
+        "first_cp": 8298,
+        "last_cp": 8305
+      },
+      {
+        "first_cp": 8308,
+        "last_cp": 8334
+      },
+      {
+        "first_cp": 8336,
+        "last_cp": 8348
+      },
+      {
+        "first_cp": 8352,
+        "last_cp": 8377
+      },
+      {
+        "first_cp": 8400,
+        "last_cp": 8432
+      },
+      {
+        "first_cp": 8448,
+        "last_cp": 8585
+      },
+      {
+        "first_cp": 8592,
+        "last_cp": 9203
+      },
+      {
+        "first_cp": 9216,
+        "last_cp": 9254
+      },
+      {
+        "first_cp": 9280,
+        "last_cp": 9290
+      },
+      {
+        "first_cp": 9312,
+        "last_cp": 9983
+      },
+      {
+        "first_cp": 9985,
+        "last_cp": 11084
+      },
+      {
+        "first_cp": 11088,
+        "last_cp": 11097
+      },
+      {
+        "first_cp": 11264,
+        "last_cp": 11310
+      },
+      {
+        "first_cp": 11312,
+        "last_cp": 11358
+      },
+      {
+        "first_cp": 11360,
+        "last_cp": 11507
+      },
+      {
+        "first_cp": 11513,
+        "last_cp": 11557
+      },
+      {
+        "first_cp": 11559,
+        "last_cp": 11559
+      },
+      {
+        "first_cp": 11565,
+        "last_cp": 11565
+      },
+      {
+        "first_cp": 11568,
+        "last_cp": 11623
+      },
+      {
+        "first_cp": 11631,
+        "last_cp": 11632
+      },
+      {
+        "first_cp": 11647,
+        "last_cp": 11670
+      },
+      {
+        "first_cp": 11680,
+        "last_cp": 11686
+      },
+      {
+        "first_cp": 11688,
+        "last_cp": 11694
+      },
+      {
+        "first_cp": 11696,
+        "last_cp": 11702
+      },
+      {
+        "first_cp": 11704,
+        "last_cp": 11710
+      },
+      {
+        "first_cp": 11712,
+        "last_cp": 11718
+      },
+      {
+        "first_cp": 11720,
+        "last_cp": 11726
+      },
+      {
+        "first_cp": 11728,
+        "last_cp": 11734
+      },
+      {
+        "first_cp": 11736,
+        "last_cp": 11742
+      },
+      {
+        "first_cp": 11744,
+        "last_cp": 11835
+      },
+      {
+        "first_cp": 11904,
+        "last_cp": 11929
+      },
+      {
+        "first_cp": 11931,
+        "last_cp": 12019
+      },
+      {
+        "first_cp": 12032,
+        "last_cp": 12245
+      },
+      {
+        "first_cp": 12272,
+        "last_cp": 12283
+      },
+      {
+        "first_cp": 12288,
+        "last_cp": 12351
+      },
+      {
+        "first_cp": 12353,
+        "last_cp": 12438
+      },
+      {
+        "first_cp": 12441,
+        "last_cp": 12543
+      },
+      {
+        "first_cp": 12549,
+        "last_cp": 12589
+      },
+      {
+        "first_cp": 12593,
+        "last_cp": 12686
+      },
+      {
+        "first_cp": 12688,
+        "last_cp": 12730
+      },
+      {
+        "first_cp": 12736,
+        "last_cp": 12771
+      },
+      {
+        "first_cp": 12784,
+        "last_cp": 12830
+      },
+      {
+        "first_cp": 12832,
+        "last_cp": 13054
+      },
+      {
+        "first_cp": 13056,
+        "last_cp": 19893
+      },
+      {
+        "first_cp": 19904,
+        "last_cp": 40908
+      },
+      {
+        "first_cp": 40960,
+        "last_cp": 42124
+      },
+      {
+        "first_cp": 42128,
+        "last_cp": 42182
+      },
+      {
+        "first_cp": 42192,
+        "last_cp": 42539
+      },
+      {
+        "first_cp": 42560,
+        "last_cp": 42647
+      },
+      {
+        "first_cp": 42655,
+        "last_cp": 42743
+      },
+      {
+        "first_cp": 42752,
+        "last_cp": 42894
+      },
+      {
+        "first_cp": 42896,
+        "last_cp": 42899
+      },
+      {
+        "first_cp": 42912,
+        "last_cp": 42922
+      },
+      {
+        "first_cp": 43000,
+        "last_cp": 43051
+      },
+      {
+        "first_cp": 43056,
+        "last_cp": 43065
+      },
+      {
+        "first_cp": 43072,
+        "last_cp": 43127
+      },
+      {
+        "first_cp": 43136,
+        "last_cp": 43204
+      },
+      {
+        "first_cp": 43214,
+        "last_cp": 43225
+      },
+      {
+        "first_cp": 43232,
+        "last_cp": 43259
+      },
+      {
+        "first_cp": 43264,
+        "last_cp": 43347
+      },
+      {
+        "first_cp": 43359,
+        "last_cp": 43388
+      },
+      {
+        "first_cp": 43392,
+        "last_cp": 43469
+      },
+      {
+        "first_cp": 43471,
+        "last_cp": 43481
+      },
+      {
+        "first_cp": 43486,
+        "last_cp": 43487
+      },
+      {
+        "first_cp": 43520,
+        "last_cp": 43574
+      },
+      {
+        "first_cp": 43584,
+        "last_cp": 43597
+      },
+      {
+        "first_cp": 43600,
+        "last_cp": 43609
+      },
+      {
+        "first_cp": 43612,
+        "last_cp": 43643
+      },
+      {
+        "first_cp": 43648,
+        "last_cp": 43714
+      },
+      {
+        "first_cp": 43739,
+        "last_cp": 43766
+      },
+      {
+        "first_cp": 43777,
+        "last_cp": 43782
+      },
+      {
+        "first_cp": 43785,
+        "last_cp": 43790
+      },
+      {
+        "first_cp": 43793,
+        "last_cp": 43798
+      },
+      {
+        "first_cp": 43808,
+        "last_cp": 43814
+      },
+      {
+        "first_cp": 43816,
+        "last_cp": 43822
+      },
+      {
+        "first_cp": 43968,
+        "last_cp": 44013
+      },
+      {
+        "first_cp": 44016,
+        "last_cp": 44025
+      },
+      {
+        "first_cp": 44032,
+        "last_cp": 55203
+      },
+      {
+        "first_cp": 55216,
+        "last_cp": 55238
+      },
+      {
+        "first_cp": 55243,
+        "last_cp": 55291
+      },
+      {
+        "first_cp": 57344,
+        "last_cp": 64109
+      },
+      {
+        "first_cp": 64112,
+        "last_cp": 64217
+      },
+      {
+        "first_cp": 64256,
+        "last_cp": 64262
+      },
+      {
+        "first_cp": 64275,
+        "last_cp": 64279
+      },
+      {
+        "first_cp": 64285,
+        "last_cp": 64310
+      },
+      {
+        "first_cp": 64312,
+        "last_cp": 64316
+      },
+      {
+        "first_cp": 64318,
+        "last_cp": 64318
+      },
+      {
+        "first_cp": 64320,
+        "last_cp": 64321
+      },
+      {
+        "first_cp": 64323,
+        "last_cp": 64324
+      },
+      {
+        "first_cp": 64326,
+        "last_cp": 64449
+      },
+      {
+        "first_cp": 64467,
+        "last_cp": 64831
+      },
+      {
+        "first_cp": 64848,
+        "last_cp": 64911
+      },
+      {
+        "first_cp": 64914,
+        "last_cp": 64967
+      },
+      {
+        "first_cp": 65008,
+        "last_cp": 65021
+      },
+      {
+        "first_cp": 65024,
+        "last_cp": 65049
+      },
+      {
+        "first_cp": 65056,
+        "last_cp": 65062
+      },
+      {
+        "first_cp": 65072,
+        "last_cp": 65106
+      },
+      {
+        "first_cp": 65108,
+        "last_cp": 65126
+      },
+      {
+        "first_cp": 65128,
+        "last_cp": 65131
+      },
+      {
+        "first_cp": 65136,
+        "last_cp": 65140
+      },
+      {
+        "first_cp": 65142,
+        "last_cp": 65276
+      },
+      {
+        "first_cp": 65279,
+        "last_cp": 65279
+      },
+      {
+        "first_cp": 65281,
+        "last_cp": 65470
+      },
+      {
+        "first_cp": 65474,
+        "last_cp": 65479
+      },
+      {
+        "first_cp": 65482,
+        "last_cp": 65487
+      },
+      {
+        "first_cp": 65490,
+        "last_cp": 65495
+      },
+      {
+        "first_cp": 65498,
+        "last_cp": 65500
+      },
+      {
+        "first_cp": 65504,
+        "last_cp": 65510
+      },
+      {
+        "first_cp": 65512,
+        "last_cp": 65518
+      },
+      {
+        "first_cp": 65529,
+        "last_cp": 65533
+      }
+    ]
+  },
+  "baseline": {
+    "unicode_version": "17.0.0",
+    "ucode_version": "0.3.3",
+    "fontisan_version": "0.4.9",
+    "source": "ucode SQLite index (blocks + scripts tables)",
+    "generated_at": "2026-07-20T09:45:01Z"
+  },
+  "totals": {
+    "assigned_codepoints_total": 61778,
+    "covered_codepoints_total": 61058,
+    "blocks_touched": 153,
+    "blocks_complete": 102,
+    "blocks_partial": 51,
+    "scripts_touched": 71
+  },
+  "discrepancies": [
+    {
+      "kind": "os2_unicode_range_bit_without_cmap_codepoints",
+      "detail": "OS/2 ulUnicodeRange bit 114 claims U+11000–U+1107F but cmap has 0 codepoints in that range",
+      "bit_position": 114
+    },
+    {
+      "kind": "os2_unicode_range_bit_without_cmap_codepoints",
+      "detail": "OS/2 ulUnicodeRange bit 116 claims U+11100–U+1114F but cmap has 0 codepoints in that range",
+      "bit_position": 116
+    },
+    {
+      "kind": "os2_unicode_range_bit_without_cmap_codepoints",
+      "detail": "OS/2 ulUnicodeRange bit 117 claims U+1D360–U+1D37F but cmap has 0 codepoints in that range",
+      "bit_position": 117
+    },
+    {
+      "kind": "os2_unicode_range_bit_without_cmap_codepoints",
+      "detail": "OS/2 ulUnicodeRange bit 118 claims U+12000–U+1247F but cmap has 0 codepoints in that range",
+      "bit_position": 118
+    }
+  ],
+  "plane_summaries": [
+    {
+      "plane": 0,
+      "blocks_total": 153,
+      "assigned_total": 61778,
+      "covered_total": 61058,
+      "coverage_percent": 98.83
+    }
+  ],
+  "block_summaries": [
+    {
+      "name": "Basic_Latin",
+      "first_cp": 0,
+      "last_cp": 127,
+      "range": "U+0000–U+007F",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 95,
+      "missing_count": 33,
+      "coverage_percent": 74.22,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        127
+      ]
+    },
+    {
+      "name": "Latin-1_Supplement",
+      "first_cp": 128,
+      "last_cp": 255,
+      "range": "U+0080–U+00FF",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 96,
+      "missing_count": 32,
+      "coverage_percent": 75.0,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159
+      ]
+    },
+    {
+      "name": "Latin_Extended-A",
+      "first_cp": 256,
+      "last_cp": 383,
+      "range": "U+0100–U+017F",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 128,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Latin_Extended-B",
+      "first_cp": 384,
+      "last_cp": 591,
+      "range": "U+0180–U+024F",
+      "plane": 0,
+      "total_assigned": 208,
+      "covered_count": 208,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "IPA_Extensions",
+      "first_cp": 592,
+      "last_cp": 687,
+      "range": "U+0250–U+02AF",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 96,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Spacing_Modifier_Letters",
+      "first_cp": 688,
+      "last_cp": 767,
+      "range": "U+02B0–U+02FF",
+      "plane": 0,
+      "total_assigned": 80,
+      "covered_count": 80,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Combining_Diacritical_Marks",
+      "first_cp": 768,
+      "last_cp": 879,
+      "range": "U+0300–U+036F",
+      "plane": 0,
+      "total_assigned": 112,
+      "covered_count": 112,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Greek_and_Coptic",
+      "first_cp": 880,
+      "last_cp": 1023,
+      "range": "U+0370–U+03FF",
+      "plane": 0,
+      "total_assigned": 135,
+      "covered_count": 134,
+      "missing_count": 1,
+      "coverage_percent": 99.26,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        895
+      ]
+    },
+    {
+      "name": "Cyrillic",
+      "first_cp": 1024,
+      "last_cp": 1279,
+      "range": "U+0400–U+04FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Cyrillic_Supplement",
+      "first_cp": 1280,
+      "last_cp": 1327,
+      "range": "U+0500–U+052F",
+      "plane": 0,
+      "total_assigned": 48,
+      "covered_count": 40,
+      "missing_count": 8,
+      "coverage_percent": 83.33,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        1320,
+        1321,
+        1322,
+        1323,
+        1324,
+        1325,
+        1326,
+        1327
+      ]
+    },
+    {
+      "name": "Armenian",
+      "first_cp": 1329,
+      "last_cp": 1423,
+      "range": "U+0531–U+058F",
+      "plane": 0,
+      "total_assigned": 91,
+      "covered_count": 87,
+      "missing_count": 4,
+      "coverage_percent": 95.6,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        1376,
+        1416,
+        1421,
+        1422
+      ]
+    },
+    {
+      "name": "Hebrew",
+      "first_cp": 1425,
+      "last_cp": 1524,
+      "range": "U+0591–U+05F4",
+      "plane": 0,
+      "total_assigned": 88,
+      "covered_count": 87,
+      "missing_count": 1,
+      "coverage_percent": 98.86,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        1519
+      ]
+    },
+    {
+      "name": "Arabic",
+      "first_cp": 1536,
+      "last_cp": 1791,
+      "range": "U+0600–U+06FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 253,
+      "missing_count": 3,
+      "coverage_percent": 98.83,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        1541,
+        1564,
+        1565
+      ]
+    },
+    {
+      "name": "Syriac",
+      "first_cp": 1792,
+      "last_cp": 1871,
+      "range": "U+0700–U+074F",
+      "plane": 0,
+      "total_assigned": 77,
+      "covered_count": 77,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Arabic_Supplement",
+      "first_cp": 1872,
+      "last_cp": 1919,
+      "range": "U+0750–U+077F",
+      "plane": 0,
+      "total_assigned": 48,
+      "covered_count": 48,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Thaana",
+      "first_cp": 1920,
+      "last_cp": 1969,
+      "range": "U+0780–U+07B1",
+      "plane": 0,
+      "total_assigned": 50,
+      "covered_count": 50,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "NKo",
+      "first_cp": 1984,
+      "last_cp": 2047,
+      "range": "U+07C0–U+07FF",
+      "plane": 0,
+      "total_assigned": 62,
+      "covered_count": 59,
+      "missing_count": 3,
+      "coverage_percent": 95.16,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2045,
+        2046,
+        2047
+      ]
+    },
+    {
+      "name": "Samaritan",
+      "first_cp": 2048,
+      "last_cp": 2110,
+      "range": "U+0800–U+083E",
+      "plane": 0,
+      "total_assigned": 61,
+      "covered_count": 61,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Mandaic",
+      "first_cp": 2112,
+      "last_cp": 2142,
+      "range": "U+0840–U+085E",
+      "plane": 0,
+      "total_assigned": 29,
+      "covered_count": 29,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Arabic_Extended-A",
+      "first_cp": 2208,
+      "last_cp": 2303,
+      "range": "U+08A0–U+08FF",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 39,
+      "missing_count": 57,
+      "coverage_percent": 40.63,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2209,
+        2221,
+        2222,
+        2223,
+        2224,
+        2225,
+        2226,
+        2227,
+        2228,
+        2229,
+        2230,
+        2231,
+        2232,
+        2233,
+        2234,
+        2235,
+        2236,
+        2237,
+        2238,
+        2239,
+        2240,
+        2241,
+        2242,
+        2243,
+        2244,
+        2245,
+        2246,
+        2247,
+        2248,
+        2249,
+        2250,
+        2251,
+        2252,
+        2253,
+        2254,
+        2255,
+        2256,
+        2257,
+        2258,
+        2259,
+        2260,
+        2261,
+        2262,
+        2263,
+        2264,
+        2265,
+        2266,
+        2267,
+        2268,
+        2269,
+        2270,
+        2271,
+        2272,
+        2273,
+        2274,
+        2275,
+        2303
+      ]
+    },
+    {
+      "name": "Devanagari",
+      "first_cp": 2304,
+      "last_cp": 2431,
+      "range": "U+0900–U+097F",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 127,
+      "missing_count": 1,
+      "coverage_percent": 99.22,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2424
+      ]
+    },
+    {
+      "name": "Bengali",
+      "first_cp": 2432,
+      "last_cp": 2558,
+      "range": "U+0980–U+09FE",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 92,
+      "missing_count": 4,
+      "coverage_percent": 95.83,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2432,
+        2556,
+        2557,
+        2558
+      ]
+    },
+    {
+      "name": "Gurmukhi",
+      "first_cp": 2561,
+      "last_cp": 2678,
+      "range": "U+0A01–U+0A76",
+      "plane": 0,
+      "total_assigned": 80,
+      "covered_count": 79,
+      "missing_count": 1,
+      "coverage_percent": 98.75,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2678
+      ]
+    },
+    {
+      "name": "Gujarati",
+      "first_cp": 2689,
+      "last_cp": 2815,
+      "range": "U+0A81–U+0AFF",
+      "plane": 0,
+      "total_assigned": 91,
+      "covered_count": 84,
+      "missing_count": 7,
+      "coverage_percent": 92.31,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2809,
+        2810,
+        2811,
+        2812,
+        2813,
+        2814,
+        2815
+      ]
+    },
+    {
+      "name": "Oriya",
+      "first_cp": 2817,
+      "last_cp": 2935,
+      "range": "U+0B01–U+0B77",
+      "plane": 0,
+      "total_assigned": 91,
+      "covered_count": 90,
+      "missing_count": 1,
+      "coverage_percent": 98.9,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        2901
+      ]
+    },
+    {
+      "name": "Tamil",
+      "first_cp": 2946,
+      "last_cp": 3066,
+      "range": "U+0B82–U+0BFA",
+      "plane": 0,
+      "total_assigned": 72,
+      "covered_count": 72,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Telugu",
+      "first_cp": 3072,
+      "last_cp": 3199,
+      "range": "U+0C00–U+0C7F",
+      "plane": 0,
+      "total_assigned": 101,
+      "covered_count": 93,
+      "missing_count": 8,
+      "coverage_percent": 92.08,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        3072,
+        3076,
+        3124,
+        3132,
+        3162,
+        3164,
+        3165,
+        3191
+      ]
+    },
+    {
+      "name": "Kannada",
+      "first_cp": 3200,
+      "last_cp": 3315,
+      "range": "U+0C80–U+0CF3",
+      "plane": 0,
+      "total_assigned": 92,
+      "covered_count": 86,
+      "missing_count": 6,
+      "coverage_percent": 93.48,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        3200,
+        3201,
+        3204,
+        3292,
+        3293,
+        3315
+      ]
+    },
+    {
+      "name": "Malayalam",
+      "first_cp": 3328,
+      "last_cp": 3455,
+      "range": "U+0D00–U+0D7F",
+      "plane": 0,
+      "total_assigned": 118,
+      "covered_count": 98,
+      "missing_count": 20,
+      "coverage_percent": 83.05,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        3328,
+        3329,
+        3332,
+        3387,
+        3388,
+        3407,
+        3412,
+        3413,
+        3414,
+        3416,
+        3417,
+        3418,
+        3419,
+        3420,
+        3421,
+        3422,
+        3423,
+        3446,
+        3447,
+        3448
+      ]
+    },
+    {
+      "name": "Sinhala",
+      "first_cp": 3457,
+      "last_cp": 3572,
+      "range": "U+0D81–U+0DF4",
+      "plane": 0,
+      "total_assigned": 91,
+      "covered_count": 80,
+      "missing_count": 11,
+      "coverage_percent": 87.91,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        3457,
+        3558,
+        3559,
+        3560,
+        3561,
+        3562,
+        3563,
+        3564,
+        3565,
+        3566,
+        3567
+      ]
+    },
+    {
+      "name": "Thai",
+      "first_cp": 3585,
+      "last_cp": 3675,
+      "range": "U+0E01–U+0E5B",
+      "plane": 0,
+      "total_assigned": 87,
+      "covered_count": 87,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Lao",
+      "first_cp": 3713,
+      "last_cp": 3807,
+      "range": "U+0E81–U+0EDF",
+      "plane": 0,
+      "total_assigned": 83,
+      "covered_count": 67,
+      "missing_count": 16,
+      "coverage_percent": 80.72,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        3718,
+        3721,
+        3724,
+        3726,
+        3727,
+        3728,
+        3729,
+        3730,
+        3731,
+        3736,
+        3744,
+        3752,
+        3753,
+        3756,
+        3770,
+        3790
+      ]
+    },
+    {
+      "name": "Tibetan",
+      "first_cp": 3840,
+      "last_cp": 4058,
+      "range": "U+0F00–U+0FDA",
+      "plane": 0,
+      "total_assigned": 211,
+      "covered_count": 211,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Myanmar",
+      "first_cp": 4096,
+      "last_cp": 4255,
+      "range": "U+1000–U+109F",
+      "plane": 0,
+      "total_assigned": 160,
+      "covered_count": 160,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Georgian",
+      "first_cp": 4256,
+      "last_cp": 4351,
+      "range": "U+10A0–U+10FF",
+      "plane": 0,
+      "total_assigned": 88,
+      "covered_count": 88,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Hangul_Jamo",
+      "first_cp": 4352,
+      "last_cp": 4607,
+      "range": "U+1100–U+11FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ethiopic",
+      "first_cp": 4608,
+      "last_cp": 4988,
+      "range": "U+1200–U+137C",
+      "plane": 0,
+      "total_assigned": 358,
+      "covered_count": 358,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ethiopic_Supplement",
+      "first_cp": 4992,
+      "last_cp": 5017,
+      "range": "U+1380–U+1399",
+      "plane": 0,
+      "total_assigned": 26,
+      "covered_count": 26,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Cherokee",
+      "first_cp": 5024,
+      "last_cp": 5117,
+      "range": "U+13A0–U+13FD",
+      "plane": 0,
+      "total_assigned": 92,
+      "covered_count": 85,
+      "missing_count": 7,
+      "coverage_percent": 92.39,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        5109,
+        5112,
+        5113,
+        5114,
+        5115,
+        5116,
+        5117
+      ]
+    },
+    {
+      "name": "Unified_Canadian_Aboriginal_Syllabics",
+      "first_cp": 5120,
+      "last_cp": 5759,
+      "range": "U+1400–U+167F",
+      "plane": 0,
+      "total_assigned": 640,
+      "covered_count": 640,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ogham",
+      "first_cp": 5760,
+      "last_cp": 5788,
+      "range": "U+1680–U+169C",
+      "plane": 0,
+      "total_assigned": 29,
+      "covered_count": 29,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Runic",
+      "first_cp": 5792,
+      "last_cp": 5880,
+      "range": "U+16A0–U+16F8",
+      "plane": 0,
+      "total_assigned": 89,
+      "covered_count": 81,
+      "missing_count": 8,
+      "coverage_percent": 91.01,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        5873,
+        5874,
+        5875,
+        5876,
+        5877,
+        5878,
+        5879,
+        5880
+      ]
+    },
+    {
+      "name": "Tagalog",
+      "first_cp": 5888,
+      "last_cp": 5919,
+      "range": "U+1700–U+171F",
+      "plane": 0,
+      "total_assigned": 23,
+      "covered_count": 20,
+      "missing_count": 3,
+      "coverage_percent": 86.96,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        5901,
+        5909,
+        5919
+      ]
+    },
+    {
+      "name": "Hanunoo",
+      "first_cp": 5920,
+      "last_cp": 5942,
+      "range": "U+1720–U+1736",
+      "plane": 0,
+      "total_assigned": 23,
+      "covered_count": 23,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Buhid",
+      "first_cp": 5952,
+      "last_cp": 5971,
+      "range": "U+1740–U+1753",
+      "plane": 0,
+      "total_assigned": 20,
+      "covered_count": 20,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Tagbanwa",
+      "first_cp": 5984,
+      "last_cp": 6003,
+      "range": "U+1760–U+1773",
+      "plane": 0,
+      "total_assigned": 18,
+      "covered_count": 18,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Khmer",
+      "first_cp": 6016,
+      "last_cp": 6137,
+      "range": "U+1780–U+17F9",
+      "plane": 0,
+      "total_assigned": 114,
+      "covered_count": 114,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Mongolian",
+      "first_cp": 6144,
+      "last_cp": 6314,
+      "range": "U+1800–U+18AA",
+      "plane": 0,
+      "total_assigned": 158,
+      "covered_count": 156,
+      "missing_count": 2,
+      "coverage_percent": 98.73,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        6159,
+        6264
+      ]
+    },
+    {
+      "name": "Unified_Canadian_Aboriginal_Syllabics_Extended",
+      "first_cp": 6320,
+      "last_cp": 6389,
+      "range": "U+18B0–U+18F5",
+      "plane": 0,
+      "total_assigned": 70,
+      "covered_count": 70,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Limbu",
+      "first_cp": 6400,
+      "last_cp": 6479,
+      "range": "U+1900–U+194F",
+      "plane": 0,
+      "total_assigned": 68,
+      "covered_count": 66,
+      "missing_count": 2,
+      "coverage_percent": 97.06,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        6429,
+        6430
+      ]
+    },
+    {
+      "name": "Tai_Le",
+      "first_cp": 6480,
+      "last_cp": 6516,
+      "range": "U+1950–U+1974",
+      "plane": 0,
+      "total_assigned": 35,
+      "covered_count": 35,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "New_Tai_Lue",
+      "first_cp": 6528,
+      "last_cp": 6623,
+      "range": "U+1980–U+19DF",
+      "plane": 0,
+      "total_assigned": 83,
+      "covered_count": 83,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Khmer_Symbols",
+      "first_cp": 6624,
+      "last_cp": 6655,
+      "range": "U+19E0–U+19FF",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Buginese",
+      "first_cp": 6656,
+      "last_cp": 6687,
+      "range": "U+1A00–U+1A1F",
+      "plane": 0,
+      "total_assigned": 30,
+      "covered_count": 30,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Tai_Tham",
+      "first_cp": 6688,
+      "last_cp": 6829,
+      "range": "U+1A20–U+1AAD",
+      "plane": 0,
+      "total_assigned": 127,
+      "covered_count": 127,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Balinese",
+      "first_cp": 6912,
+      "last_cp": 7039,
+      "range": "U+1B00–U+1B7F",
+      "plane": 0,
+      "total_assigned": 127,
+      "covered_count": 121,
+      "missing_count": 6,
+      "coverage_percent": 95.28,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        6988,
+        6990,
+        6991,
+        7037,
+        7038,
+        7039
+      ]
+    },
+    {
+      "name": "Sundanese",
+      "first_cp": 7040,
+      "last_cp": 7103,
+      "range": "U+1B80–U+1BBF",
+      "plane": 0,
+      "total_assigned": 64,
+      "covered_count": 64,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Batak",
+      "first_cp": 7104,
+      "last_cp": 7167,
+      "range": "U+1BC0–U+1BFF",
+      "plane": 0,
+      "total_assigned": 56,
+      "covered_count": 56,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Lepcha",
+      "first_cp": 7168,
+      "last_cp": 7247,
+      "range": "U+1C00–U+1C4F",
+      "plane": 0,
+      "total_assigned": 74,
+      "covered_count": 74,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ol_Chiki",
+      "first_cp": 7248,
+      "last_cp": 7295,
+      "range": "U+1C50–U+1C7F",
+      "plane": 0,
+      "total_assigned": 48,
+      "covered_count": 48,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Sundanese_Supplement",
+      "first_cp": 7360,
+      "last_cp": 7367,
+      "range": "U+1CC0–U+1CC7",
+      "plane": 0,
+      "total_assigned": 8,
+      "covered_count": 8,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Vedic_Extensions",
+      "first_cp": 7376,
+      "last_cp": 7418,
+      "range": "U+1CD0–U+1CFA",
+      "plane": 0,
+      "total_assigned": 43,
+      "covered_count": 39,
+      "missing_count": 4,
+      "coverage_percent": 90.7,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        7415,
+        7416,
+        7417,
+        7418
+      ]
+    },
+    {
+      "name": "Phonetic_Extensions",
+      "first_cp": 7424,
+      "last_cp": 7551,
+      "range": "U+1D00–U+1D7F",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 128,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Phonetic_Extensions_Supplement",
+      "first_cp": 7552,
+      "last_cp": 7615,
+      "range": "U+1D80–U+1DBF",
+      "plane": 0,
+      "total_assigned": 64,
+      "covered_count": 64,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Combining_Diacritical_Marks_Supplement",
+      "first_cp": 7616,
+      "last_cp": 7679,
+      "range": "U+1DC0–U+1DFF",
+      "plane": 0,
+      "total_assigned": 64,
+      "covered_count": 43,
+      "missing_count": 21,
+      "coverage_percent": 67.19,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        7655,
+        7656,
+        7657,
+        7658,
+        7659,
+        7660,
+        7661,
+        7662,
+        7663,
+        7664,
+        7665,
+        7666,
+        7667,
+        7668,
+        7669,
+        7670,
+        7671,
+        7672,
+        7673,
+        7674,
+        7675
+      ]
+    },
+    {
+      "name": "Latin_Extended_Additional",
+      "first_cp": 7680,
+      "last_cp": 7935,
+      "range": "U+1E00–U+1EFF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Greek_Extended",
+      "first_cp": 7936,
+      "last_cp": 8190,
+      "range": "U+1F00–U+1FFE",
+      "plane": 0,
+      "total_assigned": 233,
+      "covered_count": 233,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "General_Punctuation",
+      "first_cp": 8192,
+      "last_cp": 8303,
+      "range": "U+2000–U+206F",
+      "plane": 0,
+      "total_assigned": 111,
+      "covered_count": 107,
+      "missing_count": 4,
+      "coverage_percent": 96.4,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        8294,
+        8295,
+        8296,
+        8297
+      ]
+    },
+    {
+      "name": "Superscripts_and_Subscripts",
+      "first_cp": 8304,
+      "last_cp": 8348,
+      "range": "U+2070–U+209C",
+      "plane": 0,
+      "total_assigned": 42,
+      "covered_count": 42,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Currency_Symbols",
+      "first_cp": 8352,
+      "last_cp": 8385,
+      "range": "U+20A0–U+20C1",
+      "plane": 0,
+      "total_assigned": 34,
+      "covered_count": 26,
+      "missing_count": 8,
+      "coverage_percent": 76.47,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        8378,
+        8379,
+        8380,
+        8381,
+        8382,
+        8383,
+        8384,
+        8385
+      ]
+    },
+    {
+      "name": "Combining_Diacritical_Marks_for_Symbols",
+      "first_cp": 8400,
+      "last_cp": 8432,
+      "range": "U+20D0–U+20F0",
+      "plane": 0,
+      "total_assigned": 33,
+      "covered_count": 33,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Letterlike_Symbols",
+      "first_cp": 8448,
+      "last_cp": 8527,
+      "range": "U+2100–U+214F",
+      "plane": 0,
+      "total_assigned": 80,
+      "covered_count": 80,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Number_Forms",
+      "first_cp": 8528,
+      "last_cp": 8587,
+      "range": "U+2150–U+218B",
+      "plane": 0,
+      "total_assigned": 60,
+      "covered_count": 58,
+      "missing_count": 2,
+      "coverage_percent": 96.67,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        8586,
+        8587
+      ]
+    },
+    {
+      "name": "Arrows",
+      "first_cp": 8592,
+      "last_cp": 8703,
+      "range": "U+2190–U+21FF",
+      "plane": 0,
+      "total_assigned": 112,
+      "covered_count": 112,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Mathematical_Operators",
+      "first_cp": 8704,
+      "last_cp": 8959,
+      "range": "U+2200–U+22FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Miscellaneous_Technical",
+      "first_cp": 8960,
+      "last_cp": 9215,
+      "range": "U+2300–U+23FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 244,
+      "missing_count": 12,
+      "coverage_percent": 95.31,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        9204,
+        9205,
+        9206,
+        9207,
+        9208,
+        9209,
+        9210,
+        9211,
+        9212,
+        9213,
+        9214,
+        9215
+      ]
+    },
+    {
+      "name": "Control_Pictures",
+      "first_cp": 9216,
+      "last_cp": 9257,
+      "range": "U+2400–U+2429",
+      "plane": 0,
+      "total_assigned": 42,
+      "covered_count": 39,
+      "missing_count": 3,
+      "coverage_percent": 92.86,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        9255,
+        9256,
+        9257
+      ]
+    },
+    {
+      "name": "Optical_Character_Recognition",
+      "first_cp": 9280,
+      "last_cp": 9290,
+      "range": "U+2440–U+244A",
+      "plane": 0,
+      "total_assigned": 11,
+      "covered_count": 11,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Enclosed_Alphanumerics",
+      "first_cp": 9312,
+      "last_cp": 9471,
+      "range": "U+2460–U+24FF",
+      "plane": 0,
+      "total_assigned": 160,
+      "covered_count": 160,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Box_Drawing",
+      "first_cp": 9472,
+      "last_cp": 9599,
+      "range": "U+2500–U+257F",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 128,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Block_Elements",
+      "first_cp": 9600,
+      "last_cp": 9631,
+      "range": "U+2580–U+259F",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Geometric_Shapes",
+      "first_cp": 9632,
+      "last_cp": 9727,
+      "range": "U+25A0–U+25FF",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 96,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Miscellaneous_Symbols",
+      "first_cp": 9728,
+      "last_cp": 9983,
+      "range": "U+2600–U+26FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Dingbats",
+      "first_cp": 9984,
+      "last_cp": 10175,
+      "range": "U+2700–U+27BF",
+      "plane": 0,
+      "total_assigned": 192,
+      "covered_count": 191,
+      "missing_count": 1,
+      "coverage_percent": 99.48,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        9984
+      ]
+    },
+    {
+      "name": "Miscellaneous_Mathematical_Symbols-A",
+      "first_cp": 10176,
+      "last_cp": 10223,
+      "range": "U+27C0–U+27EF",
+      "plane": 0,
+      "total_assigned": 48,
+      "covered_count": 48,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Supplemental_Arrows-A",
+      "first_cp": 10224,
+      "last_cp": 10239,
+      "range": "U+27F0–U+27FF",
+      "plane": 0,
+      "total_assigned": 16,
+      "covered_count": 16,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Braille_Patterns",
+      "first_cp": 10240,
+      "last_cp": 10495,
+      "range": "U+2800–U+28FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Supplemental_Arrows-B",
+      "first_cp": 10496,
+      "last_cp": 10623,
+      "range": "U+2900–U+297F",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 128,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Miscellaneous_Mathematical_Symbols-B",
+      "first_cp": 10624,
+      "last_cp": 10751,
+      "range": "U+2980–U+29FF",
+      "plane": 0,
+      "total_assigned": 128,
+      "covered_count": 128,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Supplemental_Mathematical_Operators",
+      "first_cp": 10752,
+      "last_cp": 11007,
+      "range": "U+2A00–U+2AFF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Miscellaneous_Symbols_and_Arrows",
+      "first_cp": 11008,
+      "last_cp": 11263,
+      "range": "U+2B00–U+2BFF",
+      "plane": 0,
+      "total_assigned": 254,
+      "covered_count": 87,
+      "missing_count": 167,
+      "coverage_percent": 34.25,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        11085,
+        11086,
+        11087,
+        11098,
+        11099,
+        11100,
+        11101,
+        11102,
+        11103,
+        11104,
+        11105,
+        11106,
+        11107,
+        11108,
+        11109,
+        11110,
+        11111,
+        11112,
+        11113,
+        11114,
+        11115,
+        11116,
+        11117,
+        11118,
+        11119,
+        11120,
+        11121,
+        11122,
+        11123,
+        11126,
+        11127,
+        11128,
+        11129,
+        11130,
+        11131,
+        11132,
+        11133,
+        11134,
+        11135,
+        11136,
+        11137,
+        11138,
+        11139,
+        11140,
+        11141,
+        11142,
+        11143,
+        11144,
+        11145,
+        11146,
+        11147,
+        11148,
+        11149,
+        11150,
+        11151,
+        11152,
+        11153,
+        11154,
+        11155,
+        11156,
+        11157,
+        11158,
+        11159,
+        11160,
+        11161,
+        11162,
+        11163,
+        11164,
+        11165,
+        11166,
+        11167,
+        11168,
+        11169,
+        11170,
+        11171,
+        11172,
+        11173,
+        11174,
+        11175,
+        11176,
+        11177,
+        11178,
+        11179,
+        11180,
+        11181,
+        11182,
+        11183,
+        11184,
+        11185,
+        11186,
+        11187,
+        11188,
+        11189,
+        11190,
+        11191,
+        11192,
+        11193,
+        11194,
+        11195,
+        11196,
+        11197,
+        11198,
+        11199,
+        11200,
+        11201,
+        11202,
+        11203,
+        11204,
+        11205,
+        11206,
+        11207,
+        11208,
+        11209,
+        11210,
+        11211,
+        11212,
+        11213,
+        11214,
+        11215,
+        11216,
+        11217,
+        11218,
+        11219,
+        11220,
+        11221,
+        11222,
+        11223,
+        11224,
+        11225,
+        11226,
+        11227,
+        11228,
+        11229,
+        11230,
+        11231,
+        11232,
+        11233,
+        11234,
+        11235,
+        11236,
+        11237,
+        11238,
+        11239,
+        11240,
+        11241,
+        11242,
+        11243,
+        11244,
+        11245,
+        11246,
+        11247,
+        11248,
+        11249,
+        11250,
+        11251,
+        11252,
+        11253,
+        11254,
+        11255,
+        11256,
+        11257,
+        11258,
+        11259,
+        11260,
+        11261,
+        11262,
+        11263
+      ]
+    },
+    {
+      "name": "Glagolitic",
+      "first_cp": 11264,
+      "last_cp": 11359,
+      "range": "U+2C00–U+2C5F",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 94,
+      "missing_count": 2,
+      "coverage_percent": 97.92,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        11311,
+        11359
+      ]
+    },
+    {
+      "name": "Latin_Extended-C",
+      "first_cp": 11360,
+      "last_cp": 11391,
+      "range": "U+2C60–U+2C7F",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Coptic",
+      "first_cp": 11392,
+      "last_cp": 11519,
+      "range": "U+2C80–U+2CFF",
+      "plane": 0,
+      "total_assigned": 123,
+      "covered_count": 123,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Georgian_Supplement",
+      "first_cp": 11520,
+      "last_cp": 11565,
+      "range": "U+2D00–U+2D2D",
+      "plane": 0,
+      "total_assigned": 40,
+      "covered_count": 40,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Tifinagh",
+      "first_cp": 11568,
+      "last_cp": 11647,
+      "range": "U+2D30–U+2D7F",
+      "plane": 0,
+      "total_assigned": 59,
+      "covered_count": 59,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ethiopic_Extended",
+      "first_cp": 11648,
+      "last_cp": 11742,
+      "range": "U+2D80–U+2DDE",
+      "plane": 0,
+      "total_assigned": 79,
+      "covered_count": 79,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Cyrillic_Extended-A",
+      "first_cp": 11744,
+      "last_cp": 11775,
+      "range": "U+2DE0–U+2DFF",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Supplemental_Punctuation",
+      "first_cp": 11776,
+      "last_cp": 11869,
+      "range": "U+2E00–U+2E5D",
+      "plane": 0,
+      "total_assigned": 94,
+      "covered_count": 60,
+      "missing_count": 34,
+      "coverage_percent": 63.83,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        11836,
+        11837,
+        11838,
+        11839,
+        11840,
+        11841,
+        11842,
+        11843,
+        11844,
+        11845,
+        11846,
+        11847,
+        11848,
+        11849,
+        11850,
+        11851,
+        11852,
+        11853,
+        11854,
+        11855,
+        11856,
+        11857,
+        11858,
+        11859,
+        11860,
+        11861,
+        11862,
+        11863,
+        11864,
+        11865,
+        11866,
+        11867,
+        11868,
+        11869
+      ]
+    },
+    {
+      "name": "CJK_Radicals_Supplement",
+      "first_cp": 11904,
+      "last_cp": 12019,
+      "range": "U+2E80–U+2EF3",
+      "plane": 0,
+      "total_assigned": 115,
+      "covered_count": 115,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Kangxi_Radicals",
+      "first_cp": 12032,
+      "last_cp": 12245,
+      "range": "U+2F00–U+2FD5",
+      "plane": 0,
+      "total_assigned": 214,
+      "covered_count": 214,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ideographic_Description_Characters",
+      "first_cp": 12272,
+      "last_cp": 12287,
+      "range": "U+2FF0–U+2FFF",
+      "plane": 0,
+      "total_assigned": 16,
+      "covered_count": 12,
+      "missing_count": 4,
+      "coverage_percent": 75.0,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        12284,
+        12285,
+        12286,
+        12287
+      ]
+    },
+    {
+      "name": "CJK_Symbols_and_Punctuation",
+      "first_cp": 12288,
+      "last_cp": 12351,
+      "range": "U+3000–U+303F",
+      "plane": 0,
+      "total_assigned": 64,
+      "covered_count": 64,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Hiragana",
+      "first_cp": 12353,
+      "last_cp": 12447,
+      "range": "U+3041–U+309F",
+      "plane": 0,
+      "total_assigned": 93,
+      "covered_count": 93,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Katakana",
+      "first_cp": 12448,
+      "last_cp": 12543,
+      "range": "U+30A0–U+30FF",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 96,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Bopomofo",
+      "first_cp": 12549,
+      "last_cp": 12591,
+      "range": "U+3105–U+312F",
+      "plane": 0,
+      "total_assigned": 43,
+      "covered_count": 41,
+      "missing_count": 2,
+      "coverage_percent": 95.35,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        12590,
+        12591
+      ]
+    },
+    {
+      "name": "Hangul_Compatibility_Jamo",
+      "first_cp": 12593,
+      "last_cp": 12686,
+      "range": "U+3131–U+318E",
+      "plane": 0,
+      "total_assigned": 94,
+      "covered_count": 94,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Kanbun",
+      "first_cp": 12688,
+      "last_cp": 12703,
+      "range": "U+3190–U+319F",
+      "plane": 0,
+      "total_assigned": 16,
+      "covered_count": 16,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Bopomofo_Extended",
+      "first_cp": 12704,
+      "last_cp": 12735,
+      "range": "U+31A0–U+31BF",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 27,
+      "missing_count": 5,
+      "coverage_percent": 84.38,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        12731,
+        12732,
+        12733,
+        12734,
+        12735
+      ]
+    },
+    {
+      "name": "CJK_Strokes",
+      "first_cp": 12736,
+      "last_cp": 12783,
+      "range": "U+31C0–U+31EF",
+      "plane": 0,
+      "total_assigned": 39,
+      "covered_count": 36,
+      "missing_count": 3,
+      "coverage_percent": 92.31,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        12772,
+        12773,
+        12783
+      ]
+    },
+    {
+      "name": "Katakana_Phonetic_Extensions",
+      "first_cp": 12784,
+      "last_cp": 12799,
+      "range": "U+31F0–U+31FF",
+      "plane": 0,
+      "total_assigned": 16,
+      "covered_count": 16,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Enclosed_CJK_Letters_and_Months",
+      "first_cp": 12800,
+      "last_cp": 13055,
+      "range": "U+3200–U+32FF",
+      "plane": 0,
+      "total_assigned": 255,
+      "covered_count": 254,
+      "missing_count": 1,
+      "coverage_percent": 99.61,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        13055
+      ]
+    },
+    {
+      "name": "CJK_Compatibility",
+      "first_cp": 13056,
+      "last_cp": 13311,
+      "range": "U+3300–U+33FF",
+      "plane": 0,
+      "total_assigned": 256,
+      "covered_count": 256,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "CJK_Unified_Ideographs_Extension_A",
+      "first_cp": 13312,
+      "last_cp": 19903,
+      "range": "U+3400–U+4DBF",
+      "plane": 0,
+      "total_assigned": 6592,
+      "covered_count": 6582,
+      "missing_count": 10,
+      "coverage_percent": 99.85,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        19894,
+        19895,
+        19896,
+        19897,
+        19898,
+        19899,
+        19900,
+        19901,
+        19902,
+        19903
+      ]
+    },
+    {
+      "name": "Yijing_Hexagram_Symbols",
+      "first_cp": 19904,
+      "last_cp": 19967,
+      "range": "U+4DC0–U+4DFF",
+      "plane": 0,
+      "total_assigned": 64,
+      "covered_count": 64,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "CJK_Unified_Ideographs",
+      "first_cp": 19968,
+      "last_cp": 40959,
+      "range": "U+4E00–U+9FFF",
+      "plane": 0,
+      "total_assigned": 20992,
+      "covered_count": 20941,
+      "missing_count": 51,
+      "coverage_percent": 99.76,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        40909,
+        40910,
+        40911,
+        40912,
+        40913,
+        40914,
+        40915,
+        40916,
+        40917,
+        40918,
+        40919,
+        40920,
+        40921,
+        40922,
+        40923,
+        40924,
+        40925,
+        40926,
+        40927,
+        40928,
+        40929,
+        40930,
+        40931,
+        40932,
+        40933,
+        40934,
+        40935,
+        40936,
+        40937,
+        40938,
+        40939,
+        40940,
+        40941,
+        40942,
+        40943,
+        40944,
+        40945,
+        40946,
+        40947,
+        40948,
+        40949,
+        40950,
+        40951,
+        40952,
+        40953,
+        40954,
+        40955,
+        40956,
+        40957,
+        40958,
+        40959
+      ]
+    },
+    {
+      "name": "Yi_Syllables",
+      "first_cp": 40960,
+      "last_cp": 42124,
+      "range": "U+A000–U+A48C",
+      "plane": 0,
+      "total_assigned": 1165,
+      "covered_count": 1165,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Yi_Radicals",
+      "first_cp": 42128,
+      "last_cp": 42182,
+      "range": "U+A490–U+A4C6",
+      "plane": 0,
+      "total_assigned": 55,
+      "covered_count": 55,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Lisu",
+      "first_cp": 42192,
+      "last_cp": 42239,
+      "range": "U+A4D0–U+A4FF",
+      "plane": 0,
+      "total_assigned": 48,
+      "covered_count": 48,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Vai",
+      "first_cp": 42240,
+      "last_cp": 42539,
+      "range": "U+A500–U+A62B",
+      "plane": 0,
+      "total_assigned": 300,
+      "covered_count": 300,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Cyrillic_Extended-B",
+      "first_cp": 42560,
+      "last_cp": 42655,
+      "range": "U+A640–U+A69F",
+      "plane": 0,
+      "total_assigned": 96,
+      "covered_count": 89,
+      "missing_count": 7,
+      "coverage_percent": 92.71,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        42648,
+        42649,
+        42650,
+        42651,
+        42652,
+        42653,
+        42654
+      ]
+    },
+    {
+      "name": "Bamum",
+      "first_cp": 42656,
+      "last_cp": 42743,
+      "range": "U+A6A0–U+A6F7",
+      "plane": 0,
+      "total_assigned": 88,
+      "covered_count": 88,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Modifier_Tone_Letters",
+      "first_cp": 42752,
+      "last_cp": 42783,
+      "range": "U+A700–U+A71F",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Latin_Extended-D",
+      "first_cp": 42784,
+      "last_cp": 43007,
+      "range": "U+A720–U+A7FF",
+      "plane": 0,
+      "total_assigned": 204,
+      "covered_count": 134,
+      "missing_count": 70,
+      "coverage_percent": 65.69,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        42895,
+        42900,
+        42901,
+        42902,
+        42903,
+        42904,
+        42905,
+        42906,
+        42907,
+        42908,
+        42909,
+        42910,
+        42911,
+        42923,
+        42924,
+        42925,
+        42926,
+        42927,
+        42928,
+        42929,
+        42930,
+        42931,
+        42932,
+        42933,
+        42934,
+        42935,
+        42936,
+        42937,
+        42938,
+        42939,
+        42940,
+        42941,
+        42942,
+        42943,
+        42944,
+        42945,
+        42946,
+        42947,
+        42948,
+        42949,
+        42950,
+        42951,
+        42952,
+        42953,
+        42954,
+        42955,
+        42956,
+        42957,
+        42958,
+        42959,
+        42960,
+        42961,
+        42962,
+        42963,
+        42964,
+        42965,
+        42966,
+        42967,
+        42968,
+        42969,
+        42970,
+        42971,
+        42972,
+        42993,
+        42994,
+        42995,
+        42996,
+        42997,
+        42998,
+        42999
+      ]
+    },
+    {
+      "name": "Syloti_Nagri",
+      "first_cp": 43008,
+      "last_cp": 43052,
+      "range": "U+A800–U+A82C",
+      "plane": 0,
+      "total_assigned": 45,
+      "covered_count": 44,
+      "missing_count": 1,
+      "coverage_percent": 97.78,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        43052
+      ]
+    },
+    {
+      "name": "Common_Indic_Number_Forms",
+      "first_cp": 43056,
+      "last_cp": 43065,
+      "range": "U+A830–U+A839",
+      "plane": 0,
+      "total_assigned": 10,
+      "covered_count": 10,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Phags-pa",
+      "first_cp": 43072,
+      "last_cp": 43127,
+      "range": "U+A840–U+A877",
+      "plane": 0,
+      "total_assigned": 56,
+      "covered_count": 56,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Saurashtra",
+      "first_cp": 43136,
+      "last_cp": 43225,
+      "range": "U+A880–U+A8D9",
+      "plane": 0,
+      "total_assigned": 82,
+      "covered_count": 81,
+      "missing_count": 1,
+      "coverage_percent": 98.78,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        43205
+      ]
+    },
+    {
+      "name": "Devanagari_Extended",
+      "first_cp": 43232,
+      "last_cp": 43263,
+      "range": "U+A8E0–U+A8FF",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 28,
+      "missing_count": 4,
+      "coverage_percent": 87.5,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        43260,
+        43261,
+        43262,
+        43263
+      ]
+    },
+    {
+      "name": "Kayah_Li",
+      "first_cp": 43264,
+      "last_cp": 43311,
+      "range": "U+A900–U+A92F",
+      "plane": 0,
+      "total_assigned": 48,
+      "covered_count": 48,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Rejang",
+      "first_cp": 43312,
+      "last_cp": 43359,
+      "range": "U+A930–U+A95F",
+      "plane": 0,
+      "total_assigned": 37,
+      "covered_count": 37,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Hangul_Jamo_Extended-A",
+      "first_cp": 43360,
+      "last_cp": 43388,
+      "range": "U+A960–U+A97C",
+      "plane": 0,
+      "total_assigned": 29,
+      "covered_count": 29,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Javanese",
+      "first_cp": 43392,
+      "last_cp": 43487,
+      "range": "U+A980–U+A9DF",
+      "plane": 0,
+      "total_assigned": 91,
+      "covered_count": 91,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Cham",
+      "first_cp": 43520,
+      "last_cp": 43615,
+      "range": "U+AA00–U+AA5F",
+      "plane": 0,
+      "total_assigned": 83,
+      "covered_count": 83,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Myanmar_Extended-A",
+      "first_cp": 43616,
+      "last_cp": 43647,
+      "range": "U+AA60–U+AA7F",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 28,
+      "missing_count": 4,
+      "coverage_percent": 87.5,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        43644,
+        43645,
+        43646,
+        43647
+      ]
+    },
+    {
+      "name": "Tai_Viet",
+      "first_cp": 43648,
+      "last_cp": 43743,
+      "range": "U+AA80–U+AADF",
+      "plane": 0,
+      "total_assigned": 72,
+      "covered_count": 72,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Meetei_Mayek_Extensions",
+      "first_cp": 43744,
+      "last_cp": 43766,
+      "range": "U+AAE0–U+AAF6",
+      "plane": 0,
+      "total_assigned": 23,
+      "covered_count": 23,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Ethiopic_Extended-A",
+      "first_cp": 43777,
+      "last_cp": 43822,
+      "range": "U+AB01–U+AB2E",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Meetei_Mayek",
+      "first_cp": 43968,
+      "last_cp": 44025,
+      "range": "U+ABC0–U+ABF9",
+      "plane": 0,
+      "total_assigned": 56,
+      "covered_count": 56,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Hangul_Syllables",
+      "first_cp": 44032,
+      "last_cp": 55203,
+      "range": "U+AC00–U+D7A3",
+      "plane": 0,
+      "total_assigned": 11172,
+      "covered_count": 11172,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Hangul_Jamo_Extended-B",
+      "first_cp": 55216,
+      "last_cp": 55291,
+      "range": "U+D7B0–U+D7FB",
+      "plane": 0,
+      "total_assigned": 72,
+      "covered_count": 72,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Private_Use_Area",
+      "first_cp": 57344,
+      "last_cp": 63743,
+      "range": "U+E000–U+F8FF",
+      "plane": 0,
+      "total_assigned": 6400,
+      "covered_count": 6400,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "CJK_Compatibility_Ideographs",
+      "first_cp": 63744,
+      "last_cp": 64217,
+      "range": "U+F900–U+FAD9",
+      "plane": 0,
+      "total_assigned": 472,
+      "covered_count": 472,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Alphabetic_Presentation_Forms",
+      "first_cp": 64256,
+      "last_cp": 64335,
+      "range": "U+FB00–U+FB4F",
+      "plane": 0,
+      "total_assigned": 58,
+      "covered_count": 58,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Arabic_Presentation_Forms-A",
+      "first_cp": 64336,
+      "last_cp": 65023,
+      "range": "U+FB50–U+FDFF",
+      "plane": 0,
+      "total_assigned": 656,
+      "covered_count": 611,
+      "missing_count": 45,
+      "coverage_percent": 93.14,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        64450,
+        64451,
+        64452,
+        64453,
+        64454,
+        64455,
+        64456,
+        64457,
+        64458,
+        64459,
+        64460,
+        64461,
+        64462,
+        64463,
+        64464,
+        64465,
+        64466,
+        64832,
+        64833,
+        64834,
+        64835,
+        64836,
+        64837,
+        64838,
+        64839,
+        64840,
+        64841,
+        64842,
+        64843,
+        64844,
+        64845,
+        64846,
+        64847,
+        64912,
+        64913,
+        64968,
+        64969,
+        64970,
+        64971,
+        64972,
+        64973,
+        64974,
+        64975,
+        65022,
+        65023
+      ]
+    },
+    {
+      "name": "Variation_Selectors",
+      "first_cp": 65024,
+      "last_cp": 65039,
+      "range": "U+FE00–U+FE0F",
+      "plane": 0,
+      "total_assigned": 16,
+      "covered_count": 16,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Vertical_Forms",
+      "first_cp": 65040,
+      "last_cp": 65049,
+      "range": "U+FE10–U+FE19",
+      "plane": 0,
+      "total_assigned": 10,
+      "covered_count": 10,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Combining_Half_Marks",
+      "first_cp": 65056,
+      "last_cp": 65071,
+      "range": "U+FE20–U+FE2F",
+      "plane": 0,
+      "total_assigned": 16,
+      "covered_count": 7,
+      "missing_count": 9,
+      "coverage_percent": 43.75,
+      "status": "PARTIAL",
+      "missing_codepoints": [
+        65063,
+        65064,
+        65065,
+        65066,
+        65067,
+        65068,
+        65069,
+        65070,
+        65071
+      ]
+    },
+    {
+      "name": "CJK_Compatibility_Forms",
+      "first_cp": 65072,
+      "last_cp": 65103,
+      "range": "U+FE30–U+FE4F",
+      "plane": 0,
+      "total_assigned": 32,
+      "covered_count": 32,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Small_Form_Variants",
+      "first_cp": 65104,
+      "last_cp": 65131,
+      "range": "U+FE50–U+FE6B",
+      "plane": 0,
+      "total_assigned": 26,
+      "covered_count": 26,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Arabic_Presentation_Forms-B",
+      "first_cp": 65136,
+      "last_cp": 65279,
+      "range": "U+FE70–U+FEFF",
+      "plane": 0,
+      "total_assigned": 141,
+      "covered_count": 141,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Halfwidth_and_Fullwidth_Forms",
+      "first_cp": 65281,
+      "last_cp": 65518,
+      "range": "U+FF01–U+FFEE",
+      "plane": 0,
+      "total_assigned": 225,
+      "covered_count": 225,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    },
+    {
+      "name": "Specials",
+      "first_cp": 65529,
+      "last_cp": 65533,
+      "range": "U+FFF9–U+FFFD",
+      "plane": 0,
+      "total_assigned": 5,
+      "covered_count": 5,
+      "missing_count": 0,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE",
+      "missing_codepoints": []
+    }
+  ],
+  "script_summaries": [
+    {
+      "script_code": "Arab",
+      "script_name": "Arab",
+      "blocks_total": 9,
+      "assigned_total": 1413,
+      "covered_total": 1072,
+      "coverage_percent": 75.87,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Armn",
+      "script_name": "Armn",
+      "blocks_total": 2,
+      "assigned_total": 96,
+      "covered_total": 92,
+      "coverage_percent": 95.83,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Bali",
+      "script_name": "Bali",
+      "blocks_total": 1,
+      "assigned_total": 127,
+      "covered_total": 121,
+      "coverage_percent": 95.28,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Bamu",
+      "script_name": "Bamu",
+      "blocks_total": 2,
+      "assigned_total": 657,
+      "covered_total": 88,
+      "coverage_percent": 13.39,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Batk",
+      "script_name": "Batk",
+      "blocks_total": 1,
+      "assigned_total": 56,
+      "covered_total": 56,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Beng",
+      "script_name": "Beng",
+      "blocks_total": 1,
+      "assigned_total": 96,
+      "covered_total": 92,
+      "coverage_percent": 95.83,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Bopo",
+      "script_name": "Bopo",
+      "blocks_total": 3,
+      "assigned_total": 77,
+      "covered_total": 70,
+      "coverage_percent": 90.91,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Brai",
+      "script_name": "Brai",
+      "blocks_total": 1,
+      "assigned_total": 256,
+      "covered_total": 256,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Bugi",
+      "script_name": "Bugi",
+      "blocks_total": 1,
+      "assigned_total": 30,
+      "covered_total": 30,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Buhd",
+      "script_name": "Buhd",
+      "blocks_total": 1,
+      "assigned_total": 20,
+      "covered_total": 20,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Cans",
+      "script_name": "Cans",
+      "blocks_total": 3,
+      "assigned_total": 726,
+      "covered_total": 710,
+      "coverage_percent": 97.8,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Cham",
+      "script_name": "Cham",
+      "blocks_total": 1,
+      "assigned_total": 83,
+      "covered_total": 83,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Cher",
+      "script_name": "Cher",
+      "blocks_total": 2,
+      "assigned_total": 172,
+      "covered_total": 85,
+      "coverage_percent": 49.42,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Copt",
+      "script_name": "Copt",
+      "blocks_total": 2,
+      "assigned_total": 137,
+      "covered_total": 137,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Cyrl",
+      "script_name": "Cyrl",
+      "blocks_total": 8,
+      "assigned_total": 508,
+      "covered_total": 417,
+      "coverage_percent": 82.09,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Deva",
+      "script_name": "Deva",
+      "blocks_total": 3,
+      "assigned_total": 164,
+      "covered_total": 149,
+      "coverage_percent": 90.85,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Ethi",
+      "script_name": "Ethi",
+      "blocks_total": 5,
+      "assigned_total": 523,
+      "covered_total": 495,
+      "coverage_percent": 94.65,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Geor",
+      "script_name": "Geor",
+      "blocks_total": 3,
+      "assigned_total": 173,
+      "covered_total": 127,
+      "coverage_percent": 73.41,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Glag",
+      "script_name": "Glag",
+      "blocks_total": 2,
+      "assigned_total": 134,
+      "covered_total": 94,
+      "coverage_percent": 70.15,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Grek",
+      "script_name": "Grek",
+      "blocks_total": 9,
+      "assigned_total": 518,
+      "covered_total": 366,
+      "coverage_percent": 70.66,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Gujr",
+      "script_name": "Gujr",
+      "blocks_total": 1,
+      "assigned_total": 91,
+      "covered_total": 84,
+      "coverage_percent": 92.31,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Guru",
+      "script_name": "Guru",
+      "blocks_total": 1,
+      "assigned_total": 80,
+      "covered_total": 79,
+      "coverage_percent": 98.75,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Hang",
+      "script_name": "Hang",
+      "blocks_total": 8,
+      "assigned_total": 11739,
+      "covered_total": 11739,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Hani",
+      "script_name": "Hani",
+      "blocks_total": 17,
+      "assigned_total": 103351,
+      "covered_total": 28339,
+      "coverage_percent": 27.42,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Hano",
+      "script_name": "Hano",
+      "blocks_total": 1,
+      "assigned_total": 21,
+      "covered_total": 21,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Hebr",
+      "script_name": "Hebr",
+      "blocks_total": 2,
+      "assigned_total": 134,
+      "covered_total": 133,
+      "coverage_percent": 99.25,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Hira",
+      "script_name": "Hira",
+      "blocks_total": 5,
+      "assigned_total": 381,
+      "covered_total": 89,
+      "coverage_percent": 23.36,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Java",
+      "script_name": "Java",
+      "blocks_total": 1,
+      "assigned_total": 90,
+      "covered_total": 90,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Kali",
+      "script_name": "Kali",
+      "blocks_total": 1,
+      "assigned_total": 47,
+      "covered_total": 47,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Kana",
+      "script_name": "Kana",
+      "blocks_total": 9,
+      "assigned_total": 321,
+      "covered_total": 299,
+      "coverage_percent": 93.15,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Khmr",
+      "script_name": "Khmr",
+      "blocks_total": 2,
+      "assigned_total": 146,
+      "covered_total": 146,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Knda",
+      "script_name": "Knda",
+      "blocks_total": 1,
+      "assigned_total": 92,
+      "covered_total": 86,
+      "coverage_percent": 93.48,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Lana",
+      "script_name": "Lana",
+      "blocks_total": 1,
+      "assigned_total": 127,
+      "covered_total": 127,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Laoo",
+      "script_name": "Laoo",
+      "blocks_total": 1,
+      "assigned_total": 83,
+      "covered_total": 67,
+      "coverage_percent": 80.72,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Latn",
+      "script_name": "Latn",
+      "blocks_total": 19,
+      "assigned_total": 1492,
+      "covered_total": 1272,
+      "coverage_percent": 85.25,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Lepc",
+      "script_name": "Lepc",
+      "blocks_total": 1,
+      "assigned_total": 74,
+      "covered_total": 74,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Limb",
+      "script_name": "Limb",
+      "blocks_total": 1,
+      "assigned_total": 68,
+      "covered_total": 66,
+      "coverage_percent": 97.06,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Lisu",
+      "script_name": "Lisu",
+      "blocks_total": 2,
+      "assigned_total": 49,
+      "covered_total": 48,
+      "coverage_percent": 97.96,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Mand",
+      "script_name": "Mand",
+      "blocks_total": 1,
+      "assigned_total": 29,
+      "covered_total": 29,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Mlym",
+      "script_name": "Mlym",
+      "blocks_total": 1,
+      "assigned_total": 118,
+      "covered_total": 98,
+      "coverage_percent": 83.05,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Mong",
+      "script_name": "Mong",
+      "blocks_total": 2,
+      "assigned_total": 168,
+      "covered_total": 153,
+      "coverage_percent": 91.07,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Mtei",
+      "script_name": "Mtei",
+      "blocks_total": 2,
+      "assigned_total": 79,
+      "covered_total": 79,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Mymr",
+      "script_name": "Mymr",
+      "blocks_total": 4,
+      "assigned_total": 243,
+      "covered_total": 188,
+      "coverage_percent": 77.37,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Nkoo",
+      "script_name": "Nkoo",
+      "blocks_total": 1,
+      "assigned_total": 62,
+      "covered_total": 59,
+      "coverage_percent": 95.16,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Ogam",
+      "script_name": "Ogam",
+      "blocks_total": 1,
+      "assigned_total": 29,
+      "covered_total": 29,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Olck",
+      "script_name": "Olck",
+      "blocks_total": 1,
+      "assigned_total": 48,
+      "covered_total": 48,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Orya",
+      "script_name": "Orya",
+      "blocks_total": 1,
+      "assigned_total": 91,
+      "covered_total": 90,
+      "coverage_percent": 98.9,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Phag",
+      "script_name": "Phag",
+      "blocks_total": 1,
+      "assigned_total": 56,
+      "covered_total": 56,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Rjng",
+      "script_name": "Rjng",
+      "blocks_total": 1,
+      "assigned_total": 37,
+      "covered_total": 37,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Runr",
+      "script_name": "Runr",
+      "blocks_total": 1,
+      "assigned_total": 86,
+      "covered_total": 78,
+      "coverage_percent": 90.7,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Samr",
+      "script_name": "Samr",
+      "blocks_total": 1,
+      "assigned_total": 61,
+      "covered_total": 61,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Saur",
+      "script_name": "Saur",
+      "blocks_total": 1,
+      "assigned_total": 82,
+      "covered_total": 81,
+      "coverage_percent": 98.78,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Sinh",
+      "script_name": "Sinh",
+      "blocks_total": 2,
+      "assigned_total": 111,
+      "covered_total": 80,
+      "coverage_percent": 72.07,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Sund",
+      "script_name": "Sund",
+      "blocks_total": 2,
+      "assigned_total": 72,
+      "covered_total": 72,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Sylo",
+      "script_name": "Sylo",
+      "blocks_total": 1,
+      "assigned_total": 45,
+      "covered_total": 44,
+      "coverage_percent": 97.78,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Syrc",
+      "script_name": "Syrc",
+      "blocks_total": 2,
+      "assigned_total": 88,
+      "covered_total": 77,
+      "coverage_percent": 87.5,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Tagb",
+      "script_name": "Tagb",
+      "blocks_total": 1,
+      "assigned_total": 18,
+      "covered_total": 18,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Tale",
+      "script_name": "Tale",
+      "blocks_total": 1,
+      "assigned_total": 35,
+      "covered_total": 35,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Talu",
+      "script_name": "Talu",
+      "blocks_total": 1,
+      "assigned_total": 83,
+      "covered_total": 83,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Taml",
+      "script_name": "Taml",
+      "blocks_total": 2,
+      "assigned_total": 123,
+      "covered_total": 72,
+      "coverage_percent": 58.54,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Tavt",
+      "script_name": "Tavt",
+      "blocks_total": 1,
+      "assigned_total": 72,
+      "covered_total": 72,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Telu",
+      "script_name": "Telu",
+      "blocks_total": 1,
+      "assigned_total": 101,
+      "covered_total": 93,
+      "coverage_percent": 92.08,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Tfng",
+      "script_name": "Tfng",
+      "blocks_total": 1,
+      "assigned_total": 59,
+      "covered_total": 59,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Tglg",
+      "script_name": "Tglg",
+      "blocks_total": 1,
+      "assigned_total": 23,
+      "covered_total": 20,
+      "coverage_percent": 86.96,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Thaa",
+      "script_name": "Thaa",
+      "blocks_total": 1,
+      "assigned_total": 50,
+      "covered_total": 50,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Thai",
+      "script_name": "Thai",
+      "blocks_total": 1,
+      "assigned_total": 86,
+      "covered_total": 86,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Tibt",
+      "script_name": "Tibt",
+      "blocks_total": 1,
+      "assigned_total": 207,
+      "covered_total": 207,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Vaii",
+      "script_name": "Vaii",
+      "blocks_total": 1,
+      "assigned_total": 300,
+      "covered_total": 300,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Yiii",
+      "script_name": "Yiii",
+      "blocks_total": 2,
+      "assigned_total": 1220,
+      "covered_total": 1220,
+      "coverage_percent": 100.0,
+      "status": "COMPLETE"
+    },
+    {
+      "script_code": "Zinh",
+      "script_name": "Zinh",
+      "blocks_total": 19,
+      "assigned_total": 684,
+      "covered_total": 262,
+      "coverage_percent": 38.3,
+      "status": "PARTIAL"
+    },
+    {
+      "script_code": "Zyyy",
+      "script_name": "Zyyy",
+      "blocks_total": 93,
+      "assigned_total": 9123,
+      "covered_total": 3356,
+      "coverage_percent": 36.79,
+      "status": "PARTIAL"
+    }
+  ]
+}

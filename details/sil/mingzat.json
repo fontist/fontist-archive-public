@@ -1,0 +1,39 @@
+{
+  "slug": "sil/mingzat",
+  "name": "Mingzat",
+  "description": "Mingzat",
+  "homepage": "http://scripts.sil.org",
+  "copyright": "Lepcha glyph design copyright (c) 2001, GlavyFonts and copyright (c) 2006 Athinkra, LLC. OpenType and Graphite code copyright (c) 2010-2019, SIL International (http://www.sil.org/). Latin glyph design copyright (c) 1994-2019, SIL International (http://www.sil.org/).",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Mingzat.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/mingzat/Mingzat-1.000.zip",
+        "https://web.archive.org/web/20260505155743/https://software.sil.org/downloads/r/mingzat/Mingzat-1.000.zip"
+      ],
+      "sha256": "7e1fe44012da7843c63263fe161abd12d4309f9cef00cb58d1055dd812d8e6ba",
+      "file_size": 732045
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mingzat",
+      "styles": [
+        {
+          "family_name": "Mingzat",
+          "type": "Regular",
+          "full_name": "Mingzat",
+          "post_script_name": "Mingzat-Regular",
+          "version": "1.000",
+          "copyright": "Lepcha glyph design copyright (c) 2001, GlavyFonts and copyright (c) 2006 Athinkra, LLC. OpenType and Graphite code copyright (c) 2010-2019, SIL International (http://www.sil.org/). Latin glyph design copyright (c) 1994-2019, SIL International (http://www.sil.org/).",
+          "description": "The Mingzat font supports the Lepcha script.",
+          "font": "Mingzat-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

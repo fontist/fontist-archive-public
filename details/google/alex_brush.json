@@ -1,0 +1,58 @@
+{
+  "slug": "google/alex_brush",
+  "name": "alex_brush",
+  "description": "Alex Brush is a beautifully flowing brush script. It has short ascenders and descenders allowing a legibility not seen in other script fonts. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/alex-brush .",
+  "homepage": "https://fonts.google.com/specimen/Alex+Brush",
+  "copyright": "Copyright 2011 The Alex Brush Project Authors (https://github.com/googlefonts/alex-brush)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alex Brush",
+      "files": [
+        "https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EtUL57DtOmCc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EtUL57DtOmCc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alex Brush",
+      "files": [
+        "https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EtUf57DtOmCc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alexbrush/v23/SZc83FzrJKuqFbwMKk6EtUf57DtOmCc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alex Brush",
+      "styles": [
+        {
+          "family_name": "Alex Brush",
+          "type": "Regular",
+          "full_name": "Alex Brush Regular",
+          "post_script_name": "AlexBrush-Regular",
+          "version": "1.111; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Alex Brush Project Authors (https://github.com/googlefonts/alex-brush)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "SZc83FzrJKuqFbwMKk6EtUL57DtOmCc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

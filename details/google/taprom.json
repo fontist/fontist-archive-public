@@ -1,0 +1,58 @@
+{
+  "slug": "google/taprom",
+  "name": "taprom",
+  "description": "Taprom is a Khmer font for body text. The Khmer design is inspired by a popular style of Khmer handwriting letterforms. The Latin design is a copy of Seaweed Script , by Neapolitan. To contribute, see github.com/danhhong/Taprom .",
+  "homepage": "https://fonts.google.com/specimen/Taprom",
+  "copyright": "Copyright 2019 The Taprom Project Authors (https://github.com/danhhong/Taprom)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Taprom",
+      "files": [
+        "https://fonts.gstatic.com/s/taprom/v29/UcCn3F82JHycULbFQyk3-0kvHg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/taprom/v29/UcCn3F82JHycULbFQyk3-0kvHg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Taprom",
+      "files": [
+        "https://fonts.gstatic.com/s/taprom/v29/UcCn3F82JHycULbFRik3-0kvHg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/taprom/v29/UcCn3F82JHycULbFRik3-0kvHg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Taprom",
+      "styles": [
+        {
+          "family_name": "Taprom",
+          "type": "Regular",
+          "full_name": "Taprom Regular",
+          "post_script_name": "Taprom-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Taprom Project Authors (https://github.com/danhhong/Taprom)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UcCn3F82JHycULbFQyk3-0kvHg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

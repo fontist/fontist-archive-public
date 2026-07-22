@@ -1,0 +1,57 @@
+{
+  "slug": "google/siemreap",
+  "name": "siemreap",
+  "description": "The Siemreap fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong , has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "homepage": "https://fonts.google.com/specimen/Siemreap",
+  "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Siemreap.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Siemreap",
+      "files": [
+        "https://fonts.gstatic.com/s/siemreap/v30/Gg82N5oFbgLvHAfNl2YbnA8DLXpe.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/siemreap/v30/Gg82N5oFbgLvHAfNl2YbnA8DLXpe.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Siemreap",
+      "files": [
+        "https://fonts.gstatic.com/s/siemreap/v30/Gg82N5oFbgLvHAfNl2YenA8DLXpe.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/siemreap/v30/Gg82N5oFbgLvHAfNl2YenA8DLXpe.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Siemreap",
+      "styles": [
+        {
+          "family_name": "Siemreap",
+          "type": "Regular",
+          "full_name": "Siemreap",
+          "post_script_name": "Siemreap",
+          "version": "6.00 December 28, 2010",
+          "copyright": "Copyright (c) 2010, Danh Hong (khmertype.blogspot.com),\r\nwith Reserved Font Name Siemreap.\r\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\r\nThis license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gg82N5oFbgLvHAfNl2YbnA8DLXpe.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/sintony",
+  "name": "sintony",
+  "description": "Sintony is a modern sans serif typeface, drawn with a slightly square structure and smooth stroke modulation. Great for long passages of text, he provides any text with a calm and clear feeling.",
+  "homepage": "https://fonts.google.com/specimen/Sintony",
+  "copyright": "Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Sintony'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sintony",
+      "files": [
+        "https://fonts.gstatic.com/s/sintony/v17/XoHm2YDqR7-98cVUITQnu98ojjs.ttf",
+        "https://fonts.gstatic.com/s/sintony/v17/XoHj2YDqR7-98cVUGYgIn9cDkjLp6C8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sintony/v17/XoHm2YDqR7-98cVUITQnu98ojjs.ttf",
+        "https://fonts.gstatic.com/s/sintony/v17/XoHj2YDqR7-98cVUGYgIn9cDkjLp6C8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sintony",
+      "files": [
+        "https://fonts.gstatic.com/s/sintony/v17/XoHm2YDqR7-98cVUITEnu98ojjs.woff2",
+        "https://fonts.gstatic.com/s/sintony/v17/XoHj2YDqR7-98cVUGYgIn9IDkjLp6C8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sintony/v17/XoHm2YDqR7-98cVUITEnu98ojjs.woff2",
+        "https://fonts.gstatic.com/s/sintony/v17/XoHj2YDqR7-98cVUGYgIn9IDkjLp6C8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sintony",
+      "styles": [
+        {
+          "family_name": "Sintony",
+          "type": "Regular",
+          "full_name": "Sintony",
+          "post_script_name": "Sintony",
+          "version": "001.001",
+          "copyright": "Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Sintony'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "XoHm2YDqR7-98cVUITQnu98ojjs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sintony",
+          "type": "Bold",
+          "full_name": "Sintony Bold",
+          "post_script_name": "Sintony-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2013, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Sintony'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "XoHj2YDqR7-98cVUGYgIn9cDkjLp6C8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

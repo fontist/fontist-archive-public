@@ -1,0 +1,58 @@
+{
+  "slug": "google/orelega_one",
+  "name": "orelega_one",
+  "description": "Orelega is a whimsical Clarendon font with oversized ears. Its design was based on Sagona Extra Bold by René Bieder, but it is not a shameless copy. Everything has been redrawn from the ground up, with many new aesthetic changes. Orelega is Esperanto for “large-eared”. It is composed of orel- “ear”, -eg- [augments degree or size], and -a [adjective ending]. To contribute, see github.com/JapanYoshi/Orelega",
+  "homepage": "https://fonts.google.com/specimen/Orelega+One",
+  "copyright": "Copyright 2021 The Orelega One Project Authors (https://github.com/JapanYoshi/Orelega)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Orelega One",
+      "files": [
+        "https://fonts.gstatic.com/s/orelegaone/v14/3qTpojOggD2XtAdFb-QXZGt61EcYaQ7F.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/orelegaone/v14/3qTpojOggD2XtAdFb-QXZGt61EcYaQ7F.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Orelega One",
+      "files": [
+        "https://fonts.gstatic.com/s/orelegaone/v14/3qTpojOggD2XtAdFb-QXZGt_1EcYaQ7F.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/orelegaone/v14/3qTpojOggD2XtAdFb-QXZGt_1EcYaQ7F.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Orelega One",
+      "styles": [
+        {
+          "family_name": "Orelega One",
+          "type": "Regular",
+          "full_name": "Orelega One Regular",
+          "post_script_name": "OrelegaOne-Regular",
+          "version": "1.1 ; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Orelega One Project Authors (https://github.com/JapanYoshi/Orelega)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3qTpojOggD2XtAdFb-QXZGt61EcYaQ7F.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

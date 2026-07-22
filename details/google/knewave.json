@@ -1,0 +1,58 @@
+{
+  "slug": "google/knewave",
+  "name": "knewave",
+  "description": "Knewave is a new font by Tyler Finck.",
+  "homepage": "https://fonts.google.com/specimen/Knewave",
+  "copyright": "Copyright (c) 2011 by Tyler Finck. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Knewave",
+      "files": [
+        "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSItSq9-trEvlQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSItSq9-trEvlQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Knewave",
+      "files": [
+        "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSItS-9-trEvlQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/knewave/v15/sykz-yx0lLcxQaSItS-9-trEvlQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Knewave",
+      "styles": [
+        {
+          "family_name": "Knewave",
+          "type": "Regular",
+          "full_name": "Knewave",
+          "post_script_name": "Knewave-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Tyler Finck. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sykz-yx0lLcxQaSItSq9-trEvlQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

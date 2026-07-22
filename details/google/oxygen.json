@@ -1,0 +1,101 @@
+{
+  "slug": "google/oxygen",
+  "name": "oxygen",
+  "description": "The Oxygen typeface family is created as part of the KDE Project, a libre desktop for the GNU+Linux operating system. The design is optimized for the FreeType font rendering system and works well in all graphical user interfaces, desktops and devices. This is a web font version of Oxygen, designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.",
+  "homepage": "https://fonts.google.com/specimen/Oxygen",
+  "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Oxygen",
+      "files": [
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCJW8Db2-4C7wFZQ.ttf",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4Lcnbu6iUcnZ0SkAg.ttf",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCNWgDb2-4C7wFZQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCJW8Db2-4C7wFZQ.ttf",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4Lcnbu6iUcnZ0SkAg.ttf",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCNWgDb2-4C7wFZQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Oxygen",
+      "files": [
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCJW8Dam-4C7wFZQ.woff2",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4Lcnbu6jEcnZ0SkAg.woff2",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCNWgDam-4C7wFZQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCJW8Dam-4C7wFZQ.woff2",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDfZG1Wl4Lcnbu6jEcnZ0SkAg.woff2",
+        "https://fonts.gstatic.com/s/oxygen/v16/2sDcZG1Wl4LcnbuCNWgDam-4C7wFZQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Oxygen Light",
+      "styles": [
+        {
+          "family_name": "Oxygen Light",
+          "type": "Regular",
+          "full_name": "Oxygen Light",
+          "post_script_name": "Oxygen-Light",
+          "version": "Release 0.2.3 webfont; ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c",
+          "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2sDcZG1Wl4LcnbuCJW8Db2-4C7wFZQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Oxygen",
+      "styles": [
+        {
+          "family_name": "Oxygen",
+          "type": "Regular",
+          "full_name": "Oxygen Regular",
+          "post_script_name": "Oxygen-Regular",
+          "version": "Release 0.2.3 webfont; ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c",
+          "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2sDfZG1Wl4Lcnbu6iUcnZ0SkAg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Oxygen",
+          "type": "Bold",
+          "full_name": "Oxygen Bold",
+          "post_script_name": "Oxygen-Bold",
+          "version": "0.2.3 webfont; ttfautohint (v0.93.3-1d66) -l 8 -r 50 -G 200 -x 0 -w \"gGD\" -c",
+          "copyright": "Copyright (c) 2012, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Names 'Oxygen'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "2sDcZG1Wl4LcnbuCNWgDb2-4C7wFZQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

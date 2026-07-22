@@ -1,0 +1,58 @@
+{
+  "slug": "google/alatsi",
+  "name": "alatsi",
+  "description": "Alatsi is an original typeface designed by Spyros Zevelakis. It is a semicondensed geometric sans design which feels familiar, calm, trustable and contemporary. It is a little lighthearted or casual in feeling as well. The contemporary feeling comes from the treatment of the terminals and the cheekily pointed V A W. The calmness from the modest x height. Alatsi offers a wide range of figures which include oldstyle figures, numerators, denominators and fractions. It also offers case sensitive forms. Latest upgrade from November 2022 includes a Latin Plus language coverage currently supporting most Latin-based languages. To contribute, see github.com/SorkinType/Alatsi . Alatsi is published by Sorkin Type .",
+  "homepage": "https://fonts.google.com/specimen/Alatsi",
+  "copyright": "Copyright 2019 The Alatsi Project Authors (https://github.com/SorkinType/Alatsi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alatsi",
+      "files": [
+        "https://fonts.gstatic.com/s/alatsi/v14/TK3iWkUJAxQ2nLNGHjUHte5fKg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alatsi/v14/TK3iWkUJAxQ2nLNGHjUHte5fKg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alatsi",
+      "files": [
+        "https://fonts.gstatic.com/s/alatsi/v14/TK3iWkUJAxQ2nLNGGzUHte5fKg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alatsi/v14/TK3iWkUJAxQ2nLNGGzUHte5fKg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alatsi",
+      "styles": [
+        {
+          "family_name": "Alatsi",
+          "type": "Regular",
+          "full_name": "Alatsi Regular",
+          "post_script_name": "Alatsi-Regular",
+          "version": "1.008; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2019 The Alatsi Project Authors (https://github.com/SorkinType/Alatsi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "TK3iWkUJAxQ2nLNGHjUHte5fKg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

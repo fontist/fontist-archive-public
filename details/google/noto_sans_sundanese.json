@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_sundanese",
+  "name": "noto_sans_sundanese",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Sundanese is an unmodulated (“sans serif”) design for texts in the Southeast Asian Sundanese script. It has multiple weights and 89 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Sundanese",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sundanese)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Sundanese",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHHizv7fQES.woff2",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHHizv7fQES.woff2",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HHizv7fQES.woff2",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HHizv7fQES.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHHizv7fQES.woff2",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHHizv7fQES.woff2",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HHizv7fQES.woff2",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HHizv7fQES.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Sundanese",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHCizv7fQES.ttf",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHCizv7fQES.ttf",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HCizv7fQES.ttf",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HCizv7fQES.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHCizv7fQES.ttf",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHCizv7fQES.ttf",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HCizv7fQES.ttf",
+        "https://fonts.gstatic.com/s/notosanssundanese/v28/FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HCizv7fQES.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Sundanese",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sundanese",
+          "type": "Regular",
+          "full_name": "Noto Sans Sundanese Regular",
+          "post_script_name": "NotoSansSundanese-Regular",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sundanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxpNNHCizv7fQES.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Sundanese",
+          "type": "Bold",
+          "full_name": "Noto Sans Sundanese Bold",
+          "post_script_name": "NotoSansSundanese-Bold",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sundanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctyOM9HCizv7fQES.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Sundanese Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sundanese Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Sundanese Medium",
+          "post_script_name": "NotoSansSundanese-Medium",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sundanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6ctxbNNHCizv7fQES.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Sundanese SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sundanese SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Sundanese SemiBold",
+          "post_script_name": "NotoSansSundanese-SemiBold",
+          "version": "2.005",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sundanese)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "FwZw7_84xUkosG2xJo2gm7nFwSLQkdymq2mkz3Gz1_b6cty3M9HCizv7fQES.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

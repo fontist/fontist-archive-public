@@ -1,0 +1,75 @@
+{
+  "slug": "google/astloch",
+  "name": "astloch",
+  "description": "Astloch is a set of monolinear display faces — one delicate, one sturdy — based on the mix of sharp angles and florid curves found in fraktur lettering.",
+  "homepage": "https://fonts.google.com/specimen/Astloch",
+  "copyright": "Copyright 2011 The Astloch Project Authors",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Astloch",
+      "files": [
+        "https://fonts.gstatic.com/s/astloch/v27/TuGRUVJ8QI5GSeUjq9wRzMtkH1Q.ttf",
+        "https://fonts.gstatic.com/s/astloch/v27/TuGUUVJ8QI5GSeUjk2A-6MNPA10xLMQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/astloch/v27/TuGRUVJ8QI5GSeUjq9wRzMtkH1Q.ttf",
+        "https://fonts.gstatic.com/s/astloch/v27/TuGUUVJ8QI5GSeUjk2A-6MNPA10xLMQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Astloch",
+      "files": [
+        "https://fonts.gstatic.com/s/astloch/v27/TuGRUVJ8QI5GSeUjq9kRzMtkH1Q.woff2",
+        "https://fonts.gstatic.com/s/astloch/v27/TuGUUVJ8QI5GSeUjk2A-6MZPA10xLMQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/astloch/v27/TuGRUVJ8QI5GSeUjq9kRzMtkH1Q.woff2",
+        "https://fonts.gstatic.com/s/astloch/v27/TuGUUVJ8QI5GSeUjk2A-6MZPA10xLMQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Astloch",
+      "styles": [
+        {
+          "family_name": "Astloch",
+          "type": "Regular",
+          "full_name": "Astloch Regular",
+          "post_script_name": "Astloch-Regular",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Astloch Project Authors",
+          "variable_font": false,
+          "font": "TuGRUVJ8QI5GSeUjq9wRzMtkH1Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Astloch",
+          "type": "Bold",
+          "full_name": "Astloch Bold",
+          "post_script_name": "Astloch-Bold",
+          "version": "1.002",
+          "copyright": "Copyright 2011 The Astloch Project Authors",
+          "variable_font": false,
+          "font": "TuGUUVJ8QI5GSeUjk2A-6MNPA10xLMQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

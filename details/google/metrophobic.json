@@ -1,0 +1,58 @@
+{
+  "slug": "google/metrophobic",
+  "name": "metrophobic",
+  "description": "Metrophobic is a sans serif face with a semi geometric feel. It is designed to be legible at small text sizes but also have enough character to be used as an interesting display face for headers and headlines. It can also be used for text bodies. Updated June 2019 to v3.100: Redrawn and respaced to improve the design quality. Updated January 2023 to v3.200: The glyphset has been expanded and now support Vietnamese language. The overhall horizontal space has been adjusted for a better readability. The Metrophobic project was commissioned by Google from Vernon Adams , an English type designer who lived in San Clemente, Los Angeles, USA. To contribute, see github.com/googlefonts/MetrophobicFont",
+  "homepage": "https://fonts.google.com/specimen/Metrophobic",
+  "copyright": "Copyright 2011 The Metrophobic Project Authors (https://github.com/googlefonts/MetrophobicFont), with Reserved Font Name 'Metrophobic'.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Metrophobic",
+      "files": [
+        "https://fonts.gstatic.com/s/metrophobic/v24/sJoA3LZUhMSAPV_u0qwiAT-J737FPEEL.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/metrophobic/v24/sJoA3LZUhMSAPV_u0qwiAT-J737FPEEL.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Metrophobic",
+      "files": [
+        "https://fonts.gstatic.com/s/metrophobic/v24/sJoA3LZUhMSAPV_u0qwiAT-M737FPEEL.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/metrophobic/v24/sJoA3LZUhMSAPV_u0qwiAT-M737FPEEL.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Metrophobic",
+      "styles": [
+        {
+          "family_name": "Metrophobic",
+          "type": "Regular",
+          "full_name": "Metrophobic Regular",
+          "post_script_name": "Metrophobic-Regular",
+          "version": "3.200; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2011 The Metrophobic Project Authors (https://github.com/googlefonts/MetrophobicFont), with Reserved Font Name 'Metrophobic'.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "sJoA3LZUhMSAPV_u0qwiAT-J737FPEEL.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

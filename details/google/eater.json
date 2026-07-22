@@ -1,0 +1,58 @@
+{
+  "slug": "google/eater",
+  "name": "eater",
+  "description": "Eater is a display font infected by the darkest of rare disease that slowly spreads at night while the webfont user sleeps.",
+  "homepage": "https://fonts.google.com/specimen/Eater",
+  "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Eater\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Eater",
+      "files": [
+        "https://fonts.gstatic.com/s/eater/v27/mtG04_FCK7bOvpu2u3FwsXsR.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eater/v27/mtG04_FCK7bOvpu2u3FwsXsR.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Eater",
+      "files": [
+        "https://fonts.gstatic.com/s/eater/v27/mtG04_FCK7bOvpuzu3FwsXsR.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eater/v27/mtG04_FCK7bOvpuzu3FwsXsR.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Eater",
+      "styles": [
+        {
+          "family_name": "Eater",
+          "type": "Regular",
+          "full_name": "Eater",
+          "post_script_name": "Eater-Regular",
+          "version": "001.002 ",
+          "copyright": "Copyright (c) 2011, Typomondo, with Reserved Font Name \"Eater\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "mtG04_FCK7bOvpu2u3FwsXsR.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

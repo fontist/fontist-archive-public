@@ -1,0 +1,58 @@
+{
+  "slug": "google/ole",
+  "name": "ole",
+  "description": "Olé (named after the Spanish expression, pronounced \"oh-leh!\") has a romantic and fun flavour. Have a little fun using the ornamental glyphs to spice up any design. The Latin glyph set supports Western, Central, Eastern european languages and also Vietnamese. To contribute, see github.com/googlefonts/ole",
+  "homepage": "https://fonts.google.com/specimen/Ole",
+  "copyright": "Copyright 2008 The Ole Project Authors (https://github.com/googlefonts/ole)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ole",
+      "files": [
+        "https://fonts.gstatic.com/s/ole/v3/dFazZf6Z-rd89fw69qJ_ew.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ole/v3/dFazZf6Z-rd89fw69qJ_ew.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ole",
+      "files": [
+        "https://fonts.gstatic.com/s/ole/v3/dFazZf6Z-rd88Pw69qJ_ew.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ole/v3/dFazZf6Z-rd88Pw69qJ_ew.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ole",
+      "styles": [
+        {
+          "family_name": "Ole",
+          "type": "Regular",
+          "full_name": "Ole Regular",
+          "post_script_name": "Ole-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2008 The Ole Project Authors (https://github.com/googlefonts/ole)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "dFazZf6Z-rd89fw69qJ_ew.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

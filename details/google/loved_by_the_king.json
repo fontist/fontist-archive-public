@@ -1,0 +1,58 @@
+{
+  "slug": "google/loved_by_the_king",
+  "name": "loved_by_the_king",
+  "description": "A skinny font that fits in little places. This is one of my first fonts I released online.",
+  "homepage": "https://fonts.google.com/specimen/Loved+by+the+King",
+  "copyright": "Copyright (c) 2006 by Kimberly Geswein. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Loved by the King",
+      "files": [
+        "https://fonts.gstatic.com/s/lovedbytheking/v24/Gw6gwdP76VDVJNXerebZxUMeRXUF2PiNlXFu2R64.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lovedbytheking/v24/Gw6gwdP76VDVJNXerebZxUMeRXUF2PiNlXFu2R64.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Loved by the King",
+      "files": [
+        "https://fonts.gstatic.com/s/lovedbytheking/v24/Gw6gwdP76VDVJNXerebZxUMeRXUF2PiIlXFu2R64.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lovedbytheking/v24/Gw6gwdP76VDVJNXerebZxUMeRXUF2PiIlXFu2R64.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Loved by the King",
+      "styles": [
+        {
+          "family_name": "Loved by the King",
+          "type": "Regular",
+          "full_name": "Loved by the King",
+          "post_script_name": "LovedbytheKing",
+          "version": "1.002 2006",
+          "copyright": "Copyright (c) 2006 by Kimberly Geswein. All rights reserved.",
+          "description": "Copyright (c) 2010, Kimberly Geswein (kimberlygeswein.com)\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.  This license is available with a FAQ at:  http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Gw6gwdP76VDVJNXerebZxUMeRXUF2PiNlXFu2R64.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

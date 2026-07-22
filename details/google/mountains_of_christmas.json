@@ -1,0 +1,77 @@
+{
+  "slug": "google/mountains_of_christmas",
+  "name": "mountains_of_christmas",
+  "description": "Ever wonder what font sugarplum fairies dream about? Mountains of Christmas by the talented lettering artist Crystal Kluge is the perfect casual and playful serif font when you want to give your words a warm personal touch.",
+  "homepage": "https://fonts.google.com/specimen/Mountains+of+Christmas",
+  "copyright": "Copyright (c) 2010 2011, Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reserved Font Name \"Mountains of Christmas\"",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mountains of Christmas",
+      "files": [
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7ePNamMPNpJpc.ttf",
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJFPtCOp6IaEA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7ePNamMPNpJpc.ttf",
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJFPtCOp6IaEA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mountains of Christmas",
+      "files": [
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7ePNOmMPNpJpc.woff2",
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJFP5COp6IaEA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7ePNOmMPNpJpc.woff2",
+        "https://fonts.gstatic.com/s/mountainsofchristmas/v24/3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJFP5COp6IaEA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mountains of Christmas",
+      "styles": [
+        {
+          "family_name": "Mountains of Christmas",
+          "type": "Regular",
+          "full_name": "Mountains of Christmas Regular",
+          "post_script_name": "MountainsofChristmas-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2010 2011, Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reserved Font Name \"Mountains of Christmas\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3y9w6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7ePNamMPNpJpc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Mountains of Christmas",
+          "type": "Bold",
+          "full_name": "Mountains of Christmas Bold",
+          "post_script_name": "MountainsofChristmas-Bold",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2010 2011, Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reserved Font Name \"Mountains of Christmas\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3y9z6a4zcCnn5X0FDyrKi2ZRUBIy8uxoUo7eBGqJFPtCOp6IaEA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

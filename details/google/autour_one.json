@@ -1,0 +1,58 @@
+{
+  "slug": "google/autour_one",
+  "name": "autour_one",
+  "description": "Autour One is inspired by handwritten letters on Ludwig Hohlwein posters. It has been changed and adapted from the originals in a variety of ways so that it will work in paragraphs of text and on the web. Autour One can be used a in a wide range of sizes. Autour means 'round' in French.",
+  "homepage": "https://fonts.google.com/specimen/Autour+One",
+  "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Autour'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Autour One",
+      "files": [
+        "https://fonts.gstatic.com/s/autourone/v25/UqyVK80cP25l3fJgbdfbk5lWVscxdKE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/autourone/v25/UqyVK80cP25l3fJgbdfbk5lWVscxdKE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Autour One",
+      "files": [
+        "https://fonts.gstatic.com/s/autourone/v25/UqyVK80cP25l3fJgbdfbk5xWVscxdKE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/autourone/v25/UqyVK80cP25l3fJgbdfbk5xWVscxdKE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Autour One",
+      "styles": [
+        {
+          "family_name": "Autour One",
+          "type": "Regular",
+          "full_name": "Autour One Regular",
+          "post_script_name": "AutourOne-Regular",
+          "version": "1.007; ttfautohint (v0.92) -l 24 -r 24 -G 200 -x 7 -w \"GD\"",
+          "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Autour'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UqyVK80cP25l3fJgbdfbk5lWVscxdKE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

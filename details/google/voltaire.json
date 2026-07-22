@@ -1,0 +1,58 @@
+{
+  "slug": "google/voltaire",
+  "name": "voltaire",
+  "description": "Voltaire is a low-contrast condensed semi-geometric style sans-serif. Voltaire is highly readable and will work from medium text sizes all the way up to larger display settings. Voltaire was inspired by 20th century Swedish posters whose letters have similar forms. Latest upgrade from January 2023 expands the Latin script language coverage and kerning added. To contribute, see github.com/SorkinType/Voltaire .",
+  "homepage": "https://fonts.google.com/specimen/Voltaire",
+  "copyright": "Copyright 2011 The Voltaire Project Authors (https://github.com/SorkinType/Voltaire)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Voltaire",
+      "files": [
+        "https://fonts.gstatic.com/s/voltaire/v23/1Pttg8PcRfSblAvGvQooYKVnBOif.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/voltaire/v23/1Pttg8PcRfSblAvGvQooYKVnBOif.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Voltaire",
+      "files": [
+        "https://fonts.gstatic.com/s/voltaire/v23/1Pttg8PcRfSblAvGvQotYKVnBOif.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/voltaire/v23/1Pttg8PcRfSblAvGvQotYKVnBOif.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Voltaire",
+      "styles": [
+        {
+          "family_name": "Voltaire",
+          "type": "Regular",
+          "full_name": "Voltaire Regular",
+          "post_script_name": "Voltaire-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2011 The Voltaire Project Authors (https://github.com/SorkinType/Voltaire)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "1Pttg8PcRfSblAvGvQooYKVnBOif.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

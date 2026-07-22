@@ -1,0 +1,58 @@
+{
+  "slug": "google/suez_one",
+  "name": "suez_one",
+  "description": "Suez One is an original Hebrew and Latin display serif typeface with a single weight. The Hebrew design for a modern serif is inspired by Hebrew calligraphy. It is intended for use in headline and display typography that needs a strong contemporary style. The Suez project is led by Michal Sahar, a type designer based in Tel Aviv, Israel. To contribute, see github.com/MichalSahar/Suez",
+  "homepage": "https://fonts.google.com/specimen/Suez+One",
+  "copyright": "Copyright 2016 Michal Sahar. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Suez One",
+      "files": [
+        "https://fonts.gstatic.com/s/suezone/v15/taiJGmd_EZ6rqscQgNFJkIqg-I0w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suezone/v15/taiJGmd_EZ6rqscQgNFJkIqg-I0w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Suez One",
+      "files": [
+        "https://fonts.gstatic.com/s/suezone/v15/taiJGmd_EZ6rqscQgNFMkIqg-I0w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suezone/v15/taiJGmd_EZ6rqscQgNFMkIqg-I0w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Suez One",
+      "styles": [
+        {
+          "family_name": "Suez One",
+          "type": "Regular",
+          "full_name": "Suez One Regular",
+          "post_script_name": "SuezOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2016 Michal Sahar. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "taiJGmd_EZ6rqscQgNFJkIqg-I0w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_syloti_nagri",
+  "name": "noto_sans_syloti_nagri",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Syloti Nagri is an unmodulated (“sans serif”) design for texts in the Indic Syloti Nagri script. It has 87 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Syloti+Nagri",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syloti-nagri)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Syloti Nagri",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssylotinagri/v25/uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGFVfxN87gsj0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssylotinagri/v25/uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGFVfxN87gsj0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Syloti Nagri",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssylotinagri/v25/uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGFVLxN87gsj0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssylotinagri/v25/uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGFVLxN87gsj0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Syloti Nagri",
+      "styles": [
+        {
+          "family_name": "Noto Sans Syloti Nagri",
+          "type": "Regular",
+          "full_name": "Noto Sans Syloti Nagri Regular",
+          "post_script_name": "NotoSansSylotiNagri-Regular",
+          "version": "2.004; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/syloti-nagri)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uU9eCAQZ75uhfF9UoWDRiY3q7Sf_VFV3m4dGFVfxN87gsj0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

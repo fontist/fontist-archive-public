@@ -1,0 +1,58 @@
+{
+  "slug": "google/khmer",
+  "name": "khmer",
+  "description": "The Khmer fonts are designed for readable and beautiful rendering of text in the Khmer script, the national language of Cambodia. The designer, Danh Hong , has many years of experience creating fonts for Khmer and other Southeast Asian languages, and is actively involved in the KhmerOS project, dedicated to a vision where Cambodians can learn and use computers in their own language.",
+  "homepage": "https://fonts.google.com/specimen/Khmer",
+  "copyright": "Copyright (c) 2013, Danh Hong (khmertype.org)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Khmer",
+      "files": [
+        "https://fonts.gstatic.com/s/khmer/v38/MjQImit_vPPwpF-BpN2EeYmD.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/khmer/v38/MjQImit_vPPwpF-BpN2EeYmD.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Khmer",
+      "files": [
+        "https://fonts.gstatic.com/s/khmer/v38/MjQImit_vPPwpF-EpN2EeYmD.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/khmer/v38/MjQImit_vPPwpF-EpN2EeYmD.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Khmer",
+      "styles": [
+        {
+          "family_name": "Khmer",
+          "type": "Regular",
+          "full_name": "Khmer",
+          "post_script_name": "Khmer",
+          "version": "2.00 February 8, 2013",
+          "copyright": "Copyright (c) 2013, Danh Hong (khmertype.org)",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "MjQImit_vPPwpF-BpN2EeYmD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

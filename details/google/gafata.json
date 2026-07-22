@@ -1,0 +1,58 @@
+{
+  "slug": "google/gafata",
+  "name": "gafata",
+  "description": "Gafata is a font designed for small sizes in medium-long text, mixing elegance and readability which is why it has great applicability in books, magazines and web pages. In the process of finding the finest legibility, particular features emerged making this whimsical sans serif different from the rest, creating an original mark to the text it's applied to. Updated in March 2013 with updated spacing. Updated in April 2013 with updated hinting. To contribute to the project contact Lautaro Hourcade .",
+  "homepage": "https://fonts.google.com/specimen/Gafata",
+  "copyright": "Copyright (c) 2010-2012, Lautaro Hourcade (lautaro.uy@gmail.com), with Reserved Font Name 'Gafata'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gafata",
+      "files": [
+        "https://fonts.gstatic.com/s/gafata/v22/XRXV3I6Cn0VJKon4MuyAbsrVcA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gafata/v22/XRXV3I6Cn0VJKon4MuyAbsrVcA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gafata",
+      "files": [
+        "https://fonts.gstatic.com/s/gafata/v22/XRXV3I6Cn0VJKon4N-yAbsrVcA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gafata/v22/XRXV3I6Cn0VJKon4N-yAbsrVcA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gafata",
+      "styles": [
+        {
+          "family_name": "Gafata",
+          "type": "Regular",
+          "full_name": "Gafata",
+          "post_script_name": "Gafata-Regular",
+          "version": "4.002",
+          "copyright": "Copyright (c) 2010-2012, Lautaro Hourcade (lautaro.uy@gmail.com), with Reserved Font Name 'Gafata'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "XRXV3I6Cn0VJKon4MuyAbsrVcA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

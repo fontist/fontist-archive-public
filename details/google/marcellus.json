@@ -1,0 +1,58 @@
+{
+  "slug": "google/marcellus",
+  "name": "marcellus",
+  "description": "Marcellus and Marcellus SC (small caps) are a set of flared serif typeface families, inspired by classic Roman inscription letterforms. While the SC family leans more towards the titling style of Trajan, the Regular version lends itself to a wider range of usage. These elegant typefaces, when combined in use, exude clarity and beauty for both on screen and printed materials. Marcellus is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded to support other scripts. More specifically, this release supports the following Unicode ranges: Latin-1, Latin-2, Turkish, and Windows Baltic. To contribute to the project contact Brian J. Bonislawsky .",
+  "homepage": "https://fonts.google.com/specimen/Marcellus",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Marcellus\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Marcellus",
+      "files": [
+        "https://fonts.gstatic.com/s/marcellus/v14/wEO_EBrOk8hQLDvIAF8FUfAL3EsHiA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marcellus/v14/wEO_EBrOk8hQLDvIAF8FUfAL3EsHiA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Marcellus",
+      "files": [
+        "https://fonts.gstatic.com/s/marcellus/v14/wEO_EBrOk8hQLDvIAF8FVPAL3EsHiA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marcellus/v14/wEO_EBrOk8hQLDvIAF8FVPAL3EsHiA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Marcellus",
+      "styles": [
+        {
+          "family_name": "Marcellus",
+          "type": "Regular",
+          "full_name": "Marcellus",
+          "post_script_name": "Marcellus-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Marcellus\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wEO_EBrOk8hQLDvIAF8FUfAL3EsHiA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

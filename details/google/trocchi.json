@@ -1,0 +1,58 @@
+{
+  "slug": "google/trocchi",
+  "name": "trocchi",
+  "description": "Trocchi is a design derived from a number of old faces from the English typecutter Vincent Figgins (1766-1844) including Nebiolo’s ‘Egiziano’, and Caslon & Co’s ‘Antique No.4′ and ‘Ionic No.2′. Trocchi derivates from these earlier designs to produce a more casual slab serif. Trocchi is designed for use both as text and display type. The font is named after the Scottish novelist Alexander Trocchi. To contribute to the project contact Vernon Adams and see Trocchi on GitHub .",
+  "homepage": "https://fonts.google.com/specimen/Trocchi",
+  "copyright": "Copyright 2012 The Trocchi Project Authors (https://github.com/m4rc1e/Trocchi)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Trocchi",
+      "files": [
+        "https://fonts.gstatic.com/s/trocchi/v19/qWcqB6WkuIDxDZLcDrtUvMeTYD0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trocchi/v19/qWcqB6WkuIDxDZLcDrtUvMeTYD0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Trocchi",
+      "files": [
+        "https://fonts.gstatic.com/s/trocchi/v19/qWcqB6WkuIDxDZLcDr5UvMeTYD0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/trocchi/v19/qWcqB6WkuIDxDZLcDr5UvMeTYD0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Trocchi",
+      "styles": [
+        {
+          "family_name": "Trocchi",
+          "type": "Regular",
+          "full_name": "Trocchi Regular",
+          "post_script_name": "Trocchi-Regular",
+          "version": "1.101; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]",
+          "copyright": "Copyright 2012 The Trocchi Project Authors (https://github.com/m4rc1e/Trocchi)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qWcqB6WkuIDxDZLcDrtUvMeTYD0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

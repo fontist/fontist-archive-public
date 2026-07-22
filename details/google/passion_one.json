@@ -1,0 +1,101 @@
+{
+  "slug": "google/passion_one",
+  "name": "passion_one",
+  "description": "Passion One is a set of 3 display fonts aimed to composing titles in big sizes. Its counterforms decrease as the passion increases! Please use them only for your most passionate thoughts and ideas.",
+  "homepage": "https://fonts.google.com/specimen/Passion+One",
+  "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Passion One",
+      "files": [
+        "https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JHuW_Frg6YoV.ttf",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMq037owpYcuH8y.ttf",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMS0X7owpYcuH8y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JHuW_Frg6YoV.ttf",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMq037owpYcuH8y.ttf",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMS0X7owpYcuH8y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Passion One",
+      "files": [
+        "https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JHuT_Frg6YoV.woff2",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMq037twpYcuH8y.woff2",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMS0X7twpYcuH8y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/passionone/v20/PbynFmL8HhTPqbjUzux3JHuT_Frg6YoV.woff2",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMq037twpYcuH8y.woff2",
+        "https://fonts.gstatic.com/s/passionone/v20/Pby6FmL8HhTPqbjUzux3JEMS0X7twpYcuH8y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Passion One",
+      "styles": [
+        {
+          "family_name": "Passion One",
+          "type": "Regular",
+          "full_name": "Passion One Regular",
+          "post_script_name": "PassionOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PbynFmL8HhTPqbjUzux3JHuW_Frg6YoV.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Passion One",
+          "type": "Bold",
+          "full_name": "Passion One Bold",
+          "post_script_name": "PassionOne-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Pby6FmL8HhTPqbjUzux3JEMq037owpYcuH8y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Passion One Black",
+      "styles": [
+        {
+          "family_name": "Passion One Black",
+          "type": "Regular",
+          "full_name": "Passion One Black",
+          "post_script_name": "PassionOne-Black",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 Fontstage (info@fontstage.com), with Reserved Font Name \"Passion\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Pby6FmL8HhTPqbjUzux3JEMS0X7owpYcuH8y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

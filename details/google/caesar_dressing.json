@@ -1,0 +1,58 @@
+{
+  "slug": "google/caesar_dressing",
+  "name": "caesar_dressing",
+  "description": "Caesar Dressing is a 'Markers' take on a Greek alphabet. Open Window fonts gravitate towards more experimental or spontaneous renderings and this one doesn't look out of place next to the most experimental of those. It also maintains the geometric balance of a classic Greek-font quite effectively. Designed by Dathan Boardman of Open Window.",
+  "homepage": "https://fonts.google.com/specimen/Caesar+Dressing",
+  "copyright": "Copyright (c) 2011 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Caesar Dressing\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Caesar Dressing",
+      "files": [
+        "https://fonts.gstatic.com/s/caesardressing/v22/yYLx0hLa3vawqtwdswbotmK4vrR3cbb6LZttyg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caesardressing/v22/yYLx0hLa3vawqtwdswbotmK4vrR3cbb6LZttyg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Caesar Dressing",
+      "files": [
+        "https://fonts.gstatic.com/s/caesardressing/v22/yYLx0hLa3vawqtwdswbotmK4vrR3dLb6LZttyg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caesardressing/v22/yYLx0hLa3vawqtwdswbotmK4vrR3dLb6LZttyg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Caesar Dressing",
+      "styles": [
+        {
+          "family_name": "Caesar Dressing",
+          "type": "Regular",
+          "full_name": "Caesar Dressing",
+          "post_script_name": "CaesarDressing",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Open Window (dathanboardman@gmail.com) with Reseved Font Name \"Caesar Dressing\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "yYLx0hLa3vawqtwdswbotmK4vrR3cbb6LZttyg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

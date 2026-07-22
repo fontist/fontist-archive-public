@@ -1,0 +1,58 @@
+{
+  "slug": "google/fleur_de_leah",
+  "name": "fleur_de_leah",
+  "description": "Fleur De Leah is a formal script with a floral flavour. One of the first fonts to incorporate embellishment design elements within the letterforms. Use it sparingly for captions and short phrases and as with any script font, but never use it in all caps. Enjoy! It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/fleurdeleah .",
+  "homepage": "https://fonts.google.com/specimen/Fleur+De+Leah",
+  "copyright": "Copyright 2008-2021 The Fleur De Leah Project Authors (https://github.com/googlefonts/fleurdeleah)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fleur De Leah",
+      "files": [
+        "https://fonts.gstatic.com/s/fleurdeleah/v11/AYCNpXX7ftYZWLhv9UmPJTMC5vat4I_Gdq0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fleurdeleah/v11/AYCNpXX7ftYZWLhv9UmPJTMC5vat4I_Gdq0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fleur De Leah",
+      "files": [
+        "https://fonts.gstatic.com/s/fleurdeleah/v11/AYCNpXX7ftYZWLhv9UmPJTMC5vOt4I_Gdq0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fleurdeleah/v11/AYCNpXX7ftYZWLhv9UmPJTMC5vOt4I_Gdq0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fleur De Leah",
+      "styles": [
+        {
+          "family_name": "Fleur De Leah",
+          "type": "Regular",
+          "full_name": "Fleur De Leah Regular",
+          "post_script_name": "FleurDeLeah-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2008-2021 The Fleur De Leah Project Authors (https://github.com/googlefonts/fleurdeleah)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "AYCNpXX7ftYZWLhv9UmPJTMC5vat4I_Gdq0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

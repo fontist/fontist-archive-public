@@ -1,0 +1,58 @@
+{
+  "slug": "google/days_one",
+  "name": "days_one",
+  "description": "Days One is an experiment, which was established in 2008 by three people: Alexander Kalachev, Ivan Gladkikh, Alexei Maslov. Letterforms are wide, and the strokes are thick. This makes Days One good for headlines. It is similar to the more Regular weight font 'Numans' also available in Google Web Fonts.",
+  "homepage": "https://fonts.google.com/specimen/Days+One",
+  "copyright": "Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Days One",
+      "files": [
+        "https://fonts.gstatic.com/s/daysone/v19/mem9YaCnxnKRiYZOCLYVeLkWVNBt.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/daysone/v19/mem9YaCnxnKRiYZOCLYVeLkWVNBt.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Days One",
+      "files": [
+        "https://fonts.gstatic.com/s/daysone/v19/mem9YaCnxnKRiYZOCLYQeLkWVNBt.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/daysone/v19/mem9YaCnxnKRiYZOCLYQeLkWVNBt.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Days One",
+      "styles": [
+        {
+          "family_name": "Days One",
+          "type": "Regular",
+          "full_name": "Days One",
+          "post_script_name": "DaysOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2009 by Alexander Kalachev, Alexey Maslov, Jovanny Lemonad. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "mem9YaCnxnKRiYZOCLYVeLkWVNBt.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

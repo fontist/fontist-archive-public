@@ -1,0 +1,58 @@
+{
+  "slug": "google/qahiri",
+  "name": "qahiri",
+  "description": "Qahiri is a Kufic typeface based on the modernized and regularized old manuscript Kufic calligraphy style of the late master of Arabic calligraphy, Mohammad Abdul Qadir . Following the convention of naming Kufic styles after the cities they appeared in, Qahiri (قاهري) is named after the city of Cairo, Egypt (القاهرة). To contribute, see github.com/alif-type/qahiri",
+  "homepage": "https://fonts.google.com/specimen/Qahiri",
+  "copyright": "Copyright 2021 The Qahiri Project Authors (github.com/alif-type/qahiri).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Qahiri",
+      "files": [
+        "https://fonts.gstatic.com/s/qahiri/v11/tsssAp1RZy0C_hGuU3Chrnmupw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/qahiri/v11/tsssAp1RZy0C_hGuU3Chrnmupw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Qahiri",
+      "files": [
+        "https://fonts.gstatic.com/s/qahiri/v11/tsssAp1RZy0C_hGuVnChrnmupw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/qahiri/v11/tsssAp1RZy0C_hGuVnChrnmupw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Qahiri",
+      "styles": [
+        {
+          "family_name": "Qahiri",
+          "type": "Regular",
+          "full_name": "Qahiri Regular",
+          "post_script_name": "Qahiri-Regular",
+          "version": "3.00",
+          "copyright": "Copyright 2021 The Qahiri Project Authors (github.com/alif-type/qahiri).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "tsssAp1RZy0C_hGuU3Chrnmupw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

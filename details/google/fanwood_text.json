@@ -1,0 +1,77 @@
+{
+  "slug": "google/fanwood_text",
+  "name": "fanwood_text",
+  "description": "Fanwood Text is a revival of Fairfield , the typeface first published in 1940 and designed by Rudolph Ruzicka, a famous Czech-American type designer. The roman and italic are slightly darker and reduced in contrast than the original; this was tailored for increased readability on the Amazon Kindle 3 e-book reader hardware. To learn more, see bitbucket.org/sortsmill/sortsmill-fonts and the theleagueofmoveabletype.com/fanwood",
+  "homepage": "https://fonts.google.com/specimen/Fanwood+Text",
+  "copyright": "Copyright (c) 2011, Barry Schwartz  (chemoelectric@chemoelectric.org)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fanwood Text",
+      "files": [
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFtErwl05Ad_vSCF6Fq7xXGRdbY1P1Sbg.ttf",
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFzErwl05Ad_vSCF6Fq7xX2R9zc9vhCblye.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFtErwl05Ad_vSCF6Fq7xXGRdbY1P1Sbg.ttf",
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFzErwl05Ad_vSCF6Fq7xX2R9zc9vhCblye.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fanwood Text",
+      "files": [
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFtErwl05Ad_vSCF6Fq7xXGQNbY1P1Sbg.woff2",
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFzErwl05Ad_vSCF6Fq7xX2R9zZ9vhCblye.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFtErwl05Ad_vSCF6Fq7xXGQNbY1P1Sbg.woff2",
+        "https://fonts.gstatic.com/s/fanwoodtext/v17/3XFzErwl05Ad_vSCF6Fq7xX2R9zZ9vhCblye.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fanwood Text",
+      "styles": [
+        {
+          "family_name": "Fanwood Text",
+          "type": "Regular",
+          "full_name": "Fanwood Text",
+          "post_script_name": "FanwoodText-Regular",
+          "version": "1.1001 ",
+          "copyright": "Copyright (c) 2011, Barry Schwartz  (chemoelectric@chemoelectric.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "3XFtErwl05Ad_vSCF6Fq7xXGRdbY1P1Sbg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Fanwood Text",
+          "type": "Italic",
+          "full_name": "Fanwood Text Italic",
+          "post_script_name": "FanwoodText-Italic",
+          "version": "1.101 ",
+          "copyright": "Copyright (c) 2011, Barry Schwartz (chemoelectric@chemoelectric.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "3XFzErwl05Ad_vSCF6Fq7xX2R9zc9vhCblye.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

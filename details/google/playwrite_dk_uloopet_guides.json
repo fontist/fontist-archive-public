@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_dk_uloopet_guides",
+  "name": "playwrite_dk_uloopet_guides",
+  "description": "Playwrite DK Uloopet Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DK+Uloopet+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite DK Uloopet Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1bo9bkIONtA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1bo9bkIONtA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite DK Uloopet Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1a49bkIONtA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedkuloopetguides/v1/WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1a49bkIONtA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DK Uloopet Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite DK Uloopet Guides",
+          "type": "Regular",
+          "full_name": "Playwrite DK Uloopet Guides Regular",
+          "post_script_name": "PlaywriteDKUloopetGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "WwkKxOSkDVqm-ojMLT_kdMsoBb5Xs6efafiIBXYcVHk1bo9bkIONtA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

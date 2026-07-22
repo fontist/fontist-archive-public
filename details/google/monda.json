@@ -1,0 +1,131 @@
+{
+  "slug": "google/monda",
+  "name": "monda",
+  "description": "The Monda font family is a libre font family. It has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices. Monda language support includes now African Latin and full coverage of Vietnamese, additional to all Western, Central, and South-Eastern European languages. To contribute see github.com/googlefonts/mondaFont .",
+  "homepage": "https://fonts.google.com/specimen/Monda",
+  "copyright": "Copyright 2021 The Monda Project Authors (https://github.com/googlefonts/mondaFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Monda",
+      "files": [
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsH3oMpGtGaA-Ijw.woff2",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsLXoMpGtGaA-Ijw.woff2",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWswX0MpGtGaA-Ijw.woff2",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWs-H0MpGtGaA-Ijw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsH3oMpGtGaA-Ijw.woff2",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsLXoMpGtGaA-Ijw.woff2",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWswX0MpGtGaA-Ijw.woff2",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWs-H0MpGtGaA-Ijw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Monda",
+      "files": [
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsH3oMoWtGaA-Ijw.ttf",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsLXoMoWtGaA-Ijw.ttf",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWswX0MoWtGaA-Ijw.ttf",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWs-H0MoWtGaA-Ijw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsH3oMoWtGaA-Ijw.ttf",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWsLXoMoWtGaA-Ijw.ttf",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWswX0MoWtGaA-Ijw.ttf",
+        "https://fonts.gstatic.com/s/monda/v19/TK3-WkYFABsmjuBtFuvTIFRAPpWs-H0MoWtGaA-Ijw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Monda",
+      "styles": [
+        {
+          "family_name": "Monda",
+          "type": "Regular",
+          "full_name": "Monda Regular",
+          "post_script_name": "Monda-Regular",
+          "version": "2.200",
+          "copyright": "Copyright 2021 The Monda Project Authors (https://github.com/googlefonts/mondaFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "TK3-WkYFABsmjuBtFuvTIFRAPpWsH3oMoWtGaA-Ijw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Monda",
+          "type": "Bold",
+          "full_name": "Monda Bold",
+          "post_script_name": "Monda-Bold",
+          "version": "2.200",
+          "copyright": "Copyright 2021 The Monda Project Authors (https://github.com/googlefonts/mondaFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "TK3-WkYFABsmjuBtFuvTIFRAPpWs-H0MoWtGaA-Ijw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monda Medium",
+      "styles": [
+        {
+          "family_name": "Monda Medium",
+          "type": "Regular",
+          "full_name": "Monda Medium",
+          "post_script_name": "Monda-Medium",
+          "version": "2.200",
+          "copyright": "Copyright 2021 The Monda Project Authors (https://github.com/googlefonts/mondaFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "TK3-WkYFABsmjuBtFuvTIFRAPpWsLXoMoWtGaA-Ijw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Monda SemiBold",
+      "styles": [
+        {
+          "family_name": "Monda SemiBold",
+          "type": "Regular",
+          "full_name": "Monda SemiBold",
+          "post_script_name": "Monda-SemiBold",
+          "version": "2.200",
+          "copyright": "Copyright 2021 The Monda Project Authors (https://github.com/googlefonts/mondaFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "TK3-WkYFABsmjuBtFuvTIFRAPpWswX0MoWtGaA-Ijw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,131 @@
+{
+  "slug": "google/noto_sans_sora_sompeng",
+  "name": "noto_sans_sora_sompeng",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Sora Sompeng is an unmodulated (“sans serif”) design for texts in the Indic Sora Sompeng script. It has multiple weights and 42 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Sora+Sompeng",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sora-sompeng)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Sans Sora Sompeng",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR818DsZXJQd4Mu.woff2",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO18DsZXJQd4Mu.woff2",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0MDsZXJQd4Mu.woff2",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0MDsZXJQd4Mu.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR818DsZXJQd4Mu.woff2",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO18DsZXJQd4Mu.woff2",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0MDsZXJQd4Mu.woff2",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0MDsZXJQd4Mu.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Sans Sora Sompeng",
+      "files": [
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR818DpZXJQd4Mu.ttf",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO18DpZXJQd4Mu.ttf",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0MDpZXJQd4Mu.ttf",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0MDpZXJQd4Mu.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR818DpZXJQd4Mu.ttf",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO18DpZXJQd4Mu.ttf",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0MDpZXJQd4Mu.ttf",
+        "https://fonts.gstatic.com/s/notosanssorasompeng/v26/PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0MDpZXJQd4Mu.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Sora Sompeng",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sora Sompeng",
+          "type": "Regular",
+          "full_name": "Noto Sans Sora Sompeng Regular",
+          "post_script_name": "NotoSansSoraSompeng-Regular",
+          "version": "2.101",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sora-sompeng)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHR818DpZXJQd4Mu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Sans Sora Sompeng",
+          "type": "Bold",
+          "full_name": "Noto Sans Sora Sompeng Bold",
+          "post_script_name": "NotoSansSoraSompeng-Bold",
+          "version": "2.101",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sora-sompeng)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSb0MDpZXJQd4Mu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Sora Sompeng Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sora Sompeng Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Sora Sompeng Medium",
+          "post_script_name": "NotoSansSoraSompeng-Medium",
+          "version": "2.101",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sora-sompeng)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHRO18DpZXJQd4Mu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Sora Sompeng SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Sora Sompeng SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Sora Sompeng SemiBold",
+          "post_script_name": "NotoSansSoraSompeng-SemiBold",
+          "version": "2.101",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/sora-sompeng)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "PlIRFkO5O6RzLfvNNVSioxM2_OTrEhPyDLolKvCsHzCxWuGkYHSi0MDpZXJQd4Mu.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

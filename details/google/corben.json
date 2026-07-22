@@ -1,0 +1,77 @@
+{
+  "slug": "google/corben",
+  "name": "corben",
+  "description": "Corben is a simple web friendly display font with ample curves and ligatures. Corben is designed to be easy on the eye with a touch of classic display lettering.",
+  "homepage": "https://fonts.google.com/specimen/Corben",
+  "copyright": "Copyright (c) 2010, 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Name Corben.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Corben",
+      "files": [
+        "https://fonts.gstatic.com/s/corben/v23/LYjDdGzzklQtCMp9oAlEpVs3VQ.ttf",
+        "https://fonts.gstatic.com/s/corben/v23/LYjAdGzzklQtCMpFHCZgrXArXN7HWQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/corben/v23/LYjDdGzzklQtCMp9oAlEpVs3VQ.ttf",
+        "https://fonts.gstatic.com/s/corben/v23/LYjAdGzzklQtCMpFHCZgrXArXN7HWQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Corben",
+      "files": [
+        "https://fonts.gstatic.com/s/corben/v23/LYjDdGzzklQtCMp9pQlEpVs3VQ.woff2",
+        "https://fonts.gstatic.com/s/corben/v23/LYjAdGzzklQtCMpFHCZgqHArXN7HWQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/corben/v23/LYjDdGzzklQtCMp9pQlEpVs3VQ.woff2",
+        "https://fonts.gstatic.com/s/corben/v23/LYjAdGzzklQtCMpFHCZgqHArXN7HWQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Corben",
+      "styles": [
+        {
+          "family_name": "Corben",
+          "type": "Regular",
+          "full_name": "Corben",
+          "post_script_name": "Corben-Regular",
+          "version": "1.101",
+          "copyright": "Copyright (c) 2010, 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Name Corben.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjDdGzzklQtCMp9oAlEpVs3VQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Corben",
+          "type": "Bold",
+          "full_name": "Corben Bold",
+          "post_script_name": "Corben-Bold",
+          "version": "1.101; ttfautohint (v1.6)",
+          "copyright": "Copyright (c) 2010, 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Name Corben.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LYjAdGzzklQtCMpFHCZgrXArXN7HWQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

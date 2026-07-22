@@ -1,0 +1,58 @@
+{
+  "slug": "google/griffy",
+  "name": "griffy",
+  "description": "He's one cool customer with that crazy casual beatnik outfit, a long silky goatee and a touch of spooky just to give you the creeps... They call him Griffy! Dig this fun and wacky hip new font from Squid and Neapolitan and turn your L7 designs into way out masterpieces! Designed by Dave 'Squid' Cohen of Neapolitan (a DBA of Font Diner, Inc)",
+  "homepage": "https://fonts.google.com/specimen/Griffy",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Griffy\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Griffy",
+      "files": [
+        "https://fonts.gstatic.com/s/griffy/v23/FwZa7-ox2FQh9kfwSNSEwM2zpA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/griffy/v23/FwZa7-ox2FQh9kfwSNSEwM2zpA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Griffy",
+      "files": [
+        "https://fonts.gstatic.com/s/griffy/v23/FwZa7-ox2FQh9kfwTdSEwM2zpA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/griffy/v23/FwZa7-ox2FQh9kfwTdSEwM2zpA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Griffy",
+      "styles": [
+        {
+          "family_name": "Griffy",
+          "type": "Regular",
+          "full_name": "Griffy",
+          "post_script_name": "Griffy-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Neapolitan (diner@fontdiner.com) with Reseved Font Name \"Griffy\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "FwZa7-ox2FQh9kfwSNSEwM2zpA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/actor",
+  "name": "actor",
+  "description": "A diploma thesis project from the Aachen University of Applied Sciences at Karl-Friedrich (Kai) Oetzbach. The font originated in a course in type design. The idea was to learn through the creation of a typeface about writing as an information carrier. It was created entirely digitally, so the path to the current version is very rocky and winding. Actor has a strong x-height, which is why it always requires a fairly high line spacing. The digits of Actor are created as old style figures. The forms of 6 and 9 are more dynamic and more tense than usual. The 8 has significantly shifted interiors and the 7 is slightly curved to the left.",
+  "homepage": "https://fonts.google.com/specimen/Actor",
+  "copyright": "Copyright (c) 2011, Thomas Junold <hallo@buerofueraufmerksamkeit.de>, with Reserved Font Name \"Actor\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Actor",
+      "files": [
+        "https://fonts.gstatic.com/s/actor/v18/wEOzEBbCkc5cO3ekXygtUMIO.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/actor/v18/wEOzEBbCkc5cO3ekXygtUMIO.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Actor",
+      "files": [
+        "https://fonts.gstatic.com/s/actor/v18/wEOzEBbCkc5cO3ehXygtUMIO.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/actor/v18/wEOzEBbCkc5cO3ehXygtUMIO.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Actor",
+      "styles": [
+        {
+          "family_name": "Actor",
+          "type": "Regular",
+          "full_name": "Actor Regular",
+          "post_script_name": "Actor-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Thomas Junold <hallo@buerofueraufmerksamkeit.de>, with Reserved Font Name \"Actor\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wEOzEBbCkc5cO3ekXygtUMIO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

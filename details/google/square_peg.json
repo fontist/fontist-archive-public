@@ -1,0 +1,58 @@
+{
+  "slug": "google/square_peg",
+  "name": "square_peg",
+  "description": "This happy font is great for scrapping and casual situations. Square Peg has a shaky, rough, and almost mono-weight with slightly heavier horizontal strokes. It's hand written style lends itself to situations that require playful and casual themes. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/square-peg .",
+  "homepage": "https://fonts.google.com/specimen/Square+Peg",
+  "copyright": "Copyright 1995-2021 The Square Peg Project Authors (https://github.com/googlefonts/square-peg)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Square Peg",
+      "files": [
+        "https://fonts.gstatic.com/s/squarepeg/v7/y83eW48Nzw6ZlUHc-phrBDHrHHfrFPE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/squarepeg/v7/y83eW48Nzw6ZlUHc-phrBDHrHHfrFPE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Square Peg",
+      "files": [
+        "https://fonts.gstatic.com/s/squarepeg/v7/y83eW48Nzw6ZlUHc-phrBDTrHHfrFPE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/squarepeg/v7/y83eW48Nzw6ZlUHc-phrBDTrHHfrFPE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Square Peg",
+      "styles": [
+        {
+          "family_name": "Square Peg",
+          "type": "Regular",
+          "full_name": "Square Peg Regular",
+          "post_script_name": "SquarePeg-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 1995-2021 The Square Peg Project Authors (https://github.com/googlefonts/square-peg)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "y83eW48Nzw6ZlUHc-phrBDHrHHfrFPE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

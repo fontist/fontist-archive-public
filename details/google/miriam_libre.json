@@ -1,0 +1,131 @@
+{
+  "slug": "google/miriam_libre",
+  "name": "miriam_libre",
+  "description": "Miriam Libre is a mono-linear Hebrew and Latin sans serif font family with two weights, Regular and Bold. The Hebrew design is a revival of the original Miriam typeface published in 1908 by Raphael Frank. Miriam Libre brings this design into the 21st century: proportions are redesigned; unnnecessary elements were removed for a more clean appearance, while keeping the original unique personality; more soft curves replace some of the “square” mechanical ones. The Latin design is original and made to fit the Hebrew and meet the contemporary needs of a bi-lingual font family. This updated version expands Miriam Libre to be a variable font. The Miriam Libre project is led by Michal Sahar, a type designer based in Tel Aviv, Israel. To contribute, see github.com/simoncozens/Miriam-Libre",
+  "homepage": "https://fonts.google.com/specimen/Miriam+Libre",
+  "copyright": "Copyright 2023 The Miriam Libre Project Authors (https://github.com/simoncozens/Miriam-Libre/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Miriam Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3k97GL-8tY7Q.woff2",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH-H3k97GL-8tY7Q.woff2",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHw3wk97GL-8tY7Q.woff2",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHzTwk97GL-8tY7Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3k97GL-8tY7Q.woff2",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH-H3k97GL-8tY7Q.woff2",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHw3wk97GL-8tY7Q.woff2",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHzTwk97GL-8tY7Q.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Miriam Libre",
+      "files": [
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3k9vGL-8tY7Q.ttf",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH-H3k9vGL-8tY7Q.ttf",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHw3wk9vGL-8tY7Q.ttf",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHzTwk9vGL-8tY7Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3k9vGL-8tY7Q.ttf",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH-H3k9vGL-8tY7Q.ttf",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHw3wk9vGL-8tY7Q.ttf",
+        "https://fonts.gstatic.com/s/miriamlibre/v19/DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHzTwk9vGL-8tY7Q.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Miriam Libre",
+      "styles": [
+        {
+          "family_name": "Miriam Libre",
+          "type": "Regular",
+          "full_name": "Miriam Libre Regular",
+          "post_script_name": "MiriamLibre-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Miriam Libre Project Authors (https://github.com/simoncozens/Miriam-Libre/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH9P3k9vGL-8tY7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Miriam Libre",
+          "type": "Bold",
+          "full_name": "Miriam Libre Bold",
+          "post_script_name": "MiriamLibre-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Miriam Libre Project Authors (https://github.com/simoncozens/Miriam-Libre/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHzTwk9vGL-8tY7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miriam Libre Medium",
+      "styles": [
+        {
+          "family_name": "Miriam Libre Medium",
+          "type": "Regular",
+          "full_name": "Miriam Libre Medium",
+          "post_script_name": "MiriamLibre-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Miriam Libre Project Authors (https://github.com/simoncozens/Miriam-Libre/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjH-H3k9vGL-8tY7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Miriam Libre SemiBold",
+      "styles": [
+        {
+          "family_name": "Miriam Libre SemiBold",
+          "type": "Regular",
+          "full_name": "Miriam Libre SemiBold",
+          "post_script_name": "MiriamLibre-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2023 The Miriam Libre Project Authors (https://github.com/simoncozens/Miriam-Libre/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "DdT0798HsHwubBAqfkcBTL_1a7sPlXcE8PJjHw3wk9vGL-8tY7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

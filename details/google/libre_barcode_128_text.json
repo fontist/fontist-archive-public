@@ -1,0 +1,58 @@
+{
+  "slug": "google/libre_barcode_128_text",
+  "name": "libre_barcode_128_text",
+  "description": "Libre Barcode fonts enable you to write barcodes in the Code 39 , Code 128 and EAN-13/UPC-12 formats, with or without text below the code. A number of fonts are available . For usage instructions and further information vist the documentation of the Code 128 format . The Libre Barcode project is led by Lasse Fister, a font and web developer based in Nuremberg, Germany. To contribute, see github.com/graphicore/librebarcode .",
+  "homepage": "https://fonts.google.com/specimen/Libre+Barcode+128+Text",
+  "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Libre Barcode 128 Text",
+      "files": [
+        "https://fonts.gstatic.com/s/librebarcode128text/v31/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/librebarcode128text/v31/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Libre Barcode 128 Text",
+      "files": [
+        "https://fonts.gstatic.com/s/librebarcode128text/v31/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cVjY6M90w4k.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/librebarcode128text/v31/fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cVjY6M90w4k.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Libre Barcode 128 Text",
+      "styles": [
+        {
+          "family_name": "Libre Barcode 128 Text",
+          "type": "Regular",
+          "full_name": "Libre Barcode 128 Text Regular",
+          "post_script_name": "LibreBarcode128Text-Regular",
+          "version": "1.005; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017-2020 The Libre Barcode Project Authors (https://github.com/graphicore/librebarcode)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "fdNv9tubt3ZEnz1Gu3I4-zppwZ9CWZ16Z0w5cV3Y6M90w4k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/poiret_one",
+  "name": "poiret_one",
+  "description": "A fresh decorative geometric grotesque with a hint of Art Deco and constructivism. Poiret One is a unique typeface with light forms and pure elegance. Sleek and simple. Based on geometric forms, it has stylish lines and graceful curves. The font is applicable for large signs, labels, titles, headlines and any type of graphic design on the web, in motion graphics, or in print - from t-shirts to posters and logos. It is also well-suited for short texts and advertising where style is desired. Complete with a lower-case letters, the Poiret One is also useful for all-caps usage. To contribute to the project contact Denis Masharov .",
+  "homepage": "https://fonts.google.com/specimen/Poiret+One",
+  "copyright": "Copyright (c) 2011, Denis Masharov (denis.masharov@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Poiret One",
+      "files": [
+        "https://fonts.gstatic.com/s/poiretone/v18/UqyVK80NJXN4zfRgbdfbk5lWVscxdKE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poiretone/v18/UqyVK80NJXN4zfRgbdfbk5lWVscxdKE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Poiret One",
+      "files": [
+        "https://fonts.gstatic.com/s/poiretone/v18/UqyVK80NJXN4zfRgbdfbk5xWVscxdKE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poiretone/v18/UqyVK80NJXN4zfRgbdfbk5xWVscxdKE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Poiret One",
+      "styles": [
+        {
+          "family_name": "Poiret One",
+          "type": "Regular",
+          "full_name": "Poiret One",
+          "post_script_name": "PoiretOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Denis Masharov (denis.masharov@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "UqyVK80NJXN4zfRgbdfbk5lWVscxdKE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

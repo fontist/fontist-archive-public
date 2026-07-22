@@ -1,0 +1,106 @@
+{
+  "slug": "google/kiwi_maru",
+  "name": "kiwi_maru",
+  "description": "Kiwi Maru was created mainly for use in digital devices, and I hope you will use it experimentally in your papers and reports. The basic vocabulary of the Japanese language is divided into three categories: \"everyday words\", which are used freely in everyday conversation, articles and novels, \"written words\", which are used in official situations and sentences, and \"slang\", which is more informal in style. 　 Kiwi Maru Regular is a typeface for visualization and sharing of everyday and slang expressions in the digital age. Nowadays, in 2020, Mincho and Gothic typefaces are exclusively used in smart phones, tablets and PC environment. We hope that the introduction of a round font will change the way people express their emotions and feelings, which have been missing from the analog and digital worlds, and the painful feeling of having too many Chinese characters in a font. There are three weights, L, R and M. These vary only slightly in weight as we wanted to provide you with the ability to account for the difference in weight between different OS, browsers, and devices. To contribute to the project, visit github.com/Kiwi-KawagotoKajiru/Kiwi-Maru",
+  "homepage": "https://fonts.google.com/specimen/Kiwi+Maru",
+  "copyright": "Copyright 2020 The Kiwi Maru Project Authors (https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kiwi Maru",
+      "files": [
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gNCi0Vxn9R5ShnA.ttf",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70YjykGkuuDep-hRg6YmACQXzLhTg.ttf",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gbCm0Vxn9R5ShnA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gNCi0Vxn9R5ShnA.ttf",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70YjykGkuuDep-hRg6YmACQXzLhTg.ttf",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gbCm0Vxn9R5ShnA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kiwi Maru",
+      "files": [
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gNCi0Uhn9R5ShnA.woff2",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70YjykGkuuDep-hRg6YnQCQXzLhTg.woff2",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gbCm0Uhn9R5ShnA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gNCi0Uhn9R5ShnA.woff2",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70YjykGkuuDep-hRg6YnQCQXzLhTg.woff2",
+        "https://fonts.gstatic.com/s/kiwimaru/v20/R70djykGkuuDep-hRg6gbCm0Uhn9R5ShnA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kiwi Maru Light",
+      "styles": [
+        {
+          "family_name": "Kiwi Maru Light",
+          "type": "Regular",
+          "full_name": "Kiwi Maru Light",
+          "post_script_name": "KiwiMaru-Light",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Kiwi Maru Project Authors (https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "R70djykGkuuDep-hRg6gNCi0Vxn9R5ShnA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiwi Maru",
+      "styles": [
+        {
+          "family_name": "Kiwi Maru",
+          "type": "Regular",
+          "full_name": "Kiwi Maru Regular",
+          "post_script_name": "KiwiMaru-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Kiwi Maru Project Authors (https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "R70YjykGkuuDep-hRg6YmACQXzLhTg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kiwi Maru Medium",
+      "styles": [
+        {
+          "family_name": "Kiwi Maru Medium",
+          "type": "Regular",
+          "full_name": "Kiwi Maru Medium",
+          "post_script_name": "KiwiMaru-Medium",
+          "version": "1.100",
+          "copyright": "Copyright 2020 The Kiwi Maru Project Authors (https://github.com/Kiwi-KawagotoKajiru/Kiwi-Maru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "R70djykGkuuDep-hRg6gbCm0Vxn9R5ShnA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "google/lusitana",
+  "name": "lusitana",
+  "description": "Lusitana is inspired by the type found in the 1572 first edition of \"The Lusiads\", a Portuguese epic poem by Luís Vaz de Camões. This typeface is made for long texts at small sizes.",
+  "homepage": "https://fonts.google.com/specimen/Lusitana",
+  "copyright": "Copyright (c) 2011 by Ana Paula Megda (www.anamegda.com|anapbm@gmail.com), with Reserved Font Name Lusitana.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lusitana",
+      "files": [
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR84z9ShvucWzsMKxhaRuMiSct_.ttf",
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR74z9ShvucWzsMKyDmaccqYtd2vfwk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR84z9ShvucWzsMKxhaRuMiSct_.ttf",
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR74z9ShvucWzsMKyDmaccqYtd2vfwk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lusitana",
+      "files": [
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR84z9ShvucWzsMKxhfRuMiSct_.woff2",
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR74z9ShvucWzsMKyDmaccvYtd2vfwk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR84z9ShvucWzsMKxhfRuMiSct_.woff2",
+        "https://fonts.gstatic.com/s/lusitana/v14/CSR74z9ShvucWzsMKyDmaccvYtd2vfwk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lusitana",
+      "styles": [
+        {
+          "family_name": "Lusitana",
+          "type": "Regular",
+          "full_name": "Lusitana",
+          "post_script_name": "Lusitana",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Ana Paula Megda (www.anamegda.com|anapbm@gmail.com), with Reserved Font Name Lusitana.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CSR84z9ShvucWzsMKxhaRuMiSct_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Lusitana",
+          "type": "Bold",
+          "full_name": "Lusitana Bold",
+          "post_script_name": "Lusitana-Bold",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Ana Paula Megda (www.anamegda.com|anapbm@gmail.com), with Reserved Font Name Lusitana.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "CSR74z9ShvucWzsMKyDmaccqYtd2vfwk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

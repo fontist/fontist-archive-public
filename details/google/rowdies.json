@@ -1,0 +1,101 @@
+{
+  "slug": "google/rowdies",
+  "name": "rowdies",
+  "description": "Rowdies is a Latin display typeface inspired by the rough &amp; tough Indian action cinema. Roughness and oddness of each individual letter contribute collectively as a typeface to the fantasy of being bold, fearless and strong. Designed by Jaikishan Patel for action, drama, adventure, thriller, noir &amp; crime genres of storytelling. The font family includes 600+ glyphs in 3 weights; Light, Regular, and Bold. To contribute, see https://github.com/magictype/rowdies",
+  "homepage": "https://fonts.google.com/specimen/Rowdies",
+  "copyright": "Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rowdies",
+      "files": [
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219hth5O7yKQNute8.ttf",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRJTieMYPNBAK21zrdJwObZNQo.ttf",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219gtm5O7yKQNute8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219hth5O7yKQNute8.ttf",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRJTieMYPNBAK21zrdJwObZNQo.ttf",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219gtm5O7yKQNute8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rowdies",
+      "files": [
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219hth5OvyKQNute8.woff2",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRJTieMYPNBAK21zrJJwObZNQo.woff2",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219gtm5OvyKQNute8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219hth5OvyKQNute8.woff2",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRJTieMYPNBAK21zrJJwObZNQo.woff2",
+        "https://fonts.gstatic.com/s/rowdies/v19/ptRMTieMYPNBAK219gtm5OvyKQNute8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rowdies Light",
+      "styles": [
+        {
+          "family_name": "Rowdies Light",
+          "type": "Regular",
+          "full_name": "Rowdies Light",
+          "post_script_name": "Rowdies-Light",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRMTieMYPNBAK219hth5O7yKQNute8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rowdies",
+      "styles": [
+        {
+          "family_name": "Rowdies",
+          "type": "Regular",
+          "full_name": "Rowdies Regular",
+          "post_script_name": "Rowdies-Regular",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRJTieMYPNBAK21zrdJwObZNQo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Rowdies",
+          "type": "Bold",
+          "full_name": "Rowdies Bold",
+          "post_script_name": "Rowdies-Bold",
+          "version": "1.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2018 The Rowdies Project Authors (https://github.com/magictype/rowdies)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ptRMTieMYPNBAK219gtm5O7yKQNute8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

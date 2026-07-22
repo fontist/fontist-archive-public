@@ -1,0 +1,77 @@
+{
+  "slug": "google/sumana",
+  "name": "sumana",
+  "description": "Sumana is a family of Latin and Devanagari fonts for text setting and web usage. Designed by Alexei Vanyashin in 2014-2015 for Cyreal. The Latin counterpart is derived from Lora by Olga Karpushina, Cyreal. Its vertical and horizontal metrics are adjusted to better match with the Devanagari. The meaning of Sumana in Sanskrit is flower, which is the meaning of Lora in Spanish. It was quite a challenge to match the graphical characteristics of each script and took many iterations to finalise the first release. I tried to keep the Devanagari closer to a traditional Indian calligraphic model while flavouring it with graphic solutions derived from Lora's Latin. It is my first attempt to design a Devanagari, and I am thankful to Google Fonts for making this project happen, and to all experts who consulted with me on this project, including: Fiona Ross, Eric McLaughlin, Vaishnavi Murthy, Pria Ravichandran, and Wei Huang. The comments and revision history can be found in this discussion in the Google Fonts forum . This project is led by Cyreal, an international type foundry focused on designing contemporary Latin and Cyrillic typefaces. To contribute, visit github.com/cyrealtype/Sumana",
+  "homepage": "https://fonts.google.com/specimen/Sumana",
+  "copyright": "Copyright © 2015 by Cyreal. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sumana",
+      "files": [
+        "https://fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-G8Bji76zR4w.ttf",
+        "https://fonts.gstatic.com/s/sumana/v12/4UaArE5TqRBjGj--TDfG54fN6ppsKg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-G8Bji76zR4w.ttf",
+        "https://fonts.gstatic.com/s/sumana/v12/4UaArE5TqRBjGj--TDfG54fN6ppsKg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sumana",
+      "files": [
+        "https://fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-G9Rji76zR4w.woff2",
+        "https://fonts.gstatic.com/s/sumana/v12/4UaArE5TqRBjGj--TDfG4ofN6ppsKg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sumana/v12/4UaDrE5TqRBjGj-G9Rji76zR4w.woff2",
+        "https://fonts.gstatic.com/s/sumana/v12/4UaArE5TqRBjGj--TDfG4ofN6ppsKg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sumana",
+      "styles": [
+        {
+          "family_name": "Sumana",
+          "type": "Regular",
+          "full_name": "Sumana",
+          "post_script_name": "Sumana-Regular",
+          "version": "1.015;PS 001.015;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.94) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+          "copyright": "Copyright © 2015 by Cyreal. All rights reserved.",
+          "description": "Copyright (c) 2015\nCyreal (www.cyreal.org)\nwith Reserved Font Name \"Sumana\"\n\nThis Font Software is licensed under the SIL Open Font License\n\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4UaDrE5TqRBjGj-G8Bji76zR4w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sumana",
+          "type": "Bold",
+          "full_name": "Sumana Bold",
+          "post_script_name": "Sumana-Bold",
+          "version": "1.015;PS 001.015;hotconv 1.0.70;makeotf.lib2.5.58329 DEVELOPMENT; ttfautohint (v0.94) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+          "copyright": "Copyright © 2015 by Cyreal. All rights reserved.",
+          "description": "Copyright (c) 2015\nCyreal (www.cyreal.org)\nwith Reserved Font Name \"Sumana\"\n\nThis Font Software is licensed under the SIL Open Font License\n\nVersion 1.1. This license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "4UaArE5TqRBjGj--TDfG54fN6ppsKg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

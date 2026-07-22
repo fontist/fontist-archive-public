@@ -1,0 +1,58 @@
+{
+  "slug": "google/marck_script",
+  "name": "marck_script",
+  "description": "Marck Script is based on freehand lettering with felt-tip pen by Marck Fogel. The main advantage over other similar fonts is the lack of connections between characters, that allows wide variety of spacing between letters. It can be used for logotypes, headlines and for short pieces of text, wherever you want to create an informal, confident relationship - it is readable, comfortable and welcoming.",
+  "homepage": "https://fonts.google.com/specimen/Marck+Script",
+  "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>, Marck Fogel, with Reserved Font Names \"Marck Script\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Marck Script",
+      "files": [
+        "https://fonts.gstatic.com/s/marckscript/v22/nwpTtK2oNgBA3Or78gapdwuCzyI-aMPF7Q.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marckscript/v22/nwpTtK2oNgBA3Or78gapdwuCzyI-aMPF7Q.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Marck Script",
+      "files": [
+        "https://fonts.gstatic.com/s/marckscript/v22/nwpTtK2oNgBA3Or78gapdwuCyiI-aMPF7Q.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marckscript/v22/nwpTtK2oNgBA3Or78gapdwuCyiI-aMPF7Q.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Marck Script",
+      "styles": [
+        {
+          "family_name": "Marck Script",
+          "type": "Regular",
+          "full_name": "Marck Script",
+          "post_script_name": "MarckScript-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>, Marck Fogel, with Reserved Font Names \"Marck Script\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "nwpTtK2oNgBA3Or78gapdwuCzyI-aMPF7Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

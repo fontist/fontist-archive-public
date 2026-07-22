@@ -1,0 +1,250 @@
+{
+  "slug": "google/red_hat_text",
+  "name": "red_hat_text",
+  "description": "Red Hat is a family of typefaces produced in 2 optical sizes and a monospace style, in a range of weights with italics. The fonts were originally commissioned by Paula Scher, Pentagram and designed by Jeremy Mickel, MCKL for the new Red Hat identity. Red Hat is a fresh take on the geometric sans genre, taking inspiration from a range of American sans serifs including Tempo and Highway Gothic. The Display styles are low contrast and spaced tightly, with a large x-height and open counters. The Text styles have a slightly smaller x-height and narrower width for better legibility, are spaced more generously, and have thinned joins for better performance at small sizes. The two families can be used together seamlessly at a range of sizes. The family has been upgraded to variable fonts with a weight axis (Light to Bold) in June 2021. The November 2024 update addresses a frequently reported weight issue. The Medium and SemiBold weights now have slightly different weight compared to the previous version, ensuring better weight distribution within the design space and improved fluidity in the variable font. To contribute, see github.com/RedHatOfficial/RedHatFont",
+  "homepage": "https://fonts.google.com/specimen/Red+Hat+Text",
+  "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Red Hat Text",
+      "files": [
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQcKdApIYv_g.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrPacYVFtIY.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQcKdApIYv_g.woff2",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQcKdApIYv_g.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Red Hat Text",
+      "files": [
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQdadApIYv_g.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrbacYVFtIY.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQdadApIYv_g.ttf",
+        "https://fonts.gstatic.com/s/redhattext/v19/RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQdadApIYv_g.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Red Hat Text Light",
+      "styles": [
+        {
+          "family_name": "Red Hat Text Light",
+          "type": "Regular",
+          "full_name": "Red Hat Text Light",
+          "post_script_name": "RedHatText-Light",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrbacYVFtIY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Hat Text Light",
+          "type": "Italic",
+          "full_name": "Red Hat Text Light Italic",
+          "post_script_name": "RedHatText-LightItalic",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAz4PXQdadApIYv_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Hat Text",
+      "styles": [
+        {
+          "family_name": "Red Hat Text",
+          "type": "Regular",
+          "full_name": "Red Hat Text Regular",
+          "post_script_name": "RedHatText-Regular",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrbacYVFtIY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Hat Text",
+          "type": "Bold",
+          "full_name": "Red Hat Text Bold",
+          "post_script_name": "RedHatText-Bold",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML193VrbacYVFtIY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Hat Text",
+          "type": "Italic",
+          "full_name": "Red Hat Text Italic",
+          "post_script_name": "RedHatText-Italic",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzvvXQdadApIYv_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Hat Text",
+          "type": "Bold Italic",
+          "full_name": "Red Hat Text Bold Italic",
+          "post_script_name": "RedHatText-BoldItalic",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzWfLQdadApIYv_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Hat Text Medium",
+      "styles": [
+        {
+          "family_name": "Red Hat Text Medium",
+          "type": "Regular",
+          "full_name": "Red Hat Text Medium",
+          "post_script_name": "RedHatText-Medium",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrbacYVFtIY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Hat Text Medium",
+          "type": "Italic",
+          "full_name": "Red Hat Text Medium Italic",
+          "post_script_name": "RedHatText-MediumItalic",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzjPXQdadApIYv_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Hat Text SemiBold",
+      "styles": [
+        {
+          "family_name": "Red Hat Text SemiBold",
+          "type": "Regular",
+          "full_name": "Red Hat Text SemiBold",
+          "post_script_name": "RedHatText-SemiBold",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrbacYVFtIY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Red Hat Text SemiBold",
+          "type": "Italic",
+          "full_name": "Red Hat Text SemiBold Italic",
+          "post_script_name": "RedHatText-SemiBoldItalic",
+          "version": "1.030",
+          "copyright": "Copyright 2024 The Red Hat Project Authors (https://github.com/RedHatOfficial/RedHatFont)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "RrQEbohi_ic6B3yVSzGBrMxQbb0jEzlRoOOLOnAzYPLQdadApIYv_g.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

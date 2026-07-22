@@ -1,0 +1,58 @@
+{
+  "slug": "google/meow_script",
+  "name": "meow_script",
+  "description": "Meow Script is a monoline font with a number of alternate forms in six stylistic sets. It works eclectically and harmoniously to add a fun, whimsy look to your posters, ads, invitations and similar designs. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/meow-script .",
+  "homepage": "https://fonts.google.com/specimen/Meow+Script",
+  "copyright": "Copyright 2017 The Meow Script Project Authors (https://github.com/googlefonts/meow-script)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Meow Script",
+      "files": [
+        "https://fonts.gstatic.com/s/meowscript/v6/0FlQVPqanlaJrtr8AnJ0ESch0_0CfDf1.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/meowscript/v6/0FlQVPqanlaJrtr8AnJ0ESch0_0CfDf1.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Meow Script",
+      "files": [
+        "https://fonts.gstatic.com/s/meowscript/v6/0FlQVPqanlaJrtr8AnJ0ESck0_0CfDf1.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/meowscript/v6/0FlQVPqanlaJrtr8AnJ0ESck0_0CfDf1.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Meow Script",
+      "styles": [
+        {
+          "family_name": "Meow Script",
+          "type": "Regular",
+          "full_name": "Meow Script Regular",
+          "post_script_name": "MeowScript-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2017 The Meow Script Project Authors (https://github.com/googlefonts/meow-script)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0FlQVPqanlaJrtr8AnJ0ESch0_0CfDf1.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

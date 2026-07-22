@@ -1,0 +1,58 @@
+{
+  "slug": "google/ultra",
+  "name": "ultra",
+  "description": "Ultra is an ultra bold slab typeface with nods to wood type styles like Clarendon and Egyptian. Strong and dramatic letterforms for titling, a serious, yet friendly, and easily legible typestyle. Perfect for power headlines and titling for impact.",
+  "homepage": "https://fonts.google.com/specimen/Ultra",
+  "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Ultra",
+      "files": [
+        "https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-tT6yLOD6NxF.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-tT6yLOD6NxF.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Ultra",
+      "files": [
+        "https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-tT_yLOD6NxF.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ultra/v25/zOLy4prXmrtY-tT_yLOD6NxF.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ultra",
+      "styles": [
+        {
+          "family_name": "Ultra",
+          "type": "Regular",
+          "full_name": "Ultra Regular",
+          "post_script_name": "Ultra-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "zOLy4prXmrtY-tT6yLOD6NxF.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

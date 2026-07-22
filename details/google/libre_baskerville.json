@@ -1,0 +1,207 @@
+{
+  "slug": "google/libre_baskerville",
+  "name": "libre_baskerville",
+  "description": "Libre Baskerville is a web font optimized for body text (typically 16px.) It is based on the American Type Founder's Baskerville from 1941, but it has a taller x-height, wider counters and a little less contrast, that allow it to work well for reading on-screen. Join the project at github.com/impallari/Libre-Baskerville",
+  "homepage": "https://fonts.google.com/specimen/Libre+Baskerville",
+  "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Libre Baskerville",
+      "files": [
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujww4SDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujLwkSDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNPnObSfbge.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU3ISgNPnObSfbge.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0kTQNPnObSfbge.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0dTQNPnObSfbge.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujww4SDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujLwkSDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSDAlOvuPCfQ.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNPnObSfbge.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU3ISgNPnObSfbge.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0kTQNPnObSfbge.woff2",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0dTQNPnObSfbge.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Libre Baskerville",
+      "files": [
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujww4SCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujLwkSCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNKnObSfbge.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU3ISgNKnObSfbge.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0kTQNKnObSfbge.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0dTQNKnObSfbge.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujww4SCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujLwkSCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSCQlOvuPCfQ.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNKnObSfbge.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU3ISgNKnObSfbge.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0kTQNKnObSfbge.ttf",
+        "https://fonts.gstatic.com/s/librebaskerville/v24/kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0dTQNKnObSfbge.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Libre Baskerville",
+      "styles": [
+        {
+          "family_name": "Libre Baskerville",
+          "type": "Regular",
+          "full_name": "Libre Baskerville Regular",
+          "post_script_name": "LibreBaskerville-Regular",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17uj8Q4SCQlOvuPCfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Libre Baskerville",
+          "type": "Bold",
+          "full_name": "Libre Baskerville Bold",
+          "post_script_name": "LibreBaskerville-Bold",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujFgkSCQlOvuPCfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Libre Baskerville",
+          "type": "Italic",
+          "full_name": "Libre Baskerville Italic",
+          "post_script_name": "LibreBaskerville-Italic",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU36SgNKnObSfbge.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Libre Baskerville",
+          "type": "Bold Italic",
+          "full_name": "Libre Baskerville Bold Italic",
+          "post_script_name": "LibreBaskerville-BoldItalic",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0dTQNKnObSfbge.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Libre Baskerville Medium",
+      "styles": [
+        {
+          "family_name": "Libre Baskerville Medium",
+          "type": "Regular",
+          "full_name": "Libre Baskerville Medium",
+          "post_script_name": "LibreBaskerville-Medium",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujww4SCQlOvuPCfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Libre Baskerville Medium",
+          "type": "Italic",
+          "full_name": "Libre Baskerville Medium Italic",
+          "post_script_name": "LibreBaskerville-MediumItalic",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU3ISgNKnObSfbge.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Libre Baskerville SemiBold",
+      "styles": [
+        {
+          "family_name": "Libre Baskerville SemiBold",
+          "type": "Regular",
+          "full_name": "Libre Baskerville SemiBold",
+          "post_script_name": "LibreBaskerville-SemiBold",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKUZrc3Hgbbcjq75U4uslyuy4kn0olVQ-LglH6T17ujLwkSCQlOvuPCfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Libre Baskerville SemiBold",
+          "type": "Italic",
+          "full_name": "Libre Baskerville SemiBold Italic",
+          "post_script_name": "LibreBaskerville-SemiBoldItalic",
+          "version": "2.005",
+          "copyright": "Copyright 2012 The Libre Baskerville Project Authors (https://github.com/impallari/Libre-Baskerville)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "kmKWZrc3Hgbbcjq75U4uslyuy4kn0qNccR04_RUJeby2OU0kTQNKnObSfbge.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

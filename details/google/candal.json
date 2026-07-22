@@ -1,0 +1,57 @@
+{
+  "slug": "google/candal",
+  "name": "candal",
+  "description": "Candal is an original and fun sans serif type design by Vernon Adams which was inspired by historical types.",
+  "homepage": "https://fonts.google.com/specimen/Candal",
+  "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Candal",
+      "files": [
+        "https://fonts.gstatic.com/s/candal/v16/XoHn2YH6T7-t_8cNAR4Jt9Yxlw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/candal/v16/XoHn2YH6T7-t_8cNAR4Jt9Yxlw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Candal",
+      "files": [
+        "https://fonts.gstatic.com/s/candal/v16/XoHn2YH6T7-t_8cNBB4Jt9Yxlw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/candal/v16/XoHn2YH6T7-t_8cNBB4Jt9Yxlw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Candal",
+      "styles": [
+        {
+          "family_name": "Candal",
+          "type": "Regular",
+          "full_name": "Candal",
+          "post_script_name": "Candal",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by vernon adams. All rights reserved.",
+          "variable_font": false,
+          "font": "XoHn2YH6T7-t_8cNAR4Jt9Yxlw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

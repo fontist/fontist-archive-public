@@ -1,0 +1,58 @@
+{
+  "slug": "google/new_rocker",
+  "name": "new_rocker",
+  "description": "New Rocker is a loud, harsh, screaming font. With Blackletter, Tattoo and Heavy Metal logos as inspiration.",
+  "homepage": "https://fonts.google.com/specimen/New+Rocker",
+  "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com), Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name 'New Rocker'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "New Rocker",
+      "files": [
+        "https://fonts.gstatic.com/s/newrocker/v17/MwQzbhjp3-HImzcCU_cJkGMViblPtXs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/newrocker/v17/MwQzbhjp3-HImzcCU_cJkGMViblPtXs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "New Rocker",
+      "files": [
+        "https://fonts.gstatic.com/s/newrocker/v17/MwQzbhjp3-HImzcCU_cJkGYViblPtXs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/newrocker/v17/MwQzbhjp3-HImzcCU_cJkGYViblPtXs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "New Rocker",
+      "styles": [
+        {
+          "family_name": "New Rocker",
+          "type": "Regular",
+          "full_name": "New Rocker",
+          "post_script_name": "NewRocker-Regular",
+          "version": "1.000; ttfautohint (v0.93) -l 8 -r 50 -G 200 -x 14 -w \"G\"",
+          "copyright": "Copyright (c) 2012, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2012, Brenda Gallo (gbrenda1987@gmail.com), Copyright (c) 2012, Rodrigo Fuenzalida (www.rfuenzalida.com|hello@rfuenzalida.com), with Reserved Font Name 'New Rocker'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MwQzbhjp3-HImzcCU_cJkGMViblPtXs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

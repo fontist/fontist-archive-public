@@ -1,0 +1,58 @@
+{
+  "slug": "google/just_another_hand",
+  "name": "just_another_hand",
+  "description": "My personal handwriting has changed a number of times over the years. Just Another Hand is a narrow brush drawn handwriting font, inspired by the handwriting of my high school days. There's a little artistic license taken with Just Another Hand in the sense that while I never really wrote with a brush in high school, I wanted a cleaner stroke for this interpretation. A little personality, a little restraint... a style that works for all sorts of projects across the board.",
+  "homepage": "https://fonts.google.com/specimen/Just+Another+Hand",
+  "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Just Another Hand",
+      "files": [
+        "https://fonts.gstatic.com/s/justanotherhand/v21/845CNN4-AJyIGvIou-6yJKyptyOpOcr_BmmlS5aw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/justanotherhand/v21/845CNN4-AJyIGvIou-6yJKyptyOpOcr_BmmlS5aw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Just Another Hand",
+      "files": [
+        "https://fonts.gstatic.com/s/justanotherhand/v21/845CNN4-AJyIGvIou-6yJKyptyOpOcr6BmmlS5aw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/justanotherhand/v21/845CNN4-AJyIGvIou-6yJKyptyOpOcr6BmmlS5aw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Just Another Hand",
+      "styles": [
+        {
+          "family_name": "Just Another Hand",
+          "type": "Regular",
+          "full_name": "Just Another Hand Regular",
+          "post_script_name": "JustAnotherHand-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence.\rhttp://www.apache.org/licenses/LICENSE-2.0.html",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "845CNN4-AJyIGvIou-6yJKyptyOpOcr_BmmlS5aw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

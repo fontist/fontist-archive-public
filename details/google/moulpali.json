@@ -1,0 +1,58 @@
+{
+  "slug": "google/moulpali",
+  "name": "moulpali",
+  "description": "Moulpali is a typeface for Khmer body text, the design is similar to some Khmer metal types popular in the 1960s. To contribute, see github.com/danhhong/Moulpali .",
+  "homepage": "https://fonts.google.com/specimen/Moulpali",
+  "copyright": "Copyright 2020 The Moulpali Project Authors (https://github.com/danhhong/Moulpali)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Moulpali",
+      "files": [
+        "https://fonts.gstatic.com/s/moulpali/v33/H4ckBXKMl9HagUWymyY6wr-wg763.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/moulpali/v33/H4ckBXKMl9HagUWymyY6wr-wg763.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Moulpali",
+      "files": [
+        "https://fonts.gstatic.com/s/moulpali/v33/H4ckBXKMl9HagUWymyY_wr-wg763.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/moulpali/v33/H4ckBXKMl9HagUWymyY_wr-wg763.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Moulpali",
+      "styles": [
+        {
+          "family_name": "Moulpali",
+          "type": "Regular",
+          "full_name": "Moulpali Regular",
+          "post_script_name": "Moulpali-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Moulpali Project Authors (https://github.com/danhhong/Moulpali)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "H4ckBXKMl9HagUWymyY6wr-wg763.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

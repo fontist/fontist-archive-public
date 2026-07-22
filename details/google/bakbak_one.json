@@ -1,0 +1,58 @@
+{
+  "slug": "google/bakbak_one",
+  "name": "bakbak_one",
+  "description": "Bakbak One is a custom brand typeface for All India Bakchod. Owing to its usage, it is a heavyweight display typeface for headings, video titles and posters. It consists of 1 weight and 692 glyphs and borrows from humanist ‘Johnston’ like arches. Bakbak is loud and present but also neutral enough to render anything from a warning to a mockery. To contribute, please visit github.com/googlefonts/bakbak",
+  "homepage": "https://fonts.google.com/specimen/Bakbak+One",
+  "copyright": "Copyright 2021 The Bakbak One Project Authors (https://github.com/googlefonts/bakbak)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bakbak One",
+      "files": [
+        "https://fonts.gstatic.com/s/bakbakone/v11/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bakbakone/v11/zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bakbak One",
+      "files": [
+        "https://fonts.gstatic.com/s/bakbakone/v11/zOL54pXAl6RI-p_ardnuycFuv-hHkOs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bakbakone/v11/zOL54pXAl6RI-p_ardnuycFuv-hHkOs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bakbak One",
+      "styles": [
+        {
+          "family_name": "Bakbak One",
+          "type": "Regular",
+          "full_name": "Bakbak One Regular",
+          "post_script_name": "BakbakOne-Regular",
+          "version": "1.003; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2021 The Bakbak One Project Authors (https://github.com/googlefonts/bakbak)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "zOL54pXAl6RI-p_ardnuycRuv-hHkOs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

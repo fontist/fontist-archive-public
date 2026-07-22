@@ -1,0 +1,58 @@
+{
+  "slug": "google/itim",
+  "name": "itim",
+  "description": "Itim is a new Thai + Latin handwriting typeface, with an informal looped + semiserif design. It has 2 stylistic set alternate glyph designs and intelligent OpenType features to recreate the impression of handwriting. Thanks to Pablo Impallari for the initial OpenType handwriting feature development. The Itim project is led by Cadson Demak, a type foundry in Thailand. To contribute, see github.com/cadsondemak/itim",
+  "homepage": "https://fonts.google.com/specimen/Itim",
+  "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Itim",
+      "files": [
+        "https://fonts.gstatic.com/s/itim/v16/0nknC9ziJOYewARKkc7ZdwU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/itim/v16/0nknC9ziJOYewARKkc7ZdwU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Itim",
+      "files": [
+        "https://fonts.gstatic.com/s/itim/v16/0nknC9ziJOYewAFKkc7ZdwU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/itim/v16/0nknC9ziJOYewAFKkc7ZdwU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Itim",
+      "styles": [
+        {
+          "family_name": "Itim",
+          "type": "Regular",
+          "full_name": "Itim",
+          "post_script_name": "Itim-Regular",
+          "version": "1.002g",
+          "copyright": "Copyright (c) 2015, Cadson Demak (info@cadsondemak.com), Copyright (c) 2014, Pablo Impallari (www.impallari.com|impallari@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "0nknC9ziJOYewARKkc7ZdwU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

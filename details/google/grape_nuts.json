@@ -1,0 +1,58 @@
+{
+  "slug": "google/grape_nuts",
+  "name": "grape_nuts",
+  "description": "Grape Nuts is a simple handwritten casual font. The name is derived from a well-known breakfast cereal that dates back to the late 1800s. This cute style can be used for any casual or even humorous situation. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/grapenuts .",
+  "homepage": "https://fonts.google.com/specimen/Grape+Nuts",
+  "copyright": "Copyright 2003 The Grape Nuts Project Authors (https://github.com/googlefonts/grapenuts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Grape Nuts",
+      "files": [
+        "https://fonts.gstatic.com/s/grapenuts/v7/syk2-yF4iLM2RfKj4F7k3tLvol2RN1E.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grapenuts/v7/syk2-yF4iLM2RfKj4F7k3tLvol2RN1E.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Grape Nuts",
+      "files": [
+        "https://fonts.gstatic.com/s/grapenuts/v7/syk2-yF4iLM2RfKj4F7k3tfvol2RN1E.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grapenuts/v7/syk2-yF4iLM2RfKj4F7k3tfvol2RN1E.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Grape Nuts",
+      "styles": [
+        {
+          "family_name": "Grape Nuts",
+          "type": "Regular",
+          "full_name": "Grape Nuts Regular",
+          "post_script_name": "GrapeNuts-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2003 The Grape Nuts Project Authors (https://github.com/googlefonts/grapenuts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "syk2-yF4iLM2RfKj4F7k3tLvol2RN1E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

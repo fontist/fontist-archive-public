@@ -1,0 +1,58 @@
+{
+  "slug": "google/limelight",
+  "name": "limelight",
+  "description": "Limelight is a sensitive rendition of the classic high contrast art deco style geometric sans serif. This style is often used to suggest the 1920's time period as well as the theatre generally and hollywood filmmaking in particular. Because of the extreme contrast of the design it will perform most reliably on web pages at medium and large font sizes.",
+  "homepage": "https://fonts.google.com/specimen/Limelight",
+  "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.\rThis license is copied below, and is also available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Limelight",
+      "files": [
+        "https://fonts.gstatic.com/s/limelight/v21/XLYkIZL7aopJVbZJHDuYPeNGrnY2TA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/limelight/v21/XLYkIZL7aopJVbZJHDuYPeNGrnY2TA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Limelight",
+      "files": [
+        "https://fonts.gstatic.com/s/limelight/v21/XLYkIZL7aopJVbZJHDuYOONGrnY2TA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/limelight/v21/XLYkIZL7aopJVbZJHDuYOONGrnY2TA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Limelight",
+      "styles": [
+        {
+          "family_name": "Limelight",
+          "type": "Regular",
+          "full_name": "Limelight Regular",
+          "post_script_name": "Limelight-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2010 by Sorkin Type Co with Reserved Font Name Limelight.\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1.\rThis license is copied below, and is also available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "variable_font": false,
+          "font": "XLYkIZL7aopJVbZJHDuYPeNGrnY2TA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/momo_signature",
+  "name": "momo_signature",
+  "description": "Momo Signature font family",
+  "homepage": "https://fonts.google.com/specimen/Momo+Signature",
+  "copyright": "Copyright 2024 The Momo Signature Project Authors (https://github.com/typeassociates)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Momo Signature",
+      "files": [
+        "https://fonts.gstatic.com/s/momosignature/v2/RrQJbop99C51b06IDAuFoM0yCqcoMcmJPECN.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/momosignature/v2/RrQJbop99C51b06IDAuFoM0yCqcoMcmJPECN.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Momo Signature",
+      "files": [
+        "https://fonts.gstatic.com/s/momosignature/v2/RrQJbop99C51b06IDAuFoM0yCqctMcmJPECN.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/momosignature/v2/RrQJbop99C51b06IDAuFoM0yCqctMcmJPECN.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Momo Signature",
+      "styles": [
+        {
+          "family_name": "Momo Signature",
+          "type": "Regular",
+          "full_name": "Momo Signature Regular",
+          "post_script_name": "MomoSignature-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Momo Signature Project Authors (https://github.com/typeassociates)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "RrQJbop99C51b06IDAuFoM0yCqcoMcmJPECN.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

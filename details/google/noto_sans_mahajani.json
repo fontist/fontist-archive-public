@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_sans_mahajani",
+  "name": "noto_sans_mahajani",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Sans Mahajani is an unmodulated (“sans serif”) design for texts in the historical Indic Mahajani script. It has 69 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Sans+Mahajani",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mahajani)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Sans Mahajani",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmahajani/v20/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmahajani/v20/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Sans Mahajani",
+      "files": [
+        "https://fonts.gstatic.com/s/notosansmahajani/v20/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5FgsARHNh4zg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notosansmahajani/v20/-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5FgsARHNh4zg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Mahajani",
+      "styles": [
+        {
+          "family_name": "Noto Sans Mahajani",
+          "type": "Regular",
+          "full_name": "Noto Sans Mahajani Regular",
+          "post_script_name": "NotoSansMahajani-Regular",
+          "version": "2.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/mahajani)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "-F6sfiVqLzI2JPCgQBnw60Agp0JrvD5Fh8ARHNh4zg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

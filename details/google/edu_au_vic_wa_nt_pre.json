@@ -1,0 +1,131 @@
+{
+  "slug": "google/edu_au_vic_wa_nt_pre",
+  "name": "edu_au_vic_wa_nt_pre",
+  "description": "The AU School Handwriting Fonts are an English language, OpenType, variable typeface family designed specifically to meet Australian Education standards. While weights, widths and optical sizes were carefully crafted to work well in an Australian classroom environment, they are just as comfortable to read and work with in the home environment. This font represents the forms used in Victoria, Western Australia and the Northern Territory. To contribute, see github.com/SorkinType/VICWANTSchoolhandAustralia .",
+  "homepage": "https://fonts.google.com/specimen/Edu+AU+VIC+WA+NT+Pre",
+  "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Edu AU VIC WA NT Pre",
+      "files": [
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkwqqMhKkg6nw.woff2",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyFGkwqqMhKkg6nw.woff2",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIy-G4wqqMhKkg6nw.woff2",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIywW4wqqMhKkg6nw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkwqqMhKkg6nw.woff2",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyFGkwqqMhKkg6nw.woff2",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIy-G4wqqMhKkg6nw.woff2",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIywW4wqqMhKkg6nw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Edu AU VIC WA NT Pre",
+      "files": [
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkwr6MhKkg6nw.ttf",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyFGkwr6MhKkg6nw.ttf",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIy-G4wr6MhKkg6nw.ttf",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIywW4wr6MhKkg6nw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkwr6MhKkg6nw.ttf",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyFGkwr6MhKkg6nw.ttf",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIy-G4wr6MhKkg6nw.ttf",
+        "https://fonts.gstatic.com/s/eduauvicwantpre/v3/f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIywW4wr6MhKkg6nw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Edu AU VIC WA NT Pre",
+      "styles": [
+        {
+          "family_name": "Edu AU VIC WA NT Pre",
+          "type": "Regular",
+          "full_name": "Edu AU VIC WA NT Pre Regular",
+          "post_script_name": "EduAUVICWANTPre-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyJmkwr6MhKkg6nw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Edu AU VIC WA NT Pre",
+          "type": "Bold",
+          "full_name": "Edu AU VIC WA NT Pre Bold",
+          "post_script_name": "EduAUVICWANTPre-Bold",
+          "version": "1.001",
+          "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIywW4wr6MhKkg6nw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edu AU VIC WA NT Pre Medium",
+      "styles": [
+        {
+          "family_name": "Edu AU VIC WA NT Pre Medium",
+          "type": "Regular",
+          "full_name": "Edu AU VIC WA NT Pre Medium",
+          "post_script_name": "EduAUVICWANTPre-Medium",
+          "version": "1.001",
+          "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIyFGkwr6MhKkg6nw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Edu AU VIC WA NT Pre SemiBold",
+      "styles": [
+        {
+          "family_name": "Edu AU VIC WA NT Pre SemiBold",
+          "type": "Regular",
+          "full_name": "Edu AU VIC WA NT Pre SemiBold",
+          "post_script_name": "EduAUVICWANTPre-SemiBold",
+          "version": "1.001",
+          "copyright": "Copyright 2023 The VIC WA NT School Hand Australia Project Authors (https://github.com/SorkinType/VICWANTSchoolhandAustralia)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "f0Xc0fWk-t0rbG8Ycr-t55aG0elTWbFeXaYI98CnuNLeosIy-G4wr6MhKkg6nw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

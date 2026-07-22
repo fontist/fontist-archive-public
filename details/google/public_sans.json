@@ -1,0 +1,422 @@
+{
+  "slug": "google/public_sans",
+  "name": "public_sans",
+  "description": "Based on Libre Franklin , Public Sans is a strong, neutral typeface for interfaces, text, and headings. It was Developed by the United States Web Design System . The family was upgraded to a variable font in May 2022. To contribute, see github.com/uswds/public-sans",
+  "homepage": "https://fonts.google.com/specimen/Public+Sans",
+  "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Public Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwcofVotfj7j.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565xg0pX189fg.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgAcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwcofVotfj7j.woff2",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwcofVotfj7j.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Public Sans",
+      "files": [
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwctfVotfj7j.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww0pX189fg.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgActfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwctfVotfj7j.ttf",
+        "https://fonts.gstatic.com/s/publicsans/v21/ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwctfVotfj7j.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Public Sans Thin",
+      "styles": [
+        {
+          "family_name": "Public Sans Thin",
+          "type": "Regular",
+          "full_name": "Public Sans Thin",
+          "post_script_name": "PublicSans-Thin",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpi5ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans Thin",
+          "type": "Italic",
+          "full_name": "Public Sans Thin Italic",
+          "post_script_name": "PublicSans-ThinItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgQctfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Public Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Public Sans ExtraLight",
+          "post_script_name": "PublicSans-ExtraLight",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulpm5ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Public Sans ExtraLight Italic",
+          "post_script_name": "PublicSans-ExtraLightItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRgActfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans Light",
+      "styles": [
+        {
+          "family_name": "Public Sans Light",
+          "type": "Regular",
+          "full_name": "Public Sans Light",
+          "post_script_name": "PublicSans-Light",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuSJm5ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans Light",
+          "type": "Italic",
+          "full_name": "Public Sans Light Italic",
+          "post_script_name": "PublicSans-LightItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673toPgActfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans",
+      "styles": [
+        {
+          "family_name": "Public Sans",
+          "type": "Regular",
+          "full_name": "Public Sans Regular",
+          "post_script_name": "PublicSans-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans",
+          "type": "Bold",
+          "full_name": "Public Sans Bold",
+          "post_script_name": "PublicSans-Bold",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymu8Z65ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans",
+          "type": "Italic",
+          "full_name": "Public Sans Italic",
+          "post_script_name": "PublicSans-Italic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpRgActfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans",
+          "type": "Bold Italic",
+          "full_name": "Public Sans Bold Italic",
+          "post_script_name": "PublicSans-BoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tq2hwctfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans Medium",
+      "styles": [
+        {
+          "family_name": "Public Sans Medium",
+          "type": "Regular",
+          "full_name": "Public Sans Medium",
+          "post_script_name": "PublicSans-Medium",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans Medium",
+          "type": "Italic",
+          "full_name": "Public Sans Medium Italic",
+          "post_script_name": "PublicSans-MediumItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tpjgActfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Public Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Public Sans SemiBold",
+          "post_script_name": "PublicSans-SemiBold",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Public Sans SemiBold Italic",
+          "post_script_name": "PublicSans-SemiBoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tqPhwctfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Public Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Public Sans ExtraBold",
+          "post_script_name": "PublicSans-ExtraBold",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymulp65ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Public Sans ExtraBold Italic",
+          "post_script_name": "PublicSans-ExtraBoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673trRhwctfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Public Sans Black",
+      "styles": [
+        {
+          "family_name": "Public Sans Black",
+          "type": "Regular",
+          "full_name": "Public Sans Black",
+          "post_script_name": "PublicSans-Black",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuv565ww0pX189fg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Public Sans Black",
+          "type": "Italic",
+          "full_name": "Public Sans Black Italic",
+          "post_script_name": "PublicSans-BlackItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2015 The Public Sans Project Authors (https://github.com/uswds/public-sans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL. The license for USWDS’s Modified Version, covering USWDS’s modifications to Public Sans, is available at https://github.com/uswds/public-sans/blob/master/LICENSE.md.",
+          "variable_font": true,
+          "font": "ijwAs572Xtc6ZYQws9YVwnNDZpDyNjGolS673tr4hwctfVotfj7j.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

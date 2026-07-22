@@ -1,0 +1,77 @@
+{
+  "slug": "google/playwrite_gb_j_guides",
+  "name": "playwrite_gb_j_guides",
+  "description": "Playwrite GB J Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+GB+J+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite GB J Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmIKxooUh-_nQ.ttf",
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRAscBqvnb7O.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmIKxooUh-_nQ.ttf",
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRAscBqvnb7O.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite GB J Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmILhooUh-_nQ.woff2",
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRApcBqvnb7O.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmILhooUh-_nQ.woff2",
+        "https://fonts.gstatic.com/s/playwritegbjguides/v2/CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRApcBqvnb7O.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite GB J Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite GB J Guides",
+          "type": "Regular",
+          "full_name": "Playwrite GB J Guides Regular",
+          "post_script_name": "PlaywriteGBJGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "CSRh4yJOn-mMWCgLPl16K6UKAvM5yY1BdhmIKxooUh-_nQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Playwrite GB J Guides",
+          "type": "Italic",
+          "full_name": "Playwrite GB J Guides Italic",
+          "post_script_name": "PlaywriteGBJGuides-Italic",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "CSRv4yJOn-mMWCgLPl16K6UKAvM5yY1Bdhm4KRAscBqvnb7O.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

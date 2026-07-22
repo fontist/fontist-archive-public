@@ -1,0 +1,115 @@
+{
+  "slug": "google/cousine",
+  "name": "cousine",
+  "description": "Cousine was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New™. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+  "homepage": "https://fonts.google.com/specimen/Cousine",
+  "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cousine",
+      "files": [
+        "https://fonts.gstatic.com/s/cousine/v29/d6lIkaiiRdih4SpPzSMlzTbtz9k.ttf",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lKkaiiRdih4SpP_SEvyRTo39l8hw.ttf",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lNkaiiRdih4SpP9Z8K6T7G09BlnmQ.ttf",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lPkaiiRdih4SpP_SEXdTvM1_JgjmRpOA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cousine/v29/d6lIkaiiRdih4SpPzSMlzTbtz9k.ttf",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lKkaiiRdih4SpP_SEvyRTo39l8hw.ttf",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lNkaiiRdih4SpP9Z8K6T7G09BlnmQ.ttf",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lPkaiiRdih4SpP_SEXdTvM1_JgjmRpOA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cousine",
+      "files": [
+        "https://fonts.gstatic.com/s/cousine/v29/d6lIkaiiRdih4SpPzSYlzTbtz9k.woff2",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lKkaiiRdih4SpP_SEvzBTo39l8hw.woff2",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lNkaiiRdih4SpP9Z8K6TvG09BlnmQ.woff2",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lPkaiiRdih4SpP_SEXdTvM0vJgjmRpOA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cousine/v29/d6lIkaiiRdih4SpPzSYlzTbtz9k.woff2",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lKkaiiRdih4SpP_SEvzBTo39l8hw.woff2",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lNkaiiRdih4SpP9Z8K6TvG09BlnmQ.woff2",
+        "https://fonts.gstatic.com/s/cousine/v29/d6lPkaiiRdih4SpP_SEXdTvM0vJgjmRpOA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cousine",
+      "styles": [
+        {
+          "family_name": "Cousine",
+          "type": "Regular",
+          "full_name": "Cousine Regular",
+          "post_script_name": "Cousine-Regular",
+          "version": "1.21",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "d6lIkaiiRdih4SpPzSMlzTbtz9k.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cousine",
+          "type": "Italic",
+          "full_name": "Cousine Italic",
+          "post_script_name": "Cousine-Italic",
+          "version": "1.21",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "d6lKkaiiRdih4SpP_SEvyRTo39l8hw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cousine",
+          "type": "Bold",
+          "full_name": "Cousine Bold",
+          "post_script_name": "Cousine-Bold",
+          "version": "1.21",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "d6lNkaiiRdih4SpP9Z8K6T7G09BlnmQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cousine",
+          "type": "Bold Italic",
+          "full_name": "Cousine Bold Italic",
+          "post_script_name": "Cousine-BoldItalic",
+          "version": "1.21",
+          "copyright": "Digitized data copyright (c) 2010-2012 Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "d6lPkaiiRdih4SpP_SEXdTvM1_JgjmRpOA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

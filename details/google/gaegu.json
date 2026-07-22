@@ -1,0 +1,101 @@
+{
+  "slug": "google/gaegu",
+  "name": "gaegu",
+  "description": "Gaegu is a Korean and Latin font",
+  "homepage": "https://fonts.google.com/specimen/Gaegu",
+  "copyright": "Copyright 2018 The Gaegu Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Gaegu",
+      "files": [
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU57nifw74sdtBk0x.ttf",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU6ZLodgzydtk.ttf",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU573jvw74sdtBk0x.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU57nifw74sdtBk0x.ttf",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU6ZLodgzydtk.ttf",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU573jvw74sdtBk0x.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Gaegu",
+      "files": [
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU57nifw-4sdtBk0x.woff2",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU6ZOodgzydtk.woff2",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU573jvw-4sdtBk0x.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU57nifw-4sdtBk0x.woff2",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGfUVB6Up9NU6ZOodgzydtk.woff2",
+        "https://fonts.gstatic.com/s/gaegu/v23/TuGSUVB6Up9NU573jvw-4sdtBk0x.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gaegu Light",
+      "styles": [
+        {
+          "family_name": "Gaegu Light",
+          "type": "Regular",
+          "full_name": "Gaegu Light",
+          "post_script_name": "Gaegu-Light",
+          "version": "1.00",
+          "copyright": "Copyright 2018 The Gaegu Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TuGSUVB6Up9NU57nifw74sdtBk0x.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gaegu",
+      "styles": [
+        {
+          "family_name": "Gaegu",
+          "type": "Regular",
+          "full_name": "Gaegu Regular",
+          "post_script_name": "Gaegu-Regular",
+          "version": "1.00",
+          "copyright": "Copyright 2018 The Gaegu Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TuGfUVB6Up9NU6ZLodgzydtk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Gaegu",
+          "type": "Bold",
+          "full_name": "Gaegu Bold",
+          "post_script_name": "Gaegu-Bold",
+          "version": "1.00",
+          "copyright": "Copyright 2018 The Gaegu Project Authors",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TuGSUVB6Up9NU573jvw74sdtBk0x.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

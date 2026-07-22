@@ -1,0 +1,75 @@
+{
+  "slug": "google/tangerine",
+  "name": "tangerine",
+  "description": "Tangerine is a calligraphic typeface inspired by many italic chancery hands from the 16th and 17th centuries. Its tall ascender, the most distinct characteristic of this type, takes a wide line space between lines and gives a graceful texture. Use Tangerine for titles or short texts at large sizes because of the short height of lowercase letters. Tangerine was named after a woman who encouraged Toshi to begin this work.",
+  "homepage": "https://fonts.google.com/specimen/Tangerine",
+  "copyright": "Copyright (c) 2010 by Toshi Omagari. All rights reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tangerine",
+      "files": [
+        "https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOBDpxNhLBQ4Q.ttf",
+        "https://fonts.gstatic.com/s/tangerine/v18/Iurd6Y5j_oScZZow4VO5srNpjJtM6G0t9w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOBDpxNhLBQ4Q.ttf",
+        "https://fonts.gstatic.com/s/tangerine/v18/Iurd6Y5j_oScZZow4VO5srNpjJtM6G0t9w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tangerine",
+      "files": [
+        "https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOBC5xNhLBQ4Q.woff2",
+        "https://fonts.gstatic.com/s/tangerine/v18/Iurd6Y5j_oScZZow4VO5srNpiZtM6G0t9w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tangerine/v18/IurY6Y5j_oScZZow4VOBC5xNhLBQ4Q.woff2",
+        "https://fonts.gstatic.com/s/tangerine/v18/Iurd6Y5j_oScZZow4VO5srNpiZtM6G0t9w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tangerine",
+      "styles": [
+        {
+          "family_name": "Tangerine",
+          "type": "Regular",
+          "full_name": "Tangerine Regular",
+          "post_script_name": "Tangerine-Regular",
+          "version": "1.3",
+          "copyright": "Copyright (c) 2010 by Toshi Omagari. All rights reserved.",
+          "variable_font": false,
+          "font": "IurY6Y5j_oScZZow4VOBDpxNhLBQ4Q.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tangerine",
+          "type": "Bold",
+          "full_name": "Tangerine Bold",
+          "post_script_name": "Tangerine-Bold",
+          "version": "1.3",
+          "copyright": "Copyright (c) 2010 by Toshi Omagari. All rights reserved.",
+          "variable_font": false,
+          "font": "Iurd6Y5j_oScZZow4VO5srNpjJtM6G0t9w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/my_soul",
+  "name": "my_soul",
+  "description": "Inspired by the lettering popular in the northwest United States in the 1980s, My Soul is a flat pen calligraphic style with capital forms that have been subtly embellished. It's robust weight holds up well at reduced sizes, but be careful as the embellishments may cause a loss of legibility at such sizes. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/my-soul .",
+  "homepage": "https://fonts.google.com/specimen/My+Soul",
+  "copyright": "Copyright 2016 The My Soul Project Authors (https://github.com/googlefonts/my-soul)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "My Soul",
+      "files": [
+        "https://fonts.gstatic.com/s/mysoul/v7/3XFqErcuy945_u6KF_Ulk2nnXf0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mysoul/v7/3XFqErcuy945_u6KF_Ulk2nnXf0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "My Soul",
+      "files": [
+        "https://fonts.gstatic.com/s/mysoul/v7/3XFqErcuy945_u6KF_Alk2nnXf0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mysoul/v7/3XFqErcuy945_u6KF_Alk2nnXf0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "My Soul",
+      "styles": [
+        {
+          "family_name": "My Soul",
+          "type": "Regular",
+          "full_name": "My Soul Regular",
+          "post_script_name": "MySoul-Regular",
+          "version": "1.010; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2016 The My Soul Project Authors (https://github.com/googlefonts/my-soul)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3XFqErcuy945_u6KF_Ulk2nnXf0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

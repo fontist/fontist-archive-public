@@ -1,0 +1,179 @@
+{
+  "slug": "google/mozilla_text",
+  "name": "mozilla_text",
+  "description": "Mozilla Text font family",
+  "homepage": "https://fonts.google.com/specimen/Mozilla+Text",
+  "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Mozilla Text",
+      "files": [
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOBwUcPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB9scPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB7ccPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB1sbPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB2IbPNVRVYmoOXo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOBwUcPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB9scPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB7ccPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB1sbPNVRVYmoOXo.woff2",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB2IbPNVRVYmoOXo.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Mozilla Text",
+      "files": [
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOBwUcPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB9scPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB7ccPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB1sbPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB2IbPNBRVYmoOXo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOBwUcPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB9scPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB7ccPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB1sbPNBRVYmoOXo.ttf",
+        "https://fonts.gstatic.com/s/mozillatext/v1/SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB2IbPNBRVYmoOXo.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mozilla Text ExtraLight",
+      "styles": [
+        {
+          "family_name": "Mozilla Text ExtraLight",
+          "type": "Regular",
+          "full_name": "Mozilla Text ExtraLight",
+          "post_script_name": "MozillaText-ExtraLight",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOBwUcPNBRVYmoOXo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mozilla Text Light",
+      "styles": [
+        {
+          "family_name": "Mozilla Text Light",
+          "type": "Regular",
+          "full_name": "Mozilla Text Light",
+          "post_script_name": "MozillaText-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB9scPNBRVYmoOXo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mozilla Text",
+      "styles": [
+        {
+          "family_name": "Mozilla Text",
+          "type": "Regular",
+          "full_name": "Mozilla Text Regular",
+          "post_script_name": "MozillaText-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB4UcPNBRVYmoOXo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Mozilla Text",
+          "type": "Bold",
+          "full_name": "Mozilla Text Bold",
+          "post_script_name": "MozillaText-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB2IbPNBRVYmoOXo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mozilla Text Medium",
+      "styles": [
+        {
+          "family_name": "Mozilla Text Medium",
+          "type": "Regular",
+          "full_name": "Mozilla Text Medium",
+          "post_script_name": "MozillaText-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB7ccPNBRVYmoOXo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mozilla Text SemiBold",
+      "styles": [
+        {
+          "family_name": "Mozilla Text SemiBold",
+          "type": "Regular",
+          "full_name": "Mozilla Text SemiBold",
+          "post_script_name": "MozillaText-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright 2025 The Mozilla Text Project Authors (https://github.com/mozilla/mozilla-type-family/)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "SZcr3FrnJ7S7WZIff2mJ7Tbp4zu7ULu3HkPOB1sbPNBRVYmoOXo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

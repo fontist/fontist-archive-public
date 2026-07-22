@@ -1,0 +1,58 @@
+{
+  "slug": "google/noto_serif_dives_akuru",
+  "name": "noto_serif_dives_akuru",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Dives Akuru is a design for the historical Indic Dives Akuru script. It has 812 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Dives+Akuru",
+  "copyright": "Copyright 2024 The Noto Project Authors (https://github.com/notofonts/dives-akuru)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Noto Serif Dives Akuru",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifdivesakuru/v8/QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT60DIyoV9Ejs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifdivesakuru/v8/QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT60DIyoV9Ejs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Noto Serif Dives Akuru",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifdivesakuru/v8/QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT60XIyoV9Ejs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifdivesakuru/v8/QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT60XIyoV9Ejs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Dives Akuru",
+      "styles": [
+        {
+          "family_name": "Noto Serif Dives Akuru",
+          "type": "Regular",
+          "full_name": "Noto Serif Dives Akuru Regular",
+          "post_script_name": "NotoSerifDivesAkuru-Regular",
+          "version": "2.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Noto Project Authors (https://github.com/notofonts/dives-akuru)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "QldfNSVMqAsHtsJ_TnD3aT03sMgd57ibeeZT60DIyoV9Ejs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

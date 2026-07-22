@@ -1,0 +1,422 @@
+{
+  "slug": "google/exo",
+  "name": "exo",
+  "description": "Exo is a contemporary geometric sans serif typeface that tries to convey a technological/futuristic feeling while keeping an elegant design. Exo was meant to be a very versatile font, so it has 9 weights (the maximum on the web) each with a true italic version. It works great as a display face but it also works good for small to intermediate size texts. Update December 2013: Exo was completely redrawn and published as Exo 2 , with a more organic look that will perform much better at small text sizes and in long texts. Update April 2020: The family has been updated to a variable font family. To contribute, see github.com/NDISCOVER/Exo-1.0 .",
+  "homepage": "https://fonts.google.com/specimen/Exo",
+  "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Exo",
+      "files": [
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4vowCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040FmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0BmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0vUBmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040BmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t00UBmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0PUdmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0BEdmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0dmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0SkdmO3ws9Iu-uA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4vowCwZsOl4p5Is.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040FmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0BmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0vUBmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040BmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t00UBmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0PUdmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0BEdmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0dmO3ws9Iu-uA.woff2",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0SkdmO3ws9Iu-uA.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Exo",
+      "files": [
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4vowCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040FmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0BmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0vUBmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040BmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t00UBmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0PUdmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0BEdmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0dmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0SkdmPnws9Iu-uA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UaZrEtFpBI4f1ZSIK9d4LjJ4vowCwNsOl4p5Is.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040FmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0BmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0vUBmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t040BmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t00UBmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0PUdmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0BEdmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0Y0dmPnws9Iu-uA.ttf",
+        "https://fonts.gstatic.com/s/exo/v25/4UafrEtFpBISdmSt-MY2ehbO95t0SkdmPnws9Iu-uA.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Exo Thin",
+      "styles": [
+        {
+          "family_name": "Exo Thin",
+          "type": "Regular",
+          "full_name": "Exo Thin",
+          "post_script_name": "Exo-Thin",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4lM2CwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo Thin",
+          "type": "Italic",
+          "full_name": "Exo Thin Italic",
+          "post_script_name": "Exo-ThinItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t040FmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo ExtraLight",
+      "styles": [
+        {
+          "family_name": "Exo ExtraLight",
+          "type": "Regular",
+          "full_name": "Exo ExtraLight",
+          "post_script_name": "Exo-ExtraLight",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4tM3CwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo ExtraLight",
+          "type": "Italic",
+          "full_name": "Exo ExtraLight Italic",
+          "post_script_name": "Exo-ExtraLightItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t0Y0BmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo Light",
+      "styles": [
+        {
+          "family_name": "Exo Light",
+          "type": "Regular",
+          "full_name": "Exo Light",
+          "post_script_name": "Exo-Light",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo Light",
+          "type": "Italic",
+          "full_name": "Exo Light Italic",
+          "post_script_name": "Exo-LightItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t0vUBmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo",
+      "styles": [
+        {
+          "family_name": "Exo",
+          "type": "Regular",
+          "full_name": "Exo Regular",
+          "post_script_name": "Exo-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo",
+          "type": "Bold",
+          "full_name": "Exo Bold",
+          "post_script_name": "Exo-Bold",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo",
+          "type": "Italic",
+          "full_name": "Exo Italic",
+          "post_script_name": "Exo-Italic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t040BmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo",
+          "type": "Bold Italic",
+          "full_name": "Exo Bold Italic",
+          "post_script_name": "Exo-BoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t0BEdmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo Medium",
+      "styles": [
+        {
+          "family_name": "Exo Medium",
+          "type": "Regular",
+          "full_name": "Exo Medium",
+          "post_script_name": "Exo-Medium",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo Medium",
+          "type": "Italic",
+          "full_name": "Exo Medium Italic",
+          "post_script_name": "Exo-MediumItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t00UBmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo SemiBold",
+      "styles": [
+        {
+          "family_name": "Exo SemiBold",
+          "type": "Regular",
+          "full_name": "Exo SemiBold",
+          "post_script_name": "Exo-SemiBold",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo SemiBold",
+          "type": "Italic",
+          "full_name": "Exo SemiBold Italic",
+          "post_script_name": "Exo-SemiBoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t0PUdmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo ExtraBold",
+      "styles": [
+        {
+          "family_name": "Exo ExtraBold",
+          "type": "Regular",
+          "full_name": "Exo ExtraBold",
+          "post_script_name": "Exo-ExtraBold",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo ExtraBold",
+          "type": "Italic",
+          "full_name": "Exo ExtraBold Italic",
+          "post_script_name": "Exo-ExtraBoldItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t0Y0dmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Exo Black",
+      "styles": [
+        {
+          "family_name": "Exo Black",
+          "type": "Regular",
+          "full_name": "Exo Black",
+          "post_script_name": "Exo-Black",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UaZrEtFpBI4f1ZSIK9d4LjJ4vowCwNsOl4p5Is.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Exo Black",
+          "type": "Italic",
+          "full_name": "Exo Black Italic",
+          "post_script_name": "Exo-BlackItalic",
+          "version": "2.001",
+          "copyright": "Copyright 2017 The Exo Project Authors (https://github.com/NDISCOVER/Exo-1.0)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "4UafrEtFpBISdmSt-MY2ehbO95t0SkdmPnws9Iu-uA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

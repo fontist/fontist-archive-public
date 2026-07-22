@@ -1,0 +1,58 @@
+{
+  "slug": "google/nova_oval",
+  "name": "nova_oval",
+  "description": "I created the NovaCut font about 14-15 years ago for making inscriptions on stone. Initially the font contained only capitals and digits and existed only on paper and stone inscriptions. In 2010 I decided transfer this font to a computer, and made the missing lowercase and some basical signs; it was initially named Gothica. By the way I made other versions of some letters. It was a lot of this at the end of my work. I decided create new fonts based on these letters. And finally I created six fonts family and named these fonts Nova (NovaCut, NovaFlat, NovaOval, NovaRound, NovaSlim, NovaSquare - by the shape of individual fonts). At last I created monospace font - NovaMono - the seventh part of this family.",
+  "homepage": "https://fonts.google.com/specimen/Nova+Oval",
+  "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Nova Oval",
+      "files": [
+        "https://fonts.gstatic.com/s/novaoval/v26/jAnEgHdmANHvPenMaswCMY-h3cWkWg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/novaoval/v26/jAnEgHdmANHvPenMaswCMY-h3cWkWg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Nova Oval",
+      "files": [
+        "https://fonts.gstatic.com/s/novaoval/v26/jAnEgHdmANHvPenMaswCNI-h3cWkWg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/novaoval/v26/jAnEgHdmANHvPenMaswCNI-h3cWkWg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nova Oval",
+      "styles": [
+        {
+          "family_name": "Nova Oval",
+          "type": "Book",
+          "full_name": "Nova Oval",
+          "post_script_name": "NovaOval",
+          "version": "2.000",
+          "copyright": "Copyright (c) 2011, wmk69 (wmk69@o2.pl)\nwith Reserved Font Names 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at:\nhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, wmk69, (wmk69@o2.pl)\nwith Reserved Font Name 'NovaOval' and 'Nova Oval'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n",
+          "variable_font": false,
+          "font": "jAnEgHdmANHvPenMaswCMY-h3cWkWg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

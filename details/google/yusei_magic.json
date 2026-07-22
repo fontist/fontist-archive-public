@@ -1,0 +1,58 @@
+{
+  "slug": "google/yusei_magic",
+  "name": "yusei_magic",
+  "description": "Yusei Magic is a font based on handwritten letters written with permanent marker. It has a thick vertical stroke and a thin horizontal stroke, so it is highly visible. The design of the letters has both the strength of bold lines and the softness of spaciousness. Highly recommended for handwriting on blackboards and pop art designs. To contribute to the project, visit github.com/tanukifont/YuseiMagic",
+  "homepage": "https://fonts.google.com/specimen/Yusei+Magic",
+  "copyright": "Copyright 2020 The Yusei Magic Project Authors (https://github.com/tanukifont/YuseiMagic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Yusei Magic",
+      "files": [
+        "https://fonts.gstatic.com/s/yuseimagic/v16/yYLt0hbAyuCmoo5wlhPkpjHR-tdfcIT_.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yuseimagic/v16/yYLt0hbAyuCmoo5wlhPkpjHR-tdfcIT_.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Yusei Magic",
+      "files": [
+        "https://fonts.gstatic.com/s/yuseimagic/v16/yYLt0hbAyuCmoo5wlhPkpjHU-tdfcIT_.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/yuseimagic/v16/yYLt0hbAyuCmoo5wlhPkpjHU-tdfcIT_.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yusei Magic",
+      "styles": [
+        {
+          "family_name": "Yusei Magic",
+          "type": "Regular",
+          "full_name": "Yusei Magic Regular",
+          "post_script_name": "YuseiMagic-Regular",
+          "version": "1.200",
+          "copyright": "Copyright 2020 The Yusei Magic Project Authors (https://github.com/tanukifont/YuseiMagic)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "yYLt0hbAyuCmoo5wlhPkpjHR-tdfcIT_.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

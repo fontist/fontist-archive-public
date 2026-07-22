@@ -1,0 +1,58 @@
+{
+  "slug": "google/grandiflora_one",
+  "name": "grandiflora_one",
+  "description": "Grandiflora, or in its original language, Neungsohwa is a decorative Hangeul typeface inspired by the Art Nouveau style of the 20th century. It is presented exclusively in hairline weight to highlight the elegant curves and ornamental characteristics of Hangeul. As Art Nouveau is commonly represented by vines and florals, the typeface was named after the most beloved summer vines of Korea, Campsis grandiflora (Neungsohwa). To contribute, please visit github.com/JAMO-TYPEFACE/Grandiflora .",
+  "homepage": "https://fonts.google.com/specimen/Grandiflora+One",
+  "copyright": "Copyright 2022 The Grandiflora Project Authors (https://github.com/JAMO-TYPEFACE/Grandiflora)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Grandiflora One",
+      "files": [
+        "https://fonts.gstatic.com/s/grandifloraone/v3/0ybmGD0g27bCk_5MGWZcKWhxwnUU_R3y8DOWGA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grandifloraone/v3/0ybmGD0g27bCk_5MGWZcKWhxwnUU_R3y8DOWGA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Grandiflora One",
+      "files": [
+        "https://fonts.gstatic.com/s/grandifloraone/v3/0ybmGD0g27bCk_5MGWZcKWhxwnUU-B3y8DOWGA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/grandifloraone/v3/0ybmGD0g27bCk_5MGWZcKWhxwnUU-B3y8DOWGA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Grandiflora One",
+      "styles": [
+        {
+          "family_name": "Grandiflora One",
+          "type": "Regular",
+          "full_name": "Grandiflora One Regular",
+          "post_script_name": "GrandifloraOne-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.28]",
+          "copyright": "Copyright 2022 The Grandiflora Project Authors (https://github.com/JAMO-TYPEFACE/Grandiflora)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "0ybmGD0g27bCk_5MGWZcKWhxwnUU_R3y8DOWGA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

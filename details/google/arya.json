@@ -1,0 +1,77 @@
+{
+  "slug": "google/arya",
+  "name": "arya",
+  "description": "Arya is a Devanagari and Latin type family. It originated with Modular InfoTech's 1201, and was made more smooth. The new and original Latin design is intended to match the Devanagari in weight and and size with an unusual high-contrast sans serif design. This project is led by Eduardo Tunni, a type designed based in Buenos Aires, Argentina. To contribute, visit github.com/etunni/Arya",
+  "homepage": "https://fonts.google.com/specimen/Arya",
+  "copyright": "Copyright (c) 2014, Eduardo Rodriguez Tunni. Copyright (c) 2000, Modular Infotech, Pune, INDIA. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Arya",
+      "files": [
+        "https://fonts.gstatic.com/s/arya/v21/ga6CawNG-HJd9Ub1-beqdFE.ttf",
+        "https://fonts.gstatic.com/s/arya/v21/ga6NawNG-HJdzfra3b-BaFg3dRE.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arya/v21/ga6CawNG-HJd9Ub1-beqdFE.ttf",
+        "https://fonts.gstatic.com/s/arya/v21/ga6NawNG-HJdzfra3b-BaFg3dRE.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Arya",
+      "files": [
+        "https://fonts.gstatic.com/s/arya/v21/ga6CawNG-HJd9UP1-beqdFE.woff2",
+        "https://fonts.gstatic.com/s/arya/v21/ga6NawNG-HJdzfra3bqBaFg3dRE.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arya/v21/ga6CawNG-HJd9UP1-beqdFE.woff2",
+        "https://fonts.gstatic.com/s/arya/v21/ga6NawNG-HJdzfra3bqBaFg3dRE.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arya",
+      "styles": [
+        {
+          "family_name": "Arya",
+          "type": "Regular",
+          "full_name": "Arya Regular",
+          "post_script_name": "Arya-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2014, Eduardo Rodriguez Tunni. Copyright (c) 2000, Modular Infotech, Pune, INDIA. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ga6CawNG-HJd9Ub1-beqdFE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arya",
+          "type": "Bold",
+          "full_name": "Arya Bold",
+          "post_script_name": "Arya-Bold",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2014, Eduardo Rodriguez Tunni. Copyright (c) 2000, Modular Infotech, Pune, INDIA. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ga6NawNG-HJdzfra3b-BaFg3dRE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

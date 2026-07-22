@@ -1,0 +1,58 @@
+{
+  "slug": "google/babylonica",
+  "name": "babylonica",
+  "description": "Babylonica is a dry brush style with hand written calligraphic brush characteristics. It's italicized approach is sometimes interrupted by upright or even back-slanted forms giving it an interrupted stress. This stress gives Babylonica that truly hand lettered appeal. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/babylonica .",
+  "homepage": "https://fonts.google.com/specimen/Babylonica",
+  "copyright": "Copyright 2010 The Babylonica Project Authors (https://github.com/googlefonts/babylonica)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Babylonica",
+      "files": [
+        "https://fonts.gstatic.com/s/babylonica/v7/5aUw9_i2qxWVCAE2aHjTqDJ0-VVMoEw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/babylonica/v7/5aUw9_i2qxWVCAE2aHjTqDJ0-VVMoEw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Babylonica",
+      "files": [
+        "https://fonts.gstatic.com/s/babylonica/v7/5aUw9_i2qxWVCAE2aHjTqDd0-VVMoEw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/babylonica/v7/5aUw9_i2qxWVCAE2aHjTqDd0-VVMoEw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Babylonica",
+      "styles": [
+        {
+          "family_name": "Babylonica",
+          "type": "Regular",
+          "full_name": "Babylonica Regular",
+          "post_script_name": "Babylonica-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2010 The Babylonica Project Authors (https://github.com/googlefonts/babylonica)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "5aUw9_i2qxWVCAE2aHjTqDJ0-VVMoEw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/ntr",
+  "name": "ntr",
+  "description": "NTR is a Telugu handwriting font inspired by the artist Bapu who is famous among Telugu people. Many artists followed him and created their own style and this font shows that influence. It is suitable for headings, posters, invitations and anywhere you want to use a handwriting font. NTR is named after Nandamuri Taraka Rama Rao, who worked tirelessly for the self-respect and well being of Telugu people around the world. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Joe Prince and originally published as Varela Round . The NTR project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/ntr",
+  "homepage": "https://fonts.google.com/specimen/NTR",
+  "copyright": "Copyright (c) 2012 SiliconAndhra (fonts.siliconandhra.org). Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Varela Round.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "NTR",
+      "files": [
+        "https://fonts.gstatic.com/s/ntr/v19/RLpzK5Xy0ZjiGGhs5TA4bg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ntr/v19/RLpzK5Xy0ZjiGGhs5TA4bg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "NTR",
+      "files": [
+        "https://fonts.gstatic.com/s/ntr/v19/RLpzK5Xy0ZjiHWhs5TA4bg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/ntr/v19/RLpzK5Xy0ZjiHWhs5TA4bg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "NTR",
+      "styles": [
+        {
+          "family_name": "NTR",
+          "type": "Regular",
+          "full_name": "NTR",
+          "post_script_name": "NTR",
+          "version": "1.0.5; ttfautohint (v1.2.25-373a) -l 7 -r 28 -G 50 -x 13 -D telu -f latn -w G -X \"\"",
+          "copyright": "Copyright (c) 2012 SiliconAndhra (fonts.siliconandhra.org). Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Varela Round.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RLpzK5Xy0ZjiGGhs5TA4bg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

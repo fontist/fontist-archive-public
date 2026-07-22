@@ -1,0 +1,111 @@
+{
+  "slug": "google/arvo",
+  "name": "arvo",
+  "description": "Arvo is a geometric slab-serif typeface family suited for screen and print. The family includes 4 cuts: Roman, Italic, Roman Bold, Bold Italic. It is a libre font, first published in Google Fonts. The flavour of the font is rather mixed. It's monolinear-ish, but has a tiny bit of contrast (which increases the legibility a little in Mac OS X.) The name Arvo is a typical Estonian man's name, but is not widely used today. In the Finnish language, Arvo means \"number, value, worth.\" Considering how much programming is involved in hinting, all these meanings are true. In December 2013 Arvo 2.0.1 was released, with support for languages that use the Cyrillic script, the latin script is expanded to Adobe's Glyph List 3, and many truetype hints are improved especially for in smaller sizes (regular cuts start now from 9ppem). Also added PANOSE classification numbers, cleaned up character palette order, and many more smaller bug fixes were made. Updated August 2015: Bold and Bold Italic styles were updated to allow document embedding. Arvo – это брусковый шрифт из семейства геометрических шрифтов с прямоугольными засечками. Данный шрифт создан для использования на экранах, а также в печатном виде (офсетная печать и т.д). Шрифт состоит из четырёх начертании: обычный, курсив, жирный и жирный курсив.Arvo распространяется на основании лицензии OFL. Благодаря которой любой пользователь может скачать/загрузить данное семейство шрифтов и пользоваться ими по своему усмотрению (смотри подробнее scripts.sil.org/OFL ). Для улучения читаемости на экранах, шрифт имеет детальное оптимирование Truetype (хинтинг), что в системах Windows и Linux предоставляет возможность набора мелкого шрифта, не теряя при этом качества читаемости. Краткая биография Антон Коовит родился в 1981 году, в городе Таллинне. Изучал графический дизайн в Академии Художеств Эстонии, а также в ESAG городе Париже и в Амстердаме Академии Геррит Рейтвельда, Голландия. После окончания изучения графического дизайна Антон Коовит направился на учёбу в Королевскую Академию Художеств Гааги (КАВК den Haag) для приобетения градуса магистра по шрифтовому дизайну. После окончания магистротурного обучения Антон Коовит основал фирму Кхорк ОО, которая действует по широкому профилю: оформление выстовок, логотипы, плакаты и шрифты. С 2007 года он проживает в Берлине. Кроме создания проектов в области типографии он преподаёт типографию, а также проводид консультативное обучение шрифтовому дизайну. Известные шрифты Антона Коовита: Adam, Aleksei, GQ Slab, U8, Arvo.",
+  "homepage": "https://fonts.google.com/specimen/Arvo",
+  "copyright": "Copyright (c) 2010 Anton Koovit.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Arvo",
+      "files": [
+        "https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKmSAa7Lzr7vs.ttf",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ6J7u_vvijQ.ttf",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1yLTA8vL7lAE.ttf",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK9tD-hAHkGg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKmSAa7Lzr7vs.ttf",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ6J7u_vvijQ.ttf",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1yLTA8vL7lAE.ttf",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK9tD-hAHkGg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Arvo",
+      "files": [
+        "https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKmSUa7Lzr7vs.woff2",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ7Z7u_vvijQ.woff2",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1yLHA8vL7lAE.woff2",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK89D-hAHkGg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/arvo/v23/tDbD2oWUg0MKmSUa7Lzr7vs.woff2",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbN2oWUg0MKqSIQ7Z7u_vvijQ.woff2",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbM2oWUg0MKoZw1yLHA8vL7lAE.woff2",
+        "https://fonts.gstatic.com/s/arvo/v23/tDbO2oWUg0MKqSIoVLHK89D-hAHkGg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arvo",
+      "styles": [
+        {
+          "family_name": "Arvo",
+          "type": "Regular",
+          "full_name": "Arvo",
+          "post_script_name": "Arvo",
+          "version": "1.006 2010 beta release; ttfautohint (v1.8.2)",
+          "copyright": "Copyright (c) 2010 Anton Koovit.",
+          "variable_font": false,
+          "font": "tDbD2oWUg0MKmSAa7Lzr7vs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arvo",
+          "type": "Italic",
+          "full_name": "Arvo-Italic",
+          "post_script_name": "Arvo-Italic",
+          "version": "1.006 2010 beta release; ttfautohint (v1.8.2)",
+          "copyright": "Copyright 2010 Anton Koovit, Yassin Baggar.",
+          "variable_font": false,
+          "font": "tDbN2oWUg0MKqSIQ6J7u_vvijQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arvo",
+          "type": "Bold",
+          "full_name": "Arvo Bold",
+          "post_script_name": "Arvo-Bold",
+          "version": "1.006 2010 beta release; ttfautohint (v1.8.2)",
+          "copyright": "Copyright (c) 2010 by Anton Koovit.",
+          "variable_font": false,
+          "font": "tDbM2oWUg0MKoZw1yLTA8vL7lAE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Arvo",
+          "type": "Bold Italic",
+          "full_name": "Arvo Bold Italic",
+          "post_script_name": "Arvo-BoldItalic",
+          "version": "1.006 2010 beta release; ttfautohint (v1.8.2)",
+          "copyright": "Copyright 2010 Anton Koovit, Yassin Baggar.",
+          "variable_font": false,
+          "font": "tDbO2oWUg0MKqSIoVLHK9tD-hAHkGg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

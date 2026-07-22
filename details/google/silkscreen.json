@@ -1,0 +1,77 @@
+{
+  "slug": "google/silkscreen",
+  "name": "silkscreen",
+  "description": "Silkscreen is a pixel typeface that was designed for rendering type at small sizes for web graphics. It’s got a chunky, retro-computing look that also works well when you use it big. Silkscreen includes two weights, regular and bold, that looks good on the web, mobile devices, and even in print. Since its release in 1999, it has been used by companies like Flickr, Herman Miller, Volvo, and Adobe, by pop stars like Britney Spears and Carly Rae Jepsen, and in movies like The Bourne Legacy. Learn more at www.kottke.org . To contribute, see github.com/googlefonts/silkscreen .",
+  "homepage": "https://fonts.google.com/specimen/Silkscreen",
+  "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Silkscreen",
+      "files": [
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JXjfVPf62XiF7kO-i9ULRvamODxdI.ttf",
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JUjfVPf62XiF7kO-i9aAhATmuo2dudFvc.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JXjfVPf62XiF7kO-i9ULRvamODxdI.ttf",
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JUjfVPf62XiF7kO-i9aAhATmuo2dudFvc.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Silkscreen",
+      "files": [
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JXjfVPf62XiF7kO-i9ULFvamODxdI.woff2",
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JUjfVPf62XiF7kO-i9aAhATm6o2dudFvc.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JXjfVPf62XiF7kO-i9ULFvamODxdI.woff2",
+        "https://fonts.gstatic.com/s/silkscreen/v6/m8JUjfVPf62XiF7kO-i9aAhATm6o2dudFvc.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Silkscreen",
+      "styles": [
+        {
+          "family_name": "Silkscreen",
+          "type": "Regular",
+          "full_name": "Silkscreen Regular",
+          "post_script_name": "Silkscreen-Regular",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "m8JXjfVPf62XiF7kO-i9ULRvamODxdI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Silkscreen",
+          "type": "Bold",
+          "full_name": "Silkscreen Bold",
+          "post_script_name": "Silkscreen-Bold",
+          "version": "1.001; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "m8JUjfVPf62XiF7kO-i9aAhATmuo2dudFvc.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

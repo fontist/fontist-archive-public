@@ -1,0 +1,58 @@
+{
+  "slug": "google/esteban",
+  "name": "esteban",
+  "description": "Esteban is a typeface intended to be used in texts, specially literature and poetry. Its a serif font with medium contrast, tall x height, medium compression, and robust serifs. It offers personality, readability and economy. One of the most important features of Esteban is its stroke, that loses or gains weight in the stems. This feature was defined from the manuscripts of Jorge Alfredo Díaz Esteban, a writer who used a tool that can generate modulated strokes. This means the stroke width varies due to the pressure of the pen on the paper, and this quality allows the font to have a presence on the page that makes texts more dynamic. The precise level of contrast was decided by experimenting with various 'colors' of density that emerge in text settings. This allows Esteban to achieve good performance even in medium and low quality prints and as a web font.",
+  "homepage": "https://fonts.google.com/specimen/Esteban",
+  "copyright": "Copyright (c) 2011, Angelica Diaz Rivera (www.typereview.wordpress.com), with Reserved Font Name \"Esteban\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Esteban",
+      "files": [
+        "https://fonts.gstatic.com/s/esteban/v16/r05bGLZE-bdGdN-GdOuD5jokU8E.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/esteban/v16/r05bGLZE-bdGdN-GdOuD5jokU8E.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Esteban",
+      "files": [
+        "https://fonts.gstatic.com/s/esteban/v16/r05bGLZE-bdGdN-GdO6D5jokU8E.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/esteban/v16/r05bGLZE-bdGdN-GdO6D5jokU8E.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Esteban",
+      "styles": [
+        {
+          "family_name": "Esteban",
+          "type": "Regular",
+          "full_name": "Esteban",
+          "post_script_name": "Esteban",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Angelica Diaz Rivera (www.typereview.wordpress.com), with Reserved Font Name \"Esteban\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "r05bGLZE-bdGdN-GdOuD5jokU8E.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

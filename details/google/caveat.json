@@ -1,0 +1,131 @@
+{
+  "slug": "google/caveat",
+  "name": "caveat",
+  "description": "Caveat is a handwriting type family designed by Pablo Impallari. It is designed for both short annotations and body text usage. For a different style, there is also a sister family, Caveat Brush The fonts have OpenType features that enable the letters to have slight variations according to their occurrence within a word, for a natural handwritten feel. The Caveat project was commissioned by Google from Impallari Type, a type design foundry in Rosario, Argentina. To contribute, see github.com/googlefonts/caveat Updated June 2019 to v1.500: Adding extended Cyrillic, by Cyreal , a type design foundry in Moscow, Russia.",
+  "homepage": "https://fonts.google.com/specimen/Caveat",
+  "copyright": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Caveat",
+      "files": [
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SIejYBxPigs.woff2",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SIejYBxPigs.woff2",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SIejYBxPigs.woff2",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SIejYBxPigs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SIejYBxPigs.woff2",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SIejYBxPigs.woff2",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SIejYBxPigs.woff2",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SIejYBxPigs.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Caveat",
+      "files": [
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SIKjYBxPigs.ttf",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SIKjYBxPigs.ttf",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SIKjYBxPigs.ttf",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SIKjYBxPigs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SIKjYBxPigs.ttf",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SIKjYBxPigs.ttf",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SIKjYBxPigs.ttf",
+        "https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SIKjYBxPigs.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Caveat",
+      "styles": [
+        {
+          "family_name": "Caveat",
+          "type": "Regular",
+          "full_name": "Caveat Regular",
+          "post_script_name": "Caveat-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SIKjYBxPigs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Caveat",
+          "type": "Bold",
+          "full_name": "Caveat Bold",
+          "post_script_name": "Caveat-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6SIKjYBxPigs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caveat Medium",
+      "styles": [
+        {
+          "family_name": "Caveat Medium",
+          "type": "Regular",
+          "full_name": "Caveat Medium",
+          "post_script_name": "Caveat-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9SIKjYBxPigs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Caveat SemiBold",
+      "styles": [
+        {
+          "family_name": "Caveat SemiBold",
+          "type": "Regular",
+          "full_name": "Caveat SemiBold",
+          "post_script_name": "Caveat-SemiBold",
+          "version": "2.000",
+          "copyright": "Copyright 2014 The Caveat Project Authors (https://github.com/googlefonts/caveat)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6SIKjYBxPigs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/stalinist_one",
+  "name": "stalinist_one",
+  "description": "Imagine a post-apocalyptic world in the future. Imagine hiding in the underground: people, dirty air and despair. To transfer information, they still use fonts. But they have become simple, with a utilitarian and strong spirit. Stalinist is typeface for a post-apocalyptic time. Stalinist is a font made in Moscow at the end of the 21st century. That's the way it is. Stalinist One was designed collaboratively between Alexey Maslov and Jovanny Lemonad. Updated September 2015: Internal metadata corrected.",
+  "homepage": "https://fonts.google.com/specimen/Stalinist+One",
+  "copyright": "Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalinist'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Stalinist One",
+      "files": [
+        "https://fonts.gstatic.com/s/stalinistone/v58/MQpS-WezM9W4Dd7D3B7I-UT7eZ-UPyacPbo.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stalinistone/v58/MQpS-WezM9W4Dd7D3B7I-UT7eZ-UPyacPbo.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Stalinist One",
+      "files": [
+        "https://fonts.gstatic.com/s/stalinistone/v58/MQpS-WezM9W4Dd7D3B7I-UT7eZqUPyacPbo.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/stalinistone/v58/MQpS-WezM9W4Dd7D3B7I-UT7eZqUPyacPbo.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Stalinist One",
+      "styles": [
+        {
+          "family_name": "Stalinist One",
+          "type": "Regular",
+          "full_name": "Stalinist One",
+          "post_script_name": "StalinistOne-Regular",
+          "version": "3.004",
+          "copyright": "Copyright (c) 2009-2011, Alexey Maslov, Jovanny Lemonad (lemonad@jovanny.ru), with Reserved Font Name 'Stalinist'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "MQpS-WezM9W4Dd7D3B7I-UT7eZ-UPyacPbo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

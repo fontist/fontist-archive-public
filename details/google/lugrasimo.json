@@ -1,0 +1,58 @@
+{
+  "slug": "google/lugrasimo",
+  "name": "lugrasimo",
+  "description": "Lugrasimo is a DocRepair font, intended to improve compliance with the ISO/IEC 29500 standard by providing fallback for Lucida Calligraphy that minimizes text reflow in Office Open XML documents. Lugrasimo is based on Fondamento, a typeface in calligraphic lettering style based on the traditional Foundational Hand, a basic teaching style created by Edward Johnston in the early 20th century. The letterforms are clear and cleanly legible, basic and formal. To contribute, please visit github.com/docrepair-fonts/lugrasimo-fonts .",
+  "homepage": "https://fonts.google.com/specimen/Lugrasimo",
+  "copyright": "Copyright 2023 The Lugrasimo Project Authors (https://github.com/docrepair-fonts/lugrasimo-fonts).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Lugrasimo",
+      "files": [
+        "https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7ae5JRLkAXbMQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7ae5JRLkAXbMQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Lugrasimo",
+      "files": [
+        "https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7ae4ZRLkAXbMQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/lugrasimo/v5/qkBXXvoF_s_eT9c7Y7ae4ZRLkAXbMQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lugrasimo",
+      "styles": [
+        {
+          "family_name": "Lugrasimo",
+          "type": "Regular",
+          "full_name": "Lugrasimo Regular",
+          "post_script_name": "Lugrasimo-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2023 The Lugrasimo Project Authors (https://github.com/docrepair-fonts/lugrasimo-fonts).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "qkBXXvoF_s_eT9c7Y7ae5JRLkAXbMQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

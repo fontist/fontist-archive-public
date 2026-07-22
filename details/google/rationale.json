@@ -1,0 +1,58 @@
+{
+  "slug": "google/rationale",
+  "name": "rationale",
+  "description": "Rationale One is a compact monoline webfont designed to work well on screen from large headlines to 12 pt body copy. The concept was to create a modular-based font with optical corrections guided by snap eye judgements. Such irregularities add a warm impression to the overall strict geometrical logic. The idea of subtle stroke cuts originated from the letter n, and was selectively incorporated throughout the characters. This feature becomes visible from 36 pt and above. In body sizes stroke cuts enrich the typographic color with light nuances. Designed by Alexei Vanyashin in cooperation with Olexa Volochay and Vladimir Pavlikov.",
+  "homepage": "https://fonts.google.com/specimen/Rationale",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Rationale\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Rationale",
+      "files": [
+        "https://fonts.gstatic.com/s/rationale/v30/9XUnlJ92n0_JFxHIfHcsdlFMzLC2Zw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rationale/v30/9XUnlJ92n0_JFxHIfHcsdlFMzLC2Zw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Rationale",
+      "files": [
+        "https://fonts.gstatic.com/s/rationale/v30/9XUnlJ92n0_JFxHIfHcsc1FMzLC2Zw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/rationale/v30/9XUnlJ92n0_JFxHIfHcsc1FMzLC2Zw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Rationale",
+      "styles": [
+        {
+          "family_name": "Rationale",
+          "type": "Regular",
+          "full_name": "Rationale",
+          "post_script_name": "Rationale-Regular",
+          "version": "1.011",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name \"Rationale\".",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "9XUnlJ92n0_JFxHIfHcsdlFMzLC2Zw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/julee",
+  "name": "julee",
+  "description": "The peculiarity of this typography lies in its curved structures and strokes, which are developed on it by getting thinner and sharper as if they were being typed using a metallic and bevel-edged point. The visual mark characteristic of Julee is a casual cursive-like type, yet balanced due to the tidy proportions of its signs. The March 2023 update features a bigger glyphset, fractions and some minor aesthetic modifications. More documentation can be found at www.tipo.net.ar To contribute, see github.com/etunni/julee .",
+  "homepage": "https://fonts.google.com/specimen/Julee",
+  "copyright": "Copyright 2011 The Julee Project Authors (https://github.com/etunni/julee) with Reserved Font Name is \"Julee\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Julee",
+      "files": [
+        "https://fonts.gstatic.com/s/julee/v26/TuGfUVB3RpZPQ6ZLodgzydtk.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/julee/v26/TuGfUVB3RpZPQ6ZLodgzydtk.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Julee",
+      "files": [
+        "https://fonts.gstatic.com/s/julee/v26/TuGfUVB3RpZPQ6ZOodgzydtk.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/julee/v26/TuGfUVB3RpZPQ6ZOodgzydtk.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Julee",
+      "styles": [
+        {
+          "family_name": "Julee",
+          "type": "Regular",
+          "full_name": "Julee Regular",
+          "post_script_name": "Julee-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.23]",
+          "copyright": "Copyright 2011 The Julee Project Authors (https://github.com/etunni/julee) with Reserved Font Name is \"Julee\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "TuGfUVB3RpZPQ6ZLodgzydtk.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/peralta",
+  "name": "peralta",
+  "description": "The Peralta typeface is an egyptian slab serif gone haywire. You'll find that Capitals and Lowercase have opposite weight distributions, as well as an all-around offbeat nature, and yet it all works to create a delightfully comic typeface.",
+  "homepage": "https://fonts.google.com/specimen/Peralta",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Peralta\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Peralta",
+      "files": [
+        "https://fonts.gstatic.com/s/peralta/v21/hYkJPu0-RP_9d3kRGxAhrv956B8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/peralta/v21/hYkJPu0-RP_9d3kRGxAhrv956B8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Peralta",
+      "files": [
+        "https://fonts.gstatic.com/s/peralta/v21/hYkJPu0-RP_9d3kRGxUhrv956B8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/peralta/v21/hYkJPu0-RP_9d3kRGxUhrv956B8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Peralta",
+      "styles": [
+        {
+          "family_name": "Peralta",
+          "type": "Regular",
+          "full_name": "Peralta",
+          "post_script_name": "Peralta-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Peralta\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "hYkJPu0-RP_9d3kRGxAhrv956B8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

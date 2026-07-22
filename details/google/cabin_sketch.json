@@ -1,0 +1,77 @@
+{
+  "slug": "google/cabin_sketch",
+  "name": "cabin_sketch",
+  "description": "The Cabin Font is a humanist sans inspired by Edward Johnston’s and Eric Gill’s typefaces, with a touch of modernism. Cabin incorporates modern proportions, optical adjustments, and some elements of the geometric sans. This is the Sketch version, with the texture of a teenage doodle.",
+  "homepage": "https://fonts.google.com/specimen/Cabin+Sketch",
+  "copyright": "Copyright 2011 The Cabin Project Authors (impallari@gmail.com), with Reserved Font Name \"Cabin\", \"Cabin Sketch\".",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cabin Sketch",
+      "files": [
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGYpz_kZZAGCONcK2A4bGOjMn9JM6fnuKg.ttf",
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGY2z_kZZAGCONcK2A4bGOj0I_1o4dLyI4CMFw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGYpz_kZZAGCONcK2A4bGOjMn9JM6fnuKg.ttf",
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGY2z_kZZAGCONcK2A4bGOj0I_1o4dLyI4CMFw.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cabin Sketch",
+      "files": [
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGYpz_kZZAGCONcK2A4bGOjMmtJM6fnuKg.woff2",
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGY2z_kZZAGCONcK2A4bGOj0I_1o5NLyI4CMFw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGYpz_kZZAGCONcK2A4bGOjMmtJM6fnuKg.woff2",
+        "https://fonts.gstatic.com/s/cabinsketch/v23/QGY2z_kZZAGCONcK2A4bGOj0I_1o5NLyI4CMFw.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cabin Sketch",
+      "styles": [
+        {
+          "family_name": "Cabin Sketch",
+          "type": "Regular",
+          "full_name": "Cabin Sketch Regular",
+          "post_script_name": "CabinSketch-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Cabin Project Authors (impallari@gmail.com), with Reserved Font Name \"Cabin\", \"Cabin Sketch\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QGYpz_kZZAGCONcK2A4bGOjMn9JM6fnuKg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Cabin Sketch",
+          "type": "Bold",
+          "full_name": "Cabin Sketch Bold",
+          "post_script_name": "CabinSketch-Bold",
+          "version": "1.100",
+          "copyright": "Copyright 2011 The Cabin Project Authors (impallari@gmail.com), with Reserved Font Name \"Cabin\", \"Cabin Sketch\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "QGY2z_kZZAGCONcK2A4bGOj0I_1o4dLyI4CMFw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/frijole",
+  "name": "frijole",
+  "description": "What's on your font menu tonight? The same old boring beans? Then why not try Frijole! Its a fresh new face that's anything but re-fried. And it's sure to be a hit when you're cooking up something that needs to be bold, spicy and satisfying! Another fresh font from Squid and Sideshow.",
+  "homepage": "https://fonts.google.com/specimen/Frijole",
+  "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Frijole\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Frijole",
+      "files": [
+        "https://fonts.gstatic.com/s/frijole/v15/uU9PCBUR8oakM2BQ7xPb3vyHmlI.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/frijole/v15/uU9PCBUR8oakM2BQ7xPb3vyHmlI.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Frijole",
+      "files": [
+        "https://fonts.gstatic.com/s/frijole/v15/uU9PCBUR8oakM2BQ7xbb3vyHmlI.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/frijole/v15/uU9PCBUR8oakM2BQ7xbb3vyHmlI.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Frijole",
+      "styles": [
+        {
+          "family_name": "Frijole",
+          "type": "Regular",
+          "full_name": "Frijole",
+          "post_script_name": "Frijole",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Frijole\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "uU9PCBUR8oakM2BQ7xPb3vyHmlI.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

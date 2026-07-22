@@ -1,0 +1,58 @@
+{
+  "slug": "google/macondo_swash_caps",
+  "name": "macondo_swash_caps",
+  "description": "Macondo. The first purpose of this typeface was to provide an original and systematized style of calligraphy adapted into a modern digital font. The forms are inspired by some illustrations created for a tarot card game, itself inspired by the work of Colombian literature Nobel prize winning author, Gabriel García Márquez, «Cien Años de Soledad». Early versions of this font were made in 1997, but recently in 2009 it was substantially improved. Macondo includes several cap swashes and other stylish alternates, and this is a sister family, Macondo Swash Caps.",
+  "homepage": "https://fonts.google.com/specimen/Macondo+Swash+Caps",
+  "copyright": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Macondo Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/macondoswashcaps/v26/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6Oekoa_mm5bA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/macondoswashcaps/v26/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6Oekoa_mm5bA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Macondo Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/macondoswashcaps/v26/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6Of0oa_mm5bA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/macondoswashcaps/v26/6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6Of0oa_mm5bA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Macondo Swash Caps",
+      "styles": [
+        {
+          "family_name": "Macondo Swash Caps",
+          "type": "Regular",
+          "full_name": "Macondo Swash Caps",
+          "post_script_name": "MacondoSwashCaps-Regular",
+          "version": "2.001",
+          "copyright": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6NUL8EaAJgGKZA7lpt941Z9s6ZYgDq6Oekoa_mm5bA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

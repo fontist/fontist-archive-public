@@ -1,0 +1,58 @@
+{
+  "slug": "google/delicious_handrawn",
+  "name": "delicious_handrawn",
+  "description": "Delicious Handrawn is a font inspired by Agung Rohmat's handwriting. He drew all the glyphs on his iPad using the Procreate app. It took a lot of testing to find the perfect design as he felt his handwriting was not neat. To contribute, see github.com/alphArtype/Delicious-Handrawn .",
+  "homepage": "https://fonts.google.com/specimen/Delicious+Handrawn",
+  "copyright": "Copyright 2022 The Delicious Handrawn Project Authors (https://github.com/alphArtype/Delicious-Handrawn)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Delicious Handrawn",
+      "files": [
+        "https://fonts.gstatic.com/s/delicioushandrawn/v10/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ113JpDd6u3AQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/delicioushandrawn/v10/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ113JpDd6u3AQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Delicious Handrawn",
+      "files": [
+        "https://fonts.gstatic.com/s/delicioushandrawn/v10/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ112ZpDd6u3AQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/delicioushandrawn/v10/wlpsgx_NAUNkpmKQifcxkQchDFo3fJ112ZpDd6u3AQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Delicious Handrawn",
+      "styles": [
+        {
+          "family_name": "Delicious Handrawn",
+          "type": "Regular",
+          "full_name": "Delicious Handrawn Regular",
+          "post_script_name": "DeliciousHandrawn-Regular",
+          "version": "1.002; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]",
+          "copyright": "Copyright 2022 The Delicious Handrawn Project Authors (https://github.com/alphArtype/Delicious-Handrawn)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "wlpsgx_NAUNkpmKQifcxkQchDFo3fJ113JpDd6u3AQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

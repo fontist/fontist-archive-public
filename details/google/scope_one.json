@@ -1,0 +1,58 @@
+{
+  "slug": "google/scope_one",
+  "name": "scope_one",
+  "description": "Scope One is a light slab serif typeface with elegant expressions that make it broadly useful for many different contexts. The design is optimized for titling and display usage and is ideally used at 14 points and above. The tall vertical proportions of the lowercase mean that it can be used in a way similar to small caps, giving a more refined typographic impression. It supports a broad range of languages using the Latin writing system. The font has been enhanced for good on-screen display quality, and has been tested extensively in a variety of on-screen and print environments. Scope One is a Dalton Maag original design commissioned by Google Fonts for use in presentation slide decks. A foundry specimen is maintained at daltonmaag.github.io/scope-one To contribute, see github.com/daltonmaag/scope-one",
+  "homepage": "https://fonts.google.com/specimen/Scope+One",
+  "copyright": "Copyright 2015 Dalton Maag Ltd (info@daltonmaag.com)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Scope One",
+      "files": [
+        "https://fonts.gstatic.com/s/scopeone/v15/WBLnrEXKYFlGHrOKmGD1W0_MJMGxiQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/scopeone/v15/WBLnrEXKYFlGHrOKmGD1W0_MJMGxiQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Scope One",
+      "files": [
+        "https://fonts.gstatic.com/s/scopeone/v15/WBLnrEXKYFlGHrOKmGD1Xk_MJMGxiQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/scopeone/v15/WBLnrEXKYFlGHrOKmGD1Xk_MJMGxiQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Scope One",
+      "styles": [
+        {
+          "family_name": "Scope One",
+          "type": "Regular",
+          "full_name": "Scope One",
+          "post_script_name": "ScopeOne-Regular",
+          "version": "1.001; ttfautohint (v1.4.1) -l 11 -r 50 -G 50 -x 14 -D latn -f latn -m \"ttfautohint.ctrl\" -w G -X \"\"",
+          "copyright": "Copyright 2015 Dalton Maag Ltd (info@daltonmaag.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "WBLnrEXKYFlGHrOKmGD1W0_MJMGxiQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

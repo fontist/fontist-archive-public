@@ -1,0 +1,58 @@
+{
+  "slug": "google/mandali",
+  "name": "mandali",
+  "description": "Mandali is a Telugu font developed for use in news publications and has many unique Telugu conjunct letters. It is named after Mandali Venkata Krishna Rao, who successfully organised the first World Telugu Conference in 1975. He and his family have worked for the well being of Telugu people. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Vernon Adams and originally published as Nunito . The Mandali project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/mandali",
+  "homepage": "https://fonts.google.com/specimen/Mandali",
+  "copyright": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name Nunito",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Mandali",
+      "files": [
+        "https://fonts.gstatic.com/s/mandali/v16/LhWlMVbYOfASNfNUVFk1ZPdcKtA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mandali/v16/LhWlMVbYOfASNfNUVFk1ZPdcKtA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Mandali",
+      "files": [
+        "https://fonts.gstatic.com/s/mandali/v16/LhWlMVbYOfASNfNUVFw1ZPdcKtA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/mandali/v16/LhWlMVbYOfASNfNUVFw1ZPdcKtA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mandali",
+      "styles": [
+        {
+          "family_name": "Mandali",
+          "type": "Regular",
+          "full_name": "Mandali",
+          "post_script_name": "Mandali",
+          "version": "1.0.5; ttfautohint (v1.2.25-373a) -l 7 -r 28 -G 50 -x 13 -D telu -f latn -w G -X \"\"",
+          "copyright": "Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk), with Reserved Font Name Nunito",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "LhWlMVbYOfASNfNUVFk1ZPdcKtA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

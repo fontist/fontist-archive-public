@@ -1,0 +1,58 @@
+{
+  "slug": "google/macondo",
+  "name": "macondo",
+  "description": "Macondo. The first purpose of this typeface was to provide an original and systematized style of calligraphy adapted into a modern digital font. The forms are inspired by some illustrations created for a tarot card game, itself inspired by the work of Colombian literature Nobel prize winning author, Gabriel García Márquez, «Cien Años de Soledad». Early versions of this font were made in 1997, but recently in 2009 it was substantially improved. Macondo includes several cap swashes and other stylish alternates, and a sister family Macondo Swash Caps is also available.",
+  "homepage": "https://fonts.google.com/specimen/Macondo",
+  "copyright": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Macondo",
+      "files": [
+        "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOS2XO0LBBd4Y.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOS2XO0LBBd4Y.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Macondo",
+      "files": [
+        "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOS2DO0LBBd4Y.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/macondo/v27/RrQQboN9-iB1IXmOS2DO0LBBd4Y.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Macondo",
+      "styles": [
+        {
+          "family_name": "Macondo",
+          "type": "Regular",
+          "full_name": "Macondo",
+          "post_script_name": "Macondo-Regular",
+          "version": "2.001",
+          "copyright": "Copyright (c) 1997 - 2011, John Vargas Beltran. (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name \"Macondo\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "RrQQboN9-iB1IXmOS2XO0LBBd4Y.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

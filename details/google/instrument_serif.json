@@ -1,0 +1,77 @@
+{
+  "slug": "google/instrument_serif",
+  "name": "instrument_serif",
+  "description": "Instrument Serif is a condensed display font designed for the Instrument brand. It is intended for use at large sizes and offers a contemporary take on some of the time-tested characteristics found in old-style serifs. To contribute, please see github.com/Instrument/instrument-serif .",
+  "homepage": "https://fonts.google.com/specimen/Instrument+Serif",
+  "copyright": "Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Instrument Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-2zIZj1bIkNo.ttf",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATi3TNgNq55w.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-2zIZj1bIkNo.ttf",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATi3TNgNq55w.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Instrument Serif",
+      "files": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-2zcZj1bIkNo.woff2",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATjnTNgNq55w.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-2zcZj1bIkNo.woff2",
+        "https://fonts.gstatic.com/s/instrumentserif/v5/jizHRFtNs2ka5fXjeivQ4LroWlx-6zATjnTNgNq55w.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Instrument Serif",
+      "styles": [
+        {
+          "family_name": "Instrument Serif",
+          "type": "Regular",
+          "full_name": "Instrument Serif Regular",
+          "post_script_name": "InstrumentSerif-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]",
+          "copyright": "Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizBRFtNs2ka5fXjeivQ4LroWlx-2zIZj1bIkNo.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Instrument Serif",
+          "type": "Italic",
+          "full_name": "Instrument Serif Italic",
+          "post_script_name": "InstrumentSerif-Italic",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b);gftools[0.9.27]",
+          "copyright": "Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizHRFtNs2ka5fXjeivQ4LroWlx-6zATi3TNgNq55w.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

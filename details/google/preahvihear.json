@@ -1,0 +1,58 @@
+{
+  "slug": "google/preahvihear",
+  "name": "preahvihear",
+  "description": "Preahvihear is a Khmer font for headlines, titles and subtitles, and even banner designs. To contribute, see github.com/danhhong/Preahvihear .",
+  "homepage": "https://fonts.google.com/specimen/Preahvihear",
+  "copyright": "Copyright 2020 The Preahvihear Project Authors (https://github.com/danhhong/Preahvihear)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Preahvihear",
+      "files": [
+        "https://fonts.gstatic.com/s/preahvihear/v32/6NUS8F-dNQeEYhzj7uluxswE49FJf8Wv.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/preahvihear/v32/6NUS8F-dNQeEYhzj7uluxswE49FJf8Wv.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Preahvihear",
+      "files": [
+        "https://fonts.gstatic.com/s/preahvihear/v32/6NUS8F-dNQeEYhzj7uluxswB49FJf8Wv.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/preahvihear/v32/6NUS8F-dNQeEYhzj7uluxswB49FJf8Wv.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Preahvihear",
+      "styles": [
+        {
+          "family_name": "Preahvihear",
+          "type": "Regular",
+          "full_name": "Preahvihear Regular",
+          "post_script_name": "Preahvihear-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Preahvihear Project Authors (https://github.com/danhhong/Preahvihear)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6NUS8F-dNQeEYhzj7uluxswE49FJf8Wv.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

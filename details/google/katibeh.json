@@ -1,0 +1,58 @@
+{
+  "slug": "google/katibeh",
+  "name": "katibeh",
+  "description": "Katibeh is a headline font based on the Naskh script, infused with some qualities of the Thuluth script. The small serif-like outstrokes make Katibeh remind us of archaic designs, but other aspects of the design are very contemporary touches. The result is something between tradition and today. Katibeh has ligatures that Arabic and Persian readers are familiar with, to make it comfortable for reading longer texts. Unlike many other Arabic fonts, Katibeh includes a Latin typeface designed for harmony with the Arabic to make it useful for multilingual texts. The Latin is scaled to work best with the Arabic component. The Katibeh project is led by KB Studio, a design studio in Los Angeles. To contribute, see github.com/Tarobish/Katibeh",
+  "homepage": "https://fonts.google.com/specimen/Katibeh",
+  "copyright": "Copyright 2015, 2016 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015, 2016 Lasse Fister (lasse@graphicore.de). Copyright 2015, 2016 Eduardo Tunni(edu@tipo.net.ar).",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Katibeh",
+      "files": [
+        "https://fonts.gstatic.com/s/katibeh/v22/ZGjXol5MQJog4bxDaC1RVDNdGDs.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/katibeh/v22/ZGjXol5MQJog4bxDaC1RVDNdGDs.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Katibeh",
+      "files": [
+        "https://fonts.gstatic.com/s/katibeh/v22/ZGjXol5MQJog4bxDaChRVDNdGDs.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/katibeh/v22/ZGjXol5MQJog4bxDaChRVDNdGDs.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Katibeh",
+      "styles": [
+        {
+          "family_name": "Katibeh",
+          "type": "Regular",
+          "full_name": "Katibeh Regular",
+          "post_script_name": "Katibeh-Regular",
+          "version": "1.0010g",
+          "copyright": "Copyright 2015, 2016 KB-Studio (www.k-b-studio.com|tarobish@gmail.com). Copyright 2015, 2016 Lasse Fister (lasse@graphicore.de). Copyright 2015, 2016 Eduardo Tunni(edu@tipo.net.ar).",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ZGjXol5MQJog4bxDaC1RVDNdGDs.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

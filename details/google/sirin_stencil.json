@@ -1,0 +1,58 @@
+{
+  "slug": "google/sirin_stencil",
+  "name": "sirin_stencil",
+  "description": "Sirin Stencil is a display humanist sans typeface by Olga Karpushina with careful brush-inspired detailing. It is designed for large sizes, but works surprizingly well in small body copy, when its stencil gaps merge. Sirin will work well on colored backgrounds creating an optical 3D effect.",
+  "homepage": "https://fonts.google.com/specimen/Sirin+Stencil",
+  "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Sirin\" and \"Sirin Stencil\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sirin Stencil",
+      "files": [
+        "https://fonts.gstatic.com/s/sirinstencil/v27/mem4YaWwznmLx-lzGfN7MdRydchGBq6al6o.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sirinstencil/v27/mem4YaWwznmLx-lzGfN7MdRydchGBq6al6o.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sirin Stencil",
+      "files": [
+        "https://fonts.gstatic.com/s/sirinstencil/v27/mem4YaWwznmLx-lzGfN7MdRydc1GBq6al6o.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sirinstencil/v27/mem4YaWwznmLx-lzGfN7MdRydc1GBq6al6o.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "SirinStencil",
+      "styles": [
+        {
+          "family_name": "SirinStencil",
+          "type": "Regular",
+          "full_name": "SirinStencil",
+          "post_script_name": "SirinStencil-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Sirin\" and \"Sirin Stencil\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "description": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Sirin\" and \"Sirin Stencil\".\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "mem4YaWwznmLx-lzGfN7MdRydchGBq6al6o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,155 @@
+{
+  "slug": "google/marhey",
+  "name": "marhey",
+  "description": "Marhey is a playful Display typeface, custom hand lettering with contrast strokes that makes dynamic and expressive impression. It comes with Latin Character sets including Western, Central, and Arabic language support (Kurdish, Persian, Urdu and Jawi). To contribute, see github.com/namelatype/Marhey .",
+  "homepage": "https://fonts.google.com/specimen/Marhey",
+  "copyright": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Marhey",
+      "files": [
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBZVwO2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwO2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBflwO2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBRV3O2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBSx3O2IXiGevOMw.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBZVwO2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwO2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBflwO2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBRV3O2IXiGevOMw.woff2",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBSx3O2IXiGevOMw.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Marhey",
+      "files": [
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBZVwO2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwO2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBflwO2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBRV3O2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBSx3O2cXiGevOMw.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBZVwO2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwO2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBflwO2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBRV3O2cXiGevOMw.ttf",
+        "https://fonts.gstatic.com/s/marhey/v8/x3d8ck7Laq-T7wl7mqfVrEe9sDvtBSx3O2cXiGevOMw.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Marhey Light",
+      "styles": [
+        {
+          "family_name": "Marhey Light",
+          "type": "Regular",
+          "full_name": "Marhey Light",
+          "post_script_name": "Marhey-Light",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "x3d8ck7Laq-T7wl7mqfVrEe9sDvtBZVwO2cXiGevOMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marhey",
+      "styles": [
+        {
+          "family_name": "Marhey",
+          "type": "Regular",
+          "full_name": "Marhey Regular",
+          "post_script_name": "Marhey-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "x3d8ck7Laq-T7wl7mqfVrEe9sDvtBctwO2cXiGevOMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Marhey",
+          "type": "Bold",
+          "full_name": "Marhey Bold",
+          "post_script_name": "Marhey-Bold",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "x3d8ck7Laq-T7wl7mqfVrEe9sDvtBSx3O2cXiGevOMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marhey Medium",
+      "styles": [
+        {
+          "family_name": "Marhey Medium",
+          "type": "Regular",
+          "full_name": "Marhey Medium",
+          "post_script_name": "Marhey-Medium",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "x3d8ck7Laq-T7wl7mqfVrEe9sDvtBflwO2cXiGevOMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marhey SemiBold",
+      "styles": [
+        {
+          "family_name": "Marhey SemiBold",
+          "type": "Regular",
+          "full_name": "Marhey SemiBold",
+          "post_script_name": "Marhey-SemiBold",
+          "version": "1.000",
+          "copyright": "Copyright 2022 The Marhey Project Authors (https://github.com/namelatype/Marhey)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "x3d8ck7Laq-T7wl7mqfVrEe9sDvtBRV3O2cXiGevOMw.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

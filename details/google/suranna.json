@@ -1,0 +1,58 @@
+{
+  "slug": "google/suranna",
+  "name": "suranna",
+  "description": "Suranna is a Telugu font developed mainly for the use in news publications. It has a unique shape due its heavy weight at the bottom of letters, and it includes many conjunct glyphs. Suranna is named after the Telugu poet from the court of the king Krishnadevaraya, and was one of the Astadiggajalu (literally eight legends) there. The Telugu is designed and developed by Purushoth Kumar Guttula in 2013 and made available by Silicon Andhra under the SIL Open Font License v1.1. The Latin is designed by Cyreal, a type foundry in Moscow Russia, and originally published as Prata . The Suranna project is led by Appaji Ambarisha Darbha, a type designer based in Hyderabad, India. To contribute, see github.com/appajid/suranna",
+  "homepage": "https://fonts.google.com/specimen/Suranna",
+  "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Prata'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Suranna",
+      "files": [
+        "https://fonts.gstatic.com/s/suranna/v15/gokuH6ztGkFjWe58tBRZT2KmgP0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suranna/v15/gokuH6ztGkFjWe58tBRZT2KmgP0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Suranna",
+      "files": [
+        "https://fonts.gstatic.com/s/suranna/v15/gokuH6ztGkFjWe58tBFZT2KmgP0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/suranna/v15/gokuH6ztGkFjWe58tBFZT2KmgP0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Suranna",
+      "styles": [
+        {
+          "family_name": "Suranna",
+          "type": "Regular",
+          "full_name": "Suranna",
+          "post_script_name": "Suranna",
+          "version": "1.0.5; ttfautohint (v1.2.42-39fb)",
+          "copyright": "Copyright (c) 2012 Andhrapradesh Society for Knowledge Networks (fonts.siliconandhra.org). Copyright (c) 2011, Cyreal (www.cyreal.org) with Reserved Font Name 'Prata'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "gokuH6ztGkFjWe58tBRZT2KmgP0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

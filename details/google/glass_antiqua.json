@@ -1,0 +1,58 @@
+{
+  "slug": "google/glass_antiqua",
+  "name": "glass_antiqua",
+  "description": "This is revival of the 1913 typeface \"Glass Antiqua\" by \"Genzsch &amp; Heyse\" found in the Taschen book \"Type: A Visual History of Typefaces and Graphic Styles, 1901-1938.\" A magnificent and unique design with a Jugenstile fleur, combining Slab Serif and Antiqua, plus elements of cursive calligraphy. It is suitable for any purpose, giving a text a retro feel and soft informal look. The character set is extended but the originals are carefully restored, and all are patiently spaced and kerned.",
+  "homepage": "https://fonts.google.com/specimen/Glass+Antiqua",
+  "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Glass Antiqua",
+      "files": [
+        "https://fonts.gstatic.com/s/glassantiqua/v26/xfu30Wr0Wn3NOQM2piC0uXOjnL_wN6fRUkY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/glassantiqua/v26/xfu30Wr0Wn3NOQM2piC0uXOjnL_wN6fRUkY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Glass Antiqua",
+      "files": [
+        "https://fonts.gstatic.com/s/glassantiqua/v26/xfu30Wr0Wn3NOQM2piC0uXOjnLrwN6fRUkY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/glassantiqua/v26/xfu30Wr0Wn3NOQM2piC0uXOjnLrwN6fRUkY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Glass Antiqua",
+      "styles": [
+        {
+          "family_name": "Glass Antiqua",
+          "type": "Regular",
+          "full_name": "Glass Antiqua",
+          "post_script_name": "GlassAntiqua-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011, Denis Masharov <denis.masharov@gmail.com>.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "xfu30Wr0Wn3NOQM2piC0uXOjnL_wN6fRUkY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

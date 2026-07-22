@@ -1,0 +1,58 @@
+{
+  "slug": "google/playwrite_de_grund_guides",
+  "name": "playwrite_de_grund_guides",
+  "description": "Playwrite DE Grund Guides font family",
+  "homepage": "https://fonts.google.com/specimen/Playwrite+DE+Grund+Guides",
+  "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Playwrite DE Grund Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX98TJlnjHAA.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX98TJlnjHAA.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Playwrite DE Grund Guides",
+      "files": [
+        "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX9oTJlnjHAA.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/playwritedegrundguides/v1/OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX9oTJlnjHAA.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Playwrite DE Grund Guides",
+      "styles": [
+        {
+          "family_name": "Playwrite DE Grund Guides",
+          "type": "Regular",
+          "full_name": "Playwrite DE Grund Guides Regular",
+          "post_script_name": "PlaywriteDEGrundGuides-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2023 The Playwrite Project Authors (https://github.com/TypeTogether/Playwrite)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "OD5RuNCQ02KrAHnha1L36CWcQ83dtK5BLxqexnduX98TJlnjHAA.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

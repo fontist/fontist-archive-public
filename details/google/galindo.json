@@ -1,0 +1,58 @@
+{
+  "slug": "google/galindo",
+  "name": "galindo",
+  "description": "The Galindo typeface is an inspired spin off light-hearted animated fonts with geometric counters.",
+  "homepage": "https://fonts.google.com/specimen/Galindo",
+  "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Galindo\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Galindo",
+      "files": [
+        "https://fonts.gstatic.com/s/galindo/v26/HI_KiYMeLqVKqwyuQ5HiRp-dhpQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/galindo/v26/HI_KiYMeLqVKqwyuQ5HiRp-dhpQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Galindo",
+      "files": [
+        "https://fonts.gstatic.com/s/galindo/v26/HI_KiYMeLqVKqwyuQ5TiRp-dhpQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/galindo/v26/HI_KiYMeLqVKqwyuQ5TiRp-dhpQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Galindo",
+      "styles": [
+        {
+          "family_name": "Galindo",
+          "type": "Regular",
+          "full_name": "Galindo",
+          "post_script_name": "Galindo-Regular",
+          "version": "1.000",
+          "copyright": "Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved\rFont Name \"Galindo\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "HI_KiYMeLqVKqwyuQ5HiRp-dhpQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

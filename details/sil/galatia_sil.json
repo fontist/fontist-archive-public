@@ -1,0 +1,47 @@
+{
+  "slug": "sil/galatia_sil",
+  "name": "Galatia SIL",
+  "description": "Galatia SIL",
+  "homepage": "http://www.sil.org",
+  "copyright": "Copyright (c) SIL International (http://www.sil.org/), 1995-2009. All rights reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://www.sil.org",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Galatia_SIL.zip": {
+      "urls": [
+        "https://software.sil.org/downloads/r/galatia/GalatiaSIL-2.1.zip",
+        "https://web.archive.org/web/20260505155334/https://software.sil.org/downloads/r/galatia/GalatiaSIL-2.1.zip"
+      ],
+      "sha256": "0d0a34646a18267c5147ee01448268098ebb00c4563eb6e9260037f2d171aa92",
+      "file_size": 158917
+    }
+  },
+  "fonts": [
+    {
+      "name": "Galatia SIL",
+      "styles": [
+        {
+          "family_name": "Galatia SIL",
+          "type": "Bold",
+          "full_name": "Galatia SIL Bold",
+          "post_script_name": "GalatiaSIL-Bold",
+          "version": "2.1",
+          "copyright": "Copyright (c) SIL International (http://www.sil.org/), 1995-2009. All rights reserved.",
+          "font": "GalSILB.ttf"
+        },
+        {
+          "family_name": "Galatia SIL",
+          "type": "Regular",
+          "full_name": "Galatia SIL",
+          "post_script_name": "GalatiaSIL",
+          "version": "2.1",
+          "copyright": "Copyright (c) SIL International (http://www.sil.org/), 1995-2009. All rights reserved.",
+          "font": "GalSILR.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

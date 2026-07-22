@@ -1,0 +1,58 @@
+{
+  "slug": "google/cantata_one",
+  "name": "cantata_one",
+  "description": "Foundry: Sorkin Type Co Cantata One is a high contrast extended Didone style text face. In addition to being useful in medium to large text sizes, Cantata One is meant to evoke luxury when used in display sizes. Cantata One was originally inspired by hand written letters made with a pointed pen on an old map handmade map of NYC. Source files are available from Google Code . To contribute to the project contact Eben Sorkin .",
+  "homepage": "https://fonts.google.com/specimen/Cantata+One",
+  "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Cantata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Cantata One",
+      "files": [
+        "https://fonts.gstatic.com/s/cantataone/v16/PlI5Fl60Nb5obNzNe2jslVxEt8CwfGaD.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cantataone/v16/PlI5Fl60Nb5obNzNe2jslVxEt8CwfGaD.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Cantata One",
+      "files": [
+        "https://fonts.gstatic.com/s/cantataone/v16/PlI5Fl60Nb5obNzNe2jslVxBt8CwfGaD.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/cantataone/v16/PlI5Fl60Nb5obNzNe2jslVxBt8CwfGaD.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cantata One",
+      "styles": [
+        {
+          "family_name": "Cantata One",
+          "type": "Regular",
+          "full_name": "CantataOne-Regular",
+          "post_script_name": "CantataOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011-2012, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Cantata\"\r\rThis Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "PlI5Fl60Nb5obNzNe2jslVxEt8CwfGaD.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

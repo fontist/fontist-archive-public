@@ -1,0 +1,58 @@
+{
+  "slug": "google/boldonse",
+  "name": "boldonse",
+  "description": "Boldonse font family",
+  "homepage": "https://fonts.google.com/specimen/Boldonse",
+  "copyright": "Copyright 2024 The Boldonse Project Authors (https://github.com/googlefonts/boldonse)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Boldonse",
+      "files": [
+        "https://fonts.gstatic.com/s/boldonse/v1/ZgNQjPxGPbbJUZemjC38hmHmNpCO.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/boldonse/v1/ZgNQjPxGPbbJUZemjC38hmHmNpCO.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Boldonse",
+      "files": [
+        "https://fonts.gstatic.com/s/boldonse/v1/ZgNQjPxGPbbJUZemjC35hmHmNpCO.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/boldonse/v1/ZgNQjPxGPbbJUZemjC35hmHmNpCO.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Boldonse",
+      "styles": [
+        {
+          "family_name": "Boldonse",
+          "type": "Regular",
+          "full_name": "Boldonse Regular",
+          "post_script_name": "Boldonse-Regular",
+          "version": "1.000; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2024 The Boldonse Project Authors (https://github.com/googlefonts/boldonse)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": false,
+          "font": "ZgNQjPxGPbbJUZemjC38hmHmNpCO.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

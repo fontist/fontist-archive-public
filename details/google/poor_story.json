@@ -1,0 +1,58 @@
+{
+  "slug": "google/poor_story",
+  "name": "poor_story",
+  "description": "Poor Story is a Korean and Latin font.",
+  "homepage": "https://fonts.google.com/specimen/Poor+Story",
+  "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Poor Story",
+      "files": [
+        "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd4OmnLD0Z4zM.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd4OmnLD0Z4zM.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Poor Story",
+      "files": [
+        "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd4OynLD0Z4zM.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/poorstory/v24/jizfREFUsnUct9P6cDfd4OynLD0Z4zM.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Poor Story",
+      "styles": [
+        {
+          "family_name": "Poor Story",
+          "type": "Regular",
+          "full_name": "Poor Story Regular",
+          "post_script_name": "PoorStory-Regular",
+          "version": "3.00",
+          "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "jizfREFUsnUct9P6cDfd4OmnLD0Z4zM.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

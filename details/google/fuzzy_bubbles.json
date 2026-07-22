@@ -1,0 +1,77 @@
+{
+  "slug": "google/fuzzy_bubbles",
+  "name": "fuzzy_bubbles",
+  "description": "Fuzzy Bubbles is a cute juvenile style. Playful and loose, its innocence is perfect for children's parties. It comes with Latin Character sets including Western, Central, and Vietnamese language support. To contribute, see github.com/googlefonts/fuzzy-bubbles .",
+  "homepage": "https://fonts.google.com/specimen/Fuzzy+Bubbles",
+  "copyright": "Copyright 2005 The Fuzzy Bubbles Project Authors (https://github.com/googlefonts/fuzzy-bubbles)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Fuzzy Bubbles",
+      "files": [
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLGKZMbrgv9pwtjPEVNV0F2NnP5Zxsreko.ttf",
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLbKZMbrgv9pwtjPEVNV0F2Ds_WQxMAZkM1pn4.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLGKZMbrgv9pwtjPEVNV0F2NnP5Zxsreko.ttf",
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLbKZMbrgv9pwtjPEVNV0F2Ds_WQxMAZkM1pn4.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Fuzzy Bubbles",
+      "files": [
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLGKZMbrgv9pwtjPEVNV0F2Nnb5Zxsreko.woff2",
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLbKZMbrgv9pwtjPEVNV0F2Ds_WQxYAZkM1pn4.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLGKZMbrgv9pwtjPEVNV0F2Nnb5Zxsreko.woff2",
+        "https://fonts.gstatic.com/s/fuzzybubbles/v9/6qLbKZMbrgv9pwtjPEVNV0F2Ds_WQxYAZkM1pn4.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Fuzzy Bubbles",
+      "styles": [
+        {
+          "family_name": "Fuzzy Bubbles",
+          "type": "Regular",
+          "full_name": "Fuzzy Bubbles Regular",
+          "post_script_name": "FuzzyBubbles-Regular",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2005 The Fuzzy Bubbles Project Authors (https://github.com/googlefonts/fuzzy-bubbles)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6qLGKZMbrgv9pwtjPEVNV0F2NnP5Zxsreko.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Fuzzy Bubbles",
+          "type": "Bold",
+          "full_name": "Fuzzy Bubbles Bold",
+          "post_script_name": "FuzzyBubbles-Bold",
+          "version": "1.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2005 The Fuzzy Bubbles Project Authors (https://github.com/googlefonts/fuzzy-bubbles)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6qLbKZMbrgv9pwtjPEVNV0F2Ds_WQxMAZkM1pn4.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/bilbo_swash_caps",
+  "name": "bilbo_swash_caps",
+  "description": "Bilbo Swash Caps is a sister family to the normal Bilbo . It is very legible calligraphic style that has a masculine feel. This family is ideal for headlines and other display uses, while the normal Bilbo can also be used in body copy that requires added warmth to a message.",
+  "homepage": "https://fonts.google.com/specimen/Bilbo+Swash+Caps",
+  "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net),\rwith Reserved Font Names \"Bilbo\" and \"Bilbo Swash Caps\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Bilbo Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/bilboswashcaps/v23/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdqAPopiRfKp8.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bilboswashcaps/v23/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdqAPopiRfKp8.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Bilbo Swash Caps",
+      "files": [
+        "https://fonts.gstatic.com/s/bilboswashcaps/v23/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdqAbopiRfKp8.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bilboswashcaps/v23/zrf-0GXbz-H3Wb4XBsGrTgq2PVmdqAbopiRfKp8.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bilbo Swash Caps",
+      "styles": [
+        {
+          "family_name": "Bilbo Swash Caps",
+          "type": "Regular",
+          "full_name": "Bilbo Swash Caps Regular",
+          "post_script_name": "BilboSwashCaps-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2011 TypeSETit, LLC (typesetit@att.net),\rwith Reserved Font Names \"Bilbo\" and \"Bilbo Swash Caps\"",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "zrf-0GXbz-H3Wb4XBsGrTgq2PVmdqAPopiRfKp8.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

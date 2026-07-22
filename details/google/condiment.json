@@ -1,0 +1,58 @@
+{
+  "slug": "google/condiment",
+  "name": "condiment",
+  "description": "Condiment adds flavor to your design. This font by Angel Koziupa and Ale Paul is prepared with powdered soft shapes mixed with brush-drawn letters.",
+  "homepage": "https://fonts.google.com/specimen/Condiment",
+  "copyright": "Copyright (c) 2010 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2010 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Condiment\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Condiment",
+      "files": [
+        "https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6Sq4n4o1vyCQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6Sq4n4o1vyCQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Condiment",
+      "files": [
+        "https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6Sron4o1vyCQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/condiment/v26/pONk1hggFNmwvXALyH6Sron4o1vyCQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Condiment",
+      "styles": [
+        {
+          "family_name": "Condiment",
+          "type": "Regular",
+          "full_name": "Condiment",
+          "post_script_name": "Condiment-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 Angel Koziupa (sudtipos@sudtipos.com),\rCopyright (c) 2010 Alejandro Paul (sudtipos@sudtipos.com),\rwith Reserved Font Name \"Condiment\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "pONk1hggFNmwvXALyH6Sq4n4o1vyCQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

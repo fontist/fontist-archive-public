@@ -1,0 +1,77 @@
+{
+  "slug": "google/sorts_mill_goudy",
+  "name": "sorts_mill_goudy",
+  "description": "A revival of Frederic Goudy's 'Goudy Oldstyle' with Regular and Italic styles, and extended Latin character coverage.",
+  "homepage": "https://fonts.google.com/specimen/Sorts+Mill+Goudy",
+  "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\r\n",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sorts Mill Goudy",
+      "files": [
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3GZR9MED_6PSuS_50nEaVrfzgEXH0OjpM75PE.ttf",
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH8EirE-9PGLfQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3GZR9MED_6PSuS_50nEaVrfzgEXH0OjpM75PE.ttf",
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH8EirE-9PGLfQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sorts Mill Goudy",
+      "files": [
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3GZR9MED_6PSuS_50nEaVrfzgEXHgOjpM75PE.woff2",
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH8Ej7E-9PGLfQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3GZR9MED_6PSuS_50nEaVrfzgEXHgOjpM75PE.woff2",
+        "https://fonts.gstatic.com/s/sortsmillgoudy/v16/Qw3AZR9MED_6PSuS_50nEaVrfzgEbH8Ej7E-9PGLfQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sorts Mill Goudy",
+      "styles": [
+        {
+          "family_name": "Sorts Mill Goudy",
+          "type": "Regular",
+          "full_name": "Sorts Mill Goudy Regular",
+          "post_script_name": "SortsMillGoudy-Regular",
+          "version": "003.101 ",
+          "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)\r\n",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Qw3GZR9MED_6PSuS_50nEaVrfzgEXH0OjpM75PE.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Sorts Mill Goudy",
+          "type": "Italic",
+          "full_name": "Sorts Mill Goudy Italic",
+          "post_script_name": "SortsMillGoudy-Italic",
+          "version": "003.101 ",
+          "copyright": "Copyright (c) 2010, Barry Schwartz (chemoelectric@chemoelectric.org)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "Qw3AZR9MED_6PSuS_50nEaVrfzgEbH8EirE-9PGLfQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

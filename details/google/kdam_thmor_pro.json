@@ -1,0 +1,58 @@
+{
+  "slug": "google/kdam_thmor_pro",
+  "name": "kdam_thmor_pro",
+  "description": "Kdam Thmor Pro is a revised design of \"Kdam Thmor\" which is one of Sovichet Tep's typefaces designed and published back in 2013 on Google Fonts. Kdam Thmor Pro is a modern display Khmer typeface based on the writing style of a brush used on a wall. It has an edgy style, a medium size and is suitable for headings and large typography. Gemunu Libre's Latin is used as the Latin counterpart in the project. To contribute, see github.com/sovichet/kdam-thmor-pro",
+  "homepage": "https://fonts.google.com/specimen/Kdam+Thmor+Pro",
+  "copyright": "Copyright 2022 The Kdam Thmor Pro Project Authors (https://www.github.com/sovichet/kdam-thmor-pro)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Kdam Thmor Pro",
+      "files": [
+        "https://fonts.gstatic.com/s/kdamthmorpro/v7/EJRPQgAzVdcI-Qdvt34jzurnGA7_j89I8ZWb.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kdamthmorpro/v7/EJRPQgAzVdcI-Qdvt34jzurnGA7_j89I8ZWb.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Kdam Thmor Pro",
+      "files": [
+        "https://fonts.gstatic.com/s/kdamthmorpro/v7/EJRPQgAzVdcI-Qdvt34jzurnGA76j89I8ZWb.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/kdamthmorpro/v7/EJRPQgAzVdcI-Qdvt34jzurnGA76j89I8ZWb.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kdam Thmor Pro",
+      "styles": [
+        {
+          "family_name": "Kdam Thmor Pro",
+          "type": "Regular",
+          "full_name": "Kdam Thmor Pro Regular",
+          "post_script_name": "KdamThmorPro-Regular",
+          "version": "1.003; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Kdam Thmor Pro Project Authors (https://www.github.com/sovichet/kdam-thmor-pro)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "EJRPQgAzVdcI-Qdvt34jzurnGA7_j89I8ZWb.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

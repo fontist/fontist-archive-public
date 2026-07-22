@@ -1,0 +1,58 @@
+{
+  "slug": "google/crafty_girls",
+  "name": "crafty_girls",
+  "description": "Crafty Girls is inspired by crochet hooks, yarn, button boxes, thread, and glitter. This delightfully playful casual handwriting script font was hand drawn by Crystal Kluge and makes the perfect compliment to all your projects. Use it in your very best creative projects, then blog about them in the same font!",
+  "homepage": "https://fonts.google.com/specimen/Crafty+Girls",
+  "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Tart Workshop. All rights reserved.",
+  "spdx_license": "Apache-2.0",
+  "license_url": "http://www.apache.org/licenses/LICENSE-2.0",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Crafty Girls",
+      "files": [
+        "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NvuQR37fF3Wlg.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NvuQR37fF3Wlg.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Crafty Girls",
+      "files": [
+        "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NvuRB37fF3Wlg.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/craftygirls/v16/va9B4kXI39VaDdlPJo8N_NvuRB37fF3Wlg.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Crafty Girls",
+      "styles": [
+        {
+          "family_name": "Crafty Girls",
+          "type": "Regular",
+          "full_name": "Crafty Girls Regular",
+          "post_script_name": "CraftyGirls-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2010 by Font Diner, Inc DBA Tart Workshop. All rights reserved.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "variable_font": false,
+          "font": "va9B4kXI39VaDdlPJo8N_NvuQR37fF3Wlg.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

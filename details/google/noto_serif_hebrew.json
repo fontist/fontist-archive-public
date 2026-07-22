@@ -1,0 +1,253 @@
+{
+  "slug": "google/noto_serif_hebrew",
+  "name": "noto_serif_hebrew",
+  "description": "Noto is a global font collection for writing in all modern and ancient languages. Noto Serif Hebrew is a modulated (“serif”) design for texts in the Middle Eastern Hebrew script. It has multiple weights and widths, and 150 glyphs.",
+  "homepage": "https://fonts.google.com/specimen/Noto+Serif+Hebrew",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Noto Serif Hebrew",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwTAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwSAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVFISAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVD4SAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVNIVAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVOsVAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwVAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVKUVAGo_vlQxz24.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwTAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwSAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVFISAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVD4SAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVNIVAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVOsVAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwVAGo_vlQxz24.woff2",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVKUVAGo_vlQxz24.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Noto Serif Hebrew",
+      "files": [
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwTAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwSAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVFISAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVD4SAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVNIVAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVOsVAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwVAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVKUVAG8_vlQxz24.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwTAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwSAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVFISAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVD4SAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVNIVAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVOsVAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwVAG8_vlQxz24.ttf",
+        "https://fonts.gstatic.com/s/notoserifhebrew/v30/k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVKUVAG8_vlQxz24.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "wdth",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Serif Hebrew Thin",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew Thin",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew Thin",
+          "post_script_name": "NotoSerifHebrew-Thin",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwTAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew ExtraLight",
+          "post_script_name": "NotoSerifHebrew-ExtraLight",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwSAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew Light",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew Light",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew Light",
+          "post_script_name": "NotoSerifHebrew-Light",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVFISAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew Regular",
+          "post_script_name": "NotoSerifHebrew-Regular",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVAwSAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Noto Serif Hebrew",
+          "type": "Bold",
+          "full_name": "Noto Serif Hebrew Bold",
+          "post_script_name": "NotoSerifHebrew-Bold",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVOsVAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew Medium",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew Medium",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew Medium",
+          "post_script_name": "NotoSerifHebrew-Medium",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVD4SAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew SemiBold",
+          "post_script_name": "NotoSerifHebrew-SemiBold",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVNIVAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew ExtraBold",
+          "post_script_name": "NotoSerifHebrew-ExtraBold",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVIwVAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noto Serif Hebrew Black",
+      "styles": [
+        {
+          "family_name": "Noto Serif Hebrew Black",
+          "type": "Regular",
+          "full_name": "Noto Serif Hebrew Black",
+          "post_script_name": "NotoSerifHebrew-Black",
+          "version": "2.004",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/hebrew)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "k3k0o9MMPvpLmixYH7euCwmkS9DohjX1-kRyiqyBqIxnoLbp93i9IKrXKF_qVKUVAG8_vlQxz24.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

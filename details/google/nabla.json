@@ -1,0 +1,66 @@
+{
+  "slug": "google/nabla",
+  "name": "nabla",
+  "description": "Typearture's Nabla: an Isometric COLRv1 font Nabla is a color font inspired by isometric computer games, built using the COLRv1 format. This format allows for smooth gradients, sharp highlights and blended shadows, resulting in a bold and vibrant design. It includes two font variations axes, one for the depth of the letters, the other for the thickness of the highlight, and includes multiple color palettes. This font uses the COLRv1, CPAL and SVG tables. Please visit the gf-guide color page to learn more about Color Fonts technology. Designed by Arthur Reinders Folmer, created with the magic of Just van Rossum. To contribute, see github.com/justvanrossum/nabla .",
+  "homepage": "https://fonts.google.com/specimen/Nabla",
+  "copyright": "Copyright 2022 The Nabla Project Authors (https://github.com/justvanrossum/nabla)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Nabla",
+      "files": [
+        "https://fonts.gstatic.com/s/nabla/v17/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRVUFFR_198.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nabla/v17/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRVUFFR_198.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "EDPT",
+        "EHLT"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Nabla",
+      "files": [
+        "https://fonts.gstatic.com/s/nabla/v17/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRBUFFR_198.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/nabla/v17/j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRBUFFR_198.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "EDPT",
+        "EHLT"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nabla",
+      "styles": [
+        {
+          "family_name": "Nabla",
+          "type": "Regular",
+          "full_name": "Nabla Regular",
+          "post_script_name": "Nabla-Regular",
+          "version": "1.003",
+          "copyright": "Copyright 2022 The Nabla Project Authors (https://github.com/justvanrossum/nabla)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "j8_D6-LI0Lvpe7Makz5UhJt9C3uqg_X_75gyGS4jAxsNIjrRNRBUFFR_198.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

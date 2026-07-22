@@ -1,0 +1,58 @@
+{
+  "slug": "google/combo",
+  "name": "combo",
+  "description": "Combo has a simple structure, based on the elliptical arcs and strokes of a flat-tipped marker pen. This display typeface is suitable for use in advertisements, headlines and short texts.",
+  "homepage": "https://fonts.google.com/specimen/Combo",
+  "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Combo'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Combo",
+      "files": [
+        "https://fonts.gstatic.com/s/combo/v22/BXRlvF3Jh_fIhg0iBu9y8Hf0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/combo/v22/BXRlvF3Jh_fIhg0iBu9y8Hf0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Combo",
+      "files": [
+        "https://fonts.gstatic.com/s/combo/v22/BXRlvF3Jh_fIhg0nBu9y8Hf0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/combo/v22/BXRlvF3Jh_fIhg0nBu9y8Hf0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Combo",
+      "styles": [
+        {
+          "family_name": "Combo",
+          "type": "Regular",
+          "full_name": "Combo",
+          "post_script_name": "Combo-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Combo'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "BXRlvF3Jh_fIhg0iBu9y8Hf0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

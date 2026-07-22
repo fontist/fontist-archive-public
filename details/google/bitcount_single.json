@@ -1,0 +1,259 @@
+{
+  "slug": "google/bitcount_single",
+  "name": "bitcount_single",
+  "description": "Bitcount Single font family",
+  "homepage": "https://fonts.google.com/specimen/Bitcount+Single",
+  "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Bitcount Single",
+      "files": [
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKC4tdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKCotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8iUCotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8j4CotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gUDYtdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gtDYtdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKDYtdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hjDYtdzXjwevWm.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKC4tdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKCotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8iUCotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8j4CotdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gUDYtdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gtDYtdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKDYtdzXjwevWm.woff2",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hjDYtdzXjwevWm.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "CRSV",
+        "ELSH",
+        "ELXP",
+        "slnt",
+        "wght"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Bitcount Single",
+      "files": [
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKC4tYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKCotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8iUCotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8j4CotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gUDYtYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gtDYtYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKDYtYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hjDYtYzXjwevWm.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKC4tYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKCotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8iUCotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8j4CotYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gUDYtYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gtDYtYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKDYtYzXjwevWm.ttf",
+        "https://fonts.gstatic.com/s/bitcountsingle/v3/or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hjDYtYzXjwevWm.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "CRSV",
+        "ELSH",
+        "ELXP",
+        "slnt",
+        "wght"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bitcount Single Thin",
+      "styles": [
+        {
+          "family_name": "Bitcount Single Thin",
+          "type": "Regular",
+          "full_name": "Bitcount Single Thin",
+          "post_script_name": "BitcountSingle-Thin",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKC4tYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single ExtraLight",
+      "styles": [
+        {
+          "family_name": "Bitcount Single ExtraLight",
+          "type": "Regular",
+          "full_name": "Bitcount Single ExtraLight",
+          "post_script_name": "BitcountSingle-ExtraLight",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKCotYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single Light",
+      "styles": [
+        {
+          "family_name": "Bitcount Single Light",
+          "type": "Regular",
+          "full_name": "Bitcount Single Light",
+          "post_script_name": "BitcountSingle-Light",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8iUCotYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single",
+      "styles": [
+        {
+          "family_name": "Bitcount Single",
+          "type": "Regular",
+          "full_name": "Bitcount Single Regular",
+          "post_script_name": "BitcountSingle-Regular",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8jKCotYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Bitcount Single",
+          "type": "Bold",
+          "full_name": "Bitcount Single Bold",
+          "post_script_name": "BitcountSingle-Bold",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gtDYtYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single Medium",
+      "styles": [
+        {
+          "family_name": "Bitcount Single Medium",
+          "type": "Regular",
+          "full_name": "Bitcount Single Medium",
+          "post_script_name": "BitcountSingle-Medium",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8j4CotYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single SemiBold",
+      "styles": [
+        {
+          "family_name": "Bitcount Single SemiBold",
+          "type": "Regular",
+          "full_name": "Bitcount Single SemiBold",
+          "post_script_name": "BitcountSingle-SemiBold",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8gUDYtYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single ExtraBold",
+      "styles": [
+        {
+          "family_name": "Bitcount Single ExtraBold",
+          "type": "Regular",
+          "full_name": "Bitcount Single ExtraBold",
+          "post_script_name": "BitcountSingle-ExtraBold",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hKDYtYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bitcount Single Black",
+      "styles": [
+        {
+          "family_name": "Bitcount Single Black",
+          "type": "Regular",
+          "full_name": "Bitcount Single Black",
+          "post_script_name": "BitcountSingle-Black",
+          "version": "1.0",
+          "copyright": "Copyright 2024 The Bitcount Project Authors (https://github.com/petrvanblokland/TYPETR-Bitcount)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+          "variable_font": true,
+          "font": "or25Q6T72-iP2RY6OLSkb95a817cjULDyyhvb6tTxCxtAOObpH9NnfLjSWiXv_OGqtjRD0BNzrItMZWC-9SK8R6EpA2l9RAyOs8BbxT7gd3xw8hjDYtYzXjwevWm.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

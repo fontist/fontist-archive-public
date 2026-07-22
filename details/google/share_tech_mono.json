@@ -1,0 +1,58 @@
+{
+  "slug": "google/share_tech_mono",
+  "name": "share_tech_mono",
+  "description": "Share Tech Mono is a monospaced sans serif, based on the Share family. There is also Share Tech , a proportionally spaced version. Updated, July 2015: 'fi' ligature issue fixed.",
+  "homepage": "https://fonts.google.com/specimen/Share+Tech+Mono",
+  "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Share Tech Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFc7pAsEIc3Xew.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFc7pAsEIc3Xew.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Share Tech Mono",
+      "files": [
+        "https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFc7oQsEIc3Xew.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sharetechmono/v16/J7aHnp1uDWRBEqV98dVQztYldFc7oQsEIc3Xew.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Share Tech Mono",
+      "styles": [
+        {
+          "family_name": "Share Tech Mono",
+          "type": "Regular",
+          "full_name": "Share Tech Mono",
+          "post_script_name": "ShareTechMono-Regular",
+          "version": "1.003",
+          "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "J7aHnp1uDWRBEqV98dVQztYldFc7pAsEIc3Xew.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,58 @@
+{
+  "slug": "google/butterfly_kids",
+  "name": "butterfly_kids",
+  "description": "Cute and flirty, Butterfly Kids flits about spreading cheer! Be fun. Be cute. Be happy!",
+  "homepage": "https://fonts.google.com/specimen/Butterfly+Kids",
+  "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Butterfly Kids\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Butterfly Kids",
+      "files": [
+        "https://fonts.gstatic.com/s/butterflykids/v27/ll8lK2CWTjuqAsXDqlnIbMNs5S4arxFrAX1D.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/butterflykids/v27/ll8lK2CWTjuqAsXDqlnIbMNs5S4arxFrAX1D.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Butterfly Kids",
+      "files": [
+        "https://fonts.gstatic.com/s/butterflykids/v27/ll8lK2CWTjuqAsXDqlnIbMNs5S4frxFrAX1D.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/butterflykids/v27/ll8lK2CWTjuqAsXDqlnIbMNs5S4frxFrAX1D.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Butterfly Kids",
+      "styles": [
+        {
+          "family_name": "Butterfly Kids",
+          "type": "Regular",
+          "full_name": "Butterfly Kids Regular",
+          "post_script_name": "ButterflyKids-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012 by Font Diner, Inc DBA Tart Workshop (diner@fontdiner.com) with Reseved Font Name \"Butterfly Kids\"",
+          "description": "This Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "ll8lK2CWTjuqAsXDqlnIbMNs5S4arxFrAX1D.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

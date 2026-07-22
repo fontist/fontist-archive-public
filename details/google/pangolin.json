@@ -1,0 +1,58 @@
+{
+  "slug": "google/pangolin",
+  "name": "pangolin",
+  "description": "Pangolin was designed for the Google Valentine's Day 2017 Doodle, Pangolin Love . A pangolin is an endangered species native to Asia and Africa. The font is a sans serif handwriting style. It supports many languages that use the Latin and Cyrillic scripts.",
+  "homepage": "https://fonts.google.com/specimen/Pangolin",
+  "copyright": "Copyright 2016 The Pangolin Project Authors (https://github.com/googlefonts/pangolin)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Pangolin",
+      "files": [
+        "https://fonts.gstatic.com/s/pangolin/v12/cY9GfjGcW0FPpi-tWPfK5d3aiLBG.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pangolin/v12/cY9GfjGcW0FPpi-tWPfK5d3aiLBG.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Pangolin",
+      "files": [
+        "https://fonts.gstatic.com/s/pangolin/v12/cY9GfjGcW0FPpi-tWPfP5d3aiLBG.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/pangolin/v12/cY9GfjGcW0FPpi-tWPfP5d3aiLBG.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Pangolin",
+      "styles": [
+        {
+          "family_name": "Pangolin",
+          "type": "Regular",
+          "full_name": "Pangolin Regular",
+          "post_script_name": "Pangolin-Regular",
+          "version": "1.100",
+          "copyright": "Copyright 2016 The Pangolin Project Authors (https://github.com/googlefonts/pangolin)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "cY9GfjGcW0FPpi-tWPfK5d3aiLBG.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

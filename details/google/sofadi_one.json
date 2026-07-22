@@ -1,0 +1,58 @@
+{
+  "slug": "google/sofadi_one",
+  "name": "sofadi_one",
+  "description": "Sofadi is a fun font that blends jungle thoughts and liquid minds.",
+  "homepage": "https://fonts.google.com/specimen/Sofadi+One",
+  "copyright": "Copyright (c) 2011 by Botjo Nikoltchev, with Reserved Font Name 'Sofadi One'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Sofadi One",
+      "files": [
+        "https://fonts.gstatic.com/s/sofadione/v22/JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sofadione/v22/JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Sofadi One",
+      "files": [
+        "https://fonts.gstatic.com/s/sofadione/v22/JIA2UVBxdnVBuElZaMFGcDaIETkmYDU.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/sofadione/v22/JIA2UVBxdnVBuElZaMFGcDaIETkmYDU.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sofadi One",
+      "styles": [
+        {
+          "family_name": "Sofadi One",
+          "type": "Regular",
+          "full_name": "Sofadi One Regular",
+          "post_script_name": "SofadiOne-Regular",
+          "version": "1.002",
+          "copyright": "Copyright (c) 2011 by Botjo Nikoltchev, with Reserved Font Name 'Sofadi One'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "JIA2UVBxdnVBuElZaMFGcDOIETkmYDU.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

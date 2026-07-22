@@ -1,0 +1,58 @@
+{
+  "slug": "google/allerta",
+  "name": "allerta",
+  "description": "Allerta is an open source typeface designed for use in signage. Allerta was designed to be easily and quickly read from a distance. Each letter exploits the most unique aspects of that individual letter so that each character can be easily distinguished from any other. Initially published at matt.cc/allerta .",
+  "homepage": "https://fonts.google.com/specimen/Allerta",
+  "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>\n",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Allerta",
+      "files": [
+        "https://fonts.gstatic.com/s/allerta/v19/TwMO-IAHRlkbx940UnEdSQqO5uY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allerta/v19/TwMO-IAHRlkbx940UnEdSQqO5uY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Allerta",
+      "files": [
+        "https://fonts.gstatic.com/s/allerta/v19/TwMO-IAHRlkbx940UnQdSQqO5uY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/allerta/v19/TwMO-IAHRlkbx940UnQdSQqO5uY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Allerta",
+      "styles": [
+        {
+          "family_name": "Allerta",
+          "type": "Regular",
+          "full_name": "Allerta Regular",
+          "post_script_name": "Allerta-Regular",
+          "version": "1.0 ",
+          "copyright": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com>\n",
+          "description": "Copyright (c) 2009, Matt McInerney <matt@pixelspread.com> with Reserved Font Name Allerta.",
+          "variable_font": false,
+          "font": "TwMO-IAHRlkbx940UnEdSQqO5uY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

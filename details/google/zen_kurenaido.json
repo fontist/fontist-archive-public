@@ -1,0 +1,58 @@
+{
+  "slug": "google/zen_kurenaido",
+  "name": "zen_kurenaido",
+  "description": "Zen Kurenaido is a Japanese font with a handwritten feeling. The brush-like elements are omitted from the design, leaving only the bones of the letter, resulting in an impression of ballpoint handwriting. To contribute to the project, visit github.com/googlefonts/zen-kurenaido Zen Kurenaido は手書きの持ち味を活かした新しい日本語書体のデザインです 毛筆的な要素が取り除かれ、文字の骨格だけが残されているので、ボールペンで書いたような印象を与えるフォントです。 このプロジェクトに参加して貢献したい方は、次の URL をご参照ください github.com/googlefonts/zen-kurenaido 。 To learn more, read Say Hello to our big new Japanese collection with Zen Fonts (English), The Story of Zen Fonts - interview with Yoshimichi Ohira (English), Zenフォント: 新しい日本語フォントコレクションの登場 - 日本語フォントの複雑な美しさについて - (Japanese), and Zenフォントのおはなし：大平善道さんとのインタビュー (Japanese).",
+  "homepage": "https://fonts.google.com/specimen/Zen+Kurenaido",
+  "copyright": "Copyright 2021 The Zen Kurenaido Project Authors (https://github.com/googlefonts/zen-kurenaido)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zen Kurenaido",
+      "files": [
+        "https://fonts.gstatic.com/s/zenkurenaido/v19/3XFsEr0515BK2u6UUptu_gWJZfz22PRLd0U.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenkurenaido/v19/3XFsEr0515BK2u6UUptu_gWJZfz22PRLd0U.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zen Kurenaido",
+      "files": [
+        "https://fonts.gstatic.com/s/zenkurenaido/v19/3XFsEr0515BK2u6UUptu_gWJZfn22PRLd0U.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zenkurenaido/v19/3XFsEr0515BK2u6UUptu_gWJZfn22PRLd0U.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zen Kurenaido",
+      "styles": [
+        {
+          "family_name": "Zen Kurenaido",
+          "type": "Regular",
+          "full_name": "Zen Kurenaido Regular",
+          "post_script_name": "ZenKurenaido-Regular",
+          "version": "1.001",
+          "copyright": "Copyright 2021 The Zen Kurenaido Project Authors (https://github.com/googlefonts/zen-kurenaido)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "3XFsEr0515BK2u6UUptu_gWJZfz22PRLd0U.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

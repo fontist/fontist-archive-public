@@ -1,0 +1,58 @@
+{
+  "slug": "google/metal",
+  "name": "metal",
+  "description": "Metal is a Khmer font with a design similar to the Khmer Italic metal types published in Cambodia before 1970. To contribute, see github.com/danhhong/Metal .",
+  "homepage": "https://fonts.google.com/specimen/Metal",
+  "copyright": "Copyright 2019 The Metal Project Authors (https://github.com/danhhong/Metal)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Metal",
+      "files": [
+        "https://fonts.gstatic.com/s/metal/v32/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/metal/v32/lW-wwjUJIXTo7i3nnoQAUdN2.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Metal",
+      "files": [
+        "https://fonts.gstatic.com/s/metal/v32/lW-wwjUJIXTo7i3inoQAUdN2.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/metal/v32/lW-wwjUJIXTo7i3inoQAUdN2.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Metal",
+      "styles": [
+        {
+          "family_name": "Metal",
+          "type": "Regular",
+          "full_name": "Metal Regular",
+          "post_script_name": "Metal-Regular",
+          "version": "8.002; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Metal Project Authors (https://github.com/danhhong/Metal)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "lW-wwjUJIXTo7i3nnoQAUdN2.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

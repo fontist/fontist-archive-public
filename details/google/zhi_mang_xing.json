@@ -1,0 +1,58 @@
+{
+  "slug": "google/zhi_mang_xing",
+  "name": "zhi_mang_xing",
+  "description": "ZhiMang is a classic running script based on the handwritten calligraphy of Wei Zhimang. Running script is a semi-cursive style in which strokes within the character run together, but the characters themselves remain separated. In its singularity and richness, ZhiMang is reminiscent of works by celebrated calligrapher Wu Changshuo.",
+  "homepage": "https://fonts.google.com/specimen/Zhi+Mang+Xing",
+  "copyright": "Copyright 2018 The ZhiMangXing Project Authors (https://github.com/googlefonts/zhimangxing)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Zhi Mang Xing",
+      "files": [
+        "https://fonts.gstatic.com/s/zhimangxing/v19/f0Xw0ey79sErYFtWQ9a2rq-g0actfektIJ0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zhimangxing/v19/f0Xw0ey79sErYFtWQ9a2rq-g0actfektIJ0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Zhi Mang Xing",
+      "files": [
+        "https://fonts.gstatic.com/s/zhimangxing/v19/f0Xw0ey79sErYFtWQ9a2rq-g0aItfektIJ0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/zhimangxing/v19/f0Xw0ey79sErYFtWQ9a2rq-g0aItfektIJ0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Zhi Mang Xing",
+      "styles": [
+        {
+          "family_name": "Zhi Mang Xing",
+          "type": "Regular",
+          "full_name": "Zhi Mang Xing Regular",
+          "post_script_name": "ZhiMangXing-Regular",
+          "version": "2.001",
+          "copyright": "Copyright 2018 The ZhiMangXing Project Authors (https://github.com/googlefonts/zhimangxing)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "f0Xw0ey79sErYFtWQ9a2rq-g0actfektIJ0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

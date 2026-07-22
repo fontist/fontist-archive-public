@@ -1,0 +1,57 @@
+{
+  "slug": "google/flavors",
+  "name": "flavors",
+  "description": "Does your blog taste bland? Is you website cooked up from the same old recipe? Ladies and gentlemen, we have the missing ingredient! With Flavors you'll get the zest and zing not found in those boring vanilla fonts. Another tasty typeface designed by Squid and brought to you by Dave 'Squid' Cohen of Sideshow",
+  "homepage": "https://fonts.google.com/specimen/Flavors",
+  "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Flavors\"",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Flavors",
+      "files": [
+        "https://fonts.gstatic.com/s/flavors/v28/FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/flavors/v28/FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Flavors",
+      "files": [
+        "https://fonts.gstatic.com/s/flavors/v28/FBV2dDrhxqmveJTpbknlNqkG9UY.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/flavors/v28/FBV2dDrhxqmveJTpbknlNqkG9UY.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Flavors",
+      "styles": [
+        {
+          "family_name": "Flavors",
+          "type": "Regular",
+          "full_name": "Flavors Regular",
+          "post_script_name": "Flavors-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2011 by Font Diner, Inc DBA Sideshow (diner@fontdiner.com) with Reseved Font Name \"Flavors\"",
+          "variable_font": false,
+          "font": "FBV2dDrhxqmveJTpbkzlNqkG9UY.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

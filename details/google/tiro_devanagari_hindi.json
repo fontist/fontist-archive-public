@@ -1,0 +1,77 @@
+{
+  "slug": "google/tiro_devanagari_hindi",
+  "name": "tiro_devanagari_hindi",
+  "description": "Tiro Devanagari Hindi has its origins in a typeface designed for the Murty Classical Library of India book series, so is especially suited to traditional literary publishing but also made with the needs of today’s multiple print and screen media in mind. The Tiro Devanagari design applies a contemporary approach to the traditional styling of 19th and 20th Century metal types exemplified in those of the renowned Nirnaya Sagar Press, and is characterised by broader proportions, more generous counters, and strong diagonal strokes and terminals. The Hindi font balances traditional and modern forms of conjuncts. For the Open Font License release, Tiro Devanagari Hindi has been extended to support additional characters, and features a new italic companion. Each font also includes a Latin subset including diacritics for transcription of Indian languages. Tiro Devanagari Hindi was designed by John Hudson and Fiona Ross. The italic was adapted by Paul Hanslow. To contribute, see github.com/TiroTypeworks/Indigo . To learn more, read Modern Tiro Indic collection for classical South Asian texts .",
+  "homepage": "https://fonts.google.com/specimen/Tiro+Devanagari+Hindi",
+  "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Tiro Devanagari Hindi",
+      "files": [
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9fSOkOfG0Y3A.ttf",
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSuMKXmgI3F_o.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9fSOkOfG0Y3A.ttf",
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSuMKXmgI3F_o.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Tiro Devanagari Hindi",
+      "files": [
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9fTekOfG0Y3A.woff2",
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSuMPXmgI3F_o.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9fTekOfG0Y3A.woff2",
+        "https://fonts.gstatic.com/s/tirodevanagarihindi/v5/55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSuMPXmgI3F_o.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tiro Devanagari Hindi",
+      "styles": [
+        {
+          "family_name": "Tiro Devanagari Hindi",
+          "type": "Regular",
+          "full_name": "Tiro Devanagari Hindi Regular",
+          "post_script_name": "TiroDevaHindi-Regular",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "55xyezN7P8T4e0_CfIJrwdodg9HoYw0i-M9fSOkOfG0Y3A.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        },
+        {
+          "family_name": "Tiro Devanagari Hindi",
+          "type": "Italic",
+          "full_name": "Tiro Devanagari Hindi Italic",
+          "post_script_name": "TiroDevaHindi-Italic",
+          "version": "1.52",
+          "copyright": "Copyright 2020 The Indigo Project Authors (https://github.com/TiroTypeworks/Indigo)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "55x8ezN7P8T4e0_CfIJrwdodg9HoYw0i-M9vSuMKXmgI3F_o.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

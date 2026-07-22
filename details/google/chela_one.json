@@ -1,0 +1,58 @@
+{
+  "slug": "google/chela_one",
+  "name": "chela_one",
+  "description": "Chela One is a bold and condensed brush script typeface from Chilean type foundry LatinoType .",
+  "homepage": "https://fonts.google.com/specimen/Chela+One",
+  "copyright": "Copyright (c) 2012 by LatinoType (www.latinotype.com), with Reserved Font Name 'Chela'",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Chela One",
+      "files": [
+        "https://fonts.gstatic.com/s/chelaone/v22/6ae-4KC7Uqgdz_JZdPIy31vWNTMwoQ.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chelaone/v22/6ae-4KC7Uqgdz_JZdPIy31vWNTMwoQ.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Chela One",
+      "files": [
+        "https://fonts.gstatic.com/s/chelaone/v22/6ae-4KC7Uqgdz_JZdPIy2lvWNTMwoQ.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/chelaone/v22/6ae-4KC7Uqgdz_JZdPIy2lvWNTMwoQ.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Chela One",
+      "styles": [
+        {
+          "family_name": "Chela One",
+          "type": "Regular",
+          "full_name": "Chela One",
+          "post_script_name": "ChelaOne-Regular",
+          "version": "1.001",
+          "copyright": "Copyright (c) 2012 by LatinoType (www.latinotype.com), with Reserved Font Name 'Chela'",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "6ae-4KC7Uqgdz_JZdPIy31vWNTMwoQ.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

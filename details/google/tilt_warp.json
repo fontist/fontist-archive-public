@@ -1,0 +1,66 @@
+{
+  "slug": "google/tilt_warp",
+  "name": "tilt_warp",
+  "description": "Tilt is a family of type inspired by the dimensional lettering found in storefront signage. It’s comprised of three related variable font styles that you might find in a shop window — Tilt Neon , Tilt Prism , and Tilt Warp. All three are based around the same letter model of a sign painter’s geometric sans serif, similar to the typefaces Futura or Avant Garde, but with the kinds of details you might expect to see when the letter is built up with a brush. The three styles are designed and built as variable fonts. They allow users to rotate the orientation of their glyphs with “Rotation in X” and “Rotation in Y” axes. The rotation is limited to ±45° so that the letterforms never rotate past a readable range. To contribute, see github.com/googlefonts/Tilt-Fonts .",
+  "homepage": "https://fonts.google.com/specimen/Tilt+Warp",
+  "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "woff2",
+  "resources": {
+    "woff2_variable": {
+      "source": "google",
+      "family": "Tilt Warp",
+      "files": [
+        "https://fonts.gstatic.com/s/tiltwarp/v18/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTB0AVfMGOPb.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiltwarp/v18/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTB0AVfMGOPb.woff2"
+      ],
+      "format": "woff2",
+      "variable_axes": [
+        "XROT",
+        "YROT"
+      ]
+    },
+    "ttf_variable": {
+      "source": "google",
+      "family": "Tilt Warp",
+      "files": [
+        "https://fonts.gstatic.com/s/tiltwarp/v18/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTBxAVfMGOPb.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/tiltwarp/v18/AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTBxAVfMGOPb.ttf"
+      ],
+      "format": "ttf",
+      "variable_axes": [
+        "XROT",
+        "YROT"
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tilt Warp",
+      "styles": [
+        {
+          "family_name": "Tilt Warp",
+          "type": "Regular",
+          "full_name": "Tilt Warp Regular",
+          "post_script_name": "TiltWarp-Regular",
+          "version": "1.000",
+          "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "variable_font": true,
+          "font": "AlZc_zVDs5XpmO7yn3w7flUoytXJp3z29uEwmEMLEJljLXvT8UJSZTBxAVfMGOPb.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

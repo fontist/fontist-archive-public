@@ -1,0 +1,58 @@
+{
+  "slug": "google/alice",
+  "name": "alice",
+  "description": "Ksenia Erulevich, designer of the Alice typeface, was inspired by Lewis Carrol's novel and decided to make a typeface that will be suitable for typesetting that book. It came out eclectic and quaint, old-fashioned, having widened proportions, open aperture, and soft rounded features; perfect for long meditative text-setting and headlines. This is in fact Ksenia's first typeface, as part of her diploma project in a Type and Typography course in Moscow, Russia. Released by Cyreal with help from Gayaneh Bagdasaryan and Alexei Vanyashin. To contribute, see github.com/cyrealtype/Alice .",
+  "homepage": "https://fonts.google.com/specimen/Alice",
+  "copyright": "Copyright 2011 The Alice Project Authors (https://github.com/cyrealtype/Alice)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "ttf_static": {
+      "source": "google",
+      "family": "Alice",
+      "files": [
+        "https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6FcJpA_chzJ0.ttf"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6FcJpA_chzJ0.ttf"
+      ],
+      "format": "ttf"
+    },
+    "woff2_static": {
+      "source": "google",
+      "family": "Alice",
+      "files": [
+        "https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6FcMpA_chzJ0.woff2"
+      ],
+      "urls": [
+        "https://fonts.gstatic.com/s/alice/v21/OpNCnoEEmtHa6FcMpA_chzJ0.woff2"
+      ],
+      "format": "woff2"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Alice",
+      "styles": [
+        {
+          "family_name": "Alice",
+          "type": "Regular",
+          "full_name": "Alice Regular",
+          "post_script_name": "Alice-Regular",
+          "version": "2.003; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2011 The Alice Project Authors (https://github.com/cyrealtype/Alice)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "variable_font": false,
+          "font": "OpNCnoEEmtHa6FcJpA_chzJ0.ttf",
+          "formats": [
+            "ttf",
+            "woff2"
+          ]
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}
