@@ -1,0 +1,67 @@
+{
+  "slug": "macos/font7/founders_grotesk_condensed_10m1360",
+  "name": "Founders Grotesk Condensed",
+  "description": "Founders Grotesk Condensed",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010 Klim Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.klim.co.nz/licensing.php",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c26ab94b39476e88b6394d26def0f8322fb57376.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/c26ab94b39476e88b6394d26def0f8322fb57376.zip"
+      ],
+      "sha256": "39a35138dd7403c5eec4d7dc1d55ad00cd76556daff20a8a6a83c3e2152536ef",
+      "file_size": 94115
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "FoundersGroteskCondensed.ttc",
+      "fonts": [
+        {
+          "name": "Founders Grotesk Cond Bold",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Cond Bold",
+              "type": "Regular",
+              "full_name": "FoundersGroteskCond-Bold",
+              "post_script_name": "FoundersGroteskCond-Bold",
+              "version": "15.0d1e3",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Cond Reg",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Cond Reg",
+              "type": "Regular",
+              "full_name": "FoundersGroteskCond-Reg",
+              "post_script_name": "FoundersGroteskCond-Reg",
+              "version": "15.0d1e3",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Cond SmBd",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Cond SmBd",
+              "type": "Regular",
+              "full_name": "FoundersGroteskCond-SmBd",
+              "post_script_name": "FoundersGroteskCond-SmBd",
+              "version": "15.0d1e3",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "comic",
+  "name": "Comic",
+  "description": "Microsoft TrueType Core fonts for the Web",
+  "homepage": "https://www.microsoft.com",
+  "spdx_license": "LicenseRef-Microsoft-fontpack-19980728",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "comic32.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/archive/-/raw/master/comic32.exe",
+        "https://web.archive.org/web/20260506003829/https://gitlab.com/fontmirror/archive/-/raw/master/comic32.exe",
+        "https://nchc.dl.sourceforge.net/project/corefonts/the%20fonts/final/comic32.exe",
+        "http://sft.if.usp.br/msttcorefonts/comic32.exe",
+        "https://web.archive.org/web/20260506003920/http://sft.if.usp.br/msttcorefonts/comic32.exe"
+      ],
+      "sha256": "9c6df3feefde26d4e41d4a4fe5db2a89f9123a772594d7f59afd062625cd204e",
+      "file_size": 246008
+    }
+  },
+  "fonts": [
+    {
+      "name": "Comic Sans MS",
+      "styles": [
+        {
+          "family_name": "Comic Sans MS",
+          "type": "Bold",
+          "full_name": "Comic Sans MS Bold",
+          "post_script_name": "ComicSansMS-Bold",
+          "version": "2.10",
+          "copyright": "Copyright (c) 1995 Microsoft Corporation. All rights reserved.",
+          "description": "Designed by Microsoft's Vincent Connare, this is a face based on the lettering from comic magazines. This casual but legible face has proved very popular with a wide variety of people.",
+          "font": "Comicbd.TTF"
+        },
+        {
+          "family_name": "Comic Sans MS",
+          "type": "Regular",
+          "full_name": "Comic Sans MS",
+          "post_script_name": "ComicSansMS",
+          "version": "2.10",
+          "copyright": "Copyright (c) 1995 Microsoft Corporation. All rights reserved.",
+          "description": "Designed by Microsoft's Vincent Connare, this is a face based on the lettering from comic magazines. This casual but legible face has proved very popular with a wide variety of people.",
+          "font": "Comic.TTF"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

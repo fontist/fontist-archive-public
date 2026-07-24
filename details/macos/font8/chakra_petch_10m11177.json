@@ -1,0 +1,161 @@
+{
+  "slug": "macos/font8/chakra_petch_10m11177",
+  "name": "Chakra Petch",
+  "description": "Chakra Petch",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9c9c8706378bd7b3fc829df3b1a916754a7f0743.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/9c9c8706378bd7b3fc829df3b1a916754a7f0743.zip"
+      ],
+      "sha256": "00d92edb7ba6c7b2d0c20525b562850afd7ac4f581265607b50e78d5cfa55245",
+      "file_size": 360599
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ChakraPetch.ttc",
+      "fonts": [
+        {
+          "name": "Chakra Petch",
+          "styles": [
+            {
+              "family_name": "Chakra Petch",
+              "type": "Bold",
+              "full_name": "Chakra Petch Bold",
+              "post_script_name": "ChakraPetch-Bold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch",
+              "type": "Bold Italic",
+              "full_name": "Chakra Petch Bold Italic",
+              "post_script_name": "ChakraPetch-BoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch",
+              "type": "Italic",
+              "full_name": "Chakra Petch Italic",
+              "post_script_name": "ChakraPetch-Italic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch",
+              "type": "Regular",
+              "full_name": "Chakra Petch Regular",
+              "post_script_name": "ChakraPetch-Regular",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Chakra Petch ExtraLight",
+          "styles": [
+            {
+              "family_name": "Chakra Petch ExtraLight",
+              "type": "Italic",
+              "full_name": "Chakra Petch ExtraLight Italic",
+              "post_script_name": "ChakraPetch-ExtraLightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch ExtraLight",
+              "type": "Regular",
+              "full_name": "Chakra Petch ExtraLight",
+              "post_script_name": "ChakraPetch-ExtraLight",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Chakra Petch Light",
+          "styles": [
+            {
+              "family_name": "Chakra Petch Light",
+              "type": "Italic",
+              "full_name": "Chakra Petch Light Italic",
+              "post_script_name": "ChakraPetch-LightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch Light",
+              "type": "Regular",
+              "full_name": "Chakra Petch Light",
+              "post_script_name": "ChakraPetch-Light",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Chakra Petch Medium",
+          "styles": [
+            {
+              "family_name": "Chakra Petch Medium",
+              "type": "Italic",
+              "full_name": "Chakra Petch Medium Italic",
+              "post_script_name": "ChakraPetch-MediumItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch Medium",
+              "type": "Regular",
+              "full_name": "Chakra Petch Medium",
+              "post_script_name": "ChakraPetch-Medium",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Chakra Petch SemiBold",
+          "styles": [
+            {
+              "family_name": "Chakra Petch SemiBold",
+              "type": "Italic",
+              "full_name": "Chakra Petch SemiBold Italic",
+              "post_script_name": "ChakraPetch-SemiBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Chakra Petch SemiBold",
+              "type": "Regular",
+              "full_name": "Chakra Petch SemiBold",
+              "post_script_name": "ChakraPetch-SemiBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

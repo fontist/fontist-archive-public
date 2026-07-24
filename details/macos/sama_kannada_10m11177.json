@@ -1,0 +1,107 @@
+{
+  "slug": "macos/sama_kannada_10m11177",
+  "name": "Sama Kannada",
+  "description": "Sama Kannada",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://ektype.in/EULA-EK-TYPE.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b1225ca63ca43581900a44cf2483b7295a3f3c11.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/b1225ca63ca43581900a44cf2483b7295a3f3c11.zip"
+      ],
+      "sha256": "529643e6ab3c0aaf5efdc44357eada793697e5668d22b52145881fb4dbc1080b",
+      "file_size": 761324
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SamaKannada.ttc",
+      "fonts": [
+        {
+          "name": "Sama Kannada",
+          "styles": [
+            {
+              "family_name": "Sama Kannada",
+              "type": "Bold",
+              "full_name": "Sama Kannada Bold",
+              "post_script_name": "SamaKannada-Bold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            },
+            {
+              "family_name": "Sama Kannada",
+              "type": "Regular",
+              "full_name": "Sama Kannada Regular",
+              "post_script_name": "SamaKannada-Regular",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada Book",
+          "styles": [
+            {
+              "family_name": "Sama Kannada Book",
+              "type": "Regular",
+              "full_name": "Sama Kannada Book",
+              "post_script_name": "SamaKannada-Book",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada ExtraBold",
+          "styles": [
+            {
+              "family_name": "Sama Kannada ExtraBold",
+              "type": "Regular",
+              "full_name": "Sama Kannada ExtraBold",
+              "post_script_name": "SamaKannada-ExtraBold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada Medium",
+          "styles": [
+            {
+              "family_name": "Sama Kannada Medium",
+              "type": "Regular",
+              "full_name": "Sama Kannada Medium",
+              "post_script_name": "SamaKannada-Medium",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada SemiBold",
+          "styles": [
+            {
+              "family_name": "Sama Kannada SemiBold",
+              "type": "Regular",
+              "full_name": "Sama Kannada SemiBold",
+              "post_script_name": "SamaKannada-SemiBold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

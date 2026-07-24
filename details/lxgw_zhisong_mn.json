@@ -1,0 +1,38 @@
+{
+  "slug": "lxgw_zhisong_mn",
+  "name": "LXGW ZhiSong MN",
+  "description": "LXGW ZhiSong MN",
+  "homepage": "https://github.com/lxgw/LxgwZhiSong",
+  "copyright": "Copyright(c) 2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "https://opensource.org/licenses/IPA/",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "LXGWZhiSongMN.ttf": {
+      "urls": [
+        "https://github.com/lxgw/LxgwZhiSong/releases/download/v0.320/LXGWZhiSongMN.ttf"
+      ],
+      "sha256": "cd837ff43dcb862062a0a7cd4f39186b3673b6170b1f69b30b70b433e70e5253",
+      "file_size": 6625148,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW ZhiSong MN",
+      "styles": [
+        {
+          "family_name": "LXGW ZhiSong MN",
+          "type": "Regular",
+          "full_name": "LXGW ZhiSong MN",
+          "post_script_name": "LXGWZhiSongMN",
+          "version": "0.320;June 8, 2024",
+          "copyright": "Copyright(c) 2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+          "font": "LXGWZhiSongMN.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

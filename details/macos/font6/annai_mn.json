@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font6/annai_mn",
+  "name": "Annai MN",
+  "description": "Annai MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2010, 2020 by Murasu Systems Sdn. Bhd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "41a9ddedd6514eba5f192653342dac129713d38d.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/41a9ddedd6514eba5f192653342dac129713d38d.zip"
+      ],
+      "sha256": "c2c7dccff5f94115bd19ebf7d0314076721e83d4e36e61732cc80c4156d2c446",
+      "file_size": 295958
+    }
+  },
+  "fonts": [
+    {
+      "name": "Annai MN",
+      "styles": [
+        {
+          "family_name": "Annai MN",
+          "type": "Regular",
+          "full_name": "Annai MN Regular",
+          "post_script_name": "AnnaiMN-Regular",
+          "version": "15.0d1e17",
+          "copyright": "Copyright (c) 2010, 2020 by Murasu Systems Sdn. Bhd. All rights reserved.",
+          "font": "AnnaiMN.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

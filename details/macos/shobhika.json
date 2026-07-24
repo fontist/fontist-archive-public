@@ -1,0 +1,54 @@
+{
+  "slug": "macos/shobhika",
+  "name": "shobhika",
+  "description": "Shobhika",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Indian Institute of Technology Bombay. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Shobhika.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/9f8f044e3048fc7e6386ea20be4b8f991e0a88c0.zip"
+      ],
+      "sha256": "76a3e64a7991e5a4e8130cf39bc488955cc13f8ab6561170b1faced6f66aa9db",
+      "file_size": 516610
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Shobhika-Devanagari.ttc",
+      "fonts": [
+        {
+          "name": "Shobhika Bold",
+          "styles": [
+            {
+              "family_name": "Shobhika Bold",
+              "type": "Regular",
+              "full_name": "Shobhika Bold",
+              "post_script_name": "Shobhika-Bold",
+              "version": "1.040;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220",
+              "copyright": "Copyright (c) 2016, Indian Institute of Technology Bombay. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Shobhika Regular",
+          "styles": [
+            {
+              "family_name": "Shobhika Regular",
+              "type": "Regular",
+              "full_name": "Shobhika Regular",
+              "post_script_name": "Shobhika-Regular",
+              "version": "1.040;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220",
+              "copyright": "Copyright (c) 2016, Indian Institute of Technology Bombay. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

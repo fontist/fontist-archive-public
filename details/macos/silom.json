@@ -1,0 +1,36 @@
+{
+  "slug": "macos/silom",
+  "name": "silom",
+  "description": "Silom",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 1992-2011 by Apple Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Silom.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/60a2c7e7543f77176734a7d4a18c17f02087aa83.zip"
+      ],
+      "sha256": "b0fabbc1dc2194e3553f0b1c66dba82333895209bca86166344b9b9f4ed62a1d",
+      "file_size": 94130
+    }
+  },
+  "fonts": [
+    {
+      "name": "Silom",
+      "styles": [
+        {
+          "family_name": "Silom",
+          "type": "Regular",
+          "full_name": "Silom",
+          "post_script_name": "Silom",
+          "version": "14.0d1e1",
+          "copyright": "Copyright © 1992-2011 by Apple Inc. All rights reserved.",
+          "font": "Silom-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

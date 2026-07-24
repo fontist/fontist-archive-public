@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/phosphate_10m1360",
+  "name": "Phosphate",
+  "description": "Phosphate",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 2010 by International TypeFounders, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a51e92c63b1b72d36455831df11dddacdae9fc9a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/a51e92c63b1b72d36455831df11dddacdae9fc9a.zip"
+      ],
+      "sha256": "01d6a186b0ff5a6d46b43c7b1535e9139df457df3a5034120f78582f53bc38a6",
+      "file_size": 104733
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Phosphate.ttc",
+      "fonts": [
+        {
+          "name": "Phosphate",
+          "styles": [
+            {
+              "family_name": "Phosphate",
+              "type": "Inline",
+              "full_name": "Phosphate Inline",
+              "post_script_name": "Phosphate-Inline",
+              "version": "13.0d1e2",
+              "copyright": "Copyright � 2010 by International TypeFounders, Inc. All rights reserved."
+            },
+            {
+              "family_name": "Phosphate",
+              "type": "Solid",
+              "full_name": "Phosphate Solid",
+              "post_script_name": "Phosphate-Solid",
+              "version": "13.0d1e2",
+              "copyright": "Copyright � 2010 by International TypeFounders, Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "impact",
+  "name": "Impact",
+  "description": "Microsoft TrueType Core fonts for the Web",
+  "homepage": "https://www.microsoft.com",
+  "spdx_license": "LicenseRef-Microsoft-fontpack-19980728",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "impact32.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/archive/-/raw/master/impact32.exe",
+        "https://nchc.dl.sourceforge.net/project/corefonts/the%20fonts/final/impact32.exe",
+        "http://sft.if.usp.br/msttcorefonts/impact32.exe"
+      ],
+      "sha256": "6061ef3b7401d9642f5dfdb5f2b376aa14663f6275e60a51207ad4facf2fccfb",
+      "file_size": 173288
+    }
+  },
+  "fonts": [
+    {
+      "name": "Impact",
+      "styles": [
+        {
+          "family_name": "Impact",
+          "type": "Regular",
+          "full_name": "Impact",
+          "post_script_name": "Impact",
+          "version": "2.35",
+          "copyright": "Digitized data copyright (C) 1991-1996 The Monotype Corporation. All rights reserved. Impact is a trademark of Stephenson Blake (Holdings) Ltd.",
+          "description": "1965. Designed for the Stephenson Blake type foundry. A very heavy, narrow, sans serif face intended for use in newspapers, for headlines and in advertisements. Aptly named, this face has a very large \"x\" height with short ascenders and descenders.",
+          "font": "Impact.TTF"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

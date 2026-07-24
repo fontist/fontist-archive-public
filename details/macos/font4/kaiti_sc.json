@@ -1,0 +1,98 @@
+{
+  "slug": "macos/font4/kaiti_sc",
+  "name": "Kaiti SC",
+  "description": "Kaiti SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "8d69c72f04dcc2dfc086aa401dbab7f8ec55d0bb.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/8d69c72f04dcc2dfc086aa401dbab7f8ec55d0bb.zip"
+      ],
+      "sha256": "9bf7776d35dfeb92af3a83dcfd52ab60ee25c5f8cf1626275567bce5ea4fe959",
+      "file_size": 66335301
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Kaiti.ttc",
+      "fonts": [
+        {
+          "name": "Kaiti SC",
+          "styles": [
+            {
+              "family_name": "Kaiti SC",
+              "type": "Black",
+              "full_name": "Kaiti SC Black",
+              "post_script_name": "STKaitiSC-Black",
+              "version": "13.0d2e2",
+              "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Kaiti SC",
+              "type": "Bold",
+              "full_name": "Kaiti SC Bold",
+              "post_script_name": "STKaitiSC-Bold",
+              "version": "13.0d2e2",
+              "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Kaiti SC",
+              "type": "Regular",
+              "full_name": "Kaiti SC Regular",
+              "post_script_name": "STKaitiSC-Regular",
+              "version": "13.0d2e2",
+              "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Kaiti TC",
+          "styles": [
+            {
+              "family_name": "Kaiti TC",
+              "type": "Black",
+              "full_name": "Kaiti TC Black",
+              "post_script_name": "STKaitiTC-Black",
+              "version": "13.0d2e2",
+              "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Kaiti TC",
+              "type": "Bold",
+              "full_name": "Kaiti TC Bold",
+              "post_script_name": "STKaitiTC-Bold",
+              "version": "13.0d2e2",
+              "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Kaiti TC",
+              "type": "Regular",
+              "full_name": "Kaiti TC Regular",
+              "post_script_name": "STKaitiTC-Regular",
+              "version": "13.0d2e2",
+              "copyright": "© 2012-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "STKaiti",
+          "styles": [
+            {
+              "family_name": "STKaiti",
+              "type": "Regular",
+              "full_name": "STKaiti",
+              "post_script_name": "STKaiti",
+              "version": "13.0d2e2",
+              "copyright": "Copyright (c) 2002, Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

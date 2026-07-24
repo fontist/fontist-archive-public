@@ -1,0 +1,105 @@
+{
+  "slug": "macos/font7/yumincho_10m1044",
+  "name": "YuMincho",
+  "description": "YuMincho",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e9a9a2d18358033875835a6228cb70ce84b7e47c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/e9a9a2d18358033875835a6228cb70ce84b7e47c.zip"
+      ],
+      "sha256": "a38dfb49b4153ca99c781c3568f358740e56da483a2382420ee22f84ee8d19b8",
+      "file_size": 18151682
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "YuMincho.ttc",
+      "fonts": [
+        {
+          "name": "YuMincho +36p Kana Demibold",
+          "styles": [
+            {
+              "family_name": "YuMincho +36p Kana Demibold",
+              "type": "Regular",
+              "full_name": "YuMincho +36p Kana Demibold",
+              "post_script_name": "YuMin_36pKn-Demibold",
+              "version": "17.0d1e1",
+              "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "YuMincho +36p Kana Extrabold",
+          "styles": [
+            {
+              "family_name": "YuMincho +36p Kana Extrabold",
+              "type": "Regular",
+              "full_name": "YuMincho +36p Kana Extrabold",
+              "post_script_name": "YuMin_36pKn-Extrabold",
+              "version": "17.0d1e1",
+              "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "YuMincho +36p Kana Medium",
+          "styles": [
+            {
+              "family_name": "YuMincho +36p Kana Medium",
+              "type": "Regular",
+              "full_name": "YuMincho +36p Kana Medium",
+              "post_script_name": "YuMin_36pKn-Medium",
+              "version": "17.0d1e1",
+              "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "YuMincho Demibold",
+          "styles": [
+            {
+              "family_name": "YuMincho Demibold",
+              "type": "Regular",
+              "full_name": "YuMincho Demibold",
+              "post_script_name": "YuMin-Demibold",
+              "version": "17.0d1e1",
+              "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "YuMincho Extrabold",
+          "styles": [
+            {
+              "family_name": "YuMincho Extrabold",
+              "type": "Regular",
+              "full_name": "YuMincho Extrabold",
+              "post_script_name": "YuMin-Extrabold",
+              "version": "17.0d1e1",
+              "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "YuMincho Medium",
+          "styles": [
+            {
+              "family_name": "YuMincho Medium",
+              "type": "Regular",
+              "full_name": "YuMincho Medium",
+              "post_script_name": "YuMin-Medium",
+              "version": "17.0d1e1",
+              "copyright": "Copyright © 2020 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

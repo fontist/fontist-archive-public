@@ -1,0 +1,53 @@
+{
+  "slug": "macos/heiti_light",
+  "name": "heiti_light",
+  "description": "Heiti Light",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Heiti_Light.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/0c17f10ce42daf0eb40f68750f5f1f5fd0ebe0df.zip"
+      ],
+      "sha256": "ba9496f7c0f517639819c373caf885466e42ff4840c21cd74ec8048579cf6bdc",
+      "file_size": 29798339
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "STHeiti-Light.ttc",
+      "fonts": [
+        {
+          "name": "Heiti SC",
+          "styles": [
+            {
+              "family_name": "Heiti SC",
+              "type": "Light",
+              "full_name": "Heiti SC Light",
+              "post_script_name": "STHeitiSC-Light",
+              "version": "13.0d1e1",
+              "copyright": "Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Heiti TC",
+          "styles": [
+            {
+              "family_name": "Heiti TC",
+              "type": "Light",
+              "full_name": "Heiti TC Light",
+              "post_script_name": "STHeitiTC-Light",
+              "version": "13.0d1e1",
+              "copyright": "Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

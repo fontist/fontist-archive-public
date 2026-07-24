@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font8/tsukushi_a_round_gothic_10m11177",
+  "name": "Tsukushi A Round Gothic",
+  "description": "Tsukushi A Round Gothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2015 Fontworks Inc. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "11734ea7ee5fab1a5a38b29007865f413cf01677.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/11734ea7ee5fab1a5a38b29007865f413cf01677.zip"
+      ],
+      "sha256": "a4134f2bf47f7b4eb7fefde4b72ecea3f1130c2b669f7746dd35830519d22b7d",
+      "file_size": 5827376
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TsukushiAMaruGothic.ttc",
+      "fonts": [
+        {
+          "name": "Tsukushi A Round Gothic Bold",
+          "styles": [
+            {
+              "family_name": "Tsukushi A Round Gothic Bold",
+              "type": "Regular",
+              "full_name": "Tsukushi A Round Gothic Bold",
+              "post_script_name": "TsukuARdGothic-Bold",
+              "version": "15.0d1e1",
+              "copyright": "Copyright © 2015 Fontworks Inc. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Tsukushi A Round Gothic Regular",
+          "styles": [
+            {
+              "family_name": "Tsukushi A Round Gothic Regular",
+              "type": "Regular",
+              "full_name": "Tsukushi A Round Gothic Regular",
+              "post_script_name": "TsukuARdGothic-Regular",
+              "version": "15.0d1e1",
+              "copyright": "Copyright © 2015 Fontworks Inc. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

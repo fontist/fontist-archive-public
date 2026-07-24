@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/trattatello_10m1044",
+  "name": "Trattatello",
+  "description": "Trattatello",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) James Grieshaber, 2005. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "019758c298165e32e9ffa5cb548348b82922e856.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/019758c298165e32e9ffa5cb548348b82922e856.zip"
+      ],
+      "sha256": "ae0102b4758f10a072a6691abfc0ed97e5d2a102ff2040d3504445bf15c43f32",
+      "file_size": 364380
+    }
+  },
+  "fonts": [
+    {
+      "name": "Trattatello",
+      "styles": [
+        {
+          "family_name": "Trattatello",
+          "type": "Regular",
+          "full_name": "Trattatello",
+          "post_script_name": "Trattatello",
+          "version": "13.0d2e2",
+          "copyright": "Copyright (c) James Grieshaber, 2005. All rights reserved.",
+          "font": "Trattatello.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

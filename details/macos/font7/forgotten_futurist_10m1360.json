@@ -1,0 +1,72 @@
+{
+  "slug": "macos/font7/forgotten_futurist_10m1360",
+  "name": "Forgotten Futurist",
+  "description": "Forgotten Futurist",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1999-2009 Ray Larabie. Accents by Chikako Larabie.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c29230983194ad78675967cbebd9f613897b7ddc.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/c29230983194ad78675967cbebd9f613897b7ddc.zip"
+      ],
+      "sha256": "72315547098a0b1839de937ef69fe1f1bf3b6e74a21992149b6c57347df3adf0",
+      "file_size": 515677
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ForgottenFuturist.ttc",
+      "fonts": [
+        {
+          "name": "Forgotten Futurist",
+          "styles": [
+            {
+              "family_name": "Forgotten Futurist",
+              "type": "Bold",
+              "full_name": "Forgotten Futurist Bold",
+              "post_script_name": "ForgottenFuturist-Bold",
+              "version": "13.0d1e3",
+              "copyright": "� 1999-2009 Ray Larabie. Accents by Chikako Larabie."
+            },
+            {
+              "family_name": "Forgotten Futurist",
+              "type": "Bold Italic",
+              "full_name": "Forgotten Futurist Bold Italic",
+              "post_script_name": "ForgottenFuturist-BoldItalic",
+              "version": "13.0d1e3",
+              "copyright": "� 1999-2009 Ray Larabie. Accents by Chikako Larabie."
+            },
+            {
+              "family_name": "Forgotten Futurist",
+              "type": "Italic",
+              "full_name": "Forgotten Futurist Italic",
+              "post_script_name": "ForgottenFuturist-Italic",
+              "version": "13.0d1e3",
+              "copyright": "� 1999-2009 Ray Larabie. Accents by Chikako Larabie."
+            },
+            {
+              "family_name": "Forgotten Futurist",
+              "type": "Regular",
+              "full_name": "Forgotten Futurist Regular",
+              "post_script_name": "ForgottenFuturist-Regular",
+              "version": "13.0d1e3",
+              "copyright": "� 1999-2009 Ray Larabie. Accents by Chikako Larabie."
+            },
+            {
+              "family_name": "Forgotten Futurist",
+              "type": "Shadow",
+              "full_name": "Forgotten Futurist Shadow",
+              "post_script_name": "ForgottenFuturist-Shadow",
+              "version": "13.0d1e3",
+              "copyright": "� 1999-2009 Ray Larabie. Accents by Chikako Larabie."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

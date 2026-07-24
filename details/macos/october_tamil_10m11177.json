@@ -1,0 +1,149 @@
+{
+  "slug": "macos/october_tamil_10m11177",
+  "name": "October Tamil",
+  "description": "October Tamil",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "464f0cd44a333efe90129ed6c3e7c7cdc4c7ce87.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/464f0cd44a333efe90129ed6c3e7c7cdc4c7ce87.zip"
+      ],
+      "sha256": "db5199ae5d300ae9a1731cc9a1fbf9f0c91d50d78259f5346a1d112ea6a95523",
+      "file_size": 517828
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "OctoberTamil.ttc",
+      "fonts": [
+        {
+          "name": "October Tamil",
+          "styles": [
+            {
+              "family_name": "October Tamil",
+              "type": "Bold",
+              "full_name": "October Tamil Bold",
+              "post_script_name": "OctoberTL-Bold",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            },
+            {
+              "family_name": "October Tamil",
+              "type": "Regular",
+              "full_name": "October Tamil Regular",
+              "post_script_name": "OctoberTL-Regular",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil Black",
+          "styles": [
+            {
+              "family_name": "October Tamil Black",
+              "type": "Regular",
+              "full_name": "October Tamil Black",
+              "post_script_name": "OctoberTL-Black",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil ExtraLight",
+          "styles": [
+            {
+              "family_name": "October Tamil ExtraLight",
+              "type": "Regular",
+              "full_name": "October Tamil ExtraLight",
+              "post_script_name": "OctoberTL-ExtraLight",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil Hairline",
+          "styles": [
+            {
+              "family_name": "October Tamil Hairline",
+              "type": "Regular",
+              "full_name": "October Tamil Hairline",
+              "post_script_name": "OctoberTL-Hairline",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil Heavy",
+          "styles": [
+            {
+              "family_name": "October Tamil Heavy",
+              "type": "Regular",
+              "full_name": "October Tamil Heavy",
+              "post_script_name": "OctoberTL-Heavy",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil Light",
+          "styles": [
+            {
+              "family_name": "October Tamil Light",
+              "type": "Regular",
+              "full_name": "October Tamil Light",
+              "post_script_name": "OctoberTL-Light",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil Medium",
+          "styles": [
+            {
+              "family_name": "October Tamil Medium",
+              "type": "Regular",
+              "full_name": "October Tamil Medium",
+              "post_script_name": "OctoberTL-Medium",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Tamil Thin",
+          "styles": [
+            {
+              "family_name": "October Tamil Thin",
+              "type": "Regular",
+              "full_name": "October Tamil Thin",
+              "post_script_name": "OctoberTL-Thin",
+              "version": "15.0d1e7",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

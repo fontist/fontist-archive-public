@@ -1,0 +1,482 @@
+{
+  "slug": "open_sans",
+  "name": "Open Sans",
+  "description": "Open Sans",
+  "homepage": "http://www.google.com/get/noto/",
+  "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "opensans-main.zip": {
+      "urls": [
+        "https://github.com/googlefonts/opensans/archive/refs/heads/main.zip"
+      ],
+      "sha256": "b4ac2e7b46290e3105629cf784729a787d0df76ba0f4419bcfc62e20d03a4cbd",
+      "file_size": 66398118
+    }
+  },
+  "fonts": [
+    {
+      "name": "Open Sans",
+      "styles": [
+        {
+          "family_name": "Open Sans",
+          "type": "Bold",
+          "full_name": "Open Sans Bold",
+          "post_script_name": "OpenSans-Bold",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-Bold.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Bold Italic",
+          "full_name": "Open Sans Bold Italic",
+          "post_script_name": "OpenSans-BoldItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Italic",
+          "full_name": "Open Sans Italic",
+          "post_script_name": "OpenSans-Italic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-Italic.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg300wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg400wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg400wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg600wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg600wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg700wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg700wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg800wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg800wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "font": "OpenSans-Roman.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans Regular",
+          "post_script_name": "OpenSans-Regular",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-Regular.ttf"
+        },
+        {
+          "family_name": "Open Sans",
+          "type": "Regular",
+          "full_name": "Open Sans",
+          "post_script_name": "OpenSans-Regular",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Roman-wg300wd100.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans Condensed",
+      "styles": [
+        {
+          "family_name": "Open Sans Condensed",
+          "type": "Bold",
+          "full_name": "Open Sans Condensed Bold",
+          "post_script_name": "OpenSans-CondensedBold",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedBold.ttf"
+        },
+        {
+          "family_name": "Open Sans Condensed",
+          "type": "Bold Italic",
+          "full_name": "Open Sans Condensed Bold Italic",
+          "post_script_name": "OpenSans-CondensedBoldItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedBoldItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans Condensed",
+          "type": "Italic",
+          "full_name": "Open Sans Condensed Italic",
+          "post_script_name": "OpenSans-CondensedItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans Condensed",
+          "type": "Regular",
+          "full_name": "Open Sans Condensed Regular",
+          "post_script_name": "OpenSans-CondensedRegular",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedRegular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans Condensed ExtraBold",
+      "styles": [
+        {
+          "family_name": "Open Sans Condensed ExtraBold",
+          "type": "Italic",
+          "full_name": "Open Sans Condensed ExtraBold Italic",
+          "post_script_name": "OpenSans-CondensedExtraBoldItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans Condensed ExtraBold",
+          "type": "Regular",
+          "full_name": "Open Sans Condensed ExtraBold",
+          "post_script_name": "OpenSans-CondensedExtraBold",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans Condensed Light",
+      "styles": [
+        {
+          "family_name": "Open Sans Condensed Light",
+          "type": "Italic",
+          "full_name": "Open Sans Condensed Light Italic",
+          "post_script_name": "OpenSans-CondensedLightItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedLightItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans Condensed Light",
+          "type": "Regular",
+          "full_name": "Open Sans Condensed Light",
+          "post_script_name": "OpenSans-CondensedLight",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans Condensed SemiBold",
+      "styles": [
+        {
+          "family_name": "Open Sans Condensed SemiBold",
+          "type": "Italic",
+          "full_name": "Open Sans Condensed SemiBold Italic",
+          "post_script_name": "OpenSans-CondensedSemiBoldItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedSemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans Condensed SemiBold",
+          "type": "Regular",
+          "full_name": "Open Sans Condensed SemiBold",
+          "post_script_name": "OpenSans-CondensedSemiBold",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-CondensedSemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Open Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Open Sans ExtraBold Italic",
+          "post_script_name": "OpenSans-ExtraBoldItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Open Sans ExtraBold",
+          "post_script_name": "OpenSans-ExtraBold",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans Light",
+      "styles": [
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-LightItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg300wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg300wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg400wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg400wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg600wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg600wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg700wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg700wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg800wd100.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Italic",
+          "full_name": "Open Sans Light Italic",
+          "post_script_name": "OpenSans-LightItalic",
+          "version": "1.000",
+          "copyright": "Digitized data copyright (C) 2010-2018, Google Corporation.",
+          "description": "Licensed under the Apache License, Version 2.0",
+          "font": "OpenSans-Italic-wg800wd75.ttf"
+        },
+        {
+          "family_name": "Open Sans Light",
+          "type": "Regular",
+          "full_name": "Open Sans Light",
+          "post_script_name": "OpenSans-Light",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Open Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Open Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Open Sans SemiBold Italic",
+          "post_script_name": "OpenSans-SemiBoldItalic",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Open Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Open Sans SemiBold",
+          "post_script_name": "OpenSans-SemiBold",
+          "version": "3.003; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL",
+          "font": "OpenSans-SemiBold.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

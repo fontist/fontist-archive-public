@@ -1,0 +1,115 @@
+{
+  "slug": "macos/font3/pt_sans",
+  "name": "PT Sans",
+  "description": "PT Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.paratype.com/public/pt_openlicense_eng.asp",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "d98b5830dc9bc80782c3f31310277eb316ef85ce.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/d98b5830dc9bc80782c3f31310277eb316ef85ce.zip"
+      ],
+      "sha256": "d0267d84edd1f95c9cf4ef4c1cafd5d53a45ded87b1868414121198dcc1b4711",
+      "file_size": 1164071
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "PTSans.ttc",
+      "fonts": [
+        {
+          "name": "PT Sans",
+          "styles": [
+            {
+              "family_name": "PT Sans",
+              "type": "Bold",
+              "full_name": "PT Sans Bold",
+              "post_script_name": "PTSans-Bold",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            },
+            {
+              "family_name": "PT Sans",
+              "type": "Bold Italic",
+              "full_name": "PT Sans Bold Italic",
+              "post_script_name": "PTSans-BoldItalic",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            },
+            {
+              "family_name": "PT Sans",
+              "type": "Italic",
+              "full_name": "PT Sans Italic",
+              "post_script_name": "PTSans-Italic",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            },
+            {
+              "family_name": "PT Sans",
+              "type": "Regular",
+              "full_name": "PT Sans",
+              "post_script_name": "PTSans-Regular",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            }
+          ]
+        },
+        {
+          "name": "PT Sans Caption",
+          "styles": [
+            {
+              "family_name": "PT Sans Caption",
+              "type": "Bold",
+              "full_name": "PT Sans Caption Bold",
+              "post_script_name": "PTSans-CaptionBold",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            },
+            {
+              "family_name": "PT Sans Caption",
+              "type": "Regular",
+              "full_name": "PT Sans Caption",
+              "post_script_name": "PTSans-Caption",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            }
+          ]
+        },
+        {
+          "name": "PT Sans Narrow",
+          "styles": [
+            {
+              "family_name": "PT Sans Narrow",
+              "type": "Bold",
+              "full_name": "PT Sans Narrow Bold",
+              "post_script_name": "PTSans-NarrowBold",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            },
+            {
+              "family_name": "PT Sans Narrow",
+              "type": "Regular",
+              "full_name": "PT Sans Narrow",
+              "post_script_name": "PTSans-Narrow",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

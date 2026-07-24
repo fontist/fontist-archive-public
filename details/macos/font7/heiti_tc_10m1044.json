@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/heiti_tc_10m1044",
+  "name": "Heiti TC",
+  "description": "Heiti TC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5aba42dc91d407ed26bea0884b7486014befd5fa.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/5aba42dc91d407ed26bea0884b7486014befd5fa.zip"
+      ],
+      "sha256": "efab8865dc212bb0c33530194ddedc8d6967db7a73c4b4082477ddff48c83882",
+      "file_size": 29128089
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "STHeiti-Medium.ttc",
+      "fonts": [
+        {
+          "name": "Heiti SC",
+          "styles": [
+            {
+              "family_name": "Heiti SC",
+              "type": "Medium",
+              "full_name": "Heiti SC Medium",
+              "post_script_name": "STHeitiSC-Medium",
+              "version": "17.0d1e2",
+              "copyright": "Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Heiti TC",
+          "styles": [
+            {
+              "family_name": "Heiti TC",
+              "type": "Medium",
+              "full_name": "Heiti TC Medium",
+              "post_script_name": "STHeitiTC-Medium",
+              "version": "17.0d1e2",
+              "copyright": "Copyright (c) 2000-2007, Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

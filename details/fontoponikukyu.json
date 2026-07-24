@@ -1,0 +1,38 @@
+{
+  "slug": "fontoponikukyu",
+  "name": "fontoponikukyu",
+  "description": "FontopoNIKUKYU",
+  "homepage": "https://fontopo.com/",
+  "copyright": "Fontopo",
+  "spdx_license": "LicenseRef-fontopo-free",
+  "license_url": "https://fontopo.com/?page_id=55",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "FontopoNIKUKYU.zip": {
+      "urls": [
+        "https://fontopo.com/fontdata/nikukyu.zip",
+        "https://web.archive.org/web/20260504064437/https://fontopo.com/fontdata/nikukyu.zip"
+      ],
+      "sha256": "b59f2806f874e74d29bb8bdf44dfc900de1cc89a5bc4ec1996ec5511afc86417",
+      "file_size": 11151
+    }
+  },
+  "fonts": [
+    {
+      "name": "FontopoNIKUKYU",
+      "styles": [
+        {
+          "family_name": "FontopoNIKUKYU",
+          "type": "Regular",
+          "full_name": "FontopoNIKUKYU",
+          "post_script_name": "FontopoNIKUKYU",
+          "version": "1.00",
+          "copyright": "Fontopo",
+          "font": "FontopoNIKUKYU.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

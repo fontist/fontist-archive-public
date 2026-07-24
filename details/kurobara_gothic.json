@@ -1,0 +1,121 @@
+{
+  "slug": "kurobara_gothic",
+  "name": "kurobara_gothic",
+  "description": "kurobara gothic",
+  "homepage": "http://modi.jpn.org/",
+  "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "kurobara_gothic.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_kurobara-gothic_2018_1102.zip"
+      ],
+      "sha256": "97c73d3f974642818f385a6eece731d40b86a3d378d15b91ec36d2557b4360ed",
+      "file_size": 10365290
+    }
+  },
+  "fonts": [
+    {
+      "name": "kurobara gothic black",
+      "styles": [
+        {
+          "family_name": "kurobara gothic black",
+          "type": "Regular",
+          "full_name": "kurobara gothic black",
+          "post_script_name": "kurobara-gothic-black",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "kurobara gothic bold",
+      "styles": [
+        {
+          "family_name": "kurobara gothic bold",
+          "type": "Regular",
+          "full_name": "kurobara gothic bold",
+          "post_script_name": "kurobara-gothic-bold",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "kurobara gothic heavy",
+      "styles": [
+        {
+          "family_name": "kurobara gothic heavy",
+          "type": "Regular",
+          "full_name": "kurobara gothic heavy",
+          "post_script_name": "kurobara-gothic-heavy",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-heavy.ttf"
+        }
+      ]
+    },
+    {
+      "name": "kurobara gothic light",
+      "styles": [
+        {
+          "family_name": "kurobara gothic light",
+          "type": "Regular",
+          "full_name": "kurobara gothic light",
+          "post_script_name": "kurobara-gothic-light",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "kurobara gothic medium",
+      "styles": [
+        {
+          "family_name": "kurobara gothic medium",
+          "type": "Regular",
+          "full_name": "kurobara gothic medium",
+          "post_script_name": "kurobara-gothic-medium",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "kurobara gothic regular",
+      "styles": [
+        {
+          "family_name": "kurobara gothic regular",
+          "type": "Regular",
+          "full_name": "kurobara gothic regular",
+          "post_script_name": "kurobara-gothic-regular",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "kurobara gothic thin",
+      "styles": [
+        {
+          "family_name": "kurobara gothic thin",
+          "type": "Regular",
+          "full_name": "kurobara gothic thin",
+          "post_script_name": "kurobara-gothic-thin",
+          "version": "1.00.20181102",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-gothic-thin.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

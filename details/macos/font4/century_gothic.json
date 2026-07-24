@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font4/century_gothic",
+  "name": "Century Gothic",
+  "description": "Century Gothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7824ae42e418912d6fcdb0226889bf89c1e82f0a.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/7824ae42e418912d6fcdb0226889bf89c1e82f0a.zip"
+      ],
+      "sha256": "f3d928cb4d867770d6ca56229904e7128976fe7943f5de6ccd503dfa9f112f92",
+      "file_size": 301935
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "CenturyGothic.ttc",
+      "fonts": [
+        {
+          "name": "Century Gothic",
+          "styles": [
+            {
+              "family_name": "Century Gothic",
+              "type": "Bold",
+              "full_name": "Century Gothic Bold",
+              "post_script_name": "CenturyGothic-Bold",
+              "version": "13.0d1e4",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved"
+            },
+            {
+              "family_name": "Century Gothic",
+              "type": "Bold Italic",
+              "full_name": "Century Gothic Bold Italic",
+              "post_script_name": "CenturyGothic-BoldItalic",
+              "version": "13.0d1e4",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved"
+            },
+            {
+              "family_name": "Century Gothic",
+              "type": "Italic",
+              "full_name": "Century Gothic Italic",
+              "post_script_name": "CenturyGothic-Italic",
+              "version": "13.0d1e4",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved"
+            },
+            {
+              "family_name": "Century Gothic",
+              "type": "Regular",
+              "full_name": "Century Gothic",
+              "post_script_name": "CenturyGothic",
+              "version": "13.0d1e4",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

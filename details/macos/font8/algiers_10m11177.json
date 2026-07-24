@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font8/algiers_10m11177",
+  "name": "Algiers",
+  "description": "Algiers",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "f6232c93a73c25083224feb49082127a702068ce.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/f6232c93a73c25083224feb49082127a702068ce.zip"
+      ],
+      "sha256": "1ceb43e632eea101720208f58f0a6deb14b0c2afcf46705da31c510e2a5e5d6e",
+      "file_size": 45779
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Algiers.ttc",
+      "fonts": [
+        {
+          "name": ".Algiers PUA",
+          "styles": [
+            {
+              "family_name": ".Algiers PUA",
+              "type": "Regular",
+              "full_name": ".Algiers PUA",
+              "post_script_name": ".AlgiersPUA",
+              "version": "18.0d1e1",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Algiers",
+          "styles": [
+            {
+              "family_name": "Algiers",
+              "type": "Regular",
+              "full_name": "Algiers Regular",
+              "post_script_name": "Algiers",
+              "version": "18.0d1e1",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "slug": "macos/tw_cen_mt",
+  "name": "tw_cen_mt",
+  "description": "Tw Cen MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Tw_Cen_MT.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/67329099de92ea51e582082ad69be245b73042c6.zip"
+      ],
+      "sha256": "9d29e7c97a67ebd50c56628b146ae533d9f2128f58a69f3b2498d421523a2a9a",
+      "file_size": 169608
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TwentiethCentury.ttc",
+      "fonts": [
+        {
+          "name": "Tw Cen MT",
+          "styles": [
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Bold",
+              "full_name": "Tw Cen MT Bold",
+              "post_script_name": "TwCenMT-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+              "description": "20th Century was designed and drawn by Sol Hess in the Lanston Monotype drawing office between 1936 and 1947. The first weights were added to the Monotype typeface library in 1959. This is a face based on geometric shapes which originated in Germany in the early 1920's and became an integral part of the Bauhaus movement of that time. Form and function became the key words, unnecessary decoration was scorned. This clean cut, sans serif with geometric shapes was most appropriate. The lighter weights can be used for text setting, the bold and condensed fonts are suitable for display in headlines and advertising."
+            },
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Bold Italic",
+              "full_name": "Tw Cen MT Bold Italic",
+              "post_script_name": "TwCenMT-BoldItalic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+              "description": "20th Century was designed and drawn by Sol Hess in the Lanston Monotype drawing office between 1936 and 1947. The first weights were added to the Monotype typeface library in 1959. This is a face based on geometric shapes which originated in Germany in the early 1920's and became an integral part of the Bauhaus movement of that time. Form and function became the key words, unnecessary decoration was scorned. This clean cut, sans serif with geometric shapes was most appropriate. The lighter weights can be used for text setting, the bold and condensed fonts are suitable for display in headlines and advertising."
+            },
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Italic",
+              "full_name": "Tw Cen MT Italic",
+              "post_script_name": "TwCenMT-Italic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+              "description": "20th Century was designed and drawn by Sol Hess in the Lanston Monotype drawing office between 1936 and 1947. The first weights were added to the Monotype typeface library in 1959. This is a face based on geometric shapes which originated in Germany in the early 1920's and became an integral part of the Bauhaus movement of that time. Form and function became the key words, unnecessary decoration was scorned. This clean cut, sans serif with geometric shapes was most appropriate. The lighter weights can be used for text setting, the bold and condensed fonts are suitable for display in headlines and advertising."
+            },
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Regular",
+              "full_name": "Tw Cen MT",
+              "post_script_name": "TwCenMT-Regular",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+              "description": "20th Century was designed and drawn by Sol Hess in the Lanston Monotype drawing office between 1936 and 1947. The first weights were added to the Monotype typeface library in 1959. This is a face based on geometric shapes which originated in Germany in the early 1920's and became an integral part of the Bauhaus movement of that time. Form and function became the key words, unnecessary decoration was scorned. This clean cut, sans serif with geometric shapes was most appropriate. The lighter weights can be used for text setting, the bold and condensed fonts are suitable for display in headlines and advertising."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

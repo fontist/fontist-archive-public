@@ -1,0 +1,184 @@
+{
+  "slug": "macos/font3/apple_sd_gothic_neo",
+  "name": "Apple SD Gothic Neo",
+  "description": "Apple SD Gothic Neo",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.sandoll.co.kr",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "88aaab00afa0f78a5338a0070b3ceb63210aa646.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/88aaab00afa0f78a5338a0070b3ceb63210aa646.zip"
+      ],
+      "sha256": "71c7557216302dc0f5265a93ad3deebc8019718ca56813833a0a487ac78183ed",
+      "file_size": 15584489
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AppleSDGothicNeo.ttc",
+      "fonts": [
+        {
+          "name": ".Apple SD Gothic NeoI",
+          "styles": [
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "Bold",
+              "full_name": ".Apple SD Gothic NeoI Bold",
+              "post_script_name": ".AppleSDGothicNeoI-Bold",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "ExtraBold",
+              "full_name": "Apple SD GothicNeo ExtraBold",
+              "post_script_name": ".AppleSDGothicNeoI-ExtraBold",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "Heavy",
+              "full_name": ".Apple SD Gothic NeoI Heavy",
+              "post_script_name": ".AppleSDGothicNeoI-Heavy",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "Light",
+              "full_name": ".Apple SD Gothic NeoI Light",
+              "post_script_name": ".AppleSDGothicNeoI-Light",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "Medium",
+              "full_name": ".Apple SD Gothic NeoI Medium",
+              "post_script_name": ".AppleSDGothicNeoI-Medium",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "Regular",
+              "full_name": ".Apple SD Gothic NeoI Regular",
+              "post_script_name": ".AppleSDGothicNeoI-Regular",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "SemiBold",
+              "full_name": ".Apple SD Gothic NeoI SemiBold",
+              "post_script_name": ".AppleSDGothicNeoI-SemiBold",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved.",
+              "description": "Sandoll Communicatinos Inc."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "Thin",
+              "full_name": ".Apple SD Gothic NeoI Thin",
+              "post_script_name": ".AppleSDGothicNeoI-Thin",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": ".Apple SD Gothic NeoI",
+              "type": "UltraLight",
+              "full_name": ".Apple SD Gothic NeoI UltraLight",
+              "post_script_name": ".AppleSDGothicNeoI-UltraLight",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Apple SD Gothic Neo",
+          "styles": [
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Bold",
+              "full_name": "Apple SD Gothic Neo Bold",
+              "post_script_name": "AppleSDGothicNeo-Bold",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "ExtraBold",
+              "full_name": "Apple SD GothicNeo ExtraBold",
+              "post_script_name": "AppleSDGothicNeo-ExtraBold",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Heavy",
+              "full_name": "Apple SD Gothic Neo Heavy",
+              "post_script_name": "AppleSDGothicNeo-Heavy",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Light",
+              "full_name": "Apple SD Gothic Neo Light",
+              "post_script_name": "AppleSDGothicNeo-Light",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Medium",
+              "full_name": "Apple SD Gothic Neo Medium",
+              "post_script_name": "AppleSDGothicNeo-Medium",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Regular",
+              "full_name": "Apple SD Gothic Neo Regular",
+              "post_script_name": "AppleSDGothicNeo-Regular",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "SemiBold",
+              "full_name": "Apple SD Gothic Neo SemiBold",
+              "post_script_name": "AppleSDGothicNeo-SemiBold",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved.",
+              "description": "Sandoll Communicatinos Inc."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Thin",
+              "full_name": "Apple SD Gothic Neo Thin",
+              "post_script_name": "AppleSDGothicNeo-Thin",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "UltraLight",
+              "full_name": "Apple SD Gothic Neo UltraLight",
+              "post_script_name": "AppleSDGothicNeo-UltraLight",
+              "version": "11.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

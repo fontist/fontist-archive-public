@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/luminari",
+  "name": "Luminari",
+  "description": "Luminari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2008 Philip Bouwsma. Published by Canada Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "46fe968ac64865619babe65509933bfde2928fa2.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/46fe968ac64865619babe65509933bfde2928fa2.zip"
+      ],
+      "sha256": "f0cfdbd603ec2c59680f3643984af00823e063168fede730ade3a696f74269e1",
+      "file_size": 218689
+    }
+  },
+  "fonts": [
+    {
+      "name": "Luminari",
+      "styles": [
+        {
+          "family_name": "Luminari",
+          "type": "Regular",
+          "full_name": "Luminari",
+          "post_script_name": "Luminari-Regular",
+          "version": "13.0d1e2",
+          "copyright": "Copyright © 2008 Philip Bouwsma. Published by Canada Type. All rights reserved.",
+          "font": "Luminari-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

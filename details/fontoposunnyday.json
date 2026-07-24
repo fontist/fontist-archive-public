@@ -1,0 +1,39 @@
+{
+  "slug": "fontoposunnyday",
+  "name": "fontoposunnyday",
+  "description": "fontopoSunnyDay",
+  "homepage": "https://fontopo.com/",
+  "copyright": "Copyright (c) 2012 by fontopo. All rights reserved.",
+  "spdx_license": "LicenseRef-fontopo-free",
+  "license_url": "https://fontopo.com/?page_id=55",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "fontopoSunnyDay.zip": {
+      "urls": [
+        "https://fontopo.com/fontdata/sunnyday.zip",
+        "https://web.archive.org/web/20260504064458/https://fontopo.com/fontdata/sunnyday.zip"
+      ],
+      "sha256": "82bcd7b2609fa6c9ddf4360eec44abed1142544fbf2038bcb6818276b91f7a95",
+      "file_size": 11623
+    }
+  },
+  "fonts": [
+    {
+      "name": "fontopoSunnyDay",
+      "styles": [
+        {
+          "family_name": "fontopoSunnyDay",
+          "type": "Regular",
+          "full_name": "fontopoSunnyDay Regular",
+          "post_script_name": "fontopoSunnyDay-Regular",
+          "version": "1.00 2012",
+          "copyright": "Copyright (c) 2012 by fontopo. All rights reserved.",
+          "description": "fontopoSunnyDay Regular is a font by fontopo, designed by fontopo in 2012.",
+          "font": "fontopoSunnyDay-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

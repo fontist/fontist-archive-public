@@ -1,0 +1,135 @@
+{
+  "slug": "macos/font7/arima_koshi_10m1044",
+  "name": "Arima Koshi",
+  "description": "Arima Koshi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "6fe206600409e98dcd3e18af1427806070d0150f.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/6fe206600409e98dcd3e18af1427806070d0150f.zip"
+      ],
+      "sha256": "63897d71427b82ccd64f7eaeb839dc499b477d85a27bf2ee6418be1a2a6802d5",
+      "file_size": 611089
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ArimaKoshi.ttc",
+      "fonts": [
+        {
+          "name": "Arima Koshi",
+          "styles": [
+            {
+              "family_name": "Arima Koshi",
+              "type": "Bold",
+              "full_name": "Arima Koshi Bold",
+              "post_script_name": "ArimaKoshi-Bold",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Arima Koshi",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-Regular",
+              "post_script_name": "ArimaKoshi-Regular",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Koshi Black",
+          "styles": [
+            {
+              "family_name": "Arima Koshi Black",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-Black",
+              "post_script_name": "ArimaKoshi-Black",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Koshi ExtraBold",
+          "styles": [
+            {
+              "family_name": "Arima Koshi ExtraBold",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-ExtraBold",
+              "post_script_name": "ArimaKoshi-ExtraBold",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Koshi ExtraLight",
+          "styles": [
+            {
+              "family_name": "Arima Koshi ExtraLight",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-ExtraLight",
+              "post_script_name": "ArimaKoshi-ExtraLight",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Koshi Light",
+          "styles": [
+            {
+              "family_name": "Arima Koshi Light",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-Light",
+              "post_script_name": "ArimaKoshi-Light",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Koshi Medium",
+          "styles": [
+            {
+              "family_name": "Arima Koshi Medium",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-Medium",
+              "post_script_name": "ArimaKoshi-Medium",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Koshi Thin",
+          "styles": [
+            {
+              "family_name": "Arima Koshi Thin",
+              "type": "Regular",
+              "full_name": "ArimaKoshi-Thin",
+              "post_script_name": "ArimaKoshi-Thin",
+              "version": "1.019;PS 001.019;hotconv 1.0.88;makeotf.lib2.5.64775",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

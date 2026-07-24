@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/capitals",
+  "name": "Capitals",
+  "description": "Capitals",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Capitals typeface design created by Kris Holmes and Charles Bigelow.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "28cf0650b9ec233c8877043b2daef0b4f470a71b.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/28cf0650b9ec233c8877043b2daef0b4f470a71b.zip"
+      ],
+      "sha256": "87c929bfba212911ced9e46e5715c9c62f0d0e069be179c591a8f7cd48d3ba2d",
+      "file_size": 46874
+    }
+  },
+  "fonts": [
+    {
+      "name": "Capitals",
+      "styles": [
+        {
+          "family_name": "Capitals",
+          "type": "Regular",
+          "full_name": "Capitals",
+          "post_script_name": "CapitalsRegular",
+          "version": "13.0d1e2",
+          "copyright": "Capitals typeface design created by Kris Holmes and Charles Bigelow.",
+          "font": "Capitals.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

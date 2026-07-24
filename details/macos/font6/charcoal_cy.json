@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font6/charcoal_cy",
+  "name": "Charcoal CY",
+  "description": "Charcoal CY",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1997 DoubleAlex Design Studio. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "17037b676cffb54ba91ec67e0c019d5c8d838299.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/17037b676cffb54ba91ec67e0c019d5c8d838299.zip"
+      ],
+      "sha256": "adaa31a9fad0731c48ca62dee35985a31304b69d5e0373ce85274114c0851ee4",
+      "file_size": 38511
+    }
+  },
+  "fonts": [
+    {
+      "name": "Charcoal CY",
+      "styles": [
+        {
+          "family_name": "Charcoal CY",
+          "type": "Regular",
+          "full_name": "Charcoal CY",
+          "post_script_name": "CharcoalCY",
+          "version": "13.0d1e2",
+          "copyright": "� 1997 DoubleAlex Design Studio. All rights reserved.",
+          "font": "CharcoalCY.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

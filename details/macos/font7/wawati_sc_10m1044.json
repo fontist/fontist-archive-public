@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/wawati_sc_10m1044",
+  "name": "Wawati SC",
+  "description": "Wawati SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.dynacw.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "18189590ed3a5f46cef20ed4d1cec2611dca13ff.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/18189590ed3a5f46cef20ed4d1cec2611dca13ff.zip"
+      ],
+      "sha256": "0d68ad1ee6fab86ebece4d8661d3137bb560aeeef666c0ed7c5d41a2d840f632",
+      "file_size": 11596256
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wawati SC",
+      "styles": [
+        {
+          "family_name": "Wawati SC",
+          "type": "Regular",
+          "full_name": "Wawati SC Regular",
+          "post_script_name": "DFWaWaSC-W5",
+          "version": "13.0d1e2",
+          "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved.",
+          "description": "This font may be installed on one machine only, you can not sell or give these fonts to anyone else.",
+          "font": "WawaSC-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

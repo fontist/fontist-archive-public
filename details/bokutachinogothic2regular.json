@@ -1,0 +1,37 @@
+{
+  "slug": "bokutachinogothic2regular",
+  "name": "bokutachinogothic2regular",
+  "description": "BokutachinoGothic2Regular",
+  "homepage": "https://fontopo.com/",
+  "copyright": "fontopo",
+  "spdx_license": "Apache-2.0",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "BokutachinoGothic2Regular.zip": {
+      "urls": [
+        "https://fontopo.com/fontdata/boku2r.zip",
+        "https://web.archive.org/web/20260504064954/https://fontopo.com/fontdata/boku2r.zip"
+      ],
+      "sha256": "7fc7d4e63c5d22c820123fcc38ceecaf93414c8f58c4b49fa3800dc63eb8b6ca",
+      "file_size": 1443732
+    }
+  },
+  "fonts": [
+    {
+      "name": "BokutachinoGothic2Regular",
+      "styles": [
+        {
+          "family_name": "BokutachinoGothic2Regular",
+          "type": "Regular",
+          "full_name": "BokutachinoGothic2Regular",
+          "post_script_name": "BokutachinoGothic2Regular",
+          "version": "1.01",
+          "copyright": "fontopo",
+          "font": "Boku2-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

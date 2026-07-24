@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/apple_lisung_10m11177",
+  "name": "Apple LiSung",
+  "description": "Apple LiSung",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Apple Computer, Inc. 1992-1998",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0b80306c4416e87ffbaef9d754dbc099d1dae0d3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/0b80306c4416e87ffbaef9d754dbc099d1dae0d3.zip"
+      ],
+      "sha256": "28cff71b8c6603ae977c3cd2ac0eedbc45d91d84fabb8ab79bf799f8a13739ed",
+      "file_size": 5550916
+    }
+  },
+  "fonts": [
+    {
+      "name": "Apple LiSung",
+      "styles": [
+        {
+          "family_name": "Apple LiSung",
+          "type": "Light",
+          "full_name": "Apple LiSung Light",
+          "post_script_name": "LiSungLight",
+          "version": "16.0d1e1",
+          "copyright": "Apple Computer, Inc. 1992-1998",
+          "font": "AppleLiSung-Light.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

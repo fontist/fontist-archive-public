@@ -1,0 +1,858 @@
+{
+  "slug": "noto_sans_ext",
+  "name": "noto_sans_ext",
+  "description": "Noto Sans",
+  "homepage": "http://www.google.com/get/noto/",
+  "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Noto_Sans.zip": {
+      "urls": [
+        "https://github.com/notofonts/latin-greek-cyrillic/releases/download/NotoSans-v2.013/NotoSans-v2.013.zip"
+      ],
+      "sha256": "9fd595dd701d7ea103a9ba8a9cfdcf0c35c5574ef754fecabe718eadad8bccde",
+      "file_size": 124008613
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noto Sans Black",
+      "styles": [
+        {
+          "family_name": "Noto Sans Black",
+          "type": "Italic",
+          "full_name": "Noto Sans Black Italic",
+          "post_script_name": "NotoSans-BlackItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-BlackItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Black",
+          "type": "Regular",
+          "full_name": "Noto Sans Black",
+          "post_script_name": "NotoSans-Black",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed",
+          "type": "Bold",
+          "full_name": "Noto Sans Condensed Bold",
+          "post_script_name": "NotoSans-CondensedBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedBold.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed",
+          "type": "Bold Italic",
+          "full_name": "Noto Sans Condensed Bold Italic",
+          "post_script_name": "NotoSans-CondensedBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed Italic",
+          "post_script_name": "NotoSans-CondensedItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed",
+          "post_script_name": "NotoSans-Condensed",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-Condensed.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed Black",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed Black",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed Black Italic",
+          "post_script_name": "NotoSans-CondensedBlackItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedBlackItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed Black",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed Black",
+          "post_script_name": "NotoSans-CondensedBlack",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedBlack.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed ExtraBold",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed ExtraBold Italic",
+          "post_script_name": "NotoSans-CondensedExtraBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed ExtraBold",
+          "post_script_name": "NotoSans-CondensedExtraBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed ExtraLight",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed ExtraLight Italic",
+          "post_script_name": "NotoSans-CondensedExtraLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed ExtraLight",
+          "post_script_name": "NotoSans-CondensedExtraLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed Light",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed Light",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed Light Italic",
+          "post_script_name": "NotoSans-CondensedLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed Light",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed Light",
+          "post_script_name": "NotoSans-CondensedLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed Medium",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed Medium Italic",
+          "post_script_name": "NotoSans-CondensedMediumItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedMediumItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed Medium",
+          "post_script_name": "NotoSans-CondensedMedium",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedMedium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed SemiBold",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed SemiBold Italic",
+          "post_script_name": "NotoSans-CondensedSemiBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedSemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed SemiBold",
+          "post_script_name": "NotoSans-CondensedSemiBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedSemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Condensed Thin",
+      "styles": [
+        {
+          "family_name": "Noto Sans Condensed Thin",
+          "type": "Italic",
+          "full_name": "Noto Sans Condensed Thin Italic",
+          "post_script_name": "NotoSans-CondensedThinItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-CondensedThinItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Condensed Thin",
+          "type": "Regular",
+          "full_name": "Noto Sans Condensed Thin",
+          "post_script_name": "NotoSans-CondensedThin",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-CondensedThin.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraBold Italic",
+          "post_script_name": "NotoSans-ExtraBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraBold",
+          "post_script_name": "NotoSans-ExtraBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed",
+          "type": "Bold",
+          "full_name": "Noto Sans ExtraCondensed Bold",
+          "post_script_name": "NotoSans-ExtraCondensedBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedBold.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed",
+          "type": "Bold Italic",
+          "full_name": "Noto Sans ExtraCondensed Bold Italic",
+          "post_script_name": "NotoSans-ExtraCondensedBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed Italic",
+          "post_script_name": "NotoSans-ExtraCondensedItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed",
+          "post_script_name": "NotoSans-ExtraCondensed",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensed.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed Black",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed Black",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed Black Italic",
+          "post_script_name": "NotoSans-ExtraCondensedBlackItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedBlackItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed Black",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed Black",
+          "post_script_name": "NotoSans-ExtraCondensedBlack",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedBlack.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed ExtraBold",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed ExtraBold Italic",
+          "post_script_name": "NotoSans-ExtraCondensedExtraBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed ExtraBold",
+          "post_script_name": "NotoSans-ExtraCondensedExtraBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed ExtraLight",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed ExtraLight Italic",
+          "post_script_name": "NotoSans-ExtraCondensedExtraLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed ExtraLight",
+          "post_script_name": "NotoSans-ExtraCondensedExtraLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed Light",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed Light",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed Light Italic",
+          "post_script_name": "NotoSans-ExtraCondensedLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed Light",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed Light",
+          "post_script_name": "NotoSans-ExtraCondensedLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed Medium",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed Medium Italic",
+          "post_script_name": "NotoSans-ExtraCondensedMediumItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedMediumItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed Medium",
+          "post_script_name": "NotoSans-ExtraCondensedMedium",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedMedium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed SemiBold",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed SemiBold Italic",
+          "post_script_name": "NotoSans-ExtraCondensedSemiBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedSemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed SemiBold",
+          "post_script_name": "NotoSans-ExtraCondensedSemiBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedSemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraCondensed Thin",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraCondensed Thin",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraCondensed Thin Italic",
+          "post_script_name": "NotoSans-ExtraCondensedThinItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraCondensedThinItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraCondensed Thin",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraCondensed Thin",
+          "post_script_name": "NotoSans-ExtraCondensedThin",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraCondensedThin.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Noto Sans ExtraLight Italic",
+          "post_script_name": "NotoSans-ExtraLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Sans ExtraLight",
+          "post_script_name": "NotoSans-ExtraLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Light",
+      "styles": [
+        {
+          "family_name": "Noto Sans Light",
+          "type": "Italic",
+          "full_name": "Noto Sans Light Italic",
+          "post_script_name": "NotoSans-LightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-LightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Light",
+          "type": "Regular",
+          "full_name": "Noto Sans Light",
+          "post_script_name": "NotoSans-Light",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans Medium",
+          "type": "Italic",
+          "full_name": "Noto Sans Medium Italic",
+          "post_script_name": "NotoSans-MediumItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-MediumItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans Medium",
+          "post_script_name": "NotoSans-Medium",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiBold Italic",
+          "post_script_name": "NotoSans-SemiBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiBold",
+          "post_script_name": "NotoSans-SemiBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed",
+          "type": "Bold",
+          "full_name": "Noto Sans SemiCondensed Bold",
+          "post_script_name": "NotoSans-SemiCondensedBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedBold.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed",
+          "type": "Bold Italic",
+          "full_name": "Noto Sans SemiCondensed Bold Italic",
+          "post_script_name": "NotoSans-SemiCondensedBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed Italic",
+          "post_script_name": "NotoSans-SemiCondensedItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed",
+          "post_script_name": "NotoSans-SemiCondensed",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensed.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed Black",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed Black",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed Black Italic",
+          "post_script_name": "NotoSans-SemiCondensedBlackItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedBlackItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed Black",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed Black",
+          "post_script_name": "NotoSans-SemiCondensedBlack",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedBlack.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed ExtraBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed ExtraBold",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed ExtraBold Italic",
+          "post_script_name": "NotoSans-SemiCondensedExtraBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed ExtraBold",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed ExtraBold",
+          "post_script_name": "NotoSans-SemiCondensedExtraBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed ExtraLight",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed ExtraLight",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed ExtraLight Italic",
+          "post_script_name": "NotoSans-SemiCondensedExtraLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed ExtraLight",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed ExtraLight",
+          "post_script_name": "NotoSans-SemiCondensedExtraLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed Light",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed Light",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed Light Italic",
+          "post_script_name": "NotoSans-SemiCondensedLightItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedLightItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed Light",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed Light",
+          "post_script_name": "NotoSans-SemiCondensedLight",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed Medium",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed Medium",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed Medium Italic",
+          "post_script_name": "NotoSans-SemiCondensedMediumItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedMediumItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed Medium",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed Medium",
+          "post_script_name": "NotoSans-SemiCondensedMedium",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedMedium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed SemiBold",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed SemiBold",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed SemiBold Italic",
+          "post_script_name": "NotoSans-SemiCondensedSemiBoldItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedSemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed SemiBold",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed SemiBold",
+          "post_script_name": "NotoSans-SemiCondensedSemiBold",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedSemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans SemiCondensed Thin",
+      "styles": [
+        {
+          "family_name": "Noto Sans SemiCondensed Thin",
+          "type": "Italic",
+          "full_name": "Noto Sans SemiCondensed Thin Italic",
+          "post_script_name": "NotoSans-SemiCondensedThinItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-SemiCondensedThinItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans SemiCondensed Thin",
+          "type": "Regular",
+          "full_name": "Noto Sans SemiCondensed Thin",
+          "post_script_name": "NotoSans-SemiCondensedThin",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-SemiCondensedThin.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Noto Sans Thin",
+      "styles": [
+        {
+          "family_name": "Noto Sans Thin",
+          "type": "Italic",
+          "full_name": "Noto Sans Thin Italic",
+          "post_script_name": "NotoSans-ThinItalic",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team.",
+          "font": "NotoSans-ThinItalic.ttf"
+        },
+        {
+          "family_name": "Noto Sans Thin",
+          "type": "Regular",
+          "full_name": "Noto Sans Thin",
+          "post_script_name": "NotoSans-Thin",
+          "version": "2.013; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)",
+          "description": "Designed by Monotype design team, Irene Vlachou.",
+          "font": "NotoSans-Thin.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

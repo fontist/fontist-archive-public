@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/hiragino_sans_cns_10m1044",
+  "name": "Hiragino Sans CNS",
+  "description": "Hiragino Sans CNS",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver3.12, Copyright © 2007-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "32d11e548996658757774d88f9220993653017ea.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/32d11e548996658757774d88f9220993653017ea.zip"
+      ],
+      "sha256": "62ad019f71e698e4b8eedba464bf15172a9155283a121d1265e192f6ae4b32f0",
+      "file_size": 14118186
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Hiragino_Sans_CNS.ttc",
+      "fonts": [
+        {
+          "name": "Hiragino Sans CNS W3",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans CNS W3",
+              "type": "Regular",
+              "full_name": "Hiragino Sans CNS W3",
+              "post_script_name": "HiraginoSansCNS-W3",
+              "version": "17.0d0e2",
+              "copyright": "ver3.12, Copyright © 2007-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Sans CNS W6",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans CNS W6",
+              "type": "Bold",
+              "full_name": "Hiragino Sans CNS W6",
+              "post_script_name": "HiraginoSansCNS-W6",
+              "version": "17.0d0e2",
+              "copyright": "ver3.12, Copyright © 2007-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

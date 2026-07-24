@@ -1,0 +1,140 @@
+{
+  "slug": "hasklig",
+  "name": "Hasklig",
+  "description": "Hasklig - a code font with monospaced ligatures",
+  "homepage": "https://github.com/i-tu/Hasklig",
+  "copyright": "© 2010 - 2012 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name ‘Source’.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Hasklig-1.2.zip": {
+      "urls": [
+        "https://github.com/i-tu/Hasklig/releases/download/v1.2/Hasklig-1.2.zip"
+      ],
+      "sha256": "9cd35a7449b220dc84f9516c57817e147003fc905a477f1ec727816d9d8a81d4",
+      "file_size": 2242002
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hasklig",
+      "styles": [
+        {
+          "family_name": "Hasklig Black",
+          "type": "Regular",
+          "full_name": "Hasklig Black",
+          "post_script_name": "Hasklig-Black",
+          "version": "2.032",
+          "font": "Hasklig-Black.otf"
+        },
+        {
+          "family_name": "Hasklig Black",
+          "type": "Italic",
+          "full_name": "Hasklig Black Italic",
+          "post_script_name": "Hasklig-BlackIt",
+          "version": "1.052",
+          "font": "Hasklig-BlackIt.otf"
+        },
+        {
+          "family_name": "Hasklig",
+          "type": "Bold",
+          "full_name": "Hasklig Bold",
+          "post_script_name": "Hasklig-Bold",
+          "version": "2.032",
+          "font": "Hasklig-Bold.otf"
+        },
+        {
+          "family_name": "Hasklig",
+          "type": "Bold Italic",
+          "full_name": "Hasklig Bold Italic",
+          "post_script_name": "Hasklig-BoldIt",
+          "version": "1.052",
+          "font": "Hasklig-BoldIt.otf"
+        },
+        {
+          "family_name": "Hasklig ExtraLight",
+          "type": "Regular",
+          "full_name": "Hasklig ExtraLight",
+          "post_script_name": "Hasklig-ExtraLight",
+          "version": "1.052",
+          "font": "Hasklig-ExtraLight.otf"
+        },
+        {
+          "family_name": "Hasklig ExtraLight",
+          "type": "Italic",
+          "full_name": "Hasklig ExtraLight Italic",
+          "post_script_name": "Hasklig-ExtraLightIt",
+          "version": "1.052",
+          "font": "Hasklig-ExtraLightIt.otf"
+        },
+        {
+          "family_name": "Hasklig",
+          "type": "Italic",
+          "full_name": "Hasklig Italic",
+          "post_script_name": "Hasklig-It",
+          "version": "1.052",
+          "font": "Hasklig-It.otf"
+        },
+        {
+          "family_name": "Hasklig Light",
+          "type": "Regular",
+          "full_name": "Hasklig Light",
+          "post_script_name": "Hasklig-Light",
+          "version": "2.032",
+          "font": "Hasklig-Light.otf"
+        },
+        {
+          "family_name": "Hasklig Light",
+          "type": "Italic",
+          "full_name": "Hasklig Light Italic",
+          "post_script_name": "Hasklig-LightIt",
+          "version": "1.052",
+          "font": "Hasklig-LightIt.otf"
+        },
+        {
+          "family_name": "Hasklig Medium",
+          "type": "Regular",
+          "full_name": "Hasklig Medium",
+          "post_script_name": "Hasklig-Medium",
+          "version": "2.032",
+          "font": "Hasklig-Medium.otf"
+        },
+        {
+          "family_name": "Hasklig Medium",
+          "type": "Italic",
+          "full_name": "Hasklig Medium Italic",
+          "post_script_name": "Hasklig-MediumIt",
+          "version": "1.052",
+          "font": "Hasklig-MediumIt.otf"
+        },
+        {
+          "family_name": "Hasklig",
+          "type": "Regular",
+          "full_name": "Hasklig Regular",
+          "post_script_name": "Hasklig-Regular",
+          "version": "2.032",
+          "font": "Hasklig-Regular.otf"
+        },
+        {
+          "family_name": "Hasklig Semibold",
+          "type": "Regular",
+          "full_name": "Hasklig Regular",
+          "post_script_name": "Hasklig-Semibold",
+          "version": "2.032",
+          "font": "Hasklig-Semibold.otf"
+        },
+        {
+          "family_name": "Hasklig Semibold",
+          "type": "Italic",
+          "full_name": "Hasklig Semibold Italic",
+          "post_script_name": "Hasklig-SemiboldIt",
+          "version": "1.052",
+          "font": "Hasklig-SemiboldIt.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

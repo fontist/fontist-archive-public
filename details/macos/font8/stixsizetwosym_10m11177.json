@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font8/stixsizetwosym_10m11177",
+  "name": "STIXSizeTwoSym",
+  "description": "STIXSizeTwoSym",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. Portions copyright (c) 1998-2003 by MicroPress, Inc. Portions copyright (c) 1990 by Elsevier, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.stixfonts.org/user_license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ad06f5ccf27d1763851d066f5153eef32a528f52.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/ad06f5ccf27d1763851d066f5153eef32a528f52.zip"
+      ],
+      "sha256": "745d498e7b3ad4545a501ef8b07f617f65c5ffa4e14a4468f6f41e2b39418600",
+      "file_size": 8742
+    }
+  },
+  "fonts": [
+    {
+      "name": "STIXSizeTwoSym",
+      "styles": [
+        {
+          "family_name": "STIXSizeTwoSym",
+          "type": "Regular",
+          "full_name": "STIXSizeTwoSym-Regular",
+          "post_script_name": "STIXSizeTwoSym-Regular",
+          "version": "1.1.0",
+          "copyright": "Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. Portions copyright (c) 1998-2003 by MicroPress, Inc. Portions copyright (c) 1990 by Elsevier, Inc. All rights reserved.",
+          "description": "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (\"Modified Version\") will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The \"renaming\" restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set.",
+          "font": "STIXSizTwoSymReg.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "macos/font8/shobhika_regular_10m11177",
+  "name": "Shobhika Regular",
+  "description": "Shobhika Regular",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Indian Institute of Technology Bombay. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "4518311586d580f45bf60e9cdd1d0f6a2f24ebfc.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/4518311586d580f45bf60e9cdd1d0f6a2f24ebfc.zip"
+      ],
+      "sha256": "a079f930dec0098717d1617f7d69f81b3132b20089d59af92a97aca7263decda",
+      "file_size": 518625
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Shobhika-Devanagari.ttc",
+      "fonts": [
+        {
+          "name": "Shobhika Bold",
+          "styles": [
+            {
+              "family_name": "Shobhika Bold",
+              "type": "Regular",
+              "full_name": "Shobhika Bold",
+              "post_script_name": "Shobhika-Bold",
+              "version": "20.0d1e2 (1.040)",
+              "copyright": "Copyright (c) 2016, Indian Institute of Technology Bombay. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Shobhika Regular",
+          "styles": [
+            {
+              "family_name": "Shobhika Regular",
+              "type": "Regular",
+              "full_name": "Shobhika Regular",
+              "post_script_name": "Shobhika-Regular",
+              "version": "20.0d1e2 (1.040)",
+              "copyright": "Copyright (c) 2016, Indian Institute of Technology Bombay. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/plantagenet_cherokee",
+  "name": "Plantagenet Cherokee",
+  "description": "Plantagenet Cherokee",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) Tiro Typeworks, 2002. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1c7610d796cca3da2548cf8d5a25d884fd3621c4.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/1c7610d796cca3da2548cf8d5a25d884fd3621c4.zip"
+      ],
+      "sha256": "81b31fd4a45a85a0f6ad18e4ec8c22c4114b589c40e7edc8aea451a85f0663e6",
+      "file_size": 37660
+    }
+  },
+  "fonts": [
+    {
+      "name": "Plantagenet Cherokee",
+      "styles": [
+        {
+          "family_name": "Plantagenet Cherokee",
+          "type": "Regular",
+          "full_name": "Plantagenet Cherokee",
+          "post_script_name": "PlantagenetCherokee",
+          "version": "10.0d1e1",
+          "copyright": "Copyright (c) Tiro Typeworks, 2002. All rights reserved.",
+          "font": "PlantagenetCherokee.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/schoolhouse_cursive_b_10m1360",
+  "name": "SchoolHouse Cursive B",
+  "description": "SchoolHouse Cursive B",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright© 1996‐2000 by Signature Software, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3a1936918f0b6d2fda0e3f7f4f4f212a1687eee9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/3a1936918f0b6d2fda0e3f7f4f4f212a1687eee9.zip"
+      ],
+      "sha256": "ae8283027a02b34bd1330f879dd682ee565dee49c5d789fac9e7f1ffbf73948f",
+      "file_size": 38271
+    }
+  },
+  "fonts": [
+    {
+      "name": "SchoolHouse Cursive B",
+      "styles": [
+        {
+          "family_name": "SchoolHouse Cursive B",
+          "type": "Regular",
+          "full_name": "SchoolHouse Cursive B",
+          "post_script_name": "SchoolHouseCursiveB",
+          "version": "13.0d1e1",
+          "copyright": "Copyright© 1996‐2000 by Signature Software, Inc.",
+          "font": "SchoolHouseCursiveB.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

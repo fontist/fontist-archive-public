@@ -1,0 +1,36 @@
+{
+  "slug": "macos/pilgi",
+  "name": "pilgi",
+  "description": "PilGi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "PilGi.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/28e55afbf7022f012e4a3ef68fa96d9a71bd1cd7.zip"
+      ],
+      "sha256": "4e649bbc5c1914c7b6b294238e98a391148bb3c39a2b08bbf244ba7bb010252d",
+      "file_size": 1160084
+    }
+  },
+  "fonts": [
+    {
+      "name": "PilGi",
+      "styles": [
+        {
+          "family_name": "PilGi",
+          "type": "Regular",
+          "full_name": "PilGi Regular",
+          "post_script_name": "JCfg",
+          "version": "13.0d2e5",
+          "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+          "font": "Pilgiche.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

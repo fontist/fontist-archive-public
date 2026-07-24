@@ -1,0 +1,40 @@
+{
+  "slug": "macos/koufi_abjadi",
+  "name": "koufi_abjadi",
+  "description": "Koufi Abjadi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Koufi Abjadi - 9/11/1993 (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Koufi_Abjadi.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/9e303abb7063873376078aa979ac9ac5ad9aee9c.zip"
+      ],
+      "sha256": "425df6893e2c3a8fdda62c4adf8caf60e068f4b1e13c8f8264e476a333529856",
+      "file_size": 26306
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KoufiAbjadi.ttc",
+      "fonts": [
+        {
+          "name": "Koufi Abjadi",
+          "styles": [
+            {
+              "family_name": "Koufi Abjadi",
+              "type": "Regular",
+              "full_name": "Koufi Abjadi Regular",
+              "post_script_name": "KoufiAbjadi",
+              "version": "13.0d1e5",
+              "copyright": "Koufi Abjadi - 9/11/1993 (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

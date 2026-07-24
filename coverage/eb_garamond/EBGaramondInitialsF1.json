@@ -1,0 +1,46 @@
+{
+  "slug": "eb_garamond",
+  "redistributable": true,
+  "total_codepoints": 10,
+  "supported_blocks": 1,
+  "total_blocks": 1,
+  "planes": {
+    "bmp": true,
+    "smp": false,
+    "sip": false
+  },
+  "codepoints": [
+    65,
+    70,
+    71,
+    76,
+    78,
+    79,
+    81,
+    84,
+    88,
+    111
+  ],
+  "blocks": [
+    {
+      "name": "Basic_Latin",
+      "range": "U+0000–U+007F",
+      "start": 0,
+      "end": 127,
+      "codepoints": [
+        65,
+        70,
+        71,
+        76,
+        78,
+        79,
+        81,
+        84,
+        88,
+        111
+      ]
+    }
+  ],
+  "variable_axes": [],
+  "opentype_features": []
+}

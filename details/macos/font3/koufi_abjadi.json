@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font3/koufi_abjadi",
+  "name": "Koufi Abjadi",
+  "description": "Koufi Abjadi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Koufi Abjadi - 9/11/1993 (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "cf182348a3941ec69e0015c84a2683a52fbfd130.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/cf182348a3941ec69e0015c84a2683a52fbfd130.zip"
+      ],
+      "sha256": "59fc407cb9190e53f44667e7dd0caf720b3787ba93bbf74d201782789b1b7338",
+      "file_size": 23042
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KoufiAbjadi.ttc",
+      "fonts": [
+        {
+          "name": ".Koufi Abjadi PUA",
+          "styles": [
+            {
+              "family_name": ".Koufi Abjadi PUA",
+              "type": "Regular",
+              "full_name": ".Koufi Abjadi PUA",
+              "post_script_name": ".KoufiAbjadiPUA",
+              "version": "10.0d4e1",
+              "copyright": ".Koufi Abjadi PUA - 9/11/1993 (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Koufi Abjadi",
+          "styles": [
+            {
+              "family_name": "Koufi Abjadi",
+              "type": "Regular",
+              "full_name": "Koufi Abjadi Regular",
+              "post_script_name": "KoufiAbjadi",
+              "version": "10.0d4e1",
+              "copyright": "Koufi Abjadi - 9/11/1993 (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

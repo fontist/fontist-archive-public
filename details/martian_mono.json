@@ -1,0 +1,395 @@
+{
+  "slug": "martian_mono",
+  "name": "martian_mono",
+  "description": "Martian Mono",
+  "homepage": "https://evilmartians.com",
+  "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Martian_Mono.zip": {
+      "urls": [
+        "https://github.com/evilmartians/mono/releases/download/v1.0.0/martian-mono-1.0.0-otf.zip"
+      ],
+      "sha256": "82683f519651fb05e29d47d075f10e8db40ff5328a50e641e5c30f5fa94297b6",
+      "file_size": 892960
+    }
+  },
+  "fonts": [
+    {
+      "name": "Martian Mono Cn Lt",
+      "styles": [
+        {
+          "family_name": "Martian Mono Cn Lt",
+          "type": "Regular",
+          "full_name": "Martian Mono Cn Lt",
+          "post_script_name": "MartianMono-CnLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Cn Md",
+      "styles": [
+        {
+          "family_name": "Martian Mono Cn Md",
+          "type": "Regular",
+          "full_name": "Martian Mono Cn Md",
+          "post_script_name": "MartianMono-CnMd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnMd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Cn Rg",
+      "styles": [
+        {
+          "family_name": "Martian Mono Cn Rg",
+          "type": "Bold",
+          "full_name": "Martian Mono Cn Bd",
+          "post_script_name": "MartianMono-CnBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnBd.otf"
+        },
+        {
+          "family_name": "Martian Mono Cn Rg",
+          "type": "Regular",
+          "full_name": "Martian Mono Cn Rg",
+          "post_script_name": "MartianMono-CnRg",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnRg.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Cn Th",
+      "styles": [
+        {
+          "family_name": "Martian Mono Cn Th",
+          "type": "Regular",
+          "full_name": "Martian Mono Cn Th",
+          "post_script_name": "MartianMono-CnTh",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnTh.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Cn xBd",
+      "styles": [
+        {
+          "family_name": "Martian Mono Cn xBd",
+          "type": "Regular",
+          "full_name": "Martian Mono Cn xBd",
+          "post_script_name": "MartianMono-CnxBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnxBd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Cn xLt",
+      "styles": [
+        {
+          "family_name": "Martian Mono Cn xLt",
+          "type": "Regular",
+          "full_name": "Martian Mono Cn xLt",
+          "post_script_name": "MartianMono-CnxLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-CnxLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Nr Lt",
+      "styles": [
+        {
+          "family_name": "Martian Mono Nr Lt",
+          "type": "Regular",
+          "full_name": "Martian Mono Nr Lt",
+          "post_script_name": "MartianMono-NrLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Nr Md",
+      "styles": [
+        {
+          "family_name": "Martian Mono Nr Md",
+          "type": "Regular",
+          "full_name": "Martian Mono Nr Md",
+          "post_script_name": "MartianMono-NrMd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrMd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Nr Rg",
+      "styles": [
+        {
+          "family_name": "Martian Mono Nr Rg",
+          "type": "Bold",
+          "full_name": "Martian Mono Nr Bd",
+          "post_script_name": "MartianMono-NrBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrBd.otf"
+        },
+        {
+          "family_name": "Martian Mono Nr Rg",
+          "type": "Regular",
+          "full_name": "Martian Mono Nr Rg",
+          "post_script_name": "MartianMono-NrRg",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrRg.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Nr Th",
+      "styles": [
+        {
+          "family_name": "Martian Mono Nr Th",
+          "type": "Regular",
+          "full_name": "Martian Mono Nr Th",
+          "post_script_name": "MartianMono-NrTh",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrTh.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Nr xBd",
+      "styles": [
+        {
+          "family_name": "Martian Mono Nr xBd",
+          "type": "Regular",
+          "full_name": "Martian Mono Nr xBd",
+          "post_script_name": "MartianMono-NrxBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrxBd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Nr xLt",
+      "styles": [
+        {
+          "family_name": "Martian Mono Nr xLt",
+          "type": "Regular",
+          "full_name": "Martian Mono Nr xLt",
+          "post_script_name": "MartianMono-NrxLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-NrxLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Std Lt",
+      "styles": [
+        {
+          "family_name": "Martian Mono Std Lt",
+          "type": "Regular",
+          "full_name": "Martian Mono Std Lt",
+          "post_script_name": "MartianMono-StdLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Std Md",
+      "styles": [
+        {
+          "family_name": "Martian Mono Std Md",
+          "type": "Regular",
+          "full_name": "Martian Mono Std Md",
+          "post_script_name": "MartianMono-StdMd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdMd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Std Rg",
+      "styles": [
+        {
+          "family_name": "Martian Mono Std Rg",
+          "type": "Bold",
+          "full_name": "Martian Mono Std Bd",
+          "post_script_name": "MartianMono-StdBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdBd.otf"
+        },
+        {
+          "family_name": "Martian Mono Std Rg",
+          "type": "Regular",
+          "full_name": "Martian Mono Std Rg",
+          "post_script_name": "MartianMono-StdRg",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdRg.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Std Th",
+      "styles": [
+        {
+          "family_name": "Martian Mono Std Th",
+          "type": "Regular",
+          "full_name": "Martian Mono Std Th",
+          "post_script_name": "MartianMono-StdTh",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdTh.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Std xBd",
+      "styles": [
+        {
+          "family_name": "Martian Mono Std xBd",
+          "type": "Regular",
+          "full_name": "Martian Mono Std xBd",
+          "post_script_name": "MartianMono-StdxBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdxBd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono Std xLt",
+      "styles": [
+        {
+          "family_name": "Martian Mono Std xLt",
+          "type": "Regular",
+          "full_name": "Martian Mono Std xLt",
+          "post_script_name": "MartianMono-StdxLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-StdxLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono sWd Lt",
+      "styles": [
+        {
+          "family_name": "Martian Mono sWd Lt",
+          "type": "Regular",
+          "full_name": "Martian Mono sWd Lt",
+          "post_script_name": "MartianMono-sWdLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdLt.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono sWd Md",
+      "styles": [
+        {
+          "family_name": "Martian Mono sWd Md",
+          "type": "Regular",
+          "full_name": "Martian Mono sWd Md",
+          "post_script_name": "MartianMono-sWdMd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdMd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono sWd Rg",
+      "styles": [
+        {
+          "family_name": "Martian Mono sWd Rg",
+          "type": "Bold",
+          "full_name": "Martian Mono sWd Bd",
+          "post_script_name": "MartianMono-sWdBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdBd.otf"
+        },
+        {
+          "family_name": "Martian Mono sWd Rg",
+          "type": "Regular",
+          "full_name": "Martian Mono sWd Rg",
+          "post_script_name": "MartianMono-sWdRg",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdRg.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono sWd Th",
+      "styles": [
+        {
+          "family_name": "Martian Mono sWd Th",
+          "type": "Regular",
+          "full_name": "Martian Mono sWd Th",
+          "post_script_name": "MartianMono-sWdTh",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdTh.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono sWd xBd",
+      "styles": [
+        {
+          "family_name": "Martian Mono sWd xBd",
+          "type": "Regular",
+          "full_name": "Martian Mono sWd xBd",
+          "post_script_name": "MartianMono-sWdxBd",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdxBd.otf"
+        }
+      ]
+    },
+    {
+      "name": "Martian Mono sWd xLt",
+      "styles": [
+        {
+          "family_name": "Martian Mono sWd xLt",
+          "type": "Regular",
+          "full_name": "Martian Mono sWd xLt",
+          "post_script_name": "MartianMono-sWdxLt",
+          "version": "1.000",
+          "copyright": "Copyright 2020 The Martian Mono Project Authors (https://github.com/evilmartians/mono)",
+          "font": "MartianMono-sWdxLt.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

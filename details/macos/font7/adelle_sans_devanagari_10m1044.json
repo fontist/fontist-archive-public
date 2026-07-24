@@ -1,0 +1,121 @@
+{
+  "slug": "macos/font7/adelle_sans_devanagari_10m1044",
+  "name": "Adelle Sans Devanagari",
+  "description": "Adelle Sans Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.type-together.com/resources/eula/TT-EULA.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "85a00d3ffd845112afa9bfd08f0684b4d2647734.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/85a00d3ffd845112afa9bfd08f0684b4d2647734.zip"
+      ],
+      "sha256": "79b4bd1d515507721edb0213d050939df2f6bcb5eed945bbc9c768b4552562ab",
+      "file_size": 1496307
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AdelleSans.ttc",
+      "fonts": [
+        {
+          "name": "Adelle Sans Devanagari",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari",
+              "type": "Bold",
+              "full_name": "Adelle Sans Devanagari Bold",
+              "post_script_name": "AdelleSansDevanagari-Bold",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            },
+            {
+              "family_name": "Adelle Sans Devanagari",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Regular",
+              "post_script_name": "AdelleSansDevanagari-Regular",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Extrabold",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Extrabold",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Extrabold",
+              "post_script_name": "AdelleSansDevanagari-Extrabold",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Heavy",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Heavy",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Heavy",
+              "post_script_name": "AdelleSansDevanagari-Heavy",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Light",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Light",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Light",
+              "post_script_name": "AdelleSansDevanagari-Light",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Semibold",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Semibold",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Semibold",
+              "post_script_name": "AdelleSansDevanagari-Semibold",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            }
+          ]
+        },
+        {
+          "name": "Adelle Sans Devanagari Thin",
+          "styles": [
+            {
+              "family_name": "Adelle Sans Devanagari Thin",
+              "type": "Regular",
+              "full_name": "Adelle Sans Devanagari Thin",
+              "post_script_name": "AdelleSansDevanagari-Thin",
+              "version": "15.0d2e1",
+              "copyright": "Copyright © 2012 by TypeTogether. All rights reserved.",
+              "description": "For further details please go to: http://www.type-together.com/resources/eula/TT-EULA.pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

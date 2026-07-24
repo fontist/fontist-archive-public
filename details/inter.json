@@ -1,0 +1,1148 @@
+{
+  "slug": "inter",
+  "name": "inter",
+  "description": "Inter",
+  "homepage": "https://rsms.me/",
+  "copyright": "Copyright 2016 The Inter Project Authors",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Inter.zip": {
+      "urls": [
+        "https://github.com/rsms/inter/releases/download/v4.0/Inter-4.0.zip"
+      ],
+      "sha256": "ff970a5d4561a04f102a7cb781adbd6ac4e9b6c460914c7a101f15acb7f7d1a4",
+      "file_size": 27885132
+    }
+  },
+  "fonts": [
+    {
+      "name": "Inter",
+      "styles": [
+        {
+          "family_name": "Inter",
+          "type": "Bold",
+          "full_name": "Inter Bold",
+          "post_script_name": "Inter-Bold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Bold.otf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Bold",
+          "full_name": "Inter Bold",
+          "post_script_name": "Inter-Bold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Bold.ttf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Bold Italic",
+          "full_name": "Inter Bold Italic",
+          "post_script_name": "Inter-BoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Bold Italic",
+          "full_name": "Inter Bold Italic",
+          "post_script_name": "Inter-BoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-BoldItalic.otf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Italic",
+          "full_name": "Inter Italic",
+          "post_script_name": "Inter-Italic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Italic.otf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Italic",
+          "full_name": "Inter Italic",
+          "post_script_name": "Inter-Italic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Italic.ttf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Regular",
+          "full_name": "Inter Regular",
+          "post_script_name": "Inter-Regular",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Regular.otf"
+        },
+        {
+          "family_name": "Inter",
+          "type": "Regular",
+          "full_name": "Inter Regular",
+          "post_script_name": "Inter-Regular",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Black",
+      "styles": [
+        {
+          "family_name": "Inter Black",
+          "type": "Italic",
+          "full_name": "Inter Black Italic",
+          "post_script_name": "Inter-BlackItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-BlackItalic.otf"
+        },
+        {
+          "family_name": "Inter Black",
+          "type": "Italic",
+          "full_name": "Inter Black Italic",
+          "post_script_name": "Inter-BlackItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-BlackItalic.ttf"
+        },
+        {
+          "family_name": "Inter Black",
+          "type": "Regular",
+          "full_name": "Inter Black",
+          "post_script_name": "Inter-Black",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Black.otf"
+        },
+        {
+          "family_name": "Inter Black",
+          "type": "Regular",
+          "full_name": "Inter Black",
+          "post_script_name": "Inter-Black",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display",
+      "styles": [
+        {
+          "family_name": "Inter Display",
+          "type": "Bold",
+          "full_name": "Inter Display Bold",
+          "post_script_name": "InterDisplay-Bold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Bold.otf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Bold",
+          "full_name": "Inter Display Bold",
+          "post_script_name": "InterDisplay-Bold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Bold.ttf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Bold Italic",
+          "full_name": "Inter Display Bold Italic",
+          "post_script_name": "InterDisplay-BoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Bold Italic",
+          "full_name": "Inter Display Bold Italic",
+          "post_script_name": "InterDisplay-BoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-BoldItalic.otf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Italic",
+          "full_name": "Inter Display Italic",
+          "post_script_name": "InterDisplay-Italic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Italic.otf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Italic",
+          "full_name": "Inter Display Italic",
+          "post_script_name": "InterDisplay-Italic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Italic.ttf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Regular",
+          "full_name": "Inter Display Regular",
+          "post_script_name": "InterDisplay-Regular",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Regular.otf"
+        },
+        {
+          "family_name": "Inter Display",
+          "type": "Regular",
+          "full_name": "Inter Display Regular",
+          "post_script_name": "InterDisplay-Regular",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display Black",
+      "styles": [
+        {
+          "family_name": "Inter Display Black",
+          "type": "Italic",
+          "full_name": "Inter Display Black Italic",
+          "post_script_name": "InterDisplay-BlackItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-BlackItalic.otf"
+        },
+        {
+          "family_name": "Inter Display Black",
+          "type": "Italic",
+          "full_name": "Inter Display Black Italic",
+          "post_script_name": "InterDisplay-BlackItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-BlackItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display Black",
+          "type": "Regular",
+          "full_name": "Inter Display Black",
+          "post_script_name": "InterDisplay-Black",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Black.otf"
+        },
+        {
+          "family_name": "Inter Display Black",
+          "type": "Regular",
+          "full_name": "Inter Display Black",
+          "post_script_name": "InterDisplay-Black",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display ExtraBold",
+      "styles": [
+        {
+          "family_name": "Inter Display ExtraBold",
+          "type": "Italic",
+          "full_name": "Inter Display ExtraBold Italic",
+          "post_script_name": "InterDisplay-ExtraBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraBoldItalic.otf"
+        },
+        {
+          "family_name": "Inter Display ExtraBold",
+          "type": "Italic",
+          "full_name": "Inter Display ExtraBold Italic",
+          "post_script_name": "InterDisplay-ExtraBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display ExtraBold",
+          "type": "Regular",
+          "full_name": "Inter Display ExtraBold",
+          "post_script_name": "InterDisplay-ExtraBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraBold.otf"
+        },
+        {
+          "family_name": "Inter Display ExtraBold",
+          "type": "Regular",
+          "full_name": "Inter Display ExtraBold",
+          "post_script_name": "InterDisplay-ExtraBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display ExtraLight",
+      "styles": [
+        {
+          "family_name": "Inter Display ExtraLight",
+          "type": "Italic",
+          "full_name": "Inter Display ExtraLight Italic",
+          "post_script_name": "InterDisplay-ExtraLightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraLightItalic.otf"
+        },
+        {
+          "family_name": "Inter Display ExtraLight",
+          "type": "Italic",
+          "full_name": "Inter Display ExtraLight Italic",
+          "post_script_name": "InterDisplay-ExtraLightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display ExtraLight",
+          "type": "Regular",
+          "full_name": "Inter Display ExtraLight",
+          "post_script_name": "InterDisplay-ExtraLight",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraLight.otf"
+        },
+        {
+          "family_name": "Inter Display ExtraLight",
+          "type": "Regular",
+          "full_name": "Inter Display ExtraLight",
+          "post_script_name": "InterDisplay-ExtraLight",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display Light",
+      "styles": [
+        {
+          "family_name": "Inter Display Light",
+          "type": "Italic",
+          "full_name": "Inter Display Light Italic",
+          "post_script_name": "InterDisplay-LightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-LightItalic.otf"
+        },
+        {
+          "family_name": "Inter Display Light",
+          "type": "Italic",
+          "full_name": "Inter Display Light Italic",
+          "post_script_name": "InterDisplay-LightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-LightItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display Light",
+          "type": "Regular",
+          "full_name": "Inter Display Light",
+          "post_script_name": "InterDisplay-Light",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Light.otf"
+        },
+        {
+          "family_name": "Inter Display Light",
+          "type": "Regular",
+          "full_name": "Inter Display Light",
+          "post_script_name": "InterDisplay-Light",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display Medium",
+      "styles": [
+        {
+          "family_name": "Inter Display Medium",
+          "type": "Italic",
+          "full_name": "Inter Display Medium Italic",
+          "post_script_name": "InterDisplay-MediumItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-MediumItalic.otf"
+        },
+        {
+          "family_name": "Inter Display Medium",
+          "type": "Italic",
+          "full_name": "Inter Display Medium Italic",
+          "post_script_name": "InterDisplay-MediumItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-MediumItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display Medium",
+          "type": "Regular",
+          "full_name": "Inter Display Medium",
+          "post_script_name": "InterDisplay-Medium",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Medium.otf"
+        },
+        {
+          "family_name": "Inter Display Medium",
+          "type": "Regular",
+          "full_name": "Inter Display Medium",
+          "post_script_name": "InterDisplay-Medium",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display SemiBold",
+      "styles": [
+        {
+          "family_name": "Inter Display SemiBold",
+          "type": "Italic",
+          "full_name": "Inter Display SemiBold Italic",
+          "post_script_name": "InterDisplay-SemiBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-SemiBoldItalic.otf"
+        },
+        {
+          "family_name": "Inter Display SemiBold",
+          "type": "Italic",
+          "full_name": "Inter Display SemiBold Italic",
+          "post_script_name": "InterDisplay-SemiBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display SemiBold",
+          "type": "Regular",
+          "full_name": "Inter Display SemiBold",
+          "post_script_name": "InterDisplay-SemiBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-SemiBold.otf"
+        },
+        {
+          "family_name": "Inter Display SemiBold",
+          "type": "Regular",
+          "full_name": "Inter Display SemiBold",
+          "post_script_name": "InterDisplay-SemiBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Display Thin",
+      "styles": [
+        {
+          "family_name": "Inter Display Thin",
+          "type": "Italic",
+          "full_name": "Inter Display Thin Italic",
+          "post_script_name": "InterDisplay-ThinItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ThinItalic.otf"
+        },
+        {
+          "family_name": "Inter Display Thin",
+          "type": "Italic",
+          "full_name": "Inter Display Thin Italic",
+          "post_script_name": "InterDisplay-ThinItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-ThinItalic.ttf"
+        },
+        {
+          "family_name": "Inter Display Thin",
+          "type": "Regular",
+          "full_name": "Inter Display Thin",
+          "post_script_name": "InterDisplay-Thin",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Thin.otf"
+        },
+        {
+          "family_name": "Inter Display Thin",
+          "type": "Regular",
+          "full_name": "Inter Display Thin",
+          "post_script_name": "InterDisplay-Thin",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterDisplay-Thin.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter ExtraBold",
+      "styles": [
+        {
+          "family_name": "Inter ExtraBold",
+          "type": "Italic",
+          "full_name": "Inter ExtraBold Italic",
+          "post_script_name": "Inter-ExtraBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraBoldItalic.otf"
+        },
+        {
+          "family_name": "Inter ExtraBold",
+          "type": "Italic",
+          "full_name": "Inter ExtraBold Italic",
+          "post_script_name": "Inter-ExtraBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Inter ExtraBold",
+          "type": "Regular",
+          "full_name": "Inter ExtraBold",
+          "post_script_name": "Inter-ExtraBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraBold.otf"
+        },
+        {
+          "family_name": "Inter ExtraBold",
+          "type": "Regular",
+          "full_name": "Inter ExtraBold",
+          "post_script_name": "Inter-ExtraBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter ExtraLight",
+      "styles": [
+        {
+          "family_name": "Inter ExtraLight",
+          "type": "Italic",
+          "full_name": "Inter ExtraLight Italic",
+          "post_script_name": "Inter-ExtraLightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraLightItalic.otf"
+        },
+        {
+          "family_name": "Inter ExtraLight",
+          "type": "Italic",
+          "full_name": "Inter ExtraLight Italic",
+          "post_script_name": "Inter-ExtraLightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Inter ExtraLight",
+          "type": "Regular",
+          "full_name": "Inter ExtraLight",
+          "post_script_name": "Inter-ExtraLight",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraLight.otf"
+        },
+        {
+          "family_name": "Inter ExtraLight",
+          "type": "Regular",
+          "full_name": "Inter ExtraLight",
+          "post_script_name": "Inter-ExtraLight",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Light",
+      "styles": [
+        {
+          "family_name": "Inter Light",
+          "type": "Italic",
+          "full_name": "Inter Light Italic",
+          "post_script_name": "Inter-LightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-LightItalic.otf"
+        },
+        {
+          "family_name": "Inter Light",
+          "type": "Italic",
+          "full_name": "Inter Light Italic",
+          "post_script_name": "Inter-LightItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-LightItalic.ttf"
+        },
+        {
+          "family_name": "Inter Light",
+          "type": "Regular",
+          "full_name": "Inter Light",
+          "post_script_name": "Inter-Light",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Light.otf"
+        },
+        {
+          "family_name": "Inter Light",
+          "type": "Regular",
+          "full_name": "Inter Light",
+          "post_script_name": "Inter-Light",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Medium",
+      "styles": [
+        {
+          "family_name": "Inter Medium",
+          "type": "Italic",
+          "full_name": "Inter Medium Italic",
+          "post_script_name": "Inter-MediumItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-MediumItalic.otf"
+        },
+        {
+          "family_name": "Inter Medium",
+          "type": "Italic",
+          "full_name": "Inter Medium Italic",
+          "post_script_name": "Inter-MediumItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-MediumItalic.ttf"
+        },
+        {
+          "family_name": "Inter Medium",
+          "type": "Regular",
+          "full_name": "Inter Medium",
+          "post_script_name": "Inter-Medium",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Medium.otf"
+        },
+        {
+          "family_name": "Inter Medium",
+          "type": "Regular",
+          "full_name": "Inter Medium",
+          "post_script_name": "Inter-Medium",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter SemiBold",
+      "styles": [
+        {
+          "family_name": "Inter SemiBold",
+          "type": "Italic",
+          "full_name": "Inter SemiBold Italic",
+          "post_script_name": "Inter-SemiBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-SemiBoldItalic.otf"
+        },
+        {
+          "family_name": "Inter SemiBold",
+          "type": "Italic",
+          "full_name": "Inter SemiBold Italic",
+          "post_script_name": "Inter-SemiBoldItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Inter SemiBold",
+          "type": "Regular",
+          "full_name": "Inter SemiBold",
+          "post_script_name": "Inter-SemiBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-SemiBold.otf"
+        },
+        {
+          "family_name": "Inter SemiBold",
+          "type": "Regular",
+          "full_name": "Inter SemiBold",
+          "post_script_name": "Inter-SemiBold",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Thin",
+      "styles": [
+        {
+          "family_name": "Inter Thin",
+          "type": "Italic",
+          "full_name": "Inter Thin Italic",
+          "post_script_name": "Inter-ThinItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ThinItalic.otf"
+        },
+        {
+          "family_name": "Inter Thin",
+          "type": "Italic",
+          "full_name": "Inter Thin Italic",
+          "post_script_name": "Inter-ThinItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-ThinItalic.ttf"
+        },
+        {
+          "family_name": "Inter Thin",
+          "type": "Regular",
+          "full_name": "Inter Thin",
+          "post_script_name": "Inter-Thin",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Thin.otf"
+        },
+        {
+          "family_name": "Inter Thin",
+          "type": "Regular",
+          "full_name": "Inter Thin",
+          "post_script_name": "Inter-Thin",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "Inter-Thin.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Inter Variable",
+      "styles": [
+        {
+          "family_name": "Inter Variable",
+          "type": "Italic",
+          "full_name": "Inter Variable Italic",
+          "post_script_name": "InterVariableItalic",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterVariable-Italic.ttf"
+        },
+        {
+          "family_name": "Inter Variable",
+          "type": "Regular",
+          "full_name": "Inter Variable",
+          "post_script_name": "InterVariable",
+          "version": "4.000;git-a52131595",
+          "copyright": "Copyright 2016 The Inter Project Authors",
+          "font": "InterVariable.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": [
+    {
+      "filename": "Inter.ttc",
+      "fonts": [
+        {
+          "name": "Inter",
+          "styles": [
+            {
+              "family_name": "Inter",
+              "type": "Bold",
+              "full_name": "Inter Bold",
+              "post_script_name": "Inter-Bold",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter",
+              "type": "Bold Italic",
+              "full_name": "Inter Bold Italic",
+              "post_script_name": "Inter-BoldItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter",
+              "type": "Italic",
+              "full_name": "Inter Italic",
+              "post_script_name": "Inter-Italic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter",
+              "type": "Regular",
+              "full_name": "Inter Regular",
+              "post_script_name": "Inter-Regular",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Black",
+          "styles": [
+            {
+              "family_name": "Inter Black",
+              "type": "Italic",
+              "full_name": "Inter Black Italic",
+              "post_script_name": "Inter-BlackItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Black",
+              "type": "Regular",
+              "full_name": "Inter Black",
+              "post_script_name": "Inter-Black",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display",
+          "styles": [
+            {
+              "family_name": "Inter Display",
+              "type": "Bold",
+              "full_name": "Inter Display Bold",
+              "post_script_name": "InterDisplay-Bold",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display",
+              "type": "Bold Italic",
+              "full_name": "Inter Display Bold Italic",
+              "post_script_name": "InterDisplay-BoldItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display",
+              "type": "Italic",
+              "full_name": "Inter Display Italic",
+              "post_script_name": "InterDisplay-Italic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display",
+              "type": "Regular",
+              "full_name": "Inter Display Regular",
+              "post_script_name": "InterDisplay-Regular",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display Black",
+          "styles": [
+            {
+              "family_name": "Inter Display Black",
+              "type": "Italic",
+              "full_name": "Inter Display Black Italic",
+              "post_script_name": "InterDisplay-BlackItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display Black",
+              "type": "Regular",
+              "full_name": "Inter Display Black",
+              "post_script_name": "InterDisplay-Black",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display ExtraBold",
+          "styles": [
+            {
+              "family_name": "Inter Display ExtraBold",
+              "type": "Italic",
+              "full_name": "Inter Display ExtraBold Italic",
+              "post_script_name": "InterDisplay-ExtraBoldItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display ExtraBold",
+              "type": "Regular",
+              "full_name": "Inter Display ExtraBold",
+              "post_script_name": "InterDisplay-ExtraBold",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display ExtraLight",
+          "styles": [
+            {
+              "family_name": "Inter Display ExtraLight",
+              "type": "Italic",
+              "full_name": "Inter Display ExtraLight Italic",
+              "post_script_name": "InterDisplay-ExtraLightItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display ExtraLight",
+              "type": "Regular",
+              "full_name": "Inter Display ExtraLight",
+              "post_script_name": "InterDisplay-ExtraLight",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display Light",
+          "styles": [
+            {
+              "family_name": "Inter Display Light",
+              "type": "Italic",
+              "full_name": "Inter Display Light Italic",
+              "post_script_name": "InterDisplay-LightItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display Light",
+              "type": "Regular",
+              "full_name": "Inter Display Light",
+              "post_script_name": "InterDisplay-Light",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display Medium",
+          "styles": [
+            {
+              "family_name": "Inter Display Medium",
+              "type": "Italic",
+              "full_name": "Inter Display Medium Italic",
+              "post_script_name": "InterDisplay-MediumItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display Medium",
+              "type": "Regular",
+              "full_name": "Inter Display Medium",
+              "post_script_name": "InterDisplay-Medium",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display SemiBold",
+          "styles": [
+            {
+              "family_name": "Inter Display SemiBold",
+              "type": "Italic",
+              "full_name": "Inter Display SemiBold Italic",
+              "post_script_name": "InterDisplay-SemiBoldItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display SemiBold",
+              "type": "Regular",
+              "full_name": "Inter Display SemiBold",
+              "post_script_name": "InterDisplay-SemiBold",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Display Thin",
+          "styles": [
+            {
+              "family_name": "Inter Display Thin",
+              "type": "Italic",
+              "full_name": "Inter Display Thin Italic",
+              "post_script_name": "InterDisplay-ThinItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Display Thin",
+              "type": "Regular",
+              "full_name": "Inter Display Thin",
+              "post_script_name": "InterDisplay-Thin",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter ExtraBold",
+          "styles": [
+            {
+              "family_name": "Inter ExtraBold",
+              "type": "Italic",
+              "full_name": "Inter ExtraBold Italic",
+              "post_script_name": "Inter-ExtraBoldItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter ExtraBold",
+              "type": "Regular",
+              "full_name": "Inter ExtraBold",
+              "post_script_name": "Inter-ExtraBold",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter ExtraLight",
+          "styles": [
+            {
+              "family_name": "Inter ExtraLight",
+              "type": "Italic",
+              "full_name": "Inter ExtraLight Italic",
+              "post_script_name": "Inter-ExtraLightItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter ExtraLight",
+              "type": "Regular",
+              "full_name": "Inter ExtraLight",
+              "post_script_name": "Inter-ExtraLight",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Light",
+          "styles": [
+            {
+              "family_name": "Inter Light",
+              "type": "Italic",
+              "full_name": "Inter Light Italic",
+              "post_script_name": "Inter-LightItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Light",
+              "type": "Regular",
+              "full_name": "Inter Light",
+              "post_script_name": "Inter-Light",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Medium",
+          "styles": [
+            {
+              "family_name": "Inter Medium",
+              "type": "Italic",
+              "full_name": "Inter Medium Italic",
+              "post_script_name": "Inter-MediumItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Medium",
+              "type": "Regular",
+              "full_name": "Inter Medium",
+              "post_script_name": "Inter-Medium",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter SemiBold",
+          "styles": [
+            {
+              "family_name": "Inter SemiBold",
+              "type": "Italic",
+              "full_name": "Inter SemiBold Italic",
+              "post_script_name": "Inter-SemiBoldItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter SemiBold",
+              "type": "Regular",
+              "full_name": "Inter SemiBold",
+              "post_script_name": "Inter-SemiBold",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        },
+        {
+          "name": "Inter Thin",
+          "styles": [
+            {
+              "family_name": "Inter Thin",
+              "type": "Italic",
+              "full_name": "Inter Thin Italic",
+              "post_script_name": "Inter-ThinItalic",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            },
+            {
+              "family_name": "Inter Thin",
+              "type": "Regular",
+              "full_name": "Inter Thin",
+              "post_script_name": "Inter-Thin",
+              "version": "4.000;git-a52131595",
+              "copyright": "Copyright 2016 The Inter Project Authors"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

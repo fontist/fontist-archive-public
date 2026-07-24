@@ -1,0 +1,50 @@
+{
+  "slug": "macos/kannada_sangam_mn",
+  "name": "kannada_sangam_mn",
+  "description": "Kannada Sangam MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2009 by Muthu Nedumaran. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Kannada_Sangam_MN.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/5e441da9c3c718be916d675cbfef098fe8034765.zip"
+      ],
+      "sha256": "cbe06d11d9b7f191e36f2989a3a4f5781fd24c339e1a639b99b3caa976ccedf5",
+      "file_size": 117099
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Kannada-Sangam-MN.ttc",
+      "fonts": [
+        {
+          "name": "Kannada Sangam MN",
+          "styles": [
+            {
+              "family_name": "Kannada Sangam MN",
+              "type": "Bold",
+              "full_name": "Kannada Sangam MN Bold",
+              "post_script_name": "KannadaSangamMN-Bold",
+              "version": "14.0d2e4",
+              "copyright": "Copyright (c) 2009 by Muthu Nedumaran. All rights reserved.",
+              "description": "Copyright (c) 2009 by Muthu Nedumaran. All rights reserved."
+            },
+            {
+              "family_name": "Kannada Sangam MN",
+              "type": "Regular",
+              "full_name": "Kannada Sangam MN",
+              "post_script_name": "KannadaSangamMN",
+              "version": "14.0d2e4",
+              "copyright": "Copyright (c) 2009 by Muthu Nedumaran. All rights reserved.",
+              "description": "Copyright (c) 2009 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

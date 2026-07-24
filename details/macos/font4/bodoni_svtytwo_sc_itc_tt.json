@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/bodoni_svtytwo_sc_itc_tt",
+  "name": "Bodoni SvtyTwo SC ITC TT",
+  "description": "Bodoni SvtyTwo SC ITC TT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7accd6b42682ea71d075b69fde3df7d87c27978f.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/7accd6b42682ea71d075b69fde3df7d87c27978f.zip"
+      ],
+      "sha256": "3a2544e663c85c082586a18fe309abf266a0b9512bb950e5ea85eb6c9e91b91a",
+      "file_size": 51133
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bodoni SvtyTwo SC ITC TT",
+      "styles": [
+        {
+          "family_name": "Bodoni SvtyTwo SC ITC TT",
+          "type": "Book",
+          "full_name": "Bodoni SvtyTwo SC ITC TT Book",
+          "post_script_name": "BodoniSvtyTwoSCITCTT-Book",
+          "version": "13.0d2e1",
+          "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved.",
+          "font": "BodoniSvtyTwoSCITCTT-Book.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

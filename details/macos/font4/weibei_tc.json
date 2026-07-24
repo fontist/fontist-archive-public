@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/weibei_tc",
+  "name": "Weibei TC",
+  "description": "Weibei TC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "©2012, Arphic Technology Co., Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "d5b95291798fea1a60a37226fe357503a03f633d.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/d5b95291798fea1a60a37226fe357503a03f633d.zip"
+      ],
+      "sha256": "758e34a9f3524551b760ff707116c86955317d7c00daa79dde1d046577b51c65",
+      "file_size": 11034552
+    }
+  },
+  "fonts": [
+    {
+      "name": "Weibei TC Bold",
+      "styles": [
+        {
+          "family_name": "Weibei TC Bold",
+          "type": "Bold",
+          "full_name": "Weibei TC Bold",
+          "post_script_name": "WeibeiTC-Bold",
+          "version": "13.0d2e2",
+          "copyright": "©2012, Arphic Technology Co., Ltd. All rights reserved.",
+          "font": "WeibeiTC-Bold.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

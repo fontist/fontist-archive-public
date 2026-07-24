@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/diwan_thuluth_10m11177",
+  "name": "Diwan Thuluth",
+  "description": "Diwan Thuluth",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd. All rights reserved. Programmed by Anmar Sabeeh & Abu Hassan.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "2d1962911c556b670cd3e650da8165b8b028ea4f.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/2d1962911c556b670cd3e650da8165b8b028ea4f.zip"
+      ],
+      "sha256": "66d050e62e2223cd716ce86ab4bf6a9c34715bed8f558ea09a4414690695e12b",
+      "file_size": 220010
+    }
+  },
+  "fonts": [
+    {
+      "name": "Diwan Thuluth",
+      "styles": [
+        {
+          "family_name": "Diwan Thuluth",
+          "type": "Regular",
+          "full_name": "Diwan Thuluth Regular",
+          "post_script_name": "DiwanThuluth",
+          "version": "13.0d1e5",
+          "copyright": "� 2001 Diwan Software Ltd. All rights reserved. Programmed by Anmar Sabeeh & Abu Hassan.",
+          "font": "DiwanThuluth.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

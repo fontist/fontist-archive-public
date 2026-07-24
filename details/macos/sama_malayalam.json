@@ -1,0 +1,101 @@
+{
+  "slug": "macos/sama_malayalam",
+  "name": "sama_malayalam",
+  "description": "Sama Malayalam",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://ektype.in/EULA-EK-TYPE.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Sama_Malayalam.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/c14fe09aac55e2a811b21b562dc053a3026220b7.zip"
+      ],
+      "sha256": "1383f63c92977d33101021a9b207f2e118e3a45eea8d7e9113bbdb074e8f7f54",
+      "file_size": 307335
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SamaMalayalam.ttc",
+      "fonts": [
+        {
+          "name": "Sama Malayalam",
+          "styles": [
+            {
+              "family_name": "Sama Malayalam",
+              "type": "Bold",
+              "full_name": "Sama Malayalam Bold",
+              "post_script_name": "SamaMalayalam-Bold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            },
+            {
+              "family_name": "Sama Malayalam",
+              "type": "Regular",
+              "full_name": "Sama Malayalam Regular",
+              "post_script_name": "SamaMalayalam-Regular",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Malayalam Book",
+          "styles": [
+            {
+              "family_name": "Sama Malayalam Book",
+              "type": "Regular",
+              "full_name": "Sama Malayalam Book",
+              "post_script_name": "SamaMalayalam-Book",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Malayalam ExtraBold",
+          "styles": [
+            {
+              "family_name": "Sama Malayalam ExtraBold",
+              "type": "Regular",
+              "full_name": "Sama Malayalam ExtraBold",
+              "post_script_name": "SamaMalayalam-ExtraBold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Malayalam Medium",
+          "styles": [
+            {
+              "family_name": "Sama Malayalam Medium",
+              "type": "Regular",
+              "full_name": "Sama Malayalam Medium",
+              "post_script_name": "SamaMalayalam-Medium",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Malayalam SemiBold",
+          "styles": [
+            {
+              "family_name": "Sama Malayalam SemiBold",
+              "type": "Regular",
+              "full_name": "Sama Malayalam SemiBold",
+              "post_script_name": "SamaMalayalam-SemiBold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

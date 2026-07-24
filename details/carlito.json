@@ -1,0 +1,69 @@
+{
+  "slug": "carlito",
+  "name": "Carlito",
+  "description": "Carlito",
+  "homepage": "http://www.typoland.com/",
+  "copyright": "Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Carlito\". Licensed under the SIL Open Font License, Version 1.1.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Carlito.zip": {
+      "urls": [
+        "https://github.com/googlefonts/carlito/archive/64cab86c9b602088697294736b86f2831f3f44be.zip",
+        "https://web.archive.org/web/20260506003727/https://codeload.github.com/googlefonts/carlito/zip/64cab86c9b602088697294736b86f2831f3f44be"
+      ],
+      "sha256": "98f42810c77c77a9b3495066dcdb831edfbdbfd65c16caf4c849bf42d440607a",
+      "file_size": 1168773
+    }
+  },
+  "fonts": [
+    {
+      "name": "Carlito",
+      "styles": [
+        {
+          "family_name": "Carlito",
+          "type": "Bold",
+          "full_name": "Carlito Bold",
+          "post_script_name": "Carlito-Bold",
+          "version": "1.103; Beta1; all basic design good, some composites may be off;; ttfautohint (v0.96) -l 8 -r 50 -G 200 -x 0 -w \"G\" -W -f",
+          "copyright": "Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Carlito\". Licensed under the SIL Open Font License, Version 1.1.",
+          "description": "Carlito is a sanserif typeface family based on Lato.",
+          "font": "Carlito-Bold.ttf"
+        },
+        {
+          "family_name": "Carlito",
+          "type": "Bold Italic",
+          "full_name": "Carlito Bold Italic",
+          "post_script_name": "Carlito-BoldItalic",
+          "version": "1.103; Beta1; Latin basic design good, other scripts temporary, some composites may be off;; ttfautohint (v0.96) -l 8 -r 50 -G 200 -x 0 -w \"G\" -W -f",
+          "copyright": "Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Carlito\". Licensed under the SIL Open Font License, Version 1.1.",
+          "description": "Carlito is a sanserif typeface family based on Lato.",
+          "font": "Carlito-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Carlito",
+          "type": "Italic",
+          "full_name": "Carlito Italic",
+          "post_script_name": "Carlito-Italic",
+          "version": "1.103; Beta1; Latin basic design good, other scripts temporary, some composites may be off;; ttfautohint (v0.96) -l 8 -r 50 -G 200 -x 0 -w \"G\" -W -f",
+          "copyright": "Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Carlito\". Licensed under the SIL Open Font License, Version 1.1.",
+          "description": "Carlito is a sanserif typeface family based on Lato.",
+          "font": "Carlito-Italic.ttf"
+        },
+        {
+          "family_name": "Carlito",
+          "type": "Regular",
+          "full_name": "Carlito",
+          "post_script_name": "Carlito",
+          "version": "1.103; Beta1; all basic design good, some composites may be off;; ttfautohint (v0.96) -l 8 -r 50 -G 200 -x 0 -w \"G\" -W -f",
+          "copyright": "Copyright (c) 2010-2013 by tyPoland Lukasz Dziedzic with Reserved Font Name \"Carlito\". Licensed under the SIL Open Font License, Version 1.1.",
+          "description": "Carlito is a sanserif typeface family based on Lato.",
+          "font": "Carlito-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

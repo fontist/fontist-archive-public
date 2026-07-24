@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/portagoitc_tt",
+  "name": "PortagoITC TT",
+  "description": "PortagoITC TT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1995-1997 International Typeface Corporation.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "afd14698c838d2b5596043b0f484c79fc3c7eead.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/afd14698c838d2b5596043b0f484c79fc3c7eead.zip"
+      ],
+      "sha256": "80c8b406c407bf7607c2931f440ed524cfc41506a0202c2afb70f323ad8320d8",
+      "file_size": 85603
+    }
+  },
+  "fonts": [
+    {
+      "name": "PortagoITC TT",
+      "styles": [
+        {
+          "family_name": "PortagoITC TT",
+          "type": "Regular",
+          "full_name": "PortagoITC TT",
+          "post_script_name": "PortagoITCTT",
+          "version": "13.0d1e4",
+          "copyright": "Copyright � 1995-1997 International Typeface Corporation.  All rights reserved.",
+          "font": "PortagoITCTT.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/al_tarikh",
+  "name": "Al Tarikh",
+  "description": "Al Tarikh",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b0f395134dc9976924e118a291aa0349c08e4016.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/b0f395134dc9976924e118a291aa0349c08e4016.zip"
+      ],
+      "sha256": "8efec7593b69f5f5832ad9fd6373576b64bc526b68129c9e76a4fa909b80bfb2",
+      "file_size": 43080
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AlTarikh.ttc",
+      "fonts": [
+        {
+          "name": ".Al Tarikh PUA",
+          "styles": [
+            {
+              "family_name": ".Al Tarikh PUA",
+              "type": "Regular",
+              "full_name": ".Al Tarikh PUA",
+              "post_script_name": ".AlTarikhPUA",
+              "version": "13.0d2e1",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Al Tarikh",
+          "styles": [
+            {
+              "family_name": "Al Tarikh",
+              "type": "Regular",
+              "full_name": "Al Tarikh Regular",
+              "post_script_name": "AlTarikh",
+              "version": "13.0d2e1",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

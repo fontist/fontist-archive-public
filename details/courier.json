@@ -1,0 +1,72 @@
+{
+  "slug": "courier",
+  "name": "Courier",
+  "description": "Microsoft TrueType Core fonts for the Web",
+  "homepage": "https://www.microsoft.com",
+  "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc/Type Solutions Inc. 1990-1992. All Rights Reserved",
+  "spdx_license": "LicenseRef-Microsoft-fontpack-19980728",
+  "license_url": "http://www.monotype.com/html/type/license.html",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "courie32.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/archive/-/raw/master/courie32.exe",
+        "https://web.archive.org/web/20260506003942/https://gitlab.com/fontmirror/archive/-/raw/master/courie32.exe",
+        "https://nchc.dl.sourceforge.net/project/corefonts/the%20fonts/final/courie32.exe",
+        "http://sft.if.usp.br/msttcorefonts/courie32.exe",
+        "https://web.archive.org/web/20260505172832/http://sft.if.usp.br/msttcorefonts/courie32.exe"
+      ],
+      "sha256": "bb511d861655dde879ae552eb86b134d6fae67cb58502e6ff73ec5d9151f3384",
+      "file_size": 646368
+    }
+  },
+  "fonts": [
+    {
+      "name": "Courier New",
+      "styles": [
+        {
+          "family_name": "Courier New",
+          "type": "Regular",
+          "full_name": "Courier New",
+          "post_script_name": "CourierNewPSMT",
+          "version": "2.82",
+          "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc/Type Solutions Inc. 1990-1994. All Rights Reserved",
+          "description": "Designed as a typewriter face for IBM, Courier was re drawn by Adrian Frutiger for IBM Selectric series.  A typical fixed pitch design, monotone in weight and slab serif in concept.  Used to emulate typewriter output for reports, tabular work and technical documentation.",
+          "font": "cour.ttf"
+        },
+        {
+          "family_name": "Courier New",
+          "type": "Bold",
+          "full_name": "Courier New Bold",
+          "post_script_name": "CourierNewPS-BoldMT",
+          "version": "2.82",
+          "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc/Type Solutions Inc. 1990-1992. All Rights Reserved",
+          "description": "Designed as a typewriter face for IBM, Courier was re drawn by Adrian Frutiger for IBM Selectric series.  A typical fixed pitch design, monotone in weight and slab serif in concept.  Used to emulate typewriter output for reports, tabular work and technical documentation.",
+          "font": "courbd.ttf"
+        },
+        {
+          "family_name": "Courier New",
+          "type": "Bold Italic",
+          "full_name": "Courier New Bold Italic",
+          "post_script_name": "CourierNewPS-BoldItalicMT",
+          "version": "2.82",
+          "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc/Type Solutions Inc. 1990-1992. All Rights Reserved",
+          "description": "Designed as a typewriter face for IBM, Courier was re drawn by Adrian Frutiger for IBM Selectric series.  A typical fixed pitch design, monotone in weight and slab serif in concept.  Used to emulate typewriter output for reports, tabular work and technical documentation.",
+          "font": "courbi.ttf"
+        },
+        {
+          "family_name": "Courier New",
+          "type": "Italic",
+          "full_name": "Courier New Italic",
+          "post_script_name": "CourierNewPS-ItalicMT",
+          "version": "2.82",
+          "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc/Type Solutions Inc. 1990-1992. All Rights Reserved",
+          "description": "Designed as a typewriter face for IBM, Courier was re drawn by Adrian Frutiger for IBM Selectric series.  A typical fixed pitch design, monotone in weight and slab serif in concept.  Used to emulate typewriter output for reports, tabular work and technical documentation.",
+          "font": "couri.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

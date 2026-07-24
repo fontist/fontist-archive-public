@@ -1,0 +1,37 @@
+{
+  "slug": "macos/wingdings_2_10m11177",
+  "name": "Wingdings 2",
+  "description": "Wingdings 2",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Wingdings 2 designed by Bigelow & Holmes Inc. for Microsoft Corporation. Copyright © 1992 Microsoft Corporation. Pat. Pend. All Rights Reserved. © 1990-1991 Type Solutions, Inc. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "33d1dca9437f91c0414824f958e12c79eb95328f.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/33d1dca9437f91c0414824f958e12c79eb95328f.zip"
+      ],
+      "sha256": "36497de38f4d99eae57fed525a66fb7eea17b22c379f7398659fff27cbdc7e09",
+      "file_size": 39862,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wingdings 2",
+      "styles": [
+        {
+          "family_name": "Wingdings 2",
+          "type": "Regular",
+          "full_name": "Wingdings 2",
+          "post_script_name": "Wingdings2",
+          "version": "1.55x",
+          "copyright": "Wingdings 2 designed by Bigelow & Holmes Inc. for Microsoft Corporation. Copyright © 1992 Microsoft Corporation. Pat. Pend. All Rights Reserved. © 1990-1991 Type Solutions, Inc. All Rights Reserved.",
+          "font": "WINGDNG2.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

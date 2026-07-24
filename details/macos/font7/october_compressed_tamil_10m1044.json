@@ -1,0 +1,149 @@
+{
+  "slug": "macos/font7/october_compressed_tamil_10m1044",
+  "name": "October Compressed Tamil",
+  "description": "October Compressed Tamil",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "f2b6c680f623511aa7ea96fc8e3486c95939a364.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/f2b6c680f623511aa7ea96fc8e3486c95939a364.zip"
+      ],
+      "sha256": "9551db103500eb792f2e79cd77474dd3b76ed23dd242e23da6f9f1b6a2ac9ef7",
+      "file_size": 506628
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "OctoberCompressedTamil.ttc",
+      "fonts": [
+        {
+          "name": "October Compressed Tamil",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil",
+              "type": "Bold",
+              "full_name": "October Compressed Tamil Bold",
+              "post_script_name": "OctoberCompressedTL-Bold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            },
+            {
+              "family_name": "October Compressed Tamil",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Regular",
+              "post_script_name": "OctoberCompressedTL-Regular",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil Black",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil Black",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Black",
+              "post_script_name": "OctoberCompressedTL-Black",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil ExtraLight",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil ExtraLight",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil ExtraLight",
+              "post_script_name": "OctoberCompressedTL-ExtraLight",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil Hairline",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil Hairline",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Hairline",
+              "post_script_name": "OctoberCompressedTL-Hairline",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil Heavy",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil Heavy",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Heavy",
+              "post_script_name": "OctoberCompressedTL-Heavy",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil Light",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil Light",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Light",
+              "post_script_name": "OctoberCompressedTL-Light",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil Medium",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil Medium",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Medium",
+              "post_script_name": "OctoberCompressedTL-Medium",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Tamil Thin",
+          "styles": [
+            {
+              "family_name": "October Compressed Tamil Thin",
+              "type": "Regular",
+              "full_name": "October Compressed Tamil Thin",
+              "post_script_name": "OctoberCompressedTL-Thin",
+              "version": "15.0d1e6",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

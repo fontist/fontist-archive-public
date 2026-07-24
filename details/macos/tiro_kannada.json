@@ -1,0 +1,41 @@
+{
+  "slug": "macos/tiro_kannada",
+  "name": "tiro_kannada",
+  "description": "Tiro Kannada",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016 by Tiro Typeworks Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.tiro.com/license",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Tiro_Kannada.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/24d44b218f90c4d67c550be3aeccd44c28a48f80.zip"
+      ],
+      "sha256": "c7f3e4e923e8075a9e5e2f06b5d6d933b495607ff182fe5eefe0f53d337f5b2a",
+      "file_size": 107612
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TiroKannada.ttc",
+      "fonts": [
+        {
+          "name": "Tiro Kannada",
+          "styles": [
+            {
+              "family_name": "Tiro Kannada",
+              "type": "Regular",
+              "full_name": "TiroKannada",
+              "post_script_name": "TiroKannada",
+              "version": "14.0d1e4",
+              "copyright": "Copyright (c) 2016 by Tiro Typeworks Ltd. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

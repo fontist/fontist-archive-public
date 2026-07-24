@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/type_embellishments_one_let",
+  "name": "Type Embellishments One LET",
+  "description": "Type Embellishments One LET",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1993 Esselte Letraset, Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1c243a0ec7ecab5acc8336fa502ffb99bafa4ef1.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/1c243a0ec7ecab5acc8336fa502ffb99bafa4ef1.zip"
+      ],
+      "sha256": "26ffa740f9a3ddff71d026712410f571491fb3be2b0ba665aeb3dfc505385304",
+      "file_size": 55624
+    }
+  },
+  "fonts": [
+    {
+      "name": "Type Embellishments One LET",
+      "styles": [
+        {
+          "family_name": "Type Embellishments One LET",
+          "type": "Embellishments One LET Plain",
+          "full_name": "Type Embellishments One LET Embellishments One LET Plain:1.0",
+          "post_script_name": "TypeEmbellishmentsOneLetPlain",
+          "version": "13.0d2e7",
+          "copyright": "Copyright � 1993 Esselte Letraset, Ltd. All rights reserved.",
+          "font": "TypeEmbellishmentOneLET.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

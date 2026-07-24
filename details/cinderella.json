@@ -1,0 +1,52 @@
+{
+  "slug": "cinderella",
+  "name": "cinderella",
+  "description": "Cinderella",
+  "homepage": "http://modi.jpn.org/",
+  "copyright": "MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Cinderella.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_cinderella_2017_1022.zip",
+        "https://web.archive.org/web/20260506003742/https://modi.jpn.org/download/MODI_cinderella_2017_1022.zip"
+      ],
+      "sha256": "38e47bd316c181f5266de6a4aabd3d8f0da5adadbcde243e76f52cb5ea8f94b9",
+      "file_size": 320025
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cinderella",
+      "styles": [
+        {
+          "family_name": "Cinderella",
+          "type": "Regular",
+          "full_name": "Cinderella",
+          "post_script_name": "Cinderella",
+          "version": "1.00.20171022",
+          "copyright": "MODI",
+          "font": "Cinderella.otf"
+        }
+      ]
+    },
+    {
+      "name": "Cinderella-Bold",
+      "styles": [
+        {
+          "family_name": "Cinderella-Bold",
+          "type": "Bold",
+          "full_name": "Cinderella-Bold",
+          "post_script_name": "Cinderella-Bold",
+          "version": "1.00.20171022",
+          "copyright": "MODI",
+          "font": "Cinderella-Bold.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

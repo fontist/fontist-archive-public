@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font8/sana_10m11177",
+  "name": "Sana",
+  "description": "Sana",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "03d8776a553f0a74485cc0cf3b7293aa499450dd.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/03d8776a553f0a74485cc0cf3b7293aa499450dd.zip"
+      ],
+      "sha256": "3f56c77a3b25fde16f149c386181a9dee879405d41594cd79d9cca5030fd9dc0",
+      "file_size": 39573
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Sana.ttc",
+      "fonts": [
+        {
+          "name": ".Sana PUA",
+          "styles": [
+            {
+              "family_name": ".Sana PUA",
+              "type": "Regular",
+              "full_name": ".Sana PUA",
+              "post_script_name": ".SanaPUA",
+              "version": "13.0d1e4",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Sana",
+          "styles": [
+            {
+              "family_name": "Sana",
+              "type": "Regular",
+              "full_name": "Sana Regular",
+              "post_script_name": "Sana",
+              "version": "13.0d1e4",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

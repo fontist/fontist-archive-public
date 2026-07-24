@@ -1,0 +1,158 @@
+{
+  "slug": "liberation",
+  "name": "Liberation",
+  "description": "Liberation",
+  "homepage": "https://github.com/liberationfonts/liberation-fonts",
+  "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "gz",
+  "resources": {
+    "liberation-fonts-ttf-2.1.5.tar.gz": {
+      "urls": [
+        "https://github.com/liberationfonts/liberation-fonts/files/7261482/liberation-fonts-ttf-2.1.5.tar.gz"
+      ],
+      "sha256": "7191c669bf38899f73a2094ed00f7b800553364f90e2637010a69c0e268f25d0",
+      "file_size": 2385008
+    }
+  },
+  "fonts": [
+    {
+      "name": "Liberation Mono",
+      "styles": [
+        {
+          "family_name": "Liberation Mono",
+          "type": "Bold",
+          "full_name": "Liberation Mono Bold",
+          "post_script_name": "LiberationMono-Bold",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New™. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationMono-Bold.ttf"
+        },
+        {
+          "family_name": "Liberation Mono",
+          "type": "Bold Italic",
+          "full_name": "Liberation Mono Bold Italic",
+          "post_script_name": "LiberationMono-BoldItalic",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New™. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationMono-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Liberation Mono",
+          "type": "Italic",
+          "full_name": "Liberation Mono Italic",
+          "post_script_name": "LiberationMono-Italic",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New™. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationMono-Italic.ttf"
+        },
+        {
+          "family_name": "Liberation Mono",
+          "type": "Regular",
+          "full_name": "Liberation Mono",
+          "post_script_name": "LiberationMono",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Cousine, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Courier New™. Cousine offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationMono-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Liberation Sans",
+      "styles": [
+        {
+          "family_name": "Liberation Sans",
+          "type": "Bold",
+          "full_name": "Liberation Sans Bold",
+          "post_script_name": "LiberationSans-Bold",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial™. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSans-Bold.ttf"
+        },
+        {
+          "family_name": "Liberation Sans",
+          "type": "Bold Italic",
+          "full_name": "Liberation Sans Bold Italic",
+          "post_script_name": "LiberationSans-BoldItalic",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial™. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSans-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Liberation Sans",
+          "type": "Italic",
+          "full_name": "Liberation Sans Italic",
+          "post_script_name": "LiberationSans-Italic",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial™. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSans-Italic.ttf"
+        },
+        {
+          "family_name": "Liberation Sans",
+          "type": "Regular",
+          "full_name": "Liberation Sans",
+          "post_script_name": "LiberationSans",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Arimo, which was designed by Steve Matteson as an innovative, refreshing sans serif design that is metrically compatible with Arial™. Arimo offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSans-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Liberation Serif",
+      "styles": [
+        {
+          "family_name": "Liberation Serif",
+          "type": "Bold",
+          "full_name": "Liberation Serif Bold",
+          "post_script_name": "LiberationSerif-Bold",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSerif-Bold.ttf"
+        },
+        {
+          "family_name": "Liberation Serif",
+          "type": "Bold Italic",
+          "full_name": "Liberation Serif Bold Italic",
+          "post_script_name": "LiberationSerif-BoldItalic",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSerif-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Liberation Serif",
+          "type": "Italic",
+          "full_name": "Liberation Serif Italic",
+          "post_script_name": "LiberationSerif-Italic",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSerif-Italic.ttf"
+        },
+        {
+          "family_name": "Liberation Serif",
+          "type": "Regular",
+          "full_name": "Liberation Serif",
+          "post_script_name": "LiberationSerif",
+          "version": "2.1.5",
+          "copyright": "Digitized data copyright (c) 2010 Google Corporation.",
+          "description": "Based on Tinos, which was designed by Steve Matteson as an innovative, refreshing serif design that is metrically compatible with Times New Roman™. Tinos offers improved on-screen readability characteristics and the pan-European WGL character set and solves the needs of developers looking for width-compatible fonts to address document portability across platforms.",
+          "font": "LiberationSerif-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

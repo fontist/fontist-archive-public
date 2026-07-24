@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/apple_braille_10m11177",
+  "name": "Apple Braille",
+  "description": "Apple Braille",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� Copyright 2007 by Apple, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "940c10f1e79d2bf3fc3b7055e4492491ede3e57c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/940c10f1e79d2bf3fc3b7055e4492491ede3e57c.zip"
+      ],
+      "sha256": "e3d2176f57ddd9e7bc8c6755d31873d5b661ffee766738edae83e600e7960942",
+      "file_size": 27335
+    }
+  },
+  "fonts": [
+    {
+      "name": "Apple Braille",
+      "styles": [
+        {
+          "family_name": "Apple Braille",
+          "type": "Outline 8 Dot",
+          "full_name": "Apple Braille Outline 8 Dot",
+          "post_script_name": "AppleBraille-Outline8Dot",
+          "version": "13.0d2e27",
+          "copyright": "� Copyright 2007 by Apple, Inc.",
+          "font": "AppleBraille-Outline8Dot.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

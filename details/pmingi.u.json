@@ -1,0 +1,37 @@
+{
+  "slug": "pmingi.u",
+  "name": "PMingI.U",
+  "description": "PMingI.U",
+  "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "PMingI.U-8.10.ttf": {
+      "urls": [
+        "https://github.com/ichitenfont/I.Ming/releases/download/8.10/PMingI.U-8.10.ttf"
+      ],
+      "sha256": "4bcaff6de675cab7912a01c508aa49b01bccdacff263c9e31657f7e2f821046e",
+      "file_size": 25886832,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "PMingI.U",
+      "styles": [
+        {
+          "family_name": "PMingI.U",
+          "type": "Regular",
+          "full_name": "PMingI.U",
+          "post_script_name": "PMingI.U-Regular",
+          "version": "8.100; Apr 20, 2024",
+          "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "font": "PMingI.U-8.10.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

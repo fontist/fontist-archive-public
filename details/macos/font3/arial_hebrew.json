@@ -1,0 +1,114 @@
+{
+  "slug": "macos/font3/arial_hebrew",
+  "name": "Arial Hebrew",
+  "description": "Arial Hebrew",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3c2c35388e7b58f6f70f5643c91788cbd416a134.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/3c2c35388e7b58f6f70f5643c91788cbd416a134.zip"
+      ],
+      "sha256": "3f49cded6e5c1d64bc9cae9bfe0f5b06929296971f8aa687b2398e50a2e75356",
+      "file_size": 55596
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ArialHB.ttc",
+      "fonts": [
+        {
+          "name": ".Arial Hebrew Desk Interface",
+          "styles": [
+            {
+              "family_name": ".Arial Hebrew Desk Interface",
+              "type": "Bold",
+              "full_name": ".Arial Hebrew Desk Interface Bold",
+              "post_script_name": ".ArialHebrewDeskInterface-Bold",
+              "version": "10.0d7e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": ".Arial Hebrew Desk Interface",
+              "type": "Light",
+              "full_name": ".Arial Hebrew Desk Interface Light",
+              "post_script_name": ".ArialHebrewDeskInterface-Light",
+              "version": "10.0d7e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": ".Arial Hebrew Desk Interface",
+              "type": "Regular",
+              "full_name": ".Arial Hebrew Desk Interface",
+              "post_script_name": ".ArialHebrewDeskInterface",
+              "version": "10.0d7e1",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Arial Hebrew",
+          "styles": [
+            {
+              "family_name": "Arial Hebrew",
+              "type": "Bold",
+              "full_name": "Arial Hebrew Bold",
+              "post_script_name": "ArialHebrew-Bold",
+              "version": "10.0d7e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": "Arial Hebrew",
+              "type": "Light",
+              "full_name": "Arial Hebrew Light",
+              "post_script_name": "ArialHebrew-Light",
+              "version": "10.0d7e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": "Arial Hebrew",
+              "type": "Regular",
+              "full_name": "Arial Hebrew",
+              "post_script_name": "ArialHebrew",
+              "version": "10.0d7e1",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Arial Hebrew Scholar",
+          "styles": [
+            {
+              "family_name": "Arial Hebrew Scholar",
+              "type": "Bold",
+              "full_name": "Arial Hebrew Scholar Bold",
+              "post_script_name": "ArialHebrewScholar-Bold",
+              "version": "10.0d7e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": "Arial Hebrew Scholar",
+              "type": "Light",
+              "full_name": "Arial Hebrew Scholar Light",
+              "post_script_name": "ArialHebrewScholar-Light",
+              "version": "10.0d7e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": "Arial Hebrew Scholar",
+              "type": "Regular",
+              "full_name": "Arial Hebrew Scholar",
+              "post_script_name": "ArialHebrewScholar",
+              "version": "10.0d7e1",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

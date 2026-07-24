@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/bm_jua_otf_10m1044",
+  "name": "BM JUA OTF",
+  "description": "BM JUA OTF",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 2014, Woowa Brothers Corp.(www.woowahan.com) with Reserved Font Name \"BM-JUA\".",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "www.woowahan.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "be500dfb81109622b25552bf40ef83b767d2683c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/be500dfb81109622b25552bf40ef83b767d2683c.zip"
+      ],
+      "sha256": "cfb1bef4e86a23ff3a20541dbd444b4bc77446f7e6902c9e1d025c6c2beaed88",
+      "file_size": 465498
+    }
+  },
+  "fonts": [
+    {
+      "name": "BM JUA OTF",
+      "styles": [
+        {
+          "family_name": "BM JUA OTF",
+          "type": "Regular",
+          "full_name": "BM JUA OTF",
+          "post_script_name": "BMJUAOTF",
+          "version": "14.0d1e1",
+          "copyright": "Copyright � 2014, Woowa Brothers Corp.(www.woowahan.com) with Reserved Font Name \"BM-JUA\".",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "font": "BMJua-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

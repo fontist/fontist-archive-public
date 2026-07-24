@@ -1,0 +1,38 @@
+{
+  "slug": "i.ming",
+  "name": "I.Ming",
+  "description": "I.Ming",
+  "homepage": "https://github.com/ichitenfont/I.Ming",
+  "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "I.Ming-8.10.ttf": {
+      "urls": [
+        "https://github.com/ichitenfont/I.Ming/releases/download/8.10/I.Ming-8.10.ttf"
+      ],
+      "sha256": "cba13b75b050d671b611d0063147262e421e14359ad4530948b070f56111f0f3",
+      "file_size": 25887784,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "I.Ming",
+      "styles": [
+        {
+          "family_name": "I.Ming",
+          "type": "Regular",
+          "full_name": "I.Ming",
+          "post_script_name": "I.Ming-Regular",
+          "version": "8.100; Apr 20, 2024",
+          "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "font": "I.Ming-8.10.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

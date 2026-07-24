@@ -1,0 +1,69 @@
+{
+  "slug": "macos/founders_grotesk_text",
+  "name": "founders_grotesk_text",
+  "description": "Founders Grotesk Text",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 Klim Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Founders_Grotesk_Text.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/ios/061-87819-20200306-93DA1D52-6008-11EA-8852-69B153371E3E/com_apple_MobileAsset_Font6/4be032ac0b6a58077f1acb7207441faba84551ae.zip"
+      ],
+      "sha256": "f73b0fdd8621b5298c4fc997935c5f0efdb9fe9b6ce55d056671cd933ee558c9",
+      "file_size": 243757
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "FoundersGroteskText.ttc",
+      "fonts": [
+        {
+          "name": "Founders Grotesk Text Bold",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Text Bold",
+              "type": "Italic",
+              "full_name": "Founders Grotesk Text Bold Italic",
+              "post_script_name": "FoundersGroteskText-BoldItalic",
+              "version": "15.0d1e2",
+              "copyright": "© 2012 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Text Bold",
+              "type": "Regular",
+              "full_name": "Founders Grotesk Text Bold",
+              "post_script_name": "FoundersGroteskText-Bold",
+              "version": "15.0d1e2",
+              "copyright": "© 2012 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Text Regular",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Text Regular",
+              "type": "Italic",
+              "full_name": "Founders Grotesk Text Regular Italic",
+              "post_script_name": "FoundersGroteskText-RegularItalic",
+              "version": "15.0d1e2",
+              "copyright": "© 2012 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Text Regular",
+              "type": "Regular",
+              "full_name": "Founders Grotesk Text",
+              "post_script_name": "FoundersGroteskText-Regular",
+              "version": "15.0d1e2",
+              "copyright": "© 2012 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

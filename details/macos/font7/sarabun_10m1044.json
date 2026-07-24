@@ -1,0 +1,207 @@
+{
+  "slug": "macos/font7/sarabun_10m1044",
+  "name": "Sarabun",
+  "description": "Sarabun",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "bff515501313f56409358f8994642696000d2dbc.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/bff515501313f56409358f8994642696000d2dbc.zip"
+      ],
+      "sha256": "123933eb02c1b6fe1a348d33f9351a5dfa52e1fc0c00611f14f46bfbdf854dff",
+      "file_size": 590025
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Sarabun.ttc",
+      "fonts": [
+        {
+          "name": "Sarabun",
+          "styles": [
+            {
+              "family_name": "Sarabun",
+              "type": "Bold",
+              "full_name": "Sarabun Bold",
+              "post_script_name": "Sarabun-Bold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun",
+              "type": "Bold Italic",
+              "full_name": "Sarabun Bold Italic",
+              "post_script_name": "Sarabun-BoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun",
+              "type": "Italic",
+              "full_name": "Sarabun Italic",
+              "post_script_name": "Sarabun-Italic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun",
+              "type": "Regular",
+              "full_name": "Sarabun Regular",
+              "post_script_name": "Sarabun-Regular",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Sarabun ExtraBold",
+          "styles": [
+            {
+              "family_name": "Sarabun ExtraBold",
+              "type": "Italic",
+              "full_name": "Sarabun ExtraBold Italic",
+              "post_script_name": "Sarabun-ExtraBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun ExtraBold",
+              "type": "Regular",
+              "full_name": "Sarabun ExtraBold",
+              "post_script_name": "Sarabun-ExtraBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Sarabun ExtraLight",
+          "styles": [
+            {
+              "family_name": "Sarabun ExtraLight",
+              "type": "Italic",
+              "full_name": "Sarabun ExtraLight Italic",
+              "post_script_name": "Sarabun-ExtraLightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun ExtraLight",
+              "type": "Regular",
+              "full_name": "Sarabun ExtraLight",
+              "post_script_name": "Sarabun-ExtraLight",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Sarabun Light",
+          "styles": [
+            {
+              "family_name": "Sarabun Light",
+              "type": "Italic",
+              "full_name": "Sarabun Light Italic",
+              "post_script_name": "Sarabun-LightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun Light",
+              "type": "Regular",
+              "full_name": "Sarabun Light",
+              "post_script_name": "Sarabun-Light",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Sarabun Medium",
+          "styles": [
+            {
+              "family_name": "Sarabun Medium",
+              "type": "Italic",
+              "full_name": "Sarabun Medium Italic",
+              "post_script_name": "Sarabun-MediumItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun Medium",
+              "type": "Regular",
+              "full_name": "Sarabun Medium",
+              "post_script_name": "Sarabun-Medium",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Sarabun SemiBold",
+          "styles": [
+            {
+              "family_name": "Sarabun SemiBold",
+              "type": "Italic",
+              "full_name": "Sarabun SemiBold Italic",
+              "post_script_name": "Sarabun-SemiBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun SemiBold",
+              "type": "Regular",
+              "full_name": "Sarabun SemiBold",
+              "post_script_name": "Sarabun-SemiBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Sarabun Thin",
+          "styles": [
+            {
+              "family_name": "Sarabun Thin",
+              "type": "Italic",
+              "full_name": "Sarabun Thin Italic",
+              "post_script_name": "Sarabun-ThinItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Sarabun Thin",
+              "type": "Regular",
+              "full_name": "Sarabun Thin",
+              "post_script_name": "Sarabun-Thin",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Sarabun Project Authors (https://github.com/cadsondemak/Sarabun)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

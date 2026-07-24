@@ -1,0 +1,85 @@
+{
+  "slug": "macos/publico_text_10m11177",
+  "name": "Publico Text",
+  "description": "Publico Text",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "8183b1f6accb3ed4fc5ba4d41cdecd889e63a59a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/8183b1f6accb3ed4fc5ba4d41cdecd889e63a59a.zip"
+      ],
+      "sha256": "c35ea1fd6ae710676d7d6bac8b35f337ae4e4e37cdcec6755f621a272210a78e",
+      "file_size": 408843
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "PublicoText.ttc",
+      "fonts": [
+        {
+          "name": "Publico Text",
+          "styles": [
+            {
+              "family_name": "Publico Text",
+              "type": "Bold",
+              "full_name": "PublicoText-Bold",
+              "post_script_name": "PublicoText-Bold",
+              "version": "15.0d1e2",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            },
+            {
+              "family_name": "Publico Text",
+              "type": "Bold Italic",
+              "full_name": "PublicoText-BoldItalic",
+              "post_script_name": "PublicoText-BoldItalic",
+              "version": "15.0d1e2",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            },
+            {
+              "family_name": "Publico Text",
+              "type": "Italic",
+              "full_name": "PublicoText-Italic",
+              "post_script_name": "PublicoText-Italic",
+              "version": "15.0d1e2",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            },
+            {
+              "family_name": "Publico Text",
+              "type": "Regular",
+              "full_name": "PublicoText-Roman",
+              "post_script_name": "PublicoText-Roman",
+              "version": "15.0d1e2",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Publico Text Semibold",
+          "styles": [
+            {
+              "family_name": "Publico Text Semibold",
+              "type": "Italic",
+              "full_name": "PublicoText-SemiboldItalic",
+              "post_script_name": "PublicoText-SemiboldItalic",
+              "version": "15.0d1e2",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            },
+            {
+              "family_name": "Publico Text Semibold",
+              "type": "Regular",
+              "full_name": "PublicoText-Semibold",
+              "post_script_name": "PublicoText-Semibold",
+              "version": "15.0d1e2",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

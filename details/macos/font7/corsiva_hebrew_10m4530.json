@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/corsiva_hebrew_10m4530",
+  "name": "Corsiva Hebrew",
+  "description": "Corsiva Hebrew",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd. /Type Solutions Inc. 1990-91-92-93. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "47741ac3be2633c618c2f2473f6ccb50e3888d35.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/042-21914/95EBC42B-0CA7-4ABE-9781-08B9B3546ED9/com_apple_MobileAsset_Font7/47741ac3be2633c618c2f2473f6ccb50e3888d35.zip"
+      ],
+      "sha256": "8b18e62470a7b38925087fde2e0ed285fb51c4fb7eb55f48969a910691fc5f7a",
+      "file_size": 44711
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Corsiva.ttc",
+      "fonts": [
+        {
+          "name": "Corsiva Hebrew",
+          "styles": [
+            {
+              "family_name": "Corsiva Hebrew",
+              "type": "Bold",
+              "full_name": "Corsiva Hebrew Bold",
+              "post_script_name": "CorsivaHebrew-Bold",
+              "version": "19.0d1e1",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd. /Type Solutions Inc. 1990-91-92-93 All rights reserved."
+            },
+            {
+              "family_name": "Corsiva Hebrew",
+              "type": "Regular",
+              "full_name": "Corsiva Hebrew",
+              "post_script_name": "CorsivaHebrew",
+              "version": "19.0d1e1",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd. /Type Solutions Inc. 1990-91-92-93. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

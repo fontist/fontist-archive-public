@@ -1,0 +1,39 @@
+{
+  "slug": "macos/jaini_purva_10m11177",
+  "name": "Jaini Purva",
+  "description": "Jaini Purva",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ab47154271c03c8cb99d47b3f3e5489aaec0c212.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/ab47154271c03c8cb99d47b3f3e5489aaec0c212.zip"
+      ],
+      "sha256": "1f425bf4bd0a30ca1af26482474f345a9dc985cce194576bee77623367cfccb0",
+      "file_size": 156502,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jaini Purva",
+      "styles": [
+        {
+          "family_name": "Jaini Purva",
+          "type": "Regular",
+          "full_name": "Jaini Purva",
+          "post_script_name": "JainiPurva",
+          "version": "20.0d1e2 (1.001)",
+          "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "font": "JainiPurvaDevanagari-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

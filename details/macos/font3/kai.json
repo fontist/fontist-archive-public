@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/kai",
+  "name": "Kai",
+  "description": "Kai",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "�Copyright Shanghai Ikarus Ltd. 1993 1994 1995",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5d41a77da0d9f0d78c6e412292d5eeec2ff4f8b2.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/5d41a77da0d9f0d78c6e412292d5eeec2ff4f8b2.zip"
+      ],
+      "sha256": "98d288b026015fb940b21eecac586bac80e9814f3404c64d4f717c8dbb7d7025",
+      "file_size": 5268396
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kai",
+      "styles": [
+        {
+          "family_name": "Kai",
+          "type": "Regular",
+          "full_name": "Kai Regular",
+          "post_script_name": "SIL-Kai-Reg-Jian",
+          "version": "6.1d2e2",
+          "copyright": "�Copyright Shanghai Ikarus Ltd. 1993 1994 1995",
+          "font": "Kai.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

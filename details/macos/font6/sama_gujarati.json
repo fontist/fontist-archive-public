@@ -1,0 +1,107 @@
+{
+  "slug": "macos/font6/sama_gujarati",
+  "name": "Sama Gujarati",
+  "description": "Sama Gujarati",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://ektype.in/EULA-EK-TYPE.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7b1a2eff14b25a4b754ab444ec7e51e1c5b9c1a2.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/7b1a2eff14b25a4b754ab444ec7e51e1c5b9c1a2.zip"
+      ],
+      "sha256": "bc3edcd9dd7920bd834b93d7806245acf798968c4f70e01bc067182424411e1e",
+      "file_size": 1070458
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SamaGujarati.ttc",
+      "fonts": [
+        {
+          "name": "Sama Gujarati",
+          "styles": [
+            {
+              "family_name": "Sama Gujarati",
+              "type": "Bold",
+              "full_name": "Sama Gujarati Bold",
+              "post_script_name": "SamaGujarati-Bold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            },
+            {
+              "family_name": "Sama Gujarati",
+              "type": "Regular",
+              "full_name": "Sama Gujarati Regular",
+              "post_script_name": "SamaGujarati-Regular",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gujarati Book",
+          "styles": [
+            {
+              "family_name": "Sama Gujarati Book",
+              "type": "Regular",
+              "full_name": "Sama Gujarati Book",
+              "post_script_name": "SamaGujarati-Book",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gujarati ExtraBold",
+          "styles": [
+            {
+              "family_name": "Sama Gujarati ExtraBold",
+              "type": "Regular",
+              "full_name": "Sama Gujarati ExtraBold",
+              "post_script_name": "SamaGujarati-ExtraBold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gujarati Medium",
+          "styles": [
+            {
+              "family_name": "Sama Gujarati Medium",
+              "type": "Regular",
+              "full_name": "Sama Gujarati Medium",
+              "post_script_name": "SamaGujarati-Medium",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gujarati SemiBold",
+          "styles": [
+            {
+              "family_name": "Sama Gujarati SemiBold",
+              "type": "Regular",
+              "full_name": "Sama Gujarati SemiBold",
+              "post_script_name": "SamaGujarati-SemiBold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+              "description": "EK TYPE END USER LICENSE: Ek Type holds sole, exclusive right, title and interest over the font. You are bestowed with a right to use this font on the basis of the terms and conditions of the license issued to you. You shall not have any right to modify copy, reproduce or distribute the font in any form. In case you have any questions as regards to the use of the font, you may refer the license agreement which was sent to you along with the font software or you may log on to our website www.ektype.in for details."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

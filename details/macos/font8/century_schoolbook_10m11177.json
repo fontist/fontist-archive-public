@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font8/century_schoolbook_10m11177",
+  "name": "Century Schoolbook",
+  "description": "Century Schoolbook",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "512149aedee6090af91c214db38c3e4c39f60363.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/512149aedee6090af91c214db38c3e4c39f60363.zip"
+      ],
+      "sha256": "29bf60e61deaca11d7e6d7fc967317120e2ed2880b41aa75d48695b919457519",
+      "file_size": 201005
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "CenturySchoolbook.ttc",
+      "fonts": [
+        {
+          "name": "Century Schoolbook",
+          "styles": [
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Bold",
+              "full_name": "Century Schoolbook Bold",
+              "post_script_name": "CenturySchoolbook-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved."
+            },
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Bold Italic",
+              "full_name": "Century Schoolbook Bold Italic",
+              "post_script_name": "CenturySchoolbook-BoldItalic",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved."
+            },
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Italic",
+              "full_name": "Century Schoolbook Italic",
+              "post_script_name": "CenturySchoolbook-Italic",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved."
+            },
+            {
+              "family_name": "Century Schoolbook",
+              "type": "Regular",
+              "full_name": "Century Schoolbook",
+              "post_script_name": "CenturySchoolbook",
+              "version": "13.0d1e2",
+              "copyright": "Typeface © The Monotype Corporation plc. Data © The Monotype Corporation plc / Type Solutions Inc. 1990-91 All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

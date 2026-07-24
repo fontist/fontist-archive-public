@@ -1,0 +1,132 @@
+{
+  "slug": "macos/font7/founders_grotesk_10m1360",
+  "name": "Founders Grotesk",
+  "description": "Founders Grotesk",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010 Klim Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0b802c2b87c037f38d2d5b38c326408e2823a00c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/0b802c2b87c037f38d2d5b38c326408e2823a00c.zip"
+      ],
+      "sha256": "24340551fc9ed3564771fe2f802a9dca04818150b6102c8b8906bb963a88bee3",
+      "file_size": 301952
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "FoundersGrotesk.ttc",
+      "fonts": [
+        {
+          "name": "Founders Grotesk Bold",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Bold",
+              "type": "Italic",
+              "full_name": "FoundersGrotesk-BoldItalic",
+              "post_script_name": "FoundersGrotesk-BoldItalic",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Bold",
+              "type": "Regular",
+              "full_name": "FoundersGrotesk-Bold",
+              "post_script_name": "FoundersGrotesk-Bold",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Light",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Light",
+              "type": "Italic",
+              "full_name": "FoundersGrotesk-LightItalic",
+              "post_script_name": "FoundersGrotesk-LightItalic",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Light",
+              "type": "Regular",
+              "full_name": "FoundersGrotesk-Light",
+              "post_script_name": "FoundersGrotesk-Light",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Medium",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Medium",
+              "type": "Italic",
+              "full_name": "FoundersGrotesk-MediumItalic",
+              "post_script_name": "FoundersGrotesk-MediumItalic",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Medium",
+              "type": "Regular",
+              "full_name": "FoundersGrotesk-Medium",
+              "post_script_name": "FoundersGrotesk-Medium",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Regular",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Regular",
+              "type": "Italic",
+              "full_name": "FoundersGrotesk-RegularItalic",
+              "post_script_name": "FoundersGrotesk-RegularItalic",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Regular",
+              "type": "Regular",
+              "full_name": "FoundersGrotesk-Regular",
+              "post_script_name": "FoundersGrotesk-Regular",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Semibold",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Semibold",
+              "type": "Italic",
+              "full_name": "FoundersGrotesk-SemiboldItalic",
+              "post_script_name": "FoundersGrotesk-SemiboldItalic",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Founders Grotesk Semibold",
+              "type": "Regular",
+              "full_name": "FoundersGrotesk-Semibold",
+              "post_script_name": "FoundersGrotesk-Semibold",
+              "version": "15.0d1e4",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

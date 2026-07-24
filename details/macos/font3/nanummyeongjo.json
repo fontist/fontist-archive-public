@@ -1,0 +1,65 @@
+{
+  "slug": "macos/font3/nanummyeongjo",
+  "name": "NanumMyeongjo",
+  "description": "NanumMyeongjo",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.nhncorp.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "afbcb1d2a7b57d0c777e91c08cbef8858c741d13.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/afbcb1d2a7b57d0c777e91c08cbef8858c741d13.zip"
+      ],
+      "sha256": "d8b828853d9f9761ee69122150a5eb708578c561d86e1ad8b0e2639394b43f90",
+      "file_size": 4795862
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "NanumMyeongjo.ttc",
+      "fonts": [
+        {
+          "name": "NanumMyeongjo",
+          "styles": [
+            {
+              "family_name": "NanumMyeongjo",
+              "type": "Bold",
+              "full_name": "NanumMyeongjoBold",
+              "post_script_name": "NanumMyeongjoBold",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+              "description": "NHN Corporation"
+            },
+            {
+              "family_name": "NanumMyeongjo",
+              "type": "Regular",
+              "full_name": "NanumMyeongjo",
+              "post_script_name": "NanumMyeongjo",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+              "description": "NHN Corporation"
+            }
+          ]
+        },
+        {
+          "name": "NanumMyeongjoExtraBold",
+          "styles": [
+            {
+              "family_name": "NanumMyeongjoExtraBold",
+              "type": "ExtraBold",
+              "full_name": "NanumMyeongjoExtraBold",
+              "post_script_name": "NanumMyeongjoExtraBold",
+              "version": "10.0d1e1",
+              "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.",
+              "description": "NHN Corporation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

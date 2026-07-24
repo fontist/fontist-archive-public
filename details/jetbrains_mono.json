@@ -1,0 +1,381 @@
+{
+  "slug": "jetbrains_mono",
+  "name": "JetBrains Mono",
+  "description": "The free and open-source typeface for developers",
+  "homepage": "https://www.jetbrains.com",
+  "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "JetBrains_Mono.zip": {
+      "urls": [
+        "https://github.com/JetBrains/JetBrainsMono/releases/download/v2.304/JetBrainsMono-2.304.zip"
+      ],
+      "sha256": "6f6376c6ed2960ea8a963cd7387ec9d76e3f629125bc33d1fdcd7eb7012f7bbf",
+      "file_size": 5622857
+    }
+  },
+  "fonts": [
+    {
+      "name": "JetBrains Mono",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono",
+          "type": "Bold",
+          "full_name": "JetBrains Mono Bold",
+          "post_script_name": "JetBrainsMono-Bold",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-Bold.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono",
+          "type": "Bold Italic",
+          "full_name": "JetBrains Mono Bold Italic",
+          "post_script_name": "JetBrainsMono-BoldItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-BoldItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono",
+          "type": "Italic",
+          "full_name": "JetBrains Mono Italic",
+          "post_script_name": "JetBrainsMono-Italic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-Italic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono",
+          "type": "Regular",
+          "full_name": "JetBrains Mono Regular",
+          "post_script_name": "JetBrainsMono-Regular",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono ExtraBold",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono ExtraBold",
+          "type": "Italic",
+          "full_name": "JetBrains Mono ExtraBold Italic",
+          "post_script_name": "JetBrainsMono-ExtraBoldItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono ExtraBold",
+          "type": "Regular",
+          "full_name": "JetBrains Mono ExtraBold",
+          "post_script_name": "JetBrainsMono-ExtraBold",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono ExtraLight",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono ExtraLight",
+          "type": "Italic",
+          "full_name": "JetBrains Mono ExtraLight Italic",
+          "post_script_name": "JetBrainsMono-ExtraLightItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-ExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono ExtraLight",
+          "type": "Regular",
+          "full_name": "JetBrains Mono ExtraLight",
+          "post_script_name": "JetBrainsMono-ExtraLight",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono Light",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono Light",
+          "type": "Italic",
+          "full_name": "JetBrains Mono Light Italic",
+          "post_script_name": "JetBrainsMono-LightItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-LightItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono Light",
+          "type": "Regular",
+          "full_name": "JetBrains Mono Light",
+          "post_script_name": "JetBrainsMono-Light",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono Medium",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono Medium",
+          "type": "Italic",
+          "full_name": "JetBrains Mono Medium Italic",
+          "post_script_name": "JetBrainsMono-MediumItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-MediumItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono Medium",
+          "type": "Regular",
+          "full_name": "JetBrains Mono Medium",
+          "post_script_name": "JetBrainsMono-Medium",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL",
+          "type": "Bold",
+          "full_name": "JetBrains Mono NL Bold",
+          "post_script_name": "JetBrainsMonoNL-Bold",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-Bold.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL",
+          "type": "Bold Italic",
+          "full_name": "JetBrains Mono NL Bold Italic",
+          "post_script_name": "JetBrainsMonoNL-BoldItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-BoldItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL Italic",
+          "post_script_name": "JetBrainsMonoNL-Italic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-Italic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL Regular",
+          "post_script_name": "JetBrainsMonoNL-Regular",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL ExtraBold",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL ExtraBold",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL ExtraBold Italic",
+          "post_script_name": "JetBrainsMonoNL-ExtraBoldItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL ExtraBold",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL ExtraBold",
+          "post_script_name": "JetBrainsMonoNL-ExtraBold",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL ExtraLight",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL ExtraLight",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL ExtraLight Italic",
+          "post_script_name": "JetBrainsMonoNL-ExtraLightItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-ExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL ExtraLight",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL ExtraLight",
+          "post_script_name": "JetBrainsMonoNL-ExtraLight",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL Light",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL Light",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL Light Italic",
+          "post_script_name": "JetBrainsMonoNL-LightItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-LightItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL Light",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL Light",
+          "post_script_name": "JetBrainsMonoNL-Light",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL Medium",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL Medium",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL Medium Italic",
+          "post_script_name": "JetBrainsMonoNL-MediumItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-MediumItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL Medium",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL Medium",
+          "post_script_name": "JetBrainsMonoNL-Medium",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL SemiBold",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL SemiBold",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL SemiBold Italic",
+          "post_script_name": "JetBrainsMonoNL-SemiBoldItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL SemiBold",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL SemiBold",
+          "post_script_name": "JetBrainsMonoNL-SemiBold",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono NL Thin",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono NL Thin",
+          "type": "Italic",
+          "full_name": "JetBrains Mono NL Thin Italic",
+          "post_script_name": "JetBrainsMonoNL-ThinItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-ThinItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono NL Thin",
+          "type": "Regular",
+          "full_name": "JetBrains Mono NL Thin",
+          "post_script_name": "JetBrainsMonoNL-Thin",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono NL Project Authors (https://github.com/JetBrains/JetBrainsMonoNL)",
+          "font": "JetBrainsMonoNL-Thin.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono SemiBold",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono SemiBold",
+          "type": "Italic",
+          "full_name": "JetBrains Mono SemiBold Italic",
+          "post_script_name": "JetBrainsMono-SemiBoldItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono SemiBold",
+          "type": "Regular",
+          "full_name": "JetBrains Mono SemiBold",
+          "post_script_name": "JetBrainsMono-SemiBold",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JetBrains Mono Thin",
+      "styles": [
+        {
+          "family_name": "JetBrains Mono Thin",
+          "type": "Italic",
+          "full_name": "JetBrains Mono Thin Italic",
+          "post_script_name": "JetBrainsMono-ThinItalic",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-ThinItalic.ttf"
+        },
+        {
+          "family_name": "JetBrains Mono Thin",
+          "type": "Regular",
+          "full_name": "JetBrains Mono Thin",
+          "post_script_name": "JetBrainsMono-Thin",
+          "version": "2.304; ttfautohint (v1.8.4.7-5d5b)",
+          "copyright": "Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)",
+          "font": "JetBrainsMono-Thin.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

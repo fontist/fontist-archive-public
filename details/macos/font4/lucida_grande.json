@@ -1,0 +1,51 @@
+{
+  "slug": "macos/font4/lucida_grande",
+  "name": "Lucida Grande",
+  "description": "Lucida Grande",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1989 Bigelow & Holmes, Inc. All rights reserved. Lucida is a trademark of Bigelow & Holmes Inc. registered in the U.S. Patent and Trademark Office and other jurisdictions. Lucida typeface designs created by Kris Holmes and Charles Bigelow.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.agfamonotype.com/html/type/license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "eaba6966a084a7a1553c5cddb106fd35caa20f92.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/eaba6966a084a7a1553c5cddb106fd35caa20f92.zip"
+      ],
+      "sha256": "ed369141c70486b2eb7d3ecf22ed43a899197d5a25e873825505cda0ca7862ad",
+      "file_size": 659413
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "LucidaGrande.ttc",
+      "fonts": [
+        {
+          "name": "Lucida Grande",
+          "styles": [
+            {
+              "family_name": "Lucida Grande",
+              "type": "Bold",
+              "full_name": "Lucida Grande Bold",
+              "post_script_name": "LucidaGrande-Bold",
+              "version": "13.0d1e1",
+              "copyright": "Copyright � 1989 Bigelow & Holmes, Inc. All rights reserved. Lucida is a trademark of Bigelow & Holmes Inc. registered in the U.S. Patent and Trademark Office and other jurisdictions. Lucida typeface designs created by Kris Holmes and Charles Bigelow.",
+              "description": "Do not copy. Call USA 847-718-0400 UK 44(0)1737 765959."
+            },
+            {
+              "family_name": "Lucida Grande",
+              "type": "Regular",
+              "full_name": "Lucida Grande",
+              "post_script_name": "LucidaGrande",
+              "version": "13.0d1e1",
+              "copyright": "Copyright � 1989 Bigelow & Holmes, Inc. All rights reserved. Lucida is a trademark of Bigelow & Holmes Inc. registered in the U.S. Patent and Trademark Office and other jurisdictions. Lucida typeface designs created by Kris Holmes and Charles Bigelow.",
+              "description": "Do not copy. Call USA 847-718-0400 UK 44(0)1737 765959."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

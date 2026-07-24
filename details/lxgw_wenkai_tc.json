@@ -1,0 +1,97 @@
+{
+  "slug": "lxgw_wenkai_tc",
+  "name": "LXGW WenKai TC",
+  "description": "LXGW WenKai TC",
+  "homepage": "https://github.com/lxgw",
+  "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "lxgw-wenkai-tc-v1.330.zip": {
+      "urls": [
+        "https://github.com/lxgw/LxgwWenkaiTC/releases/download/v1.330/lxgw-wenkai-tc-v1.330.zip"
+      ],
+      "sha256": "cbccbb37676487c3fddafb7da190bfab30e26ae57049478a3e474123d2cc47a3",
+      "file_size": 46274155
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW WenKai Mono TC",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai Mono TC",
+          "type": "Bold",
+          "full_name": "LXGW WenKai Mono TC Bold",
+          "post_script_name": "LXGWWenKaiMonoTC-Bold",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+          "font": "LXGWWenKaiMonoTC-Bold.ttf"
+        },
+        {
+          "family_name": "LXGW WenKai Mono TC",
+          "type": "Regular",
+          "full_name": "LXGW WenKai Mono TC",
+          "post_script_name": "LXGWWenKaiMonoTC-Regular",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+          "font": "LXGWWenKaiMonoTC-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "LXGW WenKai Mono TC Light",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai Mono TC Light",
+          "type": "Regular",
+          "full_name": "LXGW WenKai Mono TC Light",
+          "post_script_name": "LXGWWenKaiMonoTC-Light",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+          "font": "LXGWWenKaiMonoTC-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "LXGW WenKai TC",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai TC",
+          "type": "Bold",
+          "full_name": "LXGW WenKai TC Bold",
+          "post_script_name": "LXGWWenKaiTC-Bold",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+          "font": "LXGWWenKaiTC-Bold.ttf"
+        },
+        {
+          "family_name": "LXGW WenKai TC",
+          "type": "Regular",
+          "full_name": "LXGW WenKai TC",
+          "post_script_name": "LXGWWenKaiTC-Regular",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+          "font": "LXGWWenKaiTC-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "LXGW WenKai TC Light",
+      "styles": [
+        {
+          "family_name": "LXGW WenKai TC Light",
+          "type": "Regular",
+          "full_name": "LXGW WenKai TC Light",
+          "post_script_name": "LXGWWenKaiTC-Light",
+          "version": "1.330;April 28, 2024",
+          "copyright": "Copyright 2022-2024 LXGW (https://github.com/lxgw/LxgwWenkaiTC)",
+          "font": "LXGWWenKaiTC-Light.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

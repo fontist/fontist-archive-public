@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font3/oriya_mn",
+  "name": "Oriya MN",
+  "description": "Oriya MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e4d082bf430f93f9b27d3c4cff1684671795fa7a.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/e4d082bf430f93f9b27d3c4cff1684671795fa7a.zip"
+      ],
+      "sha256": "a3843fc40b9aa36043658811eb0b5a0ebe5e4eeeb8cc7622382e144a939ed4ba",
+      "file_size": 86749
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Oriya MN.ttc",
+      "fonts": [
+        {
+          "name": "Oriya MN",
+          "styles": [
+            {
+              "family_name": "Oriya MN",
+              "type": "Bold",
+              "full_name": "Oriya MN Bold",
+              "post_script_name": "OriyaMN-Bold",
+              "version": "12.0d1e1",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Oriya MN",
+              "type": "Regular",
+              "full_name": "Oriya MN",
+              "post_script_name": "OriyaMN",
+              "version": "12.0d1e1",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

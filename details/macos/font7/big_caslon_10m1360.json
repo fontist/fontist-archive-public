@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/big_caslon_10m1360",
+  "name": "Big Caslon",
+  "description": "Big Caslon",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1994 Carter & Cone Type, Inc. All rights reserved.\n\nThe digitally encoded machine readable software for producing the Typefaces licensed to you is the property of Carter & Cone Type, Inc. and their licensors and may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Carter & Cone Type, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "bb7272e79f96ad7775e818a85ff18172af25f8ff.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/bb7272e79f96ad7775e818a85ff18172af25f8ff.zip"
+      ],
+      "sha256": "42c096134172ad1579b2b0fc271f3173e70055341f2c7444346efdb87d780dd6",
+      "file_size": 96964
+    }
+  },
+  "fonts": [
+    {
+      "name": "Big Caslon",
+      "styles": [
+        {
+          "family_name": "Big Caslon",
+          "type": "Medium",
+          "full_name": "Big Caslon Medium",
+          "post_script_name": "BigCaslon-Medium",
+          "version": "13.0d1e11",
+          "copyright": "Copyright (c) 1994 Carter & Cone Type, Inc. All rights reserved.\n\nThe digitally encoded machine readable software for producing the Typefaces licensed to you is the property of Carter & Cone Type, Inc. and their licensors and may not be reproduced, used, displayed, modified, disclosed or transferred without the express written approval of Carter & Cone Type, Inc.",
+          "font": "BigCaslon.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

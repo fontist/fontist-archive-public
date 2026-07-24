@@ -1,0 +1,207 @@
+{
+  "slug": "macos/font8/k2d_10m11177",
+  "name": "K2D",
+  "description": "K2D",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "bff912c9f11a74e0697aba2411a9c24c65df0fa3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/bff912c9f11a74e0697aba2411a9c24c65df0fa3.zip"
+      ],
+      "sha256": "abc086ec57e53b208d70abeeac3b70667695da53e5a3a0b3eac4910962abcddb",
+      "file_size": 711485
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "K2D.ttc",
+      "fonts": [
+        {
+          "name": "K2D",
+          "styles": [
+            {
+              "family_name": "K2D",
+              "type": "Bold",
+              "full_name": "K2D Bold",
+              "post_script_name": "K2D-Bold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D",
+              "type": "Bold Italic",
+              "full_name": "K2D Bold Italic",
+              "post_script_name": "K2D-BoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D",
+              "type": "Italic",
+              "full_name": "K2D Italic",
+              "post_script_name": "K2D-Italic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D",
+              "type": "Regular",
+              "full_name": "K2D Regular",
+              "post_script_name": "K2D-Regular",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "K2D ExtraBold",
+          "styles": [
+            {
+              "family_name": "K2D ExtraBold",
+              "type": "Italic",
+              "full_name": "K2D ExtraBold Italic",
+              "post_script_name": "K2D-ExtraBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D ExtraBold",
+              "type": "Regular",
+              "full_name": "K2D ExtraBold",
+              "post_script_name": "K2D-ExtraBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "K2D ExtraLight",
+          "styles": [
+            {
+              "family_name": "K2D ExtraLight",
+              "type": "Italic",
+              "full_name": "K2D ExtraLight Italic",
+              "post_script_name": "K2D-ExtraLightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D ExtraLight",
+              "type": "Regular",
+              "full_name": "K2D ExtraLight",
+              "post_script_name": "K2D-ExtraLight",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "K2D Light",
+          "styles": [
+            {
+              "family_name": "K2D Light",
+              "type": "Italic",
+              "full_name": "K2D Light Italic",
+              "post_script_name": "K2D-LightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D Light",
+              "type": "Regular",
+              "full_name": "K2D Light",
+              "post_script_name": "K2D-Light",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "K2D Medium",
+          "styles": [
+            {
+              "family_name": "K2D Medium",
+              "type": "Italic",
+              "full_name": "K2D Medium Italic",
+              "post_script_name": "K2D-MediumItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D Medium",
+              "type": "Regular",
+              "full_name": "K2D Medium",
+              "post_script_name": "K2D-Medium",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "K2D SemiBold",
+          "styles": [
+            {
+              "family_name": "K2D SemiBold",
+              "type": "Italic",
+              "full_name": "K2D SemiBold Italic",
+              "post_script_name": "K2D-SemiBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D SemiBold",
+              "type": "Regular",
+              "full_name": "K2D SemiBold",
+              "post_script_name": "K2D-SemiBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "K2D Thin",
+          "styles": [
+            {
+              "family_name": "K2D Thin",
+              "type": "Italic",
+              "full_name": "K2D Thin Italic",
+              "post_script_name": "K2D-ThinItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "K2D Thin",
+              "type": "Regular",
+              "full_name": "K2D Thin",
+              "post_script_name": "K2D-Thin",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The K2D Project Authors (https://github.com/cadsondemak/K2D)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

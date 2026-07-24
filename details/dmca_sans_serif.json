@@ -1,0 +1,321 @@
+{
+  "slug": "dmca_sans_serif",
+  "name": "DMCA Sans Serif",
+  "description": "DMCA Sans Serif",
+  "homepage": "https://typedesign.replit.app/dmcasansserif.html",
+  "copyright": "Public domain. Piotr Grochowski (piotrunio-2004@wp.pl)",
+  "spdx_license": "LicenseRef-PublicDomain",
+  "license_url": "https://typedesign.replit.app/fonts.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "DMCAsansserif9.0-20252.zip": {
+      "urls": [
+        "https://typedesign.replit.app/DMCAsansserif9.0-20252.zip"
+      ],
+      "sha256": "ee9a205e84fd8913f53e6845cfdbe7a915104d7d1989761bd0e0cd43ca5d436d",
+      "file_size": 20673236
+    }
+  },
+  "fonts": [
+    {
+      "name": "DMCA Sans Serif",
+      "styles": [
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Black",
+          "full_name": "DMCA Sans Serif Black",
+          "post_script_name": "DMCAsansserif-900",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 271 -D latn -f none -m \"black.txt\" -R \"DMCAsansserif-v0900-800.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-900.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Black Italic",
+          "full_name": "DMCA Sans Serif Black Italic",
+          "post_script_name": "DMCAsansserif-900-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 271 -D latn -f none -m \"black.txt\" -R \"DMCAsansserif-v0900-800-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-900-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Bold",
+          "full_name": "DMCA Sans Serif Bold",
+          "post_script_name": "DMCAsansserif-700",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 203 -D latn -f none -m \"bold.txt\" -R \"DMCAsansserif-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-700.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Bold Italic",
+          "full_name": "DMCA Sans Serif Bold Italic",
+          "post_script_name": "DMCAsansserif-700-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 203 -D latn -f none -m \"bold.txt\" -R \"DMCAsansserif-v0900-600-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-700-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Extrabold",
+          "full_name": "DMCA Sans Serif Extrabold",
+          "post_script_name": "DMCAsansserif-800",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 235 -D latn -f none -m \"extrabold.txt\" -R \"DMCAsansserif-v0900-700.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-800.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Extrabold Italic",
+          "full_name": "DMCA Sans Serif Extrabold Italic",
+          "post_script_name": "DMCAsansserif-800-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 235 -D latn -f none -m \"extrabold.txt\" -R \"DMCAsansserif-v0900-700-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-800-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Extralight",
+          "full_name": "DMCA Sans Serif Extralight",
+          "post_script_name": "DMCAsansserif-200",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 114 -D latn -f none -m \"extralight.txt\" -R \"DMCAsansserif-v0900-300.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-200.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Extralight Italic",
+          "full_name": "DMCA Sans Serif Extralight Italic",
+          "post_script_name": "DMCAsansserif-200-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 114 -D latn -f none -m \"extralight.txt\" -R \"DMCAsansserif-v0900-300-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-200-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Italic",
+          "full_name": "DMCA Sans Serif Italic",
+          "post_script_name": "DMCAsansserif-400-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 152 -D latn -f none -m \"regular.txt\" -R \"DMCAsansserif-v0900-600-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-400-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Light",
+          "full_name": "DMCA Sans Serif Light",
+          "post_script_name": "DMCAsansserif-300",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 132 -D latn -f none -m \"light.txt\" -R \"DMCAsansserif-v0900-400.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-300.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Light Italic",
+          "full_name": "DMCA Sans Serif Light Italic",
+          "post_script_name": "DMCAsansserif-300-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 132 -D latn -f none -m \"light.txt\" -R \"DMCAsansserif-v0900-400-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-300-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Regular",
+          "full_name": "DMCA Sans Serif",
+          "post_script_name": "DMCAsansserif-400",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 152 -D latn -f none -m \"regular.txt\" -R \"DMCAsansserif-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-400.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Semibold",
+          "full_name": "DMCA Sans Serif Semibold",
+          "post_script_name": "DMCAsansserif-600",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 176 -D latn -f none -m \"semibold.txt\" -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-600.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Semibold Italic",
+          "full_name": "DMCA Sans Serif Semibold Italic",
+          "post_script_name": "DMCAsansserif-600-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 176 -D latn -f none -m \"semibold.txt\" -R \"DMCAsansserif-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-600-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Thin",
+          "full_name": "DMCA Sans Serif Thin",
+          "post_script_name": "DMCAsansserif-100",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 98 -D latn -f none -m \"thin.txt\" -R \"DMCAsansserif-v0900-200.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-100.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif",
+          "type": "Thin Italic",
+          "full_name": "DMCA Sans Serif Thin Italic",
+          "post_script_name": "DMCAsansserif-100-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 98 -D latn -f none -m \"thin.txt\" -R \"DMCAsansserif-v0900-200-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserif-v0900-100-i.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DMCA Sans Serif Condensed",
+      "styles": [
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Black",
+          "full_name": "DMCA Sans Serif Condensed Black",
+          "post_script_name": "DMCAsansserif-cond-900",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 271 -D latn -f none -m \"black.txt\" -R \"DMCAsansserifCondensed-v0900-800.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-900.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Black Italic",
+          "full_name": "DMCA Sans Serif Condensed Black Italic",
+          "post_script_name": "DMCAsansserif-cond-900-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 271 -D latn -f none -m \"black.txt\" -R \"DMCAsansserifCondensed-v0900-800-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-900-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Bold",
+          "full_name": "DMCA Sans Serif Condensed Bold",
+          "post_script_name": "DMCAsansserif-cond-700",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 203 -D latn -f none -m \"bold.txt\" -R \"DMCAsansserifCondensed-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-700.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Bold Italic",
+          "full_name": "DMCA Sans Serif Condensed Bold Italic",
+          "post_script_name": "DMCAsansserif-cond-700-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 203 -D latn -f none -m \"bold.txt\" -R \"DMCAsansserifCondensed-v0900-600-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-700-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Extrabold",
+          "full_name": "DMCA Sans Serif Condensed Extrabold",
+          "post_script_name": "DMCAsansserif-cond-800",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 235 -D latn -f none -m \"extrabold.txt\" -R \"DMCAsansserifCondensed-v0900-700.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-800.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Extrabold Italic",
+          "full_name": "DMCA Sans Serif Condensed Extrabold Italic",
+          "post_script_name": "DMCAsansserif-cond-800-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 0 -H 235 -D latn -f none -m \"extrabold.txt\" -R \"DMCAsansserifCondensed-v0900-700-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-800-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Extralight",
+          "full_name": "DMCA Sans Serif Condensed Extralight",
+          "post_script_name": "DMCAsansserif-cond-200",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 114 -D latn -f none -m \"extralight.txt\" -R \"DMCAsansserifCondensed-v0900-300.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-200.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Extralight Italic",
+          "full_name": "DMCA Sans Serif Condensed Extralight Italic",
+          "post_script_name": "DMCAsansserif-cond-200-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 114 -D latn -f none -m \"extralight.txt\" -R \"DMCAsansserifCondensed-v0900-300-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-200-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Italic",
+          "full_name": "DMCA Sans Serif Condensed Italic",
+          "post_script_name": "DMCAsansserif-cond-400-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 152 -D latn -f none -m \"regular.txt\" -R \"DMCAsansserifCondensed-v0900-600-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-400-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Light",
+          "full_name": "DMCA Sans Serif Condensed Light",
+          "post_script_name": "DMCAsansserif-cond-300",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 132 -D latn -f none -m \"light.txt\" -R \"DMCAsansserifCondensed-v0900-400.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-300.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Light Italic",
+          "full_name": "DMCA Sans Serif Condensed Light Italic",
+          "post_script_name": "DMCAsansserif-cond-300-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 132 -D latn -f none -m \"light.txt\" -R \"DMCAsansserifCondensed-v0900-400-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-300-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Regular",
+          "full_name": "DMCA Sans Serif Condensed",
+          "post_script_name": "DMCAsansserif-cond-400",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 152 -D latn -f none -m \"regular.txt\" -R \"DMCAsansserifCondensed-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-400.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Semibold",
+          "full_name": "DMCA Sans Serif Condensed Semibold",
+          "post_script_name": "DMCAsansserif-cond-600",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 176 -D latn -f none -m \"semibold.txt\" -R \"DMCAsansserif-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-600.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Semibold Italic",
+          "full_name": "DMCA Sans Serif Condensed Semibold Italic",
+          "post_script_name": "DMCAsansserif-cond-600-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 176 -D latn -f none -m \"semibold.txt\" -R \"DMCAsansserifCondensed-v0900-600.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-600-i.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Thin",
+          "full_name": "DMCA Sans Serif Condensed Thin",
+          "post_script_name": "DMCAsansserif-cond-100",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 98 -D latn -f none -m \"thin.txt\" -R \"DMCAsansserifCondensed-v0900-200.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-100.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif Condensed",
+          "type": "Thin Italic",
+          "full_name": "DMCA Sans Serif Condensed Thin Italic",
+          "post_script_name": "DMCAsansserif-cond-100-i",
+          "version": "9.0 ; ttfautohint (v1.8.3) -l 2 -r 96 -G 96 -x 96 -H 98 -D latn -f none -m \"thin.txt\" -R \"DMCAsansserifCondensed-v0900-200-i.ttf\" -Z 0 -a sss -X \"\"",
+          "copyright": "Copyright (c) 2019, PB",
+          "font": "DMCAsansserifCondensed-v0900-100-i.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

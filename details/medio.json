@@ -1,0 +1,38 @@
+{
+  "slug": "medio",
+  "name": "Medio",
+  "description": "Medio",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "No Rights Reserved.",
+  "spdx_license": "CC0-1.0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "medio_0200.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/medio_0200.zip"
+      ],
+      "sha256": "1597610c7fa4f16d9863ed88c0607c665c11273079c9d28b9c898f619fbff094",
+      "file_size": 11115
+    }
+  },
+  "fonts": [
+    {
+      "name": "Medio",
+      "styles": [
+        {
+          "family_name": "Medio",
+          "type": "Regular",
+          "full_name": "Medio",
+          "post_script_name": "Medio",
+          "version": "0.200",
+          "copyright": "No Rights Reserved.",
+          "description": "No Rights Reserved.",
+          "font": "medio.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

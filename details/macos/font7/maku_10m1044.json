@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/maku_10m1044",
+  "name": "Maku",
+  "description": "Maku",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2017, 2019 by Kimya Gandhi. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "256f90b4f23b30e5356a8e7c2e239a8d53a48e8c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/256f90b4f23b30e5356a8e7c2e239a8d53a48e8c.zip"
+      ],
+      "sha256": "f1176814ae0eb3ea5696df6020d0f5483572a39acaad7172dc26ede92809a826",
+      "file_size": 984321
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Maku-Devanagari.ttc",
+      "fonts": [
+        {
+          "name": "Maku",
+          "styles": [
+            {
+              "family_name": "Maku",
+              "type": "Regular",
+              "full_name": "Maku Regular",
+              "post_script_name": "Maku-Regular",
+              "version": "14.0d7e8",
+              "copyright": "Copyright © 2017, 2019 by Kimya Gandhi. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Maku Bold",
+          "styles": [
+            {
+              "family_name": "Maku Bold",
+              "type": "Regular",
+              "full_name": "Maku Bold",
+              "post_script_name": "Maku-Bold",
+              "version": "14.0d7e8",
+              "copyright": "Copyright © 2017, 2019 by Kimya Gandhi. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

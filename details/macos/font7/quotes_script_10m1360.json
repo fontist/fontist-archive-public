@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/quotes_script_10m1360",
+  "name": "Quotes Script",
+  "description": "Quotes Script",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 Designed by Yanina Arabena & Guille Vizzari. Published by Sudtipos. Production Ale Paul. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e6ef40aa8f837c1f124d5ce881b61cd04b934175.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/e6ef40aa8f837c1f124d5ce881b61cd04b934175.zip"
+      ],
+      "sha256": "b19b0f09b02ffb088fe730500459d0e578d1a453d706d7a9d68beac5e62a2e14",
+      "file_size": 175943
+    }
+  },
+  "fonts": [
+    {
+      "name": "Quotes Script",
+      "styles": [
+        {
+          "family_name": "Quotes Script",
+          "type": "Regular",
+          "full_name": "QuotesScript-Regular",
+          "post_script_name": "QuotesScript-Regular",
+          "version": "15.0d1e3",
+          "copyright": "Copyright (c) 2015 Designed by Yanina Arabena & Guille Vizzari. Published by Sudtipos. Production Ale Paul. All rights reserved.",
+          "font": "QuotesScript-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

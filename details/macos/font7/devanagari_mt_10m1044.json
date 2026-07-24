@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/devanagari_mt_10m1044",
+  "name": "Devanagari MT",
+  "description": "Devanagari MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � Monotype Typography Ltd 1996. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "eea7c6388a836c68357abef03185e550d46adcd6.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/eea7c6388a836c68357abef03185e550d46adcd6.zip"
+      ],
+      "sha256": "74d7844b35292ac137a871e6657b40e4827d68e1db9d055094587b7262045e11",
+      "file_size": 210405
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Devanagari.ttc",
+      "fonts": [
+        {
+          "name": "Devanagari MT",
+          "styles": [
+            {
+              "family_name": "Devanagari MT",
+              "type": "Bold",
+              "full_name": "Devanagari MT Bold",
+              "post_script_name": "DevanagariMT-Bold",
+              "version": "13.0d1e3",
+              "copyright": "Copyright � Monotype Typography Ltd 1996. All rights reserved."
+            },
+            {
+              "family_name": "Devanagari MT",
+              "type": "Regular",
+              "full_name": "Devanagari MT",
+              "post_script_name": "DevanagariMT",
+              "version": "13.0d1e3",
+              "copyright": "Copyright � Monotype Typography Ltd 1996. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

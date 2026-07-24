@@ -1,0 +1,56 @@
+{
+  "slug": "macos/font7/arial_hebrew_scholar_10m1044",
+  "name": "Arial Hebrew Scholar",
+  "description": "Arial Hebrew Scholar",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "473fd2621b92992074a7c125bd7bcd5070b1114a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/473fd2621b92992074a7c125bd7bcd5070b1114a.zip"
+      ],
+      "sha256": "3ad1f274d86b1b0e74eec5fbb66c09bc634ec8845409ee0dc24b97034e21f5c4",
+      "file_size": 48853
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ArialHBScholar.ttc",
+      "fonts": [
+        {
+          "name": "Arial Hebrew Scholar",
+          "styles": [
+            {
+              "family_name": "Arial Hebrew Scholar",
+              "type": "Bold",
+              "full_name": "Arial Hebrew Scholar Bold",
+              "post_script_name": "ArialHebrewScholar-Bold",
+              "version": "13.0d1e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": "Arial Hebrew Scholar",
+              "type": "Light",
+              "full_name": "Arial Hebrew Scholar Light",
+              "post_script_name": "ArialHebrewScholar-Light",
+              "version": "13.0d1e1",
+              "copyright": "Copyright � Data 1993 Monotype Typography ltd. / Type Solutions Inc. 1993 All rights reserved."
+            },
+            {
+              "family_name": "Arial Hebrew Scholar",
+              "type": "Regular",
+              "full_name": "Arial Hebrew Scholar",
+              "post_script_name": "ArialHebrewScholar",
+              "version": "13.0d1e1",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

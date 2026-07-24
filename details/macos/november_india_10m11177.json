@@ -1,0 +1,39 @@
+{
+  "slug": "macos/november_india_10m11177",
+  "name": "November India",
+  "description": "November India",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2016-2024 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b93f66e1924a22c1d06884c6e3b130095855c4c7.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/b93f66e1924a22c1d06884c6e3b130095855c4c7.zip"
+      ],
+      "sha256": "4c8e607d7267f192f555fbf38cfc40848b8d1c0e25c3b6f58cc808ca3d91e486",
+      "file_size": 1548478,
+      "format": "otf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "November India",
+      "styles": [
+        {
+          "family_name": "November India",
+          "type": "Regular",
+          "full_name": "November India Regular",
+          "post_script_name": "NovemberIndia-Regular",
+          "version": "20.0d2e4",
+          "copyright": "Copyright 2016-2024 Typotheque. All rights reserved.",
+          "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission.",
+          "font": "NovemberIndia.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

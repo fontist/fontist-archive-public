@@ -1,0 +1,53 @@
+{
+  "slug": "macos/katari",
+  "name": "katari",
+  "description": "Katari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2010, 2020 Erin McLaughlin. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Katari.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/85021cef02b967e642556e56547acbeabb8e8acd.zip"
+      ],
+      "sha256": "2c76d4952a6be2782f448b3c91f118434601e66f28ae7de9e65f2ea8a3ebbdfe",
+      "file_size": 428881
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Katari.ttc",
+      "fonts": [
+        {
+          "name": "Katari",
+          "styles": [
+            {
+              "family_name": "Katari",
+              "type": "Regular",
+              "full_name": "Katari Regular",
+              "post_script_name": "Katari-Regular",
+              "version": "15.0d3e4",
+              "copyright": "Copyright © 2010, 2020 Erin McLaughlin. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Katari Bold",
+          "styles": [
+            {
+              "family_name": "Katari Bold",
+              "type": "Regular",
+              "full_name": "Katari Bold",
+              "post_script_name": "Katari-Bold",
+              "version": "15.0d3e4",
+              "copyright": "Copyright © 2010, 2020 by Erin McLaughlin. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

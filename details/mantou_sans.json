@@ -1,0 +1,37 @@
+{
+  "slug": "mantou_sans",
+  "name": "mantou_sans",
+  "description": "Mantou Sans",
+  "homepage": "https://mant0u.one",
+  "copyright": "Mant0u / The Dela Gothic Project (https://github.com/mant0u0/MantouSans)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Mantou_Sans.zip": {
+      "urls": [
+        "https://github.com/mant0u0/MantouSans/archive/refs/tags/v1.009.zip"
+      ],
+      "sha256": "d12a629d3da100c0c881c81dc3fac1fed42f5954d23961d01219419dfe968acd",
+      "file_size": 5580898
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mantou Sans",
+      "styles": [
+        {
+          "family_name": "Mantou Sans",
+          "type": "Regular",
+          "full_name": "Mantou Sans",
+          "post_script_name": "MantouSans",
+          "version": "1.009;December 30, 2023;FontCreator 14.0.0.2901 64-bit",
+          "copyright": "Mant0u / The Dela Gothic Project (https://github.com/mant0u0/MantouSans)",
+          "font": "MantouSans-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

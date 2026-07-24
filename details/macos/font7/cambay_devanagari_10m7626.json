@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font7/cambay_devanagari_10m7626",
+  "name": "Cambay Devanagari",
+  "description": "Cambay Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright Pooja Saxena, 2014.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "fec82d04f4ff6bff5c7a86df14150dfc4f3da60d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/fec82d04f4ff6bff5c7a86df14150dfc4f3da60d.zip"
+      ],
+      "sha256": "ace2423f817711fef1e434702d783c30ee4b2c16efd0680a2000549c1fe52606",
+      "file_size": 236268
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "CambayDevanagari.ttc",
+      "fonts": [
+        {
+          "name": "Cambay Devanagari",
+          "styles": [
+            {
+              "family_name": "Cambay Devanagari",
+              "type": "Bold Italic",
+              "full_name": "Cambay Devanagari Bold Oblique",
+              "post_script_name": "CambayDevanagari-BoldOblique",
+              "version": "20.0d1e2 (1.180)",
+              "copyright": "(c) Copyright Pooja Saxena, 2014.",
+              "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Cambay Devanagari",
+              "type": "Italic",
+              "full_name": "Cambay Devanagari Oblique",
+              "post_script_name": "CambayDevanagari-Oblique",
+              "version": "20.0d1e2 (1.180)",
+              "copyright": "(c) Copyright Pooja Saxena, 2014.",
+              "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Cambay Devanagari",
+              "type": "Regular",
+              "full_name": "Cambay Devanagari Regular",
+              "post_script_name": "CambayDevanagari-Regular",
+              "version": "20.0d1e2 (1.180)",
+              "copyright": "(c) Copyright Pooja Saxena, 2014.",
+              "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Cambay Devanagari",
+              "type": "Regular",
+              "full_name": "Cambay Devanagari Bold",
+              "post_script_name": "CambayDevanagari-Bold",
+              "version": "20.0d1e2 (1.180)",
+              "copyright": "(c) Copyright Pooja Saxena, 2014.",
+              "description": "This Font Software is licensed under the SIL Open Font License Version 1.1. This license is available with a FAQ at http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

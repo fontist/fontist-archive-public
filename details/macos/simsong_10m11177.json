@@ -1,0 +1,48 @@
+{
+  "slug": "macos/simsong_10m11177",
+  "name": "SimSong",
+  "description": "SimSong",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2019 DynaComware Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9dbdbad00d94587b47d641c222c00f82a6dca7fe.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/9dbdbad00d94587b47d641c222c00f82a6dca7fe.zip"
+      ],
+      "sha256": "61e6e2bb416865448bf22d95f032919442a33132a2045eff875bf7cabc8ce25b",
+      "file_size": 22719927
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SimSong.ttc",
+      "fonts": [
+        {
+          "name": "SimSong",
+          "styles": [
+            {
+              "family_name": "SimSong",
+              "type": "Bold",
+              "full_name": "SimSong Bold",
+              "post_script_name": "SimSong-Bold",
+              "version": "16.0d3e1",
+              "copyright": "Copyright © 2019 DynaComware Inc. All rights reserved."
+            },
+            {
+              "family_name": "SimSong",
+              "type": "Regular",
+              "full_name": "SimSong Regular",
+              "post_script_name": "SimSong-Regular",
+              "version": "16.0d3e1",
+              "copyright": "Copyright © 2019 DynaComware Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

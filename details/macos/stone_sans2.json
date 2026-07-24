@@ -1,0 +1,61 @@
+{
+  "slug": "macos/stone_sans2",
+  "name": "stone_sans2",
+  "description": "Stone Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 1997 International Typeface Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Stone_Sans.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/5c78f8307c8ed22dfae2da4759a4a516ff3bf0da.zip"
+      ],
+      "sha256": "c2e5b03a8ed189bdfaeba76db5603544921526ba46ca874e05d8855d08c5d787",
+      "file_size": 159343
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "StoneSans.ttc",
+      "fonts": [
+        {
+          "name": "Stone Sans ITC TT",
+          "styles": [
+            {
+              "family_name": "Stone Sans ITC TT",
+              "type": "Bold",
+              "full_name": "Stone Sans ITC TT Bold",
+              "post_script_name": "StoneSansITCTT-Bold",
+              "version": "16.0d1e1",
+              "copyright": "Copyright © 1997 International Typeface Corporation. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Stone Sans Sem ITC TT",
+          "styles": [
+            {
+              "family_name": "Stone Sans Sem ITC TT",
+              "type": "Semi",
+              "full_name": "Stone Sans Sem ITC TT Semi",
+              "post_script_name": "StoneSansITCTT-Semi",
+              "version": "16.0d1e1",
+              "copyright": "Copyright © 1997 International Typeface Corporation. All rights reserved."
+            },
+            {
+              "family_name": "Stone Sans Sem ITC TT",
+              "type": "SemiIta",
+              "full_name": "Stone Sans Sem ITC TT SemiIta",
+              "post_script_name": "StoneSansITCTT-SemiIta",
+              "version": "16.0d1e1",
+              "copyright": "Copyright © 1997 International Typeface Corporation. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

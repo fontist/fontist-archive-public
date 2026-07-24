@@ -1,0 +1,168 @@
+{
+  "slug": "kinto_sans",
+  "name": "kinto_sans",
+  "description": "Kinto Sans",
+  "homepage": "https://github.com/ookamiinc/kinto",
+  "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Kinto_Sans.zip": {
+      "urls": [
+        "https://github.com/ookamiinc/kinto/releases/download/v1.0.1/KintoSans.zip"
+      ],
+      "sha256": "9a5033b789c90d27c89bdc36b4523aaff4a3f8856f24c0be17b1112cf756376f",
+      "file_size": 149161274
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kinto Sans",
+      "styles": [
+        {
+          "family_name": "Kinto Sans",
+          "type": "Bold",
+          "full_name": "KintoSans-Bold",
+          "post_script_name": "KintoSans-Bold",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Bold.otf"
+        },
+        {
+          "family_name": "Kinto Sans",
+          "type": "Bold",
+          "full_name": "Kinto Sans Bold",
+          "post_script_name": "KintoSans-Bold",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Bold.ttf"
+        },
+        {
+          "family_name": "Kinto Sans",
+          "type": "Regular",
+          "full_name": "KintoSans-Regular",
+          "post_script_name": "KintoSans-Regular",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Regular.otf"
+        },
+        {
+          "family_name": "Kinto Sans",
+          "type": "Regular",
+          "full_name": "Kinto Sans Regular",
+          "post_script_name": "KintoSans-Regular",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kinto Sans Black",
+      "styles": [
+        {
+          "family_name": "Kinto Sans Black",
+          "type": "Regular",
+          "full_name": "KintoSans-Black",
+          "post_script_name": "KintoSans-Black",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Black.otf"
+        },
+        {
+          "family_name": "Kinto Sans Black",
+          "type": "Regular",
+          "full_name": "Kinto Sans Black",
+          "post_script_name": "KintoSans-Black",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kinto Sans Light",
+      "styles": [
+        {
+          "family_name": "Kinto Sans Light",
+          "type": "Regular",
+          "full_name": "KintoSans-Light",
+          "post_script_name": "KintoSans-Light",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Light.otf"
+        },
+        {
+          "family_name": "Kinto Sans Light",
+          "type": "Regular",
+          "full_name": "Kinto Sans Light",
+          "post_script_name": "KintoSans-Light",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kinto Sans Med",
+      "styles": [
+        {
+          "family_name": "Kinto Sans Med",
+          "type": "Regular",
+          "full_name": "KintoSans-Medium",
+          "post_script_name": "KintoSans-Medium",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Medium.otf"
+        },
+        {
+          "family_name": "Kinto Sans Med",
+          "type": "Regular",
+          "full_name": "Kinto Sans Medium",
+          "post_script_name": "KintoSans-Medium",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kinto Sans Thin",
+      "styles": [
+        {
+          "family_name": "Kinto Sans Thin",
+          "type": "Regular",
+          "full_name": "KintoSans-Thin",
+          "post_script_name": "KintoSans-Thin",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Thin.otf"
+        },
+        {
+          "family_name": "Kinto Sans Thin",
+          "type": "Regular",
+          "full_name": "Kinto Sans Thin",
+          "post_script_name": "KintoSans-Thin",
+          "version": "0.001",
+          "copyright": "Copyright © 2019 The Kinto Project Authors at ookami Inc.",
+          "description": "Kinto is a project maintained by Riomar Mccartney at ookami Inc. The font family is a forked project from Google Fonts / Adobe and based on Noto / Source Han font family. More information at https://github.com/ookamiinc/kinto",
+          "font": "KintoSans-Thin.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

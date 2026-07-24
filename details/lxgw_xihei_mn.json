@@ -1,0 +1,38 @@
+{
+  "slug": "lxgw_xihei_mn",
+  "name": "LXGW XiHei MN",
+  "description": "LXGW XiHei MN",
+  "homepage": "https://github.com/lxgw/LxgwXiHei",
+  "copyright": "Copyright(c) 2020-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "https://opensource.org/licenses/IPA/",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "LXGWXiHeiMN.ttf": {
+      "urls": [
+        "https://github.com/lxgw/LxgwXiHei/releases/download/v0.320/LXGWXiHeiMN.ttf"
+      ],
+      "sha256": "c72e703745c589d283c77ebe2e03527a6d83a786348f9230d1f8f39a8ce30a24",
+      "file_size": 4734076,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW XiHei MN",
+      "styles": [
+        {
+          "family_name": "LXGW XiHei MN",
+          "type": "Regular",
+          "full_name": "LXGW XiHei MN",
+          "post_script_name": "LXGWXiHeiMN",
+          "version": "0.320;June 8, 2024",
+          "copyright": "Copyright(c) 2020-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+          "font": "LXGWXiHeiMN.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

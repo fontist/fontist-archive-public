@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font8/hanzipen_sc_10m11177",
+  "name": "HanziPen SC",
+  "description": "HanziPen SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1be5a1ee899382a241392ba393410f41fa80dcf9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/1be5a1ee899382a241392ba393410f41fa80dcf9.zip"
+      ],
+      "sha256": "4e58d5a278610f27ff116468196df555ae3f03454a90ee11b4220b9c2559072b",
+      "file_size": 48701967
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Hanzipen.ttc",
+      "fonts": [
+        {
+          "name": "HanziPen SC",
+          "styles": [
+            {
+              "family_name": "HanziPen SC",
+              "type": "Bold",
+              "full_name": "HanziPen SC Bold",
+              "post_script_name": "HanziPenSC-W5",
+              "version": "14.0d1e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            },
+            {
+              "family_name": "HanziPen SC",
+              "type": "Regular",
+              "full_name": "HanziPen SC Regular",
+              "post_script_name": "HanziPenSC-W3",
+              "version": "14.0d1e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "HanziPen TC",
+          "styles": [
+            {
+              "family_name": "HanziPen TC",
+              "type": "Bold",
+              "full_name": "HanziPen TC Bold",
+              "post_script_name": "HanziPenTC-W5",
+              "version": "14.0d1e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            },
+            {
+              "family_name": "HanziPen TC",
+              "type": "Regular",
+              "full_name": "HanziPen TC Regular",
+              "post_script_name": "HanziPenTC-W3",
+              "version": "14.0d1e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

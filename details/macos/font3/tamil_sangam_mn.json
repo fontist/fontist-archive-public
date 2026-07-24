@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font3/tamil_sangam_mn",
+  "name": "Tamil Sangam MN",
+  "description": "Tamil Sangam MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b3b94f6df328d1bc39ac7ea011e77d0cddb05f12.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/b3b94f6df328d1bc39ac7ea011e77d0cddb05f12.zip"
+      ],
+      "sha256": "50d12c2ebfb56a0e483ea998d2bb7ac9d4d7b0e179dc6d3cef34d6d673cdc239",
+      "file_size": 62136
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Tamil Sangam MN.ttc",
+      "fonts": [
+        {
+          "name": "Tamil Sangam MN",
+          "styles": [
+            {
+              "family_name": "Tamil Sangam MN",
+              "type": "Bold",
+              "full_name": "Tamil Sangam MN Bold",
+              "post_script_name": "TamilSangamMN-Bold",
+              "version": "12.0d2e2",
+              "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Tamil Sangam MN",
+              "type": "Regular",
+              "full_name": "Tamil Sangam MN",
+              "post_script_name": "TamilSangamMN",
+              "version": "12.0d2e2",
+              "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

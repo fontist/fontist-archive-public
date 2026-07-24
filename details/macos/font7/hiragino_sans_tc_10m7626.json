@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/hiragino_sans_tc_10m7626",
+  "name": "Hiragino Sans TC",
+  "description": "Hiragino Sans TC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver3.12, Copyright © 2007-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "6399f76cec1305304074ba7f587e5763133bb541.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/6399f76cec1305304074ba7f587e5763133bb541.zip"
+      ],
+      "sha256": "20a4de6e3d811c001e56458e2030c01473b0ef7f6231af2c2849ebf3044b0df1",
+      "file_size": 14118620
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Hiragino_Sans_TC.ttc",
+      "fonts": [
+        {
+          "name": "Hiragino Sans TC W3",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans TC W3",
+              "type": "Regular",
+              "full_name": "Hiragino Sans TC W3",
+              "post_script_name": "HiraginoSansTC-W3",
+              "version": "20.0d1e1",
+              "copyright": "ver3.12, Copyright © 2007-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Sans TC W6",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans TC W6",
+              "type": "Bold",
+              "full_name": "Hiragino Sans TC W6",
+              "post_script_name": "HiraginoSansTC-W6",
+              "version": "20.0d1e1",
+              "copyright": "ver3.12, Copyright © 2007-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

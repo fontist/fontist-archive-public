@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font6/hopper_script",
+  "name": "Hopper Script",
+  "description": "Hopper Script",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2007, 2009 by P22 type foundry, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.p22.com/support/license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5668105090d8c90b0d2c6b0473a512e2ff1559eb.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/5668105090d8c90b0d2c6b0473a512e2ff1559eb.zip"
+      ],
+      "sha256": "0d0c3c905b009adcf9ac1803898b70434cf00f0621264544ed4a8f26f6f03dde",
+      "file_size": 107730
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hopper Script",
+      "styles": [
+        {
+          "family_name": "Hopper Script",
+          "type": "Regular",
+          "full_name": "Hopper Script Regular",
+          "post_script_name": "HopperScript-Regular",
+          "version": "13.0d1e4",
+          "copyright": "© 2007, 2009 by P22 type foundry, Inc. All rights reserved.",
+          "font": "HopperScript.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

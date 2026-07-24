@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/galvji_10m4185",
+  "name": "Galvji",
+  "description": "Galvji",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 by Apple Inc. and Michael Everson. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "35993346e82f683bebf201a1924384b1ab6661db.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/032-56898/EA465333-2C90-4CBF-B0E7-5CCE6C637321/com_apple_MobileAsset_Font7/35993346e82f683bebf201a1924384b1ab6661db.zip"
+      ],
+      "sha256": "7c9856fca8a07c334d1d6d50de172722edc8edcb3d808624191734191f68d8e4",
+      "file_size": 112930
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Galvji_Obliques.ttc",
+      "fonts": [
+        {
+          "name": "Galvji",
+          "styles": [
+            {
+              "family_name": "Galvji",
+              "type": "Bold Oblique",
+              "full_name": "Galvji-BoldOblique",
+              "post_script_name": "Galvji-BoldOblique",
+              "version": "14.0d1e3",
+              "copyright": "Copyright (c) 2015 by Apple Inc. and Michael Everson. All rights reserved."
+            },
+            {
+              "family_name": "Galvji",
+              "type": "Oblique",
+              "full_name": "Galvji Oblique",
+              "post_script_name": "Galvji-Oblique",
+              "version": "14.0d1e3",
+              "copyright": "Copyright (c) 2015 by Apple Inc. and Michael Everson. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

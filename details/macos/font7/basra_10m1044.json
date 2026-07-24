@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font7/basra_10m1044",
+  "name": "Basra",
+  "description": "Basra",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Basra (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "84bec07a549508e4114a8fa9540bdff149c1209f.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/84bec07a549508e4114a8fa9540bdff149c1209f.zip"
+      ],
+      "sha256": "8657463bf05d6e354f7c71baa2d0497dabfba536a210a715520ecb65dd9a5e12",
+      "file_size": 73035
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Basra.ttc",
+      "fonts": [
+        {
+          "name": ".Basra PUA",
+          "styles": [
+            {
+              "family_name": ".Basra PUA",
+              "type": "Bold",
+              "full_name": ".Basra PUA Bold",
+              "post_script_name": ".BasraPUA-Bold",
+              "version": "13.0d1e3",
+              "copyright": "Basra (c) 2013 Diwan Software Ltd."
+            },
+            {
+              "family_name": ".Basra PUA",
+              "type": "Regular",
+              "full_name": ".Basra PUA",
+              "post_script_name": ".BasraPUA",
+              "version": "13.0d1e3",
+              "copyright": "Basra (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Basra",
+          "styles": [
+            {
+              "family_name": "Basra",
+              "type": "Bold",
+              "full_name": "Basra Bold",
+              "post_script_name": "Basra-Bold",
+              "version": "13.0d1e3",
+              "copyright": "Basra (c) 2013 Diwan Software Ltd."
+            },
+            {
+              "family_name": "Basra",
+              "type": "Regular",
+              "full_name": "Basra Regular",
+              "post_script_name": "Basra",
+              "version": "13.0d1e3",
+              "copyright": "Basra (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "i.mingcp",
+  "name": "I.MingCP",
+  "description": "I.MingCP",
+  "homepage": "https://github.com/ichitenfont/I.Ming",
+  "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "I.MingCP-8.10.ttf": {
+      "urls": [
+        "https://github.com/ichitenfont/I.Ming/releases/download/8.10/I.MingCP-8.10.ttf"
+      ],
+      "sha256": "1c411a2e97b65c26aaa01707bbe06919569fcd7683c8bb5db114a96264710458",
+      "file_size": 25887296,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "I.MingCP",
+      "styles": [
+        {
+          "family_name": "I.MingCP",
+          "type": "Regular",
+          "full_name": "I.MingCP",
+          "post_script_name": "I.MingCP-Regular",
+          "version": "8.100; Apr 20, 2024",
+          "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "font": "I.MingCP-8.10.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

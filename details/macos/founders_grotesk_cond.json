@@ -1,0 +1,67 @@
+{
+  "slug": "macos/founders_grotesk_cond",
+  "name": "founders_grotesk_cond",
+  "description": "Founders Grotesk Cond",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010 Klim Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.klim.co.nz/licensing.php",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Founders_Grotesk_Cond.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/ios/061-87819-20200306-93DA1D52-6008-11EA-8852-69B153371E3E/com_apple_MobileAsset_Font6/4d7ee82724478f287778839b38f69dc683b4a4f1.zip"
+      ],
+      "sha256": "2cd0e15e1b6da862d1e416061975f73cb9c2377ceed5acb837a5cd11de2f5313",
+      "file_size": 93632
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "FoundersGroteskCondensed.ttc",
+      "fonts": [
+        {
+          "name": "Founders Grotesk Cond Bold",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Cond Bold",
+              "type": "Regular",
+              "full_name": "FoundersGroteskCond-Bold",
+              "post_script_name": "FoundersGroteskCond-Bold",
+              "version": "15.0d1e3",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Cond Reg",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Cond Reg",
+              "type": "Regular",
+              "full_name": "FoundersGroteskCond-Reg",
+              "post_script_name": "FoundersGroteskCond-Reg",
+              "version": "15.0d1e3",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Founders Grotesk Cond SmBd",
+          "styles": [
+            {
+              "family_name": "Founders Grotesk Cond SmBd",
+              "type": "Regular",
+              "full_name": "FoundersGroteskCond-SmBd",
+              "post_script_name": "FoundersGroteskCond-SmBd",
+              "version": "15.0d1e3",
+              "copyright": "© 2010 Klim Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

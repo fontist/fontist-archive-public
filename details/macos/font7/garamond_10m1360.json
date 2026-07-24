@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font7/garamond_10m1360",
+  "name": "Garamond",
+  "description": "Garamond",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright Monotype Typography, Ltd 1991-1995. All rights reserved. Monotype Garamond® is a trademark of Monotype Typography, Ltd which may be registered in certain jurisdictions.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c5f7b1497a36bcf69d0ef8a98c257a8d8a7c5dc8.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/c5f7b1497a36bcf69d0ef8a98c257a8d8a7c5dc8.zip"
+      ],
+      "sha256": "e31f5e47af71d289e599590a2c5ca1030e99c13dcf387d3a17a549d478111d41",
+      "file_size": 470482
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Garamond.ttc",
+      "fonts": [
+        {
+          "name": "Garamond",
+          "styles": [
+            {
+              "family_name": "Garamond",
+              "type": "Bold",
+              "full_name": "Garamond Bold",
+              "post_script_name": "Garamond-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright Monotype Typography, Ltd 1991-1995. All rights reserved. Monotype Garamond® is a trademark of Monotype Typography, Ltd which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Garamond",
+              "type": "Bold Italic",
+              "full_name": "Garamond Bold Italic",
+              "post_script_name": "Garamond-BoldItalic",
+              "version": "13.0d1e2",
+              "copyright": "Font software Copyright 1991 Adobe Systems Incorporated. Typeface designs Copyright 1991 The Monotype Corporation. All rights reserved. \"Monotype\" is a trademark of Monotype Imaging, Inc. Registered in U.S. Patent and Trademark Office and may be registered in certain other jurisdictions."
+            },
+            {
+              "family_name": "Garamond",
+              "type": "Italic",
+              "full_name": "Garamond Italic",
+              "post_script_name": "Garamond-Italic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright Monotype Typography, Ltd 1991-1995. All rights reserved. Monotype Garamond® is a trademark of Monotype Typography, Ltd which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Garamond",
+              "type": "Regular",
+              "full_name": "Garamond",
+              "post_script_name": "Garamond",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright Monotype Typography, Ltd 1991-1995. All rights reserved. Monotype Garamond® is a trademark of Monotype Typography, Ltd which may be registered in certain jurisdictions."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

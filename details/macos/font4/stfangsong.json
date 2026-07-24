@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/stfangsong",
+  "name": "STFangsong",
+  "description": "STFangsong",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2002, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c1eaff3ada787e1beb4a74fedfcc40df66cba7e0.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/c1eaff3ada787e1beb4a74fedfcc40df66cba7e0.zip"
+      ],
+      "sha256": "a29365f8d6eae62615358c0d198c1f06088aee16ec04681b8470c556379d4737",
+      "file_size": 10774705
+    }
+  },
+  "fonts": [
+    {
+      "name": "STFangsong",
+      "styles": [
+        {
+          "family_name": "STFangsong",
+          "type": "Regular",
+          "full_name": "STFangsong",
+          "post_script_name": "STFangsong",
+          "version": "13.0d1e1",
+          "copyright": "Copyright (c) 2002, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STFANGSO.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

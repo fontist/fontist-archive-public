@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font8/andale_mono_10m11177",
+  "name": "Andale Mono",
+  "description": "Andale Mono",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright (C) 1993-1997 The Monotype Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.monotype.com/html/type/license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "76d8a214bf6c5cc71d0ed1a2bc3ebf97f501d8f9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/76d8a214bf6c5cc71d0ed1a2bc3ebf97f501d8f9.zip"
+      ],
+      "sha256": "ec2e3d76c5289a029e99e7e26fe87f8891aace18860259e7c0a955ed65933946",
+      "file_size": 68757
+    }
+  },
+  "fonts": [
+    {
+      "name": "Andale Mono",
+      "styles": [
+        {
+          "family_name": "Andale Mono",
+          "type": "Regular",
+          "full_name": "Andale Mono",
+          "post_script_name": "AndaleMono",
+          "version": "2.00x",
+          "copyright": "Digitized data copyright (C) 1993-1997 The Monotype Corporation. All rights reserved.",
+          "font": "AndaleMo.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

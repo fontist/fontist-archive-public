@@ -1,0 +1,32 @@
+{
+  "name": "Variation_Selectors",
+  "first_cp": 65024,
+  "last_cp": 65039,
+  "range": "U+FE00–U+FE0F",
+  "plane": 0,
+  "total_assigned": 16,
+  "covered_count": 2,
+  "missing_count": 14,
+  "coverage_percent": 12.5,
+  "status": "PARTIAL",
+  "missing_codepoints": [
+    65024,
+    65025,
+    65026,
+    65027,
+    65028,
+    65029,
+    65030,
+    65031,
+    65032,
+    65033,
+    65034,
+    65035,
+    65036,
+    65037
+  ],
+  "covered_codepoints": [
+    65038,
+    65039
+  ]
+}

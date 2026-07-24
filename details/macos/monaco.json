@@ -1,0 +1,36 @@
+{
+  "slug": "macos/monaco",
+  "name": "monaco",
+  "description": "Monaco",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 1990-2008 Apple Inc. © 1990-97 Type Solutions Inc. © 1990-97 The Font Bureau Inc.  TrueType outline design of Monaco typeface created by Kris Holmes and Charles Bigelow.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Monaco.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/91dbcffe354b5d891704707d5eadf1a5166dac28.zip"
+      ],
+      "sha256": "8a9c869fa997f02fef9a9d864100d1a2855213116b4fcdfa4a423d0b6eb05cd2",
+      "file_size": 182481
+    }
+  },
+  "fonts": [
+    {
+      "name": "Monaco",
+      "styles": [
+        {
+          "family_name": "Monaco",
+          "type": "Regular",
+          "full_name": "Monaco",
+          "post_script_name": "Monaco",
+          "version": "15.0d1e2",
+          "copyright": "© 1990-2008 Apple Inc. © 1990-97 Type Solutions Inc. © 1990-97 The Font Bureau Inc.  TrueType outline design of Monaco typeface created by Kris Holmes and Charles Bigelow.",
+          "font": "Monaco.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

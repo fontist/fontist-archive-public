@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font7/arial_narrow_10m1044",
+  "name": "Arial Narrow",
+  "description": "Arial Narrow",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "645e5963f4fa590732716b5124c13d3584698247.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/645e5963f4fa590732716b5124c13d3584698247.zip"
+      ],
+      "sha256": "2c308c483046fec29838ac2f32f8fa69a3563977d254a19a8c24fe73837e22c6",
+      "file_size": 97082
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial Narrow",
+      "styles": [
+        {
+          "family_name": "Arial Narrow",
+          "type": "Italic",
+          "full_name": "Arial Narrow Italic",
+          "post_script_name": "ArialNarrow-Italic",
+          "version": "2.38.1x",
+          "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+          "description": "You may use this font to display and print content as permitted by the license terms for the product in which this font is included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "ARIALNI.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

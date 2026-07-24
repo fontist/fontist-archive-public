@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/kokonor",
+  "name": "Kokonor",
+  "description": "Kokonor",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) Otani University Shin Buddhist Research Institute, 2006. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "efbee4781082a860c3c199fdeb83f887c03dd56f.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/efbee4781082a860c3c199fdeb83f887c03dd56f.zip"
+      ],
+      "sha256": "c2fa02a69a4074f2eb6067de2bed7fe1871fb2b9d82cc06e7bea6cd6c4b28b2d",
+      "file_size": 273316
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kokonor",
+      "styles": [
+        {
+          "family_name": "Kokonor",
+          "type": "Regular",
+          "full_name": "Kokonor Regular",
+          "post_script_name": "Kokonor",
+          "version": "13.0d1e3",
+          "copyright": "Copyright (c) Otani University Shin Buddhist Research Institute, 2006. All rights reserved.",
+          "font": "Kokonor-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

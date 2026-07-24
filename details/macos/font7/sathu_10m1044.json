@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/sathu_10m1044",
+  "name": "Sathu",
+  "description": "Sathu",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1992-2003 Apple Computer, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0b8086d5d2dd868ffd61d05c987583b332e696ad.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/0b8086d5d2dd868ffd61d05c987583b332e696ad.zip"
+      ],
+      "sha256": "3b7ae3678d832b3ff229ee4dd9b3c189f600cae8b939d0fb8edca4bb9735d3b3",
+      "file_size": 127247
+    }
+  },
+  "fonts": [
+    {
+      "name": "Sathu",
+      "styles": [
+        {
+          "family_name": "Sathu",
+          "type": "Regular",
+          "full_name": "Sathu",
+          "post_script_name": "Sathu",
+          "version": "14.0d1e1",
+          "copyright": "� 1992-2003 Apple Computer, Inc.",
+          "font": "Sathu-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

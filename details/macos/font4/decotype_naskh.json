@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/decotype_naskh",
+  "name": "DecoType Naskh",
+  "description": "DecoType Naskh",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "DecoType Professional Naskh Family of Fonts. Copyright 1992-2007 DecoType. All Rights Reserved. Created by Thomas Milo.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0822bb868a9246deea3b9e058b022a270aa7ff8c.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/0822bb868a9246deea3b9e058b022a270aa7ff8c.zip"
+      ],
+      "sha256": "1ab73de39ed6d5fa7cf5020b4664215006ad9b4d3925bd54b2e90198d2ba6222",
+      "file_size": 47100
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "DecoTypeNaskh.ttc",
+      "fonts": [
+        {
+          "name": ".DecoType Naskh PUA",
+          "styles": [
+            {
+              "family_name": ".DecoType Naskh PUA",
+              "type": "Regular",
+              "full_name": ".DecoType Naskh PUA",
+              "post_script_name": ".DecoTypeNaskhPUA",
+              "version": "13.0d1e4",
+              "copyright": "DecoType Professional Naskh Family of Fonts. Copyright 1992-2007 DecoType. All Rights Reserved. Created by Thomas Milo."
+            }
+          ]
+        },
+        {
+          "name": "DecoType Naskh",
+          "styles": [
+            {
+              "family_name": "DecoType Naskh",
+              "type": "Regular",
+              "full_name": "DecoType Naskh Regular",
+              "post_script_name": "DecoTypeNaskh",
+              "version": "13.0d1e4",
+              "copyright": "DecoType Professional Naskh Family of Fonts. Copyright 1992-2007 DecoType. All Rights Reserved. Created by Thomas Milo."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

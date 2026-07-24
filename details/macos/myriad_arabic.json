@@ -1,0 +1,128 @@
+{
+  "slug": "macos/myriad_arabic",
+  "name": "myriad_arabic",
+  "description": "Myriad Arabic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.adobe.com/type/legal.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Myriad_Arabic.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/9efe45b0375568640ef6e4a9c5c6e572708471a7.zip"
+      ],
+      "sha256": "13750d86922461135bf0cbb1aed0407c51072c48908738a0d02560cabacd267f",
+      "file_size": 949401
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "MyriadArabic.ttc",
+      "fonts": [
+        {
+          "name": "Myriad Arabic",
+          "styles": [
+            {
+              "family_name": "Myriad Arabic",
+              "type": "Bold",
+              "full_name": "Myriad Arabic Bold",
+              "post_script_name": "MyriadArabic-Bold",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            },
+            {
+              "family_name": "Myriad Arabic",
+              "type": "Bold Italic",
+              "full_name": "Myriad Arabic Bold Italic",
+              "post_script_name": "MyriadArabic-BoldIt",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            },
+            {
+              "family_name": "Myriad Arabic",
+              "type": "Italic",
+              "full_name": "Myriad Arabic Italic",
+              "post_script_name": "MyriadArabic-It",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            },
+            {
+              "family_name": "Myriad Arabic",
+              "type": "Regular",
+              "full_name": "Myriad Arabic",
+              "post_script_name": "MyriadArabic-Regular",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Myriad Arabic Black",
+          "styles": [
+            {
+              "family_name": "Myriad Arabic Black",
+              "type": "Italic",
+              "full_name": "Myriad Arabic Black Italic",
+              "post_script_name": "MyriadArabic-BlackIt",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            },
+            {
+              "family_name": "Myriad Arabic Black",
+              "type": "Regular",
+              "full_name": "Myriad Arabic Black",
+              "post_script_name": "MyriadArabic-Black",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Myriad Arabic Light",
+          "styles": [
+            {
+              "family_name": "Myriad Arabic Light",
+              "type": "Italic",
+              "full_name": "Myriad Arabic Light Italic",
+              "post_script_name": "MyriadArabic-LightIt",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            },
+            {
+              "family_name": "Myriad Arabic Light",
+              "type": "Regular",
+              "full_name": "Myriad Arabic Light",
+              "post_script_name": "MyriadArabic-Light",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Myriad Arabic Semibold",
+          "styles": [
+            {
+              "family_name": "Myriad Arabic Semibold",
+              "type": "Italic",
+              "full_name": "Myriad Arabic Semibold Italic",
+              "post_script_name": "MyriadArabic-SemiboldIt",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            },
+            {
+              "family_name": "Myriad Arabic Semibold",
+              "type": "Regular",
+              "full_name": "Myriad Arabic Semibold",
+              "post_script_name": "MyriadArabic-Semibold",
+              "version": "13.0d1e1",
+              "copyright": "© 1992, 1994, 1997, 2000, 2004, 2010 Adobe Systems Incorporated. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

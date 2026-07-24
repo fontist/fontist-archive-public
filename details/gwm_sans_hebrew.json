@@ -1,0 +1,92 @@
+{
+  "slug": "gwm_sans_hebrew",
+  "name": "GWM Sans Hebrew",
+  "description": "GWM Sans Hebrew",
+  "homepage": "https://www.gwm.com.cn/gwmsans/fontdownload.html",
+  "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://www.gwm.com.cn/gwmsans/fontdownload.html",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "GWMSansHebrew.zip": {
+      "urls": [
+        "https://res.gwm.com.cn/GwmCn/fonts/gwmsans/package/GWMSansHebrew.zip"
+      ],
+      "sha256": "d6a90ad7a8258c0b95a1d9a11e09d25c4afd9bcb5991b270f30bb8e17c306e7c",
+      "file_size": 3899959
+    }
+  },
+  "fonts": [
+    {
+      "name": "GWM Sans Hebrew",
+      "styles": [
+        {
+          "family_name": "GWM Sans Hebrew",
+          "type": "Regular",
+          "full_name": "GWM Sans Hebrew Regular",
+          "post_script_name": "GWMSansHebrew-Regular",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansHebrew-Regular.otf"
+        },
+        {
+          "family_name": "GWM Sans Hebrew",
+          "type": "Regular",
+          "full_name": "GWM Sans Hebrew Regular",
+          "post_script_name": "GWMSansHebrew-Regular",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansHebrew-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "GWM Sans Hebrew Bold",
+      "styles": [
+        {
+          "family_name": "GWM Sans Hebrew Bold",
+          "type": "Regular",
+          "full_name": "GWM Sans Hebrew Bold",
+          "post_script_name": "GWMSansHebrew-Bold",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansHebrew-Bold.otf"
+        },
+        {
+          "family_name": "GWM Sans Hebrew Bold",
+          "type": "Regular",
+          "full_name": "GWM Sans Hebrew Bold",
+          "post_script_name": "GWMSansHebrew-Bold",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansHebrew-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "GWM Sans Hebrew Light",
+      "styles": [
+        {
+          "family_name": "GWM Sans Hebrew Light",
+          "type": "Regular",
+          "full_name": "GWM Sans Hebrew Light",
+          "post_script_name": "GWMSansHebrew-Light",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansHebrew-Light.otf"
+        },
+        {
+          "family_name": "GWM Sans Hebrew Light",
+          "type": "Regular",
+          "full_name": "GWM Sans Hebrew Light",
+          "post_script_name": "GWMSansHebrew-Light",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansHebrew-Light.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

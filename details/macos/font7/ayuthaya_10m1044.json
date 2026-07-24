@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/ayuthaya_10m1044",
+  "name": "Ayuthaya",
+  "description": "Ayuthaya",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1992-2011 by Apple Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ad65e32e0df1877340bb43dfb1267b0755969620.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/ad65e32e0df1877340bb43dfb1267b0755969620.zip"
+      ],
+      "sha256": "6ce4f96b585bc3caae4c0b9ade4245f36bf89060357b94f6eb390aed009db7d8",
+      "file_size": 111921
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ayuthaya",
+      "styles": [
+        {
+          "family_name": "Ayuthaya",
+          "type": "Regular",
+          "full_name": "Ayuthaya",
+          "post_script_name": "Ayuthaya",
+          "version": "13.0d1e7",
+          "copyright": "Copyright � 1992-2011 by Apple Inc. All rights reserved.",
+          "font": "Ayuthaya.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

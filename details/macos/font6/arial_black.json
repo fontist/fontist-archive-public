@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font6/arial_black",
+  "name": "Arial Black",
+  "description": "Arial Black",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "C 2006 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.monotype.com/html/type/license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "40feaefe4b32720128c3305ecc919693bd6d869c.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/40feaefe4b32720128c3305ecc919693bd6d869c.zip"
+      ],
+      "sha256": "291c9c5f2336cf0ee7c627be83de60ac32eb866637e35515fb04ae7a72151e32",
+      "file_size": 75079
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial Black",
+      "styles": [
+        {
+          "family_name": "Arial Black",
+          "type": "Regular",
+          "full_name": "Arial Black",
+          "post_script_name": "Arial-Black",
+          "version": "5.00.1x",
+          "copyright": "C 2006 The Monotype Corporation. All Rights Reserved.",
+          "description": "NOTIFICATION OF LICENSE AGREEMENT\r\n\r\nThis typeface is the property of Monotype Typography and its use by you is covered under the terms of a license agreement. You have obtained this typeface software either directly from Monotype or together with software distributed by one of Monotype’s licensees.\r\n\r\nThis software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited to your workstation for your own publishing use. You may not copy or distribute this software.\r\n\r\nIf you have any question concerning your rights you should review the license agreement you received with the software or contact Monotype for a copy of the license agreement.\r\n\r\nMonotype can be contacted at:\r\n\r\nUSA 847-718-0400  UK 44(0)1737 765959\r\n\r\nFor license terms and usage rights, please visit our web site at www.monotype.com/html/type/license.html\r\n \r\nLizenzbedingungen und Nutzungsrechte finden Sie auf unserer Webseite www.monotype.com/html/type/license.html\r\n\r\nPour plus d'informations concernant les droits d'utilisation et les questions contractuelles, veuillez consultez notre site www.monotype.com/html/type/license.html\r\n\r\nPara obtener información acerca de los términos de licencia y los derechos de uso, visite nuestro sitio en el Web en www.monotype.com/html/type/license.html\r\n\r\nPer le condizioni contrattuali ed i diritti d'uso, visitate il nostro sito web all'indirizzo www.monotype.com/html/type/license.html\r\n",
+          "font": "ariblk.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

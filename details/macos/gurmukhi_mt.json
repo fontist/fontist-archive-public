@@ -1,0 +1,36 @@
+{
+  "slug": "macos/gurmukhi_mt",
+  "name": "gurmukhi_mt",
+  "description": "Gurmukhi MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © Monotype Typography Ltd. 1996. All Rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Gurmukhi_MT.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/f13e09b88ac3635fdbaca63f54faf86468adff3a.zip"
+      ],
+      "sha256": "89500db9106f81d668b64fb3ebdb185d2155bf134176cae674aee66458014690",
+      "file_size": 39566
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gurmukhi MT",
+      "styles": [
+        {
+          "family_name": "Gurmukhi MT",
+          "type": "Regular",
+          "full_name": "Gurmukhi MT",
+          "post_script_name": "MonotypeGurmukhi",
+          "version": "13.0d1e4",
+          "copyright": "Copyright © Monotype Typography Ltd. 1996. All Rights reserved.",
+          "font": "Gurmukhi-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

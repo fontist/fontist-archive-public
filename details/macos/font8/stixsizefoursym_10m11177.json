@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font8/stixsizefoursym_10m11177",
+  "name": "STIXSizeFourSym",
+  "description": "STIXSizeFourSym",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. Portions copyright (c) 1998-2003 by MicroPress, Inc. Portions copyright (c) 1990 by Elsevier, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.stixfonts.org/user_license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c110d5b657f37caa24e791514b41f088c65c1c5d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/c110d5b657f37caa24e791514b41f088c65c1c5d.zip"
+      ],
+      "sha256": "2d5374618d54c20bbb0683e202e8815b6bb301973c4936d3d95503b3957dc65a",
+      "file_size": 8722
+    }
+  },
+  "fonts": [
+    {
+      "name": "STIXSizeFourSym",
+      "styles": [
+        {
+          "family_name": "STIXSizeFourSym",
+          "type": "Regular",
+          "full_name": "STIXSizeFourSym-Regular",
+          "post_script_name": "STIXSizeFourSym-Regular",
+          "version": "1.1.0",
+          "copyright": "Copyright (c) 2001-2011 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc. Portions copyright (c) 1998-2003 by MicroPress, Inc. Portions copyright (c) 1990 by Elsevier, Inc. All rights reserved.",
+          "description": "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (\"Modified Version\") will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The \"renaming\" restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set.",
+          "font": "STIXSizFourSymReg.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

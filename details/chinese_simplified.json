@@ -1,0 +1,256 @@
+{
+  "slug": "chinese_simplified",
+  "name": "Chinese Simplified",
+  "description": "Chinese Simplified",
+  "copyright": "Copyright(c) Founder Corporation.1998",
+  "spdx_license": "LicenseRef-Microsoft-Office2013-1",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Chinese_Simplified.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/langpacks/-/raw/master/OfficeLangPack2013_ChnSimp_x86.exe",
+        "http://download.microsoft.com/download/3/1/B/31B4865F-FA9D-4B58-A6A7-7E5B7C48FF75/OfficeLangPack2013_ChnSimp_x86.exe",
+        "https://web.archive.org/web/20200629065133/http://download.microsoft.com/download/3/1/B/31B4865F-FA9D-4B58-A6A7-7E5B7C48FF75/OfficeLangPack2013_ChnSimp_x86.exe"
+      ],
+      "sha256": "715ac0641aa0623f67ef18e8837e7b37669ddc36b52166b34c087af537383a91",
+      "file_size": 331904760
+    }
+  },
+  "fonts": [
+    {
+      "name": "FZShuTi",
+      "styles": [
+        {
+          "family_name": "FZShuTi",
+          "type": "Regular",
+          "full_name": "FZShuTi",
+          "post_script_name": "FZSTK--GBK1-0",
+          "version": "1.00",
+          "copyright": "Copyright(c) Founder Corporation.1998",
+          "font": "FZSTK.ttf"
+        }
+      ]
+    },
+    {
+      "name": "FZYaoTi",
+      "styles": [
+        {
+          "family_name": "FZYaoTi",
+          "type": "Regular",
+          "full_name": "FZYaoTi",
+          "post_script_name": "FZYTK--GBK1-0",
+          "version": "1.00",
+          "copyright": "Copyright(c) Founder Corporation.1998",
+          "font": "FZYTK.ttf"
+        }
+      ]
+    },
+    {
+      "name": "LiSu",
+      "styles": [
+        {
+          "family_name": "LiSu",
+          "type": "Regular",
+          "full_name": "LiSu",
+          "post_script_name": "LiSu",
+          "version": "3.01",
+          "copyright": "(C) Copyright Stone Co., 1996",
+          "font": "SIMLI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "MT Extra",
+      "styles": [
+        {
+          "family_name": "MT Extra",
+          "type": "Regular",
+          "full_name": "MT Extra",
+          "post_script_name": "MT-Extra",
+          "version": "3.01",
+          "copyright": "Copyright 1990-92 by Design Science, Inc. (310) 433-0685; part of MathType mathematical equation editor",
+          "font": "MTEXTRA.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft YaHei",
+      "styles": [
+        {
+          "family_name": "Microsoft YaHei",
+          "type": "Regular",
+          "full_name": "Microsoft YaHei",
+          "post_script_name": "MicrosoftYaHei",
+          "version": "6.02",
+          "copyright": "© 2009 Microsoft Corporation. All rights reserved.",
+          "font": "MSYH.ttf"
+        },
+        {
+          "family_name": "Microsoft YaHei",
+          "type": "Bold",
+          "full_name": "Microsoft YaHei Bold",
+          "post_script_name": "MicrosoftYaHei-Bold",
+          "version": "6.02",
+          "copyright": "© 2008 Microsoft Corporation. All rights reserved. Portions © 2008 Founder Corporation. All rights reserved.",
+          "font": "MSYHBD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STCaiyun",
+      "styles": [
+        {
+          "family_name": "STCaiyun",
+          "type": "Regular",
+          "full_name": "STCaiyun",
+          "post_script_name": "STCaiyun",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STCAIYUN.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STFangsong",
+      "styles": [
+        {
+          "family_name": "STFangsong",
+          "type": "Regular",
+          "full_name": "STFangsong",
+          "post_script_name": "STFangsong",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STFANGSO.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STHupo",
+      "styles": [
+        {
+          "family_name": "STHupo",
+          "type": "Regular",
+          "full_name": "STHupo",
+          "post_script_name": "STHupo",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STHUPO.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STKaiti",
+      "styles": [
+        {
+          "family_name": "STKaiti",
+          "type": "Regular",
+          "full_name": "STKaiti",
+          "post_script_name": "STKaiti",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STKAITI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STLiti",
+      "styles": [
+        {
+          "family_name": "STLiti",
+          "type": "Regular",
+          "full_name": "STLiti",
+          "post_script_name": "STLiti",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STLITI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STSong",
+      "styles": [
+        {
+          "family_name": "STSong",
+          "type": "Regular",
+          "full_name": "STSong",
+          "post_script_name": "STSong",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STSONG.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STXihei",
+      "styles": [
+        {
+          "family_name": "STXihei",
+          "type": "Regular",
+          "full_name": "STXihei",
+          "post_script_name": "STXihei",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STXIHEI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STXingkai",
+      "styles": [
+        {
+          "family_name": "STXingkai",
+          "type": "Regular",
+          "full_name": "STXingkai",
+          "post_script_name": "STXingkai",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STXINGKA.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STXinwei",
+      "styles": [
+        {
+          "family_name": "STXinwei",
+          "type": "Regular",
+          "full_name": "STXinwei",
+          "post_script_name": "STXinwei",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STXINWEI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "STZhongsong",
+      "styles": [
+        {
+          "family_name": "STZhongsong",
+          "type": "Regular",
+          "full_name": "STZhongsong",
+          "post_script_name": "STZhongsong",
+          "version": "1.02",
+          "copyright": "Copyright (c) 1991-1998, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STZHONGS.ttf"
+        }
+      ]
+    },
+    {
+      "name": "YouYuan",
+      "styles": [
+        {
+          "family_name": "YouYuan",
+          "type": "Regular",
+          "full_name": "YouYuan",
+          "post_script_name": "YouYuan",
+          "version": "3.01",
+          "copyright": "(C) Copyright Stone Co., 1996",
+          "font": "SIMYOU.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font3/arial",
+  "name": "Arial",
+  "description": "Arial",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e9912c8068042b912495667ad2736816ad4f7f3b.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/e9912c8068042b912495667ad2736816ad4f7f3b.zip"
+      ],
+      "sha256": "9f05c511b311fda653ce9cecb1e1df484cbe0b7835b9f7f7800adb1ae1cd294c",
+      "file_size": 425225
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial",
+      "styles": [
+        {
+          "family_name": "Arial",
+          "type": "Regular",
+          "full_name": "Arial",
+          "post_script_name": "ArialMT",
+          "version": "5.01.2x",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "description": "You may use this font to display and print content as permitted by the license terms for the product in which this font is included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "Arial.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

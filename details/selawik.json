@@ -1,0 +1,88 @@
+{
+  "slug": "selawik",
+  "name": "Selawik",
+  "description": "Selawik",
+  "homepage": "http://www.microsoft.com/typography",
+  "copyright": "© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://opensource.org/licenses/OFL-1.1",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Selawik.zip": {
+      "urls": [
+        "https://github.com/microsoft/Selawik/releases/download/1.01/Selawik_Release.zip"
+      ],
+      "sha256": "3f62c51e05e3b5a1e6241cf92a371f0be2ea1183aa87b30718bbd40832a8d423",
+      "file_size": 530652
+    }
+  },
+  "fonts": [
+    {
+      "name": "Selawik",
+      "styles": [
+        {
+          "family_name": "Selawik",
+          "type": "Bold",
+          "full_name": "Selawik Bold",
+          "post_script_name": "Selawik-Bold",
+          "version": "1.01",
+          "copyright": "© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.",
+          "font": "selawkb.ttf"
+        },
+        {
+          "family_name": "Selawik",
+          "type": "Regular",
+          "full_name": "Selawik",
+          "post_script_name": "Selawik-Regular",
+          "version": "1.01",
+          "copyright": "© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.",
+          "font": "selawk.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Selawik Light",
+      "styles": [
+        {
+          "family_name": "Selawik Light",
+          "type": "Regular",
+          "full_name": "Selawik Light",
+          "post_script_name": "Selawik-Light",
+          "version": "1.01",
+          "copyright": "© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.",
+          "font": "selawkl.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Selawik Semibold",
+      "styles": [
+        {
+          "family_name": "Selawik Semibold",
+          "type": "Regular",
+          "full_name": "Selawik Semibold",
+          "post_script_name": "Selawik-Semibold",
+          "version": "1.01",
+          "copyright": "© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.",
+          "font": "selawksb.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Selawik Semilight",
+      "styles": [
+        {
+          "family_name": "Selawik Semilight",
+          "type": "Regular",
+          "full_name": "Selawik Semilight",
+          "post_script_name": "Selawik-Semilight",
+          "version": "1.01",
+          "copyright": "© 2015 Microsoft Corporation (www.microsoft.com), with Reserved Font Name Selawik. Selawik is a trademark of Microsoft Corporation in the United States and/or other countries.",
+          "font": "selawksl.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

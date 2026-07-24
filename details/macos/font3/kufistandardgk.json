@@ -1,0 +1,44 @@
+{
+  "slug": "macos/font3/kufistandardgk",
+  "name": "KufiStandardGK",
+  "description": "KufiStandardGK",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ab8ad4817c7b97a7cf5aefd86dc980ef21f0ec9d.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/ab8ad4817c7b97a7cf5aefd86dc980ef21f0ec9d.zip"
+      ],
+      "sha256": "e8818c786d2f4156eb5b75cfb3b0a2484756b693cffdc67ddbffa0775c2ac1e7",
+      "file_size": 38335
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KufiStandardGK.ttc",
+      "fonts": [
+        {
+          "name": "font20260104-81553-437rrj",
+          "styles": [
+            {
+              "family_name": "font20260104-81553-437rrj",
+              "type": "Regular"
+            }
+          ]
+        },
+        {
+          "name": "font20260104-81553-nfdp20",
+          "styles": [
+            {
+              "family_name": "font20260104-81553-nfdp20",
+              "type": "Regular"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

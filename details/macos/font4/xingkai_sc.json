@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font4/xingkai_sc",
+  "name": "Xingkai SC",
+  "description": "Xingkai SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7352baa0126799cf69db9643a3174347f71dffa2.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/7352baa0126799cf69db9643a3174347f71dffa2.zip"
+      ],
+      "sha256": "c5de9ff40bb4b7850541318128f32232c4b4c216935233c0492cc709de711621",
+      "file_size": 54770483
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Xingkai.ttc",
+      "fonts": [
+        {
+          "name": "Xingkai SC",
+          "styles": [
+            {
+              "family_name": "Xingkai SC",
+              "type": "Bold",
+              "full_name": "Xingkai SC Bold",
+              "post_script_name": "STXingkaiSC-Bold",
+              "version": "13.0d3e3",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Xingkai SC",
+              "type": "Light",
+              "full_name": "Xingkai SC Light",
+              "post_script_name": "STXingkaiSC-Light",
+              "version": "13.0d3e3",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Xingkai TC",
+          "styles": [
+            {
+              "family_name": "Xingkai TC",
+              "type": "Bold",
+              "full_name": "Xingkai TC Bold",
+              "post_script_name": "STXingkaiTC-Bold",
+              "version": "13.0d3e3",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Xingkai TC",
+              "type": "Light",
+              "full_name": "Xingkai TC Light",
+              "post_script_name": "STXingkaiTC-Light",
+              "version": "13.0d3e3",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

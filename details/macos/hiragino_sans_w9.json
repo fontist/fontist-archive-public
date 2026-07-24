@@ -1,0 +1,40 @@
+{
+  "slug": "macos/hiragino_sans_w9",
+  "name": "hiragino_sans_w9",
+  "description": "Hiragino Sans W9",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver8.01, Copyright (c) 1993-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Hiragino_Sans_W9.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/deff43fbf35021048210709aabfa49f49e64d03d.zip"
+      ],
+      "sha256": "0ee3ea78e39713d1be2454dd1998d10339128da894ee9aff14208c21b669ef96",
+      "file_size": 2703204
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "HiraginoSans-W9.ttc",
+      "fonts": [
+        {
+          "name": "Hiragino Sans W9",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans W9",
+              "type": "Regular",
+              "full_name": "Hiragino Sans W9",
+              "post_script_name": "HiraginoSans-W9",
+              "version": "15.0d1e3",
+              "copyright": "ver8.01, Copyright (c) 1993-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "slug": "libertinus",
+  "name": "Libertinus",
+  "description": "Libertinus",
+  "homepage": "https://github.com/alerque/libertinus",
+  "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://openfontlicense.org",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Libertinus-7.051.zip": {
+      "urls": [
+        "https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip"
+      ],
+      "sha256": "4d9be29b5cb380c35af8ba967abcc752ad1e07be1f738a9789c33e0dd7478c92",
+      "file_size": 9400628
+    }
+  },
+  "fonts": [
+    {
+      "name": "Libertinus Keyboard",
+      "styles": [
+        {
+          "family_name": "Libertinus Keyboard",
+          "type": "Regular",
+          "full_name": "Libertinus Keyboard Regular",
+          "post_script_name": "LibertinusKeyboard-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusKeyboard-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Keyboard",
+          "type": "Regular",
+          "full_name": "Libertinus Keyboard Regular",
+          "post_script_name": "LibertinusKeyboard-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusKeyboard-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Math",
+      "styles": [
+        {
+          "family_name": "Libertinus Math",
+          "type": "Regular",
+          "full_name": "Libertinus Math Regular",
+          "post_script_name": "LibertinusMath-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusMath-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Math",
+          "type": "Regular",
+          "full_name": "Libertinus Math Regular",
+          "post_script_name": "LibertinusMath-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusMath-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Mono",
+      "styles": [
+        {
+          "family_name": "Libertinus Mono",
+          "type": "Regular",
+          "full_name": "Libertinus Mono Regular",
+          "post_script_name": "LibertinusMono-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusMono-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Mono",
+          "type": "Regular",
+          "full_name": "Libertinus Mono Regular",
+          "post_script_name": "LibertinusMono-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusMono-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Sans",
+      "styles": [
+        {
+          "family_name": "Libertinus Sans",
+          "type": "Bold",
+          "full_name": "Libertinus Sans Bold",
+          "post_script_name": "LibertinusSans-Bold",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSans-Bold.otf"
+        },
+        {
+          "family_name": "Libertinus Sans",
+          "type": "Bold",
+          "full_name": "Libertinus Sans Bold",
+          "post_script_name": "LibertinusSans-Bold",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSans-Bold.ttf"
+        },
+        {
+          "family_name": "Libertinus Sans",
+          "type": "Italic",
+          "full_name": "Libertinus Sans Italic",
+          "post_script_name": "LibertinusSans-Italic",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSans-Italic.otf"
+        },
+        {
+          "family_name": "Libertinus Sans",
+          "type": "Italic",
+          "full_name": "Libertinus Sans Italic",
+          "post_script_name": "LibertinusSans-Italic",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSans-Italic.ttf"
+        },
+        {
+          "family_name": "Libertinus Sans",
+          "type": "Regular",
+          "full_name": "Libertinus Sans Regular",
+          "post_script_name": "LibertinusSans-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSans-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Sans",
+          "type": "Regular",
+          "full_name": "Libertinus Sans Regular",
+          "post_script_name": "LibertinusSans-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSans-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Serif",
+      "styles": [
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Bold",
+          "full_name": "Libertinus Serif Bold",
+          "post_script_name": "LibertinusSerif-Bold",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerif-Bold.otf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Bold",
+          "full_name": "Libertinus Serif Bold",
+          "post_script_name": "LibertinusSerif-Bold",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerif-Bold.ttf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Bold Italic",
+          "full_name": "Libertinus Serif Bold Italic",
+          "post_script_name": "LibertinusSerif-BoldItalic",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerif-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Bold Italic",
+          "full_name": "Libertinus Serif Bold Italic",
+          "post_script_name": "LibertinusSerif-BoldItalic",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerif-BoldItalic.otf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Italic",
+          "full_name": "Libertinus Serif Italic",
+          "post_script_name": "LibertinusSerif-Italic",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerif-Italic.otf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Italic",
+          "full_name": "Libertinus Serif Italic",
+          "post_script_name": "LibertinusSerif-Italic",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerif-Italic.ttf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Regular",
+          "post_script_name": "LibertinusSerif-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerif-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Serif",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Regular",
+          "post_script_name": "LibertinusSerif-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerif-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Serif Display",
+      "styles": [
+        {
+          "family_name": "Libertinus Serif Display",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Display Regular",
+          "post_script_name": "LibertinusSerifDisplay-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerifDisplay-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Serif Display",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Display Regular",
+          "post_script_name": "LibertinusSerifDisplay-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerifDisplay-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Serif Initials",
+      "styles": [
+        {
+          "family_name": "Libertinus Serif Initials",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Initials Regular",
+          "post_script_name": "LibertinusSerifInitials-Regular",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerifInitials-Regular.otf"
+        },
+        {
+          "family_name": "Libertinus Serif Initials",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Initials Regular",
+          "post_script_name": "LibertinusSerifInitials-Regular",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerifInitials-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Serif Semibold",
+      "styles": [
+        {
+          "family_name": "Libertinus Serif Semibold",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Semibold",
+          "post_script_name": "LibertinusSerif-Semibold",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerif-Semibold.otf"
+        },
+        {
+          "family_name": "Libertinus Serif Semibold",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Semibold",
+          "post_script_name": "LibertinusSerif-Semibold",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerif-Semibold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Libertinus Serif Semibold Italic",
+      "styles": [
+        {
+          "family_name": "Libertinus Serif Semibold Italic",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Semibold Italic",
+          "post_script_name": "LibertinusSerif-SemiboldItalic",
+          "version": "7.051;RELEASE",
+          "copyright": "Copyright © 2012-2024 The Libertinus Project Authors.",
+          "font": "LibertinusSerif-SemiboldItalic.otf"
+        },
+        {
+          "family_name": "Libertinus Serif Semibold Italic",
+          "type": "Regular",
+          "full_name": "Libertinus Serif Semibold Italic",
+          "post_script_name": "LibertinusSerif-SemiboldItalic",
+          "version": "7.051;RELEASE",
+          "font": "LibertinusSerif-SemiboldItalic.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

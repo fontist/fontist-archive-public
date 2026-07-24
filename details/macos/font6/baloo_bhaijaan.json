@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font6/baloo_bhaijaan",
+  "name": "Baloo Bhaijaan",
+  "description": "Baloo Bhaijaan",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "﻿Copyright (c) 2015 Ek Type (www.ektype.in)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7a9be0b8edca843b39a73b68409f35337631eb7f.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/7a9be0b8edca843b39a73b68409f35337631eb7f.zip"
+      ],
+      "sha256": "495bb1fa70865cf3a9ee4e4ed277a1f1409f63f86274c9e4b22d829038620da6",
+      "file_size": 109245
+    }
+  },
+  "fonts": [
+    {
+      "name": "Baloo Bhaijaan",
+      "styles": [
+        {
+          "family_name": "Baloo Bhaijaan",
+          "type": "Regular",
+          "full_name": "Baloo Bhaijaan Regular",
+          "post_script_name": "BalooBhaijaan-Regular",
+          "version": "1.443;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+          "copyright": "﻿Copyright (c) 2015 Ek Type (www.ektype.in)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "font": "BalooBhaijaanUrdu-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/raya",
+  "name": "Raya",
+  "description": "Raya",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Raya (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b2a0ead63929378070cc3a9eb9f376cb3359e9af.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/b2a0ead63929378070cc3a9eb9f376cb3359e9af.zip"
+      ],
+      "sha256": "52de164eb419298ca2dbe53b0da63a85ed4def4ccb43c331a7a30305273739c9",
+      "file_size": 27775
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Raya.ttc",
+      "fonts": [
+        {
+          "name": ".Raya PUA",
+          "styles": [
+            {
+              "family_name": ".Raya PUA",
+              "type": "Regular",
+              "full_name": ".Raya PUA",
+              "post_script_name": ".RayaPUA",
+              "version": "13.0d1e4",
+              "copyright": ".Raya PUA (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Raya",
+          "styles": [
+            {
+              "family_name": "Raya",
+              "type": "Regular",
+              "full_name": "Raya Regular",
+              "post_script_name": "Raya",
+              "version": "13.0d1e4",
+              "copyright": "Raya (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

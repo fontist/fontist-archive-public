@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font8/toppan_bunkyu_gothic_10m11177",
+  "name": "Toppan Bunkyu Gothic",
+  "description": "Toppan Bunkyu Gothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver1.10, Copyright © 2013 - 2019 Toppan Printing Co., Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c269ffca00737cd4fb054e1f3175b682bcfa7b36.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/c269ffca00737cd4fb054e1f3175b682bcfa7b36.zip"
+      ],
+      "sha256": "6adf619bdf30f565d61dbf896343a97354fa0ff04f94507747c0ba1f576aa3c5",
+      "file_size": 9869636
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ToppanBunkyuGothicPr6N.ttc",
+      "fonts": [
+        {
+          "name": "Toppan Bunkyu Gothic Regular",
+          "styles": [
+            {
+              "family_name": "Toppan Bunkyu Gothic Regular",
+              "type": "Regular",
+              "full_name": "Toppan Bunkyu Gothic Demibold",
+              "post_script_name": "ToppanBunkyuGothicPr6N-DB",
+              "version": "17.0d1e1",
+              "copyright": "ver1.10, Copyright © 2013 - 2019 Toppan Printing Co., Ltd. All rights reserved."
+            },
+            {
+              "family_name": "Toppan Bunkyu Gothic Regular",
+              "type": "Regular",
+              "full_name": "Toppan Bunkyu Gothic Regular",
+              "post_script_name": "ToppanBunkyuGothicPr6N-Regular",
+              "version": "17.0d1e1",
+              "copyright": "ver1.10, Copyright © 2013 - 2019 Toppan Printing Co., Ltd. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

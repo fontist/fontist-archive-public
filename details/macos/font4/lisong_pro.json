@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/lisong_pro",
+  "name": "LiSong Pro",
+  "description": "LiSong Pro",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright DynaComware Corp. 2003",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "83f4aa261ef8173df8211fd7057ae0df68af1d84.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/83f4aa261ef8173df8211fd7057ae0df68af1d84.zip"
+      ],
+      "sha256": "7f25089041809d926ac8db06b5bc42cf4dec98678c5f5359e2e51564385f7a31",
+      "file_size": 7090849
+    }
+  },
+  "fonts": [
+    {
+      "name": "LiSong Pro",
+      "styles": [
+        {
+          "family_name": "LiSong Pro",
+          "type": "Light",
+          "full_name": "LiSong Pro",
+          "post_script_name": "LiSongPro",
+          "version": "13.0d1e1",
+          "copyright": "(c) Copyright DynaComware Corp. 2003",
+          "font": "LiSongPro.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

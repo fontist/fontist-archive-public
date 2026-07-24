@@ -1,0 +1,161 @@
+{
+  "slug": "macos/font7/mali_10m1044",
+  "name": "Mali",
+  "description": "Mali",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9d609221be9203a6d0e55f5117ff76246f4200a7.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/9d609221be9203a6d0e55f5117ff76246f4200a7.zip"
+      ],
+      "sha256": "22b3cc5ab6d52a9365be5e770a720e3d2405ffa0712a20094cbcc305f84a0e9f",
+      "file_size": 651307
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Mali.ttc",
+      "fonts": [
+        {
+          "name": "Mali",
+          "styles": [
+            {
+              "family_name": "Mali",
+              "type": "Bold",
+              "full_name": "Mali Bold",
+              "post_script_name": "Mali-Bold",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali",
+              "type": "Bold Italic",
+              "full_name": "Mali Bold Italic",
+              "post_script_name": "Mali-BoldItalic",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali",
+              "type": "Italic",
+              "full_name": "Mali Italic",
+              "post_script_name": "Mali-Italic",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali",
+              "type": "Regular",
+              "full_name": "Mali Regular",
+              "post_script_name": "Mali-Regular",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mali ExtraLight",
+          "styles": [
+            {
+              "family_name": "Mali ExtraLight",
+              "type": "Italic",
+              "full_name": "Mali ExtraLight Italic",
+              "post_script_name": "Mali-ExtraLightItalic",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali ExtraLight",
+              "type": "Regular",
+              "full_name": "Mali ExtraLight",
+              "post_script_name": "Mali-ExtraLight",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mali Light",
+          "styles": [
+            {
+              "family_name": "Mali Light",
+              "type": "Italic",
+              "full_name": "Mali Light Italic",
+              "post_script_name": "Mali-LightItalic",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali Light",
+              "type": "Regular",
+              "full_name": "Mali Light",
+              "post_script_name": "Mali-Light",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mali Medium",
+          "styles": [
+            {
+              "family_name": "Mali Medium",
+              "type": "Italic",
+              "full_name": "Mali Medium Italic",
+              "post_script_name": "Mali-MediumItalic",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali Medium",
+              "type": "Regular",
+              "full_name": "Mali Medium",
+              "post_script_name": "Mali-Medium",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mali SemiBold",
+          "styles": [
+            {
+              "family_name": "Mali SemiBold",
+              "type": "Italic",
+              "full_name": "Mali SemiBold Italic",
+              "post_script_name": "Mali-SemiBoldItalic",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Mali SemiBold",
+              "type": "Regular",
+              "full_name": "Mali SemiBold",
+              "post_script_name": "Mali-SemiBold",
+              "version": "1.010",
+              "copyright": "Copyright 2018 The Mali Project Authors (https://github.com/cadsondemak/Mali)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

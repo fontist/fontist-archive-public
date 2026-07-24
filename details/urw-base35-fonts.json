@@ -1,0 +1,391 @@
+{
+  "slug": "urw-base35-fonts",
+  "name": "URW-Base35-Fonts",
+  "description": "Freely-available substitutes for the 35 fonts of the Adobe PostScript Level 2 Core Font Set, provided by URW++.",
+  "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+  "spdx_license": "AGPL-3.0-or-later",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "urw-base35-fonts.zip": {
+      "urls": [
+        "https://github.com/ArtifexSoftware/urw-base35-fonts/archive/refs/tags/20200910.zip"
+      ],
+      "sha256": "66eed7ca2dfbf44665aa34cb80559f4a90807d46858ccf76c34f9ac1701cfa27",
+      "file_size": 11122888
+    }
+  },
+  "fonts": [
+    {
+      "name": "C059",
+      "styles": [
+        {
+          "family_name": "C059",
+          "type": "Bold",
+          "full_name": "C059-Bold",
+          "post_script_name": "C059-Bold",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "C059-Bold.otf"
+        },
+        {
+          "family_name": "C059",
+          "type": "Bold Italic",
+          "full_name": "C059-BdIta",
+          "post_script_name": "C059-BdIta",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "C059-BdIta.otf"
+        },
+        {
+          "family_name": "C059",
+          "type": "Italic",
+          "full_name": "C059-Italic",
+          "post_script_name": "C059-Italic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "C059-Italic.otf"
+        },
+        {
+          "family_name": "C059",
+          "type": "Roman",
+          "full_name": "C059-Roman",
+          "post_script_name": "C059-Roman",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "C059-Roman.otf"
+        }
+      ]
+    },
+    {
+      "name": "D050000L",
+      "styles": [
+        {
+          "family_name": "D050000L",
+          "type": "Regular",
+          "full_name": "D050000L",
+          "post_script_name": "D050000L",
+          "version": "2.00",
+          "copyright": "(URW)++,Copyright 2013 by (URW)++ Design & Development",
+          "font": "D050000L.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Nimbus Mono PS",
+      "styles": [
+        {
+          "family_name": "Nimbus Mono PS",
+          "type": "Bold",
+          "full_name": "NimbusMonoPS-Bold",
+          "post_script_name": "NimbusMonoPS-Bold",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusMonoPS-Bold.otf"
+        },
+        {
+          "family_name": "Nimbus Mono PS",
+          "type": "Bold Italic",
+          "full_name": "NimbusMonoPS-BoldItalic",
+          "post_script_name": "NimbusMonoPS-BoldItalic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusMonoPS-BoldItalic.otf"
+        },
+        {
+          "family_name": "Nimbus Mono PS",
+          "type": "Italic",
+          "full_name": "NimbusMonoPS-Italic",
+          "post_script_name": "NimbusMonoPS-Italic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusMonoPS-Italic.otf"
+        },
+        {
+          "family_name": "Nimbus Mono PS",
+          "type": "Regular",
+          "full_name": "NimbusMonoPS-Regular",
+          "post_script_name": "NimbusMonoPS-Regular",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusMonoPS-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nimbus Roman",
+      "styles": [
+        {
+          "family_name": "Nimbus Roman",
+          "type": "Bold",
+          "full_name": "NimbusRoman-Bold",
+          "post_script_name": "NimbusRoman-Bold",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusRoman-Bold.otf"
+        },
+        {
+          "family_name": "Nimbus Roman",
+          "type": "Bold Italic",
+          "full_name": "NimbusRoman-BoldItalic",
+          "post_script_name": "NimbusRoman-BoldItalic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusRoman-BoldItalic.otf"
+        },
+        {
+          "family_name": "Nimbus Roman",
+          "type": "Italic",
+          "full_name": "NimbusRoman-Italic",
+          "post_script_name": "NimbusRoman-Italic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusRoman-Italic.otf"
+        },
+        {
+          "family_name": "Nimbus Roman",
+          "type": "Regular",
+          "full_name": "NimbusRoman-Regular",
+          "post_script_name": "NimbusRoman-Regular",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusRoman-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nimbus Sans",
+      "styles": [
+        {
+          "family_name": "Nimbus Sans",
+          "type": "Bold",
+          "full_name": "NimbusSans-Bold",
+          "post_script_name": "NimbusSans-Bold",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSans-Bold.otf"
+        },
+        {
+          "family_name": "Nimbus Sans",
+          "type": "Bold Italic",
+          "full_name": "NimbusSans-BoldItalic",
+          "post_script_name": "NimbusSans-BoldItalic",
+          "version": "1.10",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSans-BoldItalic.otf"
+        },
+        {
+          "family_name": "Nimbus Sans",
+          "type": "Italic",
+          "full_name": "NimbusSans-Italic",
+          "post_script_name": "NimbusSans-Italic",
+          "version": "1.10",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSans-Italic.otf"
+        },
+        {
+          "family_name": "Nimbus Sans",
+          "type": "Regular",
+          "full_name": "NimbusSans-Regular",
+          "post_script_name": "NimbusSans-Regular",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSans-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nimbus Sans Narrow",
+      "styles": [
+        {
+          "family_name": "Nimbus Sans Narrow",
+          "type": "Bold",
+          "full_name": "NimbusSansNarrow-Bold",
+          "post_script_name": "NimbusSansNarrow-Bold",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSansNarrow-Bold.otf"
+        },
+        {
+          "family_name": "Nimbus Sans Narrow",
+          "type": "Bold Oblique",
+          "full_name": "NimbusSansNarrow-BoldOblique",
+          "post_script_name": "NimbusSansNarrow-BoldOblique",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSansNarrow-BoldOblique.otf"
+        },
+        {
+          "family_name": "Nimbus Sans Narrow",
+          "type": "Oblique",
+          "full_name": "NimbusSansNarrow-Oblique",
+          "post_script_name": "NimbusSansNarrow-Oblique",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSansNarrow-Oblique.otf"
+        },
+        {
+          "family_name": "Nimbus Sans Narrow",
+          "type": "Regular",
+          "full_name": "NimbusSansNarrow-Regular",
+          "post_script_name": "NimbusSansNarrow-Regular",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "NimbusSansNarrow-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "P052",
+      "styles": [
+        {
+          "family_name": "P052",
+          "type": "Bold",
+          "full_name": "P052-Bold",
+          "post_script_name": "P052-Bold",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "P052-Bold.otf"
+        },
+        {
+          "family_name": "P052",
+          "type": "Bold Italic",
+          "full_name": "P052-BoldItalic",
+          "post_script_name": "P052-BoldItalic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "P052-BoldItalic.otf"
+        },
+        {
+          "family_name": "P052",
+          "type": "Italic",
+          "full_name": "P052-Italic",
+          "post_script_name": "P052-Italic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "P052-Italic.otf"
+        },
+        {
+          "family_name": "P052",
+          "type": "Roman",
+          "full_name": "P052-Roman",
+          "post_script_name": "P052-Roman",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "P052-Roman.otf"
+        }
+      ]
+    },
+    {
+      "name": "Standard Symbols PS",
+      "styles": [
+        {
+          "family_name": "Standard Symbols PS",
+          "type": "Regular",
+          "full_name": "Standard Symbols PS",
+          "post_script_name": "StandardSymbolsPS",
+          "version": "2.00",
+          "copyright": "URW Software, Copyright 2015 by URW",
+          "font": "StandardSymbolsPS.otf"
+        }
+      ]
+    },
+    {
+      "name": "URW Bookman",
+      "styles": [
+        {
+          "family_name": "URW Bookman",
+          "type": "Demi",
+          "full_name": "URWBookman-Demi",
+          "post_script_name": "URWBookman-Demi",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWBookman-Demi.otf"
+        },
+        {
+          "family_name": "URW Bookman",
+          "type": "Demi Italic",
+          "full_name": "URWBookman-DemiItalic",
+          "post_script_name": "URWBookman-DemiItalic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWBookman-DemiItalic.otf"
+        },
+        {
+          "family_name": "URW Bookman",
+          "type": "Light",
+          "full_name": "URWBookman-Light",
+          "post_script_name": "URWBookman-Light",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWBookman-Light.otf"
+        },
+        {
+          "family_name": "URW Bookman",
+          "type": "Light Italic",
+          "full_name": "URWBookman-LightItalic",
+          "post_script_name": "URWBookman-LightItalic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWBookman-LightItalic.otf"
+        }
+      ]
+    },
+    {
+      "name": "URW Gothic",
+      "styles": [
+        {
+          "family_name": "URW Gothic",
+          "type": "Book",
+          "full_name": "URWGothic-Book",
+          "post_script_name": "URWGothic-Book",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWGothic-Book.otf"
+        },
+        {
+          "family_name": "URW Gothic",
+          "type": "Book Oblique",
+          "full_name": "URWGothic-BookOblique",
+          "post_script_name": "URWGothic-BookOblique",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWGothic-BookOblique.otf"
+        },
+        {
+          "family_name": "URW Gothic",
+          "type": "Demi",
+          "full_name": "URWGothic-Demi",
+          "post_script_name": "URWGothic-Demi",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWGothic-Demi.otf"
+        },
+        {
+          "family_name": "URW Gothic",
+          "type": "Demi Oblique",
+          "full_name": "URWGothic-DemiOblique",
+          "post_script_name": "URWGothic-DemiOblique",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "URWGothic-DemiOblique.otf"
+        }
+      ]
+    },
+    {
+      "name": "Z003",
+      "styles": [
+        {
+          "family_name": "Z003",
+          "type": "Medium Italic",
+          "full_name": "Z003-MediumItalic",
+          "post_script_name": "Z003-MediumItalic",
+          "version": "1.00",
+          "copyright": "(URW)++,Copyright 2014 by (URW)++ Design & Development",
+          "font": "Z003-MediumItalic.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

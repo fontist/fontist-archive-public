@@ -1,0 +1,161 @@
+{
+  "slug": "macos/font8/kodchasan_10m11177",
+  "name": "Kodchasan",
+  "description": "Kodchasan",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c6ee49182e6ebf50901762e165d4d0bb7f4b2cbe.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/c6ee49182e6ebf50901762e165d4d0bb7f4b2cbe.zip"
+      ],
+      "sha256": "105e204e5836ed34b29bd77a7256bda7b23b77eeca401b4b9ff4662207ca41cb",
+      "file_size": 567485
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Kodchasan.ttc",
+      "fonts": [
+        {
+          "name": "Kodchasan",
+          "styles": [
+            {
+              "family_name": "Kodchasan",
+              "type": "Bold",
+              "full_name": "Kodchasan Bold",
+              "post_script_name": "Kodchasan-Bold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan",
+              "type": "Bold Italic",
+              "full_name": "Kodchasan Bold Italic",
+              "post_script_name": "Kodchasan-BoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan",
+              "type": "Italic",
+              "full_name": "Kodchasan Italic",
+              "post_script_name": "Kodchasan-Italic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan",
+              "type": "Regular",
+              "full_name": "Kodchasan Regular",
+              "post_script_name": "Kodchasan-Regular",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Kodchasan ExtraLight",
+          "styles": [
+            {
+              "family_name": "Kodchasan ExtraLight",
+              "type": "Italic",
+              "full_name": "Kodchasan ExtraLight Italic",
+              "post_script_name": "Kodchasan-ExtraLightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan ExtraLight",
+              "type": "Regular",
+              "full_name": "Kodchasan ExtraLight",
+              "post_script_name": "Kodchasan-ExtraLight",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Kodchasan Light",
+          "styles": [
+            {
+              "family_name": "Kodchasan Light",
+              "type": "Italic",
+              "full_name": "Kodchasan Light Italic",
+              "post_script_name": "Kodchasan-LightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan Light",
+              "type": "Regular",
+              "full_name": "Kodchasan Light",
+              "post_script_name": "Kodchasan-Light",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Kodchasan Medium",
+          "styles": [
+            {
+              "family_name": "Kodchasan Medium",
+              "type": "Italic",
+              "full_name": "Kodchasan Medium Italic",
+              "post_script_name": "Kodchasan-MediumItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan Medium",
+              "type": "Regular",
+              "full_name": "Kodchasan Medium",
+              "post_script_name": "Kodchasan-Medium",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Kodchasan SemiBold",
+          "styles": [
+            {
+              "family_name": "Kodchasan SemiBold",
+              "type": "Italic",
+              "full_name": "Kodchasan SemiBold Italic",
+              "post_script_name": "Kodchasan-SemiBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Kodchasan SemiBold",
+              "type": "Regular",
+              "full_name": "Kodchasan SemiBold",
+              "post_script_name": "Kodchasan-SemiBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Kodchasan Project Authors (https://github.com/cadsondemak/Kodchasan)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font8/arial_narrow_10m11177",
+  "name": "Arial Narrow",
+  "description": "Arial Narrow",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "98dd466c341e24528fea72348ddb61479bb3eed6.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/98dd466c341e24528fea72348ddb61479bb3eed6.zip"
+      ],
+      "sha256": "9898864c01d964bd54952a594d2fa06cfb5844920b2570b8330a20cda6528761",
+      "file_size": 93937
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial Narrow",
+      "styles": [
+        {
+          "family_name": "Arial Narrow",
+          "type": "Regular",
+          "full_name": "Arial Narrow",
+          "post_script_name": "ArialNarrow",
+          "version": "2.38.1x",
+          "copyright": "© 2007 The Monotype Corporation. All Rights Reserved.",
+          "description": "You may use this font to display and print content as permitted by the license terms for the product in which this font is included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "ARIALN.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

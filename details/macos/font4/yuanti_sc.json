@@ -1,0 +1,85 @@
+{
+  "slug": "macos/font4/yuanti_sc",
+  "name": "Yuanti SC",
+  "description": "Yuanti SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "61a532e1276270cf18b7d58789bf9adfe2379367.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/61a532e1276270cf18b7d58789bf9adfe2379367.zip"
+      ],
+      "sha256": "a737e296d205f4ebc300a42de7dc6fd0e4a18cc22a60fd1581d4e8b44a025b5b",
+      "file_size": 46498078
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Yuanti.ttc",
+      "fonts": [
+        {
+          "name": "Yuanti SC",
+          "styles": [
+            {
+              "family_name": "Yuanti SC",
+              "type": "Bold",
+              "full_name": "Yuanti SC Bold",
+              "post_script_name": "STYuanti-SC-Bold",
+              "version": "13.0d2e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Yuanti SC",
+              "type": "Light",
+              "full_name": "Yuanti SC Light",
+              "post_script_name": "STYuanti-SC-Light",
+              "version": "13.0d2e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Yuanti SC",
+              "type": "Regular",
+              "full_name": "Yuanti SC Regular",
+              "post_script_name": "STYuanti-SC-Regular",
+              "version": "13.0d2e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Yuanti TC",
+          "styles": [
+            {
+              "family_name": "Yuanti TC",
+              "type": "Bold",
+              "full_name": "Yuanti TC Bold",
+              "post_script_name": "STYuanti-TC-Bold",
+              "version": "13.0d2e1",
+              "copyright": "© 2010-2015  Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Yuanti TC",
+              "type": "Light",
+              "full_name": "Yuanti TC Light",
+              "post_script_name": "STYuanti-TC-Light",
+              "version": "13.0d2e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Yuanti TC",
+              "type": "Regular",
+              "full_name": "Yuanti TC Regular",
+              "post_script_name": "STYuanti-TC-Regular",
+              "version": "13.0d2e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

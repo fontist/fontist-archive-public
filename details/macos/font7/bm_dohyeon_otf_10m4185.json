@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/bm_dohyeon_otf_10m4185",
+  "name": "BM DoHyeon OTF",
+  "description": "BM DoHyeon OTF",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2015 Sandoll Communications Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.sandoll.co.kr",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e71ea5469e5f2039223f22203ee8b9186524afd3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/032-56898/EA465333-2C90-4CBF-B0E7-5CCE6C637321/com_apple_MobileAsset_Font7/e71ea5469e5f2039223f22203ee8b9186524afd3.zip"
+      ],
+      "sha256": "ef96f8a83cb3ca50b4c6d61db2dbf906a97e4c15e46adfcfc1da0732a57ba5e2",
+      "file_size": 244506
+    }
+  },
+  "fonts": [
+    {
+      "name": "BM DoHyeon OTF",
+      "styles": [
+        {
+          "family_name": "BM DoHyeon OTF",
+          "type": "Regular",
+          "full_name": "BM DoHyeon OTF",
+          "post_script_name": "BMDoHyeon-OTF",
+          "version": "14.0d1e6",
+          "copyright": "Copyright © 2015 Sandoll Communications Inc. All rights reserved.",
+          "description": "Sandoll Communications Inc.",
+          "font": "BMDoHyeon-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

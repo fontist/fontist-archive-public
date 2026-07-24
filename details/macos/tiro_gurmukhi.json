@@ -1,0 +1,40 @@
+{
+  "slug": "macos/tiro_gurmukhi",
+  "name": "tiro_gurmukhi",
+  "description": "Tiro Gurmukhi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2014 by Tiro Typeworks Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Tiro_Gurmukhi.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/ec1c50819e6d5acaa3c3d29d3144d5df2821b7f5.zip"
+      ],
+      "sha256": "98cc704c2ad03ed2001228f612587506422e16033e51056f51a34215a88df704",
+      "file_size": 52456
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TiroGurmukhi.ttc",
+      "fonts": [
+        {
+          "name": "Tiro Gurmukhi",
+          "styles": [
+            {
+              "family_name": "Tiro Gurmukhi",
+              "type": "Regular",
+              "full_name": "TiroGurmukhi",
+              "post_script_name": "TiroGurmukhi",
+              "version": "14.0d1e3",
+              "copyright": "Copyright (c) 2014 by Tiro Typeworks Ltd. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/braganza_10m11177",
+  "name": "Braganza",
+  "description": "Braganza",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright 1994 1996 International Typeface Corporation  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "86d451a362ad7ecc3ae02d7ace111076b095e681.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/86d451a362ad7ecc3ae02d7ace111076b095e681.zip"
+      ],
+      "sha256": "95d1f503002971cfaabcb0f7efc6f397dfa218568b1120e5c88258eefec67455",
+      "file_size": 106872
+    }
+  },
+  "fonts": [
+    {
+      "name": "Braganza",
+      "styles": [
+        {
+          "family_name": "Braganza",
+          "type": "Regular",
+          "full_name": "Braganza",
+          "post_script_name": "BraganzaITCTT",
+          "version": "13.0d1e3",
+          "copyright": "(c) Copyright 1994 1996 International Typeface Corporation  All rights reserved.",
+          "font": "Braganza-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

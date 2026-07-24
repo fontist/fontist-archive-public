@@ -1,0 +1,65 @@
+{
+  "slug": "senobi_gothic",
+  "name": "senobi_gothic",
+  "description": "Senobi Gothic",
+  "homepage": "http://modi.jpn.org/",
+  "copyright": "Copyright(c) 2016 M+ FONTS PROJECT/MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Senobi_Gothic.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_Senobi-Gothic_2017_0702.zip"
+      ],
+      "sha256": "4d0f999b05f0cb0f936c7826f82feae093f71f1a03c298e6f9a694901a4f773f",
+      "file_size": 3897136
+    }
+  },
+  "fonts": [
+    {
+      "name": "Senobi Gothic Bold",
+      "styles": [
+        {
+          "family_name": "Senobi Gothic Bold",
+          "type": "Bold",
+          "full_name": "Senobi Gothic Bold",
+          "post_script_name": "Senobi-Gothic-Bold",
+          "version": "1.00.20170627",
+          "copyright": "Copyright(c) 2016 M+ FONTS PROJECT/MODI",
+          "font": "Senobi-Gothic-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Senobi Gothic Medium",
+      "styles": [
+        {
+          "family_name": "Senobi Gothic Medium",
+          "type": "Medium",
+          "full_name": "Senobi Gothic Medium",
+          "post_script_name": "Senobi-Gothic-Medium",
+          "version": "1.00.20170627",
+          "copyright": "Copyright(c) 2016 M+ FONTS PROJECT/MODI",
+          "font": "Senobi-Gothic-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Senobi Gothic Regular",
+      "styles": [
+        {
+          "family_name": "Senobi Gothic Regular",
+          "type": "Regular",
+          "full_name": "Senobi Gothic Regular",
+          "post_script_name": "Senobi-Gothic-Regular",
+          "version": "1.00.20170627",
+          "copyright": "Copyright(c) 2016 M+ FONTS PROJECT/MODI",
+          "font": "Senobi-Gothic-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

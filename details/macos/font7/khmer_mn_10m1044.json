@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/khmer_mn_10m1044",
+  "name": "Khmer MN",
+  "description": "Khmer MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2010 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a22017ff10472222536c298f60453feea726bfab.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/a22017ff10472222536c298f60453feea726bfab.zip"
+      ],
+      "sha256": "810ddeaa1d2048ba6161310fa34286b49954a984e1535d928836af5c8bf774b6",
+      "file_size": 150927
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Khmer-MN.ttc",
+      "fonts": [
+        {
+          "name": "Khmer MN",
+          "styles": [
+            {
+              "family_name": "Khmer MN",
+              "type": "Bold",
+              "full_name": "Khmer MN Bold",
+              "post_script_name": "KhmerMN-Bold",
+              "version": "14.0d1e1",
+              "copyright": "Copyright (c) 2010 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Khmer MN",
+              "type": "Regular",
+              "full_name": "Khmer MN",
+              "post_script_name": "KhmerMN",
+              "version": "14.0d1e1",
+              "copyright": "Copyright (c) 2010 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

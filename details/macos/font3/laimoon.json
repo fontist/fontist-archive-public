@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font3/laimoon",
+  "name": "Laimoon",
+  "description": "Laimoon",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Laimoon (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "aacec9346f0c9ab9b3c0a033728b4986829859fd.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/aacec9346f0c9ab9b3c0a033728b4986829859fd.zip"
+      ],
+      "sha256": "11fffab18b5881ad8cdb4f0a25b7928af3980c2986b87e1836bbc5e7f5976ea7",
+      "file_size": 26835
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Laimoon.ttc",
+      "fonts": [
+        {
+          "name": ".Laimoon PUA",
+          "styles": [
+            {
+              "family_name": ".Laimoon PUA",
+              "type": "Regular",
+              "full_name": ".Laimoon PUA",
+              "post_script_name": ".LaimoonPUA",
+              "version": "10.0d4e1",
+              "copyright": ".Laimoon PUA (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Laimoon",
+          "styles": [
+            {
+              "family_name": "Laimoon",
+              "type": "Regular",
+              "full_name": "Laimoon Regular",
+              "post_script_name": "Laimoon",
+              "version": "10.0d4e1",
+              "copyright": "Laimoon (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

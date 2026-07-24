@@ -1,0 +1,115 @@
+{
+  "slug": "macos/pt_sans",
+  "name": "pt_sans",
+  "description": "PT Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.paratype.com/public/pt_openlicense_eng.asp",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "PT_Sans.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/4c7a537c160d6d81008cb16976ccb51c23f3f02f.zip"
+      ],
+      "sha256": "fe77cc56aaaa74167e4e12fe108ec70551f4e108a23c135f1386147d1ff1e12d",
+      "file_size": 1205756
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "PTSans.ttc",
+      "fonts": [
+        {
+          "name": "PT Sans",
+          "styles": [
+            {
+              "family_name": "PT Sans",
+              "type": "Bold",
+              "full_name": "PT Sans Bold",
+              "post_script_name": "PTSans-Bold",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            },
+            {
+              "family_name": "PT Sans",
+              "type": "Bold Italic",
+              "full_name": "PT Sans Bold Italic",
+              "post_script_name": "PTSans-BoldItalic",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            },
+            {
+              "family_name": "PT Sans",
+              "type": "Italic",
+              "full_name": "PT Sans Italic",
+              "post_script_name": "PTSans-Italic",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            },
+            {
+              "family_name": "PT Sans",
+              "type": "Regular",
+              "full_name": "PT Sans",
+              "post_script_name": "PTSans-Regular",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            }
+          ]
+        },
+        {
+          "name": "PT Sans Caption",
+          "styles": [
+            {
+              "family_name": "PT Sans Caption",
+              "type": "Bold",
+              "full_name": "PT Sans Caption Bold",
+              "post_script_name": "PTSans-CaptionBold",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            },
+            {
+              "family_name": "PT Sans Caption",
+              "type": "Regular",
+              "full_name": "PT Sans Caption",
+              "post_script_name": "PTSans-Caption",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            }
+          ]
+        },
+        {
+          "name": "PT Sans Narrow",
+          "styles": [
+            {
+              "family_name": "PT Sans Narrow",
+              "type": "Bold",
+              "full_name": "PT Sans Narrow Bold",
+              "post_script_name": "PTSans-NarrowBold",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            },
+            {
+              "family_name": "PT Sans Narrow",
+              "type": "Regular",
+              "full_name": "PT Sans Narrow",
+              "post_script_name": "PTSans-Narrow",
+              "version": "13.0d3e2",
+              "copyright": "Copyright © 2009 ParaType Ltd. All rights reserved.",
+              "description": "PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

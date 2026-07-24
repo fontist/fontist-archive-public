@@ -1,0 +1,51 @@
+{
+  "slug": "komorebi_gothic",
+  "name": "komorebi_gothic",
+  "description": "komorebi gothic",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "Author: HORAI Wataru. License: This font is a free software. Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially. THIS FONT IS PROVIDED \"AS IS\" WITHOUT WARRANTY.",
+  "spdx_license": "LicenseRef-komorebi-license",
+  "license_url": "https://modi.jpn.org/font_komorebi-gothic.php",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "komorebi_gothic.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_komorebi-gothic_2018_0501.zip"
+      ],
+      "sha256": "fec7889130f31e84e613bd91883a1929aab791b09d751c0be27a63ff3330625b",
+      "file_size": 4219459
+    }
+  },
+  "fonts": [
+    {
+      "name": "komorebi gothic",
+      "styles": [
+        {
+          "family_name": "komorebi gothic",
+          "type": "Regular",
+          "full_name": "komorebi-gothic",
+          "post_script_name": "komorebi-gothic",
+          "version": "1.02.20180501",
+          "copyright": "Author: HORAI Wataru. License: This font is a free software. Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially. THIS FONT IS PROVIDED \"AS IS\" WITHOUT WARRANTY.",
+          "font": "komorebi-gothic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "komorebi gothic P",
+      "styles": [
+        {
+          "family_name": "komorebi gothic P",
+          "type": "Regular",
+          "full_name": "komorebi-gothic-P",
+          "post_script_name": "komorebi-gothic-P",
+          "version": "1.02.20180501",
+          "copyright": "Author: HORAI Wataru. License: This font is a free software. Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially. THIS FONT IS PROVIDED \"AS IS\" WITHOUT WARRANTY.",
+          "font": "komorebi-gothic-P.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/gurmukhi_mn_10m1044",
+  "name": "Gurmukhi MN",
+  "description": "Gurmukhi MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ec17da02073ded293e9e7a0f8cc6b65bd4f9eb09.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/ec17da02073ded293e9e7a0f8cc6b65bd4f9eb09.zip"
+      ],
+      "sha256": "f2a51b55e76d81ba4b7b8419493a21181f195ed1c20dde463548bf9e4a423bb6",
+      "file_size": 101868
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Gurmukhi-MN.ttc",
+      "fonts": [
+        {
+          "name": "Gurmukhi MN",
+          "styles": [
+            {
+              "family_name": "Gurmukhi MN",
+              "type": "Bold",
+              "full_name": "Gurmukhi MN Bold",
+              "post_script_name": "GurmukhiMN-Bold",
+              "version": "14.0d4e2",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Gurmukhi MN",
+              "type": "Regular",
+              "full_name": "Gurmukhi MN",
+              "post_script_name": "GurmukhiMN",
+              "version": "14.0d4e2",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

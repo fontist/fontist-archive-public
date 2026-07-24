@@ -1,0 +1,119 @@
+{
+  "slug": "space_grotesk",
+  "name": "space_grotesk",
+  "description": "Space Grotesk",
+  "homepage": "https://fonts.floriankarsten.com",
+  "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Space_Grotesk.zip": {
+      "urls": [
+        "https://github.com/floriankarsten/space-grotesk/releases/download/2.0.0/SpaceGrotesk-2.0.0.zip"
+      ],
+      "sha256": "53b415577d4139248555300710bea0d268c7a5be67b93de53b716a9736cabffd",
+      "file_size": 697233
+    }
+  },
+  "fonts": [
+    {
+      "name": "Space Grotesk",
+      "styles": [
+        {
+          "family_name": "Space Grotesk",
+          "type": "Bold",
+          "full_name": "Space Grotesk Bold",
+          "post_script_name": "SpaceGrotesk-Bold",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Bold.otf"
+        },
+        {
+          "family_name": "Space Grotesk",
+          "type": "Bold",
+          "full_name": "Space Grotesk Bold",
+          "post_script_name": "SpaceGrotesk-Bold",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Bold.ttf"
+        },
+        {
+          "family_name": "Space Grotesk",
+          "type": "Regular",
+          "full_name": "Space Grotesk Regular",
+          "post_script_name": "SpaceGrotesk-Regular",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Regular.otf"
+        },
+        {
+          "family_name": "Space Grotesk",
+          "type": "Regular",
+          "full_name": "Space Grotesk Regular",
+          "post_script_name": "SpaceGrotesk-Regular",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Space Grotesk Light",
+      "styles": [
+        {
+          "family_name": "Space Grotesk Light",
+          "type": "Regular",
+          "full_name": "Space Grotesk Light",
+          "post_script_name": "SpaceGrotesk-Light",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Light.otf"
+        },
+        {
+          "family_name": "Space Grotesk Light",
+          "type": "Regular",
+          "full_name": "Space Grotesk Light",
+          "post_script_name": "SpaceGrotesk-Light",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk[wght].ttf"
+        },
+        {
+          "family_name": "Space Grotesk Light",
+          "type": "Regular",
+          "full_name": "Space Grotesk Light",
+          "post_script_name": "SpaceGrotesk-Light",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Space Grotesk Medium",
+      "styles": [
+        {
+          "family_name": "Space Grotesk Medium",
+          "type": "Regular",
+          "full_name": "Space Grotesk Medium",
+          "post_script_name": "SpaceGrotesk-Medium",
+          "version": "2.000",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Medium.otf"
+        },
+        {
+          "family_name": "Space Grotesk Medium",
+          "type": "Regular",
+          "full_name": "Space Grotesk Medium",
+          "post_script_name": "SpaceGrotesk-Medium",
+          "version": "2.000; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2020 The Space Grotesk Project Authors (https://github.com/floriankarsten/space-grotesk)",
+          "font": "SpaceGrotesk-Medium.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "tahoma",
+  "name": "Tahoma",
+  "description": "Microsoft Tahoma Font",
+  "homepage": "https://www.microsoft.com",
+  "spdx_license": "LicenseRef-Microsoft-WordViewer",
+  "redistributable": false,
+  "source_format": "CAB",
+  "resources": {
+    "IELPKTH.CAB": {
+      "urls": [
+        "https://gitlab.com/fontmirror/archive/-/raw/master/IELPKTH.CAB",
+        "https://master.dl.sourceforge.net/project/corefonts/OldFiles/IELPKTH.CAB"
+      ],
+      "sha256": "c1be3fb8f0042570be76ec6daa03a99142c88367c1bc810240b85827c715961a",
+      "file_size": 411248
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tahoma",
+      "styles": [
+        {
+          "family_name": "Tahoma",
+          "type": "Regular",
+          "full_name": "Tahoma",
+          "post_script_name": "Tahoma",
+          "version": "2.60",
+          "copyright": "Typeface and data © 1995-1999 Microsoft Corporation. All Rights Reserved.",
+          "description": "Tahoma is one of Microsoft's new sans serif typeface families. It consists of two Windows TrueType fonts (regular and bold), and was created to address the challenges of on-screen display, particularly at small sizes in dialog boxes and menus.",
+          "font": "tahoma.ttf"
+        },
+        {
+          "family_name": "Tahoma",
+          "type": "Bold",
+          "full_name": "Tahoma Bold",
+          "post_script_name": "Tahoma-Bold",
+          "version": "2.60",
+          "copyright": "Typeface and data © 1995-1999 Microsoft Corporation. All Rights Reserved.",
+          "description": "Tahoma is one of Microsoft's new sans serif typeface families. It consists of two Windows TrueType fonts (regular and bold), and was created to address the challenges of on-screen display, particularly at small sizes in dialog boxes and menus.",
+          "font": "tahomabd.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

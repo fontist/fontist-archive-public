@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/beirut_10m1044",
+  "name": "Beirut",
+  "description": "Beirut",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "60d14a1142794bcafe7374932938aaefe0846aef.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/60d14a1142794bcafe7374932938aaefe0846aef.zip"
+      ],
+      "sha256": "1ee3672d788d69c2dcea9523a35272e293d808f220b68fc3d4fc1c0fce455bcb",
+      "file_size": 36883
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Beirut.ttc",
+      "fonts": [
+        {
+          "name": ".Beirut PUA",
+          "styles": [
+            {
+              "family_name": ".Beirut PUA",
+              "type": "Regular",
+              "full_name": ".Beirut PUA",
+              "post_script_name": ".BeirutPUA",
+              "version": "13.0d1e6",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Beirut",
+          "styles": [
+            {
+              "family_name": "Beirut",
+              "type": "Regular",
+              "full_name": "Beirut Regular",
+              "post_script_name": "Beirut",
+              "version": "13.0d1e6",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

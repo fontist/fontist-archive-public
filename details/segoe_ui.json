@@ -1,0 +1,64 @@
+{
+  "slug": "segoe_ui",
+  "name": "Segoe UI",
+  "description": "Segoe UI",
+  "homepage": "http://www.microsoft.com/typography/ctfonts",
+  "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Microsoft-ExcelViewer",
+  "license_url": "http://www.microsoft.com/typography/fonts/default.aspx",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Segoe_UI.exe": {
+      "urls": [
+        "https://archive.org/download/ExcelViewer/ExcelViewer.exe"
+      ],
+      "sha256": "4fc8e08237e8b458091c83dde68139e779fe401b4884d92d66ec843b5ca4a2ca",
+      "file_size": 77738888
+    }
+  },
+  "fonts": [
+    {
+      "name": "Segoe UI",
+      "styles": [
+        {
+          "family_name": "Segoe UI",
+          "type": "Regular",
+          "full_name": "Segoe UI",
+          "post_script_name": "SegoeUI",
+          "version": "1.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "SEGOEUI.TTF"
+        },
+        {
+          "family_name": "Segoe UI",
+          "type": "Bold",
+          "full_name": "Segoe UI Bold",
+          "post_script_name": "SegoeUI-Bold",
+          "version": "1.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "SEGOEUIB.TTF"
+        },
+        {
+          "family_name": "Segoe UI",
+          "type": "Italic",
+          "full_name": "Segoe UI Italic",
+          "post_script_name": "SegoeUI-Italic",
+          "version": "1.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "SEGOEUII.TTF"
+        },
+        {
+          "family_name": "Segoe UI",
+          "type": "Bold Italic",
+          "full_name": "Segoe UI Bold Italic",
+          "post_script_name": "SegoeUI-BoldItalic",
+          "version": "1.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "SEGOEUIZ.TTF"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

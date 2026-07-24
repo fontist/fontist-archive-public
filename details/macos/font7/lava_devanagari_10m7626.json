@@ -1,0 +1,79 @@
+{
+  "slug": "macos/font7/lava_devanagari_10m7626",
+  "name": "Lava Devanagari",
+  "description": "Lava Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "99628f777949e7ed19970f6cf5d71915ad84e902.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/99628f777949e7ed19970f6cf5d71915ad84e902.zip"
+      ],
+      "sha256": "f15a2c3962331372ce2f053d85aa1133ffa5490965552040d6f62a2a617beb7d",
+      "file_size": 443385
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "LavaDevanagari.ttc",
+      "fonts": [
+        {
+          "name": "Lava Devanagari",
+          "styles": [
+            {
+              "family_name": "Lava Devanagari",
+              "type": "Bold",
+              "full_name": "Lava Devanagari Bold",
+              "post_script_name": "LavaDevanagari-Bold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            },
+            {
+              "family_name": "Lava Devanagari",
+              "type": "Regular",
+              "full_name": "Lava Devanagari Regular",
+              "post_script_name": "LavaDevanagari-Regular",
+              "version": "20.0d1e2",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "Lava Devanagari Heavy",
+          "styles": [
+            {
+              "family_name": "Lava Devanagari Heavy",
+              "type": "Regular",
+              "full_name": "Lava Devanagari Heavy",
+              "post_script_name": "LavaDevanagari-Heavy",
+              "version": "20.0d1e2",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "Lava Devanagari Medium",
+          "styles": [
+            {
+              "family_name": "Lava Devanagari Medium",
+              "type": "Regular",
+              "full_name": "Lava Devanagari Medium",
+              "post_script_name": "LavaDevanagari-Medium",
+              "version": "20.0d1e2",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

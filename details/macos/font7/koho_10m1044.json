@@ -1,0 +1,161 @@
+{
+  "slug": "macos/font7/koho_10m1044",
+  "name": "KoHo",
+  "description": "KoHo",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0499ae595c88f1d29b5ef4bbd230e24be76e06d3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/0499ae595c88f1d29b5ef4bbd230e24be76e06d3.zip"
+      ],
+      "sha256": "3351780a7445c52c5228098b03bb1025f90428bb8041c1ff777d2c283ed46c82",
+      "file_size": 453601
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KoHo.ttc",
+      "fonts": [
+        {
+          "name": "KoHo",
+          "styles": [
+            {
+              "family_name": "KoHo",
+              "type": "Bold",
+              "full_name": "KoHo Bold",
+              "post_script_name": "KoHo-Bold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo",
+              "type": "Bold Italic",
+              "full_name": "KoHo Bold Italic",
+              "post_script_name": "KoHo-BoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo",
+              "type": "Italic",
+              "full_name": "KoHo Italic",
+              "post_script_name": "KoHo-Italic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo",
+              "type": "Regular",
+              "full_name": "KoHo Regular",
+              "post_script_name": "KoHo-Regular",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "KoHo ExtraLight",
+          "styles": [
+            {
+              "family_name": "KoHo ExtraLight",
+              "type": "Italic",
+              "full_name": "KoHo ExtraLight Italic",
+              "post_script_name": "KoHo-ExtraLightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo ExtraLight",
+              "type": "Regular",
+              "full_name": "KoHo ExtraLight",
+              "post_script_name": "KoHo-ExtraLight",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "KoHo Light",
+          "styles": [
+            {
+              "family_name": "KoHo Light",
+              "type": "Italic",
+              "full_name": "KoHo Light Italic",
+              "post_script_name": "KoHo-LightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo Light",
+              "type": "Regular",
+              "full_name": "KoHo Light",
+              "post_script_name": "KoHo-Light",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "KoHo Medium",
+          "styles": [
+            {
+              "family_name": "KoHo Medium",
+              "type": "Italic",
+              "full_name": "KoHo Medium Italic",
+              "post_script_name": "KoHo-MediumItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo Medium",
+              "type": "Regular",
+              "full_name": "KoHo Medium",
+              "post_script_name": "KoHo-Medium",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "KoHo SemiBold",
+          "styles": [
+            {
+              "family_name": "KoHo SemiBold",
+              "type": "Italic",
+              "full_name": "KoHo SemiBold Italic",
+              "post_script_name": "KoHo-SemiBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "KoHo SemiBold",
+              "type": "Regular",
+              "full_name": "KoHo SemiBold",
+              "post_script_name": "KoHo-SemiBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The KoHo Project Authors (https://github.com/cadsondemak/Koho)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "lucida_grande",
+  "name": "Lucida Grande",
+  "description": "Lucida Grande",
+  "homepage": "http://www.agfamonotype.com",
+  "copyright": "Copyright © 1989 Bigelow & Holmes, Inc.All rights reserved. Lucida is a trademark of Bigelow & Holmes Inc. registered in the U.S. Patent and Trademark Office and other jurisdictions. Lucida typeface designs created by Kris Holmes and Charles Bigelow.",
+  "spdx_license": "LicenseRef-Apple-EA0473",
+  "license_url": "http://www.agfamonotype.com/html/type/license.html",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Lucida_Grande.exe": {
+      "urls": [
+        "http://appldnld.apple.com/Safari3/061-5925.20090210.r45t7/SafariSetup.exe"
+      ],
+      "sha256": "31a9c3f1292384c787e28a26c867410d23e88d77431d3e952354119260bf6a0a",
+      "file_size": 20655472
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lucida Grande",
+      "styles": [
+        {
+          "family_name": "Lucida Grande",
+          "type": "Bold",
+          "full_name": "Lucida Grande Bold",
+          "post_script_name": "LucidaGrande-Bold",
+          "version": "5.0d8e1",
+          "copyright": "Copyright © 1989 Bigelow & Holmes, Inc.All rights reserved. Lucida is a trademark of Bigelow & Holmes Inc. registered in the U.S. Patent and Trademark Office and other jurisdictions. Lucida typeface designs created by Kris Holmes and Charles Bigelow.",
+          "font": "Lucida Grande Bold.ttf"
+        },
+        {
+          "family_name": "Lucida Grande",
+          "type": "Regular",
+          "full_name": "Lucida Grande",
+          "post_script_name": "LucidaGrande",
+          "version": "5.0d8e1",
+          "copyright": "Copyright © 1989 Bigelow & Holmes, Inc.All rights reserved. Lucida is a trademark of Bigelow & Holmes Inc. registered in the U.S. Patent and Trademark Office and other jurisdictions. Lucida typeface designs created by Kris Holmes and Charles Bigelow.",
+          "font": "Lucida Grande.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

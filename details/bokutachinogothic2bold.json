@@ -1,0 +1,38 @@
+{
+  "slug": "bokutachinogothic2bold",
+  "name": "bokutachinogothic2bold",
+  "description": "BokutachinoGothic2Bold",
+  "homepage": "https://fontopo.com/",
+  "copyright": "fontopo",
+  "spdx_license": "Apache-2.0",
+  "license_url": "https://fontopo.com/?page_id=55",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "BokutachinoGothic2Bold.zip": {
+      "urls": [
+        "https://fontopo.com/fontdata/boku2b.zip",
+        "https://web.archive.org/web/20260504064845/https://fontopo.com/fontdata/boku2b.zip"
+      ],
+      "sha256": "da49234eba987a25a0b530776ebafa6870a5fed9a8b9dc8d1c413ec2bea0bf8b",
+      "file_size": 1455881
+    }
+  },
+  "fonts": [
+    {
+      "name": "BokutachinoGothic2Bold",
+      "styles": [
+        {
+          "family_name": "BokutachinoGothic2Bold",
+          "type": "Regular",
+          "full_name": "BokutachinoGothic2Bold",
+          "post_script_name": "BokutachinoGothic2Bold",
+          "version": "1.01",
+          "copyright": "fontopo",
+          "font": "Boku2-Bold.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,322 @@
+{
+  "slug": "cleartype",
+  "name": "ClearType",
+  "description": "Microsoft ClearType Fonts",
+  "homepage": "https://www.microsoft.com",
+  "spdx_license": "LicenseRef-Microsoft-PowerpointViewer",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "PowerPointViewer.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/archive/-/raw/master/PowerPointViewer.exe",
+        "https://nchc.dl.sourceforge.net/project/mscorefonts2/cabs/PowerPointViewer.exe",
+        "https://sourceforge.net/projects/mscorefonts2/files/cabs/PowerPointViewer.exe/download",
+        "https://web.archive.org/web/20171225132744if_/http://download.microsoft.com/download/E/6/7/E675FFFC-2A6D-4AB0-B3EB-27C9F8C8F696/PowerPointViewer.exe",
+        "https://archive.org/download/PowerPointViewer_201801/PowerPointViewer.exe"
+      ],
+      "sha256": [
+        "249473568eba7a1e4f95498acba594e0f42e6581add4dead70c1dfb908a09423",
+        "c4e753548d3092ffd7dd3849105e0a26d9b5a1afe46e6e667fe7c6887893701f"
+      ],
+      "file_size": "62914560"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Cambria",
+      "styles": [
+        {
+          "family_name": "Cambria",
+          "type": "Bold",
+          "full_name": "Cambria Bold",
+          "post_script_name": "Cambria-Bold",
+          "version": "1.02",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.",
+          "font": "CAMBRIAB.TTF"
+        },
+        {
+          "family_name": "Cambria",
+          "type": "Italic",
+          "full_name": "Cambria Italic",
+          "post_script_name": "Cambria-Italic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.",
+          "font": "CAMBRIAI.TTF"
+        },
+        {
+          "family_name": "Cambria",
+          "type": "Bold Italic",
+          "full_name": "Cambria Bold Italic",
+          "post_script_name": "Cambria-BoldItalic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design.",
+          "font": "CAMBRIAZ.TTF"
+        }
+      ]
+    },
+    {
+      "name": "Calibri",
+      "styles": [
+        {
+          "family_name": "Calibri",
+          "type": "Regular",
+          "full_name": "Calibri",
+          "post_script_name": "Calibri",
+          "version": "1.02",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.",
+          "font": "CALIBRI.TTF"
+        },
+        {
+          "family_name": "Calibri",
+          "type": "Bold",
+          "full_name": "Calibri Bold",
+          "post_script_name": "Calibri-Bold",
+          "version": "1.02",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.",
+          "font": "CALIBRIB.TTF"
+        },
+        {
+          "family_name": "Calibri",
+          "type": "Italic",
+          "full_name": "Calibri Italic",
+          "post_script_name": "Calibri-Italic",
+          "version": "1.02",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.",
+          "font": "CALIBRII.TTF"
+        },
+        {
+          "family_name": "Calibri",
+          "type": "Bold Italic",
+          "full_name": "Calibri Bold Italic",
+          "post_script_name": "Calibri-BoldItalic",
+          "version": "1.02",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Calibri is a modern sans serif family with subtle roundings on stems and corners. It features real italics, small caps, and multiple numeral sets. Its proportions allow high impact in tightly set lines of big and small text alike. Calibri's many curves and the new rasteriser team up in bigger sizes to reveal a warm and soft character.",
+          "font": "CALIBRIZ.TTF"
+        }
+      ]
+    },
+    {
+      "name": "Candara",
+      "styles": [
+        {
+          "family_name": "Candara",
+          "type": "Regular",
+          "full_name": "Candara",
+          "post_script_name": "Candara",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Candara is a casual humanist sans with verticals showing a graceful entasis on stems, high-branching arcades in the lowercase, large apertures in all open forms, and unique ogee curves on diagonals. The resultant texture is lively but not intrusive, and makes for a  friendly and readable text.",
+          "font": "CANDARA.TTF"
+        },
+        {
+          "family_name": "Candara",
+          "type": "Bold",
+          "full_name": "Candara Bold",
+          "post_script_name": "Candara-Bold",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Candara is a casual humanist sans with verticals showing a graceful entasis on stems, high-branching arcades in the lowercase, large apertures in all open forms, and unique ogee curves on diagonals. The resultant texture is lively but not intrusive, and makes for a  friendly and readable text.",
+          "font": "CANDARAB.TTF"
+        },
+        {
+          "family_name": "Candara",
+          "type": "Italic",
+          "full_name": "Candara Italic",
+          "post_script_name": "Candara-Italic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Candara is a casual humanist sans with verticals showing a graceful entasis on stems, high-branching arcades in the lowercase, large apertures in all open forms, and unique ogee curves on diagonals. The resultant texture is lively but not intrusive, and makes for a  friendly and readable text.",
+          "font": "CANDARAI.TTF"
+        },
+        {
+          "family_name": "Candara",
+          "type": "Bold Italic",
+          "full_name": "Candara Bold Italic",
+          "post_script_name": "Candara-BoldItalic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Candara is a casual humanist sans with verticals showing a graceful entasis on stems, high-branching arcades in the lowercase, large apertures in all open forms, and unique ogee curves on diagonals. The resultant texture is lively but not intrusive, and makes for a  friendly and readable text.",
+          "font": "CANDARAZ.TTF"
+        }
+      ]
+    },
+    {
+      "name": "Consolas",
+      "styles": [
+        {
+          "family_name": "Consolas",
+          "type": "Regular",
+          "full_name": "Consolas",
+          "post_script_name": "Consolas",
+          "version": "1.00",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Consolas is aimed for use in programming environments and other circumstances where a monospaced font is specified. All characters have the same width, like old typewriters, making it a good choice for personal and business correspondance. The improved Windows font display allowed a design with proportions closer to normal text than traditional monospaced fonts like Courier. This allows for more comfortably reading of extended text on screen. OpenType features include hanging or lining numerals; slashed, dotted and normal zeros; and alternative shapes for a number of lowercase letters. The look of text can be tuned to personal taste by varying the number of bars and waves.",
+          "font": "CONSOLA.TTF"
+        },
+        {
+          "family_name": "Consolas",
+          "type": "Bold",
+          "full_name": "Consolas Bold",
+          "post_script_name": "Consolas-Bold",
+          "version": "1.00",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Consolas is aimed for use in programming environments and other circumstances where a monospaced font is specified. All characters have the same width, like old typewriters, making it a good choice for personal and business correspondance. The improved Windows font display allowed a design with proportions closer to normal text than traditional monospaced fonts like Courier. This allows for more comfortably reading of extended text on screen. OpenType features include hanging or lining numerals; slashed, dotted and normal zeros; and alternative shapes for a number of lowercase letters. The look of text can be tuned to personal taste by varying the number of bars and waves.",
+          "font": "CONSOLAB.TTF"
+        },
+        {
+          "family_name": "Consolas",
+          "type": "Italic",
+          "full_name": "Consolas Italic",
+          "post_script_name": "Consolas-Italic",
+          "version": "1.00",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Consolas is aimed for use in programming environments and other circumstances where a monospaced font is specified. All characters have the same width, like old typewriters, making it a good choice for personal and business correspondance. The improved Windows font display allowed a design with proportions closer to normal text than traditional monospaced fonts like Courier. This allows for more comfortably reading of extended text on screen. OpenType features include hanging or lining numerals; slashed, dotted and normal zeros; and alternative shapes for a number of lowercase letters. The look of text can be tuned to personal taste by varying the number of bars and waves.",
+          "font": "CONSOLAI.TTF"
+        },
+        {
+          "family_name": "Consolas",
+          "type": "Bold Italic",
+          "full_name": "Consolas Bold Italic",
+          "post_script_name": "Consolas-BoldItalic",
+          "version": "1.00",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Consolas is aimed for use in programming environments and other circumstances where a monospaced font is specified. All characters have the same width, like old typewriters, making it a good choice for personal and business correspondance. The improved Windows font display allowed a design with proportions closer to normal text than traditional monospaced fonts like Courier. This allows for more comfortably reading of extended text on screen. OpenType features include hanging or lining numerals; slashed, dotted and normal zeros; and alternative shapes for a number of lowercase letters. The look of text can be tuned to personal taste by varying the number of bars and waves.",
+          "font": "CONSOLAZ.TTF"
+        }
+      ]
+    },
+    {
+      "name": "Constantia",
+      "styles": [
+        {
+          "family_name": "Constantia",
+          "type": "Regular",
+          "full_name": "Constantia",
+          "post_script_name": "Constantia",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Constantia is a modulated wedge-serif typeface designed primarily for continuous text in both electronic and paper publishing. The design responds to the recent narrowing of the gap between screen readability and traditional print media, exploiting specific aspects of the most recent advances in ClearType rendering, such as sub-pixel positioning. The classic proportions of relatively small x-height and long extenders make Constantia ideal for book and journal publishing, while the slight squareness and open counters ensure that it remains legible even at small sizes.",
+          "font": "CONSTAN.TTF"
+        },
+        {
+          "family_name": "Constantia",
+          "type": "Bold",
+          "full_name": "Constantia Bold",
+          "post_script_name": "Constantia-Bold",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Constantia is a modulated wedge-serif typeface designed primarily for continuous text in both electronic and paper publishing. The design responds to the recent narrowing of the gap between screen readability and traditional print media, exploiting specific aspects of the most recent advances in ClearType rendering, such as sub-pixel positioning. The classic proportions of relatively small x-height and long extenders make Constantia ideal for book and journal publishing, while the slight squareness and open counters ensure that it remains legible even at small sizes.",
+          "font": "CONSTANB.TTF"
+        },
+        {
+          "family_name": "Constantia",
+          "type": "Italic",
+          "full_name": "Constantia Italic",
+          "post_script_name": "Constantia-Italic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Constantia is a modulated wedge-serif typeface designed primarily for continuous text in both electronic and paper publishing. The design responds to the recent narrowing of the gap between screen readability and traditional print media, exploiting specific aspects of the most recent advances in ClearType rendering, such as sub-pixel positioning. The classic proportions of relatively small x-height and long extenders make Constantia ideal for book and journal publishing, while the slight squareness and open counters ensure that it remains legible even at small sizes.",
+          "font": "CONSTANI.TTF"
+        },
+        {
+          "family_name": "Constantia",
+          "type": "Bold Italic",
+          "full_name": "Constantia Bold Italic",
+          "post_script_name": "Constantia-BoldItalic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Constantia is a modulated wedge-serif typeface designed primarily for continuous text in both electronic and paper publishing. The design responds to the recent narrowing of the gap between screen readability and traditional print media, exploiting specific aspects of the most recent advances in ClearType rendering, such as sub-pixel positioning. The classic proportions of relatively small x-height and long extenders make Constantia ideal for book and journal publishing, while the slight squareness and open counters ensure that it remains legible even at small sizes.",
+          "font": "CONSTANZ.TTF"
+        }
+      ]
+    },
+    {
+      "name": "Corbel",
+      "styles": [
+        {
+          "family_name": "Corbel",
+          "type": "Regular",
+          "full_name": "Corbel",
+          "post_script_name": "Corbel",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Corbel is designed to give an uncluttered and clean appearance on screen. The letter forms are open with soft, flowing curves. It is legible, clear and functional at small sizes. At larger sizes the detailing and style of the shapes is more apparent resulting in a modern sans serif type with a wide range of possible uses.",
+          "font": "CORBEL.TTF"
+        },
+        {
+          "family_name": "Corbel",
+          "type": "Bold",
+          "full_name": "Corbel Bold",
+          "post_script_name": "Corbel-Bold",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Corbel is designed to give an uncluttered and clean appearance on screen. The letter forms are open with soft, flowing curves. It is legible, clear and functional at small sizes. At larger sizes the detailing and style of the shapes is more apparent resulting in a modern sans serif type with a wide range of possible uses.",
+          "font": "CORBELB.TTF"
+        },
+        {
+          "family_name": "Corbel",
+          "type": "Italic",
+          "full_name": "Corbel Italic",
+          "post_script_name": "Corbel-Italic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Corbel is designed to give an uncluttered and clean appearance on screen. The letter forms are open with soft, flowing curves. It is legible, clear and functional at small sizes. At larger sizes the detailing and style of the shapes is more apparent resulting in a modern sans serif type with a wide range of possible uses.",
+          "font": "CORBELI.TTF"
+        },
+        {
+          "family_name": "Corbel",
+          "type": "Bold Italic",
+          "full_name": "Corbel Bold Italic",
+          "post_script_name": "Corbel-BoldItalic",
+          "version": "1.01",
+          "copyright": "© 2005 Microsoft Corporation. All Rights Reserved.",
+          "description": "Corbel is designed to give an uncluttered and clean appearance on screen. The letter forms are open with soft, flowing curves. It is legible, clear and functional at small sizes. At larger sizes the detailing and style of the shapes is more apparent resulting in a modern sans serif type with a wide range of possible uses.",
+          "font": "CORBELZ.TTF"
+        }
+      ]
+    }
+  ],
+  "font_collections": [
+    {
+      "filename": "CAMBRIA.TTC",
+      "fonts": [
+        {
+          "name": "Cambria",
+          "styles": [
+            {
+              "family_name": "Cambria",
+              "type": "Regular",
+              "full_name": "Cambria",
+              "post_script_name": "Cambria",
+              "version": "1.02",
+              "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+              "description": "Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design."
+            }
+          ]
+        },
+        {
+          "name": "Cambria Math",
+          "styles": [
+            {
+              "family_name": "Cambria Math",
+              "type": "Regular",
+              "full_name": "Cambria Math",
+              "post_script_name": "CambriaMath",
+              "version": "1.02",
+              "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+              "description": "Cambria has been designed for on-screen reading and to look good when printed at small sizes. It has very even spacing and proportions. Diagonal and vertical hairlines and serifs are relatively strong, while horizontal serifs are small and intend to emphasize stroke endings rather than stand out themselves. This principle is most noticeable in the italics where the lowercase characters are subdued in style to be at their best as elements of word-images. When Cambria is used for captions at sizes over 20 point, the  inter-character spacing should be slightly reduced for best results. The design isn't just intended for business documents: The regular weight has been extended with a large set of math and science symbols. The Greek and Cyrillic has been designed under close supervision of an international team of experts, who aimed to set a historical new standard in multi-script type design."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

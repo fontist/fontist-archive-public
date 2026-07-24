@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font6/al_bayan",
+  "name": "Al Bayan",
+  "description": "Al Bayan",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "AlBayan designed by Al Bayan Company for Computer Services. Copyright Apple Computer, Inc. and its licensors, 1992-1998 all rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3fca745e7a4defa2e64afac133cee8bdd01c40ff.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/3fca745e7a4defa2e64afac133cee8bdd01c40ff.zip"
+      ],
+      "sha256": "27e7bf08c3da0f337c4ccba4c9e144e4f99bef4e61417a7f19ef778c8d0eaa9c",
+      "file_size": 101972
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AlBayan.ttc",
+      "fonts": [
+        {
+          "name": ".Al Bayan PUA",
+          "styles": [
+            {
+              "family_name": ".Al Bayan PUA",
+              "type": "Bold",
+              "full_name": ".Al Bayan PUA Bold",
+              "post_script_name": ".AlBayanPUA-Bold",
+              "version": "13.0d1e6",
+              "copyright": "AlBayan designed by Al Bayan Company for Computer Services. Copyright Apple\nComputer, Inc. and its licensors, 1992-1998 all rights reserved."
+            },
+            {
+              "family_name": ".Al Bayan PUA",
+              "type": "Plain",
+              "full_name": ".Al Bayan PUA Plain",
+              "post_script_name": ".AlBayanPUA",
+              "version": "13.0d1e6",
+              "copyright": "AlBayan designed by Al Bayan Company for Computer Services. Copyright Apple Computer, Inc. and its licensors, 1992-1998 all rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Al Bayan",
+          "styles": [
+            {
+              "family_name": "Al Bayan",
+              "type": "Bold",
+              "full_name": "Al Bayan Bold",
+              "post_script_name": "AlBayan-Bold",
+              "version": "13.0d1e6",
+              "copyright": "AlBayan designed by Al Bayan Company for Computer Services. Copyright Apple\nComputer, Inc. and its licensors, 1992-1998 all rights reserved."
+            },
+            {
+              "family_name": "Al Bayan",
+              "type": "Plain",
+              "full_name": "Al Bayan Plain",
+              "post_script_name": "AlBayan",
+              "version": "13.0d1e6",
+              "copyright": "AlBayan designed by Al Bayan Company for Computer Services. Copyright Apple Computer, Inc. and its licensors, 1992-1998 all rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

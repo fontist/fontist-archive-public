@@ -1,0 +1,621 @@
+{
+  "slug": "arabic",
+  "name": "Arabic",
+  "description": "Arabic",
+  "copyright": "Typeface © Monotype Typography ltd. Data © Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+  "spdx_license": "LicenseRef-Microsoft-Office2013-1",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Arabic.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/langpacks/-/raw/master/OfficeLangPack2013_AR_x86.exe",
+        "http://download.microsoft.com/download/9/C/E/9CE2E8D7-4E83-4736-BF72-512A8A2D86A4/OfficeLangPack2013_AR_x86.exe",
+        "https://web.archive.org/web/20200629071706if_/http://download.microsoft.com/download/9/C/E/9CE2E8D7-4E83-4736-BF72-512A8A2D86A4/OfficeLangPack2013_AR_x86.exe"
+      ],
+      "sha256": "743730f79a0322209dbf9b8405990dac2db688babf2e03c472e718cc69d07c4e",
+      "file_size": 219394416
+    }
+  },
+  "fonts": [
+    {
+      "name": "AGA Arabesque",
+      "styles": [
+        {
+          "family_name": "AGA Arabesque",
+          "type": "Regular",
+          "full_name": "AGA Arabesque",
+          "post_script_name": "AGA-Arabesque",
+          "version": "2.10",
+          "copyright": "Copyright © 1994 MAK Alagha, Applied Graphic Arts. All Rights Reserved.",
+          "font": "ARABSQ.ttf"
+        }
+      ]
+    },
+    {
+      "name": "AGA Arabesque Desktop",
+      "styles": [
+        {
+          "family_name": "AGA Arabesque Desktop",
+          "type": "Regular",
+          "full_name": "AGA Arabesque Desktop",
+          "post_script_name": "AGA-ArabesqueDesktop",
+          "version": "2.10",
+          "copyright": "© Copyright 1994-1996. MAK Alagha, Applied Graphic Arts. Designed and developed by MAK Alagha.                               All Rights Reserved.",
+          "font": "ARBSQDTP.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Akhbar MT",
+      "styles": [
+        {
+          "family_name": "Akhbar MT",
+          "type": "Regular",
+          "full_name": "Akhbar MT",
+          "post_script_name": "AkhbarMT",
+          "version": "1.0 - June 1993",
+          "copyright": "Typeface © Monotype Typography ltd. Data © Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+          "font": "AKHBR.ttf"
+        },
+        {
+          "family_name": "Akhbar MT",
+          "type": "Bold",
+          "full_name": "Akhbar MT Bold",
+          "post_script_name": "AkhbarMT-Bold",
+          "version": "1.0 - June 1993",
+          "copyright": "Typeface © Monotype Typography ltd. Data © Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+          "font": "AKHBRBD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Arabic Typesetting",
+      "styles": [
+        {
+          "family_name": "Arabic Typesetting",
+          "type": "Regular",
+          "full_name": "Arabic Typesetting",
+          "post_script_name": "ArabicTypesetting",
+          "version": "1.03",
+          "copyright": "© 2000-2003 Microsoft Corporation.  All rights reserved.",
+          "description": "Arabic Typesetting  is a new design in the Naskh style, particularly well suited for traditional book typography, an area neglected by digital type. The font provides fine typographic control by marrying the latest OpenType technology to traditional calligraphic and typographic models. It achieves maximum readability by opening bowls and counters, balancing the proportions of stroke and white space in letters that typically cause problems at small sizes, and by contextually differentiating similar forms.",
+          "font": "ARABTYPE.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Bold Italic Art",
+      "styles": [
+        {
+          "family_name": "Bold Italic Art",
+          "type": "Regular",
+          "full_name": "Bold Italic Art",
+          "post_script_name": "BoldItalicArt",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "BLDITLAR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DecoType Naskh",
+      "styles": [
+        {
+          "family_name": "DecoType Naskh",
+          "type": "Regular",
+          "full_name": "DecoType Naskh",
+          "post_script_name": "DecoTypeNaskh",
+          "version": "1.00",
+          "copyright": "Dedicated to the memory of Erik Milo. DecoType Naskh Family of Fonts 2.0 © Copyright 1992-1998 DecoType. MS Office Edition Arabic Persian Urdu. Created by Thomas Milo.",
+          "font": "DTNASKH0.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DecoType Naskh Extensions",
+      "styles": [
+        {
+          "family_name": "DecoType Naskh Extensions",
+          "type": "Regular",
+          "full_name": "DecoType Naskh Extensions",
+          "post_script_name": "DecoTypeNaskhExtensions",
+          "version": "1.00",
+          "copyright": "Dedicated to the memory of Erik Milo. DecoType Naskh Family of Fonts 2.0 © Copyright 1992-1998 DecoType. MS Office Edition Arabic Persian Urdu. Created by Thomas Milo.",
+          "font": "DTNASKH3.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DecoType Naskh Special",
+      "styles": [
+        {
+          "family_name": "DecoType Naskh Special",
+          "type": "Regular",
+          "full_name": "DecoType Naskh Special",
+          "post_script_name": "DecoTypeNaskhSpecial",
+          "version": "1.00",
+          "copyright": "Dedicated to the memory of Erik Milo. DecoType Naskh Family of Fonts 2.0 © Copyright 1992-1998 DecoType. MS Office Edition Arabic Persian Urdu. Created by Thomas Milo.",
+          "font": "DTNASKH1.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DecoType Naskh Swashes",
+      "styles": [
+        {
+          "family_name": "DecoType Naskh Swashes",
+          "type": "Regular",
+          "full_name": "DecoType Naskh Swashes",
+          "post_script_name": "DecoTypeNaskhSwashes",
+          "version": "1.00",
+          "copyright": "Dedicated to the memory of Erik Milo. DecoType Naskh Family of Fonts 2.0 © Copyright 1992-1998 DecoType. MS Office Edition Arabic Persian Urdu. Created by Thomas Milo.",
+          "font": "DTNASKH4.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DecoType Naskh Variants",
+      "styles": [
+        {
+          "family_name": "DecoType Naskh Variants",
+          "type": "Regular",
+          "full_name": "DecoType Naskh Variants",
+          "post_script_name": "DecoTypeNaskhVariants",
+          "version": "1.00",
+          "copyright": "Dedicated to the memory of Erik Milo. DecoType Naskh Family of Fonts 2.0 © Copyright 1992-1998 DecoType. MS Office Edition Arabic Persian Urdu. Created by Thomas Milo.",
+          "font": "DTNASKH2.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DecoType Thuluth",
+      "styles": [
+        {
+          "family_name": "DecoType Thuluth",
+          "type": "Regular",
+          "full_name": "DecoType Thuluth",
+          "post_script_name": "DecoTypeThuluth",
+          "version": "1.00",
+          "copyright": "Dedicated to the memory of Erik Milo. DecoType Thuluth Family of Fonts 2.0 © Copyright 1992-1998 DecoType. MS Office Edition Arabic Persian Urdu. Created by Thomas Milo.",
+          "font": "DTHULUTH.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Diwani Bent",
+      "styles": [
+        {
+          "family_name": "Diwani Bent",
+          "type": "Regular",
+          "full_name": "Diwani Bent",
+          "post_script_name": "DiwaniBent",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "DIWANBNT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Diwani Letter",
+      "styles": [
+        {
+          "family_name": "Diwani Letter",
+          "type": "Regular",
+          "full_name": "Diwani Letter",
+          "post_script_name": "DiwaniLetter",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "DIWANLTR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Diwani Outline Shaded",
+      "styles": [
+        {
+          "family_name": "Diwani Outline Shaded",
+          "type": "Regular",
+          "full_name": "Diwani Outline Shaded",
+          "post_script_name": "DiwaniOutlineShaded",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "DWNOUTSH.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Diwani Simple Outline",
+      "styles": [
+        {
+          "family_name": "Diwani Simple Outline",
+          "type": "Regular",
+          "full_name": "Diwani Simple Outline",
+          "post_script_name": "DiwaniSimpleOutline",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "DWNSPOUT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Diwani Simple Outline 2",
+      "styles": [
+        {
+          "family_name": "Diwani Simple Outline 2",
+          "type": "Regular",
+          "full_name": "Diwani Simple Outline 2",
+          "post_script_name": "DiwaniSimpleOutline2",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "DWNSH2.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Diwani Simple Striped",
+      "styles": [
+        {
+          "family_name": "Diwani Simple Striped",
+          "type": "Regular",
+          "full_name": "Diwani Simple Striped",
+          "post_script_name": "DiwaniSimpleStriped",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "DWNSPSTR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Farsi Simple Bold",
+      "styles": [
+        {
+          "family_name": "Farsi Simple Bold",
+          "type": "Regular",
+          "full_name": "Farsi Simple Bold",
+          "post_script_name": "FarsiSimpleBold",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "FRSSPBL.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Farsi Simple Outline",
+      "styles": [
+        {
+          "family_name": "Farsi Simple Outline",
+          "type": "Regular",
+          "full_name": "Farsi Simple Outline",
+          "post_script_name": "FarsiSimpleOutline",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "FRSSPOUT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Italic Outline Art",
+      "styles": [
+        {
+          "family_name": "Italic Outline Art",
+          "type": "Regular",
+          "full_name": "Italic Outline Art",
+          "post_script_name": "ItalicOutlineArt",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "ITLOUTAR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kufi Extended Outline",
+      "styles": [
+        {
+          "family_name": "Kufi Extended Outline",
+          "type": "Regular",
+          "full_name": "Kufi Extended Outline",
+          "post_script_name": "KufiExtendedOutline",
+          "version": "2.20",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "KFEXTOUT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kufi Outline Shaded",
+      "styles": [
+        {
+          "family_name": "Kufi Outline Shaded",
+          "type": "Regular",
+          "full_name": "Kufi Outline Shaded",
+          "post_script_name": "KufiOutlineShaded",
+          "version": "2.20",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "KFOUTSHD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Led Italic Font",
+      "styles": [
+        {
+          "family_name": "Led Italic Font",
+          "type": "Regular",
+          "full_name": "Led Italic Font",
+          "post_script_name": "LedItalicFont",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "LEDITFNT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "MT Extra",
+      "styles": [
+        {
+          "family_name": "MT Extra",
+          "type": "Regular",
+          "full_name": "MT Extra",
+          "post_script_name": "MT-Extra",
+          "version": "3.01",
+          "copyright": "Copyright 1990-92 by Design Science, Inc. (310) 433-0685; part of MathType mathematical equation editor",
+          "font": "MTEXTRA.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Monotype Koufi",
+      "styles": [
+        {
+          "family_name": "Monotype Koufi",
+          "type": "Bold",
+          "full_name": "Monotype Koufi Bold",
+          "post_script_name": "MonotypeKoufi-Bold",
+          "version": "1.0 - May 1993",
+          "copyright": "Typeface © Monotype Typography ltd. Data © Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+          "font": "KOUFIBD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Mudir MT",
+      "styles": [
+        {
+          "family_name": "Mudir MT",
+          "type": "Regular",
+          "full_name": "Mudir MT",
+          "post_script_name": "MudirMT",
+          "version": "1.0 - May 1993",
+          "copyright": "Typeface © Monotype Typography ltd. Data © Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+          "font": "MUDIR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Old Antic Bold",
+      "styles": [
+        {
+          "family_name": "Old Antic Bold",
+          "type": "Regular",
+          "full_name": "Old Antic Bold",
+          "post_script_name": "OldAnticBold",
+          "version": "2.10",
+          "copyright": "Generated by Fontographer 4.1",
+          "font": "OLDANBLD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Old Antic Decorative",
+      "styles": [
+        {
+          "family_name": "Old Antic Decorative",
+          "type": "Regular",
+          "full_name": "Old Antic Decorative",
+          "post_script_name": "OldAnticDecorative",
+          "version": "2.10",
+          "copyright": "Generated by Fontographer 4.1",
+          "font": "OLDANDEC.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Old Antic Outline",
+      "styles": [
+        {
+          "family_name": "Old Antic Outline",
+          "type": "Regular",
+          "full_name": "Old Antic Outline",
+          "post_script_name": "OldAnticOutline",
+          "version": "2.10",
+          "copyright": "Generated by Fontographer 4.1",
+          "font": "OLDANOUT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Old Antic Outline Shaded",
+      "styles": [
+        {
+          "family_name": "Old Antic Outline Shaded",
+          "type": "Regular",
+          "full_name": "Old Antic Outline Shaded",
+          "post_script_name": "OldAnticOutlineShaded",
+          "version": "2.10",
+          "copyright": "Generated by Fontographer 4.1",
+          "font": "OLDOUTSH.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Bold Arch",
+      "styles": [
+        {
+          "family_name": "PT Bold Arch",
+          "type": "Regular",
+          "full_name": "PT Bold Arch",
+          "post_script_name": "PTBoldArch",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTBLDARC.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Bold Broken",
+      "styles": [
+        {
+          "family_name": "PT Bold Broken",
+          "type": "Regular",
+          "full_name": "PT Bold Broken",
+          "post_script_name": "PTBoldBroken",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTBLDBRK.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Bold Dusky",
+      "styles": [
+        {
+          "family_name": "PT Bold Dusky",
+          "type": "Regular",
+          "full_name": "PT Bold Dusky",
+          "post_script_name": "PTBoldDusky",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTBLDDSK.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Bold Heading",
+      "styles": [
+        {
+          "family_name": "PT Bold Heading",
+          "type": "Regular",
+          "full_name": "PT Bold Heading",
+          "post_script_name": "PTBoldHeading",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTBLDHAD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Bold Mirror",
+      "styles": [
+        {
+          "family_name": "PT Bold Mirror",
+          "type": "Regular",
+          "full_name": "PT Bold Mirror",
+          "post_script_name": "PTBoldMirror",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTBLDMRR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Bold Stars",
+      "styles": [
+        {
+          "family_name": "PT Bold Stars",
+          "type": "Regular",
+          "full_name": "PT Bold Stars",
+          "post_script_name": "PTBoldStars",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTBLSSTR.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Separated Baloon",
+      "styles": [
+        {
+          "family_name": "PT Separated Baloon",
+          "type": "Regular",
+          "full_name": "PT Separated Baloon",
+          "post_script_name": "PTSeparatedBaloon",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "PTSEPBAL.ttf"
+        }
+      ]
+    },
+    {
+      "name": "PT Simple Bold Ruled",
+      "styles": [
+        {
+          "family_name": "PT Simple Bold Ruled",
+          "type": "Regular",
+          "full_name": "PT Simple Bold Ruled",
+          "post_script_name": "PTSimpleBoldRuled",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "SPBLDRUL.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Simple Bold Jut Out",
+      "styles": [
+        {
+          "family_name": "Simple Bold Jut Out",
+          "type": "Regular",
+          "full_name": "Simple Bold Jut Out",
+          "post_script_name": "SimpleBoldJutOut",
+          "version": "2.20",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "SPBLDJUT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Simple Indust Outline",
+      "styles": [
+        {
+          "family_name": "Simple Indust Outline",
+          "type": "Regular",
+          "full_name": "Simple Indust Outline",
+          "post_script_name": "SimpleIndustOutline",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "SPINDOUT.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Simple Indust Shaded",
+      "styles": [
+        {
+          "family_name": "Simple Indust Shaded",
+          "type": "Regular",
+          "full_name": "Simple Indust Shaded",
+          "post_script_name": "SimpleIndustShaded",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "SPINDSHD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Simple Outline Pat",
+      "styles": [
+        {
+          "family_name": "Simple Outline Pat",
+          "type": "Regular",
+          "full_name": "Simple Outline Pat",
+          "post_script_name": "SimpleOutlinePat",
+          "version": "2.10",
+          "copyright": "Designed for Microsoft Corp. by Platinum Inc.",
+          "font": "SPOUTPAT.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

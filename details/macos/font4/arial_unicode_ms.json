@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font4/arial_unicode_ms",
+  "name": "Arial Unicode MS",
+  "description": "Arial Unicode MS",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright (C) 1993-2000 Agfa Monotype Corporation. All rights reserved. Arial® is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.agfgamonotype.com/html/type/license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b31ee4a84f36a9c36729ce6fc38a829b5280d3b5.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/b31ee4a84f36a9c36729ce6fc38a829b5280d3b5.zip"
+      ],
+      "sha256": "a4c762a6bfd1b828b922d5610cb6389c23b8a0ffcd01c1420fbcaa4cc8d509a5",
+      "file_size": 15311886
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial Unicode MS",
+      "styles": [
+        {
+          "family_name": "Arial Unicode MS",
+          "type": "Regular",
+          "full_name": "Arial Unicode MS",
+          "post_script_name": "ArialUnicodeMS",
+          "version": "1.01x",
+          "copyright": "Digitized data copyright (C) 1993-2000 Agfa Monotype Corporation. All rights reserved. Arial® is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+          "description": "\r\nNOTIFICATION OF LICENSE AGREEMENT\r\n\r\nThis typeface is the property of Monotype Typography and its use by you is covered under the terms of a license agreement. You have obtained this typeface software either directly from Monotype or together with software distributed by one of Monotype’s licensees.\r\n\r\nThis software is a valuable asset of Monotype. Unless you have entered into a specific license agreement granting you additional rights, your use of this software is limited to your workstation for your own publishing use. You may not copy or distribute this software.\r\n\r\nIf you have any question concerning your rights you should review the license agreement you received with the software or contact Monotype for a copy of the license agreement.\r\n\r\nMonotype can be contacted at:\r\n\r\nUSA 847-718-0400    UK 44(0)1737 765959\r\n\r\nFor license terms and usage rights, please visit our web site at:\r\nwww.monotype.com/html/type/license.html\r\n\r\nLizenzbedingungen und Nutzungsrechte finden Sie auf unserer Webseite:\r\nwww.monotype.com/html/type/license.html\r\n\r\nPour plus d'informations concernant les droits d'utilisation et les questions contractuelles, veuillez consultez notre site:\r\nwww.monotype.com/html/type/license.html\r\n\r\nPara obtener información acerca de los términos de licencia y los derechos de uso, visite nuestro sitio en el Web en:\r\nwww.monotype.com/html/type/license.html\r\n\r\nPer le condizioni contrattuali ed i diritti d'uso, visitate il nostro sito web all'indirizzo:\r\nwww.monotype.com/html/type/license.html\r\n",
+          "font": "ARIALUNI.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

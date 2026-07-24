@@ -1,0 +1,39 @@
+{
+  "slug": "macos/signpainter-housescript_10m11177",
+  "name": "SignPainter-HouseScript",
+  "description": "SignPainter-HouseScript",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(C)1999 House Industries/Brand Design Co., Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.houseind.com/license",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1f1766852a003b91e26db3aabea4d799adec53a6.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/1f1766852a003b91e26db3aabea4d799adec53a6.zip"
+      ],
+      "sha256": "4659734da1b327122aa96e883fcfcf025b7728b19a3313e0467ad7fc5cecace4",
+      "file_size": 100508,
+      "format": "otf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "SignPainter-HouseScript",
+      "styles": [
+        {
+          "family_name": "SignPainter-HouseScript",
+          "type": "Regular",
+          "full_name": "SignPainter-HouseScript",
+          "post_script_name": "SignPainter-HouseScript",
+          "version": "14.0d1e1",
+          "copyright": "(C)1999 House Industries/Brand Design Co., Inc.",
+          "description": "Apple distribution of Sign Painter House Script by House Industries",
+          "font": "SignPainter-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

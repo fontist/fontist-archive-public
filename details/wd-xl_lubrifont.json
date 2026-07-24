@@ -1,0 +1,81 @@
+{
+  "slug": "wd-xl_lubrifont",
+  "name": "WD-XL Lubrifont",
+  "description": "WD-XL Lubrifont",
+  "homepage": "https://maoken.com",
+  "copyright": "[WD-XL Lubrifont] Copyright 2020-2022 © NightFurySL2001 - Expansion for Chinese (Traditional) and symbols, Skr-ZERO - Expansion for Japanese and symbols, modified under SIL Open Font License.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttc",
+  "resources": {
+    "WD-XLLubrifont.ttc": {
+      "urls": [
+        "https://github.com/NightFurySL2001/WD-XL-font/releases/download/v2.001/WD-XLLubrifont.ttc"
+      ],
+      "sha256": "8f020c62271807b628a5b7c7f57726453e774e1ff0321b78d61883f2282124eb",
+      "file_size": 6057488,
+      "format": "ttc"
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "WD-XLLubrifont.ttc",
+      "fonts": [
+        {
+          "name": "WD-XL Lubrifont JP N",
+          "styles": [
+            {
+              "family_name": "WD-XL Lubrifont JP N",
+              "type": "Regular",
+              "full_name": "WD-XL Lubrifont JP N",
+              "post_script_name": "WD-XLLubrifontJPN-Regular",
+              "version": "2.001;hotconv 1.1.0;makeotfexe 2.6.0",
+              "copyright": "[WD-XL Lubrifont] Copyright 2020-2022 © NightFurySL2001 - Expansion for Chinese (Traditional) and symbols, Skr-ZERO - Expansion for Japanese and symbols, modified under SIL Open Font License."
+            }
+          ]
+        },
+        {
+          "name": "WD-XL Lubrifont JP S",
+          "styles": [
+            {
+              "family_name": "WD-XL Lubrifont JP S",
+              "type": "Regular",
+              "full_name": "WD-XL Lubrifont JP S",
+              "post_script_name": "WD-XLLubrifontJPS-Regular",
+              "version": "2.001;hotconv 1.1.0;makeotfexe 2.6.0",
+              "copyright": "[WD-XL Lubrifont] Copyright 2020-2022 © NightFurySL2001 - Expansion for Chinese (Traditional) and symbols, Skr-ZERO - Expansion for Japanese and symbols, modified under SIL Open Font License."
+            }
+          ]
+        },
+        {
+          "name": "WD-XL Lubrifont SC",
+          "styles": [
+            {
+              "family_name": "WD-XL Lubrifont SC",
+              "type": "Regular",
+              "full_name": "WD-XL Lubrifont SC",
+              "post_script_name": "WD-XLLubrifontSC-Regular",
+              "version": "2.001;hotconv 1.1.0;makeotfexe 2.6.0",
+              "copyright": "[WD-XL Lubrifont] Copyright 2020-2022 © NightFurySL2001 - Expansion for Chinese (Traditional) and symbols, Skr-ZERO - Expansion for Japanese and symbols, modified under SIL Open Font License."
+            }
+          ]
+        },
+        {
+          "name": "WD-XL Lubrifont TC",
+          "styles": [
+            {
+              "family_name": "WD-XL Lubrifont TC",
+              "type": "Regular",
+              "full_name": "WD-XL Lubrifont TC",
+              "post_script_name": "WD-XLLubrifontTC-Regular",
+              "version": "2.001;hotconv 1.1.0;makeotfexe 2.6.0",
+              "copyright": "[WD-XL Lubrifont] Copyright 2020-2022 © NightFurySL2001 - Expansion for Chinese (Traditional) and symbols, Skr-ZERO - Expansion for Japanese and symbols, modified under SIL Open Font License."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

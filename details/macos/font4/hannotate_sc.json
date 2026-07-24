@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font4/hannotate_sc",
+  "name": "Hannotate SC",
+  "description": "Hannotate SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "540cea47ae7cf17ba79cc63d70905a2c386f3f62.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/540cea47ae7cf17ba79cc63d70905a2c386f3f62.zip"
+      ],
+      "sha256": "9ef156f1147cca255a5ad223e4d8d348cafa909cf977c7432cf5f134dc3209fb",
+      "file_size": 50035213
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Hannotate.ttc",
+      "fonts": [
+        {
+          "name": "Hannotate SC",
+          "styles": [
+            {
+              "family_name": "Hannotate SC",
+              "type": "Bold",
+              "full_name": "Hannotate SC Bold",
+              "post_script_name": "HannotateSC-W7",
+              "version": "13.0d2e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            },
+            {
+              "family_name": "Hannotate SC",
+              "type": "Regular",
+              "full_name": "Hannotate SC Regular",
+              "post_script_name": "HannotateSC-W5",
+              "version": "13.0d2e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hannotate TC",
+          "styles": [
+            {
+              "family_name": "Hannotate TC",
+              "type": "Bold",
+              "full_name": "Hannotate TC Bold",
+              "post_script_name": "HannotateTC-W7",
+              "version": "13.0d2e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            },
+            {
+              "family_name": "Hannotate TC",
+              "type": "Regular",
+              "full_name": "Hannotate TC Regular",
+              "post_script_name": "HannotateTC-W5",
+              "version": "13.0d2e1",
+              "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "slug": "macos/font4/nanum_brush_script",
+  "name": "Nanum Brush Script",
+  "description": "Nanum Brush Script",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.nhncorp.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b687fb6023084a8e0c57fa7b88555ee4173b9364.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/b687fb6023084a8e0c57fa7b88555ee4173b9364.zip"
+      ],
+      "sha256": "6a122a0eccb0f10f06f99cf01b6c3e56007991c8b472eb7a3da8fe73d7dbd665",
+      "file_size": 2934663
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "NanumScript.ttc",
+      "fonts": [
+        {
+          "name": "Nanum Brush Script",
+          "styles": [
+            {
+              "family_name": "Nanum Brush Script",
+              "type": "Regular",
+              "full_name": "Nanum Brush Script",
+              "post_script_name": "NanumBrush",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+              "description": "NHN Corporation"
+            }
+          ]
+        },
+        {
+          "name": "Nanum Pen Script",
+          "styles": [
+            {
+              "family_name": "Nanum Pen Script",
+              "type": "Regular",
+              "full_name": "Nanum Pen Script",
+              "post_script_name": "NanumPen",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2010 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+              "description": "NHN Corporation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

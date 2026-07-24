@@ -1,0 +1,48 @@
+{
+  "slug": "macos/malayalam_mn_10m11177",
+  "name": "Malayalam MN",
+  "description": "Malayalam MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "f8c31858dc0445ab5d3ccc876670ff8d999381ee.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/f8c31858dc0445ab5d3ccc876670ff8d999381ee.zip"
+      ],
+      "sha256": "902a65ae5ed7961c18927abe956b21ec483046a4c416b3c8562c7fc16df6d023",
+      "file_size": 87151
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Malayalam-MN.ttc",
+      "fonts": [
+        {
+          "name": "Malayalam MN",
+          "styles": [
+            {
+              "family_name": "Malayalam MN",
+              "type": "Bold",
+              "full_name": "Malayalam MN Bold",
+              "post_script_name": "MalayalamMN-Bold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Malayalam MN",
+              "type": "Regular",
+              "full_name": "Malayalam MN",
+              "post_script_name": "MalayalamMN",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

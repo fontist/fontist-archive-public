@@ -1,0 +1,37 @@
+{
+  "slug": "kizashi",
+  "name": "Kizashi",
+  "description": "Kizashi",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "Copyright (C) 2025 by Sora Sagano.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "kizashi_0001.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/kizashi_0001.zip"
+      ],
+      "sha256": "18924de810cd9e4ec715710f3b9c0eb6249de833e9d25b8a7e700f4995736c0f",
+      "file_size": 14063
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kizashi",
+      "styles": [
+        {
+          "family_name": "Kizashi",
+          "type": "Regular",
+          "full_name": "Kizashi Regular",
+          "post_script_name": "Kizashi-Regular",
+          "version": "0.001;Glyphs 3.3.1 (3343)",
+          "copyright": "Copyright (C) 2025 by Sora Sagano.",
+          "font": "Kizashi-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

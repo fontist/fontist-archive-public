@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/quotes_caps_10m1360",
+  "name": "Quotes Caps",
+  "description": "Quotes Caps",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 Designed by Yanina Arabena & Guille Vizzari. Published by Sudtipos. Production Ale Paul. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b5d541e9b686a971d993965c20a648692832b5c7.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/b5d541e9b686a971d993965c20a648692832b5c7.zip"
+      ],
+      "sha256": "da83c4e8b105dcbda996d4a96ee8eff843c97a9ba59b68a772b1ecb76a8b77cd",
+      "file_size": 89480
+    }
+  },
+  "fonts": [
+    {
+      "name": "Quotes Caps",
+      "styles": [
+        {
+          "family_name": "Quotes Caps",
+          "type": "Regular",
+          "full_name": "QuotesCaps-Regular",
+          "post_script_name": "QuotesCaps-Regular",
+          "version": "15.0d1e2",
+          "copyright": "Copyright (c) 2015 Designed by Yanina Arabena & Guille Vizzari. Published by Sudtipos. Production Ale Paul. All rights reserved.",
+          "font": "QuotesCaps-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

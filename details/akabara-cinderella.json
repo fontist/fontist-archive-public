@@ -1,0 +1,38 @@
+{
+  "slug": "akabara-cinderella",
+  "name": "akabara-cinderella",
+  "description": "akabara-cinderella",
+  "homepage": "http://modi.jpn.org/",
+  "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "akabara-cinderella.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_akabara-cinderella_2018_0811.zip",
+        "https://web.archive.org/web/20260506003101/https://modi.jpn.org/download/MODI_akabara-cinderella_2018_0811.zip"
+      ],
+      "sha256": "157f954ada377516d64ce727e5cb5122106f70ee65142d9b2971463cca690ffc",
+      "file_size": 1529937
+    }
+  },
+  "fonts": [
+    {
+      "name": "akabara-cinderella",
+      "styles": [
+        {
+          "family_name": "akabara-cinderella",
+          "type": "Regular",
+          "full_name": "akabara-cinderella",
+          "post_script_name": "akabara-cinderella",
+          "version": "1.00.20180811",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "akabara-cinderella.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

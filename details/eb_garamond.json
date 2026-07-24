@@ -1,0 +1,242 @@
+{
+  "slug": "eb_garamond",
+  "name": "EB Garamond",
+  "description": "EB Garamond",
+  "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "EB_Garamond.zip": {
+      "urls": [
+        "https://bitbucket.org/georgd/eb-garamond/downloads/EBGaramond-0.016.zip"
+      ],
+      "sha256": "a0b77b405f55c10cff078787ef9d2389a9638e7604d53aa80207fe62e104c378",
+      "file_size": 2640545
+    }
+  },
+  "fonts": [
+    {
+      "name": "EB Garamond 08",
+      "styles": [
+        {
+          "family_name": "EB Garamond 08",
+          "type": "Italic",
+          "full_name": "EB Garamond 08 Italic",
+          "post_script_name": "EBGaramond08-Italic",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge",
+          "font": "EBGaramond08-Italic.ttf"
+        },
+        {
+          "family_name": "EB Garamond 08",
+          "type": "Italic",
+          "full_name": "EB Garamond 08 Italic",
+          "post_script_name": "EBGaramond08-Italic",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge",
+          "font": "EBGaramond08-Italic.otf"
+        },
+        {
+          "family_name": "EB Garamond 08",
+          "type": "Regular",
+          "full_name": "EB Garamond 08 Regular",
+          "post_script_name": "EBGaramond08-Regular",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge",
+          "font": "EBGaramond08-Regular.ttf"
+        },
+        {
+          "family_name": "EB Garamond 08",
+          "type": "Regular",
+          "full_name": "EB Garamond 08 Regular",
+          "post_script_name": "EBGaramond08-Regular",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge",
+          "font": "EBGaramond08-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond 12",
+      "styles": [
+        {
+          "family_name": "EB Garamond 12",
+          "type": "Italic",
+          "full_name": "EB Garamond 12 Italic",
+          "post_script_name": "EBGaramond12-Italic",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond12-Italic.ttf"
+        },
+        {
+          "family_name": "EB Garamond 12",
+          "type": "Italic",
+          "full_name": "EB Garamond 12 Italic",
+          "post_script_name": "EBGaramond12-Italic",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond12-Italic.otf"
+        },
+        {
+          "family_name": "EB Garamond 12",
+          "type": "Regular",
+          "full_name": "EB Garamond 12 Regular",
+          "post_script_name": "EBGaramond12-Regular",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond12-Regular.ttf"
+        },
+        {
+          "family_name": "EB Garamond 12",
+          "type": "Regular",
+          "full_name": "EB Garamond 12 Regular",
+          "post_script_name": "EBGaramond12-Regular",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond12-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond 12 All SC",
+      "styles": [
+        {
+          "family_name": "EB Garamond 12 All SC",
+          "type": "AllSC",
+          "full_name": "EB Garamond 12 Regular All SmallCaps",
+          "post_script_name": "EBGaramond12-AllSC",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond12-AllSC.ttf"
+        },
+        {
+          "family_name": "EB Garamond 12 All SC",
+          "type": "AllSC",
+          "full_name": "EB Garamond 12 Regular All SmallCaps",
+          "post_script_name": "EBGaramond12-AllSC",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond12-AllSC.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond Initials",
+      "styles": [
+        {
+          "family_name": "EB Garamond Initials",
+          "type": "Regular",
+          "full_name": "EB Garamond Initials",
+          "post_script_name": "EBGaramondInitials",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond-Initials.ttf"
+        },
+        {
+          "family_name": "EB Garamond Initials",
+          "type": "Regular",
+          "full_name": "EB Garamond Initials",
+          "post_script_name": "EBGaramondInitials",
+          "version": "0.016",
+          "copyright": "Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond-Initials.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond Initials Fill1",
+      "styles": [
+        {
+          "family_name": "EB Garamond Initials Fill1",
+          "type": "Regular",
+          "full_name": "EB Garamond Initials Fill1",
+          "post_script_name": "EBGaramondInitialsF1",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond-InitialsF1.ttf"
+        },
+        {
+          "family_name": "EB Garamond Initials Fill1",
+          "type": "Regular",
+          "full_name": "EB Garamond Initials Fill1",
+          "post_script_name": "EBGaramondInitialsF1",
+          "version": "0.016",
+          "copyright": "Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond-InitialsF1.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond Initials Fill2",
+      "styles": [
+        {
+          "family_name": "EB Garamond Initials Fill2",
+          "type": "Regular",
+          "full_name": "EB Garamond Initials Fill2",
+          "post_script_name": "EBGaramondInitialsF2",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond-InitialsF2.ttf"
+        },
+        {
+          "family_name": "EB Garamond Initials Fill2",
+          "type": "Regular",
+          "full_name": "EB Garamond Initials Fill2",
+          "post_script_name": "EBGaramondInitialsF2",
+          "version": "0.016",
+          "copyright": "Created by Georg A. Duffner,,, with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramond-InitialsF2.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond SC 08",
+      "styles": [
+        {
+          "family_name": "EB Garamond SC 08",
+          "type": "Regular",
+          "full_name": "EB Garamond SmallCaps 08 Regular",
+          "post_script_name": "EBGaramondSC08-Regular",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge",
+          "font": "EBGaramondSC08-Regular.ttf"
+        },
+        {
+          "family_name": "EB Garamond SC 08",
+          "type": "Regular",
+          "full_name": "EB Garamond SmallCaps 08 Regular",
+          "post_script_name": "EBGaramondSC08-Regular",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge",
+          "font": "EBGaramondSC08-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "EB Garamond SC 12",
+      "styles": [
+        {
+          "family_name": "EB Garamond SC 12",
+          "type": "Regular",
+          "full_name": "EB Garamond SmallCaps 12 Regular",
+          "post_script_name": "EBGaramondSC12-Regular",
+          "version": "0.016 ; ttfautohint (v0.97) -l 8 -r 50 -G 200 -x 0 -f dflt -w gGD",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramondSC12-Regular.ttf"
+        },
+        {
+          "family_name": "EB Garamond SC 12",
+          "type": "Regular",
+          "full_name": "EB Garamond SmallCaps 12 Regular",
+          "post_script_name": "EBGaramondSC12-Regular",
+          "version": "0.016",
+          "copyright": "Created by Georg Duffner with FontForge 2.0 (http://fontforge.sf.net)",
+          "font": "EBGaramondSC12-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

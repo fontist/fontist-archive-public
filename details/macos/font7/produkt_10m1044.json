@@ -1,0 +1,111 @@
+{
+  "slug": "macos/font7/produkt_10m1044",
+  "name": "Produkt",
+  "description": "Produkt",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c)2014 Commercial Type.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "fe382f226f4787a3e119c7641ce3d357205570b9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/fe382f226f4787a3e119c7641ce3d357205570b9.zip"
+      ],
+      "sha256": "d7f3157d3f70a2dc2c64e1838ffe21b712a8addcbc1ab97e6506e889078255c8",
+      "file_size": 303963
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Produkt.ttc",
+      "fonts": [
+        {
+          "name": "Produkt Extralight",
+          "styles": [
+            {
+              "family_name": "Produkt Extralight",
+              "type": "Italic",
+              "full_name": "Produkt Extralight Italic",
+              "post_script_name": "Produkt-ExtralightItalic",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            },
+            {
+              "family_name": "Produkt Extralight",
+              "type": "Regular",
+              "full_name": "Produkt Extralight Regular",
+              "post_script_name": "Produkt-Extralight",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            }
+          ]
+        },
+        {
+          "name": "Produkt Light",
+          "styles": [
+            {
+              "family_name": "Produkt Light",
+              "type": "Italic",
+              "full_name": "Produkt Light Italic",
+              "post_script_name": "Produkt-LightItalic",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            },
+            {
+              "family_name": "Produkt Light",
+              "type": "Regular",
+              "full_name": "Produkt Light Regular",
+              "post_script_name": "Produkt-Light",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            }
+          ]
+        },
+        {
+          "name": "Produkt Medium",
+          "styles": [
+            {
+              "family_name": "Produkt Medium",
+              "type": "Italic",
+              "full_name": "Produkt Medium Italic",
+              "post_script_name": "Produkt-MediumItalic",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            },
+            {
+              "family_name": "Produkt Medium",
+              "type": "Regular",
+              "full_name": "Produkt Medium Regular",
+              "post_script_name": "Produkt-Medium",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            }
+          ]
+        },
+        {
+          "name": "Produkt Regular",
+          "styles": [
+            {
+              "family_name": "Produkt Regular",
+              "type": "Italic",
+              "full_name": "Produkt Regular Italic",
+              "post_script_name": "Produkt-RegularItalic",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            },
+            {
+              "family_name": "Produkt Regular",
+              "type": "Regular",
+              "full_name": "Produkt Regular Regular",
+              "post_script_name": "Produkt-Regular",
+              "version": "15.0d1e7",
+              "copyright": "Copyright (c)2014 Commercial Type."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

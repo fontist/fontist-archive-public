@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font7/yuppy_tc_10m1044",
+  "name": "Yuppy TC",
+  "description": "Yuppy TC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 1991-2008 China Type Design Ltd. Monotype Imaging Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.monotype.com.hk/modules.php?name=Content&showpage&pid=15",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e28431125242b9a298de3296370abdab4a7e8666.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/e28431125242b9a298de3296370abdab4a7e8666.zip"
+      ],
+      "sha256": "105967e51f5e256164c81688a415c816204acf9e575b03523e004eaf7e6aa304",
+      "file_size": 12938926
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yuppy TC",
+      "styles": [
+        {
+          "family_name": "Yuppy TC",
+          "type": "Regular",
+          "full_name": "Yuppy TC Regular",
+          "post_script_name": "YuppyTC-Regular",
+          "version": "13.0d1e1",
+          "copyright": "© 1991-2008 China Type Design Ltd. Monotype Imaging Inc. All rights reserved.",
+          "font": "YuppyTC-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

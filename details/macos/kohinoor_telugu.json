@@ -1,0 +1,50 @@
+{
+  "slug": "macos/kohinoor_telugu",
+  "name": "kohinoor_telugu",
+  "description": "Kohinoor Telugu",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Kohinoor_Telugu.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/6b5456d83a384995b08fdff2f79e0c5e4d3b955b.zip"
+      ],
+      "sha256": "86fdb9028c936f669ceb3c01f54828eb058d5746fa0f2486ebec810ec5a283c3",
+      "file_size": 194474
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KohinoorTeluguComplement.ttc",
+      "fonts": [
+        {
+          "name": "Kohinoor Telugu",
+          "styles": [
+            {
+              "family_name": "Kohinoor Telugu",
+              "type": "Bold",
+              "full_name": "Kohinoor Telugu Bold",
+              "post_script_name": "KohinoorTelugu-Bold",
+              "version": "14.0d1e3",
+              "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+              "description": "Kohinoor Telugu is an elegant low contrast type family suitable for both body and display text in print and on screen. Designed between 2014 and 2015 by Satya Rajpurohit. OpenType production by Liang Hai."
+            },
+            {
+              "family_name": "Kohinoor Telugu",
+              "type": "Semibold",
+              "full_name": "Kohinoor Telugu Semibold",
+              "post_script_name": "KohinoorTelugu-Semibold",
+              "version": "14.0d1e3",
+              "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+              "description": "Kohinoor Telugu is an elegant low contrast type family suitable for both body and display text in print and on screen. Designed between 2014 and 2015 by Satya Rajpurohit. OpenType production by Liang Hai."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "macos/stfangsong_10m11177",
+  "name": "STFangsong",
+  "description": "STFangsong",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2002, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a3481a9eb365c2082a839768ea529575d441a67c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/a3481a9eb365c2082a839768ea529575d441a67c.zip"
+      ],
+      "sha256": "156b05c2535bc7ad58f9c71bcd4ffa2db3bfec47902b28749d0c4168897763ad",
+      "file_size": 10774999,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "STFangsong",
+      "styles": [
+        {
+          "family_name": "STFangsong",
+          "type": "Regular",
+          "full_name": "STFangsong",
+          "post_script_name": "STFangsong",
+          "version": "17.0d1e4",
+          "copyright": "Copyright (c) 2002, Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+          "font": "STFANGSO.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

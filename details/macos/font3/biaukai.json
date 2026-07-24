@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/biaukai",
+  "name": "BiauKai",
+  "description": "BiauKai",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright DynaLab Inc. 1995",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "849abc59bfd2de1ff8c30180a3e7514becfad1f3.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/849abc59bfd2de1ff8c30180a3e7514becfad1f3.zip"
+      ],
+      "sha256": "fe20d244d2c1723a11a951b074789fe7ac11acec0ce2ca1bb6c5cff1e81b29b0",
+      "file_size": 7457399
+    }
+  },
+  "fonts": [
+    {
+      "name": "BiauKai",
+      "styles": [
+        {
+          "family_name": "BiauKai",
+          "type": "Regular",
+          "full_name": "BiauKai",
+          "post_script_name": "DFKaiShu-SB-Estd-BF",
+          "version": "12.0d1e4",
+          "copyright": "(c) Copyright DynaLab Inc. 1995",
+          "font": "BiauKai.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,476 @@
+{
+  "slug": "japanese",
+  "name": "Japanese",
+  "description": "Japanese",
+  "copyright": "(C)2002 data:RICOH Co.,Ltd. typeface:NIPPON TYPE INDUSTRIAL CO.,LTD.",
+  "spdx_license": "LicenseRef-Microsoft-Office2013-1",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Japanese.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/langpacks/-/raw/master/OfficeLangPack2013_JA_x86.exe",
+        "http://download.microsoft.com/download/B/7/B/B7B1A1A5-6ADD-428F-A710-66A745B9037E/OfficeLangPack2013_JA_x86.exe",
+        "https://web.archive.org/web/20200629064305/http://download.microsoft.com/download/B/7/B/B7B1A1A5-6ADD-428F-A710-66A745B9037E/OfficeLangPack2013_JA_x86.exe"
+      ],
+      "sha256": "59c1bf9b00f14120fe66582353893a26a16724ee6b73a4e5b3d7a0eafb1eb163",
+      "file_size": 251887568
+    }
+  },
+  "fonts": [
+    {
+      "name": "HGMaruGothicMPRO",
+      "styles": [
+        {
+          "family_name": "HGMaruGothicMPRO",
+          "type": "Regular",
+          "full_name": "HGMaruGothicMPRO",
+          "post_script_name": "HGMaruGothicMPRO",
+          "version": "5.02",
+          "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO.",
+          "font": "HGRSMP.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HGSeikaishotaiPRO",
+      "styles": [
+        {
+          "family_name": "HGSeikaishotaiPRO",
+          "type": "Regular",
+          "full_name": "HGSeikaishotaiPRO",
+          "post_script_name": "HGSeikaishotaiPRO",
+          "version": "3.01",
+          "copyright": "(C)2002 data:RICOH Co.,Ltd. typeface:NIPPON TYPE INDUSTRIAL CO.,LTD.",
+          "font": "HGRSKP.ttf"
+        }
+      ]
+    },
+    {
+      "name": "MT Extra",
+      "styles": [
+        {
+          "family_name": "MT Extra",
+          "type": "Regular",
+          "full_name": "MT Extra",
+          "post_script_name": "MT-Extra",
+          "version": "3.01",
+          "copyright": "Copyright 1990-92 by Design Science, Inc. (310) 433-0685; part of MathType mathematical equation editor",
+          "font": "MTEXTRA.ttf"
+        }
+      ]
+    },
+    {
+      "name": "OCRB",
+      "styles": [
+        {
+          "family_name": "OCRB",
+          "type": "Regular",
+          "full_name": "OCRB",
+          "post_script_name": "OCRB",
+          "version": "1.55",
+          "copyright": "Data by URW. Copyright © 1993-2002 Microsoft Corporation. All rights reserved.",
+          "font": "OCRB.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": [
+    {
+      "filename": "HGRGE.ttc",
+      "fonts": [
+        {
+          "name": "HGGothicE",
+          "styles": [
+            {
+              "family_name": "HGGothicE",
+              "type": "Regular",
+              "full_name": "HGGothicE",
+              "post_script_name": "HGGothicE",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGPGothicE",
+          "styles": [
+            {
+              "family_name": "HGPGothicE",
+              "type": "Regular",
+              "full_name": "HGPGothicE",
+              "post_script_name": "HGPGothicE",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGSGothicE",
+          "styles": [
+            {
+              "family_name": "HGSGothicE",
+              "type": "Regular",
+              "full_name": "HGSGothicE",
+              "post_script_name": "HGSGothicE",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRGM.ttc",
+      "fonts": [
+        {
+          "name": "HGGothicM",
+          "styles": [
+            {
+              "family_name": "HGGothicM",
+              "type": "Medium",
+              "full_name": "HGGothicM",
+              "post_script_name": "HGGothicM",
+              "version": "Ver.2.02",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀሀ꤁HGGothicMwith RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGPGothicM",
+          "styles": [
+            {
+              "family_name": "HGPGothicM",
+              "type": "Medium",
+              "full_name": "HGPGothicM",
+              "post_script_name": "HGPGothicM",
+              "version": "Ver.2.02",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ᐀긁HGPGothicMith RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGSGothicM",
+          "styles": [
+            {
+              "family_name": "HGSGothicM",
+              "type": "Medium",
+              "full_name": "HGSGothicM",
+              "post_script_name": "HGSGothicM",
+              "version": "Ver.2.02",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ᐀긁HGSGothicMith RYOBI IMAGIX CO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRGY.ttc",
+      "fonts": [
+        {
+          "name": "HGGyoshotai",
+          "styles": [
+            {
+              "family_name": "HGGyoshotai",
+              "type": "Medium",
+              "full_name": "HGGyoshotai",
+              "post_script_name": "HGGyoshotai",
+              "version": "Ver.2.03",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD."
+            }
+          ]
+        },
+        {
+          "name": "HGPGyoshotai",
+          "styles": [
+            {
+              "family_name": "HGPGyoshotai",
+              "type": "Medium",
+              "full_name": "HGPGyoshotai",
+              "post_script_name": "HGPGyoshotai",
+              "version": "Ver.2.03",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD."
+            }
+          ]
+        },
+        {
+          "name": "HGSGyoshotai",
+          "styles": [
+            {
+              "family_name": "HGSGyoshotai",
+              "type": "Medium",
+              "full_name": "HGSGyoshotai",
+              "post_script_name": "HGSGyoshotai",
+              "version": "Ver.2.03",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRKK.ttc",
+      "fonts": [
+        {
+          "name": "HGKyokashotai",
+          "styles": [
+            {
+              "family_name": "HGKyokashotai",
+              "type": "Medium",
+              "full_name": "HGKyokashotai",
+              "post_script_name": "HGKyokashotai",
+              "version": "Ver.2.03",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀᨀHGKyokashotai NIPPON TYPE INDUSTRIAL CO.,LTD."
+            }
+          ]
+        },
+        {
+          "name": "HGPKyokashotai",
+          "styles": [
+            {
+              "family_name": "HGPKyokashotai",
+              "type": "Medium",
+              "full_name": "HGPKyokashotai",
+              "post_script_name": "HGPKyokashotai",
+              "version": "Ver.2.03",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀᰀHGPKyokashotaiNIPPON TYPE INDUSTRIAL CO.,LTD."
+            }
+          ]
+        },
+        {
+          "name": "HGSKyokashotai",
+          "styles": [
+            {
+              "family_name": "HGSKyokashotai",
+              "type": "Medium",
+              "full_name": "HGSKyokashotai",
+              "post_script_name": "HGSKyokashotai",
+              "version": "Ver.2.03",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀᰀHGSKyokashotaiNIPPON TYPE INDUSTRIAL CO.,LTD."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRMB.ttc",
+      "fonts": [
+        {
+          "name": "HGMinchoB",
+          "styles": [
+            {
+              "family_name": "HGMinchoB",
+              "type": "Bold",
+              "full_name": "HGMinchoB",
+              "post_script_name": "HGMinchoB",
+              "version": "Ver.2.02",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀሀ꜁HGMinchoBwith RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGPMinchoB",
+          "styles": [
+            {
+              "family_name": "HGPMinchoB",
+              "type": "Bold",
+              "full_name": "HGPMinchoB",
+              "post_script_name": "HGPMinchoB",
+              "version": "Ver.2.02",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ᐀각HGPMinchoBith RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGSMinchoB",
+          "styles": [
+            {
+              "family_name": "HGSMinchoB",
+              "type": "Bold",
+              "full_name": "HGSMinchoB",
+              "post_script_name": "HGSMinchoB",
+              "version": "Ver.2.02",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ᐀각HGSMinchoBith RYOBI IMAGIX CO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRME.ttc",
+      "fonts": [
+        {
+          "name": "HGMinchoE",
+          "styles": [
+            {
+              "family_name": "HGMinchoE",
+              "type": "Regular",
+              "full_name": "HGMinchoE",
+              "post_script_name": "HGMinchoE",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGPMinchoE",
+          "styles": [
+            {
+              "family_name": "HGPMinchoE",
+              "type": "Regular",
+              "full_name": "HGPMinchoE",
+              "post_script_name": "HGPMinchoE",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO."
+            }
+          ]
+        },
+        {
+          "name": "HGSMinchoE",
+          "styles": [
+            {
+              "family_name": "HGSMinchoE",
+              "type": "Regular",
+              "full_name": "HGSMinchoE",
+              "post_script_name": "HGSMinchoE",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:RYOBI IMAGIX CO."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRPP1.ttc",
+      "fonts": [
+        {
+          "name": "HGPSoeiKakupoptai",
+          "styles": [
+            {
+              "family_name": "HGPSoeiKakupoptai",
+              "type": "Regular",
+              "full_name": "HGPSoeiKakupoptai",
+              "post_script_name": "HGPSoeiKakupoptai",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:Soeikikaku Co.,ltd."
+            }
+          ]
+        },
+        {
+          "name": "HGSSoeiKakupoptai",
+          "styles": [
+            {
+              "family_name": "HGSSoeiKakupoptai",
+              "type": "Regular",
+              "full_name": "HGSSoeiKakupoptai",
+              "post_script_name": "HGSSoeiKakupoptai",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:Soeikikaku Co.,ltd."
+            }
+          ]
+        },
+        {
+          "name": "HGSoeiKakupoptai",
+          "styles": [
+            {
+              "family_name": "HGSoeiKakupoptai",
+              "type": "Regular",
+              "full_name": "HGSoeiKakupoptai",
+              "post_script_name": "HGSoeiKakupoptai",
+              "version": "5.02",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:Soeikikaku Co.,ltd."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRPRE.ttc",
+      "fonts": [
+        {
+          "name": "HGPSoeiPresenceEB",
+          "styles": [
+            {
+              "family_name": "HGPSoeiPresenceEB",
+              "type": "Extra-Bold",
+              "full_name": "HGPSoeiPresenceEB",
+              "post_script_name": "HGPSoeiPresenceEB",
+              "version": "Ver. 2.01",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ∀HGPSoeiPresenceEBikikaku Co.,ltd."
+            }
+          ]
+        },
+        {
+          "name": "HGSSoeiPresenceEB",
+          "styles": [
+            {
+              "family_name": "HGSSoeiPresenceEB",
+              "type": "Extra-Bold",
+              "full_name": "HGSSoeiPresenceEB",
+              "post_script_name": "HGSSoeiPresenceEB",
+              "version": "Ver. 2.01",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ∀HGSSoeiPresenceEBikikaku Co.,ltd."
+            }
+          ]
+        },
+        {
+          "name": "HGSoeiPresenceEB",
+          "styles": [
+            {
+              "family_name": "HGSoeiPresenceEB",
+              "type": "Extra-Bold",
+              "full_name": "HGSoeiPresenceEB",
+              "post_script_name": "HGSoeiPresenceEB",
+              "version": "Ver. 2.01",
+              "copyright": "(C) 1997 RICOH COMPANY,LTD.This typeface developed under the lic̀ĀऄĀ HGSoeiPresenceEBeikikaku Co.,ltd."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "filename": "HGRSGU.ttc",
+      "fonts": [
+        {
+          "name": "HGPSoeiKakugothicUB",
+          "styles": [
+            {
+              "family_name": "HGPSoeiKakugothicUB",
+              "type": "Regular",
+              "full_name": "HGPSoeiKakugothicUB",
+              "post_script_name": "HGPSoeiKakugothicUB",
+              "version": "5.01",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:Soeikikaku Co.,ltd."
+            }
+          ]
+        },
+        {
+          "name": "HGSSoeiKakugothicUB",
+          "styles": [
+            {
+              "family_name": "HGSSoeiKakugothicUB",
+              "type": "Regular",
+              "full_name": "HGSSoeiKakugothicUB",
+              "post_script_name": "HGSSoeiKakugothicUB",
+              "version": "5.01",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:Soeikikaku Co.,ltd."
+            }
+          ]
+        },
+        {
+          "name": "HGSoeiKakugothicUB",
+          "styles": [
+            {
+              "family_name": "HGSoeiKakugothicUB",
+              "type": "Regular",
+              "full_name": "HGSoeiKakugothicUB",
+              "post_script_name": "HGSoeiKakugothicUB",
+              "version": "5.01",
+              "copyright": "(C)2009 data:RICOH Co.,Ltd. typeface:Soeikikaku Co.,ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "slug": "ms_truetype",
+  "name": "ms_truetype",
+  "description": "Microsoft TrueType Core fonts for the Web",
+  "homepage": "https://www.microsoft.com",
+  "spdx_license": "LicenseRef-Microsoft-fontpack-19980728",
+  "redistributable": false,
+  "source_format": "EXE",
+  "resources": {
+    "EUupdate.EXE": {
+      "urls": [
+        "https://web.archive.org/web/20200803210116id_/https://download.microsoft.com/download/a/1/8/a180e21e-9c2b-4b54-9c32-bf7fd7429970/EUupdate.EXE",
+        "https://gitlab.com/fontmirror/archive/-/raw/master/EUupdate.EXE"
+      ],
+      "sha256": "464dd2cd5f09f489f9ac86ea7790b7b8548fc4e46d9f889b68d2cdce47e09ea8",
+      "file_size": 1675184
+    }
+  },
+  "fonts": [
+    {
+      "name": "Arial",
+      "styles": [
+        {
+          "family_name": "Arial",
+          "type": "Regular",
+          "full_name": "Arial",
+          "post_script_name": "ArialMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "Arial.ttf"
+        },
+        {
+          "family_name": "Arial",
+          "type": "Bold",
+          "full_name": "Arial Bold",
+          "post_script_name": "Arial-BoldMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "ArialBd.ttf"
+        },
+        {
+          "family_name": "Arial",
+          "type": "Bold Italic",
+          "full_name": "Arial Bold Italic",
+          "post_script_name": "Arial-BoldItalicMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "ArialBI.ttf"
+        },
+        {
+          "family_name": "Arial",
+          "type": "Italic",
+          "full_name": "Arial Italic",
+          "post_script_name": "Arial-ItalicMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "ArialI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Trebuchet",
+      "styles": [
+        {
+          "family_name": "Trebuchet MS",
+          "type": "Italic",
+          "full_name": "Trebuchet MS Italic",
+          "post_script_name": "TrebuchetMS-Italic",
+          "version": "5.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Trebuchet, designed by Vincent Connare in 1996, is a humanist sans serif designed for easy screen readability. Trebuchet takes its inspiration from the sans serifs of the 1930s which had large x heights and round features intended to promote readability on signs. The typeface name is credited to a puzzle heard at Microsoft, where the question was asked, \"could you build a Trebuchet (a form of medieval catapult) to launch a person from the main campus to the consumer campus, and how?\" The Trebuchet fonts are intended to be the vehicle that fires your messages across the Internet. \"Launch your message with a Trebuchet page\".",
+          "font": "trebucit.ttf"
+        },
+        {
+          "family_name": "Trebuchet MS",
+          "type": "Regular",
+          "full_name": "Trebuchet MS",
+          "post_script_name": "TrebuchetMS",
+          "version": "5.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Trebuchet, designed by Vincent Connare in 1996, is a humanist sans serif designed for easy screen readability. Trebuchet takes its inspiration from the sans serifs of the 1930s which had large x heights and round features intended to promote readability on signs. The typeface name is credited to a puzzle heard at Microsoft, where the question was asked, \"could you build a Trebuchet (a form of medieval catapult) to launch a person from the main campus to the consumer campus, and how?\" The Trebuchet fonts are intended to be the vehicle that fires your messages across the Internet. \"Launch your message with a Trebuchet page\".",
+          "font": "trebuc.ttf"
+        },
+        {
+          "family_name": "Trebuchet MS",
+          "type": "Bold",
+          "full_name": "Trebuchet MS Bold",
+          "post_script_name": "TrebuchetMS-Bold",
+          "version": "5.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Trebuchet, designed by Vincent Connare in 1996, is a humanist sans serif designed for easy screen readability. Trebuchet takes its inspiration from the sans serifs of the 1930s which had large x heights and round features intended to promote readability on signs. The typeface name is credited to a puzzle heard at Microsoft, where the question was asked, \"could you build a Trebuchet (a form of medieval catapult) to launch a person from the main campus to the consumer campus, and how?\" The Trebuchet fonts are intended to be the vehicle that fires your messages across the Internet. \"Launch your message with a Trebuchet page\".",
+          "font": "trebucbd.ttf"
+        },
+        {
+          "family_name": "Trebuchet MS",
+          "type": "Bold Italic",
+          "full_name": "Trebuchet MS Bold Italic",
+          "post_script_name": "Trebuchet-BoldItalic",
+          "version": "5.00",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "Trebuchet, designed by Vincent Connare in 1996, is a humanist sans serif designed for easy screen readability. Trebuchet takes its inspiration from the sans serifs of the 1930s which had large x heights and round features intended to promote readability on signs. The typeface name is credited to a puzzle heard at Microsoft, where the question was asked, \"could you build a Trebuchet (a form of medieval catapult) to launch a person from the main campus to the consumer campus, and how?\" The Trebuchet fonts are intended to be the vehicle that fires your messages across the Internet. \"Launch your message with a Trebuchet page\".",
+          "font": "trebucbi.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Verdana",
+      "styles": [
+        {
+          "family_name": "Verdana",
+          "type": "Regular",
+          "full_name": "Verdana",
+          "post_script_name": "Verdana",
+          "version": "5.01",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "Verdana.ttf"
+        },
+        {
+          "family_name": "Verdana",
+          "type": "Bold",
+          "full_name": "Verdana Bold",
+          "post_script_name": "Verdana-Bold",
+          "version": "5.01",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "Verdanab.ttf"
+        },
+        {
+          "family_name": "Verdana",
+          "type": "Italic",
+          "full_name": "Verdana Italic",
+          "post_script_name": "Verdana-Italic",
+          "version": "5.01",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "Verdanai.ttf"
+        },
+        {
+          "family_name": "Verdana",
+          "type": "Bold Italic",
+          "full_name": "Verdana Bold Italic",
+          "post_script_name": "Verdana-BoldItalic",
+          "version": "5.01",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "font": "Verdanaz.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Times New Roman",
+      "styles": [
+        {
+          "family_name": "Times New Roman",
+          "type": "Regular",
+          "full_name": "Times New Roman",
+          "post_script_name": "TimesNewRomanPSMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "Times.ttf"
+        },
+        {
+          "family_name": "Times New Roman",
+          "type": "Bold",
+          "full_name": "Times New Roman Bold",
+          "post_script_name": "TimesNewRomanPS-BoldMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "TimesBd.ttf"
+        },
+        {
+          "family_name": "Times New Roman",
+          "type": "Bold Italic",
+          "full_name": "Times New Roman Bold Italic",
+          "post_script_name": "TimesNewRomanPS-BoldItalicMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "TimesBI.ttf"
+        },
+        {
+          "family_name": "Times New Roman",
+          "type": "Italic",
+          "full_name": "Times New Roman Italic",
+          "post_script_name": "TimesNewRomanPS-ItalicMT",
+          "version": "3.06",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "font": "TimesI.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

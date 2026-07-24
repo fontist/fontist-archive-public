@@ -1,0 +1,48 @@
+{
+  "slug": "macos/gujarati_mt_10m11177",
+  "name": "Gujarati MT",
+  "description": "Gujarati MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � Monotype Typography Ltd 1996 . All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "85045dfebef9c3e2ec95bfad39424bb3afcee53c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/85045dfebef9c3e2ec95bfad39424bb3afcee53c.zip"
+      ],
+      "sha256": "2788e5619360a8323af61cee11f67479254c735b0ef751aa3e8a1b1011b7cf30",
+      "file_size": 202007
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "GujaratiMT.ttc",
+      "fonts": [
+        {
+          "name": "Gujarati MT",
+          "styles": [
+            {
+              "family_name": "Gujarati MT",
+              "type": "Bold",
+              "full_name": "Gujarati MT Bold",
+              "post_script_name": "GujaratiMT-Bold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright � Monotype Typography Ltd 1994 . All rights reserved."
+            },
+            {
+              "family_name": "Gujarati MT",
+              "type": "Regular",
+              "full_name": "Gujarati MT",
+              "post_script_name": "GujaratiMT",
+              "version": "20.0d1e2",
+              "copyright": "Copyright � Monotype Typography Ltd 1996 . All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font8/al_khalil_10m11177",
+  "name": "Al Khalil",
+  "description": "Al Khalil",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Al-Khalil (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "69e7e9e9384a5bd7f0f8f34a7b39acd661fc8aaa.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/69e7e9e9384a5bd7f0f8f34a7b39acd661fc8aaa.zip"
+      ],
+      "sha256": "35930a85da6610e2f5e38ddab8a4e8c56e0d0dd73d2c3060f98fd4c41c88f0c6",
+      "file_size": 58125
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AlKhalil.ttc",
+      "fonts": [
+        {
+          "name": ".AlKhalil PUA",
+          "styles": [
+            {
+              "family_name": ".AlKhalil PUA",
+              "type": "Bold",
+              "full_name": ".Al-Khalil PUA Bold",
+              "post_script_name": ".Al-KhalilPUABold",
+              "version": "13.0d2e3",
+              "copyright": "Al-Khalil (c) 2013 Diwan Software Ltd."
+            },
+            {
+              "family_name": ".AlKhalil PUA",
+              "type": "Regular",
+              "full_name": ".Al-Khalil PUA",
+              "post_script_name": ".Al-KhalilPUA",
+              "version": "13.0d2e3",
+              "copyright": "Al-Khalil (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Al Khalil",
+          "styles": [
+            {
+              "family_name": "Al Khalil",
+              "type": "Bold",
+              "full_name": "Al Khalil Bold",
+              "post_script_name": "Al-KhalilBold",
+              "version": "13.0d2e3",
+              "copyright": "Al-Khalil (c) 2013 Diwan Software Ltd."
+            },
+            {
+              "family_name": "Al Khalil",
+              "type": "Regular",
+              "full_name": "Al Khalil Regular",
+              "post_script_name": "Al-Khalil",
+              "version": "13.0d2e3",
+              "copyright": "Al-Khalil (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

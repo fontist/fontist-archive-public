@@ -1,0 +1,37 @@
+{
+  "slug": "macos/santa_fe_let_10m11177",
+  "name": "Santa Fe LET",
+  "description": "Santa Fe LET",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "229d6eaa466edc90bc6d05ae3b4141daa13809a4.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/229d6eaa466edc90bc6d05ae3b4141daa13809a4.zip"
+      ],
+      "sha256": "a422cedea201e9f9aea703d7e1e0d822f3e189c95c64433bcb1fedd2c3423894",
+      "file_size": 50950,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Santa Fe LET",
+      "styles": [
+        {
+          "family_name": "Santa Fe LET",
+          "type": "Plain",
+          "full_name": "Santa Fe LET Plain:1.0",
+          "post_script_name": "SantaFeLetPlain",
+          "version": "13.0d1e3",
+          "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+          "font": "SantaFeLETFonts.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

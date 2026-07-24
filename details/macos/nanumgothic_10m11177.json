@@ -1,0 +1,65 @@
+{
+  "slug": "macos/nanumgothic_10m11177",
+  "name": "NanumGothic",
+  "description": "NanumGothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.nhncorp.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c228698503a79411e2d1235a16f83d79970c498a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/c228698503a79411e2d1235a16f83d79970c498a.zip"
+      ],
+      "sha256": "ea20ee14cab4668ee78c6061ea94187cea256ebec8c38ffd502aeec87c2511c6",
+      "file_size": 7175246
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "NanumGothic.ttc",
+      "fonts": [
+        {
+          "name": "NanumGothic",
+          "styles": [
+            {
+              "family_name": "NanumGothic",
+              "type": "Bold",
+              "full_name": "NanumGothic Bold",
+              "post_script_name": "NanumGothicBold",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+              "description": "NHN Corporation"
+            },
+            {
+              "family_name": "NanumGothic",
+              "type": "Regular",
+              "full_name": "NanumGothic",
+              "post_script_name": "NanumGothic",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+              "description": "NHN Corporation"
+            }
+          ]
+        },
+        {
+          "name": "NanumGothic ExtraBold",
+          "styles": [
+            {
+              "family_name": "NanumGothic ExtraBold",
+              "type": "ExtraBold",
+              "full_name": "NanumGothic ExtraBold",
+              "post_script_name": "NanumGothicExtraBold",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+              "description": "NHN Corporation"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

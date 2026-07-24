@@ -1,0 +1,80 @@
+{
+  "slug": "macos/font4/sukhumvit_set",
+  "name": "Sukhumvit Set",
+  "description": "Sukhumvit Set",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "25055c0bf0ccc50c89b6ab69449f560199b63af4.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/25055c0bf0ccc50c89b6ab69449f560199b63af4.zip"
+      ],
+      "sha256": "8c061d2088ad288b37fd9739ac34c39c44acd376e5e9c922e6e694da3bae72e2",
+      "file_size": 288945
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SukhumvitSet.ttc",
+      "fonts": [
+        {
+          "name": "Sukhumvit Set",
+          "styles": [
+            {
+              "family_name": "Sukhumvit Set",
+              "type": "Bold",
+              "full_name": "SukhumvitSet-Bold",
+              "post_script_name": "SukhumvitSet-Bold",
+              "version": "13.0d1e6",
+              "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved."
+            },
+            {
+              "family_name": "Sukhumvit Set",
+              "type": "Light",
+              "full_name": "SukhumvitSet-Light",
+              "post_script_name": "SukhumvitSet-Light",
+              "version": "13.0d1e6",
+              "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved."
+            },
+            {
+              "family_name": "Sukhumvit Set",
+              "type": "Medium",
+              "full_name": "SukhumvitSet-Medium",
+              "post_script_name": "SukhumvitSet-Medium",
+              "version": "13.0d1e6",
+              "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved."
+            },
+            {
+              "family_name": "Sukhumvit Set",
+              "type": "Semi Bold",
+              "full_name": "SukhumvitSet-SemiBold",
+              "post_script_name": "SukhumvitSet-SemiBold",
+              "version": "13.0d1e6",
+              "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved."
+            },
+            {
+              "family_name": "Sukhumvit Set",
+              "type": "Text",
+              "full_name": "SukhumvitSet-Text",
+              "post_script_name": "SukhumvitSet-Text",
+              "version": "13.0d1e6",
+              "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved."
+            },
+            {
+              "family_name": "Sukhumvit Set",
+              "type": "Thin",
+              "full_name": "SukhumvitSet-Thin",
+              "post_script_name": "SukhumvitSet-Thin",
+              "version": "13.0d1e6",
+              "copyright": "Copyright © 2009, 2013 Cadson Demak Co. Ltd., Thailand. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

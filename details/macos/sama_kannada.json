@@ -1,0 +1,101 @@
+{
+  "slug": "macos/sama_kannada",
+  "name": "sama_kannada",
+  "description": "Sama Kannada",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://ektype.in/EULA-EK-TYPE.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Sama_Kannada.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/eb39e6a58df985ec9141f499f2911cd48a4c7bc3.zip"
+      ],
+      "sha256": "38e7fac56a40b5746809d3b2122cc5c0de53e177fc2565c9689ba5df6d89d66d",
+      "file_size": 765371
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SamaKannada.ttc",
+      "fonts": [
+        {
+          "name": "Sama Kannada",
+          "styles": [
+            {
+              "family_name": "Sama Kannada",
+              "type": "Bold",
+              "full_name": "Sama Kannada Bold",
+              "post_script_name": "SamaKannada-Bold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            },
+            {
+              "family_name": "Sama Kannada",
+              "type": "Regular",
+              "full_name": "Sama Kannada Regular",
+              "post_script_name": "SamaKannada-Regular",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada Book",
+          "styles": [
+            {
+              "family_name": "Sama Kannada Book",
+              "type": "Regular",
+              "full_name": "Sama Kannada Book",
+              "post_script_name": "SamaKannada-Book",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada ExtraBold",
+          "styles": [
+            {
+              "family_name": "Sama Kannada ExtraBold",
+              "type": "Regular",
+              "full_name": "Sama Kannada ExtraBold",
+              "post_script_name": "SamaKannada-ExtraBold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada Medium",
+          "styles": [
+            {
+              "family_name": "Sama Kannada Medium",
+              "type": "Regular",
+              "full_name": "Sama Kannada Medium",
+              "post_script_name": "SamaKannada-Medium",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Kannada SemiBold",
+          "styles": [
+            {
+              "family_name": "Sama Kannada SemiBold",
+              "type": "Regular",
+              "full_name": "Sama Kannada SemiBold",
+              "post_script_name": "SamaKannada-SemiBold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

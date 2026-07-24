@@ -1,0 +1,37 @@
+{
+  "slug": "macos/hei_10m11177",
+  "name": "Hei",
+  "description": "Hei",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "�Copyright Shanghai Ikarus Ltd. 1993 1994 1995",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e7c9fcae6370ac7888989d835827600e106a597a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/e7c9fcae6370ac7888989d835827600e106a597a.zip"
+      ],
+      "sha256": "62196d7ee57f313ad8673a2be9abe4a3d06389f0772eed9c02efc8b04db04a22",
+      "file_size": 4829516,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hei",
+      "styles": [
+        {
+          "family_name": "Hei",
+          "type": "Regular",
+          "full_name": "Hei Regular",
+          "post_script_name": "SIL-Hei-Med-Jian",
+          "version": "13.0d1e4",
+          "copyright": "�Copyright Shanghai Ikarus Ltd. 1993 1994 1995",
+          "font": "Hei.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

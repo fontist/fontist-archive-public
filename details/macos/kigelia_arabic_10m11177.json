@@ -1,0 +1,92 @@
+{
+  "slug": "macos/kigelia_arabic_10m11177",
+  "name": "Kigelia Arabic",
+  "description": "Kigelia Arabic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2019 by Jamra Patel. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "69dd89af28d2910365f889507d52a4a52a27d3d9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/69dd89af28d2910365f889507d52a4a52a27d3d9.zip"
+      ],
+      "sha256": "51caa9e7f71aa04741ecd9251803c1a5e0b7a75d1d925cd50fc8c71c87ccc696",
+      "file_size": 575198
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KigeliaArabic.ttc",
+      "fonts": [
+        {
+          "name": "Kigelia Arabic",
+          "styles": [
+            {
+              "family_name": "Kigelia Arabic",
+              "type": "Bold",
+              "full_name": "Kigelia Arabic Bold",
+              "post_script_name": "KigeliaArabic-Bold",
+              "version": "18.0d1e3",
+              "copyright": "Copyright (c) 2019 by Jamra Patel. All rights reserved.",
+              "description": "This font is licensed to Microsoft Inc. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use without proper licensing is prohibited. *************************************** For information about licensing, please contact JamraPatel LLC at http://www.jamra-patel.com/contact/"
+            },
+            {
+              "family_name": "Kigelia Arabic",
+              "type": "Regular",
+              "full_name": "Kigelia Arabic Regular",
+              "post_script_name": "KigeliaArabic-Regular",
+              "version": "18.0d1e3",
+              "copyright": "Copyright (c) 2019 by Jamra Patel. All rights reserved.",
+              "description": "This font is licensed to Microsoft Inc. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use without proper licensing is prohibited. *************************************** For information about licensing, please contact JamraPatel LLC at http://www.jamra-patel.com/contact/"
+            }
+          ]
+        },
+        {
+          "name": "Kigelia Arabic Extrabold",
+          "styles": [
+            {
+              "family_name": "Kigelia Arabic Extrabold",
+              "type": "Regular",
+              "full_name": "Kigelia Arabic Extrabold",
+              "post_script_name": "KigeliaArabic-Extrabold",
+              "version": "18.0d1e3",
+              "copyright": "Copyright (c) 2019 by Jamra Patel. All rights reserved.",
+              "description": "This font is licensed to Microsoft Inc. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use without proper licensing is prohibited. *************************************** For information about licensing, please contact JamraPatel LLC at http://www.jamra-patel.com/contact/"
+            }
+          ]
+        },
+        {
+          "name": "Kigelia Arabic Light",
+          "styles": [
+            {
+              "family_name": "Kigelia Arabic Light",
+              "type": "Regular",
+              "full_name": "Kigelia Arabic Light",
+              "post_script_name": "KigeliaArabic-Light",
+              "version": "18.0d1e3",
+              "copyright": "Copyright (c) 2019 by Jamra Patel. All rights reserved.",
+              "description": "This font is licensed to Microsoft Inc. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use without proper licensing is prohibited. *************************************** For information about licensing, please contact JamraPatel LLC at http://www.jamra-patel.com/contact/"
+            }
+          ]
+        },
+        {
+          "name": "Kigelia Arabic Semibold",
+          "styles": [
+            {
+              "family_name": "Kigelia Arabic Semibold",
+              "type": "Regular",
+              "full_name": "Kigelia Arabic Semibold",
+              "post_script_name": "KigeliaArabic-Semibold",
+              "version": "18.0d1e3",
+              "copyright": "Copyright (c) 2019 by Jamra Patel. All rights reserved.",
+              "description": "This font is licensed to Microsoft Inc. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use without proper licensing is prohibited. *************************************** For information about licensing, please contact JamraPatel LLC at http://www.jamra-patel.com/contact/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

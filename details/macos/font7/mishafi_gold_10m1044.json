@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/mishafi_gold_10m1044",
+  "name": "Mishafi Gold",
+  "description": "Mishafi Gold",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1998-2000 Diwan Software Ltd. All rights reserved",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "65fc8ae867688b4a9bd14ff55b9471b62af9c080.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/65fc8ae867688b4a9bd14ff55b9471b62af9c080.zip"
+      ],
+      "sha256": "efe77c3baf432619931baea34ea760a4d2fdee9f5b647cf88b73fae1afec9774",
+      "file_size": 193752
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mishafi Gold",
+      "styles": [
+        {
+          "family_name": "Mishafi Gold",
+          "type": "Regular",
+          "full_name": "Mishafi Gold Regular",
+          "post_script_name": "DiwanMishafiGold",
+          "version": "13.0d2e1",
+          "copyright": "� 1998-2000 Diwan Software Ltd. All rights reserved",
+          "font": "MishafiGold.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

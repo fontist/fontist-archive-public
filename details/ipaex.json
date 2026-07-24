@@ -1,0 +1,53 @@
+{
+  "slug": "ipaex",
+  "name": "ipaex",
+  "description": "IPAex",
+  "homepage": "https://moji.or.jp/ipafont/ipaex00401/",
+  "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "https://opensource.org/licenses/IPA/",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "IPAex.zip": {
+      "urls": [
+        "https://moji.or.jp/wp-content/ipafont/IPAexfont/IPAexfont00401.zip"
+      ],
+      "sha256": "bcf8374ab3f9672c421120430dd19a51c99f5265cf06fc340d9a661ddfd7974b",
+      "file_size": 9738669
+    }
+  },
+  "fonts": [
+    {
+      "name": "IPAexGothic",
+      "styles": [
+        {
+          "family_name": "IPAexGothic",
+          "type": "Regular",
+          "full_name": "IPAexGothic",
+          "post_script_name": "IPAexGothic",
+          "version": "004.01",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+          "description": "ゴシック体",
+          "font": "ipaexg.ttf"
+        }
+      ]
+    },
+    {
+      "name": "IPAexMincho",
+      "styles": [
+        {
+          "family_name": "IPAexMincho",
+          "type": "Regular",
+          "full_name": "IPAexMincho",
+          "post_script_name": "IPAexMincho",
+          "version": "004.01",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+          "description": "明朝体",
+          "font": "ipaexm.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

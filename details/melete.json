@@ -1,0 +1,93 @@
+{
+  "slug": "melete",
+  "name": "Melete",
+  "description": "Melete",
+  "homepage": "http://dotcolon.net",
+  "copyright": "©2022 DOT COLON.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "melete_0200.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/melete_0200.zip"
+      ],
+      "sha256": "fb4346e9eb31a318c25ef6af6be8b6953a302648f9d2c86a110f22337db16363",
+      "file_size": 26436
+    }
+  },
+  "fonts": [
+    {
+      "name": "Melete",
+      "styles": [
+        {
+          "family_name": "Melete",
+          "type": "Regular",
+          "full_name": "Melete Regular",
+          "post_script_name": "Melete-Regular",
+          "version": "0.200;FEAKit 1.0",
+          "copyright": "©2022 DOT COLON.",
+          "font": "Melete-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Melete Bold",
+      "styles": [
+        {
+          "family_name": "Melete Bold",
+          "type": "Regular",
+          "full_name": "Melete Bold",
+          "post_script_name": "Melete-Bold",
+          "version": "0.200;FEAKit 1.0",
+          "copyright": "©2022 DOT COLON.",
+          "font": "Melete-Bold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Melete Light",
+      "styles": [
+        {
+          "family_name": "Melete Light",
+          "type": "Regular",
+          "full_name": "Melete Light",
+          "post_script_name": "Melete-Light",
+          "version": "0.200;FEAKit 1.0",
+          "copyright": "©2022 DOT COLON.",
+          "font": "Melete-Light.otf"
+        }
+      ]
+    },
+    {
+      "name": "Melete Medium",
+      "styles": [
+        {
+          "family_name": "Melete Medium",
+          "type": "Regular",
+          "full_name": "Melete Medium",
+          "post_script_name": "Melete-Medium",
+          "version": "0.200;FEAKit 1.0",
+          "copyright": "©2022 DOT COLON.",
+          "font": "Melete-Medium.otf"
+        }
+      ]
+    },
+    {
+      "name": "Melete UltraLight",
+      "styles": [
+        {
+          "family_name": "Melete UltraLight",
+          "type": "Regular",
+          "full_name": "Melete UltraLight",
+          "post_script_name": "Melete-UltraLight",
+          "version": "0.200;FEAKit 1.0",
+          "copyright": "©2022 DOT COLON.",
+          "font": "Melete-UltraLight.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/al_firat",
+  "name": "Al Firat",
+  "description": "Al Firat",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "AlFirat (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ab11271b1964d80de2d8b87daa6cbc86c06c124a.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/ab11271b1964d80de2d8b87daa6cbc86c06c124a.zip"
+      ],
+      "sha256": "3977288a5f6a24146876d0b8a9556f8945d2dd1a9a2120f842dcb4ec2ffd497f",
+      "file_size": 34333
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AlFirat.ttc",
+      "fonts": [
+        {
+          "name": ".Al-Firat PUA",
+          "styles": [
+            {
+              "family_name": ".Al-Firat PUA",
+              "type": "Regular",
+              "full_name": ".Al-Firat PUA",
+              "post_script_name": ".Al-FiratPUA",
+              "version": "13.0d2e10",
+              "copyright": "AlFirat (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Al Firat",
+          "styles": [
+            {
+              "family_name": "Al Firat",
+              "type": "Regular",
+              "full_name": "Al Firat Regular",
+              "post_script_name": "Al-Firat",
+              "version": "13.0d2e10",
+              "copyright": "AlFirat (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

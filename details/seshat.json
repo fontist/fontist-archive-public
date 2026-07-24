@@ -1,0 +1,37 @@
+{
+  "slug": "seshat",
+  "name": "Seshat",
+  "description": "Seshat",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "No Rights Reserved.",
+  "spdx_license": "CC0-1.0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "seshat_0100.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/seshat_0100.zip"
+      ],
+      "sha256": "cad99de1e6755f1720c63b6fd37f23b87f3284ae8728271b62e48d9420c1140f",
+      "file_size": 17980
+    }
+  },
+  "fonts": [
+    {
+      "name": "Seshat",
+      "styles": [
+        {
+          "family_name": "Seshat",
+          "type": "Regular",
+          "full_name": "Seshat-Regular",
+          "post_script_name": "Seshat-Regular",
+          "version": "1.000;PS 001.000;hotconv 1.0.56;makeotf.lib2.0.21325",
+          "copyright": "No Rights Reserved.",
+          "font": "Seshat.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

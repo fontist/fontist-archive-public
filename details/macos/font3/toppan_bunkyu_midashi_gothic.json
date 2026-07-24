@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/toppan_bunkyu_midashi_gothic",
+  "name": "Toppan Bunkyu Midashi Gothic",
+  "description": "Toppan Bunkyu Midashi Gothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver1.00, Copyright © 2013 - 2016 Toppan Printing Co., Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3464d468aaf3415bded5c10f7ae71b0252ee389b.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/3464d468aaf3415bded5c10f7ae71b0252ee389b.zip"
+      ],
+      "sha256": "090b5e8ec784b188365cce85edc011d975eb1ef83a58450f160b7af51e15737c",
+      "file_size": 2300278
+    }
+  },
+  "fonts": [
+    {
+      "name": "Toppan Bunkyu Midashi Gothic Extrabold",
+      "styles": [
+        {
+          "family_name": "Toppan Bunkyu Midashi Gothic Extrabold",
+          "type": "Regular",
+          "full_name": "Toppan Bunkyu Midashi Gothic Extrabold",
+          "post_script_name": "ToppanBunkyuMidashiGothicStdN-ExtraBold",
+          "version": "11.0d6e2",
+          "copyright": "ver1.00, Copyright © 2013 - 2016 Toppan Printing Co., Ltd. All rights reserved.",
+          "font": "ToppanBunkyuMidashiGothic-ExtraBold.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/bordeaux_roman_bold_let_10m1360",
+  "name": "Bordeaux Roman Bold LET",
+  "description": "Bordeaux Roman Bold LET",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1990 Esselte Letraset Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e0ebe5aad37f1429aee06b3991d1c54989a6ef3d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/e0ebe5aad37f1429aee06b3991d1c54989a6ef3d.zip"
+      ],
+      "sha256": "0e856eb3d8a798468e13fc0b525d94deaf3eda642ac283b4b38c61cbf14b2687",
+      "file_size": 49634
+    }
+  },
+  "fonts": [
+    {
+      "name": "Bordeaux Roman Bold LET",
+      "styles": [
+        {
+          "family_name": "Bordeaux Roman Bold LET",
+          "type": "Plain",
+          "full_name": "Bordeaux Roman Bold LET Plain",
+          "post_script_name": "BordeauxRomanBoldLetPlain",
+          "version": "13.0d3e2",
+          "copyright": "Copyright � 1990 Esselte Letraset Ltd. All rights reserved.",
+          "font": "BordeauxRomanBoldLetPlain.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

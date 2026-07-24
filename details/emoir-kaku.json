@@ -1,0 +1,37 @@
+{
+  "slug": "emoir-kaku",
+  "name": "emoir-kaku",
+  "description": "emoir-kaku",
+  "homepage": "http://modi.jpn.org/",
+  "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "emoir-kaku.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_emoir-kaku_2018_063020.zip"
+      ],
+      "sha256": "18d532f707c71eb98c9d3e8ff2e7f277a6c7ddeb629ccd34b9e01339334ad967",
+      "file_size": 1077283
+    }
+  },
+  "fonts": [
+    {
+      "name": "emoir-kaku",
+      "styles": [
+        {
+          "family_name": "emoir-kaku",
+          "type": "Regular",
+          "full_name": "emoir-kaku",
+          "post_script_name": "emoir-kaku",
+          "version": "1.00.20180630",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "emoir-kaku.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

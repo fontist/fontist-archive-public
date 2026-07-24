@@ -1,0 +1,36 @@
+{
+  "slug": "mutsuki_kana",
+  "name": "mutsuki_kana",
+  "description": "Mutsuki Kana",
+  "homepage": "https://mandel59.github.io/mutsuki/",
+  "copyright": "Copyright (c) 2008-2011 Gutenberg Labo. Copyright (c) 2012 Ryusei Yamaguchi.",
+  "spdx_license": "LicenseRef-mutsuki-license",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Mutsuki_Kana.zip": {
+      "urls": [
+        "https://github.com/mandel59/mutsuki/releases/download/v19.232/Mutsuki-kana.ttf.zip"
+      ],
+      "sha256": "aa706529c0e9774584d75c789d2d1d749f4eeec92f7b6552740075303ff8b7ea",
+      "file_size": 24744
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mutsuki Kana",
+      "styles": [
+        {
+          "family_name": "Mutsuki Kana",
+          "type": "Regular",
+          "full_name": "Mutsuki Kana",
+          "post_script_name": "Mutsuki Kana",
+          "version": "19.232",
+          "copyright": "Copyright (c) 2008-2011 Gutenberg Labo.",
+          "font": "Mutsuki-kana.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/gotu_10m1044",
+  "name": "Gotu",
+  "description": "Gotu",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 The Gotu Project Authors (https://github.com/EkType/Gotu)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3c0538e5098b7ae593a24c89e80fd5949e873ce1.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/3c0538e5098b7ae593a24c89e80fd5949e873ce1.zip"
+      ],
+      "sha256": "9af8dc1ac77ad1c90f2940691e014317a734886cc590277218bc8708ba5951f5",
+      "file_size": 287740
+    }
+  },
+  "fonts": [
+    {
+      "name": "Gotu",
+      "styles": [
+        {
+          "family_name": "Gotu",
+          "type": "Regular",
+          "full_name": "Gotu",
+          "post_script_name": "Gotu",
+          "version": "2.320 (15.0d2e2)",
+          "copyright": "Copyright 2019 The Gotu Project Authors (https://github.com/EkType/Gotu)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "font": "GotuDevanagari-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "noth",
+  "name": "Noth",
+  "description": "Noth",
+  "homepage": "https://typedesign.replit.app/noth.html",
+  "copyright": "Public domain. Piotr Grochowski (piotrunio-2004@wp.pl)",
+  "spdx_license": "Unlicense",
+  "license_url": "https://unlicense.org/",
+  "redistributable": false,
+  "source_format": "ttf",
+  "resources": {
+    "Noth-v0563-a.ttf": {
+      "urls": [
+        "https://typedesign.replit.app/Noth-v0563-a.ttf"
+      ],
+      "sha256": "cd3162fc953089cd462fb80fe77ff45f0189ad0ec95cfb7efdb90b63c928281b",
+      "file_size": 480660,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "Noth",
+      "styles": [
+        {
+          "family_name": "Noth",
+          "type": "",
+          "full_name": "Noth",
+          "post_script_name": "Noth",
+          "version": "5.63-a ; ttfautohint (v1.8.3) -l 8 -r 50 -G 200 -x 14 -D latn -f latn -a sss -W -p -c -X \"\"",
+          "copyright": "public domain",
+          "font": "Noth-v0563-a.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

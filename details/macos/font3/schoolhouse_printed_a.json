@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/schoolhouse_printed_a",
+  "name": "SchoolHouse Printed A",
+  "description": "SchoolHouse Printed A",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1996-2000 by Signature Software, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "d8105e507b5b5211918d333dfeb78ddd416571f9.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/d8105e507b5b5211918d333dfeb78ddd416571f9.zip"
+      ],
+      "sha256": "43f9aacfac0675525dd958475d5f807fa2cd6978ab66ad5e3dc08e767dab4c1b",
+      "file_size": 39871
+    }
+  },
+  "fonts": [
+    {
+      "name": "SchoolHouse Printed A",
+      "styles": [
+        {
+          "family_name": "SchoolHouse Printed A",
+          "type": "Regular",
+          "full_name": "SchoolHouse Printed A",
+          "post_script_name": "SchoolHousePrintedA",
+          "version": "10.0d1e2",
+          "copyright": "Copyright � 1996-2000 by Signature Software, Inc. All rights reserved.",
+          "font": "SchoolHouse Printed A.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

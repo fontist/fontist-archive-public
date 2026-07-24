@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font8/klee_10m11177",
+  "name": "Klee",
+  "description": "Klee",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2015 Fontworks Inc. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "39cb4c568b6f437e33f46c91ef323e104cd13441.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/39cb4c568b6f437e33f46c91ef323e104cd13441.zip"
+      ],
+      "sha256": "becd7716f1d9006aa87a6240b1ce3d07df1757bd3a11a615614e565658ff191d",
+      "file_size": 10177937
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Klee.ttc",
+      "fonts": [
+        {
+          "name": "Klee Demibold",
+          "styles": [
+            {
+              "family_name": "Klee Demibold",
+              "type": "Regular",
+              "full_name": "Klee Demibold",
+              "post_script_name": "Klee-Demibold",
+              "version": "15.0d1e1",
+              "copyright": "Copyright © 2015 Fontworks Inc. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Klee Medium",
+          "styles": [
+            {
+              "family_name": "Klee Medium",
+              "type": "Regular",
+              "full_name": "Klee Medium",
+              "post_script_name": "Klee-Medium",
+              "version": "15.0d1e1",
+              "copyright": "Copyright © 2015 Fontworks Inc. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

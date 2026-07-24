@@ -1,0 +1,101 @@
+{
+  "slug": "macos/sama_gurmukhi",
+  "name": "sama_gurmukhi",
+  "description": "Sama Gurmukhi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2019, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://ektype.in/EULA-EK-TYPE.pdf",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Sama_Gurmukhi.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/bfb6fc74c76bf016fbfa10dd809cdb6fca995c34.zip"
+      ],
+      "sha256": "302d6db9465f4c28a42566f7fc24e68f9e5d2e76fea0838a6596d58ce3ae11ea",
+      "file_size": 236861
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "SamaGurmukhi.ttc",
+      "fonts": [
+        {
+          "name": "Sama Gurmukhi",
+          "styles": [
+            {
+              "family_name": "Sama Gurmukhi",
+              "type": "Bold",
+              "full_name": "Sama Gurmukhi Bold",
+              "post_script_name": "SamaGurmukhi-Bold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            },
+            {
+              "family_name": "Sama Gurmukhi",
+              "type": "Regular",
+              "full_name": "Sama Gurmukhi Regular",
+              "post_script_name": "SamaGurmukhi-Regular",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gurmukhi Book",
+          "styles": [
+            {
+              "family_name": "Sama Gurmukhi Book",
+              "type": "Regular",
+              "full_name": "Sama Gurmukhi Book",
+              "post_script_name": "SamaGurmukhi-Book",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gurmukhi ExtraBold",
+          "styles": [
+            {
+              "family_name": "Sama Gurmukhi ExtraBold",
+              "type": "Regular",
+              "full_name": "Sama Gurmukhi ExtraBold",
+              "post_script_name": "SamaGurmukhi-ExtraBold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gurmukhi Medium",
+          "styles": [
+            {
+              "family_name": "Sama Gurmukhi Medium",
+              "type": "Regular",
+              "full_name": "Sama Gurmukhi Medium",
+              "post_script_name": "SamaGurmukhi-Medium",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Sama Gurmukhi SemiBold",
+          "styles": [
+            {
+              "family_name": "Sama Gurmukhi SemiBold",
+              "type": "Regular",
+              "full_name": "Sama Gurmukhi SemiBold",
+              "post_script_name": "SamaGurmukhi-SemiBold",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2019, Ek Type. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/myanmar_mn_10m1044",
+  "name": "Myanmar MN",
+  "description": "Myanmar MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2010 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "d39115c1fd8e8ce4ca45b0cf4f353c78fdd75094.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/d39115c1fd8e8ce4ca45b0cf4f353c78fdd75094.zip"
+      ],
+      "sha256": "5efd1021a81de9f41498d98592ba91aae5afe85bf1cc3464278b1aca88be39af",
+      "file_size": 82596
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Myanmar-MN.ttc",
+      "fonts": [
+        {
+          "name": "Myanmar MN",
+          "styles": [
+            {
+              "family_name": "Myanmar MN",
+              "type": "Bold",
+              "full_name": "Myanmar MN Bold",
+              "post_script_name": "MyanmarMN-Bold",
+              "version": "14.0d1e2",
+              "copyright": "Copyright (c) 2010 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Myanmar MN",
+              "type": "Regular",
+              "full_name": "Myanmar MN",
+              "post_script_name": "MyanmarMN",
+              "version": "14.0d1e2",
+              "copyright": "Copyright (c) 2010 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

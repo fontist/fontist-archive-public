@@ -1,0 +1,38 @@
+{
+  "slug": "lxgw_neo_zhisong",
+  "name": "LXGW Neo ZhiSong",
+  "description": "LXGW Neo ZhiSong",
+  "homepage": "https://github.com/lxgw/LxgwNeoZhiSong",
+  "copyright": "Copyright(c) 2023-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "https://opensource.org/licenses/IPA/",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "LXGWNeoZhiSong.ttf": {
+      "urls": [
+        "https://github.com/lxgw/LxgwNeoZhiSong/releases/download/v0.923.3/LXGWNeoZhiSong.ttf"
+      ],
+      "sha256": "b72f13838f943f45391fa30c0fe678f7b18f59975300d99ea9cee0398b47ffba",
+      "file_size": 7924466,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW Neo ZhiSong",
+      "styles": [
+        {
+          "family_name": "LXGW Neo ZhiSong",
+          "type": "Regular",
+          "full_name": "LXGW Neo ZhiSong",
+          "post_script_name": "LXGWNeoZhiSong",
+          "version": "0.923;June 7, 2024",
+          "copyright": "Copyright(c) 2023-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+          "font": "LXGWNeoZhiSong.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

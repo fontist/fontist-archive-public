@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/headlinea_10m11177",
+  "name": "HeadLineA",
+  "description": "HeadLineA",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7ea12fd2ba0b154cfb852462847227627e85d3f4.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/7ea12fd2ba0b154cfb852462847227627e85d3f4.zip"
+      ],
+      "sha256": "250fa6bb8a6ffa37f93d17e0e62f632654293e5ea074971557bf64a6d52c7258",
+      "file_size": 436412
+    }
+  },
+  "fonts": [
+    {
+      "name": "HeadLineA",
+      "styles": [
+        {
+          "family_name": "HeadLineA",
+          "type": "Regular",
+          "full_name": "HeadLineA Regular",
+          "post_script_name": "JCHEadA",
+          "version": "13.0d3e1",
+          "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+          "font": "HeadlineA.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

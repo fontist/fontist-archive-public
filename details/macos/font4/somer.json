@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/somer",
+  "name": "Somer",
+  "description": "Somer",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Somer (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a0c78944c425d71f20b36cb6a633dde04841c6bb.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/a0c78944c425d71f20b36cb6a633dde04841c6bb.zip"
+      ],
+      "sha256": "634fba3e98ad980f6778ec91cd2b919a39a2bfae7e3e2ebaac584d71634d7727",
+      "file_size": 28298
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Somer.ttc",
+      "fonts": [
+        {
+          "name": ".Somer PUA",
+          "styles": [
+            {
+              "family_name": ".Somer PUA",
+              "type": "Regular",
+              "full_name": ".Somer PUA",
+              "post_script_name": ".SomerPUA",
+              "version": "13.0d1e4",
+              "copyright": ".Somer PUA (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Somer",
+          "styles": [
+            {
+              "family_name": "Somer",
+              "type": "Regular",
+              "full_name": "Somer Regular",
+              "post_script_name": "Somer",
+              "version": "13.0d1e4",
+              "copyright": "Somer (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

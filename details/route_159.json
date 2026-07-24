@@ -1,0 +1,166 @@
+{
+  "slug": "route_159",
+  "name": "Route 159",
+  "description": "Route 159",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "ￂﾩ 2015 Sora Sagano.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "route159_110.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/route159_110.zip"
+      ],
+      "sha256": "d0cfa7fa94ec2698095ece7f754ef4cc8ceb303d44057f894318ad663d71bbe5",
+      "file_size": 815014
+    }
+  },
+  "fonts": [
+    {
+      "name": "Route 159",
+      "styles": [
+        {
+          "family_name": "Route 159",
+          "type": "Italic",
+          "full_name": "Route 159 Italic",
+          "post_script_name": "Route159-Italic",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-Italic.otf"
+        },
+        {
+          "family_name": "Route 159",
+          "type": "Regular",
+          "full_name": "Route159-Regular",
+          "post_script_name": "Route159-Regular",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Route 159 Bold",
+      "styles": [
+        {
+          "family_name": "Route 159 Bold",
+          "type": "Italic",
+          "full_name": "Route 159 Bold Italic",
+          "post_script_name": "Route159-BoldItalic",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-BoldItalic.otf"
+        },
+        {
+          "family_name": "Route 159 Bold",
+          "type": "Regular",
+          "full_name": "Route159-Bold",
+          "post_script_name": "Route159-Bold",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-Bold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Route 159 Heavy",
+      "styles": [
+        {
+          "family_name": "Route 159 Heavy",
+          "type": "Regular",
+          "full_name": "Route159-Heavy",
+          "post_script_name": "Route159-Heavy",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-Heavy.otf"
+        }
+      ]
+    },
+    {
+      "name": "Route 159 Heavy Italic",
+      "styles": [
+        {
+          "family_name": "Route 159 Heavy Italic",
+          "type": "Regular",
+          "full_name": "Route159-HeavyItalic",
+          "post_script_name": "Route159-HeavyItalic",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-HeavyItalic.otf"
+        }
+      ]
+    },
+    {
+      "name": "Route 159 Light",
+      "styles": [
+        {
+          "family_name": "Route 159 Light",
+          "type": "Italic",
+          "full_name": "Route 159 Light Italic",
+          "post_script_name": "Route159-LightItalic",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-LightItalic.otf"
+        },
+        {
+          "family_name": "Route 159 Light",
+          "type": "Regular",
+          "full_name": "Route159-Light",
+          "post_script_name": "Route159-Light",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-Light.otf"
+        }
+      ]
+    },
+    {
+      "name": "Route 159 SemiBold",
+      "styles": [
+        {
+          "family_name": "Route 159 SemiBold",
+          "type": "Italic",
+          "full_name": "Route 159 SemiBold Italic",
+          "post_script_name": "Route159-SemiBoldItalic",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-SemiBoldItalic.otf"
+        },
+        {
+          "family_name": "Route 159 SemiBold",
+          "type": "Regular",
+          "full_name": "Route159-SemiBold",
+          "post_script_name": "Route159-SemiBold",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-SemiBold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Route 159 UltraLight",
+      "styles": [
+        {
+          "family_name": "Route 159 UltraLight",
+          "type": "Italic",
+          "full_name": "Route 159 UltraLight Italic",
+          "post_script_name": "Route159-UltraLightItalic",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-UltraLightItalic.otf"
+        },
+        {
+          "family_name": "Route 159 UltraLight",
+          "type": "Regular",
+          "full_name": "Route159-UltraLight",
+          "post_script_name": "Route159-UltraLight",
+          "version": "1.100;PS 001.100;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "ￂﾩ 2015 Sora Sagano.",
+          "font": "Route159-UltraLight.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "macos/new_peninim_mt_10m11177",
+  "name": "New Peninim MT",
+  "description": "New Peninim MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "210a5390513822b576059f982082b1b8c21c5eee.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/210a5390513822b576059f982082b1b8c21c5eee.zip"
+      ],
+      "sha256": "94fa89676252933eb20c5666fb4d8327ac8496f403ef5f8e04d4869b73a92fd4",
+      "file_size": 89212
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "NewPeninim.ttc",
+      "fonts": [
+        {
+          "name": "New Peninim MT",
+          "styles": [
+            {
+              "family_name": "New Peninim MT",
+              "type": "Bold",
+              "full_name": "New Peninim MT Bold",
+              "post_script_name": "NewPeninimMT-Bold",
+              "version": "13.0d1e4",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            },
+            {
+              "family_name": "New Peninim MT",
+              "type": "Bold Inclined",
+              "full_name": "New Peninim MT Bold Inclined",
+              "post_script_name": "NewPeninimMT-BoldInclined",
+              "version": "13.0d1e4",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved.."
+            },
+            {
+              "family_name": "New Peninim MT",
+              "type": "Inclined",
+              "full_name": "New Peninim MT Inclined",
+              "post_script_name": "NewPeninimMT-Inclined",
+              "version": "13.0d1e4",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            },
+            {
+              "family_name": "New Peninim MT",
+              "type": "Regular",
+              "full_name": "New Peninim MT",
+              "post_script_name": "NewPeninimMT",
+              "version": "13.0d1e4",
+              "copyright": "Typeface � Monotype Typography ltd. Data � Monotype Typography ltd, Type Solutions Inc 1990-1993. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

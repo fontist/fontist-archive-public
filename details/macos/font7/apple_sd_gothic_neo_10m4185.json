@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/apple_sd_gothic_neo_10m4185",
+  "name": "Apple SD Gothic Neo",
+  "description": "Apple SD Gothic Neo",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "bf610e2431e7b74c29ccee558e4e8ad899302c95.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/032-56898/EA465333-2C90-4CBF-B0E7-5CCE6C637321/com_apple_MobileAsset_Font7/bf610e2431e7b74c29ccee558e4e8ad899302c95.zip"
+      ],
+      "sha256": "2931c44ba817a163afc94d35b9f2513f8221b7eac26bde2a356e83f50d3f52ae",
+      "file_size": 3805982
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AppleSDGothicNeo-Download.ttc",
+      "fonts": [
+        {
+          "name": "Apple SD Gothic Neo",
+          "styles": [
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "ExtraBold",
+              "full_name": "Apple SD Gothic Neo ExtraBold",
+              "post_script_name": "AppleSDGothicNeo-ExtraBold",
+              "version": "19.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            },
+            {
+              "family_name": "Apple SD Gothic Neo",
+              "type": "Heavy",
+              "full_name": "Apple SD Gothic Neo Heavy",
+              "post_script_name": "AppleSDGothicNeo-Heavy",
+              "version": "19.0d2e1",
+              "copyright": "Copyright � 2014 Sandoll Communications Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

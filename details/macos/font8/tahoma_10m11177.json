@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font8/tahoma_10m11177",
+  "name": "Tahoma",
+  "description": "Tahoma",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 Microsoft Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ad84b2f2f83fc866a56c0e41223b25a1feb38349.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/ad84b2f2f83fc866a56c0e41223b25a1feb38349.zip"
+      ],
+      "sha256": "4021f9db7b6ec01a0a976c42f1acd0ae36bf7aa82dbb103e04e702f4e057725d",
+      "file_size": 379474
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tahoma",
+      "styles": [
+        {
+          "family_name": "Tahoma",
+          "type": "Regular",
+          "full_name": "Tahoma",
+          "post_script_name": "Tahoma",
+          "version": "5.01.2x",
+          "copyright": "© 2006 Microsoft Corporation. All rights reserved.",
+          "description": "You may use this font as permitted by the EULA for the product in which this font is included to display and print content. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "tahoma.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,92 @@
+{
+  "slug": "gwm_sans_thai",
+  "name": "GWM Sans Thai",
+  "description": "GWM Sans Thai",
+  "homepage": "https://www.gwm.com.cn/gwmsans/fontdownload.html",
+  "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://www.gwm.com.cn/gwmsans/fontdownload.html",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "GWMSansThaiUI.zip": {
+      "urls": [
+        "https://res.gwm.com.cn/GwmCn/fonts/gwmsans/package/GWMSansThaiUI.zip"
+      ],
+      "sha256": "e38fce9908ca2e41afad08d372b803c9a5a7e0d5eb3424c817e6cbe246b95792",
+      "file_size": 4420763
+    }
+  },
+  "fonts": [
+    {
+      "name": "GWM Sans Thai UI",
+      "styles": [
+        {
+          "family_name": "GWM Sans Thai UI",
+          "type": "Regular",
+          "full_name": "GWM Sans Thai UI Regular",
+          "post_script_name": "GWMSansThaiUI-Regular",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansThaiUI-Regular.otf"
+        },
+        {
+          "family_name": "GWM Sans Thai UI",
+          "type": "Regular",
+          "full_name": "GWM Sans Thai UI Regular",
+          "post_script_name": "GWMSansThaiUI-Regular",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansThaiUI-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "GWM Sans Thai UI Bold",
+      "styles": [
+        {
+          "family_name": "GWM Sans Thai UI Bold",
+          "type": "Regular",
+          "full_name": "GWM Sans Thai UI Bold",
+          "post_script_name": "GWMSansThaiUI-Bold",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansThaiUI-Bold.otf"
+        },
+        {
+          "family_name": "GWM Sans Thai UI Bold",
+          "type": "Regular",
+          "full_name": "GWM Sans Thai UI Bold",
+          "post_script_name": "GWMSansThaiUI-Bold",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansThaiUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "GWM Sans Thai UI Light",
+      "styles": [
+        {
+          "family_name": "GWM Sans Thai UI Light",
+          "type": "Regular",
+          "full_name": "GWM Sans Thai UI Light",
+          "post_script_name": "GWMSansThaiUI-Light",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansThaiUI-Light.otf"
+        },
+        {
+          "family_name": "GWM Sans Thai UI Light",
+          "type": "Regular",
+          "full_name": "GWM Sans Thai UI Light",
+          "post_script_name": "GWMSansThaiUI-Light",
+          "version": "1.00",
+          "copyright": "Copyright © 2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansThaiUI-Light.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

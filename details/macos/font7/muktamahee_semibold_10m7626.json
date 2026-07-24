@@ -1,0 +1,84 @@
+{
+  "slug": "macos/font7/muktamahee_semibold_10m7626",
+  "name": "MuktaMahee SemiBold",
+  "description": "MuktaMahee SemiBold",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2017, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "2ad5c6f5643c9f44ea28bef94bdd20878c061fd9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/2ad5c6f5643c9f44ea28bef94bdd20878c061fd9.zip"
+      ],
+      "sha256": "086a3853efa4f88cfc609c97f46451312613e417aa35c2c7f4267d30246179bc",
+      "file_size": 226569
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "MuktaMahee_iOSSupplement.ttc",
+      "fonts": [
+        {
+          "name": "MuktaMahee ExtraBold",
+          "styles": [
+            {
+              "family_name": "MuktaMahee ExtraBold",
+              "type": "Regular",
+              "full_name": "MuktaMahee ExtraBold",
+              "post_script_name": "MuktaMahee-ExtraBold",
+              "version": "20.0d2e4",
+              "copyright": "Copyright (c) 2017, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "MuktaMahee ExtraLight",
+          "styles": [
+            {
+              "family_name": "MuktaMahee ExtraLight",
+              "type": "Regular",
+              "full_name": "MuktaMahee ExtraLight",
+              "post_script_name": "MuktaMahee-ExtraLight",
+              "version": "20.0d2e4",
+              "copyright": "Copyright (c) 2017, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "MuktaMahee Medium",
+          "styles": [
+            {
+              "family_name": "MuktaMahee Medium",
+              "type": "Regular",
+              "full_name": "MuktaMahee Medium",
+              "post_script_name": "MuktaMahee-Medium",
+              "version": "20.0d2e4",
+              "copyright": "Copyright (c) 2017, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "MuktaMahee SemiBold",
+          "styles": [
+            {
+              "family_name": "MuktaMahee SemiBold",
+              "type": "Regular",
+              "full_name": "MuktaMahee SemiBold",
+              "post_script_name": "MuktaMahee-SemiBold",
+              "version": "20.0d2e4",
+              "copyright": "Copyright (c) 2017, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

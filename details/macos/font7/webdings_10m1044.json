@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/webdings_10m1044",
+  "name": "Webdings",
+  "description": "Webdings",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.microsoft.com/typography/fonts/",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "4fa4863b86c03c5217be2c03b6029885e013ff1a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/4fa4863b86c03c5217be2c03b6029885e013ff1a.zip"
+      ],
+      "sha256": "c7ff0e5581dabc47fcb6e1076d473772827a44338d635982f8855424c510774c",
+      "file_size": 88248
+    }
+  },
+  "fonts": [
+    {
+      "name": "Webdings",
+      "styles": [
+        {
+          "family_name": "Webdings",
+          "type": "Regular",
+          "full_name": "Webdings",
+          "post_script_name": "Webdings",
+          "version": "5.00x",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "You may use this font as permitted by the EULA for the product in which this font is included to display and print content.  You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "webdings.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

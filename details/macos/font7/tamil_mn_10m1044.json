@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/tamil_mn_10m1044",
+  "name": "Tamil MN",
+  "description": "Tamil MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "6a9e0aab8416e9f5be506e442f77ca3d28585f31.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/6a9e0aab8416e9f5be506e442f77ca3d28585f31.zip"
+      ],
+      "sha256": "38459a403823f3ff7bca13255489df645cd27dd9628305df75c14fa8c6e36fff",
+      "file_size": 76405
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TamilMN.ttc",
+      "fonts": [
+        {
+          "name": "Tamil MN",
+          "styles": [
+            {
+              "family_name": "Tamil MN",
+              "type": "Bold",
+              "full_name": "Tamil MN Bold",
+              "post_script_name": "TamilMN-Bold",
+              "version": "14.0d1e7",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Tamil MN",
+              "type": "Regular",
+              "full_name": "Tamil MN",
+              "post_script_name": "TamilMN",
+              "version": "14.0d1e7",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

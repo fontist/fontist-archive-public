@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/kohinoor_bangla_10m7626",
+  "name": "Kohinoor Bangla",
+  "description": "Kohinoor Bangla",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "34b05b6d8c56280698f24e16ad974755889c5dcc.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/34b05b6d8c56280698f24e16ad974755889c5dcc.zip"
+      ],
+      "sha256": "4eff8b577a9498e82fb7ab804a7abe40d6e6b8a7aecd26851f414abf704b75f2",
+      "file_size": 210321
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KohinoorBanglaComplement.ttc",
+      "fonts": [
+        {
+          "name": "Kohinoor Bangla",
+          "styles": [
+            {
+              "family_name": "Kohinoor Bangla",
+              "type": "Bold",
+              "full_name": "Kohinoor Bangla Bold",
+              "post_script_name": "KohinoorBangla-Bold",
+              "version": "20.0d1e7",
+              "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Kohinoor Bangla",
+              "type": "Medium",
+              "full_name": "Kohinoor Bangla Medium",
+              "post_script_name": "KohinoorBangla-Medium",
+              "version": "20.0d1e7",
+              "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "slug": "dmca_sans_serif_10.0_dev1",
+  "name": "DMCA Sans Serif 10.0 dev1",
+  "description": "DMCA Sans Serif 10.0 dev1",
+  "homepage": "https://typedesign.replit.app/dmcasansserif.html",
+  "copyright": "Public domain. Piotr Grochowski (piotrunio-2004@wp.pl)",
+  "spdx_license": "CC0-1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "DMCAsansserifv1000dev2_.zip": {
+      "urls": [
+        "https://typedesign.replit.app/DMCAsansserifv1000dev2_.zip"
+      ],
+      "sha256": "5736a4e47fee90f97ba0d5ec77b09784328cbd929e55699ff1c6c0f7cf74e60d",
+      "file_size": 12421664
+    }
+  },
+  "fonts": [
+    {
+      "name": "DMCA Sans Serif 10.0 dev1",
+      "styles": [
+        {
+          "family_name": "DMCA Sans Serif 10.0 dev1",
+          "type": "Bold",
+          "full_name": "DMCA Sans Serif 10.0 dev1 Bold",
+          "post_script_name": "DMCAsansserifv1000dev1bold",
+          "version": "10.0",
+          "font": "DMCAsansserifv1000dev2bold.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif 10.0 dev1",
+          "type": "Bold Italic",
+          "full_name": "DMCA Sans Serif 10.0 dev1 Bold Italic",
+          "post_script_name": "DMCAsansserifv1000dev1i-bold",
+          "version": "10.0",
+          "font": "DMCAsansserifv1000dev2i-bold.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif 10.0 dev1",
+          "type": "Regular",
+          "full_name": "DMCA Sans Serif 10.0 dev1",
+          "post_script_name": "DMCAsansserifv1000dev1",
+          "version": "10.0",
+          "font": "DMCAsansserifv1000dev2.ttf"
+        },
+        {
+          "family_name": "DMCA Sans Serif 10.0 dev1",
+          "type": "Regular",
+          "full_name": "DMCA Sans Serif 10.0 dev1 Italic",
+          "post_script_name": "DMCAsansserifv1000dev1i",
+          "version": "10.0",
+          "font": "DMCAsansserifv1000dev2i.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

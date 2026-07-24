@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font7/helvetica_cy_10m1044",
+  "name": "Helvetica CY",
+  "description": "Helvetica CY",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1992, 1997 DoubleAlex Design Studio. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "4c71ed52892da8845b269b1ccf055aeba136fd9f.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/4c71ed52892da8845b269b1ccf055aeba136fd9f.zip"
+      ],
+      "sha256": "73e484cd73acebff3848c6c0ed628fea07afb6c18ca25d04b10b5bde68f226a9",
+      "file_size": 129274
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "HelveticaCY.ttc",
+      "fonts": [
+        {
+          "name": "Helvetica CY",
+          "styles": [
+            {
+              "family_name": "Helvetica CY",
+              "type": "Bold",
+              "full_name": "Helvetica CY Bold",
+              "post_script_name": "HelveticaCY-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Copyright � 1992, 1997 DoubleAlex Design Studio. All rights reserved."
+            },
+            {
+              "family_name": "Helvetica CY",
+              "type": "BoldOblique",
+              "full_name": "Helvetica CY BoldOblique",
+              "post_script_name": "HelveticaCY-BoldOblique",
+              "version": "13.0d1e2",
+              "copyright": "Copyright � 1992, 1997 DoubleAlex Design Studio. All rights reserved."
+            },
+            {
+              "family_name": "Helvetica CY",
+              "type": "Oblique",
+              "full_name": "Helvetica CY Oblique",
+              "post_script_name": "HelveticaCY-Oblique",
+              "version": "13.0d1e2",
+              "copyright": "Copyright � 1992, 1997 DoubleAlex Design Studio. All rights reserved."
+            },
+            {
+              "family_name": "Helvetica CY",
+              "type": "Plain",
+              "full_name": "Helvetica CY Plain",
+              "post_script_name": "HelveticaCY-Plain",
+              "version": "13.0d1e2",
+              "copyright": "Copyright � 1992, 1997 DoubleAlex Design Studio. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "slug": "macos/font8/niramit_10m11177",
+  "name": "Niramit",
+  "description": "Niramit",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "fc25459ea35d9a83200fe9870507b052b77d7870.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/fc25459ea35d9a83200fe9870507b052b77d7870.zip"
+      ],
+      "sha256": "8d240f55e744f05948a6149cc191fe0fc14dd3b05dced9a5694f43956049a860",
+      "file_size": 477917
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Niramit.ttc",
+      "fonts": [
+        {
+          "name": "Niramit",
+          "styles": [
+            {
+              "family_name": "Niramit",
+              "type": "Bold",
+              "full_name": "Niramit Bold",
+              "post_script_name": "Niramit-Bold",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit",
+              "type": "Bold Italic",
+              "full_name": "Niramit Bold Italic",
+              "post_script_name": "Niramit-BoldItalic",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit",
+              "type": "Italic",
+              "full_name": "Niramit Italic",
+              "post_script_name": "Niramit-Italic",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit",
+              "type": "Regular",
+              "full_name": "Niramit Regular",
+              "post_script_name": "Niramit-Regular",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Niramit ExtraLight",
+          "styles": [
+            {
+              "family_name": "Niramit ExtraLight",
+              "type": "Italic",
+              "full_name": "Niramit ExtraLight Italic",
+              "post_script_name": "Niramit-ExtraLightItalic",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit ExtraLight",
+              "type": "Regular",
+              "full_name": "Niramit ExtraLight",
+              "post_script_name": "Niramit-ExtraLight",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Niramit Light",
+          "styles": [
+            {
+              "family_name": "Niramit Light",
+              "type": "Italic",
+              "full_name": "Niramit Light Italic",
+              "post_script_name": "Niramit-LightItalic",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit Light",
+              "type": "Regular",
+              "full_name": "Niramit Light",
+              "post_script_name": "Niramit-Light",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Niramit Medium",
+          "styles": [
+            {
+              "family_name": "Niramit Medium",
+              "type": "Italic",
+              "full_name": "Niramit Medium Italic",
+              "post_script_name": "Niramit-MediumItalic",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit Medium",
+              "type": "Regular",
+              "full_name": "Niramit Medium",
+              "post_script_name": "Niramit-Medium",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Niramit SemiBold",
+          "styles": [
+            {
+              "family_name": "Niramit SemiBold",
+              "type": "Italic",
+              "full_name": "Niramit SemiBold Italic",
+              "post_script_name": "Niramit-SemiBoldItalic",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Niramit SemiBold",
+              "type": "Regular",
+              "full_name": "Niramit SemiBold",
+              "post_script_name": "Niramit-SemiBold",
+              "version": "1.001; ttfautohint (v1.6)",
+              "copyright": "Copyright 2018 The Niramit Project Authors (https://github.com/cadsondemak/Niramit)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

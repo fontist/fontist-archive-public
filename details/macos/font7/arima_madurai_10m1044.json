@@ -1,0 +1,140 @@
+{
+  "slug": "macos/font7/arima_madurai_10m1044",
+  "name": "Arima Madurai",
+  "description": "Arima Madurai",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1a719bcd2deb780a1442d66d91b276c4764ad924.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/1a719bcd2deb780a1442d66d91b276c4764ad924.zip"
+      ],
+      "sha256": "b3d42a0500fd1b910da173a12cd6a37f16410eba533d8fa4aaf46767612f1c8d",
+      "file_size": 505493
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ArimaMadurai.ttc",
+      "fonts": [
+        {
+          "name": "Arima Madurai",
+          "styles": [
+            {
+              "family_name": "Arima Madurai",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-Regular",
+              "post_script_name": "ArimaMadurai-Regular",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai Black",
+          "styles": [
+            {
+              "family_name": "Arima Madurai Black",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-Black",
+              "post_script_name": "ArimaMadurai-Black",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai Bold",
+          "styles": [
+            {
+              "family_name": "Arima Madurai Bold",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-Bold",
+              "post_script_name": "ArimaMadurai-Bold",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai ExtraLight",
+          "styles": [
+            {
+              "family_name": "Arima Madurai ExtraLight",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-ExtraLight",
+              "post_script_name": "ArimaMadurai-ExtraLight",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai Light",
+          "styles": [
+            {
+              "family_name": "Arima Madurai Light",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-Light",
+              "post_script_name": "ArimaMadurai-Light",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai Medium",
+          "styles": [
+            {
+              "family_name": "Arima Madurai Medium",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-Medium",
+              "post_script_name": "ArimaMadurai-Medium",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai Semi Bold",
+          "styles": [
+            {
+              "family_name": "Arima Madurai Semi Bold",
+              "type": "Bold",
+              "full_name": "Arima Madurai Semi Bold Bold",
+              "post_script_name": "ArimaMadurai-SemiBold",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Arima Madurai Thin",
+          "styles": [
+            {
+              "family_name": "Arima Madurai Thin",
+              "type": "Regular",
+              "full_name": "ArimaMadurai-Thin",
+              "post_script_name": "ArimaMadurai-Thin",
+              "version": "14.0d1e6",
+              "copyright": "Copyright 2015 The Arima Project Authors (info@ndiscovered.com)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

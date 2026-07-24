@@ -1,0 +1,38 @@
+{
+  "slug": "lxgw_heart_serif",
+  "name": "LXGW Heart Serif",
+  "description": "LXGW Heart Serif",
+  "homepage": "https://github.com/lxgw/LxgwNeoZhiSong",
+  "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2012. / Typing Art / LXGW, 2023-2024.",
+  "spdx_license": "IPA",
+  "license_url": "https://opensource.org/licenses/IPA/",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "LXGWHeartSerif.ttf": {
+      "urls": [
+        "https://github.com/lxgw/LxgwNeoZhiSong/releases/download/v0.923.3/LXGWHeartSerif.ttf"
+      ],
+      "sha256": "2e67490ca4dc14d915267463191f7a3e81451220502d314827b2b7a0dc8fa0c0",
+      "file_size": 11106820,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW Heart Serif",
+      "styles": [
+        {
+          "family_name": "LXGW Heart Serif",
+          "type": "Regular",
+          "full_name": "LXGW Heart Serif",
+          "post_script_name": "LXGWHeartSerif",
+          "version": "0.923;June 7, 2024",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2012. / Typing Art / LXGW, 2023-2024.",
+          "font": "LXGWHeartSerif.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,159 @@
+{
+  "slug": "shippori_mincho",
+  "name": "shippori_mincho",
+  "description": "Shippori Mincho",
+  "homepage": "http://fontdasu.com",
+  "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Shippori_Mincho.zip": {
+      "urls": [
+        "https://fontdasu.com/download/shippori3.zip",
+        "https://web.archive.org/web/20260504065613/https://fontdasu.com/download/shippori3.zip"
+      ],
+      "sha256": "dbdcab920d82238bda26296bccd9630906b427ee91b31f5da2dde8e47b0b202e",
+      "file_size": 59496028
+    }
+  },
+  "fonts": [
+    {
+      "name": "Shippori Mincho B1 OTF",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho B1 OTF",
+          "type": "Bold",
+          "full_name": "Shippori Mincho B1 OTF Bold",
+          "post_script_name": "ShipporiMinchoB1-OTF-Bold",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMinchoB1-OTF-Bold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho B1 OTF ExBold",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho B1 OTF ExBold",
+          "type": "Regular",
+          "full_name": "Shippori Mincho B1 OTF ExBold",
+          "post_script_name": "ShipporiMinchoB1-OTF-ExtraBold",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMinchoB1-OTF-ExtraBold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho B1 OTF Medium",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho B1 OTF Medium",
+          "type": "Regular",
+          "full_name": "Shippori Mincho B1 OTF Medium",
+          "post_script_name": "ShipporiMinchoB1-OTF-Medium",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMinchoB1-OTF-Medium.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho B1 OTF SemiBold",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho B1 OTF SemiBold",
+          "type": "Regular",
+          "full_name": "Shippori Mincho B1 OTF SemiBold",
+          "post_script_name": "ShipporiMinchoB1-OTF-SemiBold",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMinchoB1-OTF-SemiBold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho B1 OTTF",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho B1 OTTF",
+          "type": "Regular",
+          "full_name": "Shippori Mincho B1 OTTF",
+          "post_script_name": "ShipporiMinchoB1-OTF-Regular",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMinchoB1-OTF-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho OTF",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho OTF",
+          "type": "Bold",
+          "full_name": "Shippori Mincho OTF Bold",
+          "post_script_name": "ShipporiMincho-OTF-Bold",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMincho-OTF-Bold.otf"
+        },
+        {
+          "family_name": "Shippori Mincho OTF",
+          "type": "Regular",
+          "full_name": "Shippori Mincho OTF",
+          "post_script_name": "ShipporiMincho-OTF-Regular",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMincho-OTF-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho OTF ExtraBold",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho OTF ExtraBold",
+          "type": "Regular",
+          "full_name": "Shippori Mincho OTF ExtraBold",
+          "post_script_name": "ShipporiMincho-OTF-ExtraBold",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMincho-OTF-ExtraBold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho OTF Medium",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho OTF Medium",
+          "type": "Regular",
+          "full_name": "Shippori Mincho OTF Medium",
+          "post_script_name": "ShipporiMincho-OTF-Medium",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMincho-OTF-Medium.otf"
+        }
+      ]
+    },
+    {
+      "name": "Shippori Mincho OTF SemiBold",
+      "styles": [
+        {
+          "family_name": "Shippori Mincho OTF SemiBold",
+          "type": "Regular",
+          "full_name": "Shippori Mincho OTF SemiBold",
+          "post_script_name": "ShipporiMincho-OTF-SemiBold",
+          "version": "3.300;hotconv 1.0.109;makeotfexe 2.5.65596",
+          "copyright": "Copyright 2021 The Shippori Min Project Authors (https://github.com/fontdasu/ShipporiMincho)",
+          "font": "ShipporiMincho-OTF-SemiBold.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

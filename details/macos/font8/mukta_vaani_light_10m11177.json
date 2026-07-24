@@ -1,0 +1,126 @@
+{
+  "slug": "macos/font8/mukta_vaani_light_10m11177",
+  "name": "Mukta Vaani Light",
+  "description": "Mukta Vaani Light",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1bf5399ebbd468b76880d1400d44792a51a9441f.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/1bf5399ebbd468b76880d1400d44792a51a9441f.zip"
+      ],
+      "sha256": "d5ba98042a8aa17ea913e3bb24453c2060a57e214e84754703e7c2df53f578eb",
+      "file_size": 1264677
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "MuktaVaani-Gujarati.ttc",
+      "fonts": [
+        {
+          "name": "Mukta Vaani Bold",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani Bold",
+              "type": "Regular",
+              "full_name": "Mukta Vaani Bold",
+              "post_script_name": "MuktaVaani-Bold",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Vaani ExtraBold",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani ExtraBold",
+              "type": "Regular",
+              "full_name": "Mukta Vaani ExtraBold",
+              "post_script_name": "MuktaVaani-ExtraBold",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Vaani ExtraLight",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani ExtraLight",
+              "type": "Regular",
+              "full_name": "Mukta Vaani ExtraLight",
+              "post_script_name": "MuktaVaani-ExtraLight",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Vaani Light",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani Light",
+              "type": "Regular",
+              "full_name": "Mukta Vaani Light",
+              "post_script_name": "MuktaVaani-Light",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Vaani Medium",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani Medium",
+              "type": "Regular",
+              "full_name": "Mukta Vaani Medium",
+              "post_script_name": "MuktaVaani-Medium",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Vaani Regular",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani Regular",
+              "type": "Regular",
+              "full_name": "Mukta Vaani Regular",
+              "post_script_name": "MuktaVaani-Regular",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Vaani SemiBold",
+          "styles": [
+            {
+              "family_name": "Mukta Vaani SemiBold",
+              "type": "Regular",
+              "full_name": "Mukta Vaani SemiBold",
+              "post_script_name": "MuktaVaani-SemiBold",
+              "version": "20.0d1e2 (2.538)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

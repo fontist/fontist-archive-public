@@ -1,0 +1,50 @@
+{
+  "slug": "kissinger_2",
+  "name": "Kissinger 2",
+  "description": "Kissinger 2",
+  "homepage": "https://typedesign.replit.app/kissinger2.html",
+  "copyright": "Piotr Grochowski",
+  "spdx_license": "LicenseRef-PublicDomain",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "kissinger2alt9x18dev4.zip": {
+      "urls": [
+        "https://typedesign.replit.app/kissinger2alt9x18dev4.zip"
+      ],
+      "sha256": "53b50d1203af106838f5aef11d036778da338666931502716cd60bf1ca781493",
+      "file_size": 1571706
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kissinger 2 alt 9x18",
+      "styles": [
+        {
+          "family_name": "Kissinger 2 alt 9x18",
+          "type": "Regular",
+          "full_name": "Kissinger 2 alt 9x18",
+          "post_script_name": "Kissinger2alt9x18",
+          "version": "dev4",
+          "copyright": "public domain",
+          "font": "Kissinger2alt9x18dev4.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Kissinger 2f alt 18x18",
+      "styles": [
+        {
+          "family_name": "Kissinger 2f alt 18x18",
+          "type": "Regular",
+          "full_name": "Kissinger 2f alt 18x18",
+          "post_script_name": "Kissinger2falt18x18",
+          "version": "dev4",
+          "copyright": "public domain",
+          "font": "Kissinger2falt18x18dev4.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

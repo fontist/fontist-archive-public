@@ -1,0 +1,69 @@
+{
+  "slug": "macos/yukyokasho2",
+  "name": "yukyokasho2",
+  "description": "YuKyokasho",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2016 JIYUKOBO Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "YuKyokasho.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/bf3dc4579b9aab95801aaba773fc9bb83893b991.zip"
+      ],
+      "sha256": "5cdd2efe3c5dac3d0efe8848826a4784596b5de854a14fdafdec8002f9812829",
+      "file_size": 9506527
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Kyokasho.ttc",
+      "fonts": [
+        {
+          "name": "YuKyokasho",
+          "styles": [
+            {
+              "family_name": "YuKyokasho",
+              "type": "Bold",
+              "full_name": "YuKyokasho Bold",
+              "post_script_name": "YuKyo-Bold",
+              "version": "16.0d1e6",
+              "copyright": "Copyright © 2016 JIYUKOBO Ltd. All Rights Reserved."
+            },
+            {
+              "family_name": "YuKyokasho",
+              "type": "Medium",
+              "full_name": "YuKyokasho Medium",
+              "post_script_name": "YuKyo-Medium",
+              "version": "16.0d1e6",
+              "copyright": "Copyright © 2016 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "YuKyokasho Yoko",
+          "styles": [
+            {
+              "family_name": "YuKyokasho Yoko",
+              "type": "Bold",
+              "full_name": "YuKyokasho Yoko Bold",
+              "post_script_name": "YuKyo_Yoko-Bold",
+              "version": "16.0d1e6",
+              "copyright": "Copyright © 2016 JIYUKOBO Ltd. All Rights Reserved."
+            },
+            {
+              "family_name": "YuKyokasho Yoko",
+              "type": "Medium",
+              "full_name": "YuKyokasho Yoko Medium",
+              "post_script_name": "YuKyo_Yoko-Medium",
+              "version": "16.0d1e6",
+              "copyright": "Copyright © 2016 JIYUKOBO Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font7/book_antiqua_10m1044",
+  "name": "Book Antiqua",
+  "description": "Book Antiqua",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Book Antiqua™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5f819f7243167e41c4d2e1e7639a7cc1cd0a8e80.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/5f819f7243167e41c4d2e1e7639a7cc1cd0a8e80.zip"
+      ],
+      "sha256": "83fa3e6c39ded02ddf4016817f83945b68c78365f63f55ff2973da1eb47621fb",
+      "file_size": 371582
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "BookAntiqua.ttc",
+      "fonts": [
+        {
+          "name": "Book Antiqua",
+          "styles": [
+            {
+              "family_name": "Book Antiqua",
+              "type": "Bold",
+              "full_name": "Book Antiqua Bold",
+              "post_script_name": "BookAntiqua-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Book Antiqua™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Book Antiqua",
+              "type": "Bold Italic",
+              "full_name": "Book Antiqua Bold Italic",
+              "post_script_name": "BookAntiqua-BoldItalic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Book Antiqua™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Book Antiqua",
+              "type": "Italic",
+              "full_name": "Book Antiqua Italic",
+              "post_script_name": "BookAntiqua-Italic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Book Antiqua™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Book Antiqua",
+              "type": "Regular",
+              "full_name": "Book Antiqua",
+              "post_script_name": "BookAntiqua",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1995. All rights reserved. Book Antiqua™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

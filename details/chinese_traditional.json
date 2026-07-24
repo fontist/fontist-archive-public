@@ -1,0 +1,62 @@
+{
+  "slug": "chinese_traditional",
+  "name": "Chinese Traditional",
+  "description": "Chinese Traditional",
+  "homepage": "http://www.microsoft.com/typography/fonts",
+  "copyright": "© 2009 Microsoft Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Microsoft-Office2013-1",
+  "license_url": "http://www.microsoft.com/typography/fonts",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Chinese_Traditional.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/langpacks/-/raw/master/OfficeLangPack2013_ChnTrad_x86.exe",
+        "http://download.microsoft.com/download/C/9/8/C98C5D23-F85D-4BC7-8EB6-00A223BF3003/OfficeLangPack2013_ChnTrad_x86.exe",
+        "https://web.archive.org/web/20200629065158/http://download.microsoft.com/download/C/9/8/C98C5D23-F85D-4BC7-8EB6-00A223BF3003/OfficeLangPack2013_ChnTrad_x86.exe"
+      ],
+      "sha256": "c29984353e2bcd2596d4cd9f2cdc357276a3a2d412826b4677c8c9a17e412a8b",
+      "file_size": 247843736
+    }
+  },
+  "fonts": [
+    {
+      "name": "MT Extra",
+      "styles": [
+        {
+          "family_name": "MT Extra",
+          "type": "Regular",
+          "full_name": "MT Extra",
+          "post_script_name": "MT-Extra",
+          "version": "3.01",
+          "copyright": "Copyright 1990-92 by Design Science, Inc. (310) 433-0685; part of MathType mathematical equation editor",
+          "font": "MTEXTRA.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Microsoft JhengHei",
+      "styles": [
+        {
+          "family_name": "Microsoft JhengHei",
+          "type": "Regular",
+          "full_name": "Microsoft JhengHei",
+          "post_script_name": "MicrosoftJhengHeiRegular",
+          "version": "6.02",
+          "copyright": "© 2009 Microsoft Corporation. All rights reserved.",
+          "font": "MSJH.ttf"
+        },
+        {
+          "family_name": "Microsoft JhengHei",
+          "type": "Bold",
+          "full_name": "Microsoft JhengHei Bold",
+          "post_script_name": "MicrosoftJhengHeiBold",
+          "version": "6.00",
+          "copyright": "© 2008 Microsoft Corporation. All rights reserved.",
+          "font": "MSJHBD.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

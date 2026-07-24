@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/bank_gothic_10m1360",
+  "name": "Bank Gothic",
+  "description": "Bank Gothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1990 Bitstream Inc. Copyright � 2001, 2006 Apple Computer Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ebd2e3d7ed81301a6e9dbe1423ec92aa6786882a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/ebd2e3d7ed81301a6e9dbe1423ec92aa6786882a.zip"
+      ],
+      "sha256": "9e32450786607498edcbd43bcb1581c2de1210e675aba1cc8e9ac4ec7a360c3c",
+      "file_size": 64457
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "BankGothic.ttc",
+      "fonts": [
+        {
+          "name": "Bank Gothic",
+          "styles": [
+            {
+              "family_name": "Bank Gothic",
+              "type": "Light",
+              "full_name": "Bank Gothic Light",
+              "post_script_name": "BankGothic-Light",
+              "version": "13.0d1e3",
+              "copyright": "Copyright � 1990 Bitstream Inc. Copyright � 2001, 2006 Apple Computer Inc. All rights reserved."
+            },
+            {
+              "family_name": "Bank Gothic",
+              "type": "Medium",
+              "full_name": "Bank Gothic Medium",
+              "post_script_name": "BankGothic-Medium",
+              "version": "13.0d1e3",
+              "copyright": "Copyright � 1990 Bitstream Inc. Copyright � 2001, 2006 Apple Computer Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

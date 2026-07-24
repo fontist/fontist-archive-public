@@ -1,0 +1,57 @@
+{
+  "slug": "euphemia",
+  "name": "Euphemia",
+  "description": "Euphemia Font",
+  "homepage": "https://www.tiro.com/syllabics/resources/index.html",
+  "spdx_license": "LicenseRef-tiro-typeworks-eula",
+  "license_url": "https://www.tiro.com/syllabics/resources/euphemia_EULA.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "euphemia.zip": {
+      "urls": [
+        "https://web.archive.org/web/20231205123750/https://www.tiro.com/syllabics/resources/compiled_data_sources/Fonts/Euphemia/%202.6.6%20Euphemia%20UCAS.zip"
+      ],
+      "sha256": "3a8a7181faf1a50e4cab35ad128ff11df7980c45e9c57e1f190f4355433b59f7",
+      "file_size": 273720
+    }
+  },
+  "fonts": [
+    {
+      "name": "Euphemia UCAS",
+      "styles": [
+        {
+          "family_name": "Euphemia UCAS",
+          "type": "Italic",
+          "full_name": "Euphemia UCAS Italic",
+          "post_script_name": "EuphemiaUCAS-Italic",
+          "version": "2.660 2004",
+          "copyright": "Copyright (c) 2004 by Tiro Typeworks. All rights reserved.",
+          "description": "Copyright (c) 2004 by Tiro Typeworks. All rights reserved.",
+          "font": "Euphemia UCAS Italic 2.6.6.ttf"
+        },
+        {
+          "family_name": "Euphemia UCAS",
+          "type": "Regular",
+          "full_name": "Euphemia UCAS",
+          "post_script_name": "EuphemiaUCAS",
+          "version": "2.660 2004",
+          "copyright": "Copyright (c) 2004 by Tiro Typeworks. All rights reserved.",
+          "description": "Copyright (c) 2004 by Tiro Typeworks. All rights reserved.",
+          "font": "Euphemia UCAS Regular 2.6.6.ttf"
+        },
+        {
+          "family_name": "Euphemia UCAS",
+          "type": "Bold",
+          "full_name": "Euphemia UCAS Bold",
+          "post_script_name": "EuphemiaUCAS-Bold",
+          "version": "2.660 2005",
+          "copyright": "Copyright (c) 2004 by Tiro Typeworks. All rights reserved.",
+          "description": "Copyright (c) 2004 by Tiro Typeworks. All rights reserved.",
+          "font": "Euphemia UCAS Bold 2.6.6.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

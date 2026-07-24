@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/libian_sc_10m1044",
+  "name": "Libian SC",
+  "description": "Libian SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7278ac2566252649b05c5a2b07c7d45be59f47c5.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/7278ac2566252649b05c5a2b07c7d45be59f47c5.zip"
+      ],
+      "sha256": "276b628a8b74b9652179d2149fb0d8d46a5d3e1331adb7fa769ee74b83120480",
+      "file_size": 21580118
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Libian.ttc",
+      "fonts": [
+        {
+          "name": "Libian SC",
+          "styles": [
+            {
+              "family_name": "Libian SC",
+              "type": "Regular",
+              "full_name": "Libian SC Regular",
+              "post_script_name": "STLibianSC-Regular",
+              "version": "17.0d1e2",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Libian TC",
+          "styles": [
+            {
+              "family_name": "Libian TC",
+              "type": "Regular",
+              "full_name": "Libian TC Regular",
+              "post_script_name": "STLibianTC-Regular",
+              "version": "17.0d1e2",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

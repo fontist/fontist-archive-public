@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font4/stix_two_text",
+  "name": "STIX Two Text",
+  "description": "STIX Two Text",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2001-2016 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.stixfonts.org/user_license.html",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "4bbecc1d96d839a7783eb0137363466efe734296.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/4bbecc1d96d839a7783eb0137363466efe734296.zip"
+      ],
+      "sha256": "6bdad5e02c5c8100b6c278df82690f9d69eb1be5224c6080245274ebc398ce7e",
+      "file_size": 191381
+    }
+  },
+  "fonts": [
+    {
+      "name": "STIX Two Text",
+      "styles": [
+        {
+          "family_name": "STIX Two Text",
+          "type": "Italic",
+          "full_name": "STIX Two Text Italic",
+          "post_script_name": "STIXTwoText-Italic",
+          "version": "2.00 b137",
+          "copyright": "Copyright (c) 2001-2016 by the STI Pub Companies, consisting of the American Chemical Society, the American Institute of Physics, the American Mathematical Society, the American Physical Society, Elsevier, Inc., and The Institute of Electrical and Electronic Engineers, Inc.  Portions copyright (c) 1998-2003 by MicroPress, Inc.  Portions copyright (c) 1990 by Elsevier, Inc.  All rights reserved.",
+          "description": "As a condition for receiving these fonts at no charge, each person downloading the fonts must agree to some simple license terms. The license is based on the SIL Open Font License <http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL>. The SIL License is a free and open source license specifically designed for fonts and related software. The basic terms are that the recipient will not remove the copyright and trademark statements from the fonts and that, if the person decides to create a derivative work based on the STIX Fonts but incorporating some changes or enhancements, the derivative work (\"Modified Version\") will carry a different name. The copyright and trademark restrictions are part of the agreement between the STI Pub companies and the typeface designer. The \"renaming\" restriction results from the desire of the STI Pub companies to assure that the STIX Fonts will continue to function in a predictable fashion for all that use them. No copy of one or more of the individual Font typefaces that form the STIX Fonts(TM) set may be sold by itself, but other than this one restriction, licensees are free to sell the fonts either separately or as part of a package that combines other software or fonts with this font set.",
+          "font": "STIXTwoText-Italic.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "manabiya",
+  "name": "manabiya",
+  "description": "Manabiya",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Manabiya-.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_manabiya_2018_0314.zip"
+      ],
+      "sha256": "84e2a64f505d4326b191261d307b88313ee308c1c28de396d99006c8c86d2282",
+      "file_size": 337475
+    }
+  },
+  "fonts": [
+    {
+      "name": "Manabiya-ICHO",
+      "styles": [
+        {
+          "family_name": "Manabiya-ICHO",
+          "type": "Regular",
+          "full_name": "Manabiya-ICHO",
+          "post_script_name": "Manabiya-ICHO",
+          "version": "1.00.20180314",
+          "copyright": "MODI",
+          "font": "Manabiya-ICHO.otf"
+        }
+      ]
+    },
+    {
+      "name": "Manabiya-SAKURA",
+      "styles": [
+        {
+          "family_name": "Manabiya-SAKURA",
+          "type": "Regular",
+          "full_name": "Manabiya-SAKURA",
+          "post_script_name": "Manabiya-SAKURA",
+          "version": "1.00.20180314",
+          "copyright": "MODI",
+          "font": "Manabiya-SAKURA.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

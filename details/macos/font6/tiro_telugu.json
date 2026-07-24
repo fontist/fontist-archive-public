@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font6/tiro_telugu",
+  "name": "Tiro Telugu",
+  "description": "Tiro Telugu",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2014, 2020 by Tiro Typeworks Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9a434a424886aef3e8278b0a326c1a9f155b1dde.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/9a434a424886aef3e8278b0a326c1a9f155b1dde.zip"
+      ],
+      "sha256": "f6e89c4655199b8e0affd2c81f2b1386646da88c8e6c7605689c98632a897c70",
+      "file_size": 416176
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TiroTelugu.ttc",
+      "fonts": [
+        {
+          "name": "Tiro Telugu",
+          "styles": [
+            {
+              "family_name": "Tiro Telugu",
+              "type": "Italic",
+              "full_name": "Tiro Telugu Italic",
+              "post_script_name": "TiroTelugu-Italic",
+              "version": "15.0d6e1",
+              "copyright": "Copyright (c) 2014, 2020 by Tiro Typeworks Ltd. All rights reserved."
+            },
+            {
+              "family_name": "Tiro Telugu",
+              "type": "Regular",
+              "full_name": "Tiro Telugu",
+              "post_script_name": "TiroTelugu",
+              "version": "15.0d6e1",
+              "copyright": "Copyright (c) 2014, 2020 by Tiro Typeworks Ltd. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

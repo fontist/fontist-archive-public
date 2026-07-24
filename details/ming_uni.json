@@ -1,0 +1,35 @@
+{
+  "slug": "ming_uni",
+  "name": "Ming Uni",
+  "description": "Ming font (ISO 10646 HKSCS-2011)",
+  "copyright": "(c) Copyright DynaComware Corp. 2003",
+  "spdx_license": "LicenseRef-HKSARG-SoftwareTOS",
+  "redistributable": false,
+  "source_format": "gz",
+  "resources": {
+    "Ming_Uni.gz": {
+      "urls": [
+        "https://web.archive.org/web/20181025105830/https://www.ogcio.gov.hk/en/our_work/business/tech_promotion/ccli/terms/doc/ming_uni.ttf.gz"
+      ],
+      "sha256": "d72ff917fc59046550676cba40d956eb8b6584e1f6e57bf94d3486113a86ff16",
+      "file_size": 22971372
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ming(for ISO10646)",
+      "styles": [
+        {
+          "family_name": "Ming(for ISO10646)",
+          "type": "Regular",
+          "full_name": "Ming(for ISO10646)",
+          "post_script_name": "Ming",
+          "version": "1.08",
+          "copyright": "(c) Copyright DynaComware Corp. 2003",
+          "font": "ming_uni.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

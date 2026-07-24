@@ -1,0 +1,38 @@
+{
+  "slug": "lxgw_neo_xihei",
+  "name": "LXGW Neo XiHei",
+  "description": "LXGW Neo XiHei",
+  "homepage": "https://github.com/lxgw/LxgwNeoXiHei",
+  "copyright": "Copyright(c) 2021-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "https://opensource.org/licenses/IPA/",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "LXGWNeoXiHei.ttf": {
+      "urls": [
+        "https://github.com/lxgw/LxgwNeoXiHei/releases/download/v1.123.2/LXGWNeoXiHei.ttf"
+      ],
+      "sha256": "b285453dea14e11a2f938c695ddf740a3cd0d72d6bc75393ff878a0993537784",
+      "file_size": 5630636,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "LXGW Neo XiHei",
+      "styles": [
+        {
+          "family_name": "LXGW Neo XiHei",
+          "type": "Regular",
+          "full_name": "LXGW Neo XiHei",
+          "post_script_name": "LXGWNeoXiHei",
+          "version": "1.123;June 5, 2024",
+          "copyright": "Copyright(c) 2021-2024 LXGW; Information-technology Promotion Agency, Japan (IPA), 2003-2019. You must accept \"https://opensource.org/licenses/IPA/\" to use this product.",
+          "font": "LXGWNeoXiHei.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

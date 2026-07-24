@@ -1,0 +1,37 @@
+{
+  "slug": "iansui",
+  "name": "iansui",
+  "description": "Iansui",
+  "homepage": "https://github.com/ButTaiwan/",
+  "copyright": "But Ko / The Klee Project (https://github.com/ButTaiwan/iansui)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Iansui.zip": {
+      "urls": [
+        "https://github.com/ButTaiwan/iansui/releases/download/v1.000/iansui.zip"
+      ],
+      "sha256": "f58add84ad60d5bbeec4b1e7b988f0fe19ec980d953cf7e67c8f2ea783e2fe38",
+      "file_size": 4413762
+    }
+  },
+  "fonts": [
+    {
+      "name": "Iansui",
+      "styles": [
+        {
+          "family_name": "Iansui",
+          "type": "Regular",
+          "full_name": "Iansui Regular",
+          "post_script_name": "Iansui-Regular",
+          "version": "1.002",
+          "copyright": "But Ko / The Klee Project (https://github.com/ButTaiwan/iansui)",
+          "font": "Iansui-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

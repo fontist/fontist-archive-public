@@ -1,0 +1,96 @@
+{
+  "slug": "macos/font8/graphik_compact_10m11177",
+  "name": "Graphik Compact",
+  "description": "Graphik Compact",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (C)2017 Commercial Type.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7f28337a867a0f6f3201be2cca8d20cd4d528068.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/7f28337a867a0f6f3201be2cca8d20cd4d528068.zip"
+      ],
+      "sha256": "296eb4e1b8f4a3bd3ac3223f276b715e38f691d2259864d9c3f280041b88fdc1",
+      "file_size": 350228
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "GraphikCompact.ttc",
+      "fonts": [
+        {
+          "name": "Graphik Compact",
+          "styles": [
+            {
+              "family_name": "Graphik Compact",
+              "type": "Bold",
+              "full_name": "Graphik Compact Bold",
+              "post_script_name": "GraphikCompact-Bold",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Bold Italic",
+              "full_name": "Graphik Compact Bold Italic",
+              "post_script_name": "GraphikCompact-BoldItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Italic",
+              "full_name": "Graphik Compact Semibold Italic",
+              "post_script_name": "GraphikCompact-SemiboldItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Italic",
+              "full_name": "Graphik Compact Regular Italic",
+              "post_script_name": "GraphikCompact-RegularItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Medium",
+              "full_name": "Graphik Compact Medium",
+              "post_script_name": "GraphikCompact-Medium",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Medium Italic",
+              "full_name": "Graphik Compact Medium Italic",
+              "post_script_name": "GraphikCompact-MediumItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Regular",
+              "full_name": "Graphik Compact Regular",
+              "post_script_name": "GraphikCompact-Regular",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            },
+            {
+              "family_name": "Graphik Compact",
+              "type": "Semibold Regular",
+              "full_name": "Graphik Compact Semibold",
+              "post_script_name": "GraphikCompact-Semibold",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (C)2017 Commercial Type."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

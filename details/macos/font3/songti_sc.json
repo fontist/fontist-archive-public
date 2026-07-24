@@ -1,0 +1,106 @@
+{
+  "slug": "macos/font3/songti_sc",
+  "name": "Songti SC",
+  "description": "Songti SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 1991-1998, 2012 Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "dabd6dd1b7b83d2b90c20f7a136dc7cd36c328b0.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/dabd6dd1b7b83d2b90c20f7a136dc7cd36c328b0.zip"
+      ],
+      "sha256": "b747fc62d9eeebbf3bfefc72b674fdc4e8d54e9440877968e2b5155bff888465",
+      "file_size": 43355777
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Songti.ttc",
+      "fonts": [
+        {
+          "name": "STSong",
+          "styles": [
+            {
+              "family_name": "STSong",
+              "type": "Regular",
+              "full_name": "STSong",
+              "post_script_name": "STSong",
+              "version": "11.0d2e2",
+              "copyright": "Copyright (c) 2002, Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Songti SC",
+          "styles": [
+            {
+              "family_name": "Songti SC",
+              "type": "Black",
+              "full_name": "Songti SC Black",
+              "post_script_name": "STSongti-SC-Black",
+              "version": "11.0d2e2",
+              "copyright": "© 1991-1998, 2012 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Songti SC",
+              "type": "Bold",
+              "full_name": "Songti SC Bold",
+              "post_script_name": "STSongti-SC-Bold",
+              "version": "11.0d2e2",
+              "copyright": "© 2000-2005, 2012 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Songti SC",
+              "type": "Light",
+              "full_name": "Songti SC Light",
+              "post_script_name": "STSongti-SC-Light",
+              "version": "11.0d2e2",
+              "copyright": "© 1991-2001 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Songti SC",
+              "type": "Regular",
+              "full_name": "Songti SC Regular",
+              "post_script_name": "STSongti-SC-Regular",
+              "version": "11.0d2e2",
+              "copyright": "© 2010-2012 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Songti TC",
+          "styles": [
+            {
+              "family_name": "Songti TC",
+              "type": "Bold",
+              "full_name": "Songti TC Bold",
+              "post_script_name": "STSongti-TC-Bold",
+              "version": "11.0d2e2",
+              "copyright": "© 2010-2012, 2013 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Songti TC",
+              "type": "Light",
+              "full_name": "Songti SC Light",
+              "post_script_name": "STSongti-TC-Light",
+              "version": "11.0d2e2",
+              "copyright": "© 2010-2012, 2013 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            },
+            {
+              "family_name": "Songti TC",
+              "type": "Regular",
+              "full_name": "Songti TC Regular",
+              "post_script_name": "STSongti-TC-Regular",
+              "version": "11.0d2e2",
+              "copyright": "© 2010-2012, 2013 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

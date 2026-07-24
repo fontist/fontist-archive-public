@@ -1,0 +1,331 @@
+{
+  "slug": "korean",
+  "name": "Korean",
+  "description": "Korean",
+  "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+  "spdx_license": "LicenseRef-Microsoft-Office2013-1",
+  "redistributable": false,
+  "source_format": "exe",
+  "resources": {
+    "Korean.exe": {
+      "urls": [
+        "https://gitlab.com/fontmirror/langpacks/-/raw/master/OfficeLangPack2013_KO_x86.exe",
+        "http://download.microsoft.com/download/8/1/2/81220AB3-F413-4900-9799-185BE31531AC/OfficeLangPack2013_KO_x86.exe",
+        "https://web.archive.org/web/20200629064611/http://download.microsoft.com/download/8/1/2/81220AB3-F413-4900-9799-185BE31531AC/OfficeLangPack2013_KO_x86.exe"
+      ],
+      "sha256": "674fab07d9c4300adc8edaff197a494b78cd7e543ebb7f6e1125ddeb1826e43b",
+      "file_size": 238946440
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ami R",
+      "styles": [
+        {
+          "family_name": "Ami R",
+          "type": "Regular",
+          "full_name": "Ami R",
+          "post_script_name": "AmiR-HM",
+          "version": "002.000",
+          "copyright": "Copyright(c) 1996 Human Computers, Inc.",
+          "font": "HMKMAMI.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYGothic-Extra",
+      "styles": [
+        {
+          "family_name": "HYGothic-Extra",
+          "type": "Regular",
+          "full_name": "HYGothic-Extra",
+          "post_script_name": "H2gtrE",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2GTRE.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYGothic-Medium",
+      "styles": [
+        {
+          "family_name": "HYGothic-Medium",
+          "type": "Regular",
+          "full_name": "HYGothic-Medium",
+          "post_script_name": "H2gtrM",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2GTRM.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYGraphic-Medium",
+      "styles": [
+        {
+          "family_name": "HYGraphic-Medium",
+          "type": "Regular",
+          "full_name": "HYGraphic-Medium",
+          "post_script_name": "H2gprM",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2GPRM.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYGungSo-Bold",
+      "styles": [
+        {
+          "family_name": "HYGungSo-Bold",
+          "type": "Regular",
+          "full_name": "HYGungSo-Bold",
+          "post_script_name": "H2gsrB",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2GSRB.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYHeadLine-Medium",
+      "styles": [
+        {
+          "family_name": "HYHeadLine-Medium",
+          "type": "Regular",
+          "full_name": "HYHeadLine-Medium",
+          "post_script_name": "H2hdrM",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2HDRM.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYMyeongJo-Extra",
+      "styles": [
+        {
+          "family_name": "HYMyeongJo-Extra",
+          "type": "Regular",
+          "full_name": "HYMyeongJo-Extra",
+          "post_script_name": "H2mjrE",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2MJRE.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYPMokGak-Bold",
+      "styles": [
+        {
+          "family_name": "HYPMokGak-Bold",
+          "type": "Regular",
+          "full_name": "HYPMokGak-Bold",
+          "post_script_name": "H2mkpB",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2MKPB.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYPost-Light",
+      "styles": [
+        {
+          "family_name": "HYPost-Light",
+          "type": "Regular",
+          "full_name": "HYPost-Light",
+          "post_script_name": "H2porL",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2PORL.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYPost-Medium",
+      "styles": [
+        {
+          "family_name": "HYPost-Medium",
+          "type": "Regular",
+          "full_name": "HYPost-Medium",
+          "post_script_name": "H2porM",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2PORM.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYShortSamul-Medium",
+      "styles": [
+        {
+          "family_name": "HYShortSamul-Medium",
+          "type": "Regular",
+          "full_name": "HYShortSamul-Medium",
+          "post_script_name": "H2sa1M",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2SA1M.ttf"
+        }
+      ]
+    },
+    {
+      "name": "HYSinMyeongJo-Medium",
+      "styles": [
+        {
+          "family_name": "HYSinMyeongJo-Medium",
+          "type": "Regular",
+          "full_name": "HYSinMyeongJo-Medium",
+          "post_script_name": "H2mjsM",
+          "version": "1.00",
+          "copyright": "(c) Copyright HanYang Systems Inc. 1995",
+          "font": "H2MJSM.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Headline R",
+      "styles": [
+        {
+          "family_name": "Headline R",
+          "type": "Regular",
+          "full_name": "Headline R",
+          "post_script_name": "HeadlineR-HM",
+          "version": "002.000",
+          "copyright": "Copyright(c) 1996 Human Computers, Inc.",
+          "font": "HMKMRHD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "MT Extra",
+      "styles": [
+        {
+          "family_name": "MT Extra",
+          "type": "Regular",
+          "full_name": "MT Extra",
+          "post_script_name": "MT-Extra",
+          "version": "3.01",
+          "copyright": "Copyright 1990-92 by Design Science, Inc. (310) 433-0685; part of MathType mathematical equation editor",
+          "font": "MTEXTRA.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Magic R",
+      "styles": [
+        {
+          "family_name": "Magic R",
+          "type": "Regular",
+          "full_name": "Magic R",
+          "post_script_name": "MagicR-HM",
+          "version": "002.000",
+          "copyright": "Copyright(c) 1996 Human Computers, Inc.",
+          "font": "HMKMMAG.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Malgun Gothic",
+      "styles": [
+        {
+          "family_name": "Malgun Gothic",
+          "type": "Regular",
+          "full_name": "Malgun Gothic",
+          "post_script_name": "MalgunGothicRegular",
+          "version": "6.11",
+          "copyright": "© 2008 Microsoft Corporation. All Rights Reserved.",
+          "description": "Malgun Gothic is a Korean font developed by taking advantage of ClearType technology, and it provides excellent reading experience particularly onscreen. Its elements are created based on the typeface of Hunminjeongeum, and streamlined with modern form of characters as well as upright and well-regulated strokes. The font is very legible at small sizes with its moderate open counters, and its even inter-character spacing and visual center line maximize the readability.",
+          "font": "MALGUN.ttf"
+        },
+        {
+          "family_name": "Malgun Gothic",
+          "type": "Bold",
+          "full_name": "Malgun Gothic Bold",
+          "post_script_name": "MalgunGothicBold",
+          "version": "6.00",
+          "copyright": "© 2008 Microsoft Corporation. All Rights Reserved.",
+          "font": "MALGUNBD.ttf"
+        }
+      ]
+    },
+    {
+      "name": "New Gulim",
+      "styles": [
+        {
+          "family_name": "New Gulim",
+          "type": "Regular",
+          "full_name": "New Gulim",
+          "post_script_name": "New Gulim",
+          "version": "3.10",
+          "copyright": "(c) Copyright HanYang System Co.,LTD. 1998",
+          "font": "NGULIM.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Pyunji R",
+      "styles": [
+        {
+          "family_name": "Pyunji R",
+          "type": "Regular",
+          "full_name": "Pyunji R",
+          "post_script_name": "PyunjiR-HM",
+          "version": "003.000",
+          "copyright": "Copyright(c) 1996 Human Computers, Inc.",
+          "font": "HMFMPYUN.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Yet R",
+      "styles": [
+        {
+          "family_name": "Yet R",
+          "type": "Regular",
+          "full_name": "Yet R",
+          "post_script_name": "YetR-HM",
+          "version": "002.000",
+          "copyright": "Copyright(c) 1996 HUMAN COMPUTERS, INC.",
+          "font": "HMFMOLD.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": [
+    {
+      "filename": "HMFMMUEX.ttc",
+      "fonts": [
+        {
+          "name": "Expo M",
+          "styles": [
+            {
+              "family_name": "Expo M",
+              "type": "Regular",
+              "full_name": "Expo M",
+              "post_script_name": "ExpoM-HM",
+              "version": "002.000",
+              "copyright": "Copyright(c) 1996 Human Computers, Inc."
+            }
+          ]
+        },
+        {
+          "name": "MoeumT R",
+          "styles": [
+            {
+              "family_name": "MoeumT R",
+              "type": "Regular",
+              "full_name": "MoeumT R",
+              "post_script_name": "MoeumTR-HM",
+              "version": "002.000",
+              "copyright": "Copyright(c) 1996 Human Computers, Inc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

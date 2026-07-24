@@ -1,0 +1,53 @@
+{
+  "slug": "macos/yaziji_10m11177",
+  "name": "Yaziji",
+  "description": "Yaziji",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Yaziji (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5d89c489a1f5f799b08c1278b5e45ae3e5919b7d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/5d89c489a1f5f799b08c1278b5e45ae3e5919b7d.zip"
+      ],
+      "sha256": "50cb37a91da5420ce453a9804297f8471743a2bcf61748ca0ecde46de8ea99f6",
+      "file_size": 30684
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Yaziji.ttc",
+      "fonts": [
+        {
+          "name": ".Yaziji PUA",
+          "styles": [
+            {
+              "family_name": ".Yaziji PUA",
+              "type": "Regular",
+              "full_name": ".Yaziji PUA",
+              "post_script_name": ".YazijiPUA",
+              "version": "13.0d1e4",
+              "copyright": ".Yaziji PUA (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Yaziji",
+          "styles": [
+            {
+              "family_name": "Yaziji",
+              "type": "Regular",
+              "full_name": "Yaziji Regular",
+              "post_script_name": "Yaziji",
+              "version": "13.0d1e4",
+              "copyright": "Yaziji (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

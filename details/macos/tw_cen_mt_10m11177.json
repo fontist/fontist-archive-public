@@ -1,0 +1,64 @@
+{
+  "slug": "macos/tw_cen_mt_10m11177",
+  "name": "Tw Cen MT",
+  "description": "Tw Cen MT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a8bfb6b1e75aa07ecd2c9f35de98afc0ec3829c8.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/a8bfb6b1e75aa07ecd2c9f35de98afc0ec3829c8.zip"
+      ],
+      "sha256": "8ec3fe6e1cf38e31d578efd4ddf9fdd0dd357535225cb405442da7097844c7ae",
+      "file_size": 169827
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TwentiethCentury.ttc",
+      "fonts": [
+        {
+          "name": "Tw Cen MT",
+          "styles": [
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Bold",
+              "full_name": "Tw Cen MT Bold",
+              "post_script_name": "TwCenMT-Bold",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Bold Italic",
+              "full_name": "Tw Cen MT Bold Italic",
+              "post_script_name": "TwCenMT-BoldItalic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Italic",
+              "full_name": "Tw Cen MT Italic",
+              "post_script_name": "TwCenMT-Italic",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            },
+            {
+              "family_name": "Tw Cen MT",
+              "type": "Regular",
+              "full_name": "Tw Cen MT",
+              "post_script_name": "TwCenMT-Regular",
+              "version": "13.0d1e2",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-1997. All rights reserved. Twentieth Century™ is a trademark of The Monotype Corporation which may be registered in certain jurisdictions."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "macos/font6/hiragino_sans_gb",
+  "name": "Hiragino Sans GB",
+  "description": "Hiragino Sans GB",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver3.20, Copyright © 2007-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "f6de36a0dfa03b41f72edcaa676806cb9504c4db.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/f6de36a0dfa03b41f72edcaa676806cb9504c4db.zip"
+      ],
+      "sha256": "2f254ad6ed551e11ad50b5b4d5628214a5a9e2bf1a03de53023c0bfb2a4cd8a6",
+      "file_size": 21063679
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Hiragino_Sans_GB.ttc",
+      "fonts": [
+        {
+          "name": ".Hiragino Sans GB Interface",
+          "styles": [
+            {
+              "family_name": ".Hiragino Sans GB Interface",
+              "type": "W3",
+              "full_name": ".Hiragino Sans GB Interface W3",
+              "post_script_name": ".HiraginoSansGBInterface-W3",
+              "version": "13.0d2e3",
+              "copyright": "ver3.20, Copyright © 2007-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            },
+            {
+              "family_name": ".Hiragino Sans GB Interface",
+              "type": "W6",
+              "full_name": ".Hiragino Sans GB Interface W6",
+              "post_script_name": ".HiraginoSansGBInterface-W6",
+              "version": "13.0d2e3",
+              "copyright": "ver3.20, Copyright © 2007-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Sans GB W3",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans GB W3",
+              "type": "Regular",
+              "full_name": "Hiragino Sans GB W3",
+              "post_script_name": "HiraginoSansGB-W3",
+              "version": "13.0d2e3",
+              "copyright": "ver3.20, Copyright © 2007-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Sans GB W6",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans GB W6",
+              "type": "Bold",
+              "full_name": "Hiragino Sans GB W6",
+              "post_script_name": "HiraginoSansGB-W6",
+              "version": "13.0d2e3",
+              "copyright": "ver3.20, Copyright © 2007-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

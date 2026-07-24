@@ -1,0 +1,48 @@
+{
+  "slug": "macos/gurmukhi_sangam_mn_10m11177",
+  "name": "Gurmukhi Sangam MN",
+  "description": "Gurmukhi Sangam MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2011 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "107004bd21eb618e695584119622d9835958b5db.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/107004bd21eb618e695584119622d9835958b5db.zip"
+      ],
+      "sha256": "613a36488e85cb2e80588d967bdb7fe0971b3ec5c164c8777b9e1659351a6c8e",
+      "file_size": 55943
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Gurmukhi-Sangam-MN.ttc",
+      "fonts": [
+        {
+          "name": "Gurmukhi Sangam MN",
+          "styles": [
+            {
+              "family_name": "Gurmukhi Sangam MN",
+              "type": "Bold",
+              "full_name": "Gurmukhi Sangam MN Bold",
+              "post_script_name": "GurmukhiSangamMN-Bold",
+              "version": "20.0d1e3",
+              "copyright": "Copyright (c) 2011 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Gurmukhi Sangam MN",
+              "type": "Regular",
+              "full_name": "Gurmukhi Sangam MN",
+              "post_script_name": "GurmukhiSangamMN",
+              "version": "20.0d1e3",
+              "copyright": "Copyright (c) 2011 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

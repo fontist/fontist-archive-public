@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/blairmditc_tt",
+  "name": "BlairMdITC TT",
+  "description": "BlairMdITC TT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1995-1997 International Typeface Corporation.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c707abd533895e300119771af574120345adf388.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/c707abd533895e300119771af574120345adf388.zip"
+      ],
+      "sha256": "badcbc7330c8751b0cefceb70aba6933b29dba1e8f0783298f44e04f60e5c95d",
+      "file_size": 56264
+    }
+  },
+  "fonts": [
+    {
+      "name": "BlairMdITC TT",
+      "styles": [
+        {
+          "family_name": "BlairMdITC TT",
+          "type": "Medium",
+          "full_name": "BlairMdITC TT Medium",
+          "post_script_name": "BlairMdITCTT-Medium",
+          "version": "9.0d1e1",
+          "copyright": "Copyright � 1995-1997 International Typeface Corporation.  All rights reserved.",
+          "font": "Blair Medium.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

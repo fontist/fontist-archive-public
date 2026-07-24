@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font4/inaimathi",
+  "name": "InaiMathi",
+  "description": "InaiMathi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1986 Murasu Systems Sdn. Bhd. Malaysia. (c) 2000 Grow Momentum (S) Pte. Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "796f4e6c91374eb8244a7ecb8ba58a101e9427af.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/796f4e6c91374eb8244a7ecb8ba58a101e9427af.zip"
+      ],
+      "sha256": "663ad8de55880813907ce964dde533bb8bcb8b01f29f08b05754e528f6442225",
+      "file_size": 188542
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "InaiMathi-MN.ttc",
+      "fonts": [
+        {
+          "name": "InaiMathi",
+          "styles": [
+            {
+              "family_name": "InaiMathi",
+              "type": "Bold",
+              "full_name": "InaiMathi Bold",
+              "post_script_name": "InaiMathi-Bold",
+              "version": "13.0d1e5",
+              "copyright": "Copyright (c) 1986 Murasu Systems Sdn. Bhd. Malaysia. (c) 2000 Grow Momentum (S) Pte. Ltd. All rights reserved."
+            },
+            {
+              "family_name": "InaiMathi",
+              "type": "Regular",
+              "full_name": "InaiMathi",
+              "post_script_name": "InaiMathi",
+              "version": "13.0d1e5",
+              "copyright": "Copyright (c) 1986 Murasu Systems Sdn. Bhd. Malaysia. (c) 2000 Grow Momentum (S) Pte. Ltd. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

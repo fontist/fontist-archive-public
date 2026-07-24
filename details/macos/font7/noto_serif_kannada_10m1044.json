@@ -1,0 +1,149 @@
+{
+  "slug": "macos/font7/noto_serif_kannada_10m1044",
+  "name": "Noto Serif Kannada",
+  "description": "Noto Serif Kannada",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ce3ca7cc88974b63ce2a6cda076d9974eff41c2e.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/ce3ca7cc88974b63ce2a6cda076d9974eff41c2e.zip"
+      ],
+      "sha256": "f9344292494f233c279cd876adf5bb67176cb6b0d800be775b1da003b5f6a8bc",
+      "file_size": 368353
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "NotoSerifKannada.ttc",
+      "fonts": [
+        {
+          "name": "Noto Serif Kannada",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada",
+              "type": "Bold",
+              "full_name": "Noto Serif Kannada Bold",
+              "post_script_name": "NotoSerifKannada-Bold",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            },
+            {
+              "family_name": "Noto Serif Kannada",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada Regular",
+              "post_script_name": "NotoSerifKannada-Regular",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada Black",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada Black",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada Black",
+              "post_script_name": "NotoSerifKannada-Black",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada ExtraBold",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada ExtraBold",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada ExtraBold",
+              "post_script_name": "NotoSerifKannada-ExtraBold",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada ExtraLight",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada ExtraLight",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada ExtraLight",
+              "post_script_name": "NotoSerifKannada-ExtraLight",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada Light",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada Light",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada Light",
+              "post_script_name": "NotoSerifKannada-Light",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada Medium",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada Medium",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada Medium",
+              "post_script_name": "NotoSerifKannada-Medium",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada SemiBold",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada SemiBold",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada SemiBold",
+              "post_script_name": "NotoSerifKannada-SemiBold",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        },
+        {
+          "name": "Noto Serif Kannada Thin",
+          "styles": [
+            {
+              "family_name": "Noto Serif Kannada Thin",
+              "type": "Regular",
+              "full_name": "Noto Serif Kannada Thin",
+              "post_script_name": "NotoSerifKannada-Thin",
+              "version": "2.001",
+              "copyright": "Copyright 2017 Google Inc. All Rights Reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/wingdings_3",
+  "name": "Wingdings 3",
+  "description": "Wingdings 3",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Wingdings 3 designed by Bigelow & Holmes Inc. for Microsoft Corporation. Copyright © 1992 Microsoft Corporation. Pat. pend. All Rights Reserved. © 1990-1991 Type Solutions, Inc. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "69b880d96e034b4addf221f03e78df1c6bd9fa19.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/69b880d96e034b4addf221f03e78df1c6bd9fa19.zip"
+      ],
+      "sha256": "1d5f7ff64ceb42be48de958904f742445abefccd44494b2b4ef5912ac10745f0",
+      "file_size": 21350
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wingdings 3",
+      "styles": [
+        {
+          "family_name": "Wingdings 3",
+          "type": "Regular",
+          "full_name": "Wingdings 3",
+          "post_script_name": "Wingdings3",
+          "version": "1.55x",
+          "copyright": "Wingdings 3 designed by Bigelow & Holmes Inc. for Microsoft Corporation. Copyright © 1992 Microsoft Corporation. Pat. pend. All Rights Reserved. © 1990-1991 Type Solutions, Inc. All Rights Reserved.",
+          "font": "WINGDNG3.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

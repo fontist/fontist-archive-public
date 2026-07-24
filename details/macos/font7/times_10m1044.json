@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font7/times_10m1044",
+  "name": "Times",
+  "description": "Times",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1990-99 Apple Computer Inc. � 1981 Linotype AG  � 1990-91 Type Solutions Inc. � 1990-91 The Font Bureau Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1a2dff7798732813adb5f3587e149ed2b95692e3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/1a2dff7798732813adb5f3587e149ed2b95692e3.zip"
+      ],
+      "sha256": "f9113f6d370a64b5d116f29d4e227fda0fce0a0f0edeae8028e6f3ee0ceabf30",
+      "file_size": 400142
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Times.ttc",
+      "fonts": [
+        {
+          "name": "Times",
+          "styles": [
+            {
+              "family_name": "Times",
+              "type": "Bold",
+              "full_name": "Times Bold",
+              "post_script_name": "Times-Bold",
+              "version": "17.0d1e1",
+              "copyright": "� 1990-99 Apple Computer Inc. � 1981 Linotype AG � 1990-91 Type Solutions Inc. � 1990-91 The Font Bureau Inc."
+            },
+            {
+              "family_name": "Times",
+              "type": "Bold Italic",
+              "full_name": "Times Bold Italic",
+              "post_script_name": "Times-BoldItalic",
+              "version": "17.0d1e1",
+              "copyright": "� 1990-99 Apple Computer Inc. � 1981 Linotype AG  � 1990-91 Type Solutions Inc. � 1990-91 The Font Bureau Inc."
+            },
+            {
+              "family_name": "Times",
+              "type": "Italic",
+              "full_name": "Times Italic",
+              "post_script_name": "Times-Italic",
+              "version": "17.0d1e1",
+              "copyright": "� 1990-99 Apple Computer Inc. � 1981 Linotype AG  � 1990-91 Type Solutions Inc. � 1990-91 The Font Bureau Inc."
+            },
+            {
+              "family_name": "Times",
+              "type": "Regular",
+              "full_name": "Times Roman",
+              "post_script_name": "Times-Roman",
+              "version": "17.0d1e1",
+              "copyright": "� 1990-99 Apple Computer Inc. � 1981 Linotype AG  � 1990-91 Type Solutions Inc. � 1990-91 The Font Bureau Inc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "ferrum",
+  "name": "Ferrum",
+  "description": "Ferrum",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "No Rights Reserved.",
+  "spdx_license": "CC0-1.0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "ferrum_0200.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/ferrum_0200.zip"
+      ],
+      "sha256": "46dcc2093ba057e1198b8b4b87d708a98752f2b732e63a86155b40bfe775c06c",
+      "file_size": 11380
+    }
+  },
+  "fonts": [
+    {
+      "name": "Ferrum",
+      "styles": [
+        {
+          "family_name": "Ferrum",
+          "type": "Regular",
+          "full_name": "Ferrum",
+          "post_script_name": "Ferrum",
+          "version": "0.200",
+          "copyright": "No Rights Reserved.",
+          "description": "No Rights Reserved.",
+          "font": "ferrum.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

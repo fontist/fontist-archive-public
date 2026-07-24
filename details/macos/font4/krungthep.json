@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/krungthep",
+  "name": "Krungthep",
+  "description": "Krungthep",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1992-2003 Apple Computer, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "47dc510b6d5870c2a6f4256e3a5478215da747c8.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/47dc510b6d5870c2a6f4256e3a5478215da747c8.zip"
+      ],
+      "sha256": "4f1cd9b8e013742f3ee6da319d679db52fdf49a4cf095a18f6b810e584b1a56b",
+      "file_size": 73986
+    }
+  },
+  "fonts": [
+    {
+      "name": "Krungthep",
+      "styles": [
+        {
+          "family_name": "Krungthep",
+          "type": "Regular",
+          "full_name": "Krungthep",
+          "post_script_name": "Krungthep",
+          "version": "13.0d2e1",
+          "copyright": "� 1992-2003 Apple Computer, Inc.",
+          "font": "Krungthep-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

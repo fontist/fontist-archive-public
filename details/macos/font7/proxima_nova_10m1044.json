@@ -1,0 +1,149 @@
+{
+  "slug": "macos/font7/proxima_nova_10m1044",
+  "name": "Proxima Nova",
+  "description": "Proxima Nova",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.marksimonson.com/info/licenses",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "298991e39e2f44ffa996dd93cbb050f2f4ef2640.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/298991e39e2f44ffa996dd93cbb050f2f4ef2640.zip"
+      ],
+      "sha256": "1d0d3f9adbe0f135ae77cb60ce3e7148054c55aa469e95910870717b881df554",
+      "file_size": 942452
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ProximaNova.ttc",
+      "fonts": [
+        {
+          "name": "Proxima Nova",
+          "styles": [
+            {
+              "family_name": "Proxima Nova",
+              "type": "Bold",
+              "full_name": "Proxima Nova Bold",
+              "post_script_name": "ProximaNova-Bold",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova",
+              "type": "Bold Italic",
+              "full_name": "Proxima Nova Bold It",
+              "post_script_name": "ProximaNova-BoldIt",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova",
+              "type": "Italic",
+              "full_name": "Proxima Nova It",
+              "post_script_name": "ProximaNova-RegularIt",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova",
+              "type": "Regular",
+              "full_name": "Proxima Nova",
+              "post_script_name": "ProximaNova-Regular",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Proxima Nova Extrabold",
+          "styles": [
+            {
+              "family_name": "Proxima Nova Extrabold",
+              "type": "Italic",
+              "full_name": "Proxima Nova Extrabold It",
+              "post_script_name": "ProximaNova-ExtrabldIt",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova Extrabold",
+              "type": "Regular",
+              "full_name": "Proxima Nova Extrabold",
+              "post_script_name": "ProximaNova-Extrabld",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Proxima Nova Light",
+          "styles": [
+            {
+              "family_name": "Proxima Nova Light",
+              "type": "Italic",
+              "full_name": "Proxima Nova Light It",
+              "post_script_name": "ProximaNova-LightIt",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova Light",
+              "type": "Regular",
+              "full_name": "Proxima Nova Light",
+              "post_script_name": "ProximaNova-Light",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Proxima Nova Medium",
+          "styles": [
+            {
+              "family_name": "Proxima Nova Medium",
+              "type": "Italic",
+              "full_name": "Proxima Nova Medium It",
+              "post_script_name": "ProximaNova-MediumIt",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova Medium",
+              "type": "Regular",
+              "full_name": "Proxima Nova Medium",
+              "post_script_name": "ProximaNova-Medium",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Proxima Nova Semibold",
+          "styles": [
+            {
+              "family_name": "Proxima Nova Semibold",
+              "type": "Italic",
+              "full_name": "Proxima Nova Semibold It",
+              "post_script_name": "ProximaNova-SemiboldIt",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            },
+            {
+              "family_name": "Proxima Nova Semibold",
+              "type": "Regular",
+              "full_name": "Proxima Nova Semibold",
+              "post_script_name": "ProximaNova-Semibold",
+              "version": "15.0d2e3",
+              "copyright": "Copyright (c) Mark Simonson, 2005. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

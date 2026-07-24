@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font7/microsoft_sans_serif_10m1044",
+  "name": "Microsoft Sans Serif",
+  "description": "Microsoft Sans Serif",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "82866126d0911dd5ac16119c562fd57582cba2a7.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/82866126d0911dd5ac16119c562fd57582cba2a7.zip"
+      ],
+      "sha256": "9864660a61d8a0447ca594f4d14ffc69aa03b296fd64c461f13b917774e49a50",
+      "file_size": 361768
+    }
+  },
+  "fonts": [
+    {
+      "name": "Microsoft Sans Serif",
+      "styles": [
+        {
+          "family_name": "Microsoft Sans Serif",
+          "type": "Regular",
+          "full_name": "Microsoft Sans Serif",
+          "post_script_name": "MicrosoftSansSerif",
+          "version": "5.00.1x",
+          "copyright": "© 2006 Microsoft Corporation. All Rights Reserved.",
+          "description": "You may use this font as permitted by the EULA for the product in which this font is included to display and print content.  You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "micross.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

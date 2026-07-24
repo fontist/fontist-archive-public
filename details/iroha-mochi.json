@@ -1,0 +1,37 @@
+{
+  "slug": "iroha-mochi",
+  "name": "iroha-mochi",
+  "description": "iroha-mochi",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "iroha-mochi.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_iroha-mochi_2018_0112.zip"
+      ],
+      "sha256": "181e17f9fa1847d01e786d72bce9e34b1184c566ea1ccdd396855065c1df6420",
+      "file_size": 153677
+    }
+  },
+  "fonts": [
+    {
+      "name": "iroha-mochi",
+      "styles": [
+        {
+          "family_name": "iroha-mochi",
+          "type": "Regular",
+          "full_name": "iroha-mochi",
+          "post_script_name": "iroha-mochi",
+          "version": "1.00.20180112",
+          "copyright": "MODI",
+          "font": "iroha-mochi.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

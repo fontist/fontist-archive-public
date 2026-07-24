@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/modak_10m7626",
+  "name": "Modak",
+  "description": "Modak",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2014, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "929f76f5b8520c52c0f1ff7911b88d29860f8c49.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/929f76f5b8520c52c0f1ff7911b88d29860f8c49.zip"
+      ],
+      "sha256": "f37923911f92762a807814c03ff18567fea252e4d127234e84cd173ed325c543",
+      "file_size": 197352
+    }
+  },
+  "fonts": [
+    {
+      "name": "Modak",
+      "styles": [
+        {
+          "family_name": "Modak",
+          "type": "Regular",
+          "full_name": "Modak",
+          "post_script_name": "Modak",
+          "version": "20.0d1e2 (1.155)",
+          "copyright": "Copyright (c) 2014, Ek Type. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "font": "Modak-Devanagari.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

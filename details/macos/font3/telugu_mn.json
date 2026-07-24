@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font3/telugu_mn",
+  "name": "Telugu MN",
+  "description": "Telugu MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "f3c3de3c241537e402269c12d017fe489a91a7e3.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/f3c3de3c241537e402269c12d017fe489a91a7e3.zip"
+      ],
+      "sha256": "1b19640da7fb43c0d1e43fc564998c33d1a1c504b06458a4af6213c9ab641f57",
+      "file_size": 162934
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Telugu MN.ttc",
+      "fonts": [
+        {
+          "name": "Telugu MN",
+          "styles": [
+            {
+              "family_name": "Telugu MN",
+              "type": "Bold",
+              "full_name": "Telugu MN Bold",
+              "post_script_name": "TeluguMN-Bold",
+              "version": "12.0d1e1",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Telugu MN",
+              "type": "Regular",
+              "full_name": "Telugu MN",
+              "post_script_name": "TeluguMN",
+              "version": "12.0d1e1",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

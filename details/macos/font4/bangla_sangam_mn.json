@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font4/bangla_sangam_mn",
+  "name": "Bangla Sangam MN",
+  "description": "Bangla Sangam MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2003 by Muthu Nedumaran. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0489257515b34f3f824e69f2937bb4e40125e658.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/0489257515b34f3f824e69f2937bb4e40125e658.zip"
+      ],
+      "sha256": "622966e51b6a6fdbcf5f8f3ad177617b5e227ab7582ebf13fc6ef2f28ee64b02",
+      "file_size": 160220
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "BanglaSangam-MN.ttc",
+      "fonts": [
+        {
+          "name": "Bangla Sangam MN",
+          "styles": [
+            {
+              "family_name": "Bangla Sangam MN",
+              "type": "Bold",
+              "full_name": "Bangla Sangam MN Bold",
+              "post_script_name": "BanglaSangamMN-Bold",
+              "version": "13.0d1e5",
+              "copyright": "Copyright (c) 2003 by Muthu Nedumaran. All rights reserved."
+            },
+            {
+              "family_name": "Bangla Sangam MN",
+              "type": "Regular",
+              "full_name": "Bangla Sangam MN",
+              "post_script_name": "BanglaSangamMN",
+              "version": "13.0d1e5",
+              "copyright": "Copyright (c) 2003 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/hoefler_text_ornaments_10m11177",
+  "name": "Hoefler Text Ornaments",
+  "description": "Hoefler Text Ornaments",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� Apple Inc., 1992-2007",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7ea53ca1c69d67e846d72269f5f2b1df468d4dcc.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/7ea53ca1c69d67e846d72269f5f2b1df468d4dcc.zip"
+      ],
+      "sha256": "1ca0064497f5d6ad56eb28c0809e7c18f01132bbc17f088c4fb4a66614601fb7",
+      "file_size": 26471
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hoefler Text Ornaments",
+      "styles": [
+        {
+          "family_name": "Hoefler Text Ornaments",
+          "type": "Ornaments",
+          "full_name": "Hoefler Text Ornaments",
+          "post_script_name": "HoeflerText-Ornaments",
+          "version": "14.0d1e2",
+          "copyright": "� Apple Inc., 1992-2007",
+          "font": "HoeflerText-Ornaments.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

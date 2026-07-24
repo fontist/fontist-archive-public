@@ -1,0 +1,61 @@
+{
+  "slug": "macos/font3/stone_sans_sem_itc_tt",
+  "name": "Stone Sans Sem ITC TT",
+  "description": "Stone Sans Sem ITC TT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3bf4878e032f94469d6e109362e75f71cfee7f57.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/3bf4878e032f94469d6e109362e75f71cfee7f57.zip"
+      ],
+      "sha256": "087bfa73cd6b7aadc7d34927ea6e1dd8c8ee006e16c2d5f490089b3188703a44",
+      "file_size": 140302
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Stone Sans.ttc",
+      "fonts": [
+        {
+          "name": "Stone Sans ITC TT",
+          "styles": [
+            {
+              "family_name": "Stone Sans ITC TT",
+              "type": "Bold",
+              "full_name": "Stone Sans ITC TT Bold",
+              "post_script_name": "StoneSansITCTT-Bold",
+              "version": "9.0d1e1",
+              "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Stone Sans Sem ITC TT",
+          "styles": [
+            {
+              "family_name": "Stone Sans Sem ITC TT",
+              "type": "Semi",
+              "full_name": "Stone Sans Sem ITC TT Semi",
+              "post_script_name": "StoneSansITCTT-Semi",
+              "version": "9.0d1e1",
+              "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved."
+            },
+            {
+              "family_name": "Stone Sans Sem ITC TT",
+              "type": "SemiIta",
+              "full_name": "Stone Sans Sem ITC TT SemiIta",
+              "post_script_name": "StoneSansITCTT-SemiIta",
+              "version": "9.0d1e1",
+              "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

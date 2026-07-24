@@ -1,0 +1,38 @@
+{
+  "slug": "fontoponihongo",
+  "name": "fontoponihongo",
+  "description": "FontopoNIHONGO",
+  "homepage": "https://fontopo.com/",
+  "copyright": "Fontopo",
+  "spdx_license": "IPA",
+  "license_url": "https://fontopo.com/?page_id=55",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "FontopoNIHONGO.zip": {
+      "urls": [
+        "https://fontopo.com/fontdata/nihongo.zip",
+        "https://web.archive.org/web/20260504064628/https://fontopo.com/fontdata/nihongo.zip"
+      ],
+      "sha256": "b11b0c03ea7e3494cae58662d97f5bb4c7e7d705aabb267aa9b1f90dde1e6be4",
+      "file_size": 1502499
+    }
+  },
+  "fonts": [
+    {
+      "name": "FontopoNIHONGO",
+      "styles": [
+        {
+          "family_name": "FontopoNIHONGO",
+          "type": "Regular",
+          "full_name": "FontopoNIHONGO",
+          "post_script_name": "FontopoNIHONGO",
+          "version": "1.10",
+          "copyright": "Fontopo",
+          "font": "FontopoNIHONGO.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

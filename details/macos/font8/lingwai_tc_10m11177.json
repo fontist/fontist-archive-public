@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/lingwai_tc_10m11177",
+  "name": "LingWai TC",
+  "description": "LingWai TC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(C) Copyright 1991-2012 Monotype Hong Kong Ltd. and Monotype Imaging Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "05c60f5cde01573e277f55b9cf4824d82911f14d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/05c60f5cde01573e277f55b9cf4824d82911f14d.zip"
+      ],
+      "sha256": "ae0b8d85a0e907bd2ec35fb3e219e57e777c42b32fafaedb0f8e65de8e459b33",
+      "file_size": 18432406
+    }
+  },
+  "fonts": [
+    {
+      "name": "LingWai TC",
+      "styles": [
+        {
+          "family_name": "LingWai TC",
+          "type": "Medium",
+          "full_name": "LingWai TC Medium",
+          "post_script_name": "MLingWaiMedium-TC",
+          "version": "13.0d1e2",
+          "copyright": "(C) Copyright 1991-2012 Monotype Hong Kong Ltd. and Monotype Imaging Inc. All rights reserved.",
+          "font": "LingWaiTC-Medium.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "macos/font8/lava_telugu_regular_10m11177",
+  "name": "Lava Telugu Regular",
+  "description": "Lava Telugu Regular",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 - 2019 Typotheque.com All rights reserved",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0f9d5cca14d7964617923672d0db1e60c9d34f30.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/0f9d5cca14d7964617923672d0db1e60c9d34f30.zip"
+      ],
+      "sha256": "d1f7c4b8dfce8a8b79907cb36dd43c775cea2c6e5e137e0afc056e4b1c82a4e7",
+      "file_size": 358484
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "LavaTelugu.ttc",
+      "fonts": [
+        {
+          "name": "Lava Telugu Bold",
+          "styles": [
+            {
+              "family_name": "Lava Telugu Bold",
+              "type": "Regular",
+              "full_name": "Lava Telugu Bold",
+              "post_script_name": "LavaTelugu-Bold",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2019 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        },
+        {
+          "name": "Lava Telugu Heavy",
+          "styles": [
+            {
+              "family_name": "Lava Telugu Heavy",
+              "type": "Regular",
+              "full_name": "Lava Telugu Heavy",
+              "post_script_name": "LavaTelugu-Heavy",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2019 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        },
+        {
+          "name": "Lava Telugu Medium",
+          "styles": [
+            {
+              "family_name": "Lava Telugu Medium",
+              "type": "Regular",
+              "full_name": "Lava Telugu Medium",
+              "post_script_name": "LavaTelugu-Medium",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2019 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        },
+        {
+          "name": "Lava Telugu Regular",
+          "styles": [
+            {
+              "family_name": "Lava Telugu Regular",
+              "type": "Regular",
+              "full_name": "Lava Telugu Regular",
+              "post_script_name": "LavaTelugu-Regular",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2019 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

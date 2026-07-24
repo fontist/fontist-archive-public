@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font6/headlinea",
+  "name": "HeadLineA",
+  "description": "HeadLineA",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "8a0c0a968b8f2ea59ef70bf4ae52f818630ed614.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/8a0c0a968b8f2ea59ef70bf4ae52f818630ed614.zip"
+      ],
+      "sha256": "76bdd4e47cb09f14de2fa97a07e0d02fae9863a1859ddde09ad5a3f1490adac3",
+      "file_size": 436420
+    }
+  },
+  "fonts": [
+    {
+      "name": "HeadLineA",
+      "styles": [
+        {
+          "family_name": "HeadLineA",
+          "type": "Regular",
+          "full_name": "HeadLineA Regular",
+          "post_script_name": "JCHEadA",
+          "version": "13.0d3e1",
+          "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+          "font": "HeadlineA.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

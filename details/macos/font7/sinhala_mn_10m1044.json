@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/sinhala_mn_10m1044",
+  "name": "Sinhala MN",
+  "description": "Sinhala MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "24c680e62d5d314b65a39ef4d3936a2a368a1471.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/24c680e62d5d314b65a39ef4d3936a2a368a1471.zip"
+      ],
+      "sha256": "de23423f2cf696c95196a3dc89b34d805167c7eb3858daff09967a0f34864e1d",
+      "file_size": 209018
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Sinhala-MN.ttc",
+      "fonts": [
+        {
+          "name": "Sinhala MN",
+          "styles": [
+            {
+              "family_name": "Sinhala MN",
+              "type": "Bold",
+              "full_name": "Sinhala MN Bold",
+              "post_script_name": "SinhalaMN-Bold",
+              "version": "14.0d1e1",
+              "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved."
+            },
+            {
+              "family_name": "Sinhala MN",
+              "type": "Regular",
+              "full_name": "Sinhala MN",
+              "post_script_name": "SinhalaMN",
+              "version": "14.0d1e1",
+              "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

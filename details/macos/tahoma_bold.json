@@ -1,0 +1,36 @@
+{
+  "slug": "macos/tahoma_bold",
+  "name": "tahoma_bold",
+  "description": "Tahoma Bold",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 Microsoft Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Tahoma_Bold.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/c3c8295ee4dab3db8eeed9f4cad7d7d5f80ff895.zip"
+      ],
+      "sha256": "786346b160188d094ba012e6d293c30025f9c582a62c9ef70648c0639c825dad",
+      "file_size": 346090
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tahoma",
+      "styles": [
+        {
+          "family_name": "Tahoma",
+          "type": "Bold",
+          "full_name": "Tahoma Bold",
+          "post_script_name": "Tahoma-Bold",
+          "version": "5.01.1x",
+          "copyright": "© 2006 Microsoft Corporation. All rights reserved.",
+          "font": "tahomabd.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

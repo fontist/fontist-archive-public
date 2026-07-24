@@ -1,0 +1,80 @@
+{
+  "slug": "macos/font7/canela_deck_10m1360",
+  "name": "Canela Deck",
+  "description": "Canela Deck",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b14531acd0d3802078b1bae52f295043c37fd76d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/b14531acd0d3802078b1bae52f295043c37fd76d.zip"
+      ],
+      "sha256": "f9b18ab583781132a93a35fb6ec371733d0c1534312ec0fd370b4ed5ee773919",
+      "file_size": 241389
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "CanelaDeck.ttc",
+      "fonts": [
+        {
+          "name": "Canela Deck",
+          "styles": [
+            {
+              "family_name": "Canela Deck",
+              "type": "Bold",
+              "full_name": "Canela Deck Bold",
+              "post_script_name": "CanelaDeck-Bold",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Deck",
+              "type": "Bold Italic",
+              "full_name": "Canela Deck Bold Italic",
+              "post_script_name": "CanelaDeck-BoldItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Deck",
+              "type": "Italic",
+              "full_name": "Canela Deck Regular Italic",
+              "post_script_name": "CanelaDeck-RegularItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Deck",
+              "type": "Medium",
+              "full_name": "Canela Deck Medium",
+              "post_script_name": "CanelaDeck-Medium",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Deck",
+              "type": "Medium Italic",
+              "full_name": "Canela Deck Medium Italic",
+              "post_script_name": "CanelaDeck-MediumItalic",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Deck",
+              "type": "Regular",
+              "full_name": "Canela Deck Regular",
+              "post_script_name": "CanelaDeck-Regular",
+              "version": "15.0d1e4",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

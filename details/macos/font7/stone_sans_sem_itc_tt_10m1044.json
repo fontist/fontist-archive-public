@@ -1,0 +1,61 @@
+{
+  "slug": "macos/font7/stone_sans_sem_itc_tt_10m1044",
+  "name": "Stone Sans Sem ITC TT",
+  "description": "Stone Sans Sem ITC TT",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "b8c10be6596b21ad602206a968f8d4072bd1f41c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/b8c10be6596b21ad602206a968f8d4072bd1f41c.zip"
+      ],
+      "sha256": "c322f225562036a14fd65c35400e7d5108c58804f201cbe6e479c1838830fecf",
+      "file_size": 159245
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "StoneSans.ttc",
+      "fonts": [
+        {
+          "name": "Stone Sans ITC TT",
+          "styles": [
+            {
+              "family_name": "Stone Sans ITC TT",
+              "type": "Bold",
+              "full_name": "Stone Sans ITC TT Bold",
+              "post_script_name": "StoneSansITCTT-Bold",
+              "version": "16.0d1e1",
+              "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Stone Sans Sem ITC TT",
+          "styles": [
+            {
+              "family_name": "Stone Sans Sem ITC TT",
+              "type": "Semi",
+              "full_name": "Stone Sans Sem ITC TT Semi",
+              "post_script_name": "StoneSansITCTT-Semi",
+              "version": "16.0d1e1",
+              "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved."
+            },
+            {
+              "family_name": "Stone Sans Sem ITC TT",
+              "type": "SemiIta",
+              "full_name": "Stone Sans Sem ITC TT SemiIta",
+              "post_script_name": "StoneSansITCTT-SemiIta",
+              "version": "16.0d1e1",
+              "copyright": "Copyright � 1997 International Typeface Corporation. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

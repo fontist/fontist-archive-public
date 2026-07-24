@@ -1,0 +1,79 @@
+{
+  "slug": "macos/font6/hiragino_sans",
+  "name": "Hiragino Sans",
+  "description": "Hiragino Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver8.20, Copyright (c) 1993-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3a62fa3ea4bd9113ee818fcaad8401dffde57cfa.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/ios/061-87817-20200306-93DA4FC0-6008-11EA-A746-68B153371E3E/com_apple_MobileAsset_Font6/3a62fa3ea4bd9113ee818fcaad8401dffde57cfa.zip"
+      ],
+      "sha256": "de091b61e2b345d89de2677822a816aba444240317ff937c18502f536386a28d",
+      "file_size": 3063654
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "HiraginoSans-W8.ttc",
+      "fonts": [
+        {
+          "name": ".Hiragino Kaku Gothic Interface",
+          "styles": [
+            {
+              "family_name": ".Hiragino Kaku Gothic Interface",
+              "type": "W8",
+              "full_name": ".Hiragino Kaku Gothic Interface W8",
+              "post_script_name": ".HiraKakuInterface-W8",
+              "version": "15.0d1e6",
+              "copyright": "ver8.20, Copyright (c) 1993-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Kaku Gothic Std W8",
+          "styles": [
+            {
+              "family_name": "Hiragino Kaku Gothic Std W8",
+              "type": "Regular",
+              "full_name": "Hiragino Kaku Gothic Std W8",
+              "post_script_name": "HiraKakuStd-W8",
+              "version": "15.0d1e6",
+              "copyright": "ver7.10, Copyright (c) 1993-2002 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Kaku Gothic StdN W8",
+          "styles": [
+            {
+              "family_name": "Hiragino Kaku Gothic StdN W8",
+              "type": "Regular",
+              "full_name": "Hiragino Kaku Gothic StdN W8",
+              "post_script_name": "HiraKakuStdN-W8",
+              "version": "15.0d1e6",
+              "copyright": "ver8.20, Copyright (c) 1993-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Sans W8",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans W8",
+              "type": "Regular",
+              "full_name": "Hiragino Sans W8",
+              "post_script_name": "HiraginoSans-W8",
+              "version": "15.0d1e6",
+              "copyright": "ver8.20, Copyright (c) 1993-2013 Dainippon Screen Mfg. Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

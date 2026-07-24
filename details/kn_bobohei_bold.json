@@ -1,0 +1,37 @@
+{
+  "slug": "kn_bobohei_bold",
+  "name": "KN Bobohei Bold",
+  "description": "KN Bobohei Bold",
+  "copyright": "Copyright 2021-2024 The Yuanmo Project Authors (https://github.com/NightFurySL2001/KNYuanmo)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "KNBobohei-Bold.ttf": {
+      "urls": [
+        "https://github.com/maoken-fonts/KNBobohei/releases/download/v1.710/KNBobohei-Bold.ttf"
+      ],
+      "sha256": "4d641bd7885bed7e32eb823723c93259d9678923c4606803fa96d080af465825",
+      "file_size": 5387872,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "KN Bobohei",
+      "styles": [
+        {
+          "family_name": "KN Bobohei",
+          "type": "Bold",
+          "full_name": "KN Bobohei Bold",
+          "post_script_name": "KNBobohei-Bold",
+          "version": "1.710;March 18, 2023",
+          "copyright": "Copyright 2023 The Bobohei Project Authors (https://github.com/maoken-fonts/KNBobohei)",
+          "font": "KNBobohei-Bold.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

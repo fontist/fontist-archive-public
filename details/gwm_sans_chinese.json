@@ -1,0 +1,92 @@
+{
+  "slug": "gwm_sans_chinese",
+  "name": "GWM Sans Chinese",
+  "description": "GWM Sans Chinese",
+  "homepage": "https://www.gwm.com.cn/gwmsans/fontdownload.html",
+  "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://www.gwm.com.cn/gwmsans/fontdownload.html",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "GWMSansChinese-Latin.zip": {
+      "urls": [
+        "https://res.gwm.com.cn/GwmCn/fonts/gwmsans/package/GWMSansChinese-Latin.zip"
+      ],
+      "sha256": "ad72aa279d3958b897a1c45a21487c869c2f25447823b039d09fbda544640e1b",
+      "file_size": 58484364
+    }
+  },
+  "fonts": [
+    {
+      "name": "GWM Sans UI",
+      "styles": [
+        {
+          "family_name": "GWM Sans UI",
+          "type": "Regular",
+          "full_name": "GWM Sans UI Regular",
+          "post_script_name": "GWMSansUI-Regular",
+          "version": "1.00",
+          "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansUI-Regular.otf"
+        },
+        {
+          "family_name": "GWM Sans UI",
+          "type": "Regular",
+          "full_name": "GWM Sans UI Regular",
+          "post_script_name": "GWMSansUI-Regular",
+          "version": "1.00",
+          "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansUI-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "GWM Sans UI Bold",
+      "styles": [
+        {
+          "family_name": "GWM Sans UI Bold",
+          "type": "Regular",
+          "full_name": "GWM Sans UI Bold",
+          "post_script_name": "GWMSansUI-Bold",
+          "version": "1.00",
+          "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansUI-Bold.otf"
+        },
+        {
+          "family_name": "GWM Sans UI Bold",
+          "type": "Regular",
+          "full_name": "GWM Sans UI Bold",
+          "post_script_name": "GWMSansUI-Bold",
+          "version": "1.00",
+          "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansUI-Bold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "GWM Sans UI Light",
+      "styles": [
+        {
+          "family_name": "GWM Sans UI Light",
+          "type": "Regular",
+          "full_name": "GWM Sans UI Light",
+          "post_script_name": "GWMSansUI-Light",
+          "version": "1.00",
+          "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansUI-Light.otf"
+        },
+        {
+          "family_name": "GWM Sans UI Light",
+          "type": "Regular",
+          "full_name": "GWM Sans UI Light",
+          "post_script_name": "GWMSansUI-Light",
+          "version": "1.00",
+          "copyright": "Copyright © 2023-2025 Great Wall Motors Company Limited. All Rights Reserved.",
+          "font": "GWMSansUI-Light.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,116 @@
+{
+  "slug": "macos/tamil_sangam_mn",
+  "name": "tamil_sangam_mn",
+  "description": "Tamil Sangam MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Tamil_Sangam_MN.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/14265621ef36c5f52fbf748710f3571500a5d7dd.zip"
+      ],
+      "sha256": "b0c99e22df4896ac6a29432c18b25a24e8809c186c926f995d98ffb97e8e6a70",
+      "file_size": 347589
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TamilSangam-MN-MA.ttc",
+      "fonts": [
+        {
+          "name": "Grantha Sangam MN Black",
+          "styles": [
+            {
+              "family_name": "Grantha Sangam MN Black",
+              "type": "Regular",
+              "full_name": "Grantha Sangam MN Black",
+              "post_script_name": "GranthaSangamMN-Black",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Grantha Sangam MN DemiBold",
+          "styles": [
+            {
+              "family_name": "Grantha Sangam MN DemiBold",
+              "type": "Regular",
+              "full_name": "Grantha Sangam MN DemiBold",
+              "post_script_name": "GranthaSangamMN-DemiBold",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Grantha Sangam MN Light",
+          "styles": [
+            {
+              "family_name": "Grantha Sangam MN Light",
+              "type": "Regular",
+              "full_name": "Grantha Sangam MN Light",
+              "post_script_name": "GranthaSangamMN-Light",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Grantha Sangam MN Medium",
+          "styles": [
+            {
+              "family_name": "Grantha Sangam MN Medium",
+              "type": "Regular",
+              "full_name": "Grantha Sangam MN Medium",
+              "post_script_name": "GranthaSangamMN-Medium",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 2004 by Muthu Nedumaran. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Tamil Sangam MN",
+          "styles": [
+            {
+              "family_name": "Tamil Sangam MN",
+              "type": "Black",
+              "full_name": "Tamil Sangam MN Black",
+              "post_script_name": "TamilSangamMN-Black",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Tamil Sangam MN",
+              "type": "Demibold",
+              "full_name": "Tamil Sangam MN Demibold",
+              "post_script_name": "TamilSangamMN-Demibold",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Tamil Sangam MN",
+              "type": "Light",
+              "full_name": "Tamil Sangam MN Light",
+              "post_script_name": "TamilSangamMN-Light",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Tamil Sangam MN",
+              "type": "Medium",
+              "full_name": "Tamil Sangam MN Medium",
+              "post_script_name": "TamilSangamMN-Medium",
+              "version": "15.0d1e37",
+              "copyright": "Copyright (c) 1986 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "memoir",
+  "name": "memoir",
+  "description": "Memoir",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Memoir.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_memoir_2018_1215.zip"
+      ],
+      "sha256": "4b997cbfd60a3df4b6f4e741c6a96ce4d06c8c7c43e895c5d1aa0279c2372dd5",
+      "file_size": 500407
+    }
+  },
+  "fonts": [
+    {
+      "name": "Memoir",
+      "styles": [
+        {
+          "family_name": "Memoir",
+          "type": "Regular",
+          "full_name": "Memoir",
+          "post_script_name": "Memoir",
+          "version": "1.03",
+          "copyright": "MODI",
+          "font": "memoir.otf"
+        }
+      ]
+    },
+    {
+      "name": "Memoir-Round",
+      "styles": [
+        {
+          "family_name": "Memoir-Round",
+          "type": "Regular",
+          "full_name": "Memoir-Round",
+          "post_script_name": "Memoir-Round",
+          "version": "1.03",
+          "copyright": "MODI",
+          "font": "memoir-round.otf"
+        }
+      ]
+    },
+    {
+      "name": "Memoir-Square",
+      "styles": [
+        {
+          "family_name": "Memoir-Square",
+          "type": "Regular",
+          "full_name": "Memoir-Square",
+          "post_script_name": "Memoir-Square",
+          "version": "1.03",
+          "copyright": "MODI",
+          "font": "memoir-square.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

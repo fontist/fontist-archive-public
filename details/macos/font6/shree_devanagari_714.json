@@ -1,0 +1,64 @@
+{
+  "slug": "macos/font6/shree_devanagari_714",
+  "name": "Shree Devanagari 714",
+  "description": "Shree Devanagari 714",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "2e0e5846aeb7271fb50ff9211c37bbb93a8977a1.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/2e0e5846aeb7271fb50ff9211c37bbb93a8977a1.zip"
+      ],
+      "sha256": "d7d2ea47cef151ac6ab3ba424a8988bb98c68bb2c93702b058b305545f59c82f",
+      "file_size": 247922
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Shree714.ttc",
+      "fonts": [
+        {
+          "name": "Shree Devanagari 714",
+          "styles": [
+            {
+              "family_name": "Shree Devanagari 714",
+              "type": "Bold",
+              "full_name": "Shree Devanagari 714 Bold",
+              "post_script_name": "ShreeDev0714-Bold",
+              "version": "13.0d2e1",
+              "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA."
+            },
+            {
+              "family_name": "Shree Devanagari 714",
+              "type": "Bold Italic",
+              "full_name": "Shree Devanagari 714 Bold Italic",
+              "post_script_name": "ShreeDev0714-BoldItalic",
+              "version": "13.0d2e1",
+              "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA."
+            },
+            {
+              "family_name": "Shree Devanagari 714",
+              "type": "Italic",
+              "full_name": "Shree Devanagari 714 Italic",
+              "post_script_name": "ShreeDev0714-Italic",
+              "version": "13.0d2e1",
+              "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA."
+            },
+            {
+              "family_name": "Shree Devanagari 714",
+              "type": "Regular",
+              "full_name": "Shree Devanagari 714",
+              "post_script_name": "ShreeDev0714",
+              "version": "13.0d2e1",
+              "copyright": "Copyright (c) 2000, Modular Infotech, Pune, INDIA."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

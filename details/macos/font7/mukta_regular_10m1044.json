@@ -1,0 +1,126 @@
+{
+  "slug": "macos/font7/mukta_regular_10m1044",
+  "name": "Mukta Regular",
+  "description": "Mukta Regular",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "4c178a7a7f65f6487f4b90071ab776126ef1861a.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/4c178a7a7f65f6487f4b90071ab776126ef1861a.zip"
+      ],
+      "sha256": "3fbc2b9412bd028c8ad40add29e47a4557793603f46a9e14fef4fc7e83b24966",
+      "file_size": 1303162
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Mukta-Devanagari.ttc",
+      "fonts": [
+        {
+          "name": "Mukta Bold",
+          "styles": [
+            {
+              "family_name": "Mukta Bold",
+              "type": "Regular",
+              "full_name": "Mukta Bold",
+              "post_script_name": "Mukta-Bold",
+              "version": "2.538;PS 1.002;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta ExtraBold",
+          "styles": [
+            {
+              "family_name": "Mukta ExtraBold",
+              "type": "Regular",
+              "full_name": "Mukta ExtraBold",
+              "post_script_name": "Mukta-ExtraBold",
+              "version": "2.538;PS 1.002;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta ExtraLight",
+          "styles": [
+            {
+              "family_name": "Mukta ExtraLight",
+              "type": "Regular",
+              "full_name": "Mukta ExtraLight",
+              "post_script_name": "Mukta-ExtraLight",
+              "version": "2.538;PS 1.002;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Light",
+          "styles": [
+            {
+              "family_name": "Mukta Light",
+              "type": "Regular",
+              "full_name": "Mukta Light",
+              "post_script_name": "Mukta-Light",
+              "version": "2.538;PS 1.002;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Medium",
+          "styles": [
+            {
+              "family_name": "Mukta Medium",
+              "type": "Regular",
+              "full_name": "Mukta Medium",
+              "post_script_name": "Mukta-Medium",
+              "version": "2.538;PS 1.002;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Regular",
+          "styles": [
+            {
+              "family_name": "Mukta Regular",
+              "type": "Regular",
+              "full_name": "Mukta Regular",
+              "post_script_name": "Mukta-Regular",
+              "version": "2.538;PS 1.001;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta SemiBold",
+          "styles": [
+            {
+              "family_name": "Mukta SemiBold",
+              "type": "Regular",
+              "full_name": "Mukta SemiBold",
+              "post_script_name": "Mukta-SemiBold",
+              "version": "2.538;PS 1.002;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2014, Girish Dalvi, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

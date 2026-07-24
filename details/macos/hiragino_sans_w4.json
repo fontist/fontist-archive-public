@@ -1,0 +1,40 @@
+{
+  "slug": "macos/hiragino_sans_w4",
+  "name": "hiragino_sans_w4",
+  "description": "Hiragino Sans W4",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver8.20, Copyright (c) 1993-2015 SCREEN Graphic and Precision Solutions Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Hiragino_Sans_W4.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/3bbdac324855b51acb67de8af7434aa751b12096.zip"
+      ],
+      "sha256": "43f16d143ad7277561a8666df652cb9d185d3f66170b0ea28c7e02e947d1439b",
+      "file_size": 5722251
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "HiraginoSans-W4.ttc",
+      "fonts": [
+        {
+          "name": "Hiragino Sans W4",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans W4",
+              "type": "Regular",
+              "full_name": "Hiragino Sans W4",
+              "post_script_name": "HiraginoSans-W4",
+              "version": "15.0d1e3",
+              "copyright": "ver8.20, Copyright (c) 1993-2015 SCREEN Graphic and Precision Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

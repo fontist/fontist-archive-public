@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/toppan_bunkyu_midashi_mincho",
+  "name": "Toppan Bunkyu Midashi Mincho",
+  "description": "Toppan Bunkyu Midashi Mincho",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver1.00, Copyright © 2013 - 2015 Toppan Printing Co., Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e70e7ed657653c71e5db9183c2ce20290c64c0be.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/e70e7ed657653c71e5db9183c2ce20290c64c0be.zip"
+      ],
+      "sha256": "5d08236714cd90c7a45f8493f80ae46815aa298a6f49ffeb0ed5cae48bb1d111",
+      "file_size": 3178242
+    }
+  },
+  "fonts": [
+    {
+      "name": "Toppan Bunkyu Midashi Mincho Extrabold",
+      "styles": [
+        {
+          "family_name": "Toppan Bunkyu Midashi Mincho Extrabold",
+          "type": "Regular",
+          "full_name": "Toppan Bunkyu Midashi Mincho Extrabold",
+          "post_script_name": "ToppanBunkyuMidashiMinchoStdN-ExtraBold",
+          "version": "11.0d6e2",
+          "copyright": "ver1.00, Copyright © 2013 - 2015 Toppan Printing Co., Ltd. All rights reserved.",
+          "font": "ToppanBunkyuMidashiMincho-ExtraBold.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

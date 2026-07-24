@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/diwan_kufi",
+  "name": "Diwan Kufi",
+  "description": "Diwan Kufi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "331eabac8a15ba1226af56622ceb1a753ddc1366.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/331eabac8a15ba1226af56622ceb1a753ddc1366.zip"
+      ],
+      "sha256": "a847fafc584a7724a98b30164ae71ef2eb4420d918932f06dfb73a73a6177ec1",
+      "file_size": 36351
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "DiwanKufi.ttc",
+      "fonts": [
+        {
+          "name": ".Diwan Kufi PUA",
+          "styles": [
+            {
+              "family_name": ".Diwan Kufi PUA",
+              "type": "Regular",
+              "full_name": ".Diwan Kufi PUA",
+              "post_script_name": ".DiwanKufiPUA",
+              "version": "13.0d2e1",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Diwan Kufi",
+          "styles": [
+            {
+              "family_name": "Diwan Kufi",
+              "type": "Regular",
+              "full_name": "Diwan Kufi Regular",
+              "post_script_name": "DiwanKufi",
+              "version": "13.0d2e1",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

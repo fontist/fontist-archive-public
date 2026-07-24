@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font6/al_rafidain_al_fanni",
+  "name": "Al Rafidain Al Fanni",
+  "description": "Al Rafidain Al Fanni",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Al Rafidain Al Fanni (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "dbfb25411d4a7fa53b3fd9392f7e827c9289236b.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/dbfb25411d4a7fa53b3fd9392f7e827c9289236b.zip"
+      ],
+      "sha256": "5d91a029eab1194323373cba01a3e22aab7675e23adc2583fe9a7abdf5572e2e",
+      "file_size": 28245
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AlRafidainAlFanni.ttc",
+      "fonts": [
+        {
+          "name": ".AlRafidain AlFanni PUA",
+          "styles": [
+            {
+              "family_name": ".AlRafidain AlFanni PUA",
+              "type": "Regular",
+              "full_name": ".AlRafidain AlFanni PUA",
+              "post_script_name": ".AlRafidainAlFanniPUA",
+              "version": "13.0d2e2",
+              "copyright": "Al Rafidain Al Fanni (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Al Rafidain Al Fanni",
+          "styles": [
+            {
+              "family_name": "Al Rafidain Al Fanni",
+              "type": "Regular",
+              "full_name": "Al Rafidain Al Fanni",
+              "post_script_name": "AlRafidainAlFanni",
+              "version": "13.0d2e2",
+              "copyright": "Al Rafidain Al Fanni (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

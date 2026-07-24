@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/jaini_10m1044",
+  "name": "Jaini",
+  "description": "Jaini",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "bb1b210553461ff7461985eba104f3f3bcd701b3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/bb1b210553461ff7461985eba104f3f3bcd701b3.zip"
+      ],
+      "sha256": "4c40d815a66b14299362ffb2d4c5b2c0694954bc3c2c331d85f5c9dff19189e6",
+      "file_size": 149862
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jaini",
+      "styles": [
+        {
+          "family_name": "Jaini",
+          "type": "Regular",
+          "full_name": "Jaini",
+          "post_script_name": "Jaini",
+          "version": "1.001;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220",
+          "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "font": "JainiDevanagari-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/hubballi_10m1044",
+  "name": "Hubballi",
+  "description": "Hubballi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Erin McLaughlin (hello@erinmclaughlin.com). Digitized data copyright 2016, Google Corporation.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e5642792741fe8d1df03a8fa2a1306f55e9ae8f5.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/e5642792741fe8d1df03a8fa2a1306f55e9ae8f5.zip"
+      ],
+      "sha256": "b9082da98b60f42220cee43f27cd9d19fefd021f85920bb4b1946e7544ec27a0",
+      "file_size": 88575
+    }
+  },
+  "fonts": [
+    {
+      "name": "Hubballi",
+      "styles": [
+        {
+          "family_name": "Hubballi",
+          "type": "Regular",
+          "full_name": "Hubballi-Regular",
+          "post_script_name": "Hubballi-Regular",
+          "version": "1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "Copyright (c) 2016, Erin McLaughlin (hello@erinmclaughlin.com). Digitized data copyright 2016, Google Corporation.",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1.",
+          "font": "Hubballi-regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

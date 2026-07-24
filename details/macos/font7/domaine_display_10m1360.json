@@ -1,0 +1,85 @@
+{
+  "slug": "macos/font7/domaine_display_10m1360",
+  "name": "Domaine Display",
+  "description": "Domaine Display",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2013 Klim Type Foundry. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "07b9758a7f2798b0491f45d0497302a623226828.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/012-38072/C729B731-C859-46EA-855B-69F685A1339D/com_apple_MobileAsset_Font7/07b9758a7f2798b0491f45d0497302a623226828.zip"
+      ],
+      "sha256": "427a25730a94b694de479bebbb9e793c59dc24e34090eaec17ddf5fb69823d76",
+      "file_size": 359543
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "DomaineDisplay.ttc",
+      "fonts": [
+        {
+          "name": "Domaine Display",
+          "styles": [
+            {
+              "family_name": "Domaine Display",
+              "type": "Bold",
+              "full_name": "Domaine Display Bold",
+              "post_script_name": "DomaineDisplay-Bold",
+              "version": "14.0d1e3",
+              "copyright": "© 2013 Klim Type Foundry. All Rights Reserved."
+            },
+            {
+              "family_name": "Domaine Display",
+              "type": "Bold Italic",
+              "full_name": "Domaine Display Bold Italic",
+              "post_script_name": "DomaineDisplay-BoldItalic",
+              "version": "14.0d1e3",
+              "copyright": "© 2013 Klim Type Foundry. All Rights Reserved."
+            },
+            {
+              "family_name": "Domaine Display",
+              "type": "Italic",
+              "full_name": "Domaine Display Italic",
+              "post_script_name": "DomaineDisplay-RegularItalic",
+              "version": "14.0d1e3",
+              "copyright": "© 2013 Klim Type Foundry. All Rights Reserved."
+            },
+            {
+              "family_name": "Domaine Display",
+              "type": "Regular",
+              "full_name": "Domaine Display",
+              "post_script_name": "DomaineDisplay-Regular",
+              "version": "14.0d1e3",
+              "copyright": "© 2013 Klim Type Foundry. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Domaine Display Medium",
+          "styles": [
+            {
+              "family_name": "Domaine Display Medium",
+              "type": "Italic",
+              "full_name": "Domaine Display Medium Italic",
+              "post_script_name": "DomaineDisplay-MediumItalic",
+              "version": "14.0d1e3",
+              "copyright": "© 2013 Klim Type Foundry. All Rights Reserved."
+            },
+            {
+              "family_name": "Domaine Display Medium",
+              "type": "Regular",
+              "full_name": "Domaine Display Medium",
+              "post_script_name": "DomaineDisplay-Medium",
+              "version": "14.0d1e3",
+              "copyright": "© 2013 Klim Type Foundry. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

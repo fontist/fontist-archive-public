@@ -1,0 +1,36 @@
+{
+  "slug": "macos/lisong_pro_light",
+  "name": "lisong_pro_light",
+  "description": "LiSong Pro Light",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright DynaComware Corp. 2003",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "LiSong_Pro_Light.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/0e78e10f6c9d306bd197282bbc77c29c3ec1991f.zip"
+      ],
+      "sha256": "d9961a8345921ab9808270560a2a2bed58254d7e8a5f1b22f1ab26fdc4d3e6a3",
+      "file_size": 7090904
+    }
+  },
+  "fonts": [
+    {
+      "name": "LiSong Pro",
+      "styles": [
+        {
+          "family_name": "LiSong Pro",
+          "type": "Light",
+          "full_name": "LiSong Pro",
+          "post_script_name": "LiSongPro",
+          "version": "13.0d1e1",
+          "copyright": "(c) Copyright DynaComware Corp. 2003",
+          "font": "LiSongPro.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

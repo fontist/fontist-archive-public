@@ -1,0 +1,207 @@
+{
+  "slug": "nacelle",
+  "name": "Nacelle",
+  "description": "Nacelle",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "Copyright (C) 2021 by Sora Sagano.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "nacelle_100.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/nacelle_100.zip"
+      ],
+      "sha256": "4e21fc1e22b15c4e1a7c520cf48ec5d47a5803beee21ac7edc0b205c340a4065",
+      "file_size": 681949
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nacelle",
+      "styles": [
+        {
+          "family_name": "Nacelle",
+          "type": "Italic",
+          "full_name": "Nacelle Italic",
+          "post_script_name": "Nacelle-Italic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Italic.otf"
+        },
+        {
+          "family_name": "Nacelle",
+          "type": "Regular",
+          "full_name": "Nacelle Regular",
+          "post_script_name": "Nacelle-Regular",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Regular.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle Black",
+      "styles": [
+        {
+          "family_name": "Nacelle Black",
+          "type": "Italic",
+          "full_name": "Nacelle Black Italic",
+          "post_script_name": "Nacelle-BlackItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-BlackItalic.otf"
+        },
+        {
+          "family_name": "Nacelle Black",
+          "type": "Regular",
+          "full_name": "Nacelle Black",
+          "post_script_name": "Nacelle-Black",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Black.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle Bold",
+      "styles": [
+        {
+          "family_name": "Nacelle Bold",
+          "type": "Italic",
+          "full_name": "Nacelle Bold Italic",
+          "post_script_name": "Nacelle-BoldItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-BoldItalic.otf"
+        },
+        {
+          "family_name": "Nacelle Bold",
+          "type": "Regular",
+          "full_name": "Nacelle Bold",
+          "post_script_name": "Nacelle-Bold",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Bold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle Heavy",
+      "styles": [
+        {
+          "family_name": "Nacelle Heavy",
+          "type": "Italic",
+          "full_name": "Nacelle Heavy Italic",
+          "post_script_name": "Nacelle-HeavyItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-HeavyItalic.otf"
+        },
+        {
+          "family_name": "Nacelle Heavy",
+          "type": "Regular",
+          "full_name": "Nacelle Heavy",
+          "post_script_name": "Nacelle-Heavy",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Heavy.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle Light",
+      "styles": [
+        {
+          "family_name": "Nacelle Light",
+          "type": "Italic",
+          "full_name": "Nacelle Light Italic",
+          "post_script_name": "Nacelle-LightItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-LightItalic.otf"
+        },
+        {
+          "family_name": "Nacelle Light",
+          "type": "Regular",
+          "full_name": "Nacelle Light",
+          "post_script_name": "Nacelle-Light",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Light.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle SemiBold",
+      "styles": [
+        {
+          "family_name": "Nacelle SemiBold",
+          "type": "Italic",
+          "full_name": "Nacelle SemiBold Italic",
+          "post_script_name": "Nacelle-SemiBoldItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-SemiBoldItalic.otf"
+        },
+        {
+          "family_name": "Nacelle SemiBold",
+          "type": "Regular",
+          "full_name": "Nacelle SemiBold",
+          "post_script_name": "Nacelle-SemiBold",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-SemiBold.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle Thin",
+      "styles": [
+        {
+          "family_name": "Nacelle Thin",
+          "type": "Italic",
+          "full_name": "Nacelle Thin Italic",
+          "post_script_name": "Nacelle-ThinItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-ThinItalic.otf"
+        },
+        {
+          "family_name": "Nacelle Thin",
+          "type": "Regular",
+          "full_name": "Nacelle Thin",
+          "post_script_name": "Nacelle-Thin",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-Thin.otf"
+        }
+      ]
+    },
+    {
+      "name": "Nacelle UltraLight",
+      "styles": [
+        {
+          "family_name": "Nacelle UltraLight",
+          "type": "Italic",
+          "full_name": "Nacelle UltraLight Italic",
+          "post_script_name": "Nacelle-UltraLightItalic",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-UltraLightItalic.otf"
+        },
+        {
+          "family_name": "Nacelle UltraLight",
+          "type": "Regular",
+          "full_name": "Nacelle UltraLight",
+          "post_script_name": "Nacelle-UltraLight",
+          "version": "1.000;FEAKit 1.0",
+          "copyright": "Copyright (C) 2021 by Sora Sagano.",
+          "font": "Nacelle-UltraLight.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

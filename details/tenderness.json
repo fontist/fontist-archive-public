@@ -1,0 +1,37 @@
+{
+  "slug": "tenderness",
+  "name": "Tenderness",
+  "description": "Tenderness",
+  "homepage": "http://www.dotcolon.net",
+  "copyright": "Copyright (C) 2017 by Sora Sagano.",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "tenderness_0601.zip": {
+      "urls": [
+        "https://dotcolon.net/files/fonts/tenderness_0601.zip"
+      ],
+      "sha256": "e9d512398aca5ae3633795b80918af30df7c7d616a5c381d130bf8ca32037891",
+      "file_size": 99866
+    }
+  },
+  "fonts": [
+    {
+      "name": "Tenderness",
+      "styles": [
+        {
+          "family_name": "Tenderness",
+          "type": "Regular",
+          "full_name": "Tenderness Regular",
+          "post_script_name": "Tenderness-Regular",
+          "version": "0.601;PS 000.601;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "Copyright (C) 2017 by Sora Sagano.",
+          "font": "Tenderness-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

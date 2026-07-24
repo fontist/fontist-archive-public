@@ -1,0 +1,161 @@
+{
+  "slug": "macos/font8/fahkwang_10m11177",
+  "name": "Fahkwang",
+  "description": "Fahkwang",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "bd71623cc99adb7c49a7788e567c25c7d7849f7e.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/bd71623cc99adb7c49a7788e567c25c7d7849f7e.zip"
+      ],
+      "sha256": "11eb6662db7785adad5666d16293ea3a3c331ebdd2a2e80efd993f9a7ec61dc8",
+      "file_size": 437787
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "FahKwang.ttc",
+      "fonts": [
+        {
+          "name": "Fahkwang",
+          "styles": [
+            {
+              "family_name": "Fahkwang",
+              "type": "Bold",
+              "full_name": "Fahkwang Bold",
+              "post_script_name": "Fahkwang-Bold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang",
+              "type": "Bold Italic",
+              "full_name": "Fahkwang Bold Italic",
+              "post_script_name": "Fahkwang-BoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang",
+              "type": "Italic",
+              "full_name": "Fahkwang Italic",
+              "post_script_name": "Fahkwang-Italic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang",
+              "type": "Regular",
+              "full_name": "Fahkwang Regular",
+              "post_script_name": "Fahkwang-Regular",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Fahkwang ExtraLight",
+          "styles": [
+            {
+              "family_name": "Fahkwang ExtraLight",
+              "type": "Italic",
+              "full_name": "Fahkwang ExtraLight Italic",
+              "post_script_name": "Fahkwang-ExtraLightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang ExtraLight",
+              "type": "Regular",
+              "full_name": "Fahkwang ExtraLight",
+              "post_script_name": "Fahkwang-ExtraLight",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Fahkwang Light",
+          "styles": [
+            {
+              "family_name": "Fahkwang Light",
+              "type": "Italic",
+              "full_name": "Fahkwang Light Italic",
+              "post_script_name": "Fahkwang-LightItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang Light",
+              "type": "Regular",
+              "full_name": "Fahkwang Light",
+              "post_script_name": "Fahkwang-Light",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Fahkwang Medium",
+          "styles": [
+            {
+              "family_name": "Fahkwang Medium",
+              "type": "Italic",
+              "full_name": "Fahkwang Medium Italic",
+              "post_script_name": "Fahkwang-MediumItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang Medium",
+              "type": "Regular",
+              "full_name": "Fahkwang Medium",
+              "post_script_name": "Fahkwang-Medium",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Fahkwang SemiBold",
+          "styles": [
+            {
+              "family_name": "Fahkwang SemiBold",
+              "type": "Italic",
+              "full_name": "Fahkwang SemiBold Italic",
+              "post_script_name": "Fahkwang-SemiBoldItalic",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Fahkwang SemiBold",
+              "type": "Regular",
+              "full_name": "Fahkwang SemiBold",
+              "post_script_name": "Fahkwang-SemiBold",
+              "version": "1.000",
+              "copyright": "Copyright 2018 The Fahkwang Project Authors (https://github.com/cadsondemak/Fah-Kwang)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

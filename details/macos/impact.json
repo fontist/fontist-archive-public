@@ -1,0 +1,38 @@
+{
+  "slug": "macos/impact",
+  "name": "impact",
+  "description": "Impact",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.microsoft.com/typography/fonts/",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Impact.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/3c94f1412d7b13bcfcd207c06bb6abaff9e576cf.zip"
+      ],
+      "sha256": "37ffc38841f470232f93d356f4bc883fe008020a8d4b0a872acbf0c1325e0aef",
+      "file_size": 83478
+    }
+  },
+  "fonts": [
+    {
+      "name": "Impact",
+      "styles": [
+        {
+          "family_name": "Impact",
+          "type": "Regular",
+          "full_name": "Impact",
+          "post_script_name": "Impact",
+          "version": "5.00x",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "description": "1965. Designed for the Stephenson Blake type foundry. A very heavy, narrow, sans serif face intended for use in newspapers, for headlines and in advertisements. Aptly named, this face has a very large \"x\" height with short ascenders and descenders.",
+          "font": "Impact.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

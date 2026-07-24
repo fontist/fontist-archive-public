@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font8/kavivanar_10m11177",
+  "name": "Kavivanar",
+  "description": "Kavivanar",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com|zeezat@gmail.com)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "81c39aaff043c769a0ca87dd3922c04f5e243a8e.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/81c39aaff043c769a0ca87dd3922c04f5e243a8e.zip"
+      ],
+      "sha256": "5ba37e7801d6d659953099d931e4c14f94b07eb6e99d9517f430c71277f9f445",
+      "file_size": 41056
+    }
+  },
+  "fonts": [
+    {
+      "name": "Kavivanar",
+      "styles": [
+        {
+          "family_name": "Kavivanar",
+          "type": "Regular",
+          "full_name": "Kavivanar",
+          "post_script_name": "Kavivanar-Regular",
+          "version": "20.0d1e2 (1.89)",
+          "copyright": "Copyright (c) 2015, Tharique Azeez (http://thariqueazeez.com|zeezat@gmail.com)",
+          "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+          "font": "Kavivanar-regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "macos/kannada_mn",
+  "name": "kannada_mn",
+  "description": "Kannada MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Kannada_MN.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/8a50812d600e0da07cab1323544e4a82097e421e.zip"
+      ],
+      "sha256": "05edcd82763e333818e89423da6ac08c6097eb70ed6d14adf6dba5cf444e44f0",
+      "file_size": 111997
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Kannada-MN.ttc",
+      "fonts": [
+        {
+          "name": "Kannada MN",
+          "styles": [
+            {
+              "family_name": "Kannada MN",
+              "type": "Bold",
+              "full_name": "Kannada MN Bold",
+              "post_script_name": "KannadaMN-Bold",
+              "version": "14.0d1e6",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+              "description": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Kannada MN",
+              "type": "Regular",
+              "full_name": "Kannada MN",
+              "post_script_name": "KannadaMN",
+              "version": "14.0d1e6",
+              "copyright": "Copyright (c) 2009 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+              "description": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

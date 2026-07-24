@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/dijla",
+  "name": "Dijla",
+  "description": "Dijla",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Dijla (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a7af60b970c1b7edfe57a400ee78cd7e17ca2181.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/a7af60b970c1b7edfe57a400ee78cd7e17ca2181.zip"
+      ],
+      "sha256": "1f84afdf26b8cb1508b99c8a0d6ac734f7201c580a7d7bdc4694d387d8cbc1c1",
+      "file_size": 28846
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Dijla.ttc",
+      "fonts": [
+        {
+          "name": ".Dijla PUA",
+          "styles": [
+            {
+              "family_name": ".Dijla PUA",
+              "type": "Regular",
+              "full_name": ".Dijla PUA",
+              "post_script_name": ".DijlaPUA",
+              "version": "13.0d2e1",
+              "copyright": ".Dijla PUA (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Dijla",
+          "styles": [
+            {
+              "family_name": "Dijla",
+              "type": "Regular",
+              "full_name": "Dijla Regular",
+              "post_script_name": "Dijla",
+              "version": "13.0d2e1",
+              "copyright": "Dijla (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "slug": "macos/font7/mukta_malar_bold_10m1044",
+  "name": "Mukta Malar Bold",
+  "description": "Mukta Malar Bold",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "7cc6c684c40b997bfac55b2647ca929ca521792d.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/7cc6c684c40b997bfac55b2647ca929ca521792d.zip"
+      ],
+      "sha256": "ec49454b4c73a456e6c2951abe240b135069f64c46865ccc65053feeec5cbae3",
+      "file_size": 711329
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "MuktaMalar-Tamil.ttc",
+      "fonts": [
+        {
+          "name": "Mukta Malar Bold",
+          "styles": [
+            {
+              "family_name": "Mukta Malar Bold",
+              "type": "Regular",
+              "full_name": "Mukta Malar Bold",
+              "post_script_name": "MuktaMalar-Bold",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Malar ExtraBold",
+          "styles": [
+            {
+              "family_name": "Mukta Malar ExtraBold",
+              "type": "Regular",
+              "full_name": "Mukta Malar ExtraBold",
+              "post_script_name": "MuktaMalar-ExtraBold",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Malar ExtraLight",
+          "styles": [
+            {
+              "family_name": "Mukta Malar ExtraLight",
+              "type": "Regular",
+              "full_name": "Mukta Malar ExtraLight",
+              "post_script_name": "MuktaMalar-ExtraLight",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Malar Light",
+          "styles": [
+            {
+              "family_name": "Mukta Malar Light",
+              "type": "Regular",
+              "full_name": "Mukta Malar Light",
+              "post_script_name": "MuktaMalar-Light",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Malar Medium",
+          "styles": [
+            {
+              "family_name": "Mukta Malar Medium",
+              "type": "Regular",
+              "full_name": "Mukta Malar Medium",
+              "post_script_name": "MuktaMalar-Medium",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Malar Regular",
+          "styles": [
+            {
+              "family_name": "Mukta Malar Regular",
+              "type": "Regular",
+              "full_name": "Mukta Malar Regular",
+              "post_script_name": "MuktaMalar-Regular",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Mukta Malar SemiBold",
+          "styles": [
+            {
+              "family_name": "Mukta Malar SemiBold",
+              "type": "Regular",
+              "full_name": "Mukta Malar SemiBold",
+              "post_script_name": "MuktaMalar-SemiBold",
+              "version": "2.538;PS 1.000;hotconv 16.6.51;makeotf.lib2.5.65220; ttfautohint (v1.6)",
+              "copyright": "Copyright (c) 2016, Ek Type. All rights reserved.",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

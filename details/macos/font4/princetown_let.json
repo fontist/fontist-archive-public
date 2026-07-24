@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/princetown_let",
+  "name": "Princetown LET",
+  "description": "Princetown LET",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "1d103fd1917c646894949232400d661fb327cb12.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/1d103fd1917c646894949232400d661fb327cb12.zip"
+      ],
+      "sha256": "93773cd3e3d34bccc94dfb8f96bf22f6732f9344a5d46b0ad0107c65b1eb62cb",
+      "file_size": 22945
+    }
+  },
+  "fonts": [
+    {
+      "name": "Princetown LET",
+      "styles": [
+        {
+          "family_name": "Princetown LET",
+          "type": "Regular",
+          "full_name": "Princetown LET",
+          "post_script_name": "PrincetownLET",
+          "version": "13.0d1e2",
+          "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+          "font": "PrincetownLETFonts.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

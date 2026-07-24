@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/yaziji_10m1044",
+  "name": "Yaziji",
+  "description": "Yaziji",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Yaziji (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "95522c803dc34c8be72483c61d6cdea40310aa52.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/95522c803dc34c8be72483c61d6cdea40310aa52.zip"
+      ],
+      "sha256": "c2aeb43431ffe5884d778dab4425b3b8fc452294a24684875353bd538c755e8a",
+      "file_size": 30637
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Yaziji.ttc",
+      "fonts": [
+        {
+          "name": ".Yaziji PUA",
+          "styles": [
+            {
+              "family_name": ".Yaziji PUA",
+              "type": "Regular",
+              "full_name": ".Yaziji PUA",
+              "post_script_name": ".YazijiPUA",
+              "version": "13.0d1e4",
+              "copyright": ".Yaziji PUA (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Yaziji",
+          "styles": [
+            {
+              "family_name": "Yaziji",
+              "type": "Regular",
+              "full_name": "Yaziji Regular",
+              "post_script_name": "Yaziji",
+              "version": "13.0d1e4",
+              "copyright": "Yaziji (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

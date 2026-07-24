@@ -1,0 +1,50 @@
+{
+  "slug": "macos/kohinoor_bangla",
+  "name": "kohinoor_bangla",
+  "description": "Kohinoor Bangla",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Kohinoor_Bangla.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/98ed8910b3d1ba8e6a4c926ac8239d013fa55829.zip"
+      ],
+      "sha256": "f9e1ff9c1d0cdbcee0adbddfcd1b45f764c80a73788a5628cecdf92cb110959c",
+      "file_size": 209394
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KohinoorBanglaComplement.ttc",
+      "fonts": [
+        {
+          "name": "Kohinoor Bangla",
+          "styles": [
+            {
+              "family_name": "Kohinoor Bangla",
+              "type": "Bold",
+              "full_name": "Kohinoor Bangla Bold",
+              "post_script_name": "KohinoorBangla-Bold",
+              "version": "14.0d2e3",
+              "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+              "description": "Kohinoor Bangla is an elegant low contrast type family suitable for both body and display text in print and on screen. Designed between 2009 and 2015 by Satya Rajpurohit and Jyotish Sonowal. OpenType production by Liang Hai."
+            },
+            {
+              "family_name": "Kohinoor Bangla",
+              "type": "Medium",
+              "full_name": "Kohinoor Bangla Medium",
+              "post_script_name": "KohinoorBangla-Medium",
+              "version": "14.0d2e3",
+              "copyright": "Copyright 2015 Indian Type Foundry. All rights reserved.",
+              "description": "Kohinoor Bangla is an elegant low contrast type family suitable for both body and display text in print and on screen. Designed between 2009 and 2015 by Satya Rajpurohit and Jyotish Sonowal. OpenType production by Liang Hai."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

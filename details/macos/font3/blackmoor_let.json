@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/blackmoor_let",
+  "name": "Blackmoor LET",
+  "description": "Blackmoor LET",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "61554b0dda6fe908208f25353bc4f3402b66fb96.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/61554b0dda6fe908208f25353bc4f3402b66fb96.zip"
+      ],
+      "sha256": "6395cc476dd8ca3cc5c0c42885f704939a62d7628319b9b93aa0dc76f8a9ecf0",
+      "file_size": 109903
+    }
+  },
+  "fonts": [
+    {
+      "name": "Blackmoor LET",
+      "styles": [
+        {
+          "family_name": "Blackmoor LET",
+          "type": "Plain",
+          "full_name": "Blackmoor LET Plain:2.0",
+          "post_script_name": "BlackmoorLetPlain",
+          "version": "10.0d2e2",
+          "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+          "font": "Blackmoor LET Fonts.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

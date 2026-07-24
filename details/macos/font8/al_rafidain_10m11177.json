@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font8/al_rafidain_10m11177",
+  "name": "Al Rafidain",
+  "description": "Al Rafidain",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Al Rafidain (c) 2013 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "365c138485ceac877e5d48482a2fced414a6ff7c.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/365c138485ceac877e5d48482a2fced414a6ff7c.zip"
+      ],
+      "sha256": "85640b5fca6ffb16bdce3a6137cc9cf9f11a1e040ebe1b00d10ce4d4ec671892",
+      "file_size": 26774
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "AlRafidain.ttc",
+      "fonts": [
+        {
+          "name": ".Al Rafidain PUA",
+          "styles": [
+            {
+              "family_name": ".Al Rafidain PUA",
+              "type": "Regular",
+              "full_name": ".Al Rafidain PUA Regular",
+              "post_script_name": ".Al-RafidainPUA",
+              "version": "13.0d2e1",
+              "copyright": "Al Rafidain (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Al Rafidain",
+          "styles": [
+            {
+              "family_name": "Al Rafidain",
+              "type": "Regular",
+              "full_name": "Al Rafidain Regular",
+              "post_script_name": "Al-Rafidain",
+              "version": "13.0d2e1",
+              "copyright": "Al Rafidain (c) 2013 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

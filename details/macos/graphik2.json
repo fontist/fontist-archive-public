@@ -1,0 +1,112 @@
+{
+  "slug": "macos/graphik2",
+  "name": "graphik2",
+  "description": "Graphik",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "©2009 Commercial Type.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "Graphik.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/ec978623f47f41a79345f8d3793af135f11ed1f3.zip"
+      ],
+      "sha256": "4d6ce8ca094e875326e665734fcbcf5d5ea437010583c2d025989bcc972d959d",
+      "file_size": 418979
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Graphik.ttc",
+      "fonts": [
+        {
+          "name": "Graphik",
+          "styles": [
+            {
+              "family_name": "Graphik",
+              "type": "Bold",
+              "full_name": "Graphik-Bold",
+              "post_script_name": "Graphik-Bold",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Bold Italic",
+              "full_name": "Graphik-BoldItalic",
+              "post_script_name": "Graphik-BoldItalic",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Italic",
+              "full_name": "Graphik-RegularItalic",
+              "post_script_name": "Graphik-RegularItalic",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Light",
+              "full_name": "Graphik-Light",
+              "post_script_name": "Graphik-Light",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Light Italic",
+              "full_name": "Graphik-LightItalic",
+              "post_script_name": "Graphik-LightItalic",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Medium",
+              "full_name": "Graphik-Medium",
+              "post_script_name": "Graphik-Medium",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Medium Italic",
+              "full_name": "Graphik-MediumItalic",
+              "post_script_name": "Graphik-MediumItalic",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Regular",
+              "full_name": "Graphik-Regular",
+              "post_script_name": "Graphik-Regular",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Semibold",
+              "full_name": "Graphik-Semibold",
+              "post_script_name": "Graphik-Semibold",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            },
+            {
+              "family_name": "Graphik",
+              "type": "Semibold Italic",
+              "full_name": "Graphik-SemiboldItalic",
+              "post_script_name": "Graphik-SemiboldItalic",
+              "version": "15.0d2e1",
+              "copyright": "©2009 Commercial Type."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

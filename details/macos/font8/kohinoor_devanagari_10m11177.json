@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font8/kohinoor_devanagari_10m11177",
+  "name": "Kohinoor Devanagari",
+  "description": "Kohinoor Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2010, 2014 Indian Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "0270aa88dfda08f0492f250dc24ae27b6d11b9c9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/0270aa88dfda08f0492f250dc24ae27b6d11b9c9.zip"
+      ],
+      "sha256": "ac502aabb0e253075a8cb259cec5043fc49dd4dec3cb359c121a522bdc6e7627",
+      "file_size": 264622
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "KohinoorComplement.ttc",
+      "fonts": [
+        {
+          "name": "Kohinoor Devanagari",
+          "styles": [
+            {
+              "family_name": "Kohinoor Devanagari",
+              "type": "Bold",
+              "full_name": "Kohinoor Devanagari Bold",
+              "post_script_name": "KohinoorDevanagari-Bold",
+              "version": "20.0d1e4",
+              "copyright": "Copyright 2010, 2014 Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "Kohinoor Devanagari",
+              "type": "Medium",
+              "full_name": "Kohinoor Devanagari Medium",
+              "post_script_name": "KohinoorDevanagari-Medium",
+              "version": "20.0d1e4",
+              "copyright": "Copyright 2010, 2014 Indian Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

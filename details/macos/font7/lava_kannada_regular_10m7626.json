@@ -1,0 +1,84 @@
+{
+  "slug": "macos/font7/lava_kannada_regular_10m7626",
+  "name": "Lava Kannada Regular",
+  "description": "Lava Kannada Regular",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 - 2018 Typotheque.com All rights reserved",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "810ba821bae9ea3677944089ed67a726a382c132.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/810ba821bae9ea3677944089ed67a726a382c132.zip"
+      ],
+      "sha256": "53b1ccc32e5268c62c5ff563c3fc558c5b0b44e7c2a47ae76e5d91d4fccde979",
+      "file_size": 391667
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "LavaKannada.ttc",
+      "fonts": [
+        {
+          "name": "Lava Kannada Bold",
+          "styles": [
+            {
+              "family_name": "Lava Kannada Bold",
+              "type": "Regular",
+              "full_name": "Lava Kannada Bold",
+              "post_script_name": "LavaKannada-Bold",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2018 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        },
+        {
+          "name": "Lava Kannada Heavy",
+          "styles": [
+            {
+              "family_name": "Lava Kannada Heavy",
+              "type": "Regular",
+              "full_name": "Lava Kannada Heavy",
+              "post_script_name": "LavaKannada-Heavy",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2018 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        },
+        {
+          "name": "Lava Kannada Medium",
+          "styles": [
+            {
+              "family_name": "Lava Kannada Medium",
+              "type": "Regular",
+              "full_name": "Lava Kannada Medium",
+              "post_script_name": "LavaKannada-Medium",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2018 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        },
+        {
+          "name": "Lava Kannada Regular",
+          "styles": [
+            {
+              "family_name": "Lava Kannada Regular",
+              "type": "Regular",
+              "full_name": "Lava Kannada Regular",
+              "post_script_name": "LavaKannada-Regular",
+              "version": "20.0d1e2",
+              "copyright": "© 2012 - 2018 Typotheque.com All rights reserved",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission. "
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

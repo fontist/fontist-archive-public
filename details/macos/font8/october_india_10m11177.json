@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font8/october_india_10m11177",
+  "name": "October India",
+  "description": "October India",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2016-2024 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "666d13c62fce589d92ed16b96d4711f1e63400cd.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/666d13c62fce589d92ed16b96d4711f1e63400cd.zip"
+      ],
+      "sha256": "63211b6355e890474ad198f0b1cc2304006a0bc308068ca0491a99327cfda89b",
+      "file_size": 1826856
+    }
+  },
+  "fonts": [
+    {
+      "name": "October India",
+      "styles": [
+        {
+          "family_name": "October India",
+          "type": "Regular",
+          "full_name": "October India Regular",
+          "post_script_name": "OctoberIndia-Regular",
+          "version": "20.0d2e3",
+          "copyright": "Copyright 2016-2024 Typotheque. All rights reserved.",
+          "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission.",
+          "font": "OctoberIndia.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

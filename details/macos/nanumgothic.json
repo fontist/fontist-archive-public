@@ -1,0 +1,62 @@
+{
+  "slug": "macos/nanumgothic",
+  "name": "nanumgothic",
+  "description": "NanumGothic",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.nhncorp.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "NanumGothic.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/ee9e9584cd1a5f676e03a9efcc80783bc7e12e2c.zip"
+      ],
+      "sha256": "caaef60fca0c30f8e6fddac47be1f5b5045b93bd8959047e0ac8b45362100db9",
+      "file_size": 7175377
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "NanumGothic.ttc",
+      "fonts": [
+        {
+          "name": "NanumGothic",
+          "styles": [
+            {
+              "family_name": "NanumGothic",
+              "type": "Bold",
+              "full_name": "NanumGothic Bold",
+              "post_script_name": "NanumGothicBold",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+            },
+            {
+              "family_name": "NanumGothic",
+              "type": "Regular",
+              "full_name": "NanumGothic",
+              "post_script_name": "NanumGothic",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+            }
+          ]
+        },
+        {
+          "name": "NanumGothic ExtraBold",
+          "styles": [
+            {
+              "family_name": "NanumGothic ExtraBold",
+              "type": "ExtraBold",
+              "full_name": "NanumGothic ExtraBold",
+              "post_script_name": "NanumGothicExtraBold",
+              "version": "13.0d1e3",
+              "copyright": "Copyright © 2011 NHN Corporation. All rights reserved. Font designed by Sandoll Communications Inc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

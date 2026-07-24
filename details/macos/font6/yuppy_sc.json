@@ -1,0 +1,37 @@
+{
+  "slug": "macos/font6/yuppy_sc",
+  "name": "Yuppy SC",
+  "description": "Yuppy SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2003, 2005, 2009 Monotype Imaging Hong Kong Ltd. and Monotype Imaging Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.monotype.com.hk/modules.php?name=Content&showpage&pid=15",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c2e85ff2325814a0f6ebd90957fbdb5e5b396867.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/c2e85ff2325814a0f6ebd90957fbdb5e5b396867.zip"
+      ],
+      "sha256": "b533d5d5fe6bd8d93458f2a4fead36e7f0b38ced6e21ce2ebcf1500c53a72896",
+      "file_size": 12548871
+    }
+  },
+  "fonts": [
+    {
+      "name": "Yuppy SC",
+      "styles": [
+        {
+          "family_name": "Yuppy SC",
+          "type": "Regular",
+          "full_name": "Yuppy SC Regular",
+          "post_script_name": "YuppySC-Regular",
+          "version": "13.0d1e1",
+          "copyright": "© 2003, 2005, 2009 Monotype Imaging Hong Kong Ltd. and Monotype Imaging Inc. All rights reserved.",
+          "font": "YuppySC-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font3/jazz_let",
+  "name": "Jazz LET",
+  "description": "Jazz LET",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "5e4f6a1353d7b1206645469527f9fdcaf2971ec1.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/5e4f6a1353d7b1206645469527f9fdcaf2971ec1.zip"
+      ],
+      "sha256": "3c0d8f66e4143ec850f1b27c0ca6fc4d428c8fad842b5f280c25bb5523418d71",
+      "file_size": 72839
+    }
+  },
+  "fonts": [
+    {
+      "name": "Jazz LET",
+      "styles": [
+        {
+          "family_name": "Jazz LET",
+          "type": "Plain",
+          "full_name": "Jazz LET Plain:1.0",
+          "post_script_name": "JazzLetPlain",
+          "version": "10.0d1e2",
+          "copyright": "Copyright � 1990 Esselte Letraset, Ltd. All rights reserved.",
+          "font": "Jazz LET Fonts.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

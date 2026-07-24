@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font3/wawati_tc",
+  "name": "Wawati TC",
+  "description": "Wawati TC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved. DynaComware Taiwan Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.dynacw.com",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9a978920a2ec0751dab43654250100e09371ff60.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/9a978920a2ec0751dab43654250100e09371ff60.zip"
+      ],
+      "sha256": "e7b8cea87ded2243de3959ec2a5e59b917163b4d2318c1f412c5ebe17f6c305f",
+      "file_size": 11614268
+    }
+  },
+  "fonts": [
+    {
+      "name": "Wawati TC",
+      "styles": [
+        {
+          "family_name": "Wawati TC",
+          "type": "Regular",
+          "full_name": "Wawati TC Regular",
+          "post_script_name": "DFWaWaTC-W5",
+          "version": "8.0d2e2",
+          "copyright": "© 2012 DynaComware Taiwan Inc. All rights reserved. DynaComware Taiwan Inc. All rights reserved.",
+          "description": "This font may be installed on one machine only, you can not sell or give these fonts to anyone else.",
+          "font": "WawaTC-Regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

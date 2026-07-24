@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/pcmyungjo_10m1044",
+  "name": "PCMyungjo",
+  "description": "PCMyungjo",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c2cf5e684236b5395fd48d6ccf0e3b3191ce83a0.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/c2cf5e684236b5395fd48d6ccf0e3b3191ce83a0.zip"
+      ],
+      "sha256": "f20878f3edfe7d547a0317335d5bc018cc35cd20d98ebcc55cb4ebf688ac8af6",
+      "file_size": 4483676
+    }
+  },
+  "fonts": [
+    {
+      "name": "PCMyungjo",
+      "styles": [
+        {
+          "family_name": "PCMyungjo",
+          "type": "Regular",
+          "full_name": "PCMyungjo Regular",
+          "post_script_name": "JCsmPC",
+          "version": "13.0d2e1",
+          "copyright": "Copyright (c) 1994-2001 Apple Computer, Inc. All rights reserved.",
+          "font": "PCmyoungjo.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/farisi",
+  "name": "Farisi",
+  "description": "Farisi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2002 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "68724629ffbd87ba5e5ac625ad944d5050f78712.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/68724629ffbd87ba5e5ac625ad944d5050f78712.zip"
+      ],
+      "sha256": "22c034b30b8c2d93e43ec323795855202effcf0d3a226982d05ef646870e1631",
+      "file_size": 102457
+    }
+  },
+  "fonts": [
+    {
+      "name": "Farisi",
+      "styles": [
+        {
+          "family_name": "Farisi",
+          "type": "Regular",
+          "full_name": "Farisi Regular",
+          "post_script_name": "Farisi",
+          "version": "13.0d1e3",
+          "copyright": "� 2002 Diwan Software Ltd.",
+          "font": "Farisi.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

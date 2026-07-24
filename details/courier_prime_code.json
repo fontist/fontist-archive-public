@@ -1,0 +1,47 @@
+{
+  "slug": "courier_prime_code",
+  "name": "Courier Prime Code",
+  "description": "Courier Prime Code",
+  "homepage": "http://quoteunquoteapps.com",
+  "copyright": "Copyright (c) 2015 Quote-Unquote Apps.",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Courier_Prime_Code.zip": {
+      "urls": [
+        "https://quoteunquoteapps.com/courierprime/downloads/courier-prime-code.zip",
+        "https://web.archive.org/web/20260506004038/https://quoteunquoteapps.com/courierprime/downloads/courier-prime-code.zip"
+      ],
+      "sha256": "c400b6addeddef7c26a9943f847a8584c83d8bb775cd35da2dcd41c6ad98d827",
+      "file_size": 74040
+    }
+  },
+  "fonts": [
+    {
+      "name": "Courier Prime Code",
+      "styles": [
+        {
+          "family_name": "Courier Prime Code",
+          "type": "Italic",
+          "full_name": "Courier Prime Code Italic",
+          "post_script_name": "CourierPrimeCode-Italic",
+          "version": "3.0318",
+          "copyright": "Copyright (c) 2015 Quote-Unquote Apps.",
+          "font": "Courier Prime Code Italic.ttf"
+        },
+        {
+          "family_name": "Courier Prime Code",
+          "type": "Regular",
+          "full_name": "CourierPrimeCode-Regular",
+          "post_script_name": "CourierPrimeCode-Regular",
+          "version": "3.0318",
+          "copyright": "Copyright (c) 2015 Quote-Unquote Apps.",
+          "font": "Courier Prime Code.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

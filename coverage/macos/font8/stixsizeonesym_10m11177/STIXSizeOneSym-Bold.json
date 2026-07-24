@@ -1,0 +1,108 @@
+{
+  "slug": "macos/font8/stixsizeonesym_10m11177",
+  "redistributable": false,
+  "total_codepoints": 21,
+  "supported_blocks": 6,
+  "total_blocks": 6,
+  "planes": {
+    "bmp": true,
+    "smp": false,
+    "sip": false
+  },
+  "codepoints": [
+    32,
+    40,
+    41,
+    47,
+    91,
+    92,
+    93,
+    123,
+    125,
+    160,
+    8512,
+    8719,
+    8720,
+    8721,
+    8730,
+    8968,
+    8969,
+    8970,
+    8971,
+    10216,
+    10217
+  ],
+  "blocks": [
+    {
+      "name": "Basic_Latin",
+      "range": "U+0000–U+007F",
+      "start": 0,
+      "end": 127,
+      "codepoints": [
+        32,
+        40,
+        41,
+        47,
+        91,
+        92,
+        93,
+        123,
+        125
+      ]
+    },
+    {
+      "name": "Latin-1_Supplement",
+      "range": "U+0080–U+00FF",
+      "start": 128,
+      "end": 255,
+      "codepoints": [
+        160
+      ]
+    },
+    {
+      "name": "Letterlike_Symbols",
+      "range": "U+2100–U+214F",
+      "start": 8448,
+      "end": 8527,
+      "codepoints": [
+        8512
+      ]
+    },
+    {
+      "name": "Mathematical_Operators",
+      "range": "U+2200–U+22FF",
+      "start": 8704,
+      "end": 8959,
+      "codepoints": [
+        8719,
+        8720,
+        8721,
+        8730
+      ]
+    },
+    {
+      "name": "Miscellaneous_Mathematical_Symbols-A",
+      "range": "U+27C0–U+27EF",
+      "start": 10176,
+      "end": 10223,
+      "codepoints": [
+        10216,
+        10217
+      ]
+    },
+    {
+      "name": "Miscellaneous_Technical",
+      "range": "U+2300–U+23FF",
+      "start": 8960,
+      "end": 9215,
+      "codepoints": [
+        8968,
+        8969,
+        8970,
+        8971
+      ]
+    }
+  ],
+  "variable_axes": [],
+  "opentype_features": []
+}

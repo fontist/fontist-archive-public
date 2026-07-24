@@ -1,0 +1,443 @@
+{
+  "slug": "lato",
+  "name": "Lato",
+  "description": "Lato",
+  "homepage": "http://www.typoland.com/",
+  "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "lato-source-1.0.0.zip": {
+      "urls": [
+        "https://github.com/latofonts/lato-source/archive/refs/tags/v1.0.0.zip"
+      ],
+      "sha256": "0242903baaa58e6ad45b405569d5bc6303fdfdedd00019d98d5cced47e493ddf",
+      "file_size": 15413748
+    }
+  },
+  "fonts": [
+    {
+      "name": "Lato",
+      "styles": [
+        {
+          "family_name": "Lato",
+          "type": "Bold",
+          "full_name": "Lato Bold",
+          "post_script_name": "Lato-Bold",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Bold.ttf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Bold",
+          "full_name": "Lato-Bold",
+          "post_script_name": "Lato-Bold",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Bold.otf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Bold Italic",
+          "full_name": "Lato-BoldItalic",
+          "post_script_name": "Lato-BoldItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-BoldItalic.otf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Bold Italic",
+          "full_name": "Lato Bold Italic",
+          "post_script_name": "Lato-BoldItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Italic",
+          "full_name": "Lato Hairline Italic",
+          "post_script_name": "Lato-HairlineItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-HairlineItalic.ttf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Italic",
+          "full_name": "Lato Italic",
+          "post_script_name": "Lato-Italic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Italic.ttf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Italic",
+          "full_name": "Lato-Italic",
+          "post_script_name": "Lato-Italic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Italic.otf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Regular",
+          "full_name": "Lato-Regular",
+          "post_script_name": "Lato-Regular",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Regular.otf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Regular",
+          "full_name": "Lato Regular",
+          "post_script_name": "Lato-Regular",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Regular.ttf"
+        },
+        {
+          "family_name": "Lato",
+          "type": "Regular",
+          "full_name": "Lato Hairline",
+          "post_script_name": "Lato-Hairline",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Hairline.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Black",
+      "styles": [
+        {
+          "family_name": "Lato Black",
+          "type": "Italic",
+          "full_name": "Lato-BlackItalic",
+          "post_script_name": "Lato-BlackItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-BlackItalic.otf"
+        },
+        {
+          "family_name": "Lato Black",
+          "type": "Italic",
+          "full_name": "Lato Black Italic",
+          "post_script_name": "Lato-BlackItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-BlackItalic.ttf"
+        },
+        {
+          "family_name": "Lato Black",
+          "type": "Regular",
+          "full_name": "Lato-Black",
+          "post_script_name": "Lato-Black",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Black.otf"
+        },
+        {
+          "family_name": "Lato Black",
+          "type": "Regular",
+          "full_name": "Lato Black",
+          "post_script_name": "Lato-Black",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Hairline",
+      "styles": [
+        {
+          "family_name": "Lato Hairline",
+          "type": "Italic",
+          "full_name": "Lato-HairlineItalic",
+          "post_script_name": "Lato-HairlineItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-HairlineItalic.otf"
+        },
+        {
+          "family_name": "Lato Hairline",
+          "type": "Italic",
+          "full_name": "Lato Hairline Italic",
+          "post_script_name": "Lato-HairlineItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-HairlineItalic.ttf"
+        },
+        {
+          "family_name": "Lato Hairline",
+          "type": "Regular",
+          "full_name": "Lato-Hairline",
+          "post_script_name": "Lato-Hairline",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Hairline.otf"
+        },
+        {
+          "family_name": "Lato Hairline",
+          "type": "Regular",
+          "full_name": "Lato Hairline",
+          "post_script_name": "Lato-Hairline",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Hairline.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Heavy",
+      "styles": [
+        {
+          "family_name": "Lato Heavy",
+          "type": "Italic",
+          "full_name": "Lato-HeavyItalic",
+          "post_script_name": "Lato-HeavyItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-HeavyItalic.otf"
+        },
+        {
+          "family_name": "Lato Heavy",
+          "type": "Italic",
+          "full_name": "Lato Heavy Italic",
+          "post_script_name": "Lato-HeavyItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-HeavyItalic.ttf"
+        },
+        {
+          "family_name": "Lato Heavy",
+          "type": "Regular",
+          "full_name": "Lato-Heavy",
+          "post_script_name": "Lato-Heavy",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Heavy.otf"
+        },
+        {
+          "family_name": "Lato Heavy",
+          "type": "Regular",
+          "full_name": "Lato Heavy",
+          "post_script_name": "Lato-Heavy",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Heavy.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Light",
+      "styles": [
+        {
+          "family_name": "Lato Light",
+          "type": "Italic",
+          "full_name": "Lato-LightItalic",
+          "post_script_name": "Lato-LightItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-LightItalic.otf"
+        },
+        {
+          "family_name": "Lato Light",
+          "type": "Italic",
+          "full_name": "Lato Light Italic",
+          "post_script_name": "Lato-LightItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-LightItalic.ttf"
+        },
+        {
+          "family_name": "Lato Light",
+          "type": "Regular",
+          "full_name": "Lato-Light",
+          "post_script_name": "Lato-Light",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Light.otf"
+        },
+        {
+          "family_name": "Lato Light",
+          "type": "Regular",
+          "full_name": "Lato Light",
+          "post_script_name": "Lato-Light",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Medium",
+      "styles": [
+        {
+          "family_name": "Lato Medium",
+          "type": "Italic",
+          "full_name": "Lato-MediumItalic",
+          "post_script_name": "Lato-MediumItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-MediumItalic.otf"
+        },
+        {
+          "family_name": "Lato Medium",
+          "type": "Italic",
+          "full_name": "Lato Medium Italic",
+          "post_script_name": "Lato-MediumItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-MediumItalic.ttf"
+        },
+        {
+          "family_name": "Lato Medium",
+          "type": "Regular",
+          "full_name": "Lato-Medium",
+          "post_script_name": "Lato-Medium",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Medium.otf"
+        },
+        {
+          "family_name": "Lato Medium",
+          "type": "Regular",
+          "full_name": "Lato Medium",
+          "post_script_name": "Lato-Medium",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Semibold",
+      "styles": [
+        {
+          "family_name": "Lato Semibold",
+          "type": "Italic",
+          "full_name": "Lato-SemiboldItalic",
+          "post_script_name": "Lato-SemiboldItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-SemiboldItalic.otf"
+        },
+        {
+          "family_name": "Lato Semibold",
+          "type": "Italic",
+          "full_name": "Lato Semibold Italic",
+          "post_script_name": "Lato-SemiboldItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-SemiboldItalic.ttf"
+        },
+        {
+          "family_name": "Lato Semibold",
+          "type": "Regular",
+          "full_name": "Lato-Semibold",
+          "post_script_name": "Lato-Semibold",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Semibold.otf"
+        },
+        {
+          "family_name": "Lato Semibold",
+          "type": "Regular",
+          "full_name": "Lato Semibold",
+          "post_script_name": "Lato-Semibold",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Semibold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Lato Thin",
+      "styles": [
+        {
+          "family_name": "Lato Thin",
+          "type": "Italic",
+          "full_name": "Lato-ThinItalic",
+          "post_script_name": "Lato-ThinItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-ThinItalic.otf"
+        },
+        {
+          "family_name": "Lato Thin",
+          "type": "Italic",
+          "full_name": "Lato Thin Italic",
+          "post_script_name": "Lato-ThinItalic",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-ThinItalic.ttf"
+        },
+        {
+          "family_name": "Lato Thin",
+          "type": "Regular",
+          "full_name": "Lato-Thin",
+          "post_script_name": "Lato-Thin",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Thin.otf"
+        },
+        {
+          "family_name": "Lato Thin",
+          "type": "Regular",
+          "full_name": "Lato Thin",
+          "post_script_name": "Lato-Thin",
+          "version": "3.100; https://www.latofonts.com/",
+          "copyright": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "description": "Copyright (c) 2011-2020 by tyPoland Lukasz Dziedzic (http://www.typoland.com/) with Reserved Font Name \"Lato\". Licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL). ",
+          "font": "Lato-Thin.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

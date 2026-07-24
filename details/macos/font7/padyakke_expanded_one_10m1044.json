@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font7/padyakke_expanded_one_10m1044",
+  "name": "Padyakke Expanded One",
+  "description": "Padyakke Expanded One",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2015 The Padyakke Project Authors (padyakkefonts@gmail.com). Padyakke is a trademark of Dunwich Type Founders.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e86431dbd21a5a9b2a71ae1224cc7698ef086c05.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/e86431dbd21a5a9b2a71ae1224cc7698ef086c05.zip"
+      ],
+      "sha256": "1f716e7d760ba285970b8756baaf80dc4ee00f0ec3547b95c275b51e0710b4f0",
+      "file_size": 103167
+    }
+  },
+  "fonts": [
+    {
+      "name": "Padyakke Expanded One",
+      "styles": [
+        {
+          "family_name": "Padyakke Expanded One",
+          "type": "Regular",
+          "full_name": "PadyakkeExpandedOne-Regular",
+          "post_script_name": "PadyakkeExpandedOne-Regular",
+          "version": "1.402;PS 001.402;hotconv 1.0.88;makeotf.lib2.5.64775",
+          "copyright": "Copyright (c) 2015 The Padyakke Project Authors (padyakkefonts@gmail.com). Padyakke is a trademark of Dunwich Type Founders.",
+          "font": "PadyakkeExpandedOne-regular.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

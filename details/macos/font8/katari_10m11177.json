@@ -1,0 +1,96 @@
+{
+  "slug": "macos/font8/katari_10m11177",
+  "name": "Katari",
+  "description": "Katari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright © 2010, 2020 Erin McLaughlin. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9dd3300cea3db07f030c5b2d008e2d9e7085c216.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/9dd3300cea3db07f030c5b2d008e2d9e7085c216.zip"
+      ],
+      "sha256": "d1e677593126a004f92a5807b22ec10594b67432c381fc16bc6c483a8f96911d",
+      "file_size": 1697160
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Katari.ttc",
+      "fonts": [
+        {
+          "name": "Katari",
+          "styles": [
+            {
+              "family_name": "Katari",
+              "type": "Black",
+              "full_name": "Katari Black",
+              "post_script_name": "Katari-Black",
+              "version": "20.0d1e3",
+              "copyright": "Copyright © 2010, 2020 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Black Italic",
+              "full_name": "Katari Black Italic",
+              "post_script_name": "Katari-BlackItalic",
+              "version": "20.0d1e3",
+              "copyright": "Copyright (c) 2010 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Bold",
+              "full_name": "Katari Bold",
+              "post_script_name": "Katari-Bold",
+              "version": "20.0d1e3",
+              "copyright": "Copyright © 2010, 2020 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Bold Italic",
+              "full_name": "Katari Bold Italic",
+              "post_script_name": "Katari-BoldItalic",
+              "version": "20.0d1e3",
+              "copyright": "Copyright (c) 2010 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Italic",
+              "full_name": "Katari Italic",
+              "post_script_name": "Katari-Italic",
+              "version": "20.0d1e3",
+              "copyright": "Copyright (c) 2010 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Medium",
+              "full_name": "Katari Medium",
+              "post_script_name": "Katari-Medium",
+              "version": "20.0d1e3",
+              "copyright": "Copyright © 2010, 2020 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Medium Italic",
+              "full_name": "Katari Medium Italic",
+              "post_script_name": "Katari-MediumItalic",
+              "version": "20.0d1e3",
+              "copyright": "Copyright (c) 2010 by Erin McLaughlin. All rights reserved."
+            },
+            {
+              "family_name": "Katari",
+              "type": "Regular",
+              "full_name": "Katari Regular",
+              "post_script_name": "Katari-Regular",
+              "version": "20.0d1e3",
+              "copyright": "Copyright © 2010, 2020 Erin McLaughlin. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

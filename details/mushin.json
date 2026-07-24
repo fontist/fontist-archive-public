@@ -1,0 +1,37 @@
+{
+  "slug": "mushin",
+  "name": "mushin",
+  "description": "Mushin",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Mushin.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_mushin_2021_1104.zip"
+      ],
+      "sha256": "700d9306dfe224e17441c9b404079d6e1564a771b5e7c94a935a1f82870cdea6",
+      "file_size": 3092167
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mushin",
+      "styles": [
+        {
+          "family_name": "Mushin",
+          "type": "Regular",
+          "full_name": "Mushin",
+          "post_script_name": "Mushin",
+          "version": "1.04",
+          "copyright": "MODI",
+          "font": "mushin.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

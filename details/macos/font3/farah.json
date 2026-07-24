@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font3/farah",
+  "name": "Farah",
+  "description": "Farah",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2001 Diwan Software Ltd.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "df0e29e8ff4938f21cd46efe1a0547c91f15cb4f.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/df0e29e8ff4938f21cd46efe1a0547c91f15cb4f.zip"
+      ],
+      "sha256": "9a89a839f9e897aec00f71c8feccd48abbd3bfd6f4399b831163887d58b68ab3",
+      "file_size": 43866
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Farah.ttc",
+      "fonts": [
+        {
+          "name": ".Farah PUA",
+          "styles": [
+            {
+              "family_name": ".Farah PUA",
+              "type": "Regular",
+              "full_name": ".Farah PUA",
+              "post_script_name": ".FarahPUA",
+              "version": "10.0d3e2",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        },
+        {
+          "name": "Farah",
+          "styles": [
+            {
+              "family_name": "Farah",
+              "type": "Regular",
+              "full_name": "Farah Regular",
+              "post_script_name": "Farah",
+              "version": "10.0d3e2",
+              "copyright": "� 2001 Diwan Software Ltd."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

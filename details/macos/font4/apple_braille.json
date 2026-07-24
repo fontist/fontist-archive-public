@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/apple_braille",
+  "name": "Apple Braille",
+  "description": "Apple Braille",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� Copyright 2007 by Apple, Inc.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9938f329754da1aeac057e02a2bfb1ad072c24dd.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/9938f329754da1aeac057e02a2bfb1ad072c24dd.zip"
+      ],
+      "sha256": "6344dbc0b8c870d71fed16c6b236801b65af499d8f209e109d466a40a1e0e08b",
+      "file_size": 18505
+    }
+  },
+  "fonts": [
+    {
+      "name": "Apple Braille",
+      "styles": [
+        {
+          "family_name": "Apple Braille",
+          "type": "Pinpoint 8 Dot",
+          "full_name": "Apple Braille Pinpoint 8 Dot",
+          "post_script_name": "AppleBraille-Pinpoint8Dot",
+          "version": "13.0d2e27",
+          "copyright": "� Copyright 2007 by Apple, Inc.",
+          "font": "AppleBraille-Pinpoint8Dot.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

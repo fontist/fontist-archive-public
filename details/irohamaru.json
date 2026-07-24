@@ -1,0 +1,68 @@
+{
+  "slug": "irohamaru",
+  "name": "irohamaru",
+  "description": "irohamaru",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "[Source Han Sans]",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "irohamaru.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_irohamaru_2016_0727.zip"
+      ],
+      "sha256": "1eba27483d2f3a4e4d1f7a8d0e576cdf803bb828529d26b18fb1f66e223f1742",
+      "file_size": 15440920
+    }
+  },
+  "fonts": [
+    {
+      "name": "irohamaru Light",
+      "styles": [
+        {
+          "family_name": "irohamaru Light",
+          "type": "Regular",
+          "full_name": "irohamaru Light",
+          "post_script_name": "irohamaru-Light",
+          "version": "1.01",
+          "copyright": "[Source Han Sans]",
+          "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+          "font": "irohamaru-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "irohamaru Medium",
+      "styles": [
+        {
+          "family_name": "irohamaru Medium",
+          "type": "Regular",
+          "full_name": "irohamaru Medium",
+          "post_script_name": "irohamaru-Medium",
+          "version": "1.01",
+          "copyright": "[Source Han Sans]",
+          "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+          "font": "irohamaru-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "irohamaru Regular",
+      "styles": [
+        {
+          "family_name": "irohamaru Regular",
+          "type": "Regular",
+          "full_name": "irohamaru Regular",
+          "post_script_name": "irohamaru-Regular",
+          "version": "1.00",
+          "copyright": "[Source Han Sans]",
+          "description": "Dr. Ken Lunde (project architect, glyph set definition & overall production); Masataka HATTORI 服部正貴 (production & ideograph elements)",
+          "font": "irohamaru-Regular.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

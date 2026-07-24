@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font4/nadeem",
+  "name": "Nadeem",
+  "description": "Nadeem",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Nadeem designed by Diwan Software Ltd. Copyright Apple Computer, Inc. and\nits licensors, 1992-1998 all rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "56ac6deaadb61c965f1a2abab8d7662130cf09b3.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/56ac6deaadb61c965f1a2abab8d7662130cf09b3.zip"
+      ],
+      "sha256": "c912f369740c180d9ae6b070555677790177ccfda19073df6b839a449afb232a",
+      "file_size": 32996
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Nadeem.ttc",
+      "fonts": [
+        {
+          "name": ".Nadeem PUA",
+          "styles": [
+            {
+              "family_name": ".Nadeem PUA",
+              "type": "Regular",
+              "full_name": ".Nadeem PUA",
+              "post_script_name": ".NadeemPUA",
+              "version": "13.0d1e3",
+              "copyright": ".Nadeem PUA designed by Diwan Software Ltd. Copyright Apple Computer, Inc. and\nits licensors, 1992-1998 all rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Nadeem",
+          "styles": [
+            {
+              "family_name": "Nadeem",
+              "type": "Regular",
+              "full_name": "Nadeem Regular",
+              "post_script_name": "Nadeem",
+              "version": "13.0d1e3",
+              "copyright": "Nadeem designed by Diwan Software Ltd. Copyright Apple Computer, Inc. and\nits licensors, 1992-1998 all rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

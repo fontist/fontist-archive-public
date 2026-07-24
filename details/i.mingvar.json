@@ -1,0 +1,38 @@
+{
+  "slug": "i.mingvar",
+  "name": "I.MingVar",
+  "description": "I.MingVar",
+  "homepage": "https://github.com/ichitenfont/I.Ming",
+  "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+  "redistributable": true,
+  "source_format": "ttf",
+  "resources": {
+    "I.MingVar-8.10.ttf": {
+      "urls": [
+        "https://github.com/ichitenfont/I.Ming/releases/download/8.10/I.MingVar-8.10.ttf"
+      ],
+      "sha256": "ba877ed20835c5622e4cbe83b4107e78f11ad919d0268491efd00d4141a2fd78",
+      "file_size": 25862588,
+      "format": "ttf"
+    }
+  },
+  "fonts": [
+    {
+      "name": "I.MingVar",
+      "styles": [
+        {
+          "family_name": "I.MingVar",
+          "type": "Regular",
+          "full_name": "I.MingVar",
+          "post_script_name": "I.MingVar-Regular",
+          "version": "8.100; Apr 20, 2024",
+          "copyright": "Copyright © 2003-2024 I.Font Project; Information-technology Promotion Agency, Japan (IPA), 2011-2018. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "font": "I.MingVar-8.10.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font4/lihei_pro",
+  "name": "LiHei Pro",
+  "description": "LiHei Pro",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "(c) Copyright DynaComware Corp. 2003",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e356d69f743bebacaa057d187a1c3a53b991452e.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/e356d69f743bebacaa057d187a1c3a53b991452e.zip"
+      ],
+      "sha256": "d358e809e85086d821e79c1d2280beff62543dd89ccadfc31dabfa763c13fc4a",
+      "file_size": 4226439
+    }
+  },
+  "fonts": [
+    {
+      "name": "LiHei Pro",
+      "styles": [
+        {
+          "family_name": "LiHei Pro",
+          "type": "Medium",
+          "full_name": "LiHei Pro",
+          "post_script_name": "LiHeiPro",
+          "version": "13.0d1e2",
+          "copyright": "(c) Copyright DynaComware Corp. 2003",
+          "font": "LiHeiPro.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

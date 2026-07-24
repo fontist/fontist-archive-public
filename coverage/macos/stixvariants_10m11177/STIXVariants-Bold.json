@@ -1,0 +1,149 @@
+{
+  "slug": "macos/stixvariants_10m11177",
+  "redistributable": false,
+  "total_codepoints": 37,
+  "supported_blocks": 7,
+  "total_blocks": 7,
+  "planes": {
+    "bmp": true,
+    "smp": false,
+    "sip": false
+  },
+  "codepoints": [
+    32,
+    124,
+    160,
+    411,
+    8242,
+    8243,
+    8244,
+    8245,
+    8246,
+    8247,
+    8279,
+    8512,
+    8592,
+    8593,
+    8594,
+    8595,
+    8657,
+    8659,
+    8709,
+    8719,
+    8720,
+    8721,
+    8726,
+    8730,
+    8733,
+    8739,
+    8772,
+    8775,
+    8777,
+    8800,
+    8802,
+    8808,
+    8809,
+    8814,
+    8815,
+    8816,
+    8817
+  ],
+  "blocks": [
+    {
+      "name": "Arrows",
+      "range": "U+2190–U+21FF",
+      "start": 8592,
+      "end": 8703,
+      "codepoints": [
+        8592,
+        8593,
+        8594,
+        8595,
+        8657,
+        8659
+      ]
+    },
+    {
+      "name": "Basic_Latin",
+      "range": "U+0000–U+007F",
+      "start": 0,
+      "end": 127,
+      "codepoints": [
+        32,
+        124
+      ]
+    },
+    {
+      "name": "General_Punctuation",
+      "range": "U+2000–U+206F",
+      "start": 8192,
+      "end": 8303,
+      "codepoints": [
+        8242,
+        8243,
+        8244,
+        8245,
+        8246,
+        8247,
+        8279,
+        8293
+      ]
+    },
+    {
+      "name": "Latin-1_Supplement",
+      "range": "U+0080–U+00FF",
+      "start": 128,
+      "end": 255,
+      "codepoints": [
+        160
+      ]
+    },
+    {
+      "name": "Latin_Extended-B",
+      "range": "U+0180–U+024F",
+      "start": 384,
+      "end": 591,
+      "codepoints": [
+        411
+      ]
+    },
+    {
+      "name": "Letterlike_Symbols",
+      "range": "U+2100–U+214F",
+      "start": 8448,
+      "end": 8527,
+      "codepoints": [
+        8512
+      ]
+    },
+    {
+      "name": "Mathematical_Operators",
+      "range": "U+2200–U+22FF",
+      "start": 8704,
+      "end": 8959,
+      "codepoints": [
+        8709,
+        8719,
+        8720,
+        8721,
+        8726,
+        8730,
+        8733,
+        8739,
+        8772,
+        8775,
+        8777,
+        8800,
+        8802,
+        8808,
+        8809,
+        8814,
+        8815,
+        8816,
+        8817
+      ]
+    }
+  ],
+  "variable_axes": [],
+  "opentype_features": []
+}

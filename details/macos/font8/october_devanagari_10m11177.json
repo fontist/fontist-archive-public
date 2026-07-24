@@ -1,0 +1,149 @@
+{
+  "slug": "macos/font8/october_devanagari_10m11177",
+  "name": "October Devanagari",
+  "description": "October Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "54cbf8a9e85a5ceb07b47c401c380d0b9abaeee0.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/54cbf8a9e85a5ceb07b47c401c380d0b9abaeee0.zip"
+      ],
+      "sha256": "6afb5e2ceeefdea473169628fe93e92a8a7cc82d5c87c193de5b88d3dc3ca136",
+      "file_size": 944714
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "OctoberDevanagari.ttc",
+      "fonts": [
+        {
+          "name": "October Devanagari",
+          "styles": [
+            {
+              "family_name": "October Devanagari",
+              "type": "Bold",
+              "full_name": "October Devanagari Bold",
+              "post_script_name": "OctoberDL-Bold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            },
+            {
+              "family_name": "October Devanagari",
+              "type": "Regular",
+              "full_name": "October Devanagari Regular",
+              "post_script_name": "OctoberDL-Regular",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari Black",
+          "styles": [
+            {
+              "family_name": "October Devanagari Black",
+              "type": "Regular",
+              "full_name": "October Devanagari Black",
+              "post_script_name": "OctoberDL-Black",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari ExtraLight",
+          "styles": [
+            {
+              "family_name": "October Devanagari ExtraLight",
+              "type": "Regular",
+              "full_name": "October Devanagari ExtraLight",
+              "post_script_name": "OctoberDL-ExtraLight",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari Hairline",
+          "styles": [
+            {
+              "family_name": "October Devanagari Hairline",
+              "type": "Regular",
+              "full_name": "October Devanagari Hairline",
+              "post_script_name": "OctoberDL-Hairline",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari Heavy",
+          "styles": [
+            {
+              "family_name": "October Devanagari Heavy",
+              "type": "Regular",
+              "full_name": "October Devanagari Heavy",
+              "post_script_name": "OctoberDL-Heavy",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari Light",
+          "styles": [
+            {
+              "family_name": "October Devanagari Light",
+              "type": "Regular",
+              "full_name": "October Devanagari Light",
+              "post_script_name": "OctoberDL-Light",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari Medium",
+          "styles": [
+            {
+              "family_name": "October Devanagari Medium",
+              "type": "Regular",
+              "full_name": "October Devanagari Medium",
+              "post_script_name": "OctoberDL-Medium",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        },
+        {
+          "name": "October Devanagari Thin",
+          "styles": [
+            {
+              "family_name": "October Devanagari Thin",
+              "type": "Regular",
+              "full_name": "October Devanagari Thin",
+              "post_script_name": "OctoberDL-Thin",
+              "version": "15.0d1e5",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+              "description": "The Typotheque Font Software is protected under domestic and international trademark and copyright law."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

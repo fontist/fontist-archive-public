@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font6/baoli_sc",
+  "name": "Baoli SC",
+  "description": "Baoli SC",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c91371d5492434af5929487028bf10767406267c.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2019/ios/041-71823-20190919-727D8F22-D598-11E9-BBB9-A15472111DF7/com_apple_MobileAsset_Font6/c91371d5492434af5929487028bf10767406267c.zip"
+      ],
+      "sha256": "74d239c07aaf8cea0222fd943c099a5ea93fa949a893cf8f072845fd90ce137c",
+      "file_size": 25564562
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Baoli.ttc",
+      "fonts": [
+        {
+          "name": "Baoli SC",
+          "styles": [
+            {
+              "family_name": "Baoli SC",
+              "type": "Regular",
+              "full_name": "Baoli SC Regular",
+              "post_script_name": "STBaoliSC-Regular",
+              "version": "13.0d3e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Baoli TC",
+          "styles": [
+            {
+              "family_name": "Baoli TC",
+              "type": "Regular",
+              "full_name": "Baoli TC Regular",
+              "post_script_name": "STBaoliTC-Regular",
+              "version": "13.0d3e1",
+              "copyright": "© 2010-2015 Changzhou SinoType Technology Co., Ltd.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

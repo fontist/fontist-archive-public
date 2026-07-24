@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/impact_10m1044",
+  "name": "Impact",
+  "description": "Impact",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.microsoft.com/typography/fonts/ ",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "68d3d07af7ae5ab24f34efab1d72e25613ce8a98.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/68d3d07af7ae5ab24f34efab1d72e25613ce8a98.zip"
+      ],
+      "sha256": "5a59ab4d979cfd30a22461dc0085cc4f2dae22646cc5cabf633bfc8455dd0d82",
+      "file_size": 83379
+    }
+  },
+  "fonts": [
+    {
+      "name": "Impact",
+      "styles": [
+        {
+          "family_name": "Impact",
+          "type": "Regular",
+          "full_name": "Impact",
+          "post_script_name": "Impact",
+          "version": "5.00x",
+          "copyright": "© 2006 The Monotype Corporation. All Rights Reserved.",
+          "description": "You may use this font as permitted by the EULA for the product in which this font is included to display and print content.  You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content.",
+          "font": "Impact.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "macos/font3/gill_sans",
+  "name": "Gill Sans",
+  "description": "Gill Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Digitized data copyright The Monotype Corporation 1991-2001. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://www.fonts.com/legal/mi-eula.htm",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "66d864febe65ec4661ffeed1ab4b1d1145c2c612.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/031-72027-2016008009-EE8C6F20-5AAD-11E6-B6EF-CCD8464FE3CA/com_apple_MobileAsset_Font3/66d864febe65ec4661ffeed1ab4b1d1145c2c612.zip"
+      ],
+      "sha256": "dfcc5fe1f52808007816e985b076a758a4b4ce349097cac5572c623563b6b328",
+      "file_size": 572682
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "GillSans.ttc",
+      "fonts": [
+        {
+          "name": "Gill Sans",
+          "styles": [
+            {
+              "family_name": "Gill Sans",
+              "type": "Bold",
+              "full_name": "Gill Sans Bold",
+              "post_script_name": "GillSans-Bold",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright � 1991-2001 Agfa Monotype Corporation. All rights reserved. "
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "Bold Italic",
+              "full_name": "Gill Sans Bold Italic",
+              "post_script_name": "GillSans-BoldItalic",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright � 1991-2001 Agfa Monotype Corporation. All rights reserved. "
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "Italic",
+              "full_name": "Gill Sans Italic",
+              "post_script_name": "GillSans-Italic",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-2001. All rights reserved. "
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "Light",
+              "full_name": "Gill Sans Light",
+              "post_script_name": "GillSans-Light",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-2001. All rights reserved. "
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "Light Italic",
+              "full_name": "Gill Sans Light Italic",
+              "post_script_name": "GillSans-LightItalic",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-2001. All rights reserved. "
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "Regular",
+              "full_name": "Gill Sans",
+              "post_script_name": "GillSans",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright The Monotype Corporation 1991-2001. All rights reserved."
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "SemiBold",
+              "full_name": "Gill Sans SemiBold",
+              "post_script_name": "GillSans-SemiBold",
+              "version": "9.0d7e8",
+              "copyright": "Copyright  2012 The Monotype Corporation. All rights reserved. This font software may not be reproduced, modified, disclosed or transferred without the express written approval of The Monotype Corporation.",
+              "description": "NOTIFICATION OF LICENSE AGREEMENT\n\n \n\nYou have obtained this font software either directly from Monotype Imaging Inc., its affiliates or its licensees.\n\n \n\nYou acknowledge that the font software is protected by the copyright and other intellectual property law of the United States and its various States, by the copyright and design laws of other nations, and by international treaties. Your use of this font software is limited to the rights license rights granted to you in the Monotype Imaging End User License Agreement (EULA) agreed to by you at the time of purchase and you should retain a copy of such EULA for your future reference. You may not use, rent, lease, sublicense, give, lend, or distribute the font software, or any copy thereof, except as expressly provided by the EULA.\n\n \n\nThe current Monotype Imaging End User License Agreement can be viewed at http://www.fonts.com/legal/mi-eula.htm."
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "SemiBold Italic",
+              "full_name": "Gill Sans SemiBold Italic",
+              "post_script_name": "GillSans-SemiBoldItalic",
+              "version": "9.0d7e8",
+              "copyright": "Copyright  2012 The Monotype Corporation. All rights reserved. This font software may not be reproduced, modified, disclosed or transferred without the express written approval of The Monotype Corporation.",
+              "description": "NOTIFICATION OF LICENSE AGREEMENT\n\n \n\nYou have obtained this font software either directly from Monotype Imaging Inc., its affiliates or its licensees.\n\n \n\nYou acknowledge that the font software is protected by the copyright and other intellectual property law of the United States and its various States, by the copyright and design laws of other nations, and by international treaties. Your use of this font software is limited to the rights license rights granted to you in the Monotype Imaging End User License Agreement (EULA) agreed to by you at the time of purchase and you should retain a copy of such EULA for your future reference. You may not use, rent, lease, sublicense, give, lend, or distribute the font software, or any copy thereof, except as expressly provided by the EULA.\n\n \n\nThe current Monotype Imaging End User License Agreement can be viewed at http://www.fonts.com/legal/mi-eula.htm."
+            },
+            {
+              "family_name": "Gill Sans",
+              "type": "UltraBold",
+              "full_name": "Gill Sans UltraBold",
+              "post_script_name": "GillSans-UltraBold",
+              "version": "9.0d7e8",
+              "copyright": "Digitized data copyright � 1991-2001 Agfa Monotype Corporation. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

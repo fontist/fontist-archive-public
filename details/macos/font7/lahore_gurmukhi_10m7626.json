@@ -1,0 +1,92 @@
+{
+  "slug": "macos/font7/lahore_gurmukhi_10m7626",
+  "name": "Lahore Gurmukhi",
+  "description": "Lahore Gurmukhi",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2019 Apple Inc. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c24057a6b75265680a99845a448ae09c6c6a5cba.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/c24057a6b75265680a99845a448ae09c6c6a5cba.zip"
+      ],
+      "sha256": "bfb51dd59d0fd905095ce827dd59d474684a1887c051741995921836e9d74ee9",
+      "file_size": 63266
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "LahoreGurmukhi.ttc",
+      "fonts": [
+        {
+          "name": "Lahore Gurmukhi",
+          "styles": [
+            {
+              "family_name": "Lahore Gurmukhi",
+              "type": "Regular",
+              "full_name": "Lahore Gurmukhi Regular",
+              "post_script_name": "LahoreGurmukhi-Regular",
+              "version": "20.0d1e2",
+              "copyright": "© 2019 Apple Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Lahore Gurmukhi Bold",
+          "styles": [
+            {
+              "family_name": "Lahore Gurmukhi Bold",
+              "type": "Regular",
+              "full_name": "Lahore Gurmukhi Bold",
+              "post_script_name": "LahoreGurmukhi-Bold",
+              "version": "20.0d1e2",
+              "copyright": "© 2019 Apple Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Lahore Gurmukhi Light",
+          "styles": [
+            {
+              "family_name": "Lahore Gurmukhi Light",
+              "type": "Regular",
+              "full_name": "Lahore Gurmukhi Light",
+              "post_script_name": "LahoreGurmukhi-Light",
+              "version": "20.0d1e2",
+              "copyright": "© 2019 Apple Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Lahore Gurmukhi Medium",
+          "styles": [
+            {
+              "family_name": "Lahore Gurmukhi Medium",
+              "type": "Regular",
+              "full_name": "Lahore Gurmukhi Medium",
+              "post_script_name": "LahoreGurmukhi-Medium",
+              "version": "20.0d1e2",
+              "copyright": "© 2019 Apple Inc. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Lahore Gurmukhi SemiBold",
+          "styles": [
+            {
+              "family_name": "Lahore Gurmukhi SemiBold",
+              "type": "Regular",
+              "full_name": "Lahore Gurmukhi SemiBold",
+              "post_script_name": "LahoreGurmukhi-SemiBold",
+              "version": "20.0d1e2",
+              "copyright": "© 2019 Apple Inc. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "macos/font7/brill_10m4185",
+  "name": "Brill",
+  "description": "Brill",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2012–2020 by Koninklijke Brill NV. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://www.tiro.com/license",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ecb9b8095d0171f4694039338a2672721579daf3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/032-56898/EA465333-2C90-4CBF-B0E7-5CCE6C637321/com_apple_MobileAsset_Font7/ecb9b8095d0171f4694039338a2672721579daf3.zip"
+      ],
+      "sha256": "17bc31452d9a97cb78ca6cbb6287b41c1c48afe4be87e82240c9916800ac2aae",
+      "file_size": 1765576
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Brill.ttc",
+      "fonts": [
+        {
+          "name": "Brill",
+          "styles": [
+            {
+              "family_name": "Brill",
+              "type": "Bold",
+              "full_name": "Brill Bold",
+              "post_script_name": "Brill-Bold",
+              "version": "18.0d1e2",
+              "copyright": "Copyright (c) 2012–2020 by Koninklijke Brill NV. All rights reserved.",
+              "description": "REVIEW FONT ONLY. This font is provided to Apple Inc. for review and testing purposes only. No distribution, modification, or publication rights are licensed. Internal distribution of the font within Apple Inc. should be limited to those personnel responsible for aesthetic and technical review of the font."
+            },
+            {
+              "family_name": "Brill",
+              "type": "Bold Italic",
+              "full_name": "Brill Bold Italic",
+              "post_script_name": "Brill-BoldItalic",
+              "version": "18.0d1e2",
+              "copyright": "Copyright (c) 2012–2020 by Koninklijke Brill NV. All rights reserved.",
+              "description": "REVIEW FONT ONLY. This font is provided to Apple Inc. for review and testing purposes only. No distribution, modification, or publication rights are licensed. Internal distribution of the font within Apple Inc. should be limited to those personnel responsible for aesthetic and technical review of the font."
+            },
+            {
+              "family_name": "Brill",
+              "type": "Italic",
+              "full_name": "Brill Italic",
+              "post_script_name": "Brill-Italic",
+              "version": "18.0d1e2",
+              "copyright": "Copyright (c) 2012–2020 by Koninklijke Brill NV. All rights reserved.",
+              "description": "REVIEW FONT ONLY. This font is provided to Apple Inc. for review and testing purposes only. No distribution, modification, or publication rights are licensed. Internal distribution of the font within Apple Inc. should be limited to those personnel responsible for aesthetic and technical review of the font."
+            },
+            {
+              "family_name": "Brill",
+              "type": "Regular",
+              "full_name": "Brill Roman",
+              "post_script_name": "Brill-Roman",
+              "version": "18.0d1e2",
+              "copyright": "Copyright (c) 2012–2020 by Koninklijke Brill NV. All rights reserved.",
+              "description": "REVIEW FONT ONLY. This font is provided to Apple Inc. for review and testing purposes only. No distribution, modification, or publication rights are licensed. Internal distribution of the font within Apple Inc. should be limited to those personnel responsible for aesthetic and technical review of the font."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

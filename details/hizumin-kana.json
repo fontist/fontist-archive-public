@@ -1,0 +1,37 @@
+{
+  "slug": "hizumin-kana",
+  "name": "hizumin-kana",
+  "description": "hizumin-kana",
+  "homepage": "https://modi.jpn.org/",
+  "copyright": "MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "hizumin-kana.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_hizumin-kana_2017_0213.zip"
+      ],
+      "sha256": "5da2b798314f8accd37010c12984fe64edb47ce3cd32b312c53ad043b9bf428f",
+      "file_size": 148329
+    }
+  },
+  "fonts": [
+    {
+      "name": "hizumin-kana",
+      "styles": [
+        {
+          "family_name": "hizumin-kana",
+          "type": "Regular",
+          "full_name": "hizumin-kana",
+          "post_script_name": "hizumin-kana",
+          "version": "1.01",
+          "copyright": "MODI",
+          "font": "hizumin-kana.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

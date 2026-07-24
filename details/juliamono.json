@@ -1,0 +1,179 @@
+{
+  "slug": "juliamono",
+  "name": "JuliaMono",
+  "description": "JuliaMono",
+  "homepage": "https://github.com/cormullion/juliamono",
+  "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+  "spdx_license": "OFL-1.1-RFN",
+  "license_url": "https://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "JuliaMono-ttf.zip": {
+      "urls": [
+        "https://github.com/cormullion/juliamono/releases/download/v0.060/JuliaMono-ttf.zip"
+      ],
+      "sha256": "9bc3f393f014131f63fc12b7905dba27b239535c6536bb61c0bbe2f7b6d91197",
+      "file_size": 21224364
+    }
+  },
+  "fonts": [
+    {
+      "name": "JuliaMono",
+      "styles": [
+        {
+          "family_name": "JuliaMono",
+          "type": "Bold",
+          "full_name": "JuliaMono Bold",
+          "post_script_name": "JuliaMono-Bold",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-Bold.ttf"
+        },
+        {
+          "family_name": "JuliaMono",
+          "type": "Bold Italic",
+          "full_name": "JuliaMono BoldItalic",
+          "post_script_name": "JuliaMono-BoldItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-BoldItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono",
+          "type": "Italic",
+          "full_name": "JuliaMono RegularItalic",
+          "post_script_name": "JuliaMono-RegularItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-RegularItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono",
+          "type": "Regular",
+          "full_name": "JuliaMono Regular",
+          "post_script_name": "JuliaMono-Regular",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JuliaMono Black",
+      "styles": [
+        {
+          "family_name": "JuliaMono Black",
+          "type": "Italic",
+          "full_name": "JuliaMono BlackItalic",
+          "post_script_name": "JuliaMono-BlackItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-BlackItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono Black",
+          "type": "Regular",
+          "full_name": "JuliaMono Black",
+          "post_script_name": "JuliaMono-Black",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JuliaMono ExtraBold",
+      "styles": [
+        {
+          "family_name": "JuliaMono ExtraBold",
+          "type": "Italic",
+          "full_name": "JuliaMono ExtraBoldItalic",
+          "post_script_name": "JuliaMono-ExtraBoldItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono ExtraBold",
+          "type": "Regular",
+          "full_name": "JuliaMono ExtraBold",
+          "post_script_name": "JuliaMono-ExtraBold",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JuliaMono Light",
+      "styles": [
+        {
+          "family_name": "JuliaMono Light",
+          "type": "Italic",
+          "full_name": "JuliaMono LightItalic",
+          "post_script_name": "JuliaMono-LightItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-LightItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono Light",
+          "type": "Regular",
+          "full_name": "JuliaMono Light",
+          "post_script_name": "JuliaMono-Light",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JuliaMono Medium",
+      "styles": [
+        {
+          "family_name": "JuliaMono Medium",
+          "type": "Italic",
+          "full_name": "JuliaMono MediumItalic",
+          "post_script_name": "JuliaMono-MediumItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-MediumItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono Medium",
+          "type": "Regular",
+          "full_name": "JuliaMono Medium",
+          "post_script_name": "JuliaMono-Medium",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "JuliaMono SemiBold",
+      "styles": [
+        {
+          "family_name": "JuliaMono SemiBold",
+          "type": "Italic",
+          "full_name": "JuliaMono SemiBoldItalic",
+          "post_script_name": "JuliaMono-SemiBoldItalic",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2024 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "JuliaMono SemiBold",
+          "type": "Regular",
+          "full_name": "JuliaMono SemiBold",
+          "post_script_name": "JuliaMono-SemiBold",
+          "version": "0.060; ttfautohint (v1.8.4)",
+          "copyright": "Copyright 2020 - 2025 The JuliaMono Project Authors (https://github.com/cormullion/juliamono)",
+          "font": "JuliaMono-SemiBold.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

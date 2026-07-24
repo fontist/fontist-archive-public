@@ -1,0 +1,80 @@
+{
+  "slug": "macos/font7/canela_text_10m1044",
+  "name": "Canela Text",
+  "description": "Canela Text",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "778aa4945a82b78a763d4b8bf353454b43b5e5fb.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/778aa4945a82b78a763d4b8bf353454b43b5e5fb.zip"
+      ],
+      "sha256": "afd55ad438ee9b136dc862f4558243e17e07268ae2a451e991a28d34636da66c",
+      "file_size": 347436
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "CanelaText.ttc",
+      "fonts": [
+        {
+          "name": "Canela Text",
+          "styles": [
+            {
+              "family_name": "Canela Text",
+              "type": "Bold",
+              "full_name": "Canela Text Bold",
+              "post_script_name": "CanelaText-Bold",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Text",
+              "type": "Bold Italic",
+              "full_name": "Canela Text Bold Italic",
+              "post_script_name": "CanelaText-BoldItalic",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Text",
+              "type": "Italic",
+              "full_name": "Canela Text Regular Italic",
+              "post_script_name": "CanelaText-RegularItalic",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Text",
+              "type": "Medium",
+              "full_name": "Canela Text Medium",
+              "post_script_name": "CanelaText-Medium",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Text",
+              "type": "Medium Italic",
+              "full_name": "Canela Text Medium Italic",
+              "post_script_name": "CanelaText-MediumItalic",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Canela Text",
+              "type": "Regular",
+              "full_name": "Canela Text Regular",
+              "post_script_name": "CanelaText-Regular",
+              "version": "15.0d1e5",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

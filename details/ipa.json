@@ -1,0 +1,83 @@
+{
+  "slug": "ipa",
+  "name": "ipa",
+  "description": "IPA",
+  "homepage": "https://moji.or.jp/ipafont/ipa00303/",
+  "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2011. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+  "spdx_license": "IPA",
+  "license_url": "http://ipafont.ipa.go.jp/ipa_font_license_v1.html",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "IPA.zip": {
+      "urls": [
+        "https://moji.or.jp/wp-content/ipafont/IPAfont/IPAfont00303.zip"
+      ],
+      "sha256": "f755ed79a4b8e715bed2f05a189172138aedf93db0f465b4e20c344a02766fe5",
+      "file_size": 20088137
+    }
+  },
+  "fonts": [
+    {
+      "name": "IPAGothic",
+      "styles": [
+        {
+          "family_name": "IPAGothic",
+          "type": "Regular",
+          "full_name": "IPAGothic",
+          "post_script_name": "IPAGothic",
+          "version": "003.03",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2011. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "description": "ゴシック体",
+          "font": "ipag.ttf"
+        }
+      ]
+    },
+    {
+      "name": "IPAMincho",
+      "styles": [
+        {
+          "family_name": "IPAMincho",
+          "type": "Regular",
+          "full_name": "IPAMincho",
+          "post_script_name": "IPAMincho",
+          "version": "003.03",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2011. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "description": "明朝体",
+          "font": "ipam.ttf"
+        }
+      ]
+    },
+    {
+      "name": "IPAPGothic",
+      "styles": [
+        {
+          "family_name": "IPAPGothic",
+          "type": "Regular",
+          "full_name": "IPAPGothic",
+          "post_script_name": "IPAPGothic",
+          "version": "003.03",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2011. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "description": "ゴシック体",
+          "font": "ipagp.ttf"
+        }
+      ]
+    },
+    {
+      "name": "IPAPMincho",
+      "styles": [
+        {
+          "family_name": "IPAPMincho",
+          "type": "Regular",
+          "full_name": "IPAPMincho",
+          "post_script_name": "IPAPMincho",
+          "version": "003.03",
+          "copyright": "Copyright(c) Information-technology Promotion Agency, Japan (IPA), 2003-2011. You must accept \"http://ipafont.ipa.go.jp/ipa_font_license_v1.html\" to use this product.",
+          "description": "明朝体",
+          "font": "ipamp.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

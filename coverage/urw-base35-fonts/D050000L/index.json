@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-07-24T09:52:07Z",
+  "ucode_version": "0.3.3",
+  "font": {
+    "source_file": "/tmp/fa-20260724-2310-8unklv/extracted/archive/urw-base35-fonts-20200910/fonts/D050000L.ttf",
+    "source_sha256": "1fbc322b557d2519023a3ef9c4ff998f514b63f95c07352e059b35e605e7b02d",
+    "source_format": "ttf",
+    "font_index": 0,
+    "num_fonts_in_source": 1,
+    "family_name": "D050000L",
+    "subfamily_name": "Regular",
+    "full_name": "D050000L",
+    "postscript_name": "D050000L",
+    "version": "Version 2.00",
+    "font_revision": 2.0,
+    "weight_class": 400,
+    "width_class": 5,
+    "italic": null,
+    "bold": null,
+    "panose": "1 1 6 1 1 1 1 1 1 1",
+    "total_codepoints": 0,
+    "total_glyphs": 226,
+    "cmap_subtables": [
+      0,
+      4
+    ],
+    "codepoint_ranges": []
+  },
+  "baseline": {
+    "unicode_version": "17.0.0",
+    "ucode_version": "0.3.3",
+    "fontisan_version": "0.4.9",
+    "source": "ucode SQLite index (blocks + scripts tables)",
+    "generated_at": "2026-07-24T09:52:07Z"
+  },
+  "totals": {
+    "assigned_codepoints_total": 0,
+    "covered_codepoints_total": 0,
+    "blocks_touched": 0,
+    "blocks_complete": 0,
+    "blocks_partial": 0,
+    "scripts_touched": 0
+  },
+  "discrepancies": [
+    {
+      "kind": "os2_unicode_range_bit_without_cmap_codepoints",
+      "detail": "OS/2 ulUnicodeRange bit 60 claims U+E000–U+F8FF but cmap has 0 codepoints in that range",
+      "bit_position": 60
+    }
+  ],
+  "plane_summaries": [],
+  "block_summaries": [],
+  "script_summaries": []
+}

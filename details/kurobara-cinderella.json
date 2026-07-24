@@ -1,0 +1,37 @@
+{
+  "slug": "kurobara-cinderella",
+  "name": "kurobara-cinderella",
+  "description": "kurobara-cinderella",
+  "homepage": "http://modi.jpn.org/",
+  "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "https://modi.jpn.org/licence.php",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "kurobara-cinderella.zip": {
+      "urls": [
+        "https://modi.jpn.org/download/MODI_kurobara-cinderella_2018_0805.zip"
+      ],
+      "sha256": "f336d66be2f4084f4b35bca2cb37422b1bbf58d20864d79850f5c21668928254",
+      "file_size": 1554116
+    }
+  },
+  "fonts": [
+    {
+      "name": "kurobara-cinderella",
+      "styles": [
+        {
+          "family_name": "kurobara-cinderella",
+          "type": "Regular",
+          "full_name": "kurobara-cinderella",
+          "post_script_name": "kurobara-cinderella",
+          "version": "1.00.20180805",
+          "copyright": "Copyright(c) 2017 M+ FONTS PROJECT/MODI",
+          "font": "kurobara-cinderella.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

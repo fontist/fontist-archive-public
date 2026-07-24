@@ -1,0 +1,38 @@
+{
+  "slug": "macos/font7/nom_na_tong_10m7626",
+  "name": "Nom Na Tong",
+  "description": "Nom Na Tong",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "© 2011–2022 The Vietnamese Nom Preservation Foundation — Nom Na Group. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://opensource.org/licenses/MIT",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a5ad411c768410a55113a84594e9a5d74eff8271.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/a5ad411c768410a55113a84594e9a5d74eff8271.zip"
+      ],
+      "sha256": "bd20a4d56402fcba4b32a314faed9a31ff00bf50f23259a0a2a8cbce0fe25377",
+      "file_size": 8129110
+    }
+  },
+  "fonts": [
+    {
+      "name": "Nom Na Tong",
+      "styles": [
+        {
+          "family_name": "Nom Na Tong",
+          "type": "Regular",
+          "full_name": "Nom Na Tong",
+          "post_script_name": "NomNaTong-Regular",
+          "version": "20.0d2e2",
+          "copyright": "© 2011–2022 The Vietnamese Nom Preservation Foundation — Nom Na Group. All rights reserved.",
+          "description": "MIT License\r\n\r\n© 2011–2020 The Vietnamese Nom Preservation Foundation • Nom Na Group. All rights reserved.\r\n\r\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\r\n\r\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\r\n\r\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+          "font": "NomNaTong.otf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

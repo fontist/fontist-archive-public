@@ -1,0 +1,95 @@
+{
+  "slug": "macos/font7/publico_headline_10m1044",
+  "name": "Publico Headline",
+  "description": "Publico Headline",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3132f2b1488a9b3f249d98bb9676e9f0578df771.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/3132f2b1488a9b3f249d98bb9676e9f0578df771.zip"
+      ],
+      "sha256": "3cccf5f47bf67e48fc897f69e57db19f3e0a0f5b5d7888528b9d969a5ccd810f",
+      "file_size": 703120
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "PublicoHeadline.ttc",
+      "fonts": [
+        {
+          "name": "Publico Headline",
+          "styles": [
+            {
+              "family_name": "Publico Headline",
+              "type": "Italic",
+              "full_name": "Publico Headline Italic",
+              "post_script_name": "PublicoHeadline-Italic",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Publico Headline Black",
+          "styles": [
+            {
+              "family_name": "Publico Headline Black",
+              "type": "Italic",
+              "full_name": "Publico Headline Black Italic",
+              "post_script_name": "PublicoHeadline-BlackItalic",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            },
+            {
+              "family_name": "Publico Headline Black",
+              "type": "Regular",
+              "full_name": "Publico Headline Black",
+              "post_script_name": "PublicoHeadline-Black",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Publico Headline Bold",
+          "styles": [
+            {
+              "family_name": "Publico Headline Bold",
+              "type": "Italic",
+              "full_name": "PublicoHeadline-BoldItalic",
+              "post_script_name": "PublicoHeadline-BoldItalic",
+              "version": "15.0d1e6",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            },
+            {
+              "family_name": "Publico Headline Bold",
+              "type": "Regular",
+              "full_name": "PublicoHeadline-Bold",
+              "post_script_name": "PublicoHeadline-Bold",
+              "version": "15.0d1e6",
+              "copyright": "©2010 Paul Barnes and Christian Schwartz, under exclusive license to Schwartzco Inc./Commercial Type. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Publico Headline Roman",
+          "styles": [
+            {
+              "family_name": "Publico Headline Roman",
+              "type": "Regular",
+              "full_name": "Publico Headline Roman",
+              "post_script_name": "PublicoHeadline-Roman",
+              "version": "15.0d1e6",
+              "copyright": "Copyright (c) 2018 Commercial Type, Inc.. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

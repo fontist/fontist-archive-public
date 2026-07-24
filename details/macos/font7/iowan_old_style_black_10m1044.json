@@ -1,0 +1,61 @@
+{
+  "slug": "macos/font7/iowan_old_style_black_10m1044",
+  "name": "Iowan Old Style Black",
+  "description": "Iowan Old Style Black",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 1990-2005 Bitstream Inc.  All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "63ee18bc42df2cf16652e574232d9ee78952bd2b.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2022/mobileassets/071-94074/A35B26C1-991C-4C22-B709-5C253473EE88/com_apple_MobileAsset_Font7/63ee18bc42df2cf16652e574232d9ee78952bd2b.zip"
+      ],
+      "sha256": "54aaceca349784b6173d37b051156cbbe69196655e6de3df5103dab46eec25c3",
+      "file_size": 158480
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "IowanOldStyleComplement.ttc",
+      "fonts": [
+        {
+          "name": "Iowan Old Style",
+          "styles": [
+            {
+              "family_name": "Iowan Old Style",
+              "type": "Titling",
+              "full_name": "Iowan Old Style Titling",
+              "post_script_name": "IowanOldStyle-Titling",
+              "version": "14.0d1e1",
+              "copyright": "Copyright 1990-2005 Bitstream Inc.  All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "Iowan Old Style Black",
+          "styles": [
+            {
+              "family_name": "Iowan Old Style Black",
+              "type": "Italic",
+              "full_name": "Iowan Old Style Black Italic",
+              "post_script_name": "IowanOldStyle-BlackItalic",
+              "version": "14.0d1e1",
+              "copyright": "Copyright 1990-2005 Bitstream Inc.  All rights reserved."
+            },
+            {
+              "family_name": "Iowan Old Style Black",
+              "type": "Regular",
+              "full_name": "Iowan Old Style Black",
+              "post_script_name": "IowanOldStyle-Black",
+              "version": "14.0d1e1",
+              "copyright": "Copyright 1990-2005 Bitstream Inc.  All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

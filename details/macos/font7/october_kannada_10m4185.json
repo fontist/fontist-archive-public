@@ -1,0 +1,149 @@
+{
+  "slug": "macos/font7/october_kannada_10m4185",
+  "name": "October Kannada",
+  "description": "October Kannada",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "50c3a8d84c577fe1d9d119b20bb0825607bbd70b.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/032-56898/EA465333-2C90-4CBF-B0E7-5CCE6C637321/com_apple_MobileAsset_Font7/50c3a8d84c577fe1d9d119b20bb0825607bbd70b.zip"
+      ],
+      "sha256": "05c7af446dfa5178d51bd577d3164e3c95da3ae541aec5f12120abc6ec564536",
+      "file_size": 1567462
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "OctoberKannada.ttc",
+      "fonts": [
+        {
+          "name": "October Kannada",
+          "styles": [
+            {
+              "family_name": "October Kannada",
+              "type": "Bold",
+              "full_name": "October Kannada Bold",
+              "post_script_name": "OctoberKannada-Bold",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            },
+            {
+              "family_name": "October Kannada",
+              "type": "Regular",
+              "full_name": "October Kannada Regular",
+              "post_script_name": "OctoberKannada-Regular",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada Blk",
+          "styles": [
+            {
+              "family_name": "October Kannada Blk",
+              "type": "Regular",
+              "full_name": "October Kannada Black",
+              "post_script_name": "OctoberKannada-Black",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada ExLt",
+          "styles": [
+            {
+              "family_name": "October Kannada ExLt",
+              "type": "Regular",
+              "full_name": "October Kannada ExtraLight",
+              "post_script_name": "OctoberKannada-ExtraLight",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada Hair",
+          "styles": [
+            {
+              "family_name": "October Kannada Hair",
+              "type": "Regular",
+              "full_name": "October Kannada Hairline",
+              "post_script_name": "OctoberKannada-Hairline",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada Hea",
+          "styles": [
+            {
+              "family_name": "October Kannada Hea",
+              "type": "Regular",
+              "full_name": "October Kannada Heavy",
+              "post_script_name": "OctoberKannada-Heavy",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada Lt",
+          "styles": [
+            {
+              "family_name": "October Kannada Lt",
+              "type": "Regular",
+              "full_name": "October Kannada Light",
+              "post_script_name": "OctoberKannada-Light",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada Med",
+          "styles": [
+            {
+              "family_name": "October Kannada Med",
+              "type": "Regular",
+              "full_name": "October Kannada Medium",
+              "post_script_name": "OctoberKannada-Medium",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        },
+        {
+          "name": "October Kannada Thin",
+          "styles": [
+            {
+              "family_name": "October Kannada Thin",
+              "type": "Regular",
+              "full_name": "October Kannada Thin",
+              "post_script_name": "OctoberKannada-Thin",
+              "version": "18.0d1e2",
+              "copyright": "Copyright 2016-2022 Typotheque. All rights reserved.",
+              "description": "This is a commercial font protected under domestic and international trademark and copyright law. You have to buy a license from Typotheque.com to use it. You may not redistribute the font files to third parties or include them in software or websites without a written permission."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

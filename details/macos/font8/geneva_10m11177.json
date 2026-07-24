@@ -1,0 +1,36 @@
+{
+  "slug": "macos/font8/geneva_10m11177",
+  "name": "Geneva",
+  "description": "Geneva",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 1990-2016 Apple Inc. � 1990-98 Type Solutions Inc. � 1990-98 The Font Bureau Inc.  TrueType outline design of Geneva typeface created by Kris Holmes and Charles Bigelow.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "9168f954e1e649b286e38df276ffa220accab246.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/9168f954e1e649b286e38df276ffa220accab246.zip"
+      ],
+      "sha256": "669fe66d1ffb0f5648654bbb723ccd333cc437099fb33dca67ad1ca916344116",
+      "file_size": 232746
+    }
+  },
+  "fonts": [
+    {
+      "name": "Geneva",
+      "styles": [
+        {
+          "family_name": "Geneva",
+          "type": "Regular",
+          "full_name": "Geneva",
+          "post_script_name": "Geneva",
+          "version": "17.0d2e1",
+          "copyright": "� 1990-2016 Apple Inc. � 1990-98 Type Solutions Inc. � 1990-98 The Font Bureau Inc.  TrueType outline design of Geneva typeface created by Kris Holmes and Charles Bigelow.",
+          "font": "Geneva.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

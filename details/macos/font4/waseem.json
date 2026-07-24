@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font4/waseem",
+  "name": "Waseem",
+  "description": "Waseem",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "� 2002 Diwan Software Ltd. All rights reserved",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "73d29f152e12b402a6242ff2155dff2f608616c0.zip": {
+      "urls": [
+        "http://appldnld.apple.com/ios10.0/091-22087-20170808-7F6B7966-77BB-11E7-947A-C0EC484DD6D5/com_apple_MobileAsset_Font4/73d29f152e12b402a6242ff2155dff2f608616c0.zip"
+      ],
+      "sha256": "30ec28932fe99735aac05a02c78413cca07c64643734a29c8e02c6cdb7e0d691",
+      "file_size": 146686
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Waseem.ttc",
+      "fonts": [
+        {
+          "name": "Waseem",
+          "styles": [
+            {
+              "family_name": "Waseem",
+              "type": "Light",
+              "full_name": "Waseem Light",
+              "post_script_name": "WaseemLight",
+              "version": "13.0d1e2",
+              "copyright": "� 2002 Diwan Software Ltd. All rights reserved"
+            },
+            {
+              "family_name": "Waseem",
+              "type": "Regular",
+              "full_name": "Waseem Regular",
+              "post_script_name": "Waseem",
+              "version": "13.0d1e2",
+              "copyright": "� 2002 Diwan Software Ltd. All rights reserved"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

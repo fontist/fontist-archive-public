@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font7/tiro_bangla_10m7626",
+  "name": "Tiro Bangla",
+  "description": "Tiro Bangla",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2016, 2020 by Tiro Typeworks Ltd. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "a560b5e8f63af91685b27c087e9bb7df6a4a3902.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/a560b5e8f63af91685b27c087e9bb7df6a4a3902.zip"
+      ],
+      "sha256": "6fcfffb8785eac76638db0356d2ba0df442fb461a803ecfcabb59547f3284456",
+      "file_size": 301777
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "TiroBangla.ttc",
+      "fonts": [
+        {
+          "name": "Tiro Bangla",
+          "styles": [
+            {
+              "family_name": "Tiro Bangla",
+              "type": "Italic",
+              "full_name": "Tiro Bangla Italic",
+              "post_script_name": "TiroBangla-Italic",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2016, 2020 by Tiro Typeworks Ltd. All rights reserved."
+            },
+            {
+              "family_name": "Tiro Bangla",
+              "type": "Regular",
+              "full_name": "Tiro Bangla",
+              "post_script_name": "TiroBangla",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2016, 2020 by Tiro Typeworks Ltd. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

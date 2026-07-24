@@ -1,0 +1,117 @@
+{
+  "slug": "macos/font7/itf_devanagari_10m7626",
+  "name": "ITF Devanagari",
+  "description": "ITF Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "111b61a26253bf1b734a681defcd0faf269bac38.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/111b61a26253bf1b734a681defcd0faf269bac38.zip"
+      ],
+      "sha256": "174b29593a26ec50fb807eab76c0ee80fce7b5f763db5b2eb828e6f4791e1d3e",
+      "file_size": 521283
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "ITFDevanagari.ttc",
+      "fonts": [
+        {
+          "name": "ITF Devanagari",
+          "styles": [
+            {
+              "family_name": "ITF Devanagari",
+              "type": "Bold",
+              "full_name": "ITFDevanagari-Bold",
+              "post_script_name": "ITFDevanagari-Bold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari",
+              "type": "Book",
+              "full_name": "ITFDevanagari-Book",
+              "post_script_name": "ITFDevanagari-Book",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari",
+              "type": "Demi",
+              "full_name": "ITFDevanagari-Demi",
+              "post_script_name": "ITFDevanagari-Demi",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari",
+              "type": "Light",
+              "full_name": "ITFDevanagari-Light",
+              "post_script_name": "ITFDevanagari-Light",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari",
+              "type": "Medium",
+              "full_name": "ITFDevanagari-Medium",
+              "post_script_name": "ITFDevanagari-Medium",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "ITF Devanagari Marathi",
+          "styles": [
+            {
+              "family_name": "ITF Devanagari Marathi",
+              "type": "Bold",
+              "full_name": "ITFDevanagari Marathi-Bold",
+              "post_script_name": "ITFDevanagariMarathi-Bold",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari Marathi",
+              "type": "Book",
+              "full_name": "ITFDevanagari Marathi-Book",
+              "post_script_name": "ITFDevanagariMarathi-Book",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari Marathi",
+              "type": "Demi",
+              "full_name": "ITFDevanagari Marathi-Demi",
+              "post_script_name": "ITFDevanagariMarathi-Demi",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari Marathi",
+              "type": "Light",
+              "full_name": "ITFDevanagari Marathi Light",
+              "post_script_name": "ITFDevanagariMarathi-Light",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            },
+            {
+              "family_name": "ITF Devanagari Marathi",
+              "type": "Medium",
+              "full_name": "ITF Devanagari Marathi Medium",
+              "post_script_name": "ITFDevanagariMarathi-Medium",
+              "version": "20.0d1e2",
+              "copyright": "Copyright (c) 2011 by The Indian Type Foundry. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

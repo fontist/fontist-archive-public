@@ -1,0 +1,225 @@
+{
+  "slug": "work_sans",
+  "name": "Work Sans",
+  "description": "Work Sans",
+  "homepage": "http://wweeiihhuuaanngg@gmail.com",
+  "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+  "spdx_license": "OFL-1.1-no-RFN",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Work_Sans.zip": {
+      "urls": [
+        "https://github.com/weiweihuanghuang/Work-Sans/archive/v2.010.zip"
+      ],
+      "sha256": "44e05ffb17d97205ec85feb82edcb2f6f99ef0874074096cec0d64f1b5af1973",
+      "file_size": 115377538
+    }
+  },
+  "fonts": [
+    {
+      "name": "Work Sans",
+      "styles": [
+        {
+          "family_name": "Work Sans",
+          "type": "Bold",
+          "full_name": "Work Sans Bold",
+          "post_script_name": "WorkSans-Bold",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Bold.ttf"
+        },
+        {
+          "family_name": "Work Sans",
+          "type": "Bold Italic",
+          "full_name": "Work Sans Bold Italic",
+          "post_script_name": "WorkSans-BoldItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-BoldItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans",
+          "type": "Italic",
+          "full_name": "Work Sans Italic",
+          "post_script_name": "WorkSans-Italic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Italic.ttf"
+        },
+        {
+          "family_name": "Work Sans",
+          "type": "Regular",
+          "full_name": "Work Sans Regular",
+          "post_script_name": "WorkSans-Regular",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Regular.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans Black",
+      "styles": [
+        {
+          "family_name": "Work Sans Black",
+          "type": "Italic",
+          "full_name": "Work Sans Black Italic",
+          "post_script_name": "WorkSans-BlackItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-BlackItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans Black",
+          "type": "Regular",
+          "full_name": "Work Sans Black",
+          "post_script_name": "WorkSans-Black",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Black.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans ExtraBold",
+      "styles": [
+        {
+          "family_name": "Work Sans ExtraBold",
+          "type": "Italic",
+          "full_name": "Work Sans ExtraBold Italic",
+          "post_script_name": "WorkSans-ExtraBoldItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-ExtraBoldItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans ExtraBold",
+          "type": "Regular",
+          "full_name": "Work Sans ExtraBold",
+          "post_script_name": "WorkSans-ExtraBold",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-ExtraBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans ExtraLight",
+      "styles": [
+        {
+          "family_name": "Work Sans ExtraLight",
+          "type": "Italic",
+          "full_name": "Work Sans ExtraLight Italic",
+          "post_script_name": "WorkSans-ExtraLightItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-ExtraLightItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans ExtraLight",
+          "type": "Regular",
+          "full_name": "Work Sans ExtraLight",
+          "post_script_name": "WorkSans-ExtraLight",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans Light",
+      "styles": [
+        {
+          "family_name": "Work Sans Light",
+          "type": "Italic",
+          "full_name": "Work Sans Light Italic",
+          "post_script_name": "WorkSans-LightItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-LightItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans Light",
+          "type": "Regular",
+          "full_name": "Work Sans Light",
+          "post_script_name": "WorkSans-Light",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Light.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans Medium",
+      "styles": [
+        {
+          "family_name": "Work Sans Medium",
+          "type": "Italic",
+          "full_name": "Work Sans Medium Italic",
+          "post_script_name": "WorkSans-MediumItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-MediumItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans Medium",
+          "type": "Regular",
+          "full_name": "Work Sans Medium",
+          "post_script_name": "WorkSans-Medium",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Medium.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans SemiBold",
+      "styles": [
+        {
+          "family_name": "Work Sans SemiBold",
+          "type": "Italic",
+          "full_name": "Work Sans SemiBold Italic",
+          "post_script_name": "WorkSans-SemiBoldItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-SemiBoldItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans SemiBold",
+          "type": "Regular",
+          "full_name": "Work Sans SemiBold",
+          "post_script_name": "WorkSans-SemiBold",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-SemiBold.ttf"
+        }
+      ]
+    },
+    {
+      "name": "Work Sans Thin",
+      "styles": [
+        {
+          "family_name": "Work Sans Thin",
+          "type": "Italic",
+          "full_name": "Work Sans Thin Italic",
+          "post_script_name": "WorkSans-ThinItalic",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-ThinItalic.ttf"
+        },
+        {
+          "family_name": "Work Sans Thin",
+          "type": "Regular",
+          "full_name": "Work Sans Thin",
+          "post_script_name": "WorkSans-Thin",
+          "version": "2.010; ttfautohint (v1.8.3)",
+          "copyright": "Copyright 2019 The Work Sans Project Authors (https://github.com/weiweihuanghuang/Work-Sans)",
+          "font": "WorkSans-Thin.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

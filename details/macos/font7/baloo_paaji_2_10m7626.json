@@ -1,0 +1,93 @@
+{
+  "slug": "macos/font7/baloo_paaji_2_10m7626",
+  "name": "Baloo Paaji 2",
+  "description": "Baloo Paaji 2",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "http://scripts.sil.org/OFL",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "e327d387cc15b19ad4054d8a483408047a607091.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/e327d387cc15b19ad4054d8a483408047a607091.zip"
+      ],
+      "sha256": "b9f0f29fc7ed087ceb8f025f72b6e38ff9cb025976944e981b0cdf53bfb78ac7",
+      "file_size": 588719
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "BalooPaajiGurmukhi.ttc",
+      "fonts": [
+        {
+          "name": "Baloo Paaji 2",
+          "styles": [
+            {
+              "family_name": "Baloo Paaji 2",
+              "type": "Bold",
+              "full_name": "Baloo Paaji 2 Bold",
+              "post_script_name": "BalooPaaji2-Bold",
+              "version": "20.0d1e3 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            },
+            {
+              "family_name": "Baloo Paaji 2",
+              "type": "Regular",
+              "full_name": "Baloo Paaji 2 Regular",
+              "post_script_name": "BalooPaaji2-Regular",
+              "version": "20.0d1e3 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Baloo Paaji 2 ExtraBold",
+          "styles": [
+            {
+              "family_name": "Baloo Paaji 2 ExtraBold",
+              "type": "Regular",
+              "full_name": "Baloo Paaji 2 ExtraBold",
+              "post_script_name": "BalooPaaji2-ExtraBold",
+              "version": "20.0d1e3 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Baloo Paaji 2 Medium",
+          "styles": [
+            {
+              "family_name": "Baloo Paaji 2 Medium",
+              "type": "Regular",
+              "full_name": "Baloo Paaji 2 Medium",
+              "post_script_name": "BalooPaaji2-Medium",
+              "version": "20.0d1e3 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        },
+        {
+          "name": "Baloo Paaji 2 SemiBold",
+          "styles": [
+            {
+              "family_name": "Baloo Paaji 2 SemiBold",
+              "type": "Regular",
+              "full_name": "Baloo Paaji 2 SemiBold",
+              "post_script_name": "BalooPaaji2-SemiBold",
+              "version": "20.0d1e3 (1.640)",
+              "copyright": "Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)",
+              "description": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

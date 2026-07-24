@@ -1,0 +1,36 @@
+{
+  "slug": "mitimasu",
+  "name": "mitimasu",
+  "description": "Mitimasu",
+  "copyright": "MASUDA mitiya",
+  "spdx_license": "MIT",
+  "license_url": "http://www.masuseki.com/wp/?p=197",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "Mitimasu.zip": {
+      "urls": [
+        "http://www.masuseki.com/works/mitimasu.zip"
+      ],
+      "sha256": "27ed584743cc8418335aa4272b41b468645436e0f9c212677dbca9f44d4a2fa7",
+      "file_size": 3367690
+    }
+  },
+  "fonts": [
+    {
+      "name": "Mitimasu",
+      "styles": [
+        {
+          "family_name": "Mitimasu",
+          "type": "Regular",
+          "full_name": "Mitimasu",
+          "post_script_name": "Mitimasu",
+          "version": "2.00",
+          "copyright": "MASUDA mitiya",
+          "font": "mitimasu.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "dejavu",
+  "name": "DejaVu",
+  "description": "The DejaVu fonts are a font family based on the Bitstream Vera Fonts. Its purpose is to provide a wider range of characters while maintaining the original look and feel.",
+  "homepage": "http://dejavu.sourceforge.net",
+  "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+  "spdx_license": "Bitstream-Vera",
+  "license_url": "http://dejavu.sourceforge.net/wiki/index.php/License",
+  "redistributable": true,
+  "source_format": "zip",
+  "resources": {
+    "DejaVu.zip": {
+      "urls": [
+        "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip"
+      ],
+      "sha256": "7576310b219e04159d35ff61dd4a4ec4cdba4f35c00e002a136f00e96a908b0a",
+      "file_size": 5522795
+    }
+  },
+  "fonts": [
+    {
+      "name": "DejaVu Math TeX Gyre",
+      "styles": [
+        {
+          "family_name": "DejaVu Math TeX Gyre",
+          "type": "Regular",
+          "full_name": "DejaVuMathTeXGyre-Regular",
+          "post_script_name": "DejaVuMathTeXGyre-Regular",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved. DejaVu changes are in public domain, math extensions are in public domain.",
+          "font": "DejaVuMathTeXGyre.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DejaVu Sans",
+      "styles": [
+        {
+          "family_name": "DejaVu Sans",
+          "type": "Bold",
+          "full_name": "DejaVu Sans Bold",
+          "post_script_name": "DejaVuSans-Bold",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSans-Bold.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans",
+          "type": "Bold Oblique",
+          "full_name": "DejaVu Sans Bold Oblique",
+          "post_script_name": "DejaVuSans-BoldOblique",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSans-BoldOblique.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans",
+          "type": "Book",
+          "full_name": "DejaVu Sans",
+          "post_script_name": "DejaVuSans",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSans.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans",
+          "type": "Oblique",
+          "full_name": "DejaVu Sans Oblique",
+          "post_script_name": "DejaVuSans-Oblique",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSans-Oblique.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DejaVu Sans Condensed",
+      "styles": [
+        {
+          "family_name": "DejaVu Sans Condensed",
+          "type": "Bold",
+          "full_name": "DejaVu Sans Condensed Bold",
+          "post_script_name": "DejaVuSansCondensed-Bold",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansCondensed-Bold.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans Condensed",
+          "type": "Bold Oblique",
+          "full_name": "DejaVu Sans Condensed Bold Oblique",
+          "post_script_name": "DejaVuSansCondensed-BoldOblique",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansCondensed-BoldOblique.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans Condensed",
+          "type": "Book",
+          "full_name": "DejaVu Sans Condensed",
+          "post_script_name": "DejaVuSansCondensed",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansCondensed.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans Condensed",
+          "type": "Oblique",
+          "full_name": "DejaVu Sans Condensed Oblique",
+          "post_script_name": "DejaVuSansCondensed-Oblique",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansCondensed-Oblique.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DejaVu Sans Light",
+      "styles": [
+        {
+          "family_name": "DejaVu Sans Light",
+          "type": "ExtraLight",
+          "full_name": "DejaVu Sans ExtraLight",
+          "post_script_name": "DejaVuSans-ExtraLight",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSans-ExtraLight.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DejaVu Sans Mono",
+      "styles": [
+        {
+          "family_name": "DejaVu Sans Mono",
+          "type": "Bold",
+          "full_name": "DejaVu Sans Mono Bold",
+          "post_script_name": "DejaVuSansMono-Bold",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansMono-Bold.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans Mono",
+          "type": "Bold Oblique",
+          "full_name": "DejaVu Sans Mono Bold Oblique",
+          "post_script_name": "DejaVuSansMono-BoldOblique",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansMono-BoldOblique.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans Mono",
+          "type": "Book",
+          "full_name": "DejaVu Sans Mono",
+          "post_script_name": "DejaVuSansMono",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansMono.ttf"
+        },
+        {
+          "family_name": "DejaVu Sans Mono",
+          "type": "Oblique",
+          "full_name": "DejaVu Sans Mono Oblique",
+          "post_script_name": "DejaVuSansMono-Oblique",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSansMono-Oblique.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DejaVu Serif",
+      "styles": [
+        {
+          "family_name": "DejaVu Serif",
+          "type": "Bold",
+          "full_name": "DejaVu Serif Bold",
+          "post_script_name": "DejaVuSerif-Bold",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerif-Bold.ttf"
+        },
+        {
+          "family_name": "DejaVu Serif",
+          "type": "Bold Italic",
+          "full_name": "DejaVu Serif Bold Italic",
+          "post_script_name": "DejaVuSerif-BoldItalic",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerif-BoldItalic.ttf"
+        },
+        {
+          "family_name": "DejaVu Serif",
+          "type": "Book",
+          "full_name": "DejaVu Serif",
+          "post_script_name": "DejaVuSerif",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerif.ttf"
+        },
+        {
+          "family_name": "DejaVu Serif",
+          "type": "Italic",
+          "full_name": "DejaVu Serif Italic",
+          "post_script_name": "DejaVuSerif-Italic",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerif-Italic.ttf"
+        }
+      ]
+    },
+    {
+      "name": "DejaVu Serif Condensed",
+      "styles": [
+        {
+          "family_name": "DejaVu Serif Condensed",
+          "type": "Bold",
+          "full_name": "DejaVu Serif Condensed Bold",
+          "post_script_name": "DejaVuSerifCondensed-Bold",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerifCondensed-Bold.ttf"
+        },
+        {
+          "family_name": "DejaVu Serif Condensed",
+          "type": "Bold Italic",
+          "full_name": "DejaVu Serif Condensed Bold Italic",
+          "post_script_name": "DejaVuSerifCondensed-BoldItalic",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerifCondensed-BoldItalic.ttf"
+        },
+        {
+          "family_name": "DejaVu Serif Condensed",
+          "type": "Book",
+          "full_name": "DejaVu Serif Condensed",
+          "post_script_name": "DejaVuSerifCondensed",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerifCondensed.ttf"
+        },
+        {
+          "family_name": "DejaVu Serif Condensed",
+          "type": "Italic",
+          "full_name": "DejaVu Serif Condensed Italic",
+          "post_script_name": "DejaVuSerifCondensed-Italic",
+          "version": "2.37",
+          "copyright": "Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.",
+          "font": "DejaVuSerifCondensed-Italic.ttf"
+        }
+      ]
+    }
+  ],
+  "font_collections": []
+}

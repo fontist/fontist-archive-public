@@ -1,0 +1,40 @@
+{
+  "slug": "macos/font7/hiragino_sans_10m7626",
+  "name": "Hiragino Sans",
+  "description": "Hiragino Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver8.31, Copyright (c) 1993-2020 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "ca24d5f818dfcc764d183fac8c6a557238eb16a9.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2024/mobileassets/062-14283/992898D8-65BC-436B-B9F9-EB2D576A24BC/com_apple_MobileAsset_Font7/ca24d5f818dfcc764d183fac8c6a557238eb16a9.zip"
+      ],
+      "sha256": "19f93bcdffd7d7d34be9b3ffaa1b424f58c7ae6f0b10be669b654ed47d041100",
+      "file_size": 2705160
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "HiraginoSans-W9.ttc",
+      "fonts": [
+        {
+          "name": "Hiragino Sans W9",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans W9",
+              "type": "Regular",
+              "full_name": "Hiragino Sans W9",
+              "post_script_name": "HiraginoSans-W9",
+              "version": "20.0d1e1",
+              "copyright": "ver8.31, Copyright (c) 1993-2020 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

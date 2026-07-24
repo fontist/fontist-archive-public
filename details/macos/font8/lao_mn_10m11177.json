@@ -1,0 +1,48 @@
+{
+  "slug": "macos/font8/lao_mn_10m11177",
+  "name": "Lao MN",
+  "description": "Lao MN",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "3b682eee0a86dd0f809019e14ab23048643eb4a3.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2025/mobileassets/072-04650/9FABB3FE-D4A6-4563-8CCE-20B5E692A0C9/com_apple_MobileAsset_Font8/3b682eee0a86dd0f809019e14ab23048643eb4a3.zip"
+      ],
+      "sha256": "a6e8bd9462bcd7412cce233568d2f2dcc917f90037b24b865cac10b5b91fe69b",
+      "file_size": 49168
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "Lao-MN.ttc",
+      "fonts": [
+        {
+          "name": "Lao MN",
+          "styles": [
+            {
+              "family_name": "Lao MN",
+              "type": "Bold",
+              "full_name": "Lao MN Bold",
+              "post_script_name": "LaoMN-Bold",
+              "version": "14.0d1e9",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            },
+            {
+              "family_name": "Lao MN",
+              "type": "Regular",
+              "full_name": "Lao MN",
+              "post_script_name": "LaoMN",
+              "version": "14.0d1e9",
+              "copyright": "Copyright (c) 2003 by Murasu Systems Sdn. Bhd. Malaysia. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

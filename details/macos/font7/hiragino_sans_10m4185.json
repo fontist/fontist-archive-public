@@ -1,0 +1,53 @@
+{
+  "slug": "macos/font7/hiragino_sans_10m4185",
+  "name": "Hiragino Sans",
+  "description": "Hiragino Sans",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "ver8.26, Copyright (c) 1993-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "c74c8835d3a2ce5622def682c4228a4d6a7695b0.zip": {
+      "urls": [
+        "https://updates.cdn-apple.com/2023/mobileassets/032-56898/EA465333-2C90-4CBF-B0E7-5CCE6C637321/com_apple_MobileAsset_Font7/c74c8835d3a2ce5622def682c4228a4d6a7695b0.zip"
+      ],
+      "sha256": "a13526ed9ec36663f9a7abb2b71619549dfb049b591cf730ab539c3008b2758a",
+      "file_size": 5606661
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "HiraginoSans-W2.ttc",
+      "fonts": [
+        {
+          "name": ".Hiragino Kaku Gothic Interface",
+          "styles": [
+            {
+              "family_name": ".Hiragino Kaku Gothic Interface",
+              "type": "W2",
+              "full_name": ".Hiragino Kaku Gothic Interface W2",
+              "post_script_name": ".HiraKakuInterface-W2",
+              "version": "19.0d2e1",
+              "copyright": "ver8.20, Copyright (c) 1993-2015 SCREEN Graphic and Precision Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        },
+        {
+          "name": "Hiragino Sans W2",
+          "styles": [
+            {
+              "family_name": "Hiragino Sans W2",
+              "type": "Regular",
+              "full_name": "Hiragino Sans W2",
+              "post_script_name": "HiraginoSans-W2",
+              "version": "19.0d2e1",
+              "copyright": "ver8.26, Copyright (c) 1993-2019 SCREEN Graphic Solutions Co., Ltd. All Rights Reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

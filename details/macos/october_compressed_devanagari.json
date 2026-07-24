@@ -1,0 +1,140 @@
+{
+  "slug": "macos/october_compressed_devanagari",
+  "name": "october_compressed_devanagari",
+  "description": "October Compressed Devanagari",
+  "homepage": "https://support.apple.com/en-om/HT211240#document",
+  "copyright": "Copyright 2019 Typotheque. All rights reserved.",
+  "spdx_license": "LicenseRef-Apple-EA1705",
+  "license_url": "https://typotheque.com/licensing/eula",
+  "redistributable": false,
+  "source_format": "zip",
+  "resources": {
+    "October_Compressed_Devanagari.zip": {
+      "urls": [
+        "http://updates-http.cdn-apple.com/2020/mobileassets/001-26051/B1CF7C35-D704-4F2D-82D1-DCE47CD14C5C/com_apple_MobileAsset_Font6/1e324461664e65a257b5f9531a90197e963d42ff.zip"
+      ],
+      "sha256": "e70cc656d24fc923fbe7e13cd7180665fc5eff251d4277a68591684233e76506",
+      "file_size": 921751
+    }
+  },
+  "fonts": [],
+  "font_collections": [
+    {
+      "filename": "OctoberCompressedDevanagari.ttc",
+      "fonts": [
+        {
+          "name": "October Compressed Devanagari",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari",
+              "type": "Bold",
+              "full_name": "October Compressed Devanagari Bold",
+              "post_script_name": "OctoberCompressedDL-Bold",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            },
+            {
+              "family_name": "October Compressed Devanagari",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Regular",
+              "post_script_name": "OctoberCompressedDL-Regular",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari Black",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari Black",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Black",
+              "post_script_name": "OctoberCompressedDL-Black",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari ExtraLight",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari ExtraLight",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari ExtraLight",
+              "post_script_name": "OctoberCompressedDL-ExtraLight",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari Hairline",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari Hairline",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Hairline",
+              "post_script_name": "OctoberCompressedDL-Hairline",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari Heavy",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari Heavy",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Heavy",
+              "post_script_name": "OctoberCompressedDL-Heavy",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari Light",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari Light",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Light",
+              "post_script_name": "OctoberCompressedDL-Light",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari Medium",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari Medium",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Medium",
+              "post_script_name": "OctoberCompressedDL-Medium",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        },
+        {
+          "name": "October Compressed Devanagari Thin",
+          "styles": [
+            {
+              "family_name": "October Compressed Devanagari Thin",
+              "type": "Regular",
+              "full_name": "October Compressed Devanagari Thin",
+              "post_script_name": "OctoberCompressedDL-Thin",
+              "version": "15.0d1e4",
+              "copyright": "Copyright 2019 Typotheque. All rights reserved."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
